@@ -1,47 +1,12 @@
 [
   {
-    "name": "Hacker News",
-    "url": "https://hnrss.org/frontpage",
-    "category": "科技"
-  },
-  {
-    "name": "36氪",
-    "url": "https://36kr.com/feed",
-    "category": "科技"
-  },
-  {
-    "name": "机器之心",
-    "url": "https://www.jiqizhixin.com/rss",
-    "category": "AI"
-  },
-  {
     "name": "AI News",
     "url": "https://www.artificialintelligence-news.com/feed/",
     "category": "AI"
   },
   {
-    "name": "BBC中文",
-    "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
-    "category": "综合"
-  },
-  {
-    "name": "阮一峰",
-    "url": "https://www.ruanyifeng.com/blog/atom.xml",
-    "category": "开发"
-  },
-  {
-    "name": "V2EX",
-    "url": "https://www.v2ex.com/index.xml",
-    "category": "开发"
-  },
-  {
     "name": "TechCrunch",
     "url": "https://techcrunch.com/feed/",
-    "category": "科技"
-  },
-  {
-    "name": "The Verge",
-    "url": "https://www.theverge.com/rss/index.xml",
     "category": "科技"
   },
   {
@@ -50,9 +15,14 @@
     "category": "科技"
   },
   {
-    "name": "澎湃新闻",
-    "url": "https://feedx.net/rss/thepaper.xml",
-    "category": "综合"
+    "name": "中新网教育",
+    "url": "https://www.chinanews.com.cn/rss/edu.xml",
+    "category": "就业"
+  },
+  {
+    "name": "中新网滚动",
+    "url": "https://www.chinanews.com.cn/rss/scroll-news.xml",
+    "category": "政策"
   },
   {
     "name": "InfoQ中文",
@@ -60,13 +30,18 @@
     "category": "开发"
   },
   {
-    "name": "开源中国",
-    "url": "https://www.oschina.net/action/rss",
+    "name": "博客园",
+    "url": "https://www.cnblogs.com/rss",
     "category": "开发"
   },
   {
-    "name": "第一财经",
-    "url": "https://rsshub.app/yicai/news",
-    "category": "财经"
+    "name": "阮一峰",
+    "url": "https://www.ruanyifeng.com/blog/atom.xml",
+    "category": "开发"
+  },
+  {
+    "name": "BBC中文",
+    "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
+    "category": "综合"
   }
 ]

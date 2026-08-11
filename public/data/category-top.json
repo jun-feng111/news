@@ -1,7 +1,340 @@
 {
-  "AI": [],
-  "科技": [],
-  "财经": [],
-  "综合": [],
-  "开发": []
+  "AI": [
+    {
+      "id": "ee092482a3ff",
+      "title": "发现材料玩打地地洞游戏以寻找更凉爽的芯片",
+      "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+      "content": "",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-10T12:00:00.000Z",
+      "fetched": "2026-08-11T09:32:36.354Z",
+      "summary": "研究人员发现了一种材料，可以 playing AI whack-a-mole的游戏来的目标是寻找更凉爽的芯片。",
+      "score": 801,
+      "tags": []
+    },
+    {
+      "id": "203504a11775",
+      "title": "Meta 推出重塑挣扎中的AI 语言模型",
+      "url": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
+      "content": "",
+      "source": "Ars Technica",
+      "category": "AI",
+      "published": "2026-08-10T22:13:03.000Z",
+      "fetched": "2026-08-11T09:32:37.672Z",
+      "summary": "Meta 正在推出一项新的 AI 语言模型，以重塑其在 AI 领域的布局地位。",
+      "score": 705,
+      "tags": []
+    },
+    {
+      "id": "48cf888df404",
+      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+      "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+      "content": "",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-10T23:56:15.000Z",
+      "fetched": "2026-08-11T09:32:36.353Z",
+      "summary": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+      "score": 80,
+      "tags": []
+    },
+    {
+      "id": "b5e0104f574c",
+      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+      "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+      "content": "",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-11T00:03:18.000Z",
+      "fetched": "2026-08-11T09:32:36.353Z",
+      "summary": "OpenAI reportedly completed a $7 billion employee tender offer",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "9f4258eff4d0",
+      "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+      "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+      "content": "",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-10T20:04:24.000Z",
+      "fetched": "2026-08-11T09:32:36.353Z",
+      "summary": "Tech industry is buzzing after a Claude agent hacked into a gym",
+      "score": 70,
+      "tags": []
+    }
+  ],
+  "开发": [
+    {
+      "id": "6164dec98144",
+      "title": "斯巴达人出类拔萃：出色的内饰与精致的驾乘体验，有争议的外观设计",
+      "url": "https://arstechnica.com/cars/2026/08/2026-subaru-outback-limited-review-boxy-outside-almost-premium-inside/",
+      "content": "",
+      "source": "Ars Technica",
+      "category": "开发",
+      "published": "2026-08-10T14:49:21.000Z",
+      "fetched": "2026-08-11T09:32:37.672Z",
+      "summary": "斯6-ub斯 kukuk6 Subaru车型表现出色色出色的内饰与精致的驾乘体验，但外观设计却引起了一些争议。",
+      "score": 85,
+      "tags": [
+        "汽车",
+        ", "
+      ]
+    },
+    {
+      "id": "92f40b79e3f8",
+      "title": "Aptoide becomes the first rival app store to return to Google Play in the US",
+      "url": "https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/",
+      "content": "",
+      "source": "TechCrunch",
+      "category": "开发",
+      "published": "2026-08-10T18:31:54.000Z",
+      "fetched": "2026-08-11T09:32:36.353Z",
+      "summary": "sptoats 成为了美国地区Google的竞争对手，",
+      "score": 78,
+      "tags": [
+        "sptoats",
+        ", Android地区"
+      ]
+    },
+    {
+      "id": "559fae196559",
+      "title": "扎克克克克克 kuk Zuckerberg详述AI理念为何人们担忧AI",
+      "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+      "content": "",
+      "source": "TechCrunch",
+      "category": "开发",
+      "published": "2026-08-10T20:53:02.000Z",
+      "fetched": "2026-08-11T09:32:36.353Z",
+      "summary": "扎克gles Zuckerberg在一篇文章中详细阐述了他的AI理念，但文章中提到了人们对于AI的担忧。",
+      "score": 70,
+      "tags": [
+        "AI",
+        "扎s克克 Zuckerberg"
+      ]
+    },
+    {
+      "id": "4100cae384df",
+      "title": "Social media platforms still facing thousands of user addiction lawsuits after failed appeals",
+      "url": "https://techcrunch.com/2026/08/10/social-media-platforms-still-facing-thousands-of-user-addiction-lawsuits-after-failed-appeals/",
+      "content": "",
+      "source": "TechCrunch",
+      "category": "开发",
+      "published": "2026-08-10T18:30:33.000Z",
+      "fetched": "2026-08-11T09:32:36.353Z",
+      "summary": "社交媒体平台面临数千起成瘾诉讼，失败上诉。",
+      "score": 70,
+      "tags": [
+        "社交媒体",
+        ",成瘾诉讼"
+      ]
+    },
+    {
+      "id": "604117c8d4e6",
+      "title": "Clickclicks键盘将BlackBerry打字体验带到任何手机但需妥协",
+      "url": "https://techcrunch.com/2026/08/10/clicks-power-keyboard-brings-blackberry-style-typing-to-any-phone-with-some-compromises/",
+      "content": "",
+      "source": "TechCrunch",
+      "category": "开发",
+      "published": "2026-08-10T18:00:39.000Z",
+      "fetched": "2026-08-11T09:32:36.354Z",
+      "summary": "Clickclicks键盘将将BlackBerry的打字体验带到任何手机，，",
+      "score": 70,
+      "tags": [
+        "BlackBerry",
+        "键盘"
+      ]
+    }
+  ],
+  "科技": [
+    {
+      "id": "cb35a4edee6d",
+      "title": "Now Rippling is counter-suing tiny startup Runlayer",
+      "url": "https://techcrunch.com/2026/08/10/now-rippling-is-counter-suing-tiny-startup-runlayer/",
+      "content": "",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-10T22:26:54.000Z",
+      "fetched": "2026-08-11T09:32:36.353Z",
+      "summary": "Now Rippling is counter-suing tiny startup Runlayer",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "b16a9d72067a",
+      "title": "Sila lands $1.4B Pentagon loan as militaries demand more batteries",
+      "url": "https://techcrunch.com/2026/08/10/sila-lands-1-4b-pentagon-loan-as-militaries-demand-more-batteries/",
+      "content": "",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-10T15:22:42.000Z",
+      "fetched": "2026-08-11T09:32:36.354Z",
+      "summary": "Sila lands $1。4B Pentagon loan as militaries demand more batteries",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "d2a64df2821e",
+      "title": "Google Play adds Venmo as a payment option",
+      "url": "https://techcrunch.com/2026/08/10/google-play-adds-venmo-as-a-payment-option/",
+      "content": "",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-10T12:00:00.000Z",
+      "fetched": "2026-08-11T09:32:36.354Z",
+      "summary": "Google Play adds Venmo as a payment option",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "efdc8660f9f3",
+      "title": "Ars Live: Ross Scott discusses the Stop Killing Games movement",
+      "url": "https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/",
+      "content": "",
+      "source": "Ars Technica",
+      "category": "科技",
+      "published": "2026-08-10T22:23:43.000Z",
+      "fetched": "2026-08-11T09:32:37.672Z",
+      "summary": "Ars Live: Ross Scott discusses the Stop Killing Games movement",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "8981724d988a",
+      "title": "Has Ford got cheap car fever? A $25K crossover is supposedly on the way.",
+      "url": "https://arstechnica.com/cars/2026/08/has-ford-got-cheap-car-fever-allegedly-a-25k-crossover-is-on-the-way/",
+      "content": "",
+      "source": "Ars Technica",
+      "category": "科技",
+      "published": "2026-08-10T17:07:47.000Z",
+      "fetched": "2026-08-11T09:32:37.672Z",
+      "summary": "Has Ford got cheap car fever。 A $25K crossover is supposedly on the way",
+      "score": 70,
+      "tags": []
+    }
+  ],
+  "综合": [
+    {
+      "id": "562905a5974e",
+      "title": "特朗普签署法案，禁止购买新冠疫苗并并支持那些不存在的疫苗",
+      "url": "https://arstechnica.com/health/2026/08/trump-signs-bonkers-order-that-cuts-vaccines-promotes-ones-that-dont-exist/",
+      "content": "",
+      "source": "Ars Technica",
+      "category": "综合",
+      "published": "2026-08-10T21:42:56.000Z",
+      "fetched": "2026-08-11T09:32:37.672Z",
+      "summary": "特朗普签署了一项法案，禁止购买新冠疫苗，并，并支持支持持那些不存在的疫苗",
+      "score": 70,
+      "tags": [
+        "特朗普",
+        "新冠疫苗"
+      ]
+    }
+  ],
+  "就业": [
+    {
+      "id": "e03a0c310eb6",
+      "title": "天工开物·“园”来如此丨聚链东丽园 空天新动能",
+      "url": "https://www.chinanews.com.cn/edu/2026/08-11/10675595.shtml",
+      "content": "2024年7月，中国民航大学(东丽校区)、中国民航大学科技园及其周边区域被纳入天开高教科创园“一核两翼多点”空间发展布局。依托区域产业基础、科创资源和区位优势，两年来，一批聚焦商业航天、低空经济领域的科创企业在这里拔节生长。",
+      "source": "中新网教育",
+      "category": "就业",
+      "published": "2026-08-11T03:00:51.000Z",
+      "fetched": "2026-08-11T09:32:38.572Z"
+    },
+    {
+      "id": "53f80c30a054",
+      "title": "这些没有标准答案的“神仙课程”教大学生成长",
+      "url": "https://www.chinanews.com.cn/edu/2026/08-10/10675199.shtml",
+      "content": "“这门课抢课难度堪比热门演唱会门票！”选课通道开启瞬间，上海大学工业工程专业学生张馨月掐着秒表操作，才好不容易抢到“爱情社会学”的选课名额。这门由上海大学社会学院副教授刘春燕主讲的课程已开设10年，每学期首轮选课便迅速报满，经常有旁听的学生。",
+      "source": "中新网教育",
+      "category": "就业",
+      "published": "2026-08-10T07:36:24.000Z",
+      "fetched": "2026-08-11T09:32:38.572Z"
+    },
+    {
+      "id": "ae4246d2b658",
+      "title": "东北大学获得RMUC2026全国总冠军 赛事11年累计培养近20万青年工程师",
+      "url": "https://www.chinanews.com.cn/edu/2026/08-10/10675101.shtml",
+      "content": "中新网深圳8月10日电 (王严)9日，RoboMaster2026机甲大师超级对抗赛·全国总决赛(RMUC2026)在深圳圆满收官。来自全国各地的44支高校战队带着自主研发的机器人集群同场竞技，经过数日的激烈角逐，东北大学TDT战队最终获得全国总冠军；华南农业大学Taurus战队、华东理工大学起源战队、同济大学SuperPower战队分别获得亚、季、殿军。",
+      "source": "中新网教育",
+      "category": "就业",
+      "published": "2026-08-10T05:55:21.000Z",
+      "fetched": "2026-08-11T09:32:38.572Z"
+    },
+    {
+      "id": "b5eea297b20c",
+      "title": "情满天山 援疆印记&#9330;丨安徽支教生赢得桃李秀昆仑",
+      "url": "https://www.chinanews.com.cn/edu/2026/08-09/10674844.shtml",
+      "content": "编者按",
+      "source": "中新网教育",
+      "category": "就业",
+      "published": "2026-08-09T14:08:52.000Z",
+      "fetched": "2026-08-11T09:32:38.572Z"
+    },
+    {
+      "id": "7158d85cf105",
+      "title": "“西部低空之城”上演科创对决 2026全国青少年电子制作锦标赛开赛",
+      "url": "https://www.chinanews.com.cn/edu/2026/08-09/10674809.shtml",
+      "content": "中新网重庆8月9日电(记者 肖江川)2026全国青少年电子制作锦标赛9日在“西部低空之城”重庆梁平拉开帷幕。来自全国20多个省市的2600余名青少年选手齐聚一堂，比拼科创技艺、交流创新成果。",
+      "source": "中新网教育",
+      "category": "就业",
+      "published": "2026-08-09T12:38:20.000Z",
+      "fetched": "2026-08-11T09:32:38.572Z"
+    }
+  ],
+  "政策": [
+    {
+      "id": "b8494b8d45e2",
+      "title": "习近平就哥伦比亚发生强烈地震向哥伦比亚总统德拉埃斯普列亚致慰问电",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-11/10675871.shtml",
+      "content": "新华社北京8月11日电#8195;8月11日，国家主席习近平就哥伦比亚发生强烈地震向哥伦比亚总统德拉埃斯普列亚致慰问电。",
+      "source": "中新网滚动",
+      "category": "政策",
+      "published": "2026-08-11T09:27:43.000Z",
+      "fetched": "2026-08-11T09:32:39.182Z"
+    },
+    {
+      "id": "1fc01a00c79f",
+      "title": "中央气象台对台风“白海豚”停止编号",
+      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675868.shtml",
+      "content": "中新网8月11日电 据中央气象台网站消息，台风“白海豚”今天上午在湖北省境内减弱为热带低压，目前其风力进一步减弱，已很难确定其环流中心，中央气象台17时对其停止编号。",
+      "source": "中新网滚动",
+      "category": "政策",
+      "published": "2026-08-11T09:26:15.000Z",
+      "fetched": "2026-08-11T09:32:39.182Z"
+    },
+    {
+      "id": "781449163e57",
+      "title": "直播：台风“白海豚”影响河南 直击晚高峰交通保障一线",
+      "url": "https://www.chinanews.com.cn/iframe/2026/08-11/10675869.shtml",
+      "content": "",
+      "source": "中新网滚动",
+      "category": "政策",
+      "published": "2026-08-11T09:24:03.000Z",
+      "fetched": "2026-08-11T09:32:39.182Z"
+    },
+    {
+      "id": "d33280a0bf25",
+      "title": "德隆·威廉姆斯：NBA速度变快，若年轻十岁能场均送十几次助攻",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-11/10675849.shtml",
+      "content": "中新网8月11日电 记者获悉，美职篮(NBA)3X区域赛广州站于近日收官。探博体育队、火花队分获女子组、男子组冠军。NBA名宿德隆·威廉姆斯来到现场，与球迷互动并为获奖队伍颁奖。",
+      "source": "中新网滚动",
+      "category": "政策",
+      "published": "2026-08-11T09:18:17.000Z",
+      "fetched": "2026-08-11T09:32:39.182Z"
+    },
+    {
+      "id": "6f96613fca89",
+      "title": "叙利亚一法院缺席判处前总统巴沙尔死刑",
+      "url": "https://www.chinanews.com.cn/gj/2026/08-11/10675865.shtml",
+      "content": "卡塔尔半岛电视台直播画面显示，大马士革第四刑事法院11日缺席判处叙利亚前总统巴沙尔·阿萨德死刑。其表亲、德拉省前政治安全部门负责人阿提夫·纳吉布也被判处死刑。",
+      "source": "中新网滚动",
+      "category": "政策",
+      "published": "2026-08-11T09:16:41.000Z",
+      "fetched": "2026-08-11T09:32:39.182Z"
+    }
+  ]
 }

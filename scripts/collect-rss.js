@@ -20,7 +20,7 @@ function fetchText(url) {
       res.on('end', () => resolve(data))
     })
     req.on('error', reject)
-    req.setTimeout(15000, () => { req.destroy(); reject(new Error('timeout')) })
+    req.setTimeout(10000, () => { req.destroy(); reject(new Error('timeout')) })
   })
 }
 
@@ -92,11 +92,15 @@ async function main() {
   }
 
   const sevenDaysAgo = Date.now() - 7 * 86400000
-  const filtered = existing.filter(a => new Date(a.published).getTime() > sevenDaysAgo)
+  const filtered = existing.filter(a => {
+    const t = new Date(a.published).getTime()
+    return isNaN(t) || t > sevenDaysAgo
+  })
 
   if (!fs.existsSync(DATA_DIR)) fs.mkdirSync(DATA_DIR, { recursive: true })
   fs.writeFileSync(RAW_PATH, JSON.stringify(filtered, null, 2))
   console.log(`\n采集完成: 新增${newCount}篇, 共${filtered.length}篇`)
+  console.log(`DEBUG: existing=${existing.length}, filtered=${filtered.length}, newCount=${newCount}`)
 }
 
 main().catch(console.error)
