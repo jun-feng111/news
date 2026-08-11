@@ -1,0 +1,41 @@
+name: Collect News
+
+on:
+  schedule:
+    - cron: '0 2,8,14,20 * * *'
+  workflow_dispatch:
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Collect RSS
+        run: node scripts/collect-rss.js
+
+      - name: AI Process
+        run: node scripts/ai-process.js
+        env:
+          DASHSCOPE_API_KEY: ${{ secrets.DASHSCOPE_API_KEY }}
+
+      - name: Cluster
+        run: node scripts/cluster.js
+
+      - name: Generate JSON
+        run: node scripts/generate-json.js
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/data/
+          git diff --staged --quiet || git commit -m "auto: update news data $(date -u '+%Y-%m-%d %H:%M')"
+          git push
