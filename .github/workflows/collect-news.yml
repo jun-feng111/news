@@ -8,6 +8,7 @@ on:
 jobs:
   collect:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
 
@@ -21,10 +22,13 @@ jobs:
       - name: Collect RSS
         run: node scripts/collect-rss.js
 
-      - name: AI Process
+      - name: Fetch Full Content
+        run: node scripts/fetch-content.js
+
+      - name: AI Process & Translate
         run: node scripts/ai-process.js
         env:
-          DASHSCOPE_API_KEY: ${{ secrets.DASHSCOPE_API_KEY }}
+          AI_API_KEY: ${{ secrets.AI_API_KEY }}
 
       - name: Cluster
         run: node scripts/cluster.js

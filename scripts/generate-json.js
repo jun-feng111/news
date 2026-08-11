@@ -36,6 +36,11 @@ function main() {
     byCategory[cat].push(a)
   }
 
+  const categoryTop = {}
+  for (const [cat, list] of Object.entries(byCategory)) {
+    categoryTop[cat] = list.slice(0, 5)
+  }
+
   const byDate = {}
   for (const a of articles) {
     const date = (a.published || '').slice(0, 10)
@@ -45,6 +50,7 @@ function main() {
 
   fs.writeFileSync(path.join(DATA_DIR, 'articles.json'), JSON.stringify(articles, null, 2))
   fs.writeFileSync(path.join(DATA_DIR, 'top-today.json'), JSON.stringify(topToday, null, 2))
+  fs.writeFileSync(path.join(DATA_DIR, 'category-top.json'), JSON.stringify(categoryTop, null, 2))
   fs.writeFileSync(path.join(DATA_DIR, 'articles-by-category.json'), JSON.stringify(byCategory, null, 2))
   fs.writeFileSync(path.join(DATA_DIR, 'articles-by-date.json'), JSON.stringify(byDate, null, 2))
 
@@ -53,6 +59,7 @@ function main() {
 
   console.log(`生成完成: ${articles.length} 篇文章`)
   console.log(`  top-today.json: ${topToday.length} 篇`)
+  console.log(`  category-top.json: ${Object.keys(categoryTop).map(k => `${k}(${categoryTop[k].length})`).join(', ')}`)
   console.log(`  分类: ${Object.keys(byCategory).join(', ')}`)
 }
 
