@@ -41,6 +41,14 @@
         </div>
         <div>
           <TopList :items="topArticles" />
+          <router-link to="/skills" class="skills-btn card-base mt-4 p-4 flex items-center gap-3">
+            <span class="text-2xl">🛠️</span>
+            <div>
+              <div class="text-sm font-bold" style="color: var(--text-primary)">技能常识</div>
+              <div class="text-xs" style="color: var(--text-secondary)">Linux命令 · 技术栈对比</div>
+            </div>
+            <span class="ml-auto" style="color: var(--text-muted)">→</span>
+          </router-link>
         </div>
       </div>
     </div>
