@@ -32,10 +32,17 @@
         </div>
       </div>
 
-      <div class="flex gap-2 mb-6 flex-wrap">
+      <div class="flex gap-2 mb-4 flex-wrap items-center">
         <button class="filter-btn" :class="{ active: activeCmdCat === 'all' }" @click="activeCmdCat = 'all'">全部 {{ linuxCommands.length }}</button>
         <button v-for="g in cmdGroups" :key="g.name" class="filter-btn" :class="{ active: activeCmdCat === g.name }" @click="activeCmdCat = g.name">
           {{ g.icon }} {{ g.name }} {{ g.count }}
+        </button>
+      </div>
+
+      <div class="flex gap-2 mb-6 flex-wrap items-center">
+        <span class="text-xs" style="color: var(--text-muted)">使用频率：</span>
+        <button v-for="f in freqLevels" :key="f.key" class="freq-btn" :class="{ active: activeFreq === f.key }" @click="activeFreq = f.key">
+          <span class="freq-dot" :class="f.key"></span> {{ f.label }} {{ f.count }}
         </button>
       </div>
 
@@ -44,12 +51,15 @@
           <div class="flex items-center gap-2 mb-4">
             <span class="text-xl">{{ g.icon }}</span>
             <h2 class="text-lg font-bold" style="color: var(--text-primary)">{{ g.name }}</h2>
-            <span class="text-sm" style="color: var(--text-muted)">{{ g.count }} 个命令</span>
+            <span class="text-sm" style="color: var(--text-muted)">{{ g.commands.length }} 个命令</span>
           </div>
           <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
             <div v-for="(item, i) in g.commands" :key="item.cmd" class="card-base p-5 stagger-item" :style="{ animationDelay: `${i * 30}ms` }">
               <div class="flex items-start justify-between mb-2">
-                <code class="cmd-code">{{ item.cmd }}</code>
+                <div class="flex items-center gap-2">
+                  <code class="cmd-code">{{ item.cmd }}</code>
+                  <span class="freq-badge" :class="item.freq">{{ item.freq }}</span>
+                </div>
                 <div class="flex gap-1">
                   <span v-for="tag in item.tags" :key="tag" class="cmd-tag">{{ tag }}</span>
                 </div>
@@ -68,7 +78,10 @@
         <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
           <div v-for="(item, i) in filteredLinuxCommands" :key="item.cmd" class="card-base p-5 stagger-item" :style="{ animationDelay: `${i * 30}ms` }">
             <div class="flex items-start justify-between mb-2">
-              <code class="cmd-code">{{ item.cmd }}</code>
+              <div class="flex items-center gap-2">
+                <code class="cmd-code">{{ item.cmd }}</code>
+                <span class="freq-badge" :class="item.freq">{{ item.freq }}</span>
+              </div>
               <div class="flex gap-1">
                 <span v-for="tag in item.tags" :key="tag" class="cmd-tag">{{ tag }}</span>
               </div>
@@ -178,16 +191,37 @@ const tabs = [
 const activeTab = ref('linux')
 const activeCat = ref('all')
 const activeCmdCat = ref('all')
+const activeFreq = ref('all')
+
+const FREQ_ORDER = { '高频': 0, '中频': 1, '低频': 2 }
+
+const freqLevels = computed(() => {
+  const counts = { '高频': 0, '中频': 0, '低频': 0 }
+  linuxCommands.forEach(c => { if (c.freq) counts[c.freq]++ })
+  return [
+    { key: 'all', label: '全部', count: linuxCommands.length },
+    { key: '高频', label: '高频', count: counts['高频'] },
+    { key: '中频', label: '中频', count: counts['中频'] },
+    { key: '低频', label: '低频', count: counts['低频'] },
+  ]
+})
+
+const sortByFreq = (arr) => [...arr].sort((a, b) => (FREQ_ORDER[a.freq] ?? 9) - (FREQ_ORDER[b.freq] ?? 9))
 
 const cmdGroups = computed(() =>
   CMD_GROUP_MAP.map(g => {
-    const commands = linuxCommands.filter(c => c.tags.some(t => g.tags.includes(t)))
+    let commands = linuxCommands.filter(c => c.tags.some(t => g.tags.includes(t)))
+    if (activeFreq.value !== 'all') commands = commands.filter(c => c.freq === activeFreq.value)
+    commands = sortByFreq(commands)
     return { ...g, commands, count: commands.length }
   }).filter(g => g.count > 0)
 )
 
 const filteredLinuxCommands = computed(() => {
-  if (activeCmdCat.value === 'all') return linuxCommands
+  if (activeCmdCat.value === 'all') {
+    let cmds = activeFreq.value === 'all' ? [...linuxCommands] : linuxCommands.filter(c => c.freq === activeFreq.value)
+    return sortByFreq(cmds)
+  }
   const group = cmdGroups.value.find(g => g.name === activeCmdCat.value)
   return group ? group.commands : []
 })
@@ -223,6 +257,26 @@ const filteredTech = computed(() => {
   font-size: 10px; padding: 2px 6px; border-radius: 4px;
   color: var(--text-muted); background: var(--bg-hover); border: 1px solid var(--border);
 }
+.freq-btn {
+  display: inline-flex; align-items: center; gap: 4px;
+  padding: 4px 12px; border-radius: 999px; font-size: 12px; font-weight: 500;
+  color: var(--text-secondary); background: var(--bg-card); border: 1px solid var(--border);
+  cursor: pointer; transition: all 0.2s ease;
+}
+.freq-btn:hover { color: var(--text-primary); }
+.freq-btn.active { color: white; background: var(--gradient-1); border-color: transparent; }
+.freq-dot {
+  display: inline-block; width: 7px; height: 7px; border-radius: 50%;
+}
+.freq-dot.高频 { background: #4ade80; }
+.freq-dot.中频 { background: #fbbf24; }
+.freq-dot.低频 { background: #94a3b8; }
+.freq-badge {
+  font-size: 10px; padding: 1px 6px; border-radius: 4px; font-weight: 600; white-space: nowrap;
+}
+.freq-badge.高频 { color: #4ade80; background: rgba(74, 222, 128, 0.12); border: 1px solid rgba(74, 222, 128, 0.3); }
+.freq-badge.中频 { color: #fbbf24; background: rgba(251, 191, 36, 0.12); border: 1px solid rgba(251, 191, 36, 0.3); }
+.freq-badge.低频 { color: #94a3b8; background: rgba(148, 163, 184, 0.12); border: 1px solid rgba(148, 163, 184, 0.3); }
 .cmd-example {
   background: #0d1117; padding: 8px 12px; border-radius: 6px;
   display: flex; align-items: center; gap: 8px; overflow-x: auto;
