@@ -2,8 +2,10 @@ const CATEGORY_MAP = {
   AI: { color: '#5b8def', icon: '🤖', key: 'cat-ai' },
   科技: { color: '#4ade80', icon: '🔬', key: 'cat-tech' },
   财经: { color: '#fb923c', icon: '📈', key: 'cat-finance' },
-  综合: { color: '#a78bfa', icon: '🌐', key: 'cat-general' },
+  政策: { color: '#f87171', icon: '�️', key: 'cat-policy' },
+  就业: { color: '#fbbf24', icon: '💼', key: 'cat-job' },
   开发: { color: '#22d3ee', icon: '💻', key: 'cat-dev' },
+  综合: { color: '#a78bfa', icon: '🌐', key: 'cat-general' },
 }
 
 const DEFAULT_CAT = { color: '#a78bfa', icon: '📰', key: 'cat-general' }

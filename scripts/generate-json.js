@@ -9,8 +9,10 @@ function normalizeCategory(cat) {
   if (!cat) return '综合'
   const c = cat.toLowerCase()
   if (c.includes('ai') || c.includes('人工')) return 'AI'
+  if (c.includes('政策') || c.includes('政府') || c.includes('时政') || c.includes('政务')) return '政策'
+  if (c.includes('就业') || c.includes('创业') || c.includes('大学生') || c.includes('人社') || c.includes('招聘') || c.includes('人才')) return '就业'
   if (c.includes('财经') || c.includes('金融') || c.includes('经济')) return '财经'
-  if (c.includes('开发') || c.includes('编程') || c.includes('代码')) return '开发'
+  if (c.includes('开发') || c.includes('编程') || c.includes('代码') || c.includes('物联网') || c.includes('计算机') || c.includes('软件')) return '开发'
   if (c.includes('科技') || c.includes('tech')) return '科技'
   return '综合'
 }
