@@ -1,30 +1,48 @@
 <template>
-  <div class="bg-white rounded-lg shadow hover:shadow-md transition-shadow p-5 flex gap-4">
-    <div v-if="rank" class="flex-shrink-0 w-10 h-10 rounded-full bg-primary text-white flex items-center justify-center font-bold">
-      {{ rank }}
-    </div>
-    <div class="flex-1 min-w-0">
-      <router-link :to="`/detail/${article.id}`" class="block">
-        <h3 class="text-lg font-semibold text-gray-800 hover:text-primary truncate">
+  <div class="card-base overflow-hidden flex flex-col" :style="{ '--cat-color': catStyle.color }">
+    <div class="cat-bar" :style="{ background: catStyle.color }"></div>
+
+    <div class="p-5 flex-1 flex flex-col">
+      <div class="flex flex-wrap gap-1.5 mb-2.5">
+        <span class="cat-pill" :style="{ color: catStyle.color, background: hexToRgba(catStyle.color, 0.15) }">
+          {{ catStyle.icon }} {{ article.category || '综合' }}
+        </span>
+        <span v-for="tag in displayTags" :key="tag" class="tag-pill">{{ tag }}</span>
+      </div>
+
+      <router-link :to="`/detail/${article.id}`" class="block group">
+        <h3 class="text-base font-semibold leading-snug mb-2 transition-colors" style="color: var(--text-primary)">
           {{ article.title }}
         </h3>
       </router-link>
-      <p class="text-gray-600 mt-1 line-clamp-2">{{ article.summary || '暂无摘要' }}</p>
-      <div class="flex items-center gap-3 mt-2 text-sm text-gray-400">
-        <el-tag size="small" type="info">{{ article.category }}</el-tag>
-        <span>{{ article.source }}</span>
-        <span>{{ formatDate(article.published) }}</span>
-        <span v-if="article.score" class="text-primary font-semibold">★ {{ article.score }}</span>
+
+      <p class="text-sm leading-relaxed line-clamp-2 mb-3 flex-1" style="color: var(--text-secondary)">
+        {{ article.summary || '暂无摘要' }}
+      </p>
+
+      <div class="flex items-center justify-between text-xs" style="color: var(--text-muted)">
+        <div class="flex items-center gap-2">
+          <span>{{ article.source }}</span>
+          <span>·</span>
+          <span>{{ formatDate(article.published) }}</span>
+        </div>
+        <ScoreDots v-if="article.score" :score="article.score" />
       </div>
     </div>
   </div>
 </template>
 
 <script setup>
-defineProps({
+import { computed } from 'vue'
+import { getCategoryStyle, hexToRgba } from '../composables/useCategory'
+import ScoreDots from './ScoreDots.vue'
+
+const props = defineProps({
   article: { type: Object, required: true },
-  rank: { type: Number, default: 0 },
 })
+
+const catStyle = computed(() => getCategoryStyle(props.article.category))
+const displayTags = computed(() => (props.article.tags || []).slice(0, 3))
 
 const formatDate = (d) => {
   if (!d) return ''
@@ -38,10 +56,27 @@ const formatDate = (d) => {
 </script>
 
 <style scoped>
-.line-clamp-2 {
-  display: -webkit-box;
-  -webkit-line-clamp: 2;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
+.cat-bar {
+  height: 2px;
+  width: 100%;
+}
+.cat-pill {
+  font-size: 11px;
+  font-weight: 500;
+  padding: 2px 8px;
+  border-radius: 999px;
+  white-space: nowrap;
+}
+.tag-pill {
+  font-size: 11px;
+  font-weight: 500;
+  padding: 2px 8px;
+  border-radius: 999px;
+  color: var(--text-secondary);
+  background: var(--bg-hover);
+  border: 1px solid var(--border);
+}
+h3:hover {
+  color: var(--cat-color) !important;
 }
 </style>
