@@ -27,23 +27,57 @@
           <div class="relative z-10">
             <span class="text-3xl">🐧</span>
             <span class="text-white text-xl font-bold ml-3">Linux 常用命令</span>
-            <p class="text-gray-400 text-sm mt-1">{{ linuxCommands.length }} 个高频命令速查</p>
+            <p class="text-gray-400 text-sm mt-1">{{ linuxCommands.length }} 个命令 · {{ cmdGroups.length }} 个分类</p>
           </div>
         </div>
       </div>
 
-      <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-        <div v-for="(item, i) in linuxCommands" :key="item.cmd" class="card-base p-5 stagger-item" :style="{ animationDelay: `${i * 30}ms` }">
-          <div class="flex items-start justify-between mb-2">
-            <code class="cmd-code">{{ item.cmd }}</code>
-            <div class="flex gap-1">
-              <span v-for="tag in item.tags" :key="tag" class="cmd-tag">{{ tag }}</span>
+      <div class="flex gap-2 mb-6 flex-wrap">
+        <button class="filter-btn" :class="{ active: activeCmdCat === 'all' }" @click="activeCmdCat = 'all'">全部 {{ linuxCommands.length }}</button>
+        <button v-for="g in cmdGroups" :key="g.name" class="filter-btn" :class="{ active: activeCmdCat === g.name }" @click="activeCmdCat = g.name">
+          {{ g.icon }} {{ g.name }} {{ g.count }}
+        </button>
+      </div>
+
+      <div v-if="activeCmdCat === 'all'">
+        <div v-for="g in cmdGroups" :key="g.name" class="mb-8">
+          <div class="flex items-center gap-2 mb-4">
+            <span class="text-xl">{{ g.icon }}</span>
+            <h2 class="text-lg font-bold" style="color: var(--text-primary)">{{ g.name }}</h2>
+            <span class="text-sm" style="color: var(--text-muted)">{{ g.count }} 个命令</span>
+          </div>
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div v-for="(item, i) in g.commands" :key="item.cmd" class="card-base p-5 stagger-item" :style="{ animationDelay: `${i * 30}ms` }">
+              <div class="flex items-start justify-between mb-2">
+                <code class="cmd-code">{{ item.cmd }}</code>
+                <div class="flex gap-1">
+                  <span v-for="tag in item.tags" :key="tag" class="cmd-tag">{{ tag }}</span>
+                </div>
+              </div>
+              <p class="text-sm mb-3" style="color: var(--text-secondary)">{{ item.desc }}</p>
+              <div class="cmd-example">
+                <span class="text-xs text-green-400">$</span>
+                <code class="text-xs">{{ item.example }}</code>
+              </div>
             </div>
           </div>
-          <p class="text-sm mb-3" style="color: var(--text-secondary)">{{ item.desc }}</p>
-          <div class="cmd-example">
-            <span class="text-xs text-green-400">$</span>
-            <code class="text-xs">{{ item.example }}</code>
+        </div>
+      </div>
+
+      <div v-else>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div v-for="(item, i) in filteredLinuxCommands" :key="item.cmd" class="card-base p-5 stagger-item" :style="{ animationDelay: `${i * 30}ms` }">
+            <div class="flex items-start justify-between mb-2">
+              <code class="cmd-code">{{ item.cmd }}</code>
+              <div class="flex gap-1">
+                <span v-for="tag in item.tags" :key="tag" class="cmd-tag">{{ tag }}</span>
+              </div>
+            </div>
+            <p class="text-sm mb-3" style="color: var(--text-secondary)">{{ item.desc }}</p>
+            <div class="cmd-example">
+              <span class="text-xs text-green-400">$</span>
+              <code class="text-xs">{{ item.example }}</code>
+            </div>
           </div>
         </div>
       </div>
@@ -120,12 +154,43 @@
 import { ref, computed } from 'vue'
 import { linuxCommands, techStacks } from '../data/skills-data'
 
+const CMD_GROUP_MAP = [
+  { name: '文件操作', icon: '📁', tags: ['文件', '压缩', '权限'] },
+  { name: '文本处理', icon: '📝', tags: ['文本', '搜索'] },
+  { name: '进程管理', icon: '⚙️', tags: ['进程'] },
+  { name: '网络工具', icon: '🌐', tags: ['网络'] },
+  { name: '系统监控', icon: '📊', tags: ['监控'] },
+  { name: '磁盘管理', icon: '💾', tags: ['磁盘'] },
+  { name: '安全防护', icon: '🔒', tags: ['安全'] },
+  { name: '远程连接', icon: '🔌', tags: ['远程'] },
+  { name: '容器云原生', icon: '🐳', tags: ['容器'] },
+  { name: '自动化部署', icon: '🚀', tags: ['自动化', '版本控制'] },
+  { name: '数据库', icon: '🗄️', tags: ['数据库'] },
+  { name: '云运维', icon: '☁️', tags: ['云运维', '阿里云', '华为云', 'AWS', 'AI运维'] },
+  { name: '服务管理', icon: '🔧', tags: ['日志', 'Web', '系统'] },
+  { name: '开发调试', icon: '🛠️', tags: ['开发', '编辑器', '调试', '测试'] },
+]
+
 const tabs = [
   { key: 'linux', label: 'Linux命令', icon: '🐧' },
   { key: 'tech', label: '技术栈', icon: '💻' },
 ]
 const activeTab = ref('linux')
 const activeCat = ref('all')
+const activeCmdCat = ref('all')
+
+const cmdGroups = computed(() =>
+  CMD_GROUP_MAP.map(g => {
+    const commands = linuxCommands.filter(c => c.tags.some(t => g.tags.includes(t)))
+    return { ...g, commands, count: commands.length }
+  }).filter(g => g.count > 0)
+)
+
+const filteredLinuxCommands = computed(() => {
+  if (activeCmdCat.value === 'all') return linuxCommands
+  const group = cmdGroups.value.find(g => g.name === activeCmdCat.value)
+  return group ? group.commands : []
+})
 
 const techCategories = computed(() => [...new Set(techStacks.map(t => t.category))])
 const filteredTech = computed(() => {
