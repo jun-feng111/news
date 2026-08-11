@@ -84,7 +84,8 @@ function simpleSummary(article) {
 
 async function processWithAI(article) {
   const content = (article.content || '').trim() || '(无正文，根据标题分析)'
-  const prompt = `分析新闻返回JSON：{"summary":"50-100字中文摘要","category":"AI/科技/财经/综合/开发","score":0到100评分,"tags":["标签1","标签2"]}
+  const isEnglish = /[a-zA-Z]/.test(article.title) && !/[\u4e00-\u9fa5]/.test(article.title)
+  const prompt = `分析新闻返回JSON：{"title_zh":"中文标题(如果是英文则翻译成中文,如果是中文则保留)","summary":"50-100字中文摘要","category":"AI/科技/财经/综合/开发","score":0到100评分,"tags":["标签1","标签2"]}
 
 标题: ${article.title}
 来源: ${article.source}
@@ -93,6 +94,7 @@ async function processWithAI(article) {
   const result = await callAI(prompt)
   const parsed = JSON.parse(result)
   return {
+    title: parsed.title_zh || article.title,
     summary: parsed.summary || simpleSummary(article),
     category: parsed.category || simpleCategory(article),
     score: typeof parsed.score === 'number' ? parsed.score : simpleScore(article),

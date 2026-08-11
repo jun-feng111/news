@@ -1,12 +1,12 @@
 <template>
   <div class="max-w-6xl mx-auto px-4 py-6">
     <div class="flex items-center justify-between mb-6">
-      <h1 class="text-2xl font-bold">全部资讯</h1>
+      <h1 class="text-2xl font-bold">{{ t('articles.title') }}</h1>
       <div class="flex gap-2">
-        <el-input v-model="searchQuery" placeholder="搜索..." :prefix-icon="Search" clearable class="w-48" />
+        <el-input v-model="searchQuery" :placeholder="t('articles.search')" :prefix-icon="Search" clearable class="w-48" />
         <el-select v-model="sortBy" class="w-32">
-          <el-option label="评分优先" value="score" />
-          <el-option label="最新优先" value="date" />
+          <el-option :label="t('articles.sort_score')" value="score" />
+          <el-option :label="t('articles.sort_date')" value="date" />
         </el-select>
       </div>
     </div>
@@ -14,7 +14,7 @@
       <el-icon class="is-loading" :size="40"><Loading /></el-icon>
     </div>
     <div v-else-if="filteredArticles.length === 0" class="text-center py-20 text-gray-400">
-      暂无匹配文章
+      {{ t('articles.empty') }}
     </div>
     <div v-else class="space-y-4">
       <ArticleCard v-for="article in pagedArticles" :key="article.id" :article="article" />
@@ -32,10 +32,12 @@
 
 <script setup>
 import { ref, computed, onMounted } from 'vue'
+import { useI18n } from 'vue-i18n'
 import { Search } from '@element-plus/icons-vue'
 import ArticleCard from '../components/ArticleCard.vue'
 import { useArticles } from '../composables/useArticles'
 
+const { t } = useI18n()
 const { articles, loading, loadData } = useArticles()
 const searchQuery = ref('')
 const sortBy = ref('score')

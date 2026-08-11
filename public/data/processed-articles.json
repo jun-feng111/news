@@ -44,16 +44,12 @@
     "url": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-instagram-engagement-without-replacing-the-human-touch/",
     "content": "Every post you see, every Reel that autoplays, and every ‘Explore’ page suggestion on Instagram is now decided by its AI system. With over three billion people using it, that’s not a small detail; it&#8217;s the whole algorithm. But here’s the point: the more AI controls over how you see the content, the more it [&#8230;]\nThe post How AI Is changing Instagram engagement without replacing the human touch appeared first on AI News.\n]]>",
     "source": "AI News",
-    "category": "AI/科技",
+    "category": "AI",
     "published": "2026-08-07T14:33:59.000Z",
     "fetched": "2026-08-11T02:43:53.378Z",
-    "summary": "Instagram的每一次互动，现在算法决定，这背后是AI在操控用户的注意力。",
-    "score": 8,
-    "tags": [
-      "AI",
-      "Instagram"
-    ],
-    "cluster_id": "event_0"
+    "summary": "Every post you see, every Reel that autoplays, and every ‘Explore’ page suggestion on Instagram is n",
+    "score": 55,
+    "tags": []
   },
   {
     "id": "004bd258b033",
@@ -61,16 +57,15 @@
     "url": "https://www.artificialintelligence-news.com/news/alibaba-qwen-open-source-ai-revenue-sharing/",
     "content": "Alibaba plans to introduce revenue-sharing terms for some commercial users of its next Qwen open-weight AI model, Reuters reported, citing two people familiar with the company’s plans. The arrangement would require larger companies that generate revenue from offering the model as a service to reach a commercial agreement with Alibaba. The exact revenue-sharing rate has [&#8230;]\nThe post Alibaba tests new business model for Qwen open-source AI appeared first on AI News.\n]]>",
     "source": "AI News",
-    "category": "AI/科技",
+    "category": "AI",
     "published": "2026-08-07T10:00:00.000Z",
     "fetched": "2026-08-11T02:43:53.378Z",
-    "summary": "阿里巴巴计划对推出针对商用用户的Qwen开源AI的分成模式，要求生成收入的公司需与阿里签订商业协议。",
-    "score": 80,
+    "summary": "阿里巴巴计划为部分-部分 commercial用户使用其下一代Qwen 开开源AI模型引入分成机制。",
+    "score": 8,
     "tags": [
       "阿里巴巴",
-      ","
-    ],
-    "cluster_id": "event_1"
+      "AI技术"
+    ]
   },
   {
     "id": "343eb4990a17",
@@ -78,16 +73,15 @@
     "url": "https://www.artificialintelligence-news.com/news/why-health-ai-interfaces-must-adapt-to-user-expertise/",
     "content": "MIT researchers and collaborators found that AI explainability tools in the health sector can produce sharply different results depending on who uses them. When applied to skin disease diagnosis, non-experts improved their accuracy with AI assistance, although the improvement largely came from deferring to the model. Primary care providers showed a different pattern: they performed [&#8230;]\nThe post Why health AI interfaces must adapt to user expertise appeared first on AI News.\n]]>",
     "source": "AI News",
-    "category": "AI/科技",
+    "category": "AI",
     "published": "2026-08-06T15:55:37.000Z",
     "fetched": "2026-08-11T02:43:53.378Z",
-    "summary": "研究发现，AI 在健康领域的应用表现显著依赖于用户的专业程度。对于初级医生来说，AI 的辅助显著提高了他们的诊断准确性。",
-    "score": 8,
+    "summary": "麻省理工学院的研究人员发现，，在医疗领域的AI应用效果显著取决于用户的专业水平。。对于非专业人士来说，AI辅助提高了他们的准确性，但对于初级医疗提供者来说，AI的改进作用不大明显。",
+    "score": 85,
     "tags": [
       "AI",
-      "医疗科技"
-    ],
-    "cluster_id": "event_0"
+      "医疗AI"
+    ]
   },
   {
     "id": "ce706af5ae21",
@@ -108,15 +102,19 @@
     "url": "https://www.artificialintelligence-news.com/news/china-ai-model-race-alibaba-deepseek-costs/",
     "content": "Alibaba has launched Qwen3.8-Max, its largest AI model to date, as DeepSeek’s latest V4-Flash model draws attention for inference pricing that is lower than several competing systems. Qwen3.8-Max has 2.4 trillion parameters and uses a mixture-of-experts architecture, which activates only part of the model for each request. Alibaba said around 95 billion parameters are active [&#8230;]\nThe post Alibaba, DeepSeek push China’s AI model race towards lower costs appeared first on AI News.\n]]>",
     "source": "AI News",
-    "category": "AI",
+    "category": "科技",
     "published": "2026-08-05T10:00:00.000Z",
     "fetched": "2026-08-11T02:43:53.378Z",
-    "summary": "Alibaba has launched Qwen3。8-Max, its largest AI model to date, as DeepSeek’s latest V4-Flash model ",
-    "score": 60,
+    "summary": "阿里巴巴推出Qwen模型， DeepSeek最新V4-引发推理定价争议，Qwen模型拥有3.8万亿参数量并采用混合专家架构",
+    "score": 85,
     "tags": [
-      "阿里巴巴",
-      "AI模型",
-      "参数量8万亿"
+      [
+        "阿里巴巴",
+        "AI模型",
+        "推理定价",
+        "DeepSeek",
+        "Q4-Flash"
+      ]
     ]
   },
   {
@@ -138,15 +136,12 @@
     "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html",
     "content": "这里记录每周值得分享的科技内容，周五发布。...",
     "source": "阮一峰",
-    "category": "AI/",
+    "category": "科技",
     "published": "2026-08-07T00:08:27.000Z",
     "fetched": "2026-08-11T02:44:00.678Z",
-    "summary": "国家为何需要开源软件？阮一峰在科技爱好者周刊第47期中讨论了开源软件的重要性",
-    "score": 7,
-    "tags": [
-      "开源软件",
-      "科技政策"
-    ]
+    "summary": "这里记录每周值得分享的科技内容，周五发布",
+    "score": 60,
+    "tags": []
   },
   {
     "id": "b5e0104f574c",
@@ -154,16 +149,15 @@
     "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
     "content": "",
     "source": "TechCrunch",
-    "category": "AI/",
+    "category": "科技AI",
     "published": "2026-08-11T00:03:18.000Z",
     "fetched": "2026-08-11T02:44:07.995Z",
-    "summary": "据报道，AI完成了一笔巨大的员工招聘交易",
+    "summary": "据报道，AI公司公司完成了一笔高达数十亿美元的员工股权激励。",
     "score": 70,
     "tags": [
       "AI",
-      ",招聘"
-    ],
-    "cluster_id": "event_0"
+      ",股市"
+    ]
   },
   {
     "id": "48cf888df404",
@@ -175,7 +169,7 @@
     "published": "2026-08-10T23:56:15.000Z",
     "fetched": "2026-08-11T02:44:07.995Z",
     "summary": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-    "score": 85,
+    "score": 80,
     "tags": []
   },
   {
@@ -188,7 +182,7 @@
     "published": "2026-08-10T23:16:44.000Z",
     "fetched": "2026-08-11T02:44:07.995Z",
     "summary": "Jeff Bezos might finally get his hands on a sports team",
-    "score": 75,
+    "score": 70,
     "tags": []
   },
   {
@@ -197,16 +191,12 @@
     "url": "https://techcrunch.com/2026/08/10/now-rippling-is-counter-suing-tiny-startup-runlayer/",
     "content": "",
     "source": "TechCrunch",
-    "category": "AI/,",
+    "category": "科技",
     "published": "2026-08-10T22:26:54.000Z",
     "fetched": "2026-08-11T02:44:07.995Z",
-    "summary": "Runlayer，一家专注于开发Rip动捕捉技术的初创公司，",
-    "score": 7,
-    "tags": [
-      "AI",
-      "初创公司"
-    ],
-    "cluster_id": "event_0"
+    "summary": "Now Rippling is counter-suing tiny startup Runlayer",
+    "score": 70,
+    "tags": []
   },
   {
     "id": "4676e3778a95",
@@ -227,12 +217,17 @@
     "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
     "content": "",
     "source": "TechCrunch",
-    "category": "AI",
+    "category": "科技",
     "published": "2026-08-10T20:53:02.000Z",
     "fetched": "2026-08-11T02:44:07.995Z",
-    "summary": "扎克刻伯克将AI视为未来的核心，，AI/将是Facebook发展的重要方向，，，，的AI发展策略和将影响社会多个方面",
-    "score": 75,
-    "tags": []
+    "summary": "扎克cassertscassertsfacebook的宣言详细解释了为什么人们不接受人工智能。",
+    "score": 85,
+    "tags": [
+      "扎尔斯克facebook",
+      "AI",
+      -1,
+      "科技"
+    ]
   },
   {
     "id": "9f4258eff4d0",
@@ -240,17 +235,12 @@
     "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
     "content": "",
     "source": "TechCrunch",
-    "category": "AI/",
+    "category": "AI",
     "published": "2026-08-10T20:04:24.000Z",
     "fetched": "2026-08-11T02:44:07.995Z",
-    "summary": "Tech公司行业内部出现混乱，",
-    "score": 2,
-    "tags": [
-      "TechCr",
-      "Claude",
-      "安全",
-      "gym"
-    ]
+    "summary": "Tech industry is buzzing after a Claude agent hacked into a gym",
+    "score": 70,
+    "tags": []
   },
   {
     "id": "92f40b79e3f8",
@@ -258,16 +248,17 @@
     "url": "https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/",
     "content": "",
     "source": "TechCrunch",
-    "category": "AI/",
+    "category": "开发",
     "published": "2026-08-10T18:31:54.000Z",
     "fetched": "2026-08-11T02:44:07.995Z",
-    "summary": "sptoats成功在美国GooglePlay平台上架其竞争对手AppTo的替代应用toto totags。",
-    "score": 5,
+    "summary": "sptoats在美地区成为Tockes的竞争对手，",
+    "score": 85,
     "tags": [
-      "AI",
-      ","
-    ],
-    "cluster_id": "event_0"
+      "app",
+      ",",
+      "Tockes竞争对手",
+      ""
+    ]
   },
   {
     "id": "4100cae384df",
@@ -275,12 +266,15 @@
     "url": "https://techcrunch.com/2026/08/10/social-media-platforms-still-facing-thousands-of-user-addiction-lawsuits-after-failed-appeals/",
     "content": "",
     "source": "TechCrunch",
-    "category": "AI",
+    "category": "开发",
     "published": "2026-08-10T18:30:33.000Z",
     "fetched": "2026-08-11T02:44:07.995Z",
-    "summary": "Social media platforms still facing thousands of user addiction lawsuits after failed appeals",
-    "score": 60,
-    "tags": []
+    "summary": "社交媒体平台面临数千起成瘾诉讼，失败上诉。",
+    "score": 70,
+    "tags": [
+      "社交媒体",
+      ",成瘾诉讼"
+    ]
   },
   {
     "id": "bae604ce77b9",
@@ -291,11 +285,13 @@
     "category": "开发",
     "published": "2026-08-10T18:27:44.000Z",
     "fetched": "2026-08-11T02:44:07.995Z",
-    "summary": "YouTube nows creators to twice as watch hours to get money",
-    "score": 3,
+    "summary": "YouTube现在要求要求创作者们观看视频的时间加倍，以达到获取收入的目的。",
+    "score": 60,
     "tags": [
       "YouTube",
-      "创作者经济"
+      "内容创作者",
+      "收入机制",
+      "视频"
     ]
   },
   {
@@ -307,9 +303,12 @@
     "category": "科技",
     "published": "2026-08-10T18:00:39.000Z",
     "fetched": "2026-08-11T02:44:07.995Z",
-    "summary": "Clicks&#8217; Power Keyboard brings BlackBerry-style typing to any phone — with some compromises",
+    "summary": "Clickclicks键盘将将黑 kukb式打字带到任何手机，但存在一定妥协。",
     "score": 60,
-    "tags": []
+    "tags": [
+      "科技",
+      true
+    ]
   },
   {
     "id": "4662a98c4da9",
@@ -317,15 +316,12 @@
     "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
     "content": "",
     "source": "TechCrunch",
-    "category": "AI//t",
+    "category": "AI",
     "published": "2026-08-10T16:20:13.000Z",
     "fetched": "2026-08-11T02:44:07.995Z",
-    "summary": "5_glimgs_ai_offers_a_hint_zucke_perso_intellige_v_ists",
-    "score": 6,
-    "tags": [
-      "Facebook Zuckerberg",
-      "AI技术"
-    ]
+    "summary": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+    "score": 65,
+    "tags": []
   },
   {
     "id": "b16a9d72067a",
@@ -346,12 +342,15 @@
     "url": "https://techcrunch.com/2026/08/10/archer-buys-former-rival-wisk-aero/",
     "content": "",
     "source": "TechCrunch",
-    "category": "科技",
+    "category": "开发",
     "published": "2026-08-10T15:09:39.000Z",
     "fetched": "2026-08-11T02:44:07.995Z",
-    "summary": "Archer buys former rival Wisk Aero",
-    "score": 70,
-    "tags": []
+    "summary": "ArArcher公司一家名为Wisk Aero的竞争对手，ArArcherplans收购Wisk Aero，这标志着两家在自动驾驶飞行领域竞争激烈的的公司公司Archer和WWik Aero在自动驾驶飞行领域的竞争关系即将结束，ArArcherplans将通过此次收购扩大其在该领域的影响力。这是一次重要的行业动态，categorys",
+    "score": 80,
+    "tags": [
+      "Ar收购",
+      "Ar自动驾驶飞行"
+    ]
   },
   {
     "id": "ecdd6bda7b67",
@@ -359,12 +358,15 @@
     "url": "https://techcrunch.com/2026/08/10/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond/",
     "content": "",
     "source": "TechCrunch",
-    "category": "AI",
+    "category": "开发",
     "published": "2026-08-10T14:20:19.000Z",
     "fetched": "2026-08-11T02:44:07.995Z",
-    "summary": "A data breach at shipping giant Ceva Logistics is rippling across banks, retailers, Steam gamers, an",
-    "score": 60,
-    "tags": []
+    "summary": "Seva斯物流公司发生数据泄露事件，影响 across banks, retailersands Steam 游戏者和 更多人人ings",
+    "score": 70,
+    "tags": [
+      "数据泄露",
+      "黑客攻击"
+    ]
   },
   {
     "id": "8add5efe536d",
@@ -385,16 +387,15 @@
     "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
     "content": "",
     "source": "TechCrunch",
-    "category": "AI//",
+    "category": "AI",
     "published": "2026-08-10T12:00:00.000Z",
     "fetched": "2026-08-11T02:44:07.995Z",
-    "summary": "发现新材料用于打击发热芯片问题",
-    "score": 7,
+    "summary": "研究人员发现了一种材料，，可以",
+    "score": 80000,
     "tags": [
-      "新材料",
-      ", "
-    ],
-    "cluster_id": "event_2"
+      "AI",
+      "科技"
+    ]
   },
   {
     "id": "d2a64df2821e",
@@ -441,11 +442,11 @@
     "url": "https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/",
     "content": "",
     "source": "Ars Technica",
-    "category": "科技",
+    "category": "开发",
     "published": "2026-08-10T22:23:43.000Z",
     "fetched": "2026-08-11T02:44:11.167Z",
-    "summary": "Ars Live: Ross Scott discusses the Stop Killing Games movement",
-    "score": 75,
+    "summary": "Ross Scott在Ars Live讨论了T     s Killing Games t      s",
+    "score": 50000010302,
     "tags": []
   },
   {
@@ -457,9 +458,13 @@
     "category": "AI",
     "published": "2026-08-10T22:13:03.000Z",
     "fetched": "2026-08-11T02:44:11.167Z",
-    "summary": "With new open models, Meta pitches another reboot of its struggling AI strategy",
-    "score": 80,
-    "tags": []
+    "summary": "Meta 正在推出一项计划，旨在重塑其挣扎中的的 AI 语言模型。",
+    "score": 70,
+    "tags": [
+      "Meta",
+      "AI 语言模型",
+      "技术重塑"
+    ]
   },
   {
     "id": "562905a5974e",
@@ -467,16 +472,12 @@
     "url": "https://arstechnica.com/health/2026/08/trump-signs-bonkers-order-that-cuts-vaccines-promotes-ones-that-dont-exist/",
     "content": "",
     "source": "Ars Technica",
-    "category": "综合",
+    "category": "科技",
     "published": "2026-08-10T21:42:56.000Z",
     "fetched": "2026-08-11T02:44:11.167Z",
-    "summary": "特朗普签署了一项行政命令，削减疫苗、推广不存在的疫苗",
-    "score": 2,
-    "tags": [
-      "特朗普",
-      ",行政命令",
-      ",疫苗"
-    ]
+    "summary": "Trump signs bonkers order that cuts vaccines, promotes ones that don't exist",
+    "score": 70,
+    "tags": []
   },
   {
     "id": "26cf748a650b",
@@ -487,11 +488,11 @@
     "category": "开发",
     "published": "2026-08-10T21:26:38.000Z",
     "fetched": "2026-08-11T02:44:11.167Z",
-    "summary": "冷铁工作室宣布关闭云版本游戏，不再提供退款。",
-    "score": 3,
+    "summary": "游戏开发商 Cold Iron Studios 宣布关闭其云版本服务，并且不会提供退款。",
+    "score": 707,
     "tags": [
       "游戏开发",
-      ",关闭游戏服务"
+      ", "
     ]
   },
   {
@@ -500,15 +501,15 @@
     "url": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
     "content": "",
     "source": "Ars Technica",
-    "category": "开发",
+    "category": "科技科技",
     "published": "2026-08-10T20:45:52.000Z",
     "fetched": "2026-08-11T02:44:11.167Z",
-    "summary": "亚马逊支持的电池储能项目可能 萜索结果表明这些项目可能涉及美国backs美国的美国气候污染源，",
-    "score": 3,
+    "summary": "亚马逊支持的数据中心导致美国数据中心导致美国气候污染",
+    "score": 78,
     "tags": [
       "亚马逊",
-      ",储能",
-      "电池"
+      "数据中心",
+      "气候污染"
     ]
   },
   {
@@ -517,11 +518,11 @@
     "url": "https://arstechnica.com/gadgets/2026/08/zuckerbergs-super-yacht-stood-by-while-stranded-boaters-looked-for-help/",
     "content": "",
     "source": "Ars Technica",
-    "category": "财经",
+    "category": "科技",
     "published": "2026-08-10T20:01:15.000Z",
     "fetched": "2026-08-11T02:44:11.167Z",
-    "summary": "扎克伯格的超级游艇忽视了紧急频道，未能救助遇险者",
-    "score": 2,
+    "summary": "扎克伯克克的超豪华游艇在遇险时求者附近经过，但没有回应紧急呼救，",
+    "score": 60,
     "tags": []
   },
   {
@@ -530,15 +531,14 @@
     "url": "https://arstechnica.com/cars/2026/08/has-ford-got-cheap-car-fever-allegedly-a-25k-crossover-is-on-the-way/",
     "content": "",
     "source": "Ars Technica",
-    "category": "综合",
+    "category": "科技",
     "published": "2026-08-10T17:07:47.000Z",
     "fetched": "2026-08-11T02:44:11.167Z",
-    "summary": "福特是否开始推出低价跨界车款？这",
-    "score": 60,
+    "summary": "福特是否s 似乎又在打低价车的主意了，categorys: 绍开开",
+    "score": 700,
     "tags": [
-      "福特",
       "低价车",
-      "跨界车"
+      "S s策略"
     ]
   },
   {
@@ -547,15 +547,12 @@
     "url": "https://arstechnica.com/health/2026/08/taylor-farms-recalls-jalapeno-products-for-salmonella-amid-cyclospora-outbreak/",
     "content": "",
     "source": "Ars Technica",
-    "category": "财经",
+    "category": "综合",
     "published": "2026-08-10T16:37:08.000Z",
     "fetched": "2026-08-11T02:44:11.167Z",
-    "summary": "Taylor Farms正在召回含有沙门氏菌的jalapeño产品，，",
-    "score": 7,
-    "tags": [
-      "食品召回",
-      ",食品安全"
-    ]
+    "summary": "Taylor Farms因--因-因因因-因-因Salmonella召回jalape-no，在-s--因Cyclops-爆发",
+    "score": 605,
+    "tags": []
   },
   {
     "id": "55ac9d1b244a",
@@ -563,16 +560,12 @@
     "url": "https://arstechnica.com/gaming/2026/08/valve-slowly-expands-steamos-support-on-non-valve-hardware/",
     "content": "",
     "source": "Ars Technica",
-    "category": "AI/科技科技",
+    "category": "科技",
     "published": "2026-08-10T16:01:04.000Z",
     "fetched": "2026-08-11T02:44:11.167Z",
-    "summary": "Valve正逐步扩大对-Valve硬件的SteamOS支持。",
-    "score": 6,
-    "tags": [
-      "Valve",
-      "SteamOS",
-      "硬件ts"
-    ]
+    "summary": "Valve slowly expands SteamOS support on non-Valve hardware",
+    "score": 70,
+    "tags": []
   },
   {
     "id": "3ea9ca10cccd",
@@ -583,11 +576,13 @@
     "category": "科技",
     "published": "2026-08-10T15:44:45.000Z",
     "fetched": "2026-08-11T02:44:11.167Z",
-    "summary": "谷歌效仿 Epic Games 在 Play Store 推出对手的应用商店",
-    "score": 7,
+    "summary": "谷歌在 Play Store 中推出了一种新的应用分存储，，效仿 Epic Games 的做法。",
+    "score": 75,
     "tags": [
-      "谷歌 ",
-      " nouveews_source"
+      "谷歌",
+      "应用_store",
+      "竞争",
+      "科技动态"
     ]
   },
   {
@@ -596,11 +591,11 @@
     "url": "https://arstechnica.com/space/2026/08/one-of-chinas-workhorse-rockets-just-exploded-in-flight/",
     "content": "",
     "source": "Ars Technica",
-    "category": "科技",
+    "category": "开发",
     "published": "2026-08-10T15:05:00.000Z",
     "fetched": "2026-08-11T02:44:11.167Z",
-    "summary": "One of China's workhorse rockets just exploded in flight",
-    "score": 70,
+    "summary": "人工智能领域的初创公司公司公司公司们是否是否的未来前景引发讨论，",
+    "score": 7,
     "tags": []
   },
   {
@@ -609,10 +604,10 @@
     "url": "https://arstechnica.com/science/2026/08/dogs-can-tell-if-youre-scared-or-sad/",
     "content": "",
     "source": "Ars Technica",
-    "category": ":",
+    "category": "科技",
     "published": "2026-08-10T15:00:53.000Z",
     "fetched": "2026-08-11T02:44:11.167Z",
-    "summary": "Dogs are这种说法似乎让你感到害怕和悲伤，",
+    "summary": "Dogs can tell if you're scared or sad",
     "score": 70,
     "tags": []
   },
@@ -622,16 +617,15 @@
     "url": "https://arstechnica.com/cars/2026/08/2026-subaru-outback-limited-review-boxy-outside-almost-premium-inside/",
     "content": "",
     "source": "Ars Technica",
-    "category": "综合",
+    "category": "开发",
     "published": "2026-08-10T14:49:21.000Z",
     "fetched": "2026-08-11T02:44:11.167Z",
-    "summary": "Subaru在新款车型中: Subaru Outbacks: Great interior, refined设计上具有很大的车内空间并且精致，， 分割的外观设计引起了争议。",
-    "score": 7,
+    "summary": "斯巴鲁傲虎在内饰方面表现出色，但在外观设计方面却引起了广泛的争议。",
+    "score": 75,
     "tags": [
-      "Subaru",
-      ", "
-    ],
-    "cluster_id": "event_2"
+      "汽车",
+      ",,"
+    ]
   },
   {
     "id": "488f76317f8c",
@@ -639,16 +633,12 @@
     "url": "https://arstechnica.com/security/2026/08/a-researcher-bought-noreply-net-companies-started-sending-him-secrets/",
     "content": "",
     "source": "Ars Technica",
-    "category": "AI/",
+    "category": "科技",
     "published": "2026-08-10T14:25:50.000Z",
     "fetched": "2026-08-11T02:44:11.167Z",
-    "summary": "一名研究人员购买了nnoreply.net的服务，，该公司开始向他透露商业秘密。",
-    "score": 3,
-    "tags": [
-      "AI",
-      ",,科技"
-    ],
-    "cluster_id": "event_0"
+    "summary": "A researcher bought noreply。 Companies started sending him secrets",
+    "score": 70,
+    "tags": []
   },
   {
     "id": "55e0cdb0c0d6",
@@ -656,15 +646,12 @@
     "url": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
     "content": "",
     "source": "Ars Technica",
-    "category": "AI/",
+    "category": "AI",
     "published": "2026-08-10T11:00:47.000Z",
     "fetched": "2026-08-11T02:44:11.167Z",
-    "summary": "Peerless面临AI时代的挑战，",
-    "score": 7,
-    "tags": [
-      "Peerless",
-      ",AI时代挑战"
-    ]
+    "summary": "Peer review is overwhelmed—can it survive in the AI era",
+    "score": 75,
+    "tags": []
   },
   {
     "id": "e593ca1e62d5",
@@ -672,16 +659,9 @@
     "url": "https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/",
     "content": "",
     "source": "Ars Technica",
-    "category": "综合",
+    "category": "科技",
     "published": "2026-08-09T11:00:14.000Z",
-    "fetched": "2026-08-11T02:44:11.167Z",
-    "summary": "Mount Toba's eruption doesn't nearly nearly species species",
-    "score": 2,
-    "tags": [
-      "火山喷发",
-      ", "
-    ],
-    "cluster_id": "event_2"
+    "fetched": "2026-08-11T02:44:11.167Z"
   },
   {
     "id": "1178b8b99370",
@@ -691,15 +671,7 @@
     "source": "Ars Technica",
     "category": "科技",
     "published": "2026-08-08T11:30:48.000Z",
-    "fetched": "2026-08-11T02:44:11.167Z",
-    "summary": "火星上的自动驾驶车辆已被证明是成功的。",
-    "score": 8,
-    "tags": [
-      "火星探索",
-      ",",
-      ","
-    ],
-    "cluster_id": "event_1"
+    "fetched": "2026-08-11T02:44:11.167Z"
   },
   {
     "id": "529c4767029a",
@@ -709,10 +681,7 @@
     "source": "Ars Technica",
     "category": "科技",
     "published": "2026-08-08T11:05:50.000Z",
-    "fetched": "2026-08-11T02:44:11.167Z",
-    "summary": "DeepMind’s hurricane breakthrough has surprised weather scientists",
-    "score": 55,
-    "tags": []
+    "fetched": "2026-08-11T02:44:11.167Z"
   },
   {
     "id": "b818d4dc34d9",
@@ -720,15 +689,9 @@
     "url": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
     "content": "",
     "source": "Ars Technica",
-    "category": "开发",
+    "category": "科技",
     "published": "2026-08-07T21:48:21.000Z",
-    "fetched": "2026-08-11T02:44:11.167Z",
-    "summary": "欧洲卫星使追踪野火更加容易",
-    "score": 7,
-    "tags": [
-      "欧洲卫星",
-      ",野火追踪"
-    ]
+    "fetched": "2026-08-11T02:44:11.167Z"
   },
   {
     "id": "f0f179ea8d6a",
@@ -736,15 +699,8 @@
     "url": "https://arstechnica.com/health/2026/08/flesh-eating-screwworms-feast-on-humans-in-mexico-human-cases-top-500/",
     "content": "",
     "source": "Ars Technica",
-    "category": "综合",
+    "category": "科技",
     "published": "2026-08-07T21:09:00.000Z",
-    "fetched": "2026-08-11T02:44:11.167Z",
-    "summary": "墨西哥出现人类肉食性蝇，感染病例",
-    "score": 2,
-    "tags": [
-      "墨西哥",
-      ", ",
-      ",  人类肉食蝇"
-    ]
+    "fetched": "2026-08-11T02:44:11.167Z"
   }
 ]
