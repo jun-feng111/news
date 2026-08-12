@@ -64,7 +64,8 @@
                   <span v-for="tag in item.tags" :key="tag" class="cmd-tag">{{ tag }}</span>
                 </div>
               </div>
-              <p class="text-sm mb-3" style="color: var(--text-secondary)">{{ item.desc }}</p>
+              <p class="text-sm mb-2" style="color: var(--text-secondary)">{{ item.desc }}</p>
+              <p class="text-xs mb-3 cmd-detail" style="color: var(--text-muted)">{{ item.detail }}</p>
               <div class="cmd-example">
                 <span class="text-xs text-green-400">$</span>
                 <code class="text-xs">{{ item.example }}</code>
@@ -86,7 +87,8 @@
                 <span v-for="tag in item.tags" :key="tag" class="cmd-tag">{{ tag }}</span>
               </div>
             </div>
-            <p class="text-sm mb-3" style="color: var(--text-secondary)">{{ item.desc }}</p>
+            <p class="text-sm mb-2" style="color: var(--text-secondary)">{{ item.desc }}</p>
+            <p class="text-xs mb-3 cmd-detail" style="color: var(--text-muted)">{{ item.detail }}</p>
             <div class="cmd-example">
               <span class="text-xs text-green-400">$</span>
               <code class="text-xs">{{ item.example }}</code>
@@ -280,6 +282,10 @@ const filteredTech = computed(() => {
 .cmd-example {
   background: #0d1117; padding: 8px 12px; border-radius: 6px;
   display: flex; align-items: center; gap: 8px; overflow-x: auto;
+}
+.cmd-detail {
+  line-height: 1.6; padding: 6px 10px; border-radius: 6px;
+  background: var(--bg-hover); border-left: 2px solid var(--border-strong);
 }
 .cmd-example code {
   font-family: 'JetBrains Mono', monospace; color: #c9d1d9; white-space: nowrap;
