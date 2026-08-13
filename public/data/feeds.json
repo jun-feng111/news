@@ -15,14 +15,14 @@
     "category": "科技"
   },
   {
-    "name": "人民网时政",
-    "url": "http://www.people.com.cn/rss/politics.xml",
-    "category": "政策"
-  },
-  {
     "name": "中新网时政",
     "url": "https://www.chinanews.com.cn/rss/politics.xml",
     "category": "政策"
+  },
+  {
+    "name": "中新网社会",
+    "url": "https://www.chinanews.com.cn/rss/society.xml",
+    "category": "就业"
   },
   {
     "name": "中新网教育",
@@ -30,8 +30,13 @@
     "category": "就业"
   },
   {
-    "name": "中新网社会",
-    "url": "https://www.chinanews.com.cn/rss/society.xml",
+    "name": "Bing新闻·大学生就业",
+    "url": "https://www.bing.com/news/search?q=%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%B0%B1%E4%B8%9A&setlang=zh-CN&format=rss",
+    "category": "就业"
+  },
+  {
+    "name": "Bing新闻·校园招聘秋招",
+    "url": "https://www.bing.com/news/search?q=%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%20%E7%A7%8B%E6%8B%9B%20%E5%BA%94%E5%B1%8A%E7%94%9F&setlang=zh-CN&format=rss",
     "category": "就业"
   },
   {
