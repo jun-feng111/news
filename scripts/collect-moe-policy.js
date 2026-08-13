@@ -76,10 +76,14 @@ async function main() {
     return
   }
 
+  const NINETY_DAYS = 90 * 86400000
   let added = 0
   for (const it of items) {
     const id = crypto.createHash('md5').update(it.url).digest('hex').slice(0, 12)
     if (existingIds.has(id)) continue
+    // 只保留近 90 天政策，避免 2024/2025 历史存量污染"就业"板块
+    const pubTime = new Date(it.published).getTime()
+    if (!isNaN(pubTime) && Date.now() - pubTime > NINETY_DAYS) continue
     existing.push({
       id,
       title: it.title,

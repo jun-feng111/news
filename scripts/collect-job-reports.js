@@ -33,7 +33,7 @@ const QUERIES = [
   '春招 秋招 应届生 就业',
 ]
 
-function fetchText(url, timeout = 15000) {
+function fetchText(url, timeout = 30000) {
   const mod = url.startsWith('https') ? https : http
   return new Promise((resolve, reject) => {
     const req = mod.get(url, {
@@ -50,6 +50,21 @@ function fetchText(url, timeout = 15000) {
     req.on('error', reject)
     req.setTimeout(timeout, () => { req.destroy(); reject(new Error('timeout')) })
   })
+}
+
+// Bing News RSS 兜底（美国 runner 上通常比 Google 更稳，且返回真实文章链接）
+function bingUrl(q) {
+  return 'https://www.bing.com/news/search?q=' + encodeURIComponent(q) + '&setlang=zh-CN&format=rss'
+}
+
+// 带一次重试的抓取，避免偶发超时
+async function fetchTextRetry(url, tries = 2) {
+  let lastErr
+  for (let i = 0; i < tries; i++) {
+    try { return await fetchText(url, 30000) }
+    catch (e) { lastErr = e; if (i < tries - 1) await new Promise(r => setTimeout(r, 800)) }
+  }
+  throw lastErr
 }
 
 function decodeEntities(s) {
@@ -110,21 +125,26 @@ async function main() {
   let collected = []
   let okQueries = 0
   for (const q of QUERIES) {
+    let xml = null, used = ''
     try {
-      const xml = await fetchText(discoveryUrl(q))
-      const items = parseNews(xml)
-      collected.push(...items)
-      okQueries++
-      console.log(`  发现[${q}]: ${items.length} 条`)
-    } catch (e) {
-      console.log(`  发现[${q}] 跳过（不可达，不影响主干）: ${e.message}`)
+      xml = await fetchTextRetry(discoveryUrl(q)); used = 'Google'
+    } catch (e1) {
+      try {
+        xml = await fetchTextRetry(bingUrl(q)); used = 'Bing'
+      } catch (e2) {
+        console.log(`  发现[${q}] 跳过（Google/Bing 均不可达）: ${e2.message}`)
+        continue
+      }
     }
+    const items = parseNews(xml)
+    collected.push(...items)
+    okQueries++
+    console.log(`  发现[${q}](${used}): ${items.length} 条`)
     await new Promise(r => setTimeout(r, 600))
   }
 
   if (okQueries === 0) {
-    console.log('Google News RSS 发现层全部不可达（常见于中国大陆本地运行）。' +
-      '「就业」板块由 feeds.json 主干 RSS 兜底；GitHub Actions(美IP) 会自动补抓智联/BOSS 报告。')
+    console.log('Google/Bing News RSS 发现层全部不可达。「就业」板块由 feeds.json 主干 RSS 兜底。')
     return
   }
 
