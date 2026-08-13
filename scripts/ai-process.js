@@ -10,6 +10,11 @@ const API_URL = 'https://api.siliconflow.cn/v1/chat/completions'
 const API_KEY = process.env.AI_API_KEY || 'sk-bvtureccyhihnyqxwbscqyzkhyrazndilliznenfwscopyfw'
 const MODEL = 'Qwen/Qwen2.5-7B-Instruct'
 
+// 让 AI 步骤无论如何都能在 job 超时前结束，保证流水线走到 Commit
+const AI_BUDGET_MS = 35 * 60 * 1000      // 全局时间预算：35 分钟，给后续步骤留余量
+const MAX_CONSECUTIVE_FAILS = 6          // 连续 6 次失败即判定 SiliconFlow 不可达，提前结束
+const REQ_TIMEOUT_MS = 30000             // 单请求超时：30 秒（失败更快，避免空等）
+
 function callAI(prompt, maxTokens = 400, systemMsg = '你是新闻分析助手，必须返回合法JSON') {
   return new Promise((resolve, reject) => {
     const body = JSON.stringify({
@@ -45,7 +50,7 @@ function callAI(prompt, maxTokens = 400, systemMsg = '你是新闻分析助手�
       })
     })
     req.on('error', reject)
-    req.setTimeout(60000, () => { req.destroy(); reject(new Error('timeout')) })
+    req.setTimeout(REQ_TIMEOUT_MS, () => { req.destroy(); reject(new Error('timeout')) })
     req.write(body)
     req.end()
   })
@@ -85,7 +90,7 @@ function callAIText(prompt, maxTokens = 2000) {
       })
     })
     req.on('error', reject)
-    req.setTimeout(60000, () => { req.destroy(); reject(new Error('timeout')) })
+    req.setTimeout(REQ_TIMEOUT_MS, () => { req.destroy(); reject(new Error('timeout')) })
     req.write(body)
     req.end()
   })
@@ -199,9 +204,16 @@ async function main() {
   console.log(`API: SiliconFlow (${MODEL})`)
 
   let aiCount = 0, failCount = 0, transCount = 0
+  const start = Date.now()
+  let consecutiveFails = 0
 
   for (let i = 0; i < articles.length; i++) {
     const article = articles[i]
+    // 全局时间预算：到点即停止 AI，让流水线能走到 Cluster/Generate/Commit
+    if (Date.now() - start > AI_BUDGET_MS) {
+      console.log(`\n[AI] 已达时间预算(${AI_BUDGET_MS / 60000}分钟)，剩余 ${articles.length - i} 篇改用启发式摘要，确保流水线完成并提交`)
+      break
+    }
     const needMeta = !article.summary || !article.score || !article.tags?.length
     const needTrans = !article.contentZh && article.contentFull && !isChinese(article.contentFull)
 
@@ -216,6 +228,7 @@ async function main() {
         article.tags = result.tags
         article.title = result.title
         aiCount++
+        consecutiveFails = 0
         process.stdout.write('✓')
       } catch (e) {
         article.summary = simpleSummary(article)
@@ -223,8 +236,14 @@ async function main() {
         article.score = simpleScore(article)
         article.tags = []
         failCount++
+        consecutiveFails++
         process.stdout.write('✗')
         if (failCount <= 2) console.log(`\n  错误: ${e.message.slice(0, 150)}`)
+        // 连续失败过多：判定 SiliconFlow 不可达，提前结束 AI 步骤，避免空等耗尽 job 超时
+        if (consecutiveFails >= MAX_CONSECUTIVE_FAILS) {
+          console.log(`\n[AI] 连续 ${MAX_CONSECUTIVE_FAILS} 次调用失败，疑似 SiliconFlow 不可达，提前结束 AI 步骤（其余文章用启发式）`)
+          break
+        }
       }
     }
 
