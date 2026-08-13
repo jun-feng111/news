@@ -8,10 +8,11 @@
     "build": "vite build",
     "preview": "vite preview",
     "collect": "node scripts/collect-rss.js",
+    "collect:moe": "node scripts/collect-moe-policy.js",
     "ai": "node scripts/ai-process.js",
     "cluster": "node scripts/cluster.js",
     "generate": "node scripts/generate-json.js",
-    "update": "node scripts/collect-rss.js && node scripts/ai-process.js && node scripts/cluster.js && node scripts/generate-json.js"
+    "update": "node scripts/collect-rss.js && node scripts/collect-moe-policy.js && node scripts/ai-process.js && node scripts/cluster.js && node scripts/generate-json.js"
   },
   "dependencies": {
     "@element-plus/icons-vue": "^2.3.0",
