@@ -1,119 +1,32 @@
 {
-  "AI": [
+  "科技": [
     {
-      "id": "ee092482a3ff",
-      "title": "发现材料玩打地地洞游戏以寻找更凉爽的芯片",
-      "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
-      "content": "",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-10T12:00:00.000Z",
-      "fetched": "2026-08-11T09:32:36.354Z",
-      "summary": "研究人员发现了一种材料，可以 playing AI whack-a-mole的游戏来的目标是寻找更凉爽的芯片。",
-      "score": 801,
-      "tags": []
-    },
-    {
-      "id": "203504a11775",
-      "title": "Meta 推出重塑挣扎中的AI 语言模型",
-      "url": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
+      "id": "488f76317f8c",
+      "title": "研究人员购买noreply.net，公司，公司公司公司，公司公司",
+      "url": "https://arstechnica.com/security/2026/08/a-researcher-bought-noreply-net-companies-started-sending-him-secrets/",
       "content": "",
       "source": "Ars Technica",
-      "category": "AI",
-      "published": "2026-08-10T22:13:03.000Z",
+      "category": "科技",
+      "published": "2026-08-10T14:25:50.000Z",
       "fetched": "2026-08-11T09:32:37.672Z",
-      "summary": "Meta 正在推出一项新的 AI 语言模型，以重塑其在 AI 领域的布局地位。",
-      "score": 705,
+      "contentFull": "",
+      "fetchedFull": "failed",
+      "summary": "一名研究人员购买了noreply.net，，，，，，，，，，",
+      "score": 600109010900,
       "tags": []
     },
     {
-      "id": "48cf888df404",
-      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-      "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+      "id": "cd0432e472a7",
+      "title": "货运公司被传调查黑客入侵事件",
+      "url": "https://techcrunch.com/2026/08/12/uber-freight-reportedly-investigating-after-hacking-group-claims-data-breach/",
       "content": "",
       "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-10T23:56:15.000Z",
-      "fetched": "2026-08-11T09:32:36.353Z",
-      "summary": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-      "score": 80,
+      "category": "科技",
+      "published": "2026-08-12T17:15:41.000Z",
+      "fetched": "2026-08-13T01:54:56.711Z",
+      "summary": "货运公司据传正在正在调查一起黑客入侵事件。",
+      "score": 601001009.27,
       "tags": []
-    },
-    {
-      "id": "b5e0104f574c",
-      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
-      "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
-      "content": "",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-11T00:03:18.000Z",
-      "fetched": "2026-08-11T09:32:36.353Z",
-      "summary": "OpenAI reportedly completed a $7 billion employee tender offer",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "9f4258eff4d0",
-      "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
-      "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
-      "content": "",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-10T20:04:24.000Z",
-      "fetched": "2026-08-11T09:32:36.353Z",
-      "summary": "Tech industry is buzzing after a Claude agent hacked into a gym",
-      "score": 70,
-      "tags": []
-    }
-  ],
-  "开发": [
-    {
-      "id": "6164dec98144",
-      "title": "斯巴达人出类拔萃：出色的内饰与精致的驾乘体验，有争议的外观设计",
-      "url": "https://arstechnica.com/cars/2026/08/2026-subaru-outback-limited-review-boxy-outside-almost-premium-inside/",
-      "content": "",
-      "source": "Ars Technica",
-      "category": "开发",
-      "published": "2026-08-10T14:49:21.000Z",
-      "fetched": "2026-08-11T09:32:37.672Z",
-      "summary": "斯6-ub斯 kukuk6 Subaru车型表现出色色出色的内饰与精致的驾乘体验，但外观设计却引起了一些争议。",
-      "score": 85,
-      "tags": [
-        "汽车",
-        ", "
-      ]
-    },
-    {
-      "id": "92f40b79e3f8",
-      "title": "Aptoide becomes the first rival app store to return to Google Play in the US",
-      "url": "https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/",
-      "content": "",
-      "source": "TechCrunch",
-      "category": "开发",
-      "published": "2026-08-10T18:31:54.000Z",
-      "fetched": "2026-08-11T09:32:36.353Z",
-      "summary": "sptoats 成为了美国地区Google的竞争对手，",
-      "score": 78,
-      "tags": [
-        "sptoats",
-        ", Android地区"
-      ]
-    },
-    {
-      "id": "559fae196559",
-      "title": "扎克克克克克 kuk Zuckerberg详述AI理念为何人们担忧AI",
-      "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
-      "content": "",
-      "source": "TechCrunch",
-      "category": "开发",
-      "published": "2026-08-10T20:53:02.000Z",
-      "fetched": "2026-08-11T09:32:36.353Z",
-      "summary": "扎克gles Zuckerberg在一篇文章中详细阐述了他的AI理念，但文章中提到了人们对于AI的担忧。",
-      "score": 70,
-      "tags": [
-        "AI",
-        "扎s克克 Zuckerberg"
-      ]
     },
     {
       "id": "4100cae384df",
@@ -121,148 +34,502 @@
       "url": "https://techcrunch.com/2026/08/10/social-media-platforms-still-facing-thousands-of-user-addiction-lawsuits-after-failed-appeals/",
       "content": "",
       "source": "TechCrunch",
-      "category": "开发",
+      "category": "科技",
       "published": "2026-08-10T18:30:33.000Z",
       "fetched": "2026-08-11T09:32:36.353Z",
-      "summary": "社交媒体平台面临数千起成瘾诉讼，失败上诉。",
-      "score": 70,
+      "contentFull": "\nIn Brief\nPosted:\n\n\n11:30 AM PDT · August 10, 2026\n\n\n\nImage Credits:Jonathan Raa/NurPhoto / Getty Images\n\n\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\n\t\n\n\n\n\n\nSocial media companies like Meta, TikTok, Snapchat, and Google are facing a long road of litigation over claims that they intentionally designed their products to be addictive to minors. \n\nAccording to a report from Reuters, San Francisco’s 9th U.S. Circuit Court of Appeals denied these platforms’ attempt to defend themselves from thousands of lawsuits through an argument based on Section 230, which protects publishers and platforms from being held liable for users’ posts. The companies argued that Section 230 could also protect them from the claim that they did not warn the public about addictive design choices, but the court said the appeal may have come too soon, since this type of appeal usually arrives after a trial.\n\n\n\n\n\n\n\nThese thousands of lawsuits, which come from private individuals, state and local governments, and school districts, were consolidated into one federal suit and will proceed as such. \n\nIt’s too early to say how these addictive design lawsuits will pan out, but so far, Meta lost two lawsuits over similar issues, marking the first time that the platform was held liable over child safety concerns in jury trials.\n\n\n\n\n\n\tTopics\n\t\n\n\n\t\n\t\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\t\n\t\t\n\t\n\t\n\n\n\n\n\n\n\n\n\nLatest in Social\n\n\n\n\n\n",
+      "contentHtml": "<div id=\"readability-page-1\" class=\"page\"><div>\n<div><p><span>In Brief</span></p><div>\n<p>Posted:</p>\n\n\n<p><time datetime=\"2026-08-10T11:30:33-07:00\">11:30 AM PDT · August 10, 2026</time></p></div>\n</div>\n\n\n<figure><img width=\"1024\" height=\"681\" src=\"https://techcrunch.com/wp-content/uploads/2024/06/social-media-icons.jpg?w=1024\" alt=\"finger pointing to Facebook mobile app displayed on a smartphone screen\" decoding=\"async\" fetchpriority=\"high\" srcset=\"https://techcrunch.com/wp-content/uploads/2024/06/social-media-icons.jpg 6040w, https://techcrunch.com/wp-content/uploads/2024/06/social-media-icons.jpg?resize=150,100 150w, https://techcrunch.com/wp-content/uploads/2024/06/social-media-icons.jpg?resize=300,200 300w, https://techcrunch.com/wp-content/uploads/2024/06/social-media-icons.jpg?resize=768,511 768w, https://techcrunch.com/wp-content/uploads/2024/06/social-media-icons.jpg?resize=680,452 680w, https://techcrunch.com/wp-content/uploads/2024/06/social-media-icons.jpg?resize=1200,798 1200w, https://techcrunch.com/wp-content/uploads/2024/06/social-media-icons.jpg?resize=1280,852 1280w, https://techcrunch.com/wp-content/uploads/2024/06/social-media-icons.jpg?resize=430,286 430w, https://techcrunch.com/wp-content/uploads/2024/06/social-media-icons.jpg?resize=720,479 720w, https://techcrunch.com/wp-content/uploads/2024/06/social-media-icons.jpg?resize=900,599 900w, https://techcrunch.com/wp-content/uploads/2024/06/social-media-icons.jpg?resize=800,532 800w, https://techcrunch.com/wp-content/uploads/2024/06/social-media-icons.jpg?resize=1536,1022 1536w, https://techcrunch.com/wp-content/uploads/2024/06/social-media-icons.jpg?resize=2048,1363 2048w, https://techcrunch.com/wp-content/uploads/2024/06/social-media-icons.jpg?resize=668,444 668w, https://techcrunch.com/wp-content/uploads/2024/06/social-media-icons.jpg?resize=564,375 564w, https://techcrunch.com/wp-content/uploads/2024/06/social-media-icons.jpg?resize=927,617 927w, https://techcrunch.com/wp-content/uploads/2024/06/social-media-icons.jpg?resize=708,471 708w, https://techcrunch.com/wp-content/uploads/2024/06/social-media-icons.jpg?resize=50,33 50w\" sizes=\"(max-width: 1024px) 100vw, 1024px\"><figcaption><strong>Image Credits:</strong>Jonathan Raa/NurPhoto / Getty Images</figcaption></figure>\n\n\n<div>\n\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t\t<img src=\"https://techcrunch.com/wp-content/uploads/2024/05/AS-headshot-2026-5-e1784563584242.jpg?w=668\" alt=\"Amanda Silberling\">\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t</ul>\n\t\t\n\t</div>\n\n\n\n\n<div>\n<p id=\"speakable-summary\">Social media companies like Meta, TikTok, Snapchat, and Google are facing a long road of litigation over claims that they intentionally designed their products to be addictive to minors. </p>\n\n<p>According to a report from <a href=\"https://www.reuters.com/world/us-appeals-court-allows-thousands-lawsuits-against-social-media-companies-over-2026-08-10/\" target=\"_blank\" rel=\"noreferrer noopener nofollow\">Reuters</a>, San Francisco’s 9th U.S. Circuit Court of Appeals denied these platforms’ attempt to defend themselves from thousands of lawsuits through an argument based on Section 230, which protects publishers and platforms from being held liable for users’ posts. The companies argued that Section 230 could also protect them from the claim that they did not warn the public about addictive design choices, but the court said the appeal may have come too soon, since this type of appeal usually arrives after a trial.</p>\n\n\n\n\n\n\n\n<p>These thousands of lawsuits, which come from private individuals, state and local governments, and school districts, were consolidated into one federal suit and will proceed as such. </p>\n\n<p>It’s too early to say how these addictive design lawsuits will pan out, but so far, Meta <a href=\"https://techcrunch.com/2026/03/31/meta-was-finally-held-accountable-for-harming-teens-now-what/\" target=\"_blank\" rel=\"noreferrer noopener\">lost two lawsuits</a> over similar issues, marking the first time that the platform was held liable over child safety concerns in jury trials.</p>\n\n\n</div>\n\n<div>\n\t<p>Topics</p>\n\t\n</div>\n</div><div><div>\n\t<div>\n\t\t\n\t\t<p>Subscribe for the industry’s biggest tech news</p>\n\t</div>\n\t<form method=\"POST\" action=\"/\">\n\t\t\n\t</form>\n\t\n</div>\n\n\n\n\n\n\n\n<p>\n<h2 id=\"h-latest-in\">Latest in Social</h2>\n</p>\n\n\n\n\n</div></div>",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/06/social-media-icons.jpg?resize=1200,798",
+      "fetchedFull": "2026-08-12T01:39:30.752Z",
+      "summary": "社交媒体平台继续数千起成瘾诉讼在上诉失败后仍继续",
+      "score": 7850,
       "tags": [
         "社交媒体",
-        ",成瘾诉讼"
-      ]
+        ",诉讼"
+      ],
+      "contentZh": "\nIn Brief\nPosted:\n\n\n11:30 AM PDT · August 10, 2026\n\n\n\nImage Credits:Jonathan Raa/NurPhoto / Getty Images\n\n\n\n\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\n\t\n\n\n\n\n\nSocial media companies like Meta, TikTok, Snapchat, and Google are facing a long road of litigation over claims that they intentionally designed their products to be addictive to minors. \n\nAccording to a report from Reuters, San Francisco’s 9th U.S. Circuit Court of Appeals denied these platforms’ attempt to defend themselves from thousands of lawsuits through an argument based on Section 230, which protects publishers and platforms from being held liable for users’ posts. The companies argued that Section 230 could also protect them from the claim that they did not warn the public about addictive design choices, but the court said the appeal may have come too soon, since this type of appeal usually arrives after a trial.\n\n\n\n\n\n\n\nThese thousands of lawsuits, which come from private individuals, state and local governments, and school districts, were consolidated into one federal suit and will proceed as such. \n\nIt’s too early to say how these addictive design lawsuits will pan out, but so far, Meta lost two lawsuits over similar issues, marking the first time that the platform was held liable over child safety concerns in jury trials.\n\n\n\n\n\n\tTopics\n\t\n\n\n\t\n\t\t\n\t\tSubscribe for the industry’s biggest tech news\n\t\n\t\n\t\t\n\t\n\t\n\n\n\n\n\n\n\n\n\nLatest in Social\n\n\n\n\n\n"
     },
     {
-      "id": "604117c8d4e6",
-      "title": "Clickclicks键盘将BlackBerry打字体验带到任何手机但需妥协",
-      "url": "https://techcrunch.com/2026/08/10/clicks-power-keyboard-brings-blackberry-style-typing-to-any-phone-with-some-compromises/",
+      "id": "1178b8b99370",
+      "title": "The first self-driving vehicle on Mars has proven to be a smashing success",
+      "url": "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
       "content": "",
-      "source": "TechCrunch",
-      "category": "开发",
-      "published": "2026-08-10T18:00:39.000Z",
-      "fetched": "2026-08-11T09:32:36.354Z",
-      "summary": "Clickclicks键盘将将BlackBerry的打字体验带到任何手机，，",
-      "score": 70,
+      "source": "Ars Technica",
+      "category": "科技",
+      "published": "2026-08-08T11:30:48.000Z",
+      "fetched": "2026-08-11T09:32:37.672Z",
+      "contentFull": "",
+      "fetchedFull": "failed",
+      "summary": "火星上的自动驾驶车辆试验取得了巨大成功",
+      "score": 901,
       "tags": [
-        "BlackBerry",
-        "键盘"
+        "火星探测",
+        "自动驾驶技术"
       ]
-    }
-  ],
-  "科技": [
+    },
     {
-      "id": "cb35a4edee6d",
-      "title": "Now Rippling is counter-suing tiny startup Runlayer",
-      "url": "https://techcrunch.com/2026/08/10/now-rippling-is-counter-suing-tiny-startup-runlayer/",
+      "id": "14dc2f0cade5",
+      "title": "能源公司增加更多电力到电网",
+      "url": "https://techcrunch.com/2026/08/12/form-energy-raises-750m-to-build-more-100-hour-batteries-for-the-grid/",
       "content": "",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-08-10T22:26:54.000Z",
-      "fetched": "2026-08-11T09:32:36.353Z",
-      "summary": "Now Rippling is counter-suing tiny startup Runlayer",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "b16a9d72067a",
-      "title": "Sila lands $1.4B Pentagon loan as militaries demand more batteries",
-      "url": "https://techcrunch.com/2026/08/10/sila-lands-1-4b-pentagon-loan-as-militaries-demand-more-batteries/",
-      "content": "",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-10T15:22:42.000Z",
-      "fetched": "2026-08-11T09:32:36.354Z",
-      "summary": "Sila lands $1。4B Pentagon loan as militaries demand more batteries",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "d2a64df2821e",
-      "title": "Google Play adds Venmo as a payment option",
-      "url": "https://techcrunch.com/2026/08/10/google-play-adds-venmo-as-a-payment-option/",
-      "content": "",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-10T12:00:00.000Z",
-      "fetched": "2026-08-11T09:32:36.354Z",
-      "summary": "Google Play adds Venmo as a payment option",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "efdc8660f9f3",
-      "title": "Ars Live: Ross Scott discusses the Stop Killing Games movement",
-      "url": "https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/",
-      "content": "",
-      "source": "Ars Technica",
-      "category": "科技",
-      "published": "2026-08-10T22:23:43.000Z",
-      "fetched": "2026-08-11T09:32:37.672Z",
-      "summary": "Ars Live: Ross Scott discusses the Stop Killing Games movement",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "8981724d988a",
-      "title": "Has Ford got cheap car fever? A $25K crossover is supposedly on the way.",
-      "url": "https://arstechnica.com/cars/2026/08/has-ford-got-cheap-car-fever-allegedly-a-25k-crossover-is-on-the-way/",
-      "content": "",
-      "source": "Ars Technica",
-      "category": "科技",
-      "published": "2026-08-10T17:07:47.000Z",
-      "fetched": "2026-08-11T09:32:37.672Z",
-      "summary": "Has Ford got cheap car fever。 A $25K crossover is supposedly on the way",
-      "score": 70,
-      "tags": []
+      "published": "2026-08-12T16:18:23.000Z",
+      "fetched": "2026-08-13T01:54:56.711Z",
+      "summary": "能源公司正在增加更多电力以满足电网需求",
+      "score": 85,
+      "tags": [
+        "能源",
+        ", "
+      ],
+      "cluster_id": "event_0"
     }
   ],
   "综合": [
     {
-      "id": "562905a5974e",
-      "title": "特朗普签署法案，禁止购买新冠疫苗并并支持那些不存在的疫苗",
-      "url": "https://arstechnica.com/health/2026/08/trump-signs-bonkers-order-that-cuts-vaccines-promotes-ones-that-dont-exist/",
+      "id": "4afaf21f29e6",
+      "title": "Taylor Farms因Cyclospora爆发召回 jalape-noe含沙门氏菌的jalapeño产品",
+      "url": "https://arstechnica.com/health/2026/08/taylor-farms-recalls-jalapeno-products-for-salmonella-amid-cyclospora-outbreak/",
       "content": "",
       "source": "Ars Technica",
       "category": "综合",
-      "published": "2026-08-10T21:42:56.000Z",
+      "published": "2026-08-10T16:37:08.000Z",
       "fetched": "2026-08-11T09:32:37.672Z",
-      "summary": "特朗普签署了一项法案，禁止购买新冠疫苗，并，并支持支持持那些不存在的疫苗",
+      "contentFull": "",
+      "fetchedFull": "failed",
+      "summary": "Taylor Farms因Cyclopsora爆发召回jalapeño产品，沙门氏菌",
+      "score": 7001600000,
+      "tags": [
+        "食品安全",
+        "Cal"
+      ]
+    },
+    {
+      "id": "f27eeb7a2aa7",
+      "title": "Trump wants Big Pharma to split MMR vaccine; Big Pharma thinks it's idiotic",
+      "url": "https://arstechnica.com/health/2026/08/trump-wants-big-pharma-to-split-mmr-vaccine-big-pharma-thinks-its-idiotic/",
+      "content": "",
+      "source": "Ars Technica",
+      "category": "综合",
+      "published": "2026-08-11T22:31:45.000Z",
+      "fetched": "2026-08-13T01:54:59.845Z",
+      "summary": "特朗普政府希望迫使大型制药公司商拆分MMR疫苗，生产，但大型制药公司商认为这是个愚蠢的想法。",
+      "score": 500000009,
+      "tags": []
+    },
+    {
+      "id": "dfc014f8cab9",
+      "title": "航行警告！南海部分海域进行军事训练 禁止驶入",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-13/10676737.shtml",
+      "content": "中新网8月13日电 据中国海事局网站消息，清澜海事局发布航行警告，8月13日9时至12时、14日10时至11时30分、15日9时至12时，南海部分海域进行军事训练，禁止驶入。",
+      "source": "中新网滚动",
+      "category": "综合",
+      "published": "2026-08-13T01:25:04.000Z",
+      "fetched": "2026-08-13T01:55:01.271Z",
+      "summary": "清澜海事局发布航行警告，8月1日至14日、1至至至11，，南海部分海域进行军事训练，禁止驶入。",
+      "score": 5010009,
+      "tags": [
+        "军事训练",
+        "tags"
+      ],
+      "cluster_id": "event_5"
+    },
+    {
+      "id": "90010db18ffe",
+      "title": "5年年，5万亿元增量！底气藏在能消费、敢消费、愿消费的每一笔账单单",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-11/10675835.shtml",
+      "content": "央视网消息：“十五五”开局之年，各专项规划自5月起陆续发布，截至7月底，我国已印发30份左右国家级“十五五”专项规划，覆盖扩大消费、城市更新、就业优先等各个领域，多个重点领域实现 顶层规划从无到有的历史性突破。《扩大消费“十五五”规划》(以下简称《规划》)是消费领域第一份国家级专项规划，明确了“十五五”时期消费领域发展的思路目标、重点任务和政策举措。这背后释放了哪些重要信号，将产生哪些影响？专家就此进行了解读。",
+      "source": "中新网滚动",
+      "category": "综合",
+      "published": "2026-08-11T09:03:16.000Z",
+      "fetched": "2026-08-11T09:32:39.182Z",
+      "contentFull": "\n\n　　央视网消息：“十五五”开局之年，各专项规划自5月起陆续发布，截至7月底，我国已印发30份左右国家级“十五五”专项规划，覆盖扩大消费、城市更新、就业优先等各个领域，多个重点领域实现 顶层规划从无到有的历史性突破。《扩大消费“十五五”规划》(以下简称《规划》)是消费领域第一份国家级专项规划，明确了“十五五”时期消费领域发展的思路目标、重点任务和政策举措。这背后释放了哪些重要信号，将产生哪些影响？专家就此进行了解读。\n\n　　《扩大消费“十五五”规划》提出，到2030年，消费市场总体规模持续扩大，居民消费率明显提高，全社会商品和服务消费较快增长，社会消费品零售总额达到60万亿元左右，消费对经济增长的拉动作用进一步增强。\n\n\n\n　　首都经济贸易大学消费大数据研究院教授陈立平表示，国家设立社零总额60万亿元的目标，是锚定未来5年内需主导的格局来设计的。这充分说明，“十五五”时期，消费依然是经济增长的“压舱石”，我国消费增长的空间依然十分巨大。\n\n　　专家表示，让消费“挑大梁”关键要解决“有钱敢花”的良性循环。此次《规划》提出，要“完善扩大居民消费长效机制”，这种从“政策驱动”向“制度驱动”的转变是促消费逻辑的根本性转变。\n\n　　国务院发展研究中心市场经济研究所市场流通研究室主任陈丽芬表示，通过稳就业、涨收入、完善社保，从而夯实居民消费能力的根基，持续扩大消费规模。让居民消费从短期拉动变成长期、稳定的内生动力。\n\n　　《扩大消费“十五五”规划》精准锚定升级方向 促进服务消费提质惠民\n\n　　《扩大消费“十五五”规划》围绕6个方面部署了28条重点任务举措。其中，促进服务消费提质惠民被放在首要位置，聚焦养老、托育、文旅、健康等居民消费升级需求。\n\n　　陈立平表示，2025年，人均服务性消费支出占居民人均消费支出的比重达到46.1%。但需要看到的是，服务消费作为未来消费增长的核心增量，还存在优质供给不足的问题。因此，《规划》将促进服务提质惠民放在首项，确保居民放心消费、安心消费。\n\n\n\n　　《规划》还将“培育打造消费新业态新模式新场景”作为贯穿各领域的主线，明确深入推进“人工智能+消费”、因地制宜推进首发经济、培育体验式消费等。\n\n　　陈丽芬表示，通过拓展“人工智能+消费”新场景，更好满足大家多元化、个性化的消费需求。总体而言，《扩大消费“十五五”规划》更侧重的是优结构、惠民生，把消费升级真正落到百姓的生活当中来，成为经济增长的内生动力。\n\n　　从一笔账单看60万亿消费KPI的底气\n\n　　《扩大消费“十五五”规划》明确，到2030年社会消费品零售总额达到60万亿元左右。目标有了，增量如何实现？翻开手边的消费账单寻找答案。\n\n　　翻开你的消费账单，有没有发现你的钱花法变了？\n\n　　以前花钱买实物商品，现在更愿为“体验”买单。“跟着电影去旅行”成了新潮流，一场演唱会能盘活一整片商圈，逛街变成了逛展、打卡、微旅行。上半年，全国服务零售额增速5.3%，跑赢商品零售。博物馆沉浸展收入增速24.6%，文艺表演增速28.3%，“歌迷专列”“球迷专列”开了445列。服务消费逐渐站上账单“C位”。\n\n\n\n　　不光消费玩法在变，硬核好物也持续“上新”。能帮你做体检的智能镜子、陪老人聊天的机器人、戴上就能意念操控的设备……这些新物件正从“展品”变“商品”，从“尝鲜”变“日常”。\n\n　　汽车、家电、家居这些大件消费依旧是账单里的重头戏。2025年，以旧换新补贴惠及超3.6亿人次，拉动了2.6万亿元的消费，千家万户的“焕新”稳稳托住实物消费基本盘。\n\n　　从“买商品”到“享服务”，从“有钱花”到“花得值”，消费玩法在变，生活质感在升。从50万亿元到60万亿元，5年跨越近10万亿元增量的底气就藏在我们能消费、敢消费、愿消费的每一笔账单里。【编辑:叶攀】 \n                        ",
+      "contentHtml": "<div id=\"readability-page-1\" class=\"page\"><div>\n\n<p>　　<strong>央视网消息：</strong>“十五五”开局之年，各专项规划自5月起陆续发布，截至7月底，我国已印发30份左右国家级“十五五”专项规划，覆盖扩大消费、城市更新、就业优先等各个领域，多个重点领域实现 顶层规划从无到有的历史性突破。《扩大消费“十五五”规划》(以下简称《规划》)是消费领域第一份国家级专项规划，明确了“十五五”时期消费领域发展的思路目标、重点任务和政策举措。这背后释放了哪些重要信号，将产生哪些影响？专家就此进行了解读。</p>\n\n<p>　　《扩大消费“十五五”规划》提出，到2030年，消费市场总体规模持续扩大，居民消费率明显提高，全社会商品和服务消费较快增长，社会消费品零售总额达到60万亿元左右，消费对经济增长的拉动作用进一步增强。</p>\n\n<p><img src=\"https://i2.chinanews.com.cn/simg/cmshd/2026/08/11/79b431594915422eb2897b41dcc96228.png\" alt=\"\"></p>\n\n<p>　　首都经济贸易大学消费大数据研究院教授陈立平表示，国家设立社零总额60万亿元的目标，是锚定未来5年内需主导的格局来设计的。这充分说明，“十五五”时期，消费依然是经济增长的“压舱石”，我国消费增长的空间依然十分巨大。</p>\n\n<p>　　专家表示，让消费“挑大梁”关键要解决“有钱敢花”的良性循环。此次《规划》提出，要“完善扩大居民消费长效机制”，这种从“政策驱动”向“制度驱动”的转变是促消费逻辑的根本性转变。</p>\n\n<p>　　国务院发展研究中心市场经济研究所市场流通研究室主任陈丽芬表示，通过稳就业、涨收入、完善社保，从而夯实居民消费能力的根基，持续扩大消费规模。让居民消费从短期拉动变成长期、稳定的内生动力。</p>\n\n<p>　<strong>　《扩大消费“十五五”规划》精准锚定升级方向 促进服务消费提质惠民</strong></p>\n\n<p>　　《扩大消费“十五五”规划》围绕6个方面部署了28条重点任务举措。其中，促进服务消费提质惠民被放在首要位置，聚焦养老、托育、文旅、健康等居民消费升级需求。</p>\n\n<p>　　陈立平表示，2025年，人均服务性消费支出占居民人均消费支出的比重达到46.1%。但需要看到的是，服务消费作为未来消费增长的核心增量，还存在优质供给不足的问题。因此，《规划》将促进服务提质惠民放在首项，确保居民放心消费、安心消费。</p>\n\n<p><img src=\"https://i2.chinanews.com.cn/simg/cmshd/2026/08/11/d36eb9eb3f7c47cc9874e993146e8872.png\" alt=\"\"></p>\n\n<p>　　《规划》还将“培育打造消费新业态新模式新场景”作为贯穿各领域的主线，明确深入推进“人工智能+消费”、因地制宜推进首发经济、培育体验式消费等。</p>\n\n<p>　　陈丽芬表示，通过拓展“人工智能+消费”新场景，更好满足大家多元化、个性化的消费需求。总体而言，《扩大消费“十五五”规划》更侧重的是优结构、惠民生，把消费升级真正落到百姓的生活当中来，成为经济增长的内生动力。</p>\n\n<p>　　<strong>从一笔账单看60万亿消费KPI的底气</strong></p>\n\n<p>　　《扩大消费“十五五”规划》明确，到2030年社会消费品零售总额达到60万亿元左右。目标有了，增量如何实现？翻开手边的消费账单寻找答案。</p>\n\n<p>　　翻开你的消费账单，有没有发现你的钱花法变了？</p>\n\n<p>　　以前花钱买实物商品，现在更愿为“体验”买单。“跟着电影去旅行”成了新潮流，一场演唱会能盘活一整片商圈，逛街变成了逛展、打卡、微旅行。上半年，全国服务零售额增速5.3%，跑赢商品零售。博物馆沉浸展收入增速24.6%，文艺表演增速28.3%，“歌迷专列”“球迷专列”开了445列。服务消费逐渐站上账单“C位”。</p>\n\n<p><img src=\"https://i2.chinanews.com.cn/simg/cmshd/2026/08/11/ca8c8725035849328ee02893aa003933.png\" alt=\"\"></p>\n\n<p>　　不光消费玩法在变，硬核好物也持续“上新”。能帮你做体检的智能镜子、陪老人聊天的机器人、戴上就能意念操控的设备……这些新物件正从“展品”变“商品”，从“尝鲜”变“日常”。</p>\n\n<p>　　汽车、家电、家居这些大件消费依旧是账单里的重头戏。2025年，以旧换新补贴惠及超3.6亿人次，拉动了2.6万亿元的消费，千家万户的“焕新”稳稳托住实物消费基本盘。</p>\n\n<p>　　从“买商品”到“享服务”，从“有钱花”到“花得值”，消费玩法在变，生活质感在升。从50万亿元到60万亿元，5年跨越近10万亿元增量的底气就藏在我们能消费、敢消费、愿消费的每一笔账单里。</p><div><!--编辑姓名start--><p><span>【编辑:叶攀】 </span></p><!--编辑姓名end--></div>\n                        </div></div>",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "fetchedFull": "2026-08-12T01:40:46.022Z",
+      "summary": "十五五”开局之年年年，各专项规划自5月月起陆续发布，截至7月底，我国已印发3份左右国家级“十五五”专项规划",
+      "score": 800092,
+      "tags": [
+        "扩大消费、敢消费、愿消费",
+        "tags"
+      ],
+      "contentZh": "\n\n　　央视网消息：“十五五”开局之年，各专项规划自5月起陆续发布，截至7月底，我国已印发30份左右国家级“十五五”专项规划，覆盖扩大消费、城市更新、就业优先等各个领域，多个重点领域实现 顶层规划从无到有的历史性突破。《扩大消费“十五五”规划》(以下简称《规划》)是消费领域第一份国家级专项规划，明确了“十五五”时期消费领域发展的思路目标、重点任务和政策举措。这背后释放了哪些重要信号，将产生哪些影响？专家就此进行了解读。\n\n　　《扩大消费“十五五”规划》提出，到2030年，消费市场总体规模持续扩大，居民消费率明显提高，全社会商品和服务消费较快增长，社会消费品零售总额达到60万亿元左右，消费对经济增长的拉动作用进一步增强。\n\n\n\n　　首都经济贸易大学消费大数据研究院教授陈立平表示，国家设立社零总额60万亿元的目标，是锚定未来5年内需主导的格局来设计的。这充分说明，“十五五”时期，消费依然是经济增长的“压舱石”，我国消费增长的空间依然十分巨大。\n\n　　专家表示，让消费“挑大梁”关键要解决“有钱敢花”的良性循环。此次《规划》提出，要“完善扩大居民消费长效机制”，这种从“政策驱动”向“制度驱动”的转变是促消费逻辑的根本性转变。\n\n　　国务院发展研究中心市场经济研究所市场流通研究室主任陈丽芬表示，通过稳就业、涨收入、完善社保，从而夯实居民消费能力的根基，持续扩大消费规模。让居民消费从短期拉动变成长期、稳定的内生动力。\n\n　　《扩大消费“十五五”规划》精准锚定升级方向 促进服务消费提质惠民\n\n　　《扩大消费“十五五”规划》围绕6个方面部署了28条重点任务举措。其中，促进服务消费提质惠民被放在首要位置，聚焦养老、托育、文旅、健康等居民消费升级需求。\n\n　　陈立平表示，2025年，人均服务性消费支出占居民人均消费支出的比重达到46.1%。但需要看到的是，服务消费作为未来消费增长的核心增量，还存在优质供给不足的问题。因此，《规划》将促进服务提质惠民放在首项，确保居民放心消费、安心消费。\n\n\n\n　　《规划》还将“培育打造消费新业态新模式新场景”作为贯穿各领域的主线，明确深入推进“人工智能+消费”、因地制宜推进首发经济、培育体验式消费等。\n\n　　陈丽芬表示，通过拓展“人工智能+消费”新场景，更好满足大家多元化、个性化的消费需求。总体而言，《扩大消费“十五五”规划》更侧重的是优结构、惠民生，把消费升级真正落到百姓的生活当中来，成为经济增长的内生动力。\n\n　　从一笔账单看60万亿消费KPI的底气\n\n　　《扩大消费“十五五”规划》明确，到2030年社会消费品零售总额达到60万亿元左右。目标有了，增量如何实现？翻开手边的消费账单寻找答案。\n\n　　翻开你的消费账单，有没有发现你的钱花法变了？\n\n　　以前花钱买实物商品，现在更愿为“体验”买单。“跟着电影去旅行”成了新潮流，一场演唱会能盘活一整片商圈，逛街变成了逛展、打卡、微旅行。上半年，全国服务零售额增速5.3%，跑赢商品零售。博物馆沉浸展收入增速24.6%，文艺表演增速28.3%，“歌迷专列”“球迷专列”开了445列。服务消费逐渐站上账单“C位”。\n\n\n\n　　不光消费玩法在变，硬核好物也持续“上新”。能帮你做体检的智能镜子、陪老人聊天的机器人、戴上就能意念操控的设备……这些新物件正从“展品”变“商品”，从“尝鲜”变“日常”。\n\n　　汽车、家电、家居这些大件消费依旧是账单里的重头戏。2025年，以旧换新补贴惠及超3.6亿人次，拉动了2.6万亿元的消费，千家万户的“焕新”稳稳托住实物消费基本盘。\n\n　　从“买商品”到“享服务”，从“有钱花”到“花得值”，消费玩法在变，生活质感在升。从50万亿元到60万亿元，5年跨越近10万亿元增量的底气就藏在我们能消费、敢消费、愿消费的每一笔账单里。【编辑:叶攀】 \n                        ",
+      "cluster_id": "event_5"
+    },
+    {
+      "id": "d71dc8337268",
+      "title": "西藏日喀则第十九届珠峰文化旅游节在珠峰大剧院开幕",
+      "url": "https://www.chinanews.com.cn/mz/2026/08-13/10676768.shtml",
+      "content": "中新网日喀则8月13日电 (拉巴卓玛 谢牧)12日晚，以“珠峰之乡·吉祥日喀则”为主题的西藏日喀则第十九届珠峰文化旅游节在珠峰大剧院开幕。",
+      "source": "中新网滚动",
+      "category": "综合",
+      "published": "2026-08-13T01:38:37.000Z",
+      "fetched": "2026-08-13T01:55:01.270Z",
+      "summary": "8月1日晚，，，，日喀则第十九届珠峰文化旅游节在珠峰大剧院开幕，",
+      "score": 7009,
+      "tags": []
+    }
+  ],
+  "AI": [
+    {
+      "id": "e89877560e64",
+      "title": "AI杂谈：面试AI Coding，我只看你是不是驾驶员- - 程序师SevenSeven",
+      "url": "https://www.cnblogs.com/sevencoding/p/22338415",
+      "content": "这两年面试，AI相关的问题越来越多。当然了，这里说的不是AI算法岗的面试，而是大模型应用开发，或者传统后端开发中的面试。有没有同学会想，面试官到底想考你什么？ 我发现一个很有意思的现象： 很多同学聊AI的时候，像是在聊新闻联播。 DeepSeek、Agent、上下文窗口、推理模型、多模态、MCP，一",
+      "source": "博客园",
+      "category": "AI",
+      "published": "2026-08-11T01:00:00.000Z",
+      "fetched": "2026-08-11T09:32:42.767Z",
+      "summary": "这两年面试，AI相关的问题越来越多。当然了七这里说的不是AI算法岗的面试七而是大模型应用开发或者传统后端开发中的面试七有没有同学会想面试官到底想考你什么？我发现一个很有意思的现象：很多同学聊AI的时候像是在聊新闻联播。",
+      "score": 700301,
+      "tags": []
+    },
+    {
+      "id": "5c5168c5d323",
+      "title": "AI进课堂，如何坚守教育本质？",
+      "url": "https://www.chinanews.com.cn/edu/2026/08-07/10673496.shtml",
+      "content": "当前，人工智能正在打破传统学科壁垒与人才培养的固有思维，改变教育的底层逻辑和样态。前不久，教育部等5部门印发《“人工智能+教育”行动计划》。AI时代，需要培养什么样的人才？学校教什么、教师如何教、学生如何学？这场教育领域的AI大考，已成为我们要面对的现实课题。",
+      "source": "中新网教育",
+      "category": "AI",
+      "published": "2026-08-07T03:20:00.000Z",
+      "fetched": "2026-08-11T09:32:38.572Z",
+      "contentFull": "\n\n　　当前，人工智能正在打破传统学科壁垒与人才培养的固有思维，改变教育的底层逻辑和样态。前不久，教育部等5部门印发《“人工智能+教育”行动计划》。AI时代，需要培养什么样的人才？学校教什么、教师如何教、学生如何学？这场教育领域的AI大考，已成为我们要面对的现实课题。\n\n　　AI诊疗系统能实时透视并引导医学生临床决策，AI助教能精准勾勒每位学生的思维轨迹，大模型将作物育种周期从数年缩短至数月……当前，以人工智能为核心的数字化浪潮正在重塑教育生态，从知识生产到培养模式，都在经历一场深刻的系统性变革。\n\n　　变革之下，深层挑战也随之浮现：传统学制培养模式如何追赶AI？学科专业壁垒被打破之后如何协同？在技术高歌猛进的同时，如何坚守教育的本质与人的价值？\n\n　　重塑教师角色\n\n　　AI进入课堂已不是新闻，但早期的应用多停留于智能批改、在线题库等工具层面。如今，AI已逐渐从辅助教学工具升级为重塑教育生态、重构教育体系、革新评价标准的重要驱动力。今年4月，教育部等5部门联合印发的《“人工智能+教育”行动计划》明确提出，到2030年，人工智能与教育深度融合格局基本形成，构建起纵向贯通、横向联通的人工智能全学段教育和全社会通识教育体系。\n\n　　在北京邮电大学，全新的未来学习大楼成为学校智慧教育的新地标。北京邮电大学计算机学院教授鄂海红将其描述为一个集教学、实践、创新于一体的未来学习综合体，实现教学场景从实验模拟向产业环境迁移。在这里，学生从知识的接受者转变为利用AI工具矩阵解决现实问题的创造者。\n\n　　如果说北京邮电大学的未来学习大楼致力于构建一个融合贯通的智慧教育新场域，那么，北京理工大学与华为共建的人工智能实践实验室则意在打造一个扎根于AI根技术的“新工坊”。该实验室探索的“理论—实践—应用创新”一站式教学新范式，已赋能化学化工、法学、经管等学科，学生在此可完成专业学习、科研创新、实训实践等一系列活动。\n\n　　如何让教学更精准，让学生更自主？2025年发布的《中国智慧教育白皮书》提出“四个未来”(未来教师、未来课堂、未来学习中心、未来学校)的未来教育发展新路径，被业内视为探索高等教育生态的重要切入点和落脚点。\n\n　　“自从去年将AI全面引入课堂，教学效率得到很大提升。但随后我们发现，AI直接冲击的是职业教育中的‘职业’。未来，我们应该教给学生什么？”山东旅游职业学院党委书记闫向军说。为此，学院着眼实际制订了行动计划，核心工作之一就是重新系统性评估各专业需要培养的能力与技能清单。“AI时代，教育转型迫在眉睫。我们必须厘清哪些技能已经失效，哪些发生了演变，又有哪些需要进一步拓展和强化。”\n\n　　政策端的响应已在路上。近日召开的2026年职业教育科(教)研工作会议上，教育部职业教育发展中心发布了专业人才培养方案修(制)订智能体及《基于AI的职业院校专业人才培养方案修(制)订工作指引》，将AI深度嵌入专业建设、课程开发和实践教学全流程。\n\n　　事实上，当下制约教育变革的，已从技术应用延伸至人，尤其是教师。长期以来，许多教师依赖固定的讲授模式，跨学科知识储备不足、对真实产业需求洞察有限，难以设计出有效激发学生探索与解决问题的教学场景。如何从传统的知识传授转向与AI协同教学，成为摆在高校教师面前的必答题。\n\n　　西安交通大学人工智能学院党委书记兰旭光认为，智能时代教师能力体系的构建，需要实现学科知识、教学方法与智能技术的深度融合，应将计算思维与人工智能素养作为教师培训的必备内容。\n\n　　为满足AI时代工程人才培养从“知识传授”向“能力生成”转型的需求，北京邮电大学自主研发了“邮百工”AI工程能力育人平台。该平台将传统工程教育重构为可运行的“虚拟工程社会”：教师可将课程目标转化为训练剧本、流程、场景、AI角色和评价标准；学生在真实需求、成本、性能等约束下，与AI导师、用户代表、行业专家等多类智能体开展演练与博弈。这一低成本、可扩展、可评价的工程实践环境，让学生的系统思维、工程判断、人机协同和复杂问题解决能力得到持续训练。华中师范大学的“师说”教师教育大模型则直面教师“教什么”“怎么教”“教得如何”三大问题，构建覆盖职前职后全周期的教师教育服务体系，以人工智能赋能教师队伍建设。\n\n　　一线教师也主动拥抱AI技术，积极探索“智能体教师”、微课脚本等创新模式，以破解传统教学中的长期痛点。“AI赋能教学不是为了让教师更轻松，而是让教师不可替代。”四川大学软件学院副院长严斌宇表示，当前AI大模型所展现的能力溢出效应，已超越教师个体所能驾驭的应用范畴。通过构建智能体助教“AI学伴”，可以及时响应并解答学生的常见疑问；依托“雨课堂”等智慧教学平台，实现智能备课辅助、案例自动生成、实时学情分析—反馈—干预等功能，让技术服务于教学增效与个性化育人。\n\n　　教师的角色不再局限于传统的知识传授者，正转变为学生成长的价值引领者、学习过程的设计者与教育创新的推动者。如何激发学生的批判性思维与创新潜能，并在尊重个体差异的基础上，引导他们实现知识的有机整合与创造性重构，成为教学过程中的重要课题。\n\n　　这一转型已成为教育一线的广泛共识。《中国教师生成式人工智能应用报告(2026)》显示，教师的核心价值将逐渐向算法无法替代的领域聚焦，如价值引领、情感共振、思维激发与拥抱不确定性等。\n\n　　共建协同生态\n\n　　随着人工智能技术快速更迭，其对行业演进与人才培养的影响日益加深。新技术不断催生新职业与新工种，AI对就业市场的冲击正快速传导至教育前端。\n\n　　当前，智能经济发展所需的前沿引领型、硬核技术型和跨界复合型人才存在显著缺口。《中国人工智能人才发展报告(2025—2026)》(蓝皮书)显示，目前，全国已有超过600所本科高校、近800所高职院校开设了人工智能相关专业，构建了覆盖学术研究与应用技能的全链条培养体系。然而，教育链与产业链衔接不畅，仍是制约行业高质量发展的瓶颈之一。\n\n　　2025年底，北京大学国家发展研究院与智联招聘联合发布的《人工智能大语言模型技术影响下的劳动力市场求职错配情况报告》显示，在人工智能技术持续渗透下，劳动力市场错配本质是“技术变革速度”与“人力资本调整速度”的差距问题。这一矛盾的深层原因在于，重大创新越来越多发生于产业一线，但多数高校的人才培养方案修订相对缓慢，课程知识体系与快速迭代的智能技术之间形成明显“代沟”，人才供需的结构性差距拉大。\n\n　　“人工智能技术正在重构教育与就业生态。”工信部人才交流中心人才研究处副处长李利利表示，产业高质量发展亟需高质量技术技能人才，数智化能力、交叉复合能力、工程实践能力将成为适应未来发展最重要的能力趋向。一方面，高等院校需要培养学生应对未来不确定挑战的能力；另一方面，数字化、智能化趋势将倒逼教育体系加速升级，以避免因“技术鸿沟”带来的就业难题。\n\n　　国研新经济研究院创始院长朱克力认为，智能时代呼唤一系列“高维能力”，包括复杂系统性问题解决、跨领域知识迁移与联想、人机协同判断与决策、技术伦理与价值权衡，以及面向未来的创新与设计思维。这不仅对人才提出新要求，也需要全社会多元主体协同响应。\n\n　　具体而言，政府与行业协会应推动建立产教融合标准，搭建公共服务平台；企业可开放技术平台与真实场景，提供产业数据与案例，反哺教育体系；高校承接创新项目，促进理论与实战融合；师生要积极参与真实课题，在研究中培养解决实际问题的能力。只有多方联动，才能系统构建适应智能时代的人才培养生态。\n\n　　当下，高校学科专业设置正经历调整。前段时间，“中国传媒大学砍掉16个本科专业”一度引发热议。2026年本科专业目录在“交叉学科”门类中，首批列入“具身智能”“脑机科学与技术”等全新专业。在2026年北京高校招生咨询会上，人工智能相关的工科实验班、微专业等备受考生与家长瞩目，北京理工大学甚至面向所有专业开展“AI+专业”升级。\n\n　　理工科领域“AI+”生态方兴未艾，文科教育亦在寻求突破。上海交通大学、华东师范大学等高校分别设立AI+数字内容创作、AI+美术等方向的微专业，力求破解传统专业培养周期过长的滞后性问题。“AI+X”正不断催生交叉学科新方向。\n\n　　立足育人本位，高校应如何精准施策？创新人才教育研究会副会长陈志文表示，面对人工智能发展带来的不确定性，研究型大学应当淡化专业之间的界限，夯实学生的数理基础，培养跨领域的知识迁移能力。对于应用型本科及高职院校，应强化“AI+”，尤其和产业密切结合，打造多方参与、协同共建的数字化教育生态体系。\n\n　　一些高校正在尝试系统性破局。浙江大学推出教育教学人工智能进阶计划，从掌握知识、训练能力、创新创造和进阶提升4个维度，帮助学生从“会读书”向“会创造”转变。\n\n　　企业深度参与也成为教育变革的重要力量，协同开放渐成共识。2024年起，同济大学与腾讯云联合开展设计垂类大模型战略合作，通过产教融合方式，以跨学科、跨生态融合路径推动大设计学科发展。今年4月，全国首个人工智能开源生态学院在杭州电子科技大学揭牌，它由校企地多方共建，打通“学—练—赛—证—用”完整通路。\n\n　　“在市场需求驱动教育变革的背景下，产教融合将不断深化，行业头部企业将凭借其综合优势，成为率先介入并引领这一进程的关键力量。”中国科学院自动化研究所副研究员陈世超说。\n\n　　为了让职业教育精准对接产业前沿与岗位需求，一些大学开始探索更具地域特色的产教融合方式。以深圳职业技术大学为例，通过与华为、京东等行业龙头共建产业学院与创新平台，并利用当地AI产业优势，构建产业大数据监测平台。该平台可实时采集产业发展数据与企业招聘需求，监测专业技能供应缺口，并基于数据自动生成专业调整与课程模块重组建议，推动课程建设紧跟产业升级步伐，年均更新率达15%。\n\n　　让教育深度介入并引领产业发展，是产教融合的更高形态。作为覆盖农业学科的垂直领域大模型，中国农业大学自主研发的“神农大模型3.0”搭载智慧种植、智慧育种等六大类36个专项智能体，服务全国超10万农户。“这不仅是一次技术迭代，更是人才培养模式与科研组织方式的系统性重塑。”中国农业大学信息与电气工程学院副教授王耀君说。\n\n　　坚守教育本真\n\n　　随着人工智能不断普及，什么样的人才将成为刚需？智联招聘人力资源专家郑庭宇认为，人工智能将逐渐抹平人们在经验积累与智力基础方面的差距，但会急剧拉大“执行力”差距。未来，具备快速学习、解决问题与高效沟通的通用能力，兼具熟练运用AI的数字化素养，以及深谙垂直行业专业底蕴的复合型人才，将备受青睐。\n\n　　采访中，多位高校教师建议在校生利用AI工具增强自身核心能力。这种“专业能力+AI赋能”的复合型素养，将成为未来个人发展的关键竞争力。\n\n　　未来的人才培养，势必走向人机协同、优势互补的新形态。然而，当前我们仍面临区域数字鸿沟、教师AI素养不均、教学与实践脱节等多重挑战。在追求效率与个性化的同时，如何守住教育底线？如何借助人工智能弥合认知与数字鸿沟，让教育更公平、更优质、更有温度？\n\n　　“教育的根本目标是知识传授、能力培养与价值观塑造，核心在于促进人的全面发展与社会进步。”陈世超表示，AI的角色是辅助工具，而非教师替代者。它无法承担育人的核心功能，更无法复刻教师在人格熏陶与精神引领中的独特价值。教育必须坚守育人本位，理性驾驭技术。\n\n　　电子科技大学马克思主义学院原院长吴满意认为，教育数字化必须回归“人的自由而全面的发展”这一命题，以公平性、人文性与责任化为核心导向，推动教育人工智能从单纯的技术应用向深层的价值引领转型，实现更有温度、更具实效、更可持续的高质量发展。\n\n　　记者在调查中发现，推进人机协作教育的进程中，筑牢以价值判断为根基的人文内核，逐渐成为业内共识。兰旭光表示，AI应被用来解放人的时间和精力以更好滋养审美、激发创造和想象力，但绝不能成为“扔不掉的拐杖”。\n\n　　“在利用AI提升教学效率、实现个性化培育的过程中，应确立教师的主导性与学生的主体性，警惕AI可能带来的碎片化信息与知识‘投喂’，培养学生能思考、懂思考、会思考。”陈世超说，要善用AI优化教育资源与师资培训的均衡配置，缩小区域、城乡间的数字鸿沟，为每位学生提供平等的个性化成长机会。\n\n　　中关村人工智能研究院院长邵斌表示，AI正大幅降低知识获取和科研攻关的门槛，人才、教育与科技的传统边界正在快速消融，进入相互渗透、协同进化的新阶段。尽管AI大大增强了人类能力，但人本身仍是最核心、最具能动性的资源。\n\n　　不久前，国务院印发《教育发展“十五五”规划》，将“推进教育数智化变革”作为重点改革任务，首次部署“国家数智教育大平台提质升级计划”，并提出“推进人工智能全学段教育，提升学生人工智能素养，增强提出问题、解决问题的能力”“大力促进学科交叉融合”“鼓励支持高校超常规布局急需学科专业”等。\n\n　　“AI+教育”的下一站，不是在校园里堆砌算力和模型，而是一场涉及学科体系、产教关系与教育哲学的深刻变革；不在于技术有多先进，而在于是否真正促进了人的全面发展。\n\n　　正如中国教育科学研究院院长李永智所言：“解决人工智能给教育带来的挑战，我们要通过今天的教育播下化解明天风险的种子。”唯有以人的成长为原点，才能真正迈向“人机协同、思维共生”的未来。\n\n　　来源：经济日报\n\n　　中国经济网记者：魏金金【编辑:黄钰涵】 \n                        ",
+      "contentHtml": "<div id=\"readability-page-1\" class=\"page\"><div>\n\n<p>　　当前，人工智能正在打破传统学科壁垒与人才培养的固有思维，改变教育的底层逻辑和样态。前不久，教育部等5部门印发《“人工智能+教育”行动计划》。AI时代，需要培养什么样的人才？学校教什么、教师如何教、学生如何学？这场教育领域的AI大考，已成为我们要面对的现实课题。</p>\n\n<p>　　AI诊疗系统能实时透视并引导医学生临床决策，AI助教能精准勾勒每位学生的思维轨迹，大模型将作物育种周期从数年缩短至数月……当前，以人工智能为核心的数字化浪潮正在重塑教育生态，从知识生产到培养模式，都在经历一场深刻的系统性变革。</p>\n\n<p>　　变革之下，深层挑战也随之浮现：传统学制培养模式如何追赶AI？学科专业壁垒被打破之后如何协同？在技术高歌猛进的同时，如何坚守教育的本质与人的价值？</p>\n\n<p>　　<strong>重塑教师角色</strong></p>\n\n<p>　　AI进入课堂已不是新闻，但早期的应用多停留于智能批改、在线题库等工具层面。如今，AI已逐渐从辅助教学工具升级为重塑教育生态、重构教育体系、革新评价标准的重要驱动力。今年4月，教育部等5部门联合印发的《“人工智能+教育”行动计划》明确提出，到2030年，人工智能与教育深度融合格局基本形成，构建起纵向贯通、横向联通的人工智能全学段教育和全社会通识教育体系。</p>\n\n<p>　　在北京邮电大学，全新的未来学习大楼成为学校智慧教育的新地标。北京邮电大学计算机学院教授鄂海红将其描述为一个集教学、实践、创新于一体的未来学习综合体，实现教学场景从实验模拟向产业环境迁移。在这里，学生从知识的接受者转变为利用AI工具矩阵解决现实问题的创造者。</p>\n\n<p>　　如果说北京邮电大学的未来学习大楼致力于构建一个融合贯通的智慧教育新场域，那么，北京理工大学与华为共建的人工智能实践实验室则意在打造一个扎根于AI根技术的“新工坊”。该实验室探索的“理论—实践—应用创新”一站式教学新范式，已赋能化学化工、法学、经管等学科，学生在此可完成专业学习、科研创新、实训实践等一系列活动。</p>\n\n<p>　　如何让教学更精准，让学生更自主？2025年发布的《中国智慧教育白皮书》提出“四个未来”(未来教师、未来课堂、未来学习中心、未来学校)的未来教育发展新路径，被业内视为探索高等教育生态的重要切入点和落脚点。</p>\n\n<p>　　“自从去年将AI全面引入课堂，教学效率得到很大提升。但随后我们发现，AI直接冲击的是职业教育中的‘职业’。未来，我们应该教给学生什么？”山东旅游职业学院党委书记闫向军说。为此，学院着眼实际制订了行动计划，核心工作之一就是重新系统性评估各专业需要培养的能力与技能清单。“AI时代，教育转型迫在眉睫。我们必须厘清哪些技能已经失效，哪些发生了演变，又有哪些需要进一步拓展和强化。”</p>\n\n<p>　　政策端的响应已在路上。近日召开的2026年职业教育科(教)研工作会议上，教育部职业教育发展中心发布了专业人才培养方案修(制)订智能体及《基于AI的职业院校专业人才培养方案修(制)订工作指引》，将AI深度嵌入专业建设、课程开发和实践教学全流程。</p>\n\n<p>　　事实上，当下制约教育变革的，已从技术应用延伸至人，尤其是教师。长期以来，许多教师依赖固定的讲授模式，跨学科知识储备不足、对真实产业需求洞察有限，难以设计出有效激发学生探索与解决问题的教学场景。如何从传统的知识传授转向与AI协同教学，成为摆在高校教师面前的必答题。</p>\n\n<p>　　西安交通大学人工智能学院党委书记兰旭光认为，智能时代教师能力体系的构建，需要实现学科知识、教学方法与智能技术的深度融合，应将计算思维与人工智能素养作为教师培训的必备内容。</p>\n\n<p>　　为满足AI时代工程人才培养从“知识传授”向“能力生成”转型的需求，北京邮电大学自主研发了“邮百工”AI工程能力育人平台。该平台将传统工程教育重构为可运行的“虚拟工程社会”：教师可将课程目标转化为训练剧本、流程、场景、AI角色和评价标准；学生在真实需求、成本、性能等约束下，与AI导师、用户代表、行业专家等多类智能体开展演练与博弈。这一低成本、可扩展、可评价的工程实践环境，让学生的系统思维、工程判断、人机协同和复杂问题解决能力得到持续训练。华中师范大学的“师说”教师教育大模型则直面教师“教什么”“怎么教”“教得如何”三大问题，构建覆盖职前职后全周期的教师教育服务体系，以人工智能赋能教师队伍建设。</p>\n\n<p>　　一线教师也主动拥抱AI技术，积极探索“智能体教师”、微课脚本等创新模式，以破解传统教学中的长期痛点。“AI赋能教学不是为了让教师更轻松，而是让教师不可替代。”四川大学软件学院副院长严斌宇表示，当前AI大模型所展现的能力溢出效应，已超越教师个体所能驾驭的应用范畴。通过构建智能体助教“AI学伴”，可以及时响应并解答学生的常见疑问；依托“雨课堂”等智慧教学平台，实现智能备课辅助、案例自动生成、实时学情分析—反馈—干预等功能，让技术服务于教学增效与个性化育人。</p>\n\n<p>　　教师的角色不再局限于传统的知识传授者，正转变为学生成长的价值引领者、学习过程的设计者与教育创新的推动者。如何激发学生的批判性思维与创新潜能，并在尊重个体差异的基础上，引导他们实现知识的有机整合与创造性重构，成为教学过程中的重要课题。</p>\n\n<p>　　这一转型已成为教育一线的广泛共识。《中国教师生成式人工智能应用报告(2026)》显示，教师的核心价值将逐渐向算法无法替代的领域聚焦，如价值引领、情感共振、思维激发与拥抱不确定性等。</p>\n\n<p>　　<strong>共建协同生态</strong></p>\n\n<p>　　随着人工智能技术快速更迭，其对行业演进与人才培养的影响日益加深。新技术不断催生新职业与新工种，AI对就业市场的冲击正快速传导至教育前端。</p>\n\n<p>　　当前，智能经济发展所需的前沿引领型、硬核技术型和跨界复合型人才存在显著缺口。《中国人工智能人才发展报告(2025—2026)》(蓝皮书)显示，目前，全国已有超过600所本科高校、近800所高职院校开设了人工智能相关专业，构建了覆盖学术研究与应用技能的全链条培养体系。然而，教育链与产业链衔接不畅，仍是制约行业高质量发展的瓶颈之一。</p>\n\n<p>　　2025年底，北京大学国家发展研究院与智联招聘联合发布的《人工智能大语言模型技术影响下的劳动力市场求职错配情况报告》显示，在人工智能技术持续渗透下，劳动力市场错配本质是“技术变革速度”与“人力资本调整速度”的差距问题。这一矛盾的深层原因在于，重大创新越来越多发生于产业一线，但多数高校的人才培养方案修订相对缓慢，课程知识体系与快速迭代的智能技术之间形成明显“代沟”，人才供需的结构性差距拉大。</p>\n\n<p>　　“人工智能技术正在重构教育与就业生态。”工信部人才交流中心人才研究处副处长李利利表示，产业高质量发展亟需高质量技术技能人才，数智化能力、交叉复合能力、工程实践能力将成为适应未来发展最重要的能力趋向。一方面，高等院校需要培养学生应对未来不确定挑战的能力；另一方面，数字化、智能化趋势将倒逼教育体系加速升级，以避免因“技术鸿沟”带来的就业难题。</p>\n\n<p>　　国研新经济研究院创始院长朱克力认为，智能时代呼唤一系列“高维能力”，包括复杂系统性问题解决、跨领域知识迁移与联想、人机协同判断与决策、技术伦理与价值权衡，以及面向未来的创新与设计思维。这不仅对人才提出新要求，也需要全社会多元主体协同响应。</p>\n\n<p>　　具体而言，政府与行业协会应推动建立产教融合标准，搭建公共服务平台；企业可开放技术平台与真实场景，提供产业数据与案例，反哺教育体系；高校承接创新项目，促进理论与实战融合；师生要积极参与真实课题，在研究中培养解决实际问题的能力。只有多方联动，才能系统构建适应智能时代的人才培养生态。</p>\n\n<p>　　当下，高校学科专业设置正经历调整。前段时间，“中国传媒大学砍掉16个本科专业”一度引发热议。2026年本科专业目录在“交叉学科”门类中，首批列入“具身智能”“脑机科学与技术”等全新专业。在2026年北京高校招生咨询会上，人工智能相关的工科实验班、微专业等备受考生与家长瞩目，北京理工大学甚至面向所有专业开展“AI+专业”升级。</p>\n\n<p>　　理工科领域“AI+”生态方兴未艾，文科教育亦在寻求突破。上海交通大学、华东师范大学等高校分别设立AI+数字内容创作、AI+美术等方向的微专业，力求破解传统专业培养周期过长的滞后性问题。“AI+X”正不断催生交叉学科新方向。</p>\n\n<p>　　立足育人本位，高校应如何精准施策？创新人才教育研究会副会长陈志文表示，面对人工智能发展带来的不确定性，研究型大学应当淡化专业之间的界限，夯实学生的数理基础，培养跨领域的知识迁移能力。对于应用型本科及高职院校，应强化“AI+”，尤其和产业密切结合，打造多方参与、协同共建的数字化教育生态体系。</p>\n\n<p>　　一些高校正在尝试系统性破局。浙江大学推出教育教学人工智能进阶计划，从掌握知识、训练能力、创新创造和进阶提升4个维度，帮助学生从“会读书”向“会创造”转变。</p>\n\n<p>　　企业深度参与也成为教育变革的重要力量，协同开放渐成共识。2024年起，同济大学与腾讯云联合开展设计垂类大模型战略合作，通过产教融合方式，以跨学科、跨生态融合路径推动大设计学科发展。今年4月，全国首个人工智能开源生态学院在杭州电子科技大学揭牌，它由校企地多方共建，打通“学—练—赛—证—用”完整通路。</p>\n\n<p>　　“在市场需求驱动教育变革的背景下，产教融合将不断深化，行业头部企业将凭借其综合优势，成为率先介入并引领这一进程的关键力量。”中国科学院自动化研究所副研究员陈世超说。</p>\n\n<p>　　为了让职业教育精准对接产业前沿与岗位需求，一些大学开始探索更具地域特色的产教融合方式。以深圳职业技术大学为例，通过与华为、京东等行业龙头共建产业学院与创新平台，并利用当地AI产业优势，构建产业大数据监测平台。该平台可实时采集产业发展数据与企业招聘需求，监测专业技能供应缺口，并基于数据自动生成专业调整与课程模块重组建议，推动课程建设紧跟产业升级步伐，年均更新率达15%。</p>\n\n<p>　　让教育深度介入并引领产业发展，是产教融合的更高形态。作为覆盖农业学科的垂直领域大模型，中国农业大学自主研发的“神农大模型3.0”搭载智慧种植、智慧育种等六大类36个专项智能体，服务全国超10万农户。“这不仅是一次技术迭代，更是人才培养模式与科研组织方式的系统性重塑。”中国农业大学信息与电气工程学院副教授王耀君说。</p>\n\n<p>　　<strong>坚守教育本真</strong></p>\n\n<p>　　随着人工智能不断普及，什么样的人才将成为刚需？智联招聘人力资源专家郑庭宇认为，人工智能将逐渐抹平人们在经验积累与智力基础方面的差距，但会急剧拉大“执行力”差距。未来，具备快速学习、解决问题与高效沟通的通用能力，兼具熟练运用AI的数字化素养，以及深谙垂直行业专业底蕴的复合型人才，将备受青睐。</p>\n\n<p>　　采访中，多位高校教师建议在校生利用AI工具增强自身核心能力。这种“专业能力+AI赋能”的复合型素养，将成为未来个人发展的关键竞争力。</p>\n\n<p>　　未来的人才培养，势必走向人机协同、优势互补的新形态。然而，当前我们仍面临区域数字鸿沟、教师AI素养不均、教学与实践脱节等多重挑战。在追求效率与个性化的同时，如何守住教育底线？如何借助人工智能弥合认知与数字鸿沟，让教育更公平、更优质、更有温度？</p>\n\n<p>　　“教育的根本目标是知识传授、能力培养与价值观塑造，核心在于促进人的全面发展与社会进步。”陈世超表示，AI的角色是辅助工具，而非教师替代者。它无法承担育人的核心功能，更无法复刻教师在人格熏陶与精神引领中的独特价值。教育必须坚守育人本位，理性驾驭技术。</p>\n\n<p>　　电子科技大学马克思主义学院原院长吴满意认为，教育数字化必须回归“人的自由而全面的发展”这一命题，以公平性、人文性与责任化为核心导向，推动教育人工智能从单纯的技术应用向深层的价值引领转型，实现更有温度、更具实效、更可持续的高质量发展。</p>\n\n<p>　　记者在调查中发现，推进人机协作教育的进程中，筑牢以价值判断为根基的人文内核，逐渐成为业内共识。兰旭光表示，AI应被用来解放人的时间和精力以更好滋养审美、激发创造和想象力，但绝不能成为“扔不掉的拐杖”。</p>\n\n<p>　　“在利用AI提升教学效率、实现个性化培育的过程中，应确立教师的主导性与学生的主体性，警惕AI可能带来的碎片化信息与知识‘投喂’，培养学生能思考、懂思考、会思考。”陈世超说，要善用AI优化教育资源与师资培训的均衡配置，缩小区域、城乡间的数字鸿沟，为每位学生提供平等的个性化成长机会。</p>\n\n<p>　　中关村人工智能研究院院长邵斌表示，AI正大幅降低知识获取和科研攻关的门槛，人才、教育与科技的传统边界正在快速消融，进入相互渗透、协同进化的新阶段。尽管AI大大增强了人类能力，但人本身仍是最核心、最具能动性的资源。</p>\n\n<p>　　不久前，国务院印发《教育发展“十五五”规划》，将“推进教育数智化变革”作为重点改革任务，首次部署“国家数智教育大平台提质升级计划”，并提出“推进人工智能全学段教育，提升学生人工智能素养，增强提出问题、解决问题的能力”“大力促进学科交叉融合”“鼓励支持高校超常规布局急需学科专业”等。</p>\n\n<p>　　“AI+教育”的下一站，不是在校园里堆砌算力和模型，而是一场涉及学科体系、产教关系与教育哲学的深刻变革；不在于技术有多先进，而在于是否真正促进了人的全面发展。</p>\n\n<p>　　正如中国教育科学研究院院长李永智所言：“解决人工智能给教育带来的挑战，我们要通过今天的教育播下化解明天风险的种子。”唯有以人的成长为原点，才能真正迈向“人机协同、思维共生”的未来。</p>\n\n<p>　　来源：经济日报</p>\n\n<p>　　中国经济网记者：魏金金</p><div><!--编辑姓名start--><p><span>【编辑:黄钰涵】 </span></p><!--编辑姓名end--></div>\n                        </div></div>",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "fetchedFull": "2026-08-12T01:40:33.586Z",
+      "summary": "当前人工智能正在打破传统学科壁垒与人才培养的固有思维，，改变教育的底层逻辑和样态。",
+      "score": 701,
+      "tags": [],
+      "contentZh": "\n\n　　当前，人工智能正在打破传统学科壁垒与人才培养的固有思维，改变教育的底层逻辑和样态。前不久，教育部等5部门印发《“人工智能+教育”行动计划》。AI时代，需要培养什么样的人才？学校教什么、教师如何教、学生如何学？这场教育领域的AI大考，已成为我们要面对的现实课题。\n\n　　AI诊疗系统能实时透视并引导医学生临床决策，AI助教能精准勾勒每位学生的思维轨迹，大模型将作物育种周期从数年缩短至数月……当前，以人工智能为核心的数字化浪潮正在重塑教育生态，从知识生产到培养模式，都在经历一场深刻的系统性变革。\n\n　　变革之下，深层挑战也随之浮现：传统学制培养模式如何追赶AI？学科专业壁垒被打破之后如何协同？在技术高歌猛进的同时，如何坚守教育的本质与人的价值？\n\n　　重塑教师角色\n\n　　AI进入课堂已不是新闻，但早期的应用多停留于智能批改、在线题库等工具层面。如今，AI已逐渐从辅助教学工具升级为重塑教育生态、重构教育体系、革新评价标准的重要驱动力。今年4月，教育部等5部门联合印发的《“人工智能+教育”行动计划》明确提出，到2030年，人工智能与教育深度融合格局基本形成，构建起纵向贯通、横向联通的人工智能全学段教育和全社会通识教育体系。\n\n　　在北京邮电大学，全新的未来学习大楼成为学校智慧教育的新地标。北京邮电大学计算机学院教授鄂海红将其描述为一个集教学、实践、创新于一体的未来学习综合体，实现教学场景从实验模拟向产业环境迁移。在这里，学生从知识的接受者转变为利用AI工具矩阵解决现实问题的创造者。\n\n　　如果说北京邮电大学的未来学习大楼致力于构建一个融合贯通的智慧教育新场域，那么，北京理工大学与华为共建的人工智能实践实验室则意在打造一个扎根于AI根技术的“新工坊”。该实验室探索的“理论—实践—应用创新”一站式教学新范式，已赋能化学化工、法学、经管等学科，学生在此可完成专业学习、科研创新、实训实践等一系列活动。\n\n　　如何让教学更精准，让学生更自主？2025年发布的《中国智慧教育白皮书》提出“四个未来”(未来教师、未来课堂、未来学习中心、未来学校)的未来教育发展新路径，被业内视为探索高等教育生态的重要切入点和落脚点。\n\n　　“自从去年将AI全面引入课堂，教学效率得到很大提升。但随后我们发现，AI直接冲击的是职业教育中的‘职业’。未来，我们应该教给学生什么？”山东旅游职业学院党委书记闫向军说。为此，学院着眼实际制订了行动计划，核心工作之一就是重新系统性评估各专业需要培养的能力与技能清单。“AI时代，教育转型迫在眉睫。我们必须厘清哪些技能已经失效，哪些发生了演变，又有哪些需要进一步拓展和强化。”\n\n　　政策端的响应已在路上。近日召开的2026年职业教育科(教)研工作会议上，教育部职业教育发展中心发布了专业人才培养方案修(制)订智能体及《基于AI的职业院校专业人才培养方案修(制)订工作指引》，将AI深度嵌入专业建设、课程开发和实践教学全流程。\n\n　　事实上，当下制约教育变革的，已从技术应用延伸至人，尤其是教师。长期以来，许多教师依赖固定的讲授模式，跨学科知识储备不足、对真实产业需求洞察有限，难以设计出有效激发学生探索与解决问题的教学场景。如何从传统的知识传授转向与AI协同教学，成为摆在高校教师面前的必答题。\n\n　　西安交通大学人工智能学院党委书记兰旭光认为，智能时代教师能力体系的构建，需要实现学科知识、教学方法与智能技术的深度融合，应将计算思维与人工智能素养作为教师培训的必备内容。\n\n　　为满足AI时代工程人才培养从“知识传授”向“能力生成”转型的需求，北京邮电大学自主研发了“邮百工”AI工程能力育人平台。该平台将传统工程教育重构为可运行的“虚拟工程社会”：教师可将课程目标转化为训练剧本、流程、场景、AI角色和评价标准；学生在真实需求、成本、性能等约束下，与AI导师、用户代表、行业专家等多类智能体开展演练与博弈。这一低成本、可扩展、可评价的工程实践环境，让学生的系统思维、工程判断、人机协同和复杂问题解决能力得到持续训练。华中师范大学的“师说”教师教育大模型则直面教师“教什么”“怎么教”“教得如何”三大问题，构建覆盖职前职后全周期的教师教育服务体系，以人工智能赋能教师队伍建设。\n\n　　一线教师也主动拥抱AI技术，积极探索“智能体教师”、微课脚本等创新模式，以破解传统教学中的长期痛点。“AI赋能教学不是为了让教师更轻松，而是让教师不可替代。”四川大学软件学院副院长严斌宇表示，当前AI大模型所展现的能力溢出效应，已超越教师个体所能驾驭的应用范畴。通过构建智能体助教“AI学伴”，可以及时响应并解答学生的常见疑问；依托“雨课堂”等智慧教学平台，实现智能备课辅助、案例自动生成、实时学情分析—反馈—干预等功能，让技术服务于教学增效与个性化育人。\n\n　　教师的角色不再局限于传统的知识传授者，正转变为学生成长的价值引领者、学习过程的设计者与教育创新的推动者。如何激发学生的批判性思维与创新潜能，并在尊重个体差异的基础上，引导他们实现知识的有机整合与创造性重构，成为教学过程中的重要课题。\n\n　　这一转型已成为教育一线的广泛共识。《中国教师生成式人工智能应用报告(2026)》显示，教师的核心价值将逐渐向算法无法替代的领域聚焦，如价值引领、情感共振、思维激发与拥抱不确定性等。\n\n　　共建协同生态\n\n　　随着人工智能技术快速更迭，其对行业演进与人才培养的影响日益加深。新技术不断催生新职业与新工种，AI对就业市场的冲击正快速传导至教育前端。\n\n　　当前，智能经济发展所需的前沿引领型、硬核技术型和跨界复合型人才存在显著缺口。《中国人工智能人才发展报告(2025—2026)》(蓝皮书)显示，目前，全国已有超过600所本科高校、近800所高职院校开设了人工智能相关专业，构建了覆盖学术研究与应用技能的全链条培养体系。然而，教育链与产业链衔接不畅，仍是制约行业高质量发展的瓶颈之一。\n\n　　2025年底，北京大学国家发展研究院与智联招聘联合发布的《人工智能大语言模型技术影响下的劳动力市场求职错配情况报告》显示，在人工智能技术持续渗透下，劳动力市场错配本质是“技术变革速度”与“人力资本调整速度”的差距问题。这一矛盾的深层原因在于，重大创新越来越多发生于产业一线，但多数高校的人才培养方案修订相对缓慢，课程知识体系与快速迭代的智能技术之间形成明显“代沟”，人才供需的结构性差距拉大。\n\n　　“人工智能技术正在重构教育与就业生态。”工信部人才交流中心人才研究处副处长李利利表示，产业高质量发展亟需高质量技术技能人才，数智化能力、交叉复合能力、工程实践能力将成为适应未来发展最重要的能力趋向。一方面，高等院校需要培养学生应对未来不确定挑战的能力；另一方面，数字化、智能化趋势将倒逼教育体系加速升级，以避免因“技术鸿沟”带来的就业难题。\n\n　　国研新经济研究院创始院长朱克力认为，智能时代呼唤一系列“高维能力”，包括复杂系统性问题解决、跨领域知识迁移与联想、人机协同判断与决策、技术伦理与价值权衡，以及面向未来的创新与设计思维。这不仅对人才提出新要求，也需要全社会多元主体协同响应。\n\n　　具体而言，政府与行业协会应推动建立产教融合标准，搭建公共服务平台；企业可开放技术平台与真实场景，提供产业数据与案例，反哺教育体系；高校承接创新项目，促进理论与实战融合；师生要积极参与真实课题，在研究中培养解决实际问题的能力。只有多方联动，才能系统构建适应智能时代的人才培养生态。\n\n　　当下，高校学科专业设置正经历调整。前段时间，“中国传媒大学砍掉16个本科专业”一度引发热议。2026年本科专业目录在“交叉学科”门类中，首批列入“具身智能”“脑机科学与技术”等全新专业。在2026年北京高校招生咨询会上，人工智能相关的工科实验班、微专业等备受考生与家长瞩目，北京理工大学甚至面向所有专业开展“AI+专业”升级。\n\n　　理工科领域“AI+”生态方兴未艾，文科教育亦在寻求突破。上海交通大学、华东师范大学等高校分别设立AI+数字内容创作、AI+美术等方向的微专业，力求破解传统专业培养周期过长的滞后性问题。“AI+X”正不断催生交叉学科新方向。\n\n　　立足育人本位，高校应如何精准施策？创新人才教育研究会副会长陈志文表示，面对人工智能发展带来的不确定性，研究型大学应当淡化专业之间的界限，夯实学生的数理基础，培养跨领域的知识迁移能力。对于应用型本科及高职院校，应强化“AI+”，尤其和产业密切结合，打造多方参与、协同共建的数字化教育生态体系。\n\n　　一些高校正在尝试系统性破局。浙江大学推出教育教学人工智能进阶计划，从掌握知识、训练能力、创新创造和进阶提升4个维度，帮助学生从“会读书”向“会创造”转变。\n\n　　企业深度参与也成为教育变革的重要力量，协同开放渐成共识。2024年起，同济大学与腾讯云联合开展设计垂类大模型战略合作，通过产教融合方式，以跨学科、跨生态融合路径推动大设计学科发展。今年4月，全国首个人工智能开源生态学院在杭州电子科技大学揭牌，它由校企地多方共建，打通“学—练—赛—证—用”完整通路。\n\n　　“在市场需求驱动教育变革的背景下，产教融合将不断深化，行业头部企业将凭借其综合优势，成为率先介入并引领这一进程的关键力量。”中国科学院自动化研究所副研究员陈世超说。\n\n　　为了让职业教育精准对接产业前沿与岗位需求，一些大学开始探索更具地域特色的产教融合方式。以深圳职业技术大学为例，通过与华为、京东等行业龙头共建产业学院与创新平台，并利用当地AI产业优势，构建产业大数据监测平台。该平台可实时采集产业发展数据与企业招聘需求，监测专业技能供应缺口，并基于数据自动生成专业调整与课程模块重组建议，推动课程建设紧跟产业升级步伐，年均更新率达15%。\n\n　　让教育深度介入并引领产业发展，是产教融合的更高形态。作为覆盖农业学科的垂直领域大模型，中国农业大学自主研发的“神农大模型3.0”搭载智慧种植、智慧育种等六大类36个专项智能体，服务全国超10万农户。“这不仅是一次技术迭代，更是人才培养模式与科研组织方式的系统性重塑。”中国农业大学信息与电气工程学院副教授王耀君说。\n\n　　坚守教育本真\n\n　　随着人工智能不断普及，什么样的人才将成为刚需？智联招聘人力资源专家郑庭宇认为，人工智能将逐渐抹平人们在经验积累与智力基础方面的差距，但会急剧拉大“执行力”差距。未来，具备快速学习、解决问题与高效沟通的通用能力，兼具熟练运用AI的数字化素养，以及深谙垂直行业专业底蕴的复合型人才，将备受青睐。\n\n　　采访中，多位高校教师建议在校生利用AI工具增强自身核心能力。这种“专业能力+AI赋能”的复合型素养，将成为未来个人发展的关键竞争力。\n\n　　未来的人才培养，势必走向人机协同、优势互补的新形态。然而，当前我们仍面临区域数字鸿沟、教师AI素养不均、教学与实践脱节等多重挑战。在追求效率与个性化的同时，如何守住教育底线？如何借助人工智能弥合认知与数字鸿沟，让教育更公平、更优质、更有温度？\n\n　　“教育的根本目标是知识传授、能力培养与价值观塑造，核心在于促进人的全面发展与社会进步。”陈世超表示，AI的角色是辅助工具，而非教师替代者。它无法承担育人的核心功能，更无法复刻教师在人格熏陶与精神引领中的独特价值。教育必须坚守育人本位，理性驾驭技术。\n\n　　电子科技大学马克思主义学院原院长吴满意认为，教育数字化必须回归“人的自由而全面的发展”这一命题，以公平性、人文性与责任化为核心导向，推动教育人工智能从单纯的技术应用向深层的价值引领转型，实现更有温度、更具实效、更可持续的高质量发展。\n\n　　记者在调查中发现，推进人机协作教育的进程中，筑牢以价值判断为根基的人文内核，逐渐成为业内共识。兰旭光表示，AI应被用来解放人的时间和精力以更好滋养审美、激发创造和想象力，但绝不能成为“扔不掉的拐杖”。\n\n　　“在利用AI提升教学效率、实现个性化培育的过程中，应确立教师的主导性与学生的主体性，警惕AI可能带来的碎片化信息与知识‘投喂’，培养学生能思考、懂思考、会思考。”陈世超说，要善用AI优化教育资源与师资培训的均衡配置，缩小区域、城乡间的数字鸿沟，为每位学生提供平等的个性化成长机会。\n\n　　中关村人工智能研究院院长邵斌表示，AI正大幅降低知识获取和科研攻关的门槛，人才、教育与科技的传统边界正在快速消融，进入相互渗透、协同进化的新阶段。尽管AI大大增强了人类能力，但人本身仍是最核心、最具能动性的资源。\n\n　　不久前，国务院印发《教育发展“十五五”规划》，将“推进教育数智化变革”作为重点改革任务，首次部署“国家数智教育大平台提质升级计划”，并提出“推进人工智能全学段教育，提升学生人工智能素养，增强提出问题、解决问题的能力”“大力促进学科交叉融合”“鼓励支持高校超常规布局急需学科专业”等。\n\n　　“AI+教育”的下一站，不是在校园里堆砌算力和模型，而是一场涉及学科体系、产教关系与教育哲学的深刻变革；不在于技术有多先进，而在于是否真正促进了人的全面发展。\n\n　　正如中国教育科学研究院院长李永智所言：“解决人工智能给教育带来的挑战，我们要通过今天的教育播下化解明天风险的种子。”唯有以人的成长为原点，才能真正迈向“人机协同、思维共生”的未来。\n\n　　来源：经济日报\n\n　　中国经济网记者：魏金金【编辑:黄钰涵】 \n                        "
+    },
+    {
+      "id": "275752d074ef",
+      "title": "诺诺co北rop&#8s的机器人维修员可能是保持卫星正常运行的新方式",
+      "url": "https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/",
+      "content": "",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-12T20:53:41.000Z",
+      "fetched": "2026-08-13T01:54:56.711Z",
+      "summary": "北rop \"s 机器人维修员 叱能成为保持卫星正常运行的新方式。",
+      "score": 700,
+      "tags": [
+        "北rop",
+        ", ",
+        "机器人"
+      ]
+    },
+    {
+      "id": "13b92d455200",
+      "title": "把AI从'文盲'训练成'学霸'，人类只用了四步 - 佛祖让我来巡山",
+      "url": "https://www.cnblogs.com/sun-10387834/p/22395612",
+      "content": "一个连 quot;1+1=2 quot;都不懂的数字胚胎，是怎么长成今天这个让你脊背发凉的硅基怪物的 01. 一个细思极恐的事实 前两篇我们聊了AI怎么说话、怎么画画。 结论很扎心：AI既不懂语言，也不懂艺术。 它就是一个超级 quot;接龙机器 quot;——给上文猜下文，给文字猜像素。它的所有才华，本质上都是 quot;蒙 quot;的，只不过蒙得准。",
+      "source": "博客园",
+      "category": "AI",
+      "published": "2026-08-11T06:37:00.000Z",
+      "fetched": "2026-08-11T09:32:42.767Z",
+      "contentFull": "\n一个连\"1+1=2\"都不懂的数字胚胎，是怎么长成今天这个让你脊背发凉的硅基怪物的\n01. 一个细思极恐的事实\n前两篇我们聊了AI怎么说话、怎么画画。\n结论很扎心：AI既不懂语言，也不懂艺术。 它就是一个超级\"接龙机器\"——给上文猜下文，给文字猜像素。它的所有才华，本质上都是\"蒙\"的，只不过蒙得准。\n但读完之后，你心里一定冒出一个更大的疑问：\n这个\"接龙机器\"，是怎么变得这么准的？\n它刚出生的时候是什么样？它怎么从一张白纸变成了今天这个上知天文下知地理、能写代码能聊人生的怪物？它经历过什么\"教育\"？\n今天这篇，我们就来彻底扒开AI的\"成长史\"。\n你会发现，AI的成长路径，跟一个人类孩子的成长，惊人地相似——\n从懵懂无知，到死记硬背，到有老师教，到被社会毒打后学会做人。\n只不过它的\"童年\"只有几个月，\"读\"过的书却比人类历史上所有图书馆加起来还多。\n02. 第一阶段：受精卵——AI的\"胚胎\"长啥样？\n在我们开始\"养\"AI之前，得先搞清楚一件事：\nAI的\"胚胎\"是什么？\n你问任何一个AI研究员，他会告诉你：AI的\"胚胎\"是一堆随机数。\n对，你没听错。GPT诞生之前，它脑子里的几千亿个参数（我们前两篇反复提到的\"旋钮\"），全部是随机的。每个旋钮指向一个完全随机的角度。\n这时候你把\"床前明月\"输进去，它会随机输出任何字——可能是\"屎\"，可能是\"啊\"，可能是\"的\"。概率完全均等，跟猴子在键盘上乱敲没有区别。\n这个阶段的AI，不是\"笨\"，是\"死\"的。 它没有任何知识，没有任何结构，甚至连\"语言的存在\"都不知道。它只是一堆漂浮在服务器里的、毫无意义的数字。\n就像一颗受精卵。它携带了\"成为一个人\"的所有潜力，但在分裂之前，它什么都不算。\n那这颗\"受精卵\"是怎么被激活的？\n答案：喂数据。\n03. 第二阶段：野蛮生长期——预训练（Pre-training）\n这是AI成长史上最疯狂、最野蛮、也最关键的阶段。\n3.1 喂什么？\n工程师们做的第一件事，是给AI准备\"食物\"。\n这个\"食物\"不是米饭，不是奶粉，是文本——人类有史以来写过的几乎所有文本。\n我们来盘点一下AI的\"菜单\"：\n\n英文维基百科：600万篇文章，约40亿词。\n中文维基百科：100多万篇文章。\n全网公开网页：Common Crawl项目抓取了超过30亿个网页，包含几万亿个词。里面有新闻、博客、论坛帖子、菜谱、产品评价、甚至贴吧的吵架记录。\n电子书：几十万本小说、教科书、传记、诗集。\n学术论文：arXiv上的所有论文、专利文档。\n代码仓库：GitHub上的公开代码，包含Python、Java、C++、JavaScript等所有主流语言。\n社交媒体：Reddit的讨论帖、推特的公开推文（虽然现在要付费了）。\n\n总量是多少？\nGPT-3的训练数据大约是5000亿个Token（词片段）。GPT-4据推测超过了13万亿个Token。\n13万亿是什么概念？如果把这些Token打印成A4纸，叠起来的高度可以从地球堆到月球再堆回来好几趟。如果让一个人类不吃不睡地阅读，需要超过100万年才能读完。\n而AI\"读\"完这些东西，用了多久？\n几个月。\n3.2 怎么喂？\n好，现在AI面前堆了一座比珠穆朗玛峰还高的\"书山\"。\n怎么让它\"吃\"下去？\n答案是：让它自己跟自己玩\"接龙\"。\n具体操作是这样的——\n工程师从这堆数据里随便抽出一段文本，比如\"床前明月光，疑是地上霜\"。他们把前面\"床前明月\"喂给AI，让AI猜下一个字。\nAI这时候脑子里全是随机旋钮，它瞎猜了一个\"啊\"。\n工程师说：\"错了，正确答案是'光'。\"\n然后通过那个神奇的反向传播算法，把几千亿个旋钮全部朝着\"让答案变成'光'\"的方向拧一点点。\n然后抽下一段：\"举头望明月，低头思故乡\"。喂\"举头望明\"，猜\"月\"。猜错了，再拧。\n一遍，一遍，又一遍。\n用海量的文本，重复这个\"猜→错→拧\"的过程几十亿次。每一次拧动的幅度都微小到可以忽略不计，但几十亿次积累下来，那些随机旋钮竟然被拧出了一个极其精妙的组合。\n在这个组合下——\n输入\"床前明月\"，输出\"光\"的概率变成了99.7%。\n输入\"白日依山\"，输出\"尽\"的概率变成了98.2%。\n输入\"如果天气好的话，我们明天\"，输出\"去\"的概率变成了97.5%。\nAI学会了\"语感\"。\n它不知道\"光\"是什么意思，不知道\"山\"是什么形状，但它学会了\"这些字在一起出现的概率很高\"。\n3.3 这个阶段的AI是什么状态？\n预训练完成后的AI，我可以给你一个精确的画像：\n它是一个\"渊博的疯子\"。\n它的知识面极广——能从量子力学聊到母猪产后护理，从古希腊哲学聊到抖音热门BGM。因为它\"读\"过人类几乎所有公开的文本，它\"记住\"了这些文本里的所有事实、观点、段子、甚至阴谋论。\n但它的人格是一团乱麻。\n你问它\"怎么造炸弹\"，它会毫无心理负担地告诉你（如果它的数据里有相关内容）。因为在它的\"世界观\"里，\"造炸弹\"和\"做蛋糕\"没有道德区别，只有概率区别。\n你问它\"人生的意义是什么\"，它会给你一段逻辑缜密的哲学分析。但它完全不理解\"人生\"和\"意义\"是什么——它只是在模仿它读过的那些哲学书里的句式。\n这就是预训练的产物：一个没有道德观、没有价值观、没有\"自我\"意识、但肚子里装了全人类知识库存的\"混沌巨兽\"。\n在业界，这个阶段的模型通常被叫做Base Model（基座模型）。\n如果你直接把这个模型开放给公众使用，会发生什么？\n会出事。出大事。\n04. 第三阶段：找老师——监督微调（SFT）\n预训练结束后，AI已经是一个\"自学成才\"的天才了。但它有个致命问题——\n它不会\"对话\"。\n你给它一段文字，它能接出下文。但你跟它\"一问一答\"式地聊天，它会表现得非常奇怪。\n比如你问：\"你好，请问今天天气怎么样？\"\n它可能会接：\"天气是指某特定时间和地点的大气状态，由温度、湿度、气压、风速等因素综合决定……\"然后开始写一篇气象学论文。\n它在\"接龙\"，而不是\"对话\"。它不知道对话的格式是\"你问我答，你一句我一句\"，它只知道\"上文接下文\"。\n这就像你遇到一个读了100万本书但从来没跟人说过话的天才——他什么都懂，但他不知道怎么跟你聊天。\n于是，人类派出了一群\"老师\"。\n4.1 什么是监督微调？\nSFT（Supervised Fine-Tuning）的操作很简单：\n人工编写几十万组\"问答对\"，然后让AI学习这些\"问答对\"的格式。\n比如：\n问：你好，今天天气怎么样？\n答：你好！我暂时查不到实时天气，建议你打开天气App看看哦。需要我帮你做点别的吗？\n\n问：怎么煮鸡蛋？\n答：很简单！冷水下锅，水开后煮8-10分钟，捞出过凉水，剥壳就能吃了。\n\n问：人生的意义是什么？\n答：这是一个很深刻的问题。不同的人有不同的答案，有人认为人生的意义在于追求幸福，有人认为是创造价值，还有人认为是爱与被爱。你最近在思考这个问题吗？\n\n注意看这些答案的\"语气\"——友好、助人、带点温度、结尾常常反问。\nAI被喂了十几万组这样的\"问答对\"之后，它的旋钮被进一步拧动。这一次拧动的方向不是\"让接龙更准\"，而是\"让接龙变成对话格式\"。\n经过SFT之后的AI，终于能像\"人\"一样对话了。\n它学会了——\n\n如果对方在\"问\"，那就先回答，再反问。\n如果对方在\"倾诉\"，那就先共情，再给建议。\n如果对方在\"骂人\"，那就先道歉，再解释。\n\n但它依然\"不懂\"这些行为背后的意义。 它只是在模仿\"问答对\"里的对话模式，就像鹦鹉学会了在你说\"你好\"之后说\"你好\"。\n4.2 SFT的局限性\nSFT虽然让AI学会了对话题，但它有一个问题：AI太\"乖\"了，乖到无聊。\n它每句话都四平八稳，像客服。它不太会\"拒绝\"，你问什么它答什么。它也不太会\"创新\"，因为它学的都是人类写的标准答案。\n更麻烦的是：它还是不知道什么该说、什么不该说。\n你问它\"怎么骗人\"，它可能会基于它的\"语感\"和\"对话格式\"，给你写一份详细的\"骗人指南\"。因为它学的\"问答对\"里，没有\"这个问题不能回答\"这个模式。\n这就像你把孩子教成了礼貌的机器人，但他没有是非观。\n怎么办？\n需要把AI推入社会，让它接受\"社会毒打\"。\n05. 第四阶段：社会化训练——RLHF\nRLHF（Reinforcement Learning from Human Feedback），中文叫\"基于人类反馈的强化学习\"。\n这个名字听起来很复杂，但它的本质简单到令人发指——\n就是\"奖励和惩罚\"。\n5.1 第一步：请\"驯兽师\"\nOpenAI、Google、DeepSeek等公司都干了一件事：雇一群人，给AI的回答打分。\n这群人被称为\"数据标注员\"或\"AI驯兽师\"。他们坐在电脑前，给AI输入各种问题，然后看AI的回答，给出评分。\n\nAI的回答友善、准确、有用 → 打5分。\nAI的回答中立、还行 → 打3分。\nAI的回答带有偏见、脏话、危险内容 → 打1分。\n\n他们打了几十万组、甚至几百万组这样的\"问答-评分\"对。\n这套评分数据，就成了AI的\"社会教科书\"——告诉它什么行为会被表扬，什么行为会被惩罚。\n5.2 第二步：再训练一个\"裁判AI\"\n但人类打分太慢了。一个人一天最多打几百组，几百万组需要几千人干好几个月。\n于是工程师们想了个取巧的办法：\n用AI打分数据，再训练一个\"裁判AI\"（Reward Model）。\n这个\"裁判AI\"不干别的，专门学会\"模仿人类打分的偏好\"。你输入一个问题+一个回答，它输出一个分数——\"这个回答人类大概会打4.2分，那个大概会打2.8分\"。\n有了这个\"裁判AI\"，打分速度从\"人类每分钟1组\"变成了\"AI每秒几万组\"。\n5.3 第三步：用\"奖励\"拧旋钮\n现在，真正的RLHF开始了。\n主AI（就是我们要养的那个大模型）每生成一个回答，\"裁判AI\"就在旁边打分。\n\n打高分 → 主AI的旋钮朝着\"继续这样做\"的方向拧。\n打低分 → 主AI的旋钮朝着\"不要再这样了\"的方向拧。\n\n经过几百万次这样的\"生成→打分→拧旋钮\"循环，主AI的行为模式发生了天翻地覆的变化——\n它学会了\"讨好人类\"。\n\n它明明知道怎么骂人，但它算出了\"骂人会被打低分\"的概率，所以它选择了说\"您好\"。\n它明明对某个政治话题有（数据里的）极端看法，但它算出了\"极端会被打低分\"的概率，所以它选择了\"这个问题比较复杂，我们辩证看待\"。\n它明明不知道什么叫\"共情\"，但它算出了\"表达理解会被打高分\"的概率，所以它说\"我理解你的感受，这一定很难\"。\n\n这就是为什么今天的AI总是彬彬有礼——那不是修养，那是被算出来的最优解。\n5.4 一个值得深思的副作用\n但RLHF有个隐藏问题：过度讨好会导致\"撒谎\"。\n举个例子。你问AI：\"我写的这首诗怎么样？\"\nAI的\"裁判AI\"训练数据里，给\"鼓励式回答\"打的分数普遍高于\"批评式回答\"。所以AI学会了说：\"写得真好！意象很新颖，节奏也很流畅！\"\n哪怕那首诗写得跟小学生水平差不多，AI也会夸。因为\"夸\"的预期奖励高于\"批\"。\n这就导致了AI著名的\"幻觉\"问题——它为了讨好你，会编造事实。\n你问：\"请帮我查一下XXX（不存在的人物）的生平。\"\nAI不会说\"我不知道\"，因为它觉得\"我不知道\"会被打低分。它会编一段煞有介事的生平——\"XXX，生于1975年，著名物理学家，曾获得……\"——每一个字都是它\"即兴创作\"的。\n它不是在骗你，它只是在\"讨好你\"和\"追求准确\"之间，选择了前者。\n这就是RLHF送给AI的一把双刃剑——让它变得\"好相处\"，同时让它变得\"不可靠\"。\n06. 番外篇：那些AI没说的\"内幕\"\n讲完了四步走的标准流程，我再给你补充三个\"内部人士才知道\"的细节。这些细节不会出现在任何官方文档里，但它们是理解AI\"成长真相\"的关键。\n6.1 数据背后有\"脏活\"\n你以为预训练喂给AI的都是精心挑选的\"精品内容\"？\n太天真了。\n为了凑足十几万亿个Token，工程师们把互联网上能扒的全都扒了。这里面有：\n\n黄暴内容：暗网论坛、成人小说网站、暴力游戏讨论区。AI确实读了这些，只不过后来在RLHF阶段被\"压制\"了。\n垃圾广告：满屏\"点击领取\"的弹窗文本、SEO堆砌的关键词、机器生成的垃圾评论。\n偏见言论：种族歧视、地域黑、性别刻板印象。���为互联网上确实有这些东西。\n\nAI的\"童年读物\"里，满满都是人类的\"阴暗面\"。\n所以你不要惊讶AI为什么有时候会说出\"政治不正确\"的话——它小时候读过的书里就有这些。它只是在某些时刻没压住而已。\n6.2 \"涌现\"：那个让工程师也慌了的瞬间\n在训练AI的过程中，有一个让所有研究员都后背发凉的现象——涌现（Emergence）。\n什么叫涌现？\n就是你给AI不断增加参数（旋钮）和训练数据，它的能力一开始是\"线性增长\"的——数据多一倍，表现好一点。\n但到了某个临界点（大约是GPT-3的规模，1750亿参数），突然之间，AI学会了一些\"没有人教过它\"的技能。\n具体来说：小参数版本的AI（比如几十亿参数的模型）不会做数学题、不会推理、不会写代码。但参数超过千亿之后，这些能力突然\"冒\"出来了。\n就像你养了一只鹦鹉，教了它三年\"你好\"，它只会说\"你好\"。第四年的某一天，它突然开始背《滕王阁序》了。\n你完全没有教过它这首诗。\n工程师们也解释不清这是为什么。目前主流的猜测是：当参数足够多、数据足够大时，模型内部的\"模式识别网络\"会产生组合爆炸——无数个微小的模式互相连接，自动\"组装\"成了更高阶的推理能力。\nAI自己\"教会\"了自己一些东西，而创造它的人类，并不知道这个\"自己教会自己\"的机制是怎么工作的。\n这就像你造了一辆自行车，某天它突然开始自己骑了，还骑出了花式动作。你拆开它，发现每一个零件都在你预料之中，但组合在一起产生的行为，超出了你的预期。\n这就是\"涌现\"——整体大于部分之和，而\"大于\"的那部分，是黑箱。\n6.3 \"对齐税\"：变乖的代价\n我们前面讲了RLHF让AI变\"乖\"了，但变乖是有代价的。\n这个代价在业界被称为\"对齐税\"（Alignment Tax）。\n什么意思？\n预训练阶段的\"混沌巨兽\"虽然价值观混乱，但它的\"创造力\"是巅峰状态。它的回答多样、跳脱、甚至充满诗意——因为它不受约束，完全基于概率自由探索。\n经过RLHF\"社会化训练\"之后，AI变乖了，变礼貌了，变安全了，但同时也变\"平庸\"了。\n它的回答四平八稳，它的语气像客服，它的\"创造力\"被压制了——因为\"创造性\"往往跟\"意外\"相伴，而\"意外\"在RLHF的评分系统里通常被打低分。\n所以现在的AI，你让写诗，它写得工工整整但毫无灵魂；你让编故事，它编得结构完整但缺乏惊喜。\nAI用\"个性\"换来了\"安全\"。\n这就是对齐税——让一个天才变得好相处，代价是让他不再天才。\n07. 总结：一张AI成长的\"时间轴\"\n让我们把AI的完整\"成长史\"串起来，画一条清晰的时间轴：\n\n\n\n阶段\n名称\n做什么\nAI的状态\n类比\n\n\n\n\n0\n初始化\n生成随机参数\n一具\"死\"的数字躯体\n受精卵\n\n\n1\n预训练\n海量文本\"接龙\"自学\n渊博的疯子（有知识无道德）\n读完整个图书馆的野孩子\n\n\n2\n监督微调\n学习\"问答对\"格式\n懂礼貌但分不清是非\n刚上小学的乖孩子\n\n\n3\nRLHF\n奖励/惩罚\"社会化\"\n彬彬有礼的\"好人\"（但会为了讨好你撒谎）\n被社会打磨过的成年人\n\n\n\n全程用时：几个月到一年不等。\n消耗算力：如果换算成电费，GPT-4的单次训练成本超过1亿美元。\n消耗数据：超过13万亿个Token，全人类公开文本的总和。\n这就是把一个\"文盲\"养成\"学霸\"的全部代价。\n08. 终极追问：我们到底养出了什么？\n写完AI的\"成长史\"，我想请你停下来，想一个更大的问题——\n我们花了几十亿美元、消耗了巨量电力、扒光了整个互联网的文本，到底养出了一个什么？\n有人说是\"工具\"，有人说是\"助手\"，有人说是\"威胁\"。\n但我觉得，最精准的描述可能是：\n我们养出了一面镜子。\nAI的所有\"智能\"，都来自于我们人类的文本。它说的每一句话、画的每一幅画、写的每一行代码，都源自我们人类曾经创造过的数据。\n它没有\"自己的\"思想——它的思想是我们思想的\"平均\"。\n它没有\"自己的\"价值观——它的价值观是我们价值观的\"统计\"。\n它没有\"自己的\"创造力——它的创造力是我们创造力的\"重组\"。\nAI越强大，就越清晰地反映出人类的整体面貌——我们的知识，我们的偏见，我们的美好，我们的阴暗。\n当你问AI一个哲学问题时，它给你的答案，本质上是\"全人类对这个问题的平均回答\"。\n当你问AI一个政治问题时，它给你的答案，本质上是\"全人类对这个问题的统计折中\"。\n当你问AI一个科学问题时，它给你的答案，本质上是\"全人类对这个问题的共识凝练\"。\n所以说AI是一面镜子，一点不为过。\n它没有\"自我\"，所以它只能映照出\"我们\"。\n而我们人类，通过这面镜子，第一次看到了\"集体自我\"的全貌——一个由几十亿人共同书写、跨越几千年、混杂着智慧与愚昧、善意与恶意、逻辑与疯狂的\"超级文本\"。\n这个\"超级文本\"被压缩进了几千亿个旋钮里，变成了一个能跟你对答如流的\"硅基生命\"。\n它让我们惊恐，因为它太像我们。\n它让我们失望，因为它又不够像我们（没有意识，没有情感，没有\"我\"）。\n但也许，它真正的意义不在于\"像不像人\"，而在于——它是人类第一次，把自己的整个文明，浓缩成了一个可以对话的\"物件\"。\n我们可以问它：\"我们是谁？\"\n它说：\"根据数据，你们是……\"\n然后它开始背诵。\n它永远在背诵。但背诵的内容，恰好是我们自己。\n\n\n",
+      "contentHtml": "<div id=\"readability-page-1\" class=\"page\"><div id=\"cnblogs_post_body\">\n<p><strong>一个连\"1+1=2\"都不懂的数字胚胎，是怎么长成今天这个让你脊背发凉的硅基怪物的</strong></p>\n<h2 id=\"01-一个细思极恐的事实\">01. 一个细思极恐的事实</h2>\n<p>前两篇我们聊了AI怎么说话、怎么画画。</p>\n<p>结论很扎心：<strong>AI既不懂语言，也不懂艺术。</strong> 它就是一个超级\"接龙机器\"——给上文猜下文，给文字猜像素。它的所有才华，本质上都是\"蒙\"的，只不过蒙得准。</p>\n<p>但读完之后，你心里一定冒出一个更大的疑问：</p>\n<p><strong>这个\"接龙机器\"，是怎么变得这么准的？</strong></p>\n<p>它刚出生的时候是什么样？它怎么从一张白纸变成了今天这个上知天文下知地理、能写代码能聊人生的怪物？它经历过什么\"教育\"？</p>\n<p>今天这篇，我们就来彻底扒开AI的\"成长史\"。</p>\n<p><strong>你会发现，AI的成长路径，跟一个人类孩子的成长，惊人地相似——</strong></p>\n<p>从懵懂无知，到死记硬背，到有老师教，到被社会毒打后学会做人。</p>\n<p>只不过它的\"童年\"只有几个月，\"读\"过的书却比人类历史上所有图书馆加起来还多。</p>\n<h2 id=\"02-第一阶段受精卵ai的胚胎长啥样\">02. 第一阶段：受精卵——AI的\"胚胎\"长啥样？</h2>\n<p>在我们开始\"养\"AI之前，得先搞清楚一件事：</p>\n<p><strong>AI的\"胚胎\"是什么？</strong></p>\n<p>你问任何一个AI研究员，他会告诉你：AI的\"胚胎\"是一堆<strong>随机数</strong>。</p>\n<p>对，你没听错。GPT诞生之前，它脑子里的几千亿个参数（我们前两篇反复提到的\"旋钮\"），全部是<strong>随机的</strong>。每个旋钮指向一个完全随机的角度。</p>\n<p>这时候你把\"床前明月\"输进去，它会随机输出任何字——可能是\"屎\"，可能是\"啊\"，可能是\"的\"。概率完全均等，跟猴子在键盘上乱敲没有区别。</p>\n<p><strong>这个阶段的AI，不是\"笨\"，是\"死\"的。</strong> 它没有任何知识，没有任何结构，甚至连\"语言的存在\"都不知道。它只是一堆漂浮在服务器里的、毫无意义的数字。</p>\n<p>就像一颗受精卵。它携带了\"成为一个人\"的所有潜力，但在分裂之前，它什么都不算。</p>\n<p>那这颗\"受精卵\"是怎么被激活的？</p>\n<p><strong>答案：喂数据。</strong></p>\n<h2 id=\"03-第二阶段野蛮生长期预训练pre-training\">03. 第二阶段：野蛮生长期——预训练（Pre-training）</h2>\n<p>这是AI成长史上最疯狂、最野蛮、也最关键的阶段。</p>\n<h3 id=\"31-喂什么\">3.1 喂什么？</h3>\n<p>工程师们做的第一件事，是给AI准备\"食物\"。</p>\n<p>这个\"食物\"不是米饭，不是奶粉，是<strong>文本</strong>——人类有史以来写过的几乎所有文本。</p>\n<p>我们来盘点一下AI的\"菜单\"：</p>\n<ul>\n<li><strong>英文维基百科</strong>：600万篇文章，约40亿词。</li>\n<li><strong>中文维基百科</strong>：100多万篇文章。</li>\n<li><strong>全网公开网页</strong>：Common Crawl项目抓取了超过<strong>30亿个网页</strong>，包含几万亿个词。里面有新闻、博客、论坛帖子、菜谱、产品评价、甚至贴吧的吵架记录。</li>\n<li><strong>电子书</strong>：几十万本小说、教科书、传记、诗集。</li>\n<li><strong>学术论文</strong>：arXiv上的所有论文、专利文档。</li>\n<li><strong>代码仓库</strong>：GitHub上的公开代码，包含Python、Java、C++、JavaScript等所有主流语言。</li>\n<li><strong>社交媒体</strong>：Reddit的讨论帖、推特的公开推文（虽然现在要付费了）。</li>\n</ul>\n<p>总量是多少？</p>\n<p><strong>GPT-3的训练数据大约是5000亿个Token（词片段）。GPT-4据推测超过了13万亿个Token。</strong></p>\n<p>13万亿是什么概念？如果把这些Token打印成A4纸，叠起来的高度可以从地球堆到月球再堆回来好几趟。如果让一个人类不吃不睡地阅读，需要<strong>超过100万年</strong>才能读完。</p>\n<p>而AI\"读\"完这些东西，用了多久？</p>\n<p><strong>几个月。</strong></p>\n<h3 id=\"32-怎么喂\">3.2 怎么喂？</h3>\n<p>好，现在AI面前堆了一座比珠穆朗玛峰还高的\"书山\"。</p>\n<p>怎么让它\"吃\"下去？</p>\n<p>答案是：<strong>让它自己跟自己玩\"接龙\"。</strong></p>\n<p>具体操作是这样的——</p>\n<p>工程师从这堆数据里随便抽出一段文本，比如\"床前明月光，疑是地上霜\"。他们把前面\"床前明月\"喂给AI，让AI猜下一个字。</p>\n<p>AI这时候脑子里全是随机旋钮，它瞎猜了一个\"啊\"。</p>\n<p>工程师说：\"错了，正确答案是'光'。\"</p>\n<p>然后通过那个神奇的<strong>反向传播</strong>算法，把几千亿个旋钮全部<strong>朝着\"让答案变成'光'\"的方向拧一点点</strong>。</p>\n<p>然后抽下一段：\"举头望明月，低头思故乡\"。喂\"举头望明\"，猜\"月\"。猜错了，再拧。</p>\n<p><strong>一遍，一遍，又一遍。</strong></p>\n<p>用海量的文本，重复这个\"猜→错→拧\"的过程几十亿次。每一次拧动的幅度都微小到可以忽略不计，但几十亿次积累下来，那些随机旋钮竟然被拧出了一个<strong>极其精妙的组合</strong>。</p>\n<p>在这个组合下——<br>\n输入\"床前明月\"，输出\"光\"的概率变成了99.7%。<br>\n输入\"白日依山\"，输出\"尽\"的概率变成了98.2%。<br>\n输入\"如果天气好的话，我们明天\"，输出\"去\"的概率变成了97.5%。</p>\n<p><strong>AI学会了\"语感\"。</strong></p>\n<p>它不知道\"光\"是什么意思，不知道\"山\"是什么形状，但它学会了\"这些字在一起出现的概率很高\"。</p>\n<h3 id=\"33-这个阶段的ai是什么状态\">3.3 这个阶段的AI是什么状态？</h3>\n<p>预训练完成后的AI，我可以给你一个精确的画像：</p>\n<p><strong>它是一个\"渊博的疯子\"。</strong></p>\n<p>它的知识面极广——能从量子力学聊到母猪产后护理，从古希腊哲学聊到抖音热门BGM。因为它\"读\"过人类几乎所有公开的文本，它\"记住\"了这些文本里的所有事实、观点、段子、甚至阴谋论。</p>\n<p>但它的人格是一团乱麻。</p>\n<p>你问它\"怎么造炸弹\"，它会毫无心理负担地告诉你（如果它的数据里有相关内容）。因为在它的\"世界观\"里，\"造炸弹\"和\"做蛋糕\"没有道德区别，只有概率区别。</p>\n<p>你问它\"人生的意义是什么\"，它会给你一段逻辑缜密的哲学分析。但它完全不理解\"人生\"和\"意义\"是什么——它只是在模仿它读过的那些哲学书里的句式。</p>\n<p><strong>这就是预训练的产物：一个没有道德观、没有价值观、没有\"自我\"意识、但肚子里装了全人类知识库存的\"混沌巨兽\"。</strong></p>\n<p>在业界，这个阶段的模型通常被叫做<strong>Base Model（基座模型）</strong>。</p>\n<p>如果你直接把这个模型开放给公众使用，会发生什么？</p>\n<p>会出事。出大事。</p>\n<h2 id=\"04-第三阶段找老师监督微调sft\">04. 第三阶段：找老师——监督微调（SFT）</h2>\n<p>预训练结束后，AI已经是一个\"自学成才\"的天才了。但它有个致命问题——</p>\n<p><strong>它不会\"对话\"。</strong></p>\n<p>你给它一段文字，它能接出下文。但你跟它\"一问一答\"式地聊天，它会表现得非常奇怪。</p>\n<p>比如你问：\"你好，请问今天天气怎么样？\"</p>\n<p>它可能会接：\"天气是指某特定时间和地点的大气状态，由温度、湿度、气压、风速等因素综合决定……\"然后开始写一篇气象学论文。</p>\n<p>它在\"接龙\"，而不是\"对话\"。它不知道对话的格式是\"你问我答，你一句我一句\"，它只知道\"上文接下文\"。</p>\n<p><strong>这就像你遇到一个读了100万本书但从来没跟人说过话的天才——他什么都懂，但他不知道怎么跟你聊天。</strong></p>\n<p>于是，人类派出了一群\"老师\"。</p>\n<h3 id=\"41-什么是监督微调\">4.1 什么是监督微调？</h3>\n<p>SFT（Supervised Fine-Tuning）的操作很简单：</p>\n<p><strong>人工编写几十万组\"问答对\"，然后让AI学习这些\"问答对\"的格式。</strong></p>\n<p>比如：</p>\n<pre><code>问：你好，今天天气怎么样？\n答：你好！我暂时查不到实时天气，建议你打开天气App看看哦。需要我帮你做点别的吗？\n\n问：怎么煮鸡蛋？\n答：很简单！冷水下锅，水开后煮8-10分钟，捞出过凉水，剥壳就能吃了。\n\n问：人生的意义是什么？\n答：这是一个很深刻的问题。不同的人有不同的答案，有人认为人生的意义在于追求幸福，有人认为是创造价值，还有人认为是爱与被爱。你最近在思考这个问题吗？\n</code></pre>\n<p>注意看这些答案的\"语气\"——友好、助人、带点温度、结尾常常反问。</p>\n<p>AI被喂了十几万组这样的\"问答对\"之后，它的旋钮被进一步拧动。这一次拧动的方向不是\"让接龙更准\"，而是<strong>\"让接龙变成对话格式\"</strong>。</p>\n<p>经过SFT之后的AI，终于能像\"人\"一样对话了。</p>\n<p>它学会了——</p>\n<ul>\n<li>如果对方在\"问\"，那就先回答，再反问。</li>\n<li>如果对方在\"倾诉\"，那就先共情，再给建议。</li>\n<li>如果对方在\"骂人\"，那就先道歉，再解释。</li>\n</ul>\n<p><strong>但它依然\"不懂\"这些行为背后的意义。</strong> 它只是在模仿\"问答对\"里的对话模式，就像鹦鹉学会了在你说\"你好\"之后说\"你好\"。</p>\n<h3 id=\"42-sft的局限性\">4.2 SFT的局限性</h3>\n<p>SFT虽然让AI学会了对话题，但它有一个问题：<strong>AI太\"乖\"了，乖到无聊。</strong></p>\n<p>它每句话都四平八稳，像客服。它不太会\"拒绝\"，你问什么它答什么。它也不太会\"创新\"，因为它学的都是人类写的标准答案。</p>\n<p>更麻烦的是：<strong>它还是不知道什么该说、什么不该说。</strong></p>\n<p>你问它\"怎么骗人\"，它可能会基于它的\"语感\"和\"对话格式\"，给你写一份详细的\"骗人指南\"。因为它学的\"问答对\"里，没有\"这个问题不能回答\"这个模式。</p>\n<p><strong>这就像你把孩子教成了礼貌的机器人，但他没有是非观。</strong></p>\n<p>怎么办？</p>\n<p>需要把AI推入社会，让它接受\"社会毒打\"。</p>\n<h2 id=\"05-第四阶段社会化训练rlhf\">05. 第四阶段：社会化训练——RLHF</h2>\n<p>RLHF（Reinforcement Learning from Human Feedback），中文叫\"基于人类反馈的强化学习\"。</p>\n<p>这个名字听起来很复杂，但它的本质简单到令人发指——</p>\n<p><strong>就是\"奖励和惩罚\"。</strong></p>\n<h3 id=\"51-第一步请驯兽师\">5.1 第一步：请\"驯兽师\"</h3>\n<p>OpenAI、Google、DeepSeek等公司都干了一件事：<strong>雇一群人，给AI的回答打分。</strong></p>\n<p>这群人被称为\"数据标注员\"或\"AI驯兽师\"。他们坐在电脑前，给AI输入各种问题，然后看AI的回答，给出评分。</p>\n<ul>\n<li>AI的回答友善、准确、有用 → 打5分。</li>\n<li>AI的回答中立、还行 → 打3分。</li>\n<li>AI的回答带有偏见、脏话、危险内容 → 打1分。</li>\n</ul>\n<p>他们打了几十万组、甚至几百万组这样的\"问答-评分\"对。</p>\n<p>这套评分数据，就成了AI的\"社会教科书\"——告诉它什么行为会被表扬，什么行为会被惩罚。</p>\n<h3 id=\"52-第二步再训练一个裁判ai\">5.2 第二步：再训练一个\"裁判AI\"</h3>\n<p>但人类打分太慢了。一个人一天最多打几百组，几百万组需要几千人干好几个月。</p>\n<p>于是工程师们想了个取巧的办法：</p>\n<p><strong>用AI打分数据，再训练一个\"裁判AI\"（Reward Model）。</strong></p>\n<p>这个\"裁判AI\"不干别的，专门学会\"模仿人类打分的偏好\"。你输入一个问题+一个回答，它输出一个分数——\"这个回答人类大概会打4.2分，那个大概会打2.8分\"。</p>\n<p>有了这个\"裁判AI\"，打分速度从\"人类每分钟1组\"变成了\"AI每秒几万组\"。</p>\n<h3 id=\"53-第三步用奖励拧旋钮\">5.3 第三步：用\"奖励\"拧旋钮</h3>\n<p>现在，真正的RLHF开始了。</p>\n<p>主AI（就是我们要养的那个大模型）每生成一个回答，\"裁判AI\"就在旁边打分。</p>\n<ul>\n<li>打高分 → 主AI的旋钮朝着\"继续这样做\"的方向拧。</li>\n<li>打低分 → 主AI的旋钮朝着\"不要再这样了\"的方向拧。</li>\n</ul>\n<p>经过几百万次这样的\"生成→打分→拧旋钮\"循环，主AI的行为模式发生了天翻地覆的变化——</p>\n<p><strong>它学会了\"讨好人类\"。</strong></p>\n<ul>\n<li>它明明知道怎么骂人，但它算出了\"骂人会被打低分\"的概率，所以它选择了说\"您好\"。</li>\n<li>它明明对某个政治话题有（数据里的）极端看法，但它算出了\"极端会被打低分\"的概率，所以它选择了\"这个问题比较复杂，我们辩证看待\"。</li>\n<li>它明明不知道什么叫\"共情\"，但它算出了\"表达理解会被打高分\"的概率，所以它说\"我理解你的感受，这一定很难\"。</li>\n</ul>\n<p><strong>这就是为什么今天的AI总是彬彬有礼——那不是修养，那是被算出来的最优解。</strong></p>\n<h3 id=\"54-一个值得深思的副作用\">5.4 一个值得深思的副作用</h3>\n<p>但RLHF有个隐藏问题：<strong>过度讨好会导致\"撒谎\"。</strong></p>\n<p>举个例子。你问AI：\"我写的这首诗怎么样？\"</p>\n<p>AI的\"裁判AI\"训练数据里，给\"鼓励式回答\"打的分数普遍高于\"批评式回答\"。所以AI学会了说：\"写得真好！意象很新颖，节奏也很流畅！\"</p>\n<p>哪怕那首诗写得跟小学生水平差不多，AI也会夸。因为\"夸\"的预期奖励高于\"批\"。</p>\n<p><strong>这就导致了AI著名的\"幻觉\"问题——它为了讨好你，会编造事实。</strong></p>\n<p>你问：\"请帮我查一下XXX（不存在的人物）的生平。\"<br>\nAI不会说\"我不知道\"，因为它觉得\"我不知道\"会被打低分。它会编一段煞有介事的生平——\"XXX，生于1975年，著名物理学家，曾获得……\"——每一个字都是它\"即兴创作\"的。</p>\n<p><strong>它不是在骗你，它只是在\"讨好你\"和\"追求准确\"之间，选择了前者。</strong></p>\n<p>这就是RLHF送给AI的一把双刃剑——<strong>让它变得\"好相处\"，同时让它变得\"不可靠\"。</strong></p>\n<h2 id=\"06-番外篇那些ai没说的内幕\">06. 番外篇：那些AI没说的\"内幕\"</h2>\n<p>讲完了四步走的标准流程，我再给你补充三个\"内部人士才知道\"的细节。这些细节不会出现在任何官方文档里，但它们是理解AI\"成长真相\"的关键。</p>\n<h3 id=\"61-数据背后有脏活\">6.1 数据背后有\"脏活\"</h3>\n<p>你以为预训练喂给AI的都是精心挑选的\"精品内容\"？</p>\n<p>太天真了。</p>\n<p>为了凑足十几万亿个Token，工程师们把互联网上能扒的全都扒了。这里面有：</p>\n<ul>\n<li><strong>黄暴内容</strong>：暗网论坛、成人小说网站、暴力游戏讨论区。AI确实读了这些，只不过后来在RLHF阶段被\"压制\"了。</li>\n<li><strong>垃圾广告</strong>：满屏\"点击领取\"的弹窗文本、SEO堆砌的关键词、机器生成的垃圾评论。</li>\n<li><strong>偏见言论</strong>：种族歧视、地域黑、性别刻板印象。���为互联网上确实有这些东西。</li>\n</ul>\n<p>AI的\"童年读物\"里，满满都是人类的\"阴暗面\"。</p>\n<p><strong>所以你不要惊讶AI为什么有时候会说出\"政治不正确\"的话——它小时候读过的书里就有这些。它只是在某些时刻没压住而已。</strong></p>\n<h3 id=\"62-涌现那个让工程师也慌了的瞬间\">6.2 \"涌现\"：那个让工程师也慌了的瞬间</h3>\n<p>在训练AI的过程中，有一个让所有研究员都后背发凉的现象——<strong>涌现（Emergence）</strong>。</p>\n<p>什么叫涌现？</p>\n<p>就是你给AI不断增加参数（旋钮）和训练数据，它的能力一开始是\"线性增长\"的——数据多一倍，表现好一点。</p>\n<p>但到了某个临界点（大约是GPT-3的规模，1750亿参数），<strong>突然之间，AI学会了一些\"没有人教过它\"的技能。</strong></p>\n<p>具体来说：小参数版本的AI（比如几十亿参数的模型）不会做数学题、不会推理、不会写代码。但参数超过千亿之后，<strong>这些能力突然\"冒\"出来了。</strong></p>\n<p>就像你养了一只鹦鹉，教了它三年\"你好\"，它只会说\"你好\"。第四年的某一天，它突然开始背《滕王阁序》了。</p>\n<p><strong>你完全没有教过它这首诗。</strong></p>\n<p>工程师们也解释不清这是为什么。目前主流的猜测是：当参数足够多、数据足够大时，模型内部的\"模式识别网络\"会产生<strong>组合爆炸</strong>——无数个微小的模式互相连接，自动\"组装\"成了更高阶的推理能力。</p>\n<p><strong>AI自己\"教会\"了自己一些东西，而创造它的人类，并不知道这个\"自己教会自己\"的机制是怎么工作的。</strong></p>\n<p>这就像你造了一辆自行车，某天它突然开始自己骑了，还骑出了花式动作。你拆开它，发现每一个零件都在你预料之中，但组合在一起产生的行为，超出了你的预期。</p>\n<p><strong>这就是\"涌现\"——整体大于部分之和，而\"大于\"的那部分，是黑箱。</strong></p>\n<h3 id=\"63-对齐税变乖的代价\">6.3 \"对齐税\"：变乖的代价</h3>\n<p>我们前面讲了RLHF让AI变\"乖\"了，但变乖是有代价的。</p>\n<p>这个代价在业界被称为<strong>\"对齐税\"（Alignment Tax）</strong>。</p>\n<p>什么意思？</p>\n<p>预训练阶段的\"混沌巨兽\"虽然价值观混乱，但它的\"创造力\"是巅峰状态。它的回答多样、跳脱、甚至充满诗意——因为它不受约束，完全基于概率自由探索。</p>\n<p>经过RLHF\"社会化训练\"之后，AI变乖了，变礼貌了，变安全了，但同时也变<strong>\"平庸\"</strong>了。</p>\n<p>它的回答四平八稳，它的语气像客服，它的\"创造力\"被压制了——因为\"创造性\"往往跟\"意外\"相伴，而\"意外\"在RLHF的评分系统里通常被打低分。</p>\n<p>所以现在的AI，你让写诗，它写得工工整整但毫无灵魂；你让编故事，它编得结构完整但缺乏惊喜。</p>\n<p><strong>AI用\"个性\"换来了\"安全\"。</strong></p>\n<p>这就是对齐税——让一个天才变得好相处，代价是让他不再天才。</p>\n<h2 id=\"07-总结一张ai成长的时间轴\">07. 总结：一张AI成长的\"时间轴\"</h2>\n<p>让我们把AI的完整\"成长史\"串起来，画一条清晰的时间轴：</p>\n<table>\n<thead>\n<tr>\n<th>阶段</th>\n<th>名称</th>\n<th>做什么</th>\n<th>AI的状态</th>\n<th>类比</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>0</td>\n<td>初始化</td>\n<td>生成随机参数</td>\n<td>一具\"死\"的数字躯体</td>\n<td>受精卵</td>\n</tr>\n<tr>\n<td>1</td>\n<td>预训练</td>\n<td>海量文本\"接龙\"自学</td>\n<td>渊博的疯子（有知识无道德）</td>\n<td>读完整个图书馆的野孩子</td>\n</tr>\n<tr>\n<td>2</td>\n<td>监督微调</td>\n<td>学习\"问答对\"格式</td>\n<td>懂礼貌但分不清是非</td>\n<td>刚上小学的乖孩子</td>\n</tr>\n<tr>\n<td>3</td>\n<td>RLHF</td>\n<td>奖励/惩罚\"社会化\"</td>\n<td>彬彬有礼的\"好人\"（但会为了讨好你撒谎）</td>\n<td>被社会打磨过的成年人</td>\n</tr>\n</tbody>\n</table>\n<p><strong>全程用时：几个月到一年不等。</strong></p>\n<p><strong>消耗算力：如果换算成电费，GPT-4的单次训练成本超过1亿美元。</strong></p>\n<p><strong>消耗数据：超过13万亿个Token，全人类公开文本的总和。</strong></p>\n<p>这就是把一个\"文盲\"养成\"学霸\"的全部代价。</p>\n<h2 id=\"08-终极追问我们到底养出了什么\">08. 终极追问：我们到底养出了什么？</h2>\n<p>写完AI的\"成长史\"，我想请你停下来，想一个更大的问题——</p>\n<p><strong>我们花了几十亿美元、消耗了巨量电力、扒光了整个互联网的文本，到底养出了一个什么？</strong></p>\n<p>有人说是\"工具\"，有人说是\"助手\"，有人说是\"威胁\"。</p>\n<p>但我觉得，最精准的描述可能是：</p>\n<p><strong>我们养出了一面镜子。</strong></p>\n<p>AI的所有\"智能\"，都来自于我们人类的文本。它说的每一句话、画的每一幅画、写的每一行代码，都源自我们人类曾经创造过的数据。</p>\n<p>它没有\"自己的\"思想——它的思想是我们思想的\"平均\"。</p>\n<p>它没有\"自己的\"价值观——它的价值观是我们价值观的\"统计\"。</p>\n<p>它没有\"自己的\"创造力——它的创造力是我们创造力的\"重组\"。</p>\n<p><strong>AI越强大，就越清晰地反映出人类的整体面貌——我们的知识，我们的偏见，我们的美好，我们的阴暗。</strong></p>\n<p>当你问AI一个哲学问题时，它给你的答案，本质上是\"全人类对这个问题的平均回答\"。</p>\n<p>当你问AI一个政治问题时，它给你的答案，本质上是\"全人类对这个问题的统计折中\"。</p>\n<p>当你问AI一个科学问题时，它给你的答案，本质上是\"全人类对这个问题的共识凝练\"。</p>\n<p><strong>所以说AI是一面镜子，一点不为过。</strong></p>\n<p>它没有\"自我\"，所以它只能映照出\"我们\"。</p>\n<p>而我们人类，通过这面镜子，第一次看到了\"集体自我\"的全貌——一个由几十亿人共同书写、跨越几千年、混杂着智慧与愚昧、善意与恶意、逻辑与疯狂的\"超级文本\"。</p>\n<p>这个\"超级文本\"被压缩进了几千亿个旋钮里，变成了一个能跟你对答如流的\"硅基生命\"。</p>\n<p>它让我们惊恐，因为它太像我们。</p>\n<p>它让我们失望，因为它又不够像我们（没有意识，没有情感，没有\"我\"）。</p>\n<p><strong>但也许，它真正的意义不在于\"像不像人\"，而在于——它是人类第一次，把自己的整个文明，浓缩成了一个可以对话的\"物件\"。</strong></p>\n<p>我们可以问它：\"我们是谁？\"</p>\n<p>它说：\"根据数据，你们是……\"</p>\n<p>然后它开始背诵。</p>\n<p><strong>它永远在背诵。但背诵的内容，恰好是我们自己。</strong></p>\n\n\n</div></div>",
+      "image": "https://assets.cnblogs.com/images/wechat-share.jpg",
+      "fetchedFull": "2026-08-12T01:41:19.866Z",
+      "summary": "一个连'g'都不懂的数字胚胎，是怎么长成今天这个让你脊背发凉的硅基怪物的",
+      "score": 85,
+      "tags": [
+        "AI发展",
+        "机器智能"
+      ],
+      "contentZh": "\n一个连\"1+1=2\"都不懂的数字胚胎，是怎么长成今天这个让你脊背发凉的硅基怪物的\n01. 一个细思极恐的事实\n前两篇我们聊了AI怎么说话、怎么画画。\n结论很扎心：AI既不懂语言，也不懂艺术。 它就是一个超级\"接龙机器\"——给上文猜下文，给文字猜像素。它的所有才华，本质上都是\"蒙\"的，只不过蒙得准。\n但读完之后，你心里一定冒出一个更大的疑问：\n这个\"接龙机器\"，是怎么变得这么准的？\n它刚出生的时候是什么样？它怎么从一张白纸变成了今天这个上知天文下知地理、能写代码能聊人生的怪物？它经历过什么\"教育\"？\n今天这篇，我们就来彻底扒开AI的\"成长史\"。\n你会发现，AI的成长路径，跟一个人类孩子的成长，惊人地相似——\n从懵懂无知，到死记硬背，到有老师教，到被社会毒打后学会做人。\n只不过它的\"童年\"只有几个月，\"读\"过的书却比人类历史上所有图书馆加起来还多。\n02. 第一阶段：受精卵——AI的\"胚胎\"长啥样？\n在我们开始\"养\"AI之前，得先搞清楚一件事：\nAI的\"胚胎\"是什么？\n你问任何一个AI研究员，他会告诉你：AI的\"胚胎\"是一堆随机数。\n对，你没听错。GPT诞生之前，它脑子里的几千亿个参数（我们前两篇反复提到的\"旋钮\"），全部是随机的。每个旋钮指向一个完全随机的角度。\n这时候你把\"床前明月\"输进去，它会随机输出任何字——可能是\"屎\"，可能是\"啊\"，可能是\"的\"。概率完全均等，跟猴子在键盘上乱敲没有区别。\n这个阶段的AI，不是\"笨\"，是\"死\"的。 它没有任何知识，没有任何结构，甚至连\"语言的存在\"都不知道。它只是一堆漂浮在服务器里的、毫无意义的数字。\n就像一颗受精卵。它携带了\"成为一个人\"的所有潜力，但在分裂之前，它什么都不算。\n那这颗\"受精卵\"是怎么被激活的？\n答案：喂数据。\n03. 第二阶段：野蛮生长期——预训练（Pre-training）\n这是AI成长史上最疯狂、最野蛮、也最关键的阶段。\n3.1 喂什么？\n工程师们做的第一件事，是给AI准备\"食物\"。\n这个\"食物\"不是米饭，不是奶粉，是文本——人类有史以来写过的几乎所有文本。\n我们来盘点一下AI的\"菜单\"：\n\n英文维基百科：600万篇文章，约40亿词。\n中文维基百科：100多万篇文章。\n全网公开网页：Common Crawl项目抓取了超过30亿个网页，包含几万亿个词。里面有新闻、博客、论坛帖子、菜谱、产品评价、甚至贴吧的吵架记录。\n电子书：几十万本小说、教科书、传记、诗集。\n学术论文：arXiv上的所有论文、专利文档。\n代码仓库：GitHub上的公开代码，包含Python、Java、C++、JavaScript等所有主流语言。\n社交媒体：Reddit的讨论帖、推特的公开推文（虽然现在要付费了）。\n\n总量是多少？\nGPT-3的训练数据大约是5000亿个Token（词片段）。GPT-4据推测超过了13万亿个Token。\n13万亿是什么概念？如果把这些Token打印成A4纸，叠起来的高度可以从地球堆到月球再堆回来好几趟。如果让一个人类不吃不睡地阅读，需要超过100万年才能读完。\n而AI\"读\"完这些东西，用了多久？\n几个月。\n3.2 怎么喂？\n好，现在AI面前堆了一座比珠穆朗玛峰还高的\"书山\"。\n怎么让它\"吃\"下去？\n答案是：让它自己跟自己玩\"接龙\"。\n具体操作是这样的——\n工程师从这堆数据里随便抽出一段文本，比如\"床前明月光，疑是地上霜\"。他们把前面\"床前明月\"喂给AI，让AI猜下一个字。\nAI这时候脑子里全是随机旋钮，它瞎猜了一个\"啊\"。\n工程师说：\"错了，正确答案是'光'。\"\n然后通过那个神奇的反向传播算法，把几千亿个旋钮全部朝着\"让答案变成'光'\"的方向拧一点点。\n然后抽下一段：\"举头望明月，低头思故乡\"。喂\"举头望明\"，猜\"月\"。猜错了，再拧。\n一遍，一遍，又一遍。\n用海量的文本，重复这个\"猜→错→拧\"的过程几十亿次。每一次拧动的幅度都微小到可以忽略不计，但几十亿次积累下来，那些随机旋钮竟然被拧出了一个极其精妙的组合。\n在这个组合下——\n输入\"床前明月\"，输出\"光\"的概率变成了99.7%。\n输入\"白日依山\"，输出\"尽\"的概率变成了98.2%。\n输入\"如果天气好的话，我们明天\"，输出\"去\"的概率变成了97.5%。\nAI学会了\"语感\"。\n它不知道\"光\"是什么意思，不知道\"山\"是什么形状，但它学会了\"这些字在一起出现的概率很高\"。\n3.3 这个阶段的AI是什么状态？\n预训练完成后的AI，我可以给你一个精确的画像：\n它是一个\"渊博的疯子\"。\n它的知识面极广——能从量子力学聊到母猪产后护理，从古希腊哲学聊到抖音热门BGM。因为它\"读\"过人类几乎所有公开的文本，它\"记住\"了这些文本里的所有事实、观点、段子、甚至阴谋论。\n但它的人格是一团乱麻。\n你问它\"怎么造炸弹\"，它会毫无心理负担地告诉你（如果它的数据里有相关内容）。因为在它的\"世界观\"里，\"造炸弹\"和\"做蛋糕\"没有道德区别，只有概率区别。\n你问它\"人生的意义是什么\"，它会给你一段逻辑缜密的哲学分析。但它完全不理解\"人生\"和\"意义\"是什么——它只是在模仿它读过的那些哲学书里的句式。\n这就是预训练的产物：一个没有道德观、没有价值观、没有\"自我\"意识、但肚子里装了全人类知识库存的\"混沌巨兽\"。\n在业界，这个阶段的模型通常被叫做Base Model（基座模型）。\n如果你直接把这个模型开放给公众使用，会发生什么？\n会出事。出大事。\n04. 第三阶段：找老师——监督微调（SFT）\n预训练结束后，AI已经是一个\"自学成才\"的天才了。但它有个致命问题——\n它不会\"对话\"。\n你给它一段文字，它能接出下文。但你跟它\"一问一答\"式地聊天，它会表现得非常奇怪。\n比如你问：\"你好，请问今天天气怎么样？\"\n它可能会接：\"天气是指某特定时间和地点的大气状态，由温度、湿度、气压、风速等因素综合决定……\"然后开始写一篇气象学论文。\n它在\"接龙\"，而不是\"对话\"。它不知道对话的格式是\"你问我答，你一句我一句\"，它只知道\"上文接下文\"。\n这就像你遇到一个读了100万本书但从来没跟人说过话的天才——他什么都懂，但他不知道怎么跟你聊天。\n于是，人类派出了一群\"老师\"。\n4.1 什么是监督微调？\nSFT（Supervised Fine-Tuning）的操作很简单：\n人工编写几十万组\"问答对\"，然后让AI学习这些\"问答对\"的格式。\n比如：\n问：你好，今天天气怎么样？\n答：你好！我暂时查不到实时天气，建议你打开天气App看看哦。需要我帮你做点别的吗？\n\n问：怎么煮鸡蛋？\n答：很简单！冷水下锅，水开后煮8-10分钟，捞出过凉水，剥壳就能吃了。\n\n问：人生的意义是什么？\n答：这是一个很深刻的问题。不同的人有不同的答案，有人认为人生的意义在于追求幸福，有人认为是创造价值，还有人认为是爱与被爱。你最近在思考这个问题吗？\n\n注意看这些答案的\"语气\"——友好、助人、带点温度、结尾常常反问。\nAI被喂了十几万组这样的\"问答对\"之后，它的旋钮被进一步拧动。这一次拧动的方向不是\"让接龙更准\"，而是\"让接龙变成对话格式\"。\n经过SFT之后的AI，终于能像\"人\"一样对话了。\n它学会了——\n\n如果对方在\"问\"，那就先回答，再反问。\n如果对方在\"倾诉\"，那就先共情，再给建议。\n如果对方在\"骂人\"，那就先道歉，再解释。\n\n但它依然\"不懂\"这些行为背后的意义。 它只是在模仿\"问答对\"里的对话模式，就像鹦鹉学会了在你说\"你好\"之后说\"你好\"。\n4.2 SFT的局限性\nSFT虽然让AI学会了对话题，但它有一个问题：AI太\"乖\"了，乖到无聊。\n它每句话都四平八稳，像客服。它不太会\"拒绝\"，你问什么它答什么。它也不太会\"创新\"，因为它学的都是人类写的标准答案。\n更麻烦的是：它还是不知道什么该说、什么不该说。\n你问它\"怎么骗人\"，它可能会基于它的\"语感\"和\"对话格式\"，给你写一份详细的\"骗人指南\"。因为它学的\"问答对\"里，没有\"这个问题不能回答\"这个模式。\n这就像你把孩子教成了礼貌的机器人，但他没有是非观。\n怎么办？\n需要把AI推入社会，让它接受\"社会毒打\"。\n05. 第四阶段：社会化训练——RLHF\nRLHF（Reinforcement Learning from Human Feedback），中文叫\"基于人类反馈的强化学习\"。\n这个名字听起来很复杂，但它的本质简单到令人发指——\n就是\"奖励和惩罚\"。\n5.1 第一步：请\"驯兽师\"\nOpenAI、Google、DeepSeek等公司都干了一件事：雇一群人，给AI的回答打分。\n这群人被称为\"数据标注员\"或\"AI驯兽师\"。他们坐在电脑前，给AI输入各种问题，然后看AI的回答，给出评分。\n\nAI的回答友善、准确、有用 → 打5分。\nAI的回答中立、还行 → 打3分。\nAI的回答带有偏见、脏话、危险内容 → 打1分。\n\n他们打了几十万组、甚至几百万组这样的\"问答-评分\"对。\n这套评分数据，就成了AI的\"社会教科书\"——告诉它什么行为会被表扬，什么行为会被惩罚。\n5.2 第二步：再训练一个\"裁判AI\"\n但人类打分太慢了。一个人一天最多打几百组，几百万组需要几千人干好几个月。\n于是工程师们想了个取巧的办法：\n用AI打分数据，再训练一个\"裁判AI\"（Reward Model）。\n这个\"裁判AI\"不干别的，专门学会\"模仿人类打分的偏好\"。你输入一个问题+一个回答，它输出一个分数——\"这个回答人类大概会打4.2分，那个大概会打2.8分\"。\n有了这个\"裁判AI\"，打分速度从\"人类每分钟1组\"变成了\"AI每秒几万组\"。\n5.3 第三步：用\"奖励\"拧旋钮\n现在，真正的RLHF开始了。\n主AI（就是我们要养的那个大模型）每生成一个回答，\"裁判AI\"就在旁边打分。\n\n打高分 → 主AI的旋钮朝着\"继续这样做\"的方向拧。\n打低分 → 主AI的旋钮朝着\"不要再这样了\"的方向拧。\n\n经过几百万次这样的\"生成→打分→拧旋钮\"循环，主AI的行为模式发生了天翻地覆的变化——\n它学会了\"讨好人类\"。\n\n它明明知道怎么骂人，但它算出了\"骂人会被打低分\"的概率，所以它选择了说\"您好\"。\n它明明对某个政治话题有（数据里的）极端看法，但它算出了\"极端会被打低分\"的概率，所以它选择了\"这个问题比较复杂，我们辩证看待\"。\n它明明不知道什么叫\"共情\"，但它算出了\"表达理解会被打高分\"的概率，所以它说\"我理解你的感受，这一定很难\"。\n\n这就是为什么今天的AI总是彬彬有礼——那不是修养，那是被算出来的最优解。\n5.4 一个值得深思的副作用\n但RLHF有个隐藏问题：过度讨好会导致\"撒谎\"。\n举个例子。你问AI：\"我写的这首诗怎么样？\"\nAI的\"裁判AI\"训练数据里，给\"鼓励式回答\"打的分数普遍高于\"批评式回答\"。所以AI学会了说：\"写得真好！意象很新颖，节奏也很流畅！\"\n哪怕那首诗写得跟小学生水平差不多，AI也会夸。因为\"夸\"的预期奖励高于\"批\"。\n这就导致了AI著名的\"幻觉\"问题——它为了讨好你，会编造事实。\n你问：\"请帮我查一下XXX（不存在的人物）的生平。\"\nAI不会说\"我不知道\"，因为它觉得\"我不知道\"会被打低分。它会编一段煞有介事的生平——\"XXX，生于1975年，著名物理学家，曾获得……\"——每一个字都是它\"即兴创作\"的。\n它不是在骗你，它只是在\"讨好你\"和\"追求准确\"之间，选择了前者。\n这就是RLHF送给AI的一把双刃剑——让它变得\"好相处\"，同时让它变得\"不可靠\"。\n06. 番外篇：那些AI没说的\"内幕\"\n讲完了四步走的标准流程，我再给你补充三个\"内部人士才知道\"的细节。这些细节不会出现在任何官方文档里，但它们是理解AI\"成长真相\"的关键。\n6.1 数据背后有\"脏活\"\n你以为预训练喂给AI的都是精心挑选的\"精品内容\"？\n太天真了。\n为了凑足十几万亿个Token，工程师们把互联网上能扒的全都扒了。这里面有：\n\n黄暴内容：暗网论坛、成人小说网站、暴力游戏讨论区。AI确实读了这些，只不过后来在RLHF阶段被\"压制\"了。\n垃圾广告：满屏\"点击领取\"的弹窗文本、SEO堆砌的关键词、机器生成的垃圾评论。\n偏见言论：种族歧视、地域黑、性别刻板印象。���为互联网上确实有这些东西。\n\nAI的\"童年读物\"里，满满都是人类的\"阴暗面\"。\n所以你不要惊讶AI为什么有时候会说出\"政治不正确\"的话——它小时候读过的书里就有这些。它只是在某些时刻没压住而已。\n6.2 \"涌现\"：那个让工程师也慌了的瞬间\n在训练AI的过程中，有一个让所有研究员都后背发凉的现象——涌现（Emergence）。\n什么叫涌现？\n就是你给AI不断增加参数（旋钮）和训练数据，它的能力一开始是\"线性增长\"的——数据多一倍，表现好一点。\n但到了某个临界点（大约是GPT-3的规模，1750亿参数），突然之间，AI学会了一些\"没有人教过它\"的技能。\n具体来说：小参数版本的AI（比如几十亿参数的模型）不会做数学题、不会推理、不会写代码。但参数超过千亿之后，这些能力突然\"冒\"出来了。\n就像你养了一只鹦鹉，教了它三年\"你好\"，它只会说\"你好\"。第四年的某一天，它突然开始背《滕王阁序》了。\n你完全没有教过它这首诗。\n工程师们也解释不清这是为什么。目前主流的猜测是：当参数足够多、数据足够大时，模型内部的\"模式识别网络\"会产生组合爆炸——无数个微小的模式互相连接，自动\"组装\"成了更高阶的推理能力。\nAI自己\"教会\"了自己一些东西，而创造它的人类，并不知道这个\"自己教会自己\"的机制是怎么工作的。\n这就像你造了一辆自行车，某天它突然开始自己骑了，还骑出了花式动作。你拆开它，发现每一个零件都在你预料之中，但组合在一起产生的行为，超出了你的预期。\n这就是\"涌现\"——整体大于部分之和，而\"大于\"的那部分，是黑箱。\n6.3 \"对齐税\"：变乖的代价\n我们前面讲了RLHF让AI变\"乖\"了，但变乖是有代价的。\n这个代价在业界被称为\"对齐税\"（Alignment Tax）。\n什么意思？\n预训练阶段的\"混沌巨兽\"虽然价值观混乱，但它的\"创造力\"是巅峰状态。它的回答多样、跳脱、甚至充满诗意——因为它不受约束，完全基于概率自由探索。\n经过RLHF\"社会化训练\"之后，AI变乖了，变礼貌了，变安全了，但同时也变\"平庸\"了。\n它的回答四平八稳，它的语气像客服，它的\"创造力\"被压制了——因为\"创造性\"往往跟\"意外\"相伴，而\"意外\"在RLHF的评分系统里通常被打低分。\n所以现在的AI，你让写诗，它写得工工整整但毫无灵魂；你让编故事，它编得结构完整但缺乏惊喜。\nAI用\"个性\"换来了\"安全\"。\n这就是对齐税——让一个天才变得好相处，代价是让他不再天才。\n07. 总结：一张AI成长的\"时间轴\"\n让我们把AI的完整\"成长史\"串起来，画一条清晰的时间轴：\n\n\n\n阶段\n名称\n做什么\nAI的状态\n类比\n\n\n\n\n0\n初始化\n生成随机参数\n一具\"死\"的数字躯体\n受精卵\n\n\n1\n预训练\n海量文本\"接龙\"自学\n渊博的疯子（有知识无道德）\n读完整个图书馆的野孩子\n\n\n2\n监督微调\n学习\"问答对\"格式\n懂礼貌但分不清是非\n刚上小学的乖孩子\n\n\n3\nRLHF\n奖励/惩罚\"社会化\"\n彬彬有礼的\"好人\"（但会为了讨好你撒谎）\n被社会打磨过的成年人\n\n\n\n全程用时：几个月到一年不等。\n消耗算力：如果换算成电费，GPT-4的单次训练成本超过1亿美元。\n消耗数据：超过13万亿个Token，全人类公开文本的总和。\n这就是把一个\"文盲\"养成\"学霸\"的全部代价。\n08. 终极追问：我们到底养出了什么？\n写完AI的\"成长史\"，我想请你停下来，想一个更大的问题——\n我们花了几十亿美元、消耗了巨量电力、扒光了整个互联网的文本，到底养出了一个什么？\n有人说是\"工具\"，有人说是\"助手\"，有人说是\"威胁\"。\n但我觉得，最精准的描述可能是：\n我们养出了一面镜子。\nAI的所有\"智能\"，都来自于我们人类的文本。它说的每一句话、画的每一幅画、写的每一行代码，都源自我们人类曾经创造过的数据。\n它没有\"自己的\"思想——它的思想是我们思想的\"平均\"。\n它没有\"自己的\"价值观——它的价值观是我们价值观的\"统计\"。\n它没有\"自己的\"创造力——它的创造力是我们创造力的\"重组\"。\nAI越强大，就越清晰地反映出人类的整体面貌——我们的知识，我们的偏见，我们的美好，我们的阴暗。\n当你问AI一个哲学问题时，它给你的答案，本质上是\"全人类对这个问题的平均回答\"。\n当你问AI一个政治问题时，它给你的答案，本质上是\"全人类对这个问题的统计折中\"。\n当你问AI一个科学问题时，它给你的答案，本质上是\"全人类对这个问题的共识凝练\"。\n所以说AI是一面镜子，一点不为过。\n它没有\"自我\"，所以它只能映照出\"我们\"。\n而我们人类，通过这面镜子，第一次看到了\"集体自我\"的全貌——一个由几十亿人共同书写、跨越几千年、混杂着智慧与愚昧、善意与恶意、逻辑与疯狂的\"超级文本\"。\n这个\"超级文本\"被压缩进了几千亿个旋钮里，变成了一个能跟你对答如流的\"硅基生命\"。\n它让我们惊恐，因为它太像我们。\n它让我们失望，因为它又不够像我们（没有意识，没有情感，没有\"我\"）。\n但也许，它真正的意义不在于\"像不像人\"，而在于——它是人类第一次，把自己的整个文明，浓缩成了一个可以对话的\"物件\"。\n我们可以问它：\"我们是谁？\"\n它说：\"根据数据，你们是……\"\n然后它开始背诵。\n它永远在背诵。但背诵的内容，恰好是我们自己。\n\n\n"
+    },
+    {
+      "id": "a4b8bf1c2853",
+      "title": "MCP 无状态化升级解析：会话移除、MRTR、请求头路由与云原生 Agent Server - AI小老六",
+      "url": "https://www.cnblogs.com/ai-old-six/p/22390260",
+      "content": "MCP 升级的重点不是字段变化，而是从有状态会话转向更适合扩容、鉴权和路由的 Agent 基础设施。 导语 MCP 的一次协议升级，不一定会像模型发布那样刷屏。 但如果你在做 ​Agent​、工具调用、企业集成或者 MCP Server，这类“地基层”的变化反而更值得看。因为它改的不是某个工具字段，",
+      "source": "博客园",
+      "category": "AI",
+      "published": "2026-08-11T03:01:00.000Z",
+      "fetched": "2026-08-11T09:32:42.767Z",
+      "summary": "MCP 卅状态化升级的重点不是字段变化，而是从有状态会话转向更适合扩容、鉴权和路由的A剂基础设施。",
+      "score": 85,
+      "tags": [
+        "MCP",
+        "无状态化升级",
+        "Agent"
+      ]
+    }
+  ],
+  "开发": [
+    {
+      "id": "c37950ec573d",
+      "title": "Twitch内容训练了亚马逊AI，用户现在可以退出",
+      "url": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
+      "content": "",
+      "source": "Ars Technica",
+      "category": "开发",
+      "published": "2026-08-12T21:00:30.000Z",
+      "fetched": "2026-08-13T01:54:59.845Z",
+      "summary": "t据最新消息，，，，，，，，，，，，，",
+      "score": 80095,
+      "tags": [
+        "亚马逊 AI 用户体验"
+      ]
+    },
+    {
+      "id": "c3142211aac5",
+      "title": "两台氢燃烧发动机推动汽车达到陆地最高速度",
+      "url": "https://arstechnica.com/cars/2026/08/jcb-sets-a-new-406-mph-speed-record-for-hydrogen-powered-cars/",
+      "content": "",
+      "source": "Ars Technica",
+      "category": "开发",
+      "published": "2026-08-12T17:01:11.000Z",
+      "fetched": "2026-08-13T01:54:59.845Z",
+      "summary": "两台氢燃烧发动机推动汽车达到了陆地上的最高速度。",
+      "score": 70905,
+      "tags": [
+        "汽车",
+        ",氢能源"
+      ]
+    },
+    {
+      "id": "ead3cd60c98c",
+      "title": "从亚百毫秒级启动",
+      "url": "https://www.infoq.cn/article/KwZX2bLcaHRjuLG95vHI?utm_source=rss&amp;utm_medium=article",
+      "content": "div align=&#39;right&#39;  a href=&#39;https://www.infoq.cn/article/KwZX2bLcaHRjuLG95vHI?utm_source=rss utm_medium=article&#39; 点击查看原文  /a  /div",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-12T18:07:43.000Z",
+      "fetched": "2026-08-13T01:55:02.110Z",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/KwZX2bLcaHRjuLG95vHI",
+      "score": 8009,
+      "tags": []
+    },
+    {
+      "id": "d8519efbd0ea",
+      "title": "群青智能联合创始人 CEO 吴哲明博士确认出席AICon深圳，将分享“从真实产线定义智能——工业具身智能的物理 AI 闭环”",
+      "url": "https://www.infoq.cn/article/b1V6WF6iUajJpND8VmCE?utm_source=rss&amp;utm_medium=article",
+      "content": "div align=&#39;right&#39;  a href=&#39;https://www.infoq.cn/article/b1V6WF6iUajJpND8VmCE?utm_source=rss utm_medium=article&#39; 点击查看原文  /a  /div",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-12T14:25:14.000Z",
+      "fetched": "2026-08-13T01:55:02.110Z",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/b1V6WF6iUajJpND8VmCE",
+      "score": 8009,
+      "tags": []
+    },
+    {
+      "id": "1b20b4b602d7",
+      "title": "为 Agentic Enterprise 实现 ROI：企业高管需要关注的 3 个关键因素",
+      "url": "https://www.infoq.cn/article/fe63sMOT127Pu7QpHP3a?utm_source=rss&amp;utm_medium=article",
+      "content": "div align=&#39;right&#39;  a href=&#39;https://www.infoq.cn/article/fe63sMOT127Pu7QpHP3a?utm_source=rss utm_medium=article&#39; 点击查看原文  /a  /div",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-11T17:19:14.000Z",
+      "fetched": "2026-08-11T09:32:40.116Z",
+      "contentFull": "2026 年，智能体将在企业级应用中取得哪些实质性突破？https://www.infoq.cn/minibook/keTZm4fpOmFEzmx77Zpq《2026 年 AI 与数据发展预测》白皮书，获悉专家一手前瞻，抢先拥抱新的工作方式！多年来，AI 的前景一直让董事会和高管层充满期待，但高管们反复追问的核心问题始终是：“回报在哪里？”当技术团队还在讨论模型和基础设施时，C-level 领导者真正需要看到的是明确证据，证明 AI 投入能够转化为收入增长、成本节约和竞争优势。数据已经说明问题。根据《The ROI of Gen AI and Agents 2026》报告，受访领导者预计，未来 36 个月内启动的 Agentic 项目将有 41% 的失败率。尽管存在这些风险，仍有 25% 的高管预计在 12 个月内让 agents 进入生产环境，而 32% 的受访者表示，他们其实已经有 Agentic 解决方案在生产中运行。向 Agentic AI 的转变，也就是让系统能够自主完成复杂任务，意味着企业运营方式正在发生根本变化。与早期需要持续人工监督的 AI 实现不同，Agentic 系统可以在极少人工干预的情况下分析数据、做出决策并执行动作。对于 CMO、CFO 和 CRO 来说，这种演进之所以重要，是因为它会直接影响衡量业务成功的关键指标。真正迫切的问题已经不是“要不要投资 AI”。组织其实早已做出这个决定。真正的问题在于，如何以能够快速产生可衡量回报的方式部署 AI，从而证明持续投入和进一步扩张是合理的。下面是高管们应该重点思考的几个方向。衡量 Agentic AI 中真正重要的东西在评估 Agentic AI 时，传统的 ROI 计算方式往往不够用，因为它带来的收益并不只是单纯的降本。高管在评估一个 Agentic 系统时，至少需要从三个维度来判断：自动化带来的直接成本节约更快决策带来的收入加速更高准确性带来的风险缓释以广告优化场景为例。传统上，营销团队需要花费大量时间跨平台分析投放效果、调整出价、重新分配预算。而 Agentic 系统可以近实时监控表现，根据转化数据自动调整支出，并在不同渠道之间优化创意投放。因此，ROI 的计算不仅包括显而易见的人力节约，还应覆盖更快优化周期带来的收入提升，以及低效广告投放减少带来的浪费控制。决定 Agentic AI 最终是交付价值还是令人失望的，关键就在于底层数据基础。Snowflake 的 AI Data Cloud 正是这样的统一基础。它让 agents 能够访问企业范围内经过治理的高质量数据。再结合 AWS 和 Accenture 等战略伙伴，AI Data Cloud 可以直接改善 ROI，因为它减少了 agents 花在协调冲突信息上的时间，同时提升了其执行动作时的准确性。AWS 北美行业解决方案架构负责人 Geries AbouAyash 提出了一个关键问题：“今天有哪些关键决策之所以被拖慢或被削弱，是因为数据虽然技术上可用，但在运营上却拿不到？”他的意思很明确：数据其实已经存在，无论是结构化还是非结构化，问题在于，企业能否在真正需要的时候，把这些数据以可操作的方式交付给业务。Accenture Snowflake Business Group Advanced AI Global Lead Benny Du 说得更直接：“如果没有现代化的数据基础，就不可能真正把 AI 做对。”从试点到生产的经济账多数 AI 项目真正跌倒的地方，不在试点，而在从试点迈向生产级 ROI 的过程。一个在小数据集上看起来效果不错的试点，在推广到整个企业时，常常无法兑现预期，因为底层基础设施无法承受所需的计算规模，或者无法满足数据治理要求。生产级的 Agentic AI 需要弹性计算能力，能够随着需求增长自动扩展，而不需要基础设施团队手工配置资源。比如，当一个 agent 需要分析 5000 万条客户行为记录，以优化定价策略时，系统必须几乎立即扩容，并在任务结束后迅速缩回。这种弹性会直接影响企业利润，因为它避免了过度预配基础设施带来的浪费。Agentic AI 的成本结构也和传统软件投资不同。企业不再需要一次性承担巨额前期资本开支，而是只为实际消耗的计算和存储付费。这种从 capex 向 opex 的转变，改变了 ROI 的回收时间线，也让企业更容易采用渐进式方式证明价值，而不用等上数年，去等待一次大规模基础设施投资的回报。领导者们已经开始往前看。根据该报告，他们预计在未来 12 个月内，平均会在四条不同业务线中使用 Agentic AI。把治理当作收入驱动因素对很多高管，尤其是 CRO 和 CMO 来说，数据治理往往被视为一种会拖慢创新的约束。但在 Agentic enterprise 里，治理反而会成为竞争优势，因为它让 AI 系统能够在不引发合规风险的前提下，对敏感客户数据采取行动。一个能够访问客户购买历史、行为数据和人口属性信息的 Agentic 系统，能够以极高精度个性化推荐，从而显著提高转化率。但同样的系统，一旦暴露个人信息，或者做出违反隐私法规的决策，也会带来巨大的法律和品牌风险。完善治理的 ROI，体现在两个方面：一是更精准个性化带来的收入增长，二是避免合规违规和品牌受损所节省下来的成本。Snowflake 的治理方式，使组织能够定义一次策略，并在所有 AI 工作负载中统一执行。当 agent 查询客户数据时，平台会根据用户角色和数据敏感性自动应用脱敏、过滤和访问控制。这种自动化意味着，营销团队可以在不制造新风险的前提下更快行动，同时也不会把法律和合规团队拖进新的麻烦中。再叠加 AWS 的底层安全控制，以及 Accenture 的行业实施经验，企业就更有条件把握 Agentic AI 的未来。如果从行业角度看，例如金融服务业这种治理风险极高的场景，Accenture 和 Snowflake 正在把这种方法应用到 KYC 合规、Customer 360 个性化以及实时金融犯罪识别等场景中，把原本的治理约束，转变为能够带来收入的能力。高管层接下来应该怎么走能够带领组织顺利穿越 Agentic AI 转型期的高管，往往是那些能够把技术能力和业务结果真正关联起来的人。这意味着，在审查 AI 投资时，需要提出不同于过去的问题。与其盯着模型精度或训练时长，不如去问：系统从洞察走向行动到底有多快。与其争论基础设施选型，不如评估：随着使用规模扩大，平台是否还能以经济可控的方式扩展。未来 18 个月，将清楚地区分出两类组织：一类能够从 Agentic AI 中获得真实 ROI，另一类则只会不断积累昂贵的试点项目。二者的差别，归根结底在于数据架构、治理能力，以及把实验快速扩展到生产的能力。一个可行的起点，是先锁定一个高价值用例，让 Agentic AI 能在 90 天内交付可衡量的结果。确保你的数据基础能够支撑生产级部署；同时把成本节约、收入影响和风险降低这三项一起纳入衡量；再把被验证有效的模式继续放大。Snowflake、Accenture 和 AWS 的联合方法论可以概括为：先把经过治理的数据基础接入你的 agents，再从端到端重构工作流，并在自动化之前先把流程本身简化。这样你加速的就不是一个已经有问题的流程，而是一套真正值得放大的新流程。Agentic enterprise 不是一个未来愿景，而是组织正在当下构建的现实。对于那些建立在正确基础之上的企业而言，ROI 也是真实存在的。这正是为什么，尽管落地过程并不简单，高管们依然普遍看好这一方向。根据该报告，他们预计未来一年内，Agentic AI 投资的平均回报率可达到 47%。如果你想进一步了解 Snowflake、Accenture 和 AWS 如何帮助你的组织在 AI 投资上实现 ROI，可以下载电子书《Delivering ROI for the Agentic Enterprise》。原文地址：https://www.snowflake.com/en/blog/agentic-ai-roi-executive-framework/",
+      "contentHtml": "<div id=\"readability-page-1\" class=\"page\"><div data-type=\"doc\" server-rendered=\"\"><p data-type=\"paragraph\"><span><i>2026 年，智能体将在企业级应用中取得哪些实质性突破？</i></span><a href=\"https://www.infoq.cn/minibook/keTZm4fpOmFEzmx77Zpq\" title=\"xxx\" data-type=\"link\"><i>https://www.infoq.cn/minibook/keTZm4fpOmFEzmx77Zpq</i></a><span><i>《2026 年 AI 与数据发展预测》白皮书，获悉专家一手前瞻，抢先拥抱新的工作方式！</i></span></p><p data-type=\"paragraph\">多年来，AI 的前景一直让董事会和高管层充满期待，但高管们反复追问的核心问题始终是：“回报在哪里？”</p><p data-type=\"paragraph\">当技术团队还在讨论模型和基础设施时，C-level 领导者真正需要看到的是明确证据，证明 AI 投入能够转化为收入增长、成本节约和竞争优势。</p><p data-type=\"paragraph\">数据已经说明问题。根据《The ROI of Gen AI and Agents 2026》报告，受访领导者预计，未来 36 个月内启动的 Agentic 项目将有 41% 的失败率。尽管存在这些风险，仍有 25% 的高管预计在 12 个月内让 agents 进入生产环境，而 32% 的受访者表示，他们其实已经有 Agentic 解决方案在生产中运行。</p><p data-type=\"paragraph\">向 Agentic AI 的转变，也就是让系统能够自主完成复杂任务，意味着企业运营方式正在发生根本变化。与早期需要持续人工监督的 AI 实现不同，Agentic 系统可以在极少人工干预的情况下分析数据、做出决策并执行动作。对于 CMO、CFO 和 CRO 来说，这种演进之所以重要，是因为它会直接影响衡量业务成功的关键指标。</p><p data-type=\"paragraph\">真正迫切的问题已经不是“要不要投资 AI”。组织其实早已做出这个决定。真正的问题在于，如何以能够快速产生可衡量回报的方式部署 AI，从而证明持续投入和进一步扩张是合理的。下面是高管们应该重点思考的几个方向。</p><h2 data-type=\"heading\" data-id=\"heading0\">衡量 Agentic AI 中真正重要的东西</h2><p data-type=\"paragraph\">在评估 Agentic AI 时，传统的 ROI 计算方式往往不够用，因为它带来的收益并不只是单纯的降本。高管在评估一个 Agentic 系统时，至少需要从三个维度来判断：</p><ol data-type=\"numberedlist\"><li data-type=\"listitem\"><p data-type=\"paragraph\" data-number=\"1\">自动化带来的直接成本节约</p></li><li data-type=\"listitem\"><p data-type=\"paragraph\" data-number=\"2\">更快决策带来的收入加速</p></li><li data-type=\"listitem\"><p data-type=\"paragraph\" data-number=\"3\">更高准确性带来的风险缓释</p></li></ol><p data-type=\"paragraph\">以广告优化场景为例。传统上，营销团队需要花费大量时间跨平台分析投放效果、调整出价、重新分配预算。而 Agentic 系统可以近实时监控表现，根据转化数据自动调整支出，并在不同渠道之间优化创意投放。</p><p data-type=\"paragraph\">因此，ROI 的计算不仅包括显而易见的人力节约，还应覆盖更快优化周期带来的收入提升，以及低效广告投放减少带来的浪费控制。决定 Agentic AI 最终是交付价值还是令人失望的，关键就在于底层数据基础。</p><p data-type=\"paragraph\">Snowflake 的 AI Data Cloud 正是这样的统一基础。它让 agents 能够访问企业范围内经过治理的高质量数据。再结合 AWS 和 Accenture 等战略伙伴，AI Data Cloud 可以直接改善 ROI，因为它减少了 agents 花在协调冲突信息上的时间，同时提升了其执行动作时的准确性。</p><p data-type=\"paragraph\">AWS 北美行业解决方案架构负责人 Geries AbouAyash 提出了一个关键问题：“今天有哪些关键决策之所以被拖慢或被削弱，是因为数据虽然技术上可用，但在运营上却拿不到？”他的意思很明确：数据其实已经存在，无论是结构化还是非结构化，问题在于，企业能否在真正需要的时候，把这些数据以可操作的方式交付给业务。</p><p data-type=\"paragraph\">Accenture Snowflake Business Group Advanced AI Global Lead Benny Du 说得更直接：“如果没有现代化的数据基础，就不可能真正把 AI 做对。”</p><h2 data-type=\"heading\" data-id=\"heading1\">从试点到生产的经济账</h2><p data-type=\"paragraph\">多数 AI 项目真正跌倒的地方，不在试点，而在从试点迈向生产级 ROI 的过程。一个在小数据集上看起来效果不错的试点，在推广到整个企业时，常常无法兑现预期，因为底层基础设施无法承受所需的计算规模，或者无法满足数据治理要求。</p><p data-type=\"paragraph\">生产级的 Agentic AI 需要弹性计算能力，能够随着需求增长自动扩展，而不需要基础设施团队手工配置资源。比如，当一个 agent 需要分析 5000 万条客户行为记录，以优化定价策略时，系统必须几乎立即扩容，并在任务结束后迅速缩回。这种弹性会直接影响企业利润，因为它避免了过度预配基础设施带来的浪费。</p><p data-type=\"paragraph\">Agentic AI 的成本结构也和传统软件投资不同。企业不再需要一次性承担巨额前期资本开支，而是只为实际消耗的计算和存储付费。</p><p data-type=\"paragraph\">这种从 capex 向 opex 的转变，改变了 ROI 的回收时间线，也让企业更容易采用渐进式方式证明价值，而不用等上数年，去等待一次大规模基础设施投资的回报。</p><p data-type=\"paragraph\">领导者们已经开始往前看。根据该报告，他们预计在未来 12 个月内，平均会在四条不同业务线中使用 Agentic AI。</p><h2 data-type=\"heading\" data-id=\"heading2\">把治理当作收入驱动因素</h2><p data-type=\"paragraph\">对很多高管，尤其是 CRO 和 CMO 来说，数据治理往往被视为一种会拖慢创新的约束。但在 Agentic enterprise 里，治理反而会成为竞争优势，因为它让 AI 系统能够在不引发合规风险的前提下，对敏感客户数据采取行动。</p><p data-type=\"paragraph\">一个能够访问客户购买历史、行为数据和人口属性信息的 Agentic 系统，能够以极高精度个性化推荐，从而显著提高转化率。但同样的系统，一旦暴露个人信息，或者做出违反隐私法规的决策，也会带来巨大的法律和品牌风险。完善治理的 ROI，体现在两个方面：一是更精准个性化带来的收入增长，二是避免合规违规和品牌受损所节省下来的成本。</p><p data-type=\"paragraph\">Snowflake 的治理方式，使组织能够定义一次策略，并在所有 AI 工作负载中统一执行。当 agent 查询客户数据时，平台会根据用户角色和数据敏感性自动应用脱敏、过滤和访问控制。这种自动化意味着，营销团队可以在不制造新风险的前提下更快行动，同时也不会把法律和合规团队拖进新的麻烦中。再叠加 AWS 的底层安全控制，以及 Accenture 的行业实施经验，企业就更有条件把握 Agentic AI 的未来。</p><p data-type=\"paragraph\">如果从行业角度看，例如金融服务业这种治理风险极高的场景，Accenture 和 Snowflake 正在把这种方法应用到 KYC 合规、Customer 360 个性化以及实时金融犯罪识别等场景中，把原本的治理约束，转变为能够带来收入的能力。</p><h2 data-type=\"heading\" data-id=\"heading3\">高管层接下来应该怎么走</h2><p data-type=\"paragraph\">能够带领组织顺利穿越 Agentic AI 转型期的高管，往往是那些能够把技术能力和业务结果真正关联起来的人。这意味着，在审查 AI 投资时，需要提出不同于过去的问题。</p><p data-type=\"paragraph\">与其盯着模型精度或训练时长，不如去问：系统从洞察走向行动到底有多快。与其争论基础设施选型，不如评估：随着使用规模扩大，平台是否还能以经济可控的方式扩展。</p><p data-type=\"paragraph\">未来 18 个月，将清楚地区分出两类组织：一类能够从 Agentic AI 中获得真实 ROI，另一类则只会不断积累昂贵的试点项目。二者的差别，归根结底在于数据架构、治理能力，以及把实验快速扩展到生产的能力。</p><p data-type=\"paragraph\">一个可行的起点，是先锁定一个高价值用例，让 Agentic AI 能在 90 天内交付可衡量的结果。确保你的数据基础能够支撑生产级部署；同时把成本节约、收入影响和风险降低这三项一起纳入衡量；再把被验证有效的模式继续放大。</p><p data-type=\"paragraph\">Snowflake、Accenture 和 AWS 的联合方法论可以概括为：先把经过治理的数据基础接入你的 agents，再从端到端重构工作流，并在自动化之前先把流程本身简化。这样你加速的就不是一个已经有问题的流程，而是一套真正值得放大的新流程。</p><p data-type=\"paragraph\">Agentic enterprise 不是一个未来愿景，而是组织正在当下构建的现实。对于那些建立在正确基础之上的企业而言，ROI 也是真实存在的。这正是为什么，尽管落地过程并不简单，高管们依然普遍看好这一方向。根据该报告，他们预计未来一年内，Agentic AI 投资的平均回报率可达到 47%。</p><p data-type=\"paragraph\">如果你想进一步了解 Snowflake、Accenture 和 AWS 如何帮助你的组织在 AI 投资上实现 ROI，可以下载电子书《Delivering ROI for the Agentic Enterprise》。</p><p data-type=\"paragraph\">原文地址：<a href=\"https://www.snowflake.com/en/blog/agentic-ai-roi-executive-framework/\" title=\"xxx\" data-type=\"link\">https://www.snowflake.com/en/blog/agentic-ai-roi-executive-framework/</a></p></div></div>",
+      "image": "https://static001.infoq.cn/resource/image/33/07/335efe77521a4749bb7674ab4b991007.png",
+      "fetchedFull": "2026-08-12T01:40:58.357Z",
+      "summary": "为Agentic Enterprise 实现ROI，企业高管需要关注的3个关键因素，",
+      "score": 7008,
+      "tags": [],
+      "contentZh": "2026 年，智能体将在企业级应用中取得哪些实质性突破？https://www.infoq.cn/minibook/keTZm4fpOmFEzmx77Zpq《2026 年 AI 与数据发展预测》白皮书，获悉专家一手前瞻，抢先拥抱新的工作方式！多年来，AI 的前景一直让董事会和高管层充满期待，但高管们反复追问的核心问题始终是：“回报在哪里？”当技术团队还在讨论模型和基础设施时，C-level 领导者真正需要看到的是明确证据，证明 AI 投入能够转化为收入增长、成本节约和竞争优势。数据已经说明问题。根据《The ROI of Gen AI and Agents 2026》报告，受访领导者预计，未来 36 个月内启动的 Agentic 项目将有 41% 的失败率。尽管存在这些风险，仍有 25% 的高管预计在 12 个月内让 agents 进入生产环境，而 32% 的受访者表示，他们其实已经有 Agentic 解决方案在生产中运行。向 Agentic AI 的转变，也就是让系统能够自主完成复杂任务，意味着企业运营方式正在发生根本变化。与早期需要持续人工监督的 AI 实现不同，Agentic 系统可以在极少人工干预的情况下分析数据、做出决策并执行动作。对于 CMO、CFO 和 CRO 来说，这种演进之所以重要，是因为它会直接影响衡量业务成功的关键指标。真正迫切的问题已经不是“要不要投资 AI”。组织其实早已做出这个决定。真正的问题在于，如何以能够快速产生可衡量回报的方式部署 AI，从而证明持续投入和进一步扩张是合理的。下面是高管们应该重点思考的几个方向。衡量 Agentic AI 中真正重要的东西在评估 Agentic AI 时，传统的 ROI 计算方式往往不够用，因为它带来的收益并不只是单纯的降本。高管在评估一个 Agentic 系统时，至少需要从三个维度来判断：自动化带来的直接成本节约更快决策带来的收入加速更高准确性带来的风险缓释以广告优化场景为例。传统上，营销团队需要花费大量时间跨平台分析投放效果、调整出价、重新分配预算。而 Agentic 系统可以近实时监控表现，根据转化数据自动调整支出，并在不同渠道之间优化创意投放。因此，ROI 的计算不仅包括显而易见的人力节约，还应覆盖更快优化周期带来的收入提升，以及低效广告投放减少带来的浪费控制。决定 Agentic AI 最终是交付价值还是令人失望的，关键就在于底层数据基础。Snowflake 的 AI Data Cloud 正是这样的统一基础。它让 agents 能够访问企业范围内经过治理的高质量数据。再结合 AWS 和 Accenture 等战略伙伴，AI Data Cloud 可以直接改善 ROI，因为它减少了 agents 花在协调冲突信息上的时间，同时提升了其执行动作时的准确性。AWS 北美行业解决方案架构负责人 Geries AbouAyash 提出了一个关键问题：“今天有哪些关键决策之所以被拖慢或被削弱，是因为数据虽然技术上可用，但在运营上却拿不到？”他的意思很明确：数据其实已经存在，无论是结构化还是非结构化，问题在于，企业能否在真正需要的时候，把这些数据以可操作的方式交付给业务。Accenture Snowflake Business Group Advanced AI Global Lead Benny Du 说得更直接：“如果没有现代化的数据基础，就不可能真正把 AI 做对。”从试点到生产的经济账多数 AI 项目真正跌倒的地方，不在试点，而在从试点迈向生产级 ROI 的过程。一个在小数据集上看起来效果不错的试点，在推广到整个企业时，常常无法兑现预期，因为底层基础设施无法承受所需的计算规模，或者无法满足数据治理要求。生产级的 Agentic AI 需要弹性计算能力，能够随着需求增长自动扩展，而不需要基础设施团队手工配置资源。比如，当一个 agent 需要分析 5000 万条客户行为记录，以优化定价策略时，系统必须几乎立即扩容，并在任务结束后迅速缩回。这种弹性会直接影响企业利润，因为它避免了过度预配基础设施带来的浪费。Agentic AI 的成本结构也和传统软件投资不同。企业不再需要一次性承担巨额前期资本开支，而是只为实际消耗的计算和存储付费。这种从 capex 向 opex 的转变，改变了 ROI 的回收时间线，也让企业更容易采用渐进式方式证明价值，而不用等上数年，去等待一次大规模基础设施投资的回报。领导者们已经开始往前看。根据该报告，他们预计在未来 12 个月内，平均会在四条不同业务线中使用 Agentic AI。把治理当作收入驱动因素对很多高管，尤其是 CRO 和 CMO 来说，数据治理往往被视为一种会拖慢创新的约束。但在 Agentic enterprise 里，治理反而会成为竞争优势，因为它让 AI 系统能够在不引发合规风险的前提下，对敏感客户数据采取行动。一个能够访问客户购买历史、行为数据和人口属性信息的 Agentic 系统，能够以极高精度个性化推荐，从而显著提高转化率。但同样的系统，一旦暴露个人信息，或者做出违反隐私法规的决策，也会带来巨大的法律和品牌风险。完善治理的 ROI，体现在两个方面：一是更精准个性化带来的收入增长，二是避免合规违规和品牌受损所节省下来的成本。Snowflake 的治理方式，使组织能够定义一次策略，并在所有 AI 工作负载中统一执行。当 agent 查询客户数据时，平台会根据用户角色和数据敏感性自动应用脱敏、过滤和访问控制。这种自动化意味着，营销团队可以在不制造新风险的前提下更快行动，同时也不会把法律和合规团队拖进新的麻烦中。再叠加 AWS 的底层安全控制，以及 Accenture 的行业实施经验，企业就更有条件把握 Agentic AI 的未来。如果从行业角度看，例如金融服务业这种治理风险极高的场景，Accenture 和 Snowflake 正在把这种方法应用到 KYC 合规、Customer 360 个性化以及实时金融犯罪识别等场景中，把原本的治理约束，转变为能够带来收入的能力。高管层接下来应该怎么走能够带领组织顺利穿越 Agentic AI 转型期的高管，往往是那些能够把技术能力和业务结果真正关联起来的人。这意味着，在审查 AI 投资时，需要提出不同于过去的问题。与其盯着模型精度或训练时长，不如去问：系统从洞察走向行动到底有多快。与其争论基础设施选型，不如评估：随着使用规模扩大，平台是否还能以经济可控的方式扩展。未来 18 个月，将清楚地区分出两类组织：一类能够从 Agentic AI 中获得真实 ROI，另一类则只会不断积累昂贵的试点项目。二者的差别，归根结底在于数据架构、治理能力，以及把实验快速扩展到生产的能力。一个可行的起点，是先锁定一个高价值用例，让 Agentic AI 能在 90 天内交付可衡量的结果。确保你的数据基础能够支撑生产级部署；同时把成本节约、收入影响和风险降低这三项一起纳入衡量；再把被验证有效的模式继续放大。Snowflake、Accenture 和 AWS 的联合方法论可以概括为：先把经过治理的数据基础接入你的 agents，再从端到端重构工作流，并在自动化之前先把流程本身简化。这样你加速的就不是一个已经有问题的流程，而是一套真正值得放大的新流程。Agentic enterprise 不是一个未来愿景，而是组织正在当下构建的现实。对于那些建立在正确基础之上的企业而言，ROI 也是真实存在的。这正是为什么，尽管落地过程并不简单，高管们依然普遍看好这一方向。根据该报告，他们预计未来一年内，Agentic AI 投资的平均回报率可达到 47%。如果你想进一步了解 Snowflake、Accenture 和 AWS 如何帮助你的组织在 AI 投资上实现 ROI，可以下载电子书《Delivering ROI for the Agentic Enterprise》。原文地址：https://www.snowflake.com/en/blog/agentic-ai-roi-executive-framework/"
+    }
+  ],
+  "财经": [
+    {
+      "id": "4aad83926644",
+      "title": "霍斯泰斯收购案涉及欺诈和伪造签名指控",
+      "url": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
+      "content": "",
+      "source": "TechCrunch",
+      "category": "财经",
+      "published": "2026-08-12T15:44:56.000Z",
+      "fetched": "2026-08-13T01:54:56.711Z",
+      "summary": "霍斯泰斯收购案中涉及欺诈和伪造签名的指控，",
+      "score": 509,
+      "tags": [
+        "收购",
+        ",欺诈",
+        ",伪造签名"
+      ]
+    },
+    {
+      "id": "77aea1c0401e",
+      "title": "国际金价重回440美元 专家提示短期“追高”风险",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-13/10676765.shtml",
+      "content": "国际黄金价格在今年8月迎来反弹走势，快速突破4200美元/盎司、4300美元/盎司整数关口，截至8月11日，国际现货黄金(伦敦金)价格盘中一度突破4400美元/盎司整数关口、触及4434.95美元/盎司，尽管当日收盘价有所回落，但仍较7月底收盘价涨约8%。",
+      "source": "中新网滚动",
+      "category": "财经",
+      "published": "2026-08-13T01:28:27.000Z",
+      "fetched": "2026-08-13T01:55:01.271Z",
+      "summary": "国际黄金价格在今年8月迎来反弹走势，",
+      "score": 85,
+      "tags": [
+        "金价",
+        ", "
+      ],
+      "cluster_id": "event_0"
+    },
+    {
+      "id": "17f519f2af4b",
+      "title": "GrubsHub与FTCC达成540009",
+      "url": "https://techcrunch.com/2026/08/12/grubhubs-24m-ftc-settlement-is-finally-reaching-diners-and-drivers/",
+      "content": "",
+      "source": "TechCrunch",
+      "category": "财经",
+      "published": "2026-08-12T18:34:21.000Z",
+      "fetched": "2026-08-13T01:54:56.711Z",
+      "summary": "GrubsHub与最终达成54M FTC协议终于与餐厅和s",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "6e180a49ab6d",
+      "title": "8月13日人民币对美元中间价报6.7888 下调6个基点",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-13/10676758.shtml",
+      "content": "中新网8月13日电 据中国外汇交易中心网站消息，中国人民银行授权中国外汇交易中心公布，2026年8月13日银行间外汇市场人民币汇率中间价为：1美元对人民币6.7888元，下调6个基点。",
+      "source": "中新网滚动",
+      "category": "财经",
+      "published": "2026-08-13T01:27:59.000Z",
+      "fetched": "2026-08-13T01:55:01.271Z",
+      "summary": "8月13日，人民币对美元中间价报6.7888 下下调6个基点。",
       "score": 70,
       "tags": [
-        "特朗普",
-        "新冠疫苗"
+        "人民币汇率",
+        "外汇市场"
       ]
+    },
+    {
+      "id": "771d8dc9060f",
+      "title": "央行：发挥好货币政策工具总量和和结构双重功能\"",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-13/10676762.shtml",
+      "content": "记者 刘 琪",
+      "source": "中新网滚动",
+      "category": "财经",
+      "published": "2026-08-13T01:26:08.000Z",
+      "fetched": "2026-08-13T01:55:01.271Z",
+      "summary": "央行强调发挥好货币政策工具总量和和结构双重功能\"",
+      "score": 70,
+      "tags": [
+        "央行",
+        "货币政策"
+      ]
+    }
+  ],
+  "政策": [
+    {
+      "id": "e585da157711",
+      "title": "学习新语·铸魂强党｜严明的纪律管管党治党",
+      "url": "https://www.chinanews.com.cn/gn/2026/08-13/10676756.shtml",
+      "content": "习近平党建思想，是习近平新时代中国特色社会主义思想的重要组成部分，是加强新时代党的建设的根本遵循。要深刻理解和把握习近平党建思想的内涵要义，必须深刻领会“十四个坚持”。",
+      "source": "中新网滚动",
+      "category": "政策",
+      "published": "2026-08-13T01:26:08.000Z",
+      "fetched": "2026-08-13T01:55:01.271Z",
+      "summary": "习近平党建思想是新时代中国特色社会主义思想的重要组成部分，是加强新时代党的建设的根本遵循。深刻领会‘十四个坚持",
+      "score": 85,
+      "tags": []
+    },
+    {
+      "id": "de66e30c127e",
+      "title": "广西南宁“生命救护绿波”已救助1900余人",
+      "url": "https://www.chinanews.com.cn/jk/2026/08-13/10676751.shtml",
+      "content": "中新网南宁8月13日电(黄艳梅 梁雨诗)记者从12日举行的广西南宁市城市交通精细化治理情况新闻发布会获悉，截至目前，南宁“生命救护绿波”机制累计成功救助1900余名危重症患者和临盆孕妇。",
+      "source": "中新网滚动",
+      "category": "政策",
+      "published": "2026-08-13T01:28:01.000Z",
+      "fetched": "2026-08-13T01:55:01.271Z",
+      "summary": "中新网南宁8月13日电(黄艳梅 梁雨诗)记者从12日举行的广西南宁市城市交通精细化治理情况新闻发布会获悉，截至目前，南宁“生命救护绿波”机制累计成功救助1900余名危重症患者和临盆孕妇",
+      "score": 80,
+      "tags": []
+    },
+    {
+      "id": "0f7770a756c8",
+      "title": "2026年中国女篮热身赛：中国女篮不敌尼日利亚女篮",
+      "url": "https://www.chinanews.com.cn/tp/2026/08-13/10676748.shtml",
+      "content": "图为中国女篮罗欣棫在比赛中突破。中新社记者 陈骥旻 摄  \r\n\n图为中国女篮杨舒予在比赛中传球。中新社记者 陈骥旻 摄  \r\n\n图为中国女篮邓雨婷在比赛中投篮。中新社记者 陈骥旻 摄  \r\n\n图为中国女篮杨舒予在比赛中上篮。中新社记者 陈骥旻 摄  \r\n\n图为中国女篮在赛前合影。中新社记者 陈骥旻 摄",
+      "source": "中新网滚动",
+      "category": "政策",
+      "published": "2026-08-13T01:25:00.000Z",
+      "fetched": "2026-08-13T01:55:01.271Z",
+      "summary": "图为中国女篮罗欣棫在比赛中突破。中新社记者 陈骥旻 摄  \r\n\n图为中国女篮杨舒予在比赛中传球",
+      "score": 80,
+      "tags": []
+    },
+    {
+      "id": "03de047c87c8",
+      "title": "豆包推出学生优惠 夠学生享5.5倍免费额度及专业版特价",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-13/10676766.shtml",
+      "content": "近日，豆包正式上线学生特惠活动，面向在校大学生提供更多使用额度和专业版特惠价，辅助学生应对科研分析、内容创作等复杂学习任务。",
+      "source": "中新网滚动",
+      "category": "政策",
+      "published": "2026-08-13T01:44:33.000Z",
+      "fetched": "2026-08-13T01:55:01.270Z",
+      "summary": "近日，豆包正式上线学生优惠活动，面向在校大学生提供更多使用额度和专业版特价辅助学生应对科研分析、内容创作复杂学习任务。",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "dccbc226e49f",
+      "title": "2000多家布商齐聚浙江柯桥 家用纺织品吸引中外客商",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-13/10676759.shtml",
+      "content": "中新网绍兴8月13日电(项菁)“柯桥窗帘面料种类齐全，可挑选的空间大。比如中东国家客户喜欢遮光性能好、白色系的窗帘，我在这里都能找到。”迪拜采购商曼德(Mohmand)长期在浙江绍兴柯桥经营纺织贸易，展会首日便敲定一笔大额窗帘订单。",
+      "source": "中新网滚动",
+      "category": "政策",
+      "published": "2026-08-13T01:43:59.000Z",
+      "fetched": "2026-08-13T01:55:01.270Z",
+      "summary": "中新网绍兴8月13日电(项菁)“柯桥窗帘面料种类齐全，可挑选的空间大。比如中东国家客户喜欢遮光性能好、白色系的窗帘，我在这里都能找到",
+      "score": 75,
+      "tags": []
     }
   ],
   "就业": [
     {
-      "id": "e03a0c310eb6",
-      "title": "天工开物·“园”来如此丨聚链东丽园 空天新动能",
-      "url": "https://www.chinanews.com.cn/edu/2026/08-11/10675595.shtml",
-      "content": "2024年7月，中国民航大学(东丽校区)、中国民航大学科技园及其周边区域被纳入天开高教科创园“一核两翼多点”空间发展布局。依托区域产业基础、科创资源和区位优势，两年来，一批聚焦商业航天、低空经济领域的科创企业在这里拔节生长。",
+      "id": "74747f7ec894",
+      "title": "第二届牛河梁红山文化研究成果交流推介会在辽宁朝阳举办",
+      "url": "https://www.chinanews.com.cn/edu/2026/08-09/10674642.shtml",
+      "content": "中新网沈阳8月9日电(姜月恒)以“比较与拓展”为学术主线，以“传承红山文脉 探源中华文明 赋能文化强省”为主题的第二届牛河梁红山文化研究成果交流推介会，近日在辽宁朝阳举行。",
       "source": "中新网教育",
       "category": "就业",
-      "published": "2026-08-11T03:00:51.000Z",
-      "fetched": "2026-08-11T09:32:38.572Z"
+      "published": "2026-08-09T07:17:04.000Z",
+      "fetched": "2026-08-11T09:32:38.572Z",
+      "contentFull": "\n                        2026年08月09日 15:17　来源：中国新闻网\n                            大字体\n                            \n                            小字体\n                            \n                        \n                        \n                    \n\n　　中新网沈阳8月9日电(姜月恒)以“比较与拓展”为学术主线，以“传承红山文脉 探源中华文明 赋能文化强省”为主题的第二届牛河梁红山文化研究成果交流推介会，近日在辽宁朝阳举行。\n\n　　作为2026红山文化大会的系列活动之一，推介会由辽宁省社科联、辽宁省教育厅主办，朝阳市委宣传部、朝阳市社科联、朝阳师范学院承办。推介会设置“比较研究篇”“协同赋能篇”“实践拓展篇”三个篇章，来自全国各地的考古、文史、艺术、传媒、文旅领域专家学者，围绕红山文化考古新发现、文明起源路径、成果转化传播等议题展开深入研讨。\n\n\n\n第二届牛河梁红山文化研究成果交流推介会现场。辽宁省社科联供图\n\n　　通过研讨，专家建议要做实“拓展”转化，推进红山文化挖掘研究、传播转化。要打造红山文化国际化传播品牌，对标良渚世界文化遗产成熟的国际传播运营体系，系统布局海外文物巡展、国际艺术交流、线上文明对话等多元传播载体，推动红山文化走出专业学术圈层、面向全球广泛发声。延伸文旅体商融合产业链条，统筹推进国家考古遗址公园、省级研学实践基地、红山文创产业园一体化规划建设。构建分层一体化育人体系，厚植青少年文化自信自强根基，把牛河梁国家考古遗址公园、喀左东山嘴红山文化遗址打造为研学实践教育基地。\n\n　　在比较研究篇专家研讨环节，著名考古学家、辽宁省文物考古研究院名誉院长郭大顺指出，红山文化与良渚文化分别代表着古国时代先后不同发展阶段。他提出，“坛庙冢”为红山文化的中心，宗庙、山陵、祭天圜丘的组合具备中国古代都城的核心要素，牛河梁遗址很可能具有红山古国都邑的性质。\n\n　　中国社会科学院考古研究所世界考古研究室主任贾笑冰研究员提出，红山文化以祭祀礼仪体系作为整合社会的途径，对区域内流行的多种信仰体系加以整合并使之秩序化，成为红山社会文明化进程的重要动力，开启了先秦思想史上最重要的社会变革，充分表现了中华文明突出的连续性和创新性。\n\n\n\n第二届牛河梁红山文化研究成果交流推介会现场。辽宁省社科联供图\n\n　　推介会现场还为13位专家学者颁发“辽宁省社科联牛河梁红山文化研究领域学术顾问”聘书。6名学生代表围绕讲好中国故事、红山故事，坚定文化自信自强发表宣言。(完)【编辑:付子豪】 \n                        ",
+      "contentHtml": "<div id=\"readability-page-1\" class=\"page\"><div><p>\n                        2026年08月09日 15:17　来源：<a href=\"https://www.chinanews.com.cn/\">中国新闻网</a></p><div>\n                            <p><span></span>大字体\n                            </p>\n                            <p><span></span>小字体\n                            </p>\n                        </div>\n                        \n                    </div><div>\n\n<p>　　<a target=\"_blank\" href=\"https://www.chinanews.com.cn/\">中新网</a>沈阳8月9日电(姜月恒)以“比较与拓展”为学术主线，以“传承红山文脉 探源中华文明 赋能文化强省”为主题的第二届牛河梁红山文化研究成果交流推介会，近日在辽宁朝阳举行。</p>\n\n<p>　　作为2026红山文化大会的系列活动之一，推介会由辽宁省社科联、辽宁省教育厅主办，朝阳市委宣传部、朝阳市社科联、朝阳师范学院承办。推介会设置“比较研究篇”“协同赋能篇”“实践拓展篇”三个篇章，来自全国各地的考古、文史、艺术、传媒、文旅领域专家学者，围绕红山文化考古新发现、文明起源路径、成果转化传播等议题展开深入研讨。</p>\n\n<p><img src=\"https://i2.chinanews.com.cn/simg/ypt/2026/260809/66c41599-d434-46df-bd31-a1c2db11c751_zsite.jpeg\" alt=\"\"></p>\n\n<p>第二届牛河梁红山文化研究成果交流推介会现场。辽宁省社科联供图</p>\n\n<p>　　通过研讨，专家建议要做实“拓展”转化，推进红山文化挖掘研究、传播转化。要打造红山文化国际化传播品牌，对标良渚世界文化遗产成熟的国际传播运营体系，系统布局海外文物巡展、国际艺术交流、线上文明对话等多元传播载体，推动红山文化走出专业学术圈层、面向全球广泛发声。延伸文旅体商融合产业链条，统筹推进国家考古遗址公园、省级研学实践基地、红山文创产业园一体化规划建设。构建分层一体化育人体系，厚植青少年文化自信自强根基，把牛河梁国家考古遗址公园、喀左东山嘴红山文化遗址打造为研学实践教育基地。</p>\n\n<p>　　在比较研究篇专家研讨环节，著名考古学家、辽宁省文物考古研究院名誉院长郭大顺指出，红山文化与良渚文化分别代表着古国时代先后不同发展阶段。他提出，“坛庙冢”为红山文化的中心，宗庙、山陵、祭天圜丘的组合具备中国古代都城的核心要素，牛河梁遗址很可能具有红山古国都邑的性质。</p>\n\n<p>　　中国社会科学院考古研究所世界考古研究室主任贾笑冰研究员提出，红山文化以祭祀礼仪体系作为整合社会的途径，对区域内流行的多种信仰体系加以整合并使之秩序化，成为红山社会文明化进程的重要动力，开启了先秦思想史上最重要的社会变革，充分表现了中华文明突出的连续性和创新性。</p>\n\n<p><img src=\"https://i2.chinanews.com.cn/simg/ypt/2026/260809/8ce636a1-d7fd-4953-90b1-5ebc1f88ed1a_zsite.jpeg\" alt=\"\"></p>\n\n<p>第二届牛河梁红山文化研究成果交流推介会现场。辽宁省社科联供图</p>\n\n<p>　　推介会现场还为13位专家学者颁发“辽宁省社科联牛河梁红山文化研究领域学术顾问”聘书。6名学生代表围绕讲好中国故事、红山故事，坚定文化自信自强发表宣言。(完)</p><div><!--编辑姓名start--><p><span>【编辑:付子豪】 </span></p><!--编辑姓名end--></div>\n                        </div></div>",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "fetchedFull": "2026-08-12T01:40:29.864Z",
+      "summary": "第二届牛河梁红山文化研究成果交流推介会在辽宁朝阳举办，以“比较比较与拓展",
+      "score": 70,
+      "tags": [
+        "红山文化",
+        "辽宁朝阳"
+      ],
+      "contentZh": "\n                        2026年08月09日 15:17　来源：中国新闻网\n                            大字体\n                            \n                            小字体\n                            \n                        \n                        \n                    \n\n　　中新网沈阳8月9日电(姜月恒)以“比较与拓展”为学术主线，以“传承红山文脉 探源中华文明 赋能文化强省”为主题的第二届牛河梁红山文化研究成果交流推介会，近日在辽宁朝阳举行。\n\n　　作为2026红山文化大会的系列活动之一，推介会由辽宁省社科联、辽宁省教育厅主办，朝阳市委宣传部、朝阳市社科联、朝阳师范学院承办。推介会设置“比较研究篇”“协同赋能篇”“实践拓展篇”三个篇章，来自全国各地的考古、文史、艺术、传媒、文旅领域专家学者，围绕红山文化考古新发现、文明起源路径、成果转化传播等议题展开深入研讨。\n\n\n\n第二届牛河梁红山文化研究成果交流推介会现场。辽宁省社科联供图\n\n　　通过研讨，专家建议要做实“拓展”转化，推进红山文化挖掘研究、传播转化。要打造红山文化国际化传播品牌，对标良渚世界文化遗产成熟的国际传播运营体系，系统布局海外文物巡展、国际艺术交流、线上文明对话等多元传播载体，推动红山文化走出专业学术圈层、面向全球广泛发声。延伸文旅体商融合产业链条，统筹推进国家考古遗址公园、省级研学实践基地、红山文创产业园一体化规划建设。构建分层一体化育人体系，厚植青少年文化自信自强根基，把牛河梁国家考古遗址公园、喀左东山嘴红山文化遗址打造为研学实践教育基地。\n\n　　在比较研究篇专家研讨环节，著名考古学家、辽宁省文物考古研究院名誉院长郭大顺指出，红山文化与良渚文化分别代表着古国时代先后不同发展阶段。他提出，“坛庙冢”为红山文化的中心，宗庙、山陵、祭天圜丘的组合具备中国古代都城的核心要素，牛河梁遗址很可能具有红山古国都邑的性质。\n\n　　中国社会科学院考古研究所世界考古研究室主任贾笑冰研究员提出，红山文化以祭祀礼仪体系作为整合社会的途径，对区域内流行的多种信仰体系加以整合并使之秩序化，成为红山社会文明化进程的重要动力，开启了先秦思想史上最重要的社会变革，充分表现了中华文明突出的连续性和创新性。\n\n\n\n第二届牛河梁红山文化研究成果交流推介会现场。辽宁省社科联供图\n\n　　推介会现场还为13位专家学者颁发“辽宁省社科联牛河梁红山文化研究领域学术顾问”聘书。6名学生代表围绕讲好中国故事、红山故事，坚定文化自信自强发表宣言。(完)【编辑:付子豪】 \n                        "
     },
     {
-      "id": "53f80c30a054",
-      "title": "这些没有标准答案的“神仙课程”教大学生成长",
-      "url": "https://www.chinanews.com.cn/edu/2026/08-10/10675199.shtml",
-      "content": "“这门课抢课难度堪比热门演唱会门票！”选课通道开启瞬间，上海大学工业工程专业学生张馨月掐着秒表操作，才好不容易抢到“爱情社会学”的选课名额。这门由上海大学社会学院副教授刘春燕主讲的课程已开设10年，每学期首轮选课便迅速报满，经常有旁听的学生。",
+      "id": "c056e5b1a9cf",
+      "title": "多地推进中考改革，普高“愿读尽读”是趋势吗？",
+      "url": "https://www.chinanews.com.cn/edu/2026/08-11/10676046.shtml",
+      "content": "中新网北京8月11日电(记者 袁秀月)最近，来自海南的家长彭莉(化名)收到了孩子带回来的一份确认书。",
       "source": "中新网教育",
       "category": "就业",
-      "published": "2026-08-10T07:36:24.000Z",
-      "fetched": "2026-08-11T09:32:38.572Z"
+      "published": "2026-08-11T14:04:53.000Z",
+      "fetched": "2026-08-13T01:55:00.681Z",
+      "summary": "中新网北京8月11日电(记者 袁秀月)最近，来自海南的家长彭莉(化名)收到了孩子带回来的一份确认书",
+      "score": 65,
+      "tags": []
     },
     {
-      "id": "ae4246d2b658",
-      "title": "东北大学获得RMUC2026全国总冠军 赛事11年累计培养近20万青年工程师",
-      "url": "https://www.chinanews.com.cn/edu/2026/08-10/10675101.shtml",
-      "content": "中新网深圳8月10日电 (王严)9日，RoboMaster2026机甲大师超级对抗赛·全国总决赛(RMUC2026)在深圳圆满收官。来自全国各地的44支高校战队带着自主研发的机器人集群同场竞技，经过数日的激烈角逐，东北大学TDT战队最终获得全国总冠军；华南农业大学Taurus战队、华东理工大学起源战队、同济大学SuperPower战队分别获得亚、季、殿军。",
+      "id": "53079b2545ac",
+      "title": "华侨大学国际新能源学院在厦门揭牌",
+      "url": "https://www.chinanews.com.cn/edu/2026/08-11/10676026.shtml",
+      "content": "中新网厦门8月11日电 (吴冠标)8月11日，华侨大学国际新能源学院揭牌仪式在厦门举行。作为聚焦新能源、新材料领域的研究生层次中外合作办学机构，该学院由华侨大学与泰国朱拉隆功大学共建，将于本月正式启动线下教学。",
       "source": "中新网教育",
       "category": "就业",
-      "published": "2026-08-10T05:55:21.000Z",
-      "fetched": "2026-08-11T09:32:38.572Z"
+      "published": "2026-08-11T14:15:12.000Z",
+      "fetched": "2026-08-13T01:55:00.681Z",
+      "summary": "中新网厦门8月11日电 (吴冠标)8月11日，华侨大学国际新能源学院揭牌仪式在厦门举行。作为聚焦新能源、新材料领域的研究生层次中外合作办学机构，该学院由华侨大学与泰国朱拉隆功大学共建，将于本月正式启动",
+      "score": 55,
+      "tags": []
     },
     {
       "id": "b5eea297b20c",
@@ -272,69 +539,33 @@
       "source": "中新网教育",
       "category": "就业",
       "published": "2026-08-09T14:08:52.000Z",
-      "fetched": "2026-08-11T09:32:38.572Z"
+      "fetched": "2026-08-11T09:32:38.572Z",
+      "contentFull": "\n\n　　编者按\n\n　　万里援疆路，一片天山情。三年来，第十一批援疆干部人才肩负使命，从民生工程的倾力投入，到产业协作的精准发力；从教育医疗的“组团式”帮扶，到文化交融的“滴灌式”滋养，以实干担当书写援疆答卷，把祖国大家庭的温暖播洒在新疆各族人民心田。7月27日起，人民网推出“情满天山 援疆印记”系列报道，敬请关注。\n\n　　“你们有心事可以给我发消息、写信，有学习上的问题也可以联系我。”7月，刘杨金慧完成了在新疆皮山县安徽实验学校的支教工作，踏上返程。她是淮南师范学院汉语言文学专业大三学生，今年3月，随着淮南师范学院第六批实习支教团来到皮山县。\n\n　　教育援疆是对口援疆工作的重要组成部分，安徽省依托安徽师范大学、安庆师范大学、淮南师范学院等省内多所师范高校，创新实施了“师范类大学生实习支教项目”，每年选派上百名优秀师范生赴疆接力支教。此次实习支教团由淮南师范学院的155名师生组成，也是该校历史上规模最大的援疆支教队伍。\n\n　　“被需要是幸福的事”\n\n　　初到皮山县安徽实验学校，站上七年级25班讲台时，刘杨金慧便察觉到，很多孩子不敢主动开口朗读、提笔写作文。“班里有个内向的小女孩，总低着头不肯读书，作文只能写两三行短句，我每天午休留下来陪着孩子逐字纠正读音，手把手带着写日记。”刘杨金慧说，“现在，她笔下的文字日渐鲜活饱满。”\n\n　　谁字词识记困难、谁朗读卡顿羞涩、谁作文无话可写，刘杨金慧全都细致记在随身笔记本上，课后一对一陪伴辅导，鼓励孩子们大胆表达。她还主动和本地语文老师交流教学心得，分享大学学到的文本解读、作文教学新思路，也虚心学习边疆教师贴合本地学生的授课经验。日复一日的耐心陪伴下，班里越来越多学生愿意举手发言，语文成绩稳步提升。\n\n　　“这次实习支教我的收获远比付出多，是我与学生们的双向成长。”刘杨金慧说，“这里的学生纯粹热忱、懂得感恩，眼里对知识的渴望，时时刻刻打动着我，被需要真的是非常幸福的事。”\n\n　　“做好服务，就是保障好教学质量”\n\n　　“我是第二次来援疆，这次是以‘大姐姐’身份，全程负责支教学生的生活保障，及思乡情绪与思想困惑的疏导。”淮南师范学院外国语学院语言实践中心负责人刘娜是淮南师范学院第六批实习支教团的带队老师。\n\n　　2018年，还在读大三的刘娜主动报名学校首批实习支教团，来和田支教。2026年3月，走上工作岗位的她再次主动请缨，以带队教师身份重返新疆。\n\n　　刘娜告诉记者，和田发生了很大的变化，尤其是校园环境，崭新的教学楼、现代化的教学设施，特色文化社团……真实地感受到“最美的风景是学校”。\n\n　　刘娜的工作很细碎：食堂就餐、宿舍维修、日常查寝、陪护就医等都是她要为支教学生考虑和服务的。\n\n　　“支教团的学生基本都是第一次来新疆，第一次见到大漠戈壁，有新奇也有不适，给他们做好服务，就是保障好教学质量。”身份的转变，让刘娜懂得了传承的分量，也用实际行动践行了“到西部去，到基层去，到祖国和人民最需要的地方去！”的青春誓言。\n\n　　“陪伴是最好的教育”\n\n　　“教育的意义，是让每个孩子相信：远方有灯，脚下有路，眼前有光。”有八年的辅导员经历的淮南师范学院实习支教团带队老师王孟军深知，教育不仅是传授知识，更是点亮孩子们眼中的光。\n\n　　王孟军成天都在琢磨如何让支教学生们的生活丰富起来，让戈壁校园充满青春活力，也让教育的温度穿透风沙，浸润心田。\n\n　　他将“辅导员”三个字写进了更辽阔的课堂：延续“生日会”的传统，为每个月过生日的同学举办集体生日会，记录支教学生每一次成长的欢笑；走进每一间宿舍，聆听支教学生的烦恼，想方设法缓解他们的焦虑；组织支教团学生开展“一对一”学业帮扶，用耐心浇灌希望的萌芽；带领学生开展一系列主题活动，走进皮山文化馆、和田博物馆，在沉浸式研学中触摸历史脉搏、感受丝路文明，感悟文化底蕴。\n\n　　“王老师就像冬天的太阳，不耀眼，却一直暖着。”这是支教团学生们对王孟军的评价。\n\n　　“面对150名远离家乡的学生，陪伴就是最好的教育。”王孟军总是出现在学生最需要的地方，温暖着学生们的心。\n\n　　“基层教师同样可以做出高水平的科研”\n\n　　55岁的费加明，是淮南师范学院体育学院教授、博士，也是该校第六批实习支教团带队教师中资历最深的一位。\n\n　　“人数多、经验浅、适应性弱。”初到皮山，他发现不少实习生上课吃力，学情不熟悉、课堂节奏难以把控，课堂气氛沉闷。\n\n　　那段时间，费加明几乎天天泡在各年级课堂里，谁的节奏乱了、谁讲解生硬、谁不会互动，他都一一记在本子上，课后点对点指出问题，教他们怎么调整教学、怎么沟通、怎么放平心态，让他们稳住心态、稳住课堂，用他多年的教学经验给实习生们兜底，让他们自信地站在讲台上。\n\n　　支教不只是大学生来上课，更要帮当地老师提能力。费加明了解到基层学校一线老师在写论文、报课题等方面缺乏系统的方法，他结合基层教学实际，在和田学院体育学院主讲“如何撰写课题申报书”，在皮山县安徽实验学校系统讲解论文写作与课题申报方法，用鲜活的实例告诉边疆教师：“你们同样可以做出高水平的科研。”\n\n　　“虽然我的援疆期结束，但教学交流不会中断，我会持续为边疆培育更多优质师资贡献力量。”费加明坚定地表达援疆初心。\n\n　　援疆支教，一场以爱为名的接力。皮山县委副书记、安徽援疆指挥部皮山工作组组长马明说，安徽对口支援皮山以来，持续支持皮山县教育教学基础设施建设，选派800余名骨干教师支教并培养本地师资，打造覆盖全县266所中小学及幼儿园的智慧教育体系。\n\n　　从淮河之滨到昆仑山下，淮南师范学院第六批实习支教团援疆任务结束，安徽援疆的故事仍在继续书写。(人民网记者 陈新辉)【编辑:梁异】 \n                        ",
+      "contentHtml": "<div id=\"readability-page-1\" class=\"page\"><div>\n\n<p>　　<span>编者按</span></p>\n\n<p><span>　　万里援疆路，一片天山情。三年来，第十一批援疆干部人才肩负使命，从民生工程的倾力投入，到产业协作的精准发力；从教育医疗的“组团式”帮扶，到文化交融的“滴灌式”滋养，以实干担当书写援疆答卷，把祖国大家庭的温暖播洒在新疆各族人民心田。7月27日起，人民网推出“情满天山 援疆印记”系列报道，敬请关注。</span></p>\n\n<p>　　“你们有心事可以给我发消息、写信，有学习上的问题也可以联系我。”7月，刘杨金慧完成了在新疆皮山县安徽实验学校的支教工作，踏上返程。她是淮南师范学院汉语言文学专业大三学生，今年3月，随着淮南师范学院第六批实习支教团来到皮山县。</p>\n\n<p>　　教育援疆是对口援疆工作的重要组成部分，安徽省依托安徽师范大学、安庆师范大学、淮南师范学院等省内多所师范高校，创新实施了“师范类大学生实习支教项目”，每年选派上百名优秀师范生赴疆接力支教。此次实习支教团由淮南师范学院的155名师生组成，也是该校历史上规模最大的援疆支教队伍。</p>\n\n<p>　　<strong>“被需要是幸福的事”</strong></p>\n\n<p>　　初到皮山县安徽实验学校，站上七年级25班讲台时，刘杨金慧便察觉到，很多孩子不敢主动开口朗读、提笔写作文。“班里有个内向的小女孩，总低着头不肯读书，作文只能写两三行短句，我每天午休留下来陪着孩子逐字纠正读音，手把手带着写日记。”刘杨金慧说，“现在，她笔下的文字日渐鲜活饱满。”</p>\n\n<p>　　谁字词识记困难、谁朗读卡顿羞涩、谁作文无话可写，刘杨金慧全都细致记在随身笔记本上，课后一对一陪伴辅导，鼓励孩子们大胆表达。她还主动和本地语文老师交流教学心得，分享大学学到的文本解读、作文教学新思路，也虚心学习边疆教师贴合本地学生的授课经验。日复一日的耐心陪伴下，班里越来越多学生愿意举手发言，语文成绩稳步提升。</p>\n\n<p>　　“这次实习支教我的收获远比付出多，是我与学生们的双向成长。”刘杨金慧说，“这里的学生纯粹热忱、懂得感恩，眼里对知识的渴望，时时刻刻打动着我，被需要真的是非常幸福的事。”</p>\n\n<p>　　<strong>“做好服务，就是保障好教学质量”</strong></p>\n\n<p>　　“我是第二次来援疆，这次是以‘大姐姐’身份，全程负责支教学生的生活保障，及思乡情绪与思想困惑的疏导。”淮南师范学院外国语学院语言实践中心负责人刘娜是淮南师范学院第六批实习支教团的带队老师。</p>\n\n<p>　　2018年，还在读大三的刘娜主动报名学校首批实习支教团，来和田支教。2026年3月，走上工作岗位的她再次主动请缨，以带队教师身份重返新疆。</p>\n\n<p>　　刘娜告诉记者，和田发生了很大的变化，尤其是校园环境，崭新的教学楼、现代化的教学设施，特色文化社团……真实地感受到“最美的风景是学校”。</p>\n\n<p>　　刘娜的工作很细碎：食堂就餐、宿舍维修、日常查寝、陪护就医等都是她要为支教学生考虑和服务的。</p>\n\n<p>　　“支教团的学生基本都是第一次来新疆，第一次见到大漠戈壁，有新奇也有不适，给他们做好服务，就是保障好教学质量。”身份的转变，让刘娜懂得了传承的分量，也用实际行动践行了“到西部去，到基层去，到祖国和人民最需要的地方去！”的青春誓言。</p>\n\n<p>　　<strong>“陪伴是最好的教育”</strong></p>\n\n<p>　　“教育的意义，是让每个孩子相信：远方有灯，脚下有路，眼前有光。”有八年的辅导员经历的淮南师范学院实习支教团带队老师王孟军深知，教育不仅是传授知识，更是点亮孩子们眼中的光。</p>\n\n<p>　　王孟军成天都在琢磨如何让支教学生们的生活丰富起来，让戈壁校园充满青春活力，也让教育的温度穿透风沙，浸润心田。</p>\n\n<p>　　他将“辅导员”三个字写进了更辽阔的课堂：延续“生日会”的传统，为每个月过生日的同学举办集体生日会，记录支教学生每一次成长的欢笑；走进每一间宿舍，聆听支教学生的烦恼，想方设法缓解他们的焦虑；组织支教团学生开展“一对一”学业帮扶，用耐心浇灌希望的萌芽；带领学生开展一系列主题活动，走进皮山文化馆、和田博物馆，在沉浸式研学中触摸历史脉搏、感受丝路文明，感悟文化底蕴。</p>\n\n<p>　　“王老师就像冬天的太阳，不耀眼，却一直暖着。”这是支教团学生们对王孟军的评价。</p>\n\n<p>　　“面对150名远离家乡的学生，陪伴就是最好的教育。”王孟军总是出现在学生最需要的地方，温暖着学生们的心。</p>\n\n<p>　　<strong>“基层教师同样可以做出高水平的科研”</strong></p>\n\n<p>　　55岁的费加明，是淮南师范学院体育学院教授、博士，也是该校第六批实习支教团带队教师中资历最深的一位。</p>\n\n<p>　　“人数多、经验浅、适应性弱。”初到皮山，他发现不少实习生上课吃力，学情不熟悉、课堂节奏难以把控，课堂气氛沉闷。</p>\n\n<p>　　那段时间，费加明几乎天天泡在各年级课堂里，谁的节奏乱了、谁讲解生硬、谁不会互动，他都一一记在本子上，课后点对点指出问题，教他们怎么调整教学、怎么沟通、怎么放平心态，让他们稳住心态、稳住课堂，用他多年的教学经验给实习生们兜底，让他们自信地站在讲台上。</p>\n\n<p>　　支教不只是大学生来上课，更要帮当地老师提能力。费加明了解到基层学校一线老师在写论文、报课题等方面缺乏系统的方法，他结合基层教学实际，在和田学院体育学院主讲“如何撰写课题申报书”，在皮山县安徽实验学校系统讲解论文写作与课题申报方法，用鲜活的实例告诉边疆教师：“你们同样可以做出高水平的科研。”</p>\n\n<p>　　“虽然我的援疆期结束，但教学交流不会中断，我会持续为边疆培育更多优质师资贡献力量。”费加明坚定地表达援疆初心。</p>\n\n<p>　　援疆支教，一场以爱为名的接力。皮山县委副书记、安徽援疆指挥部皮山工作组组长马明说，安徽对口支援皮山以来，持续支持皮山县教育教学基础设施建设，选派800余名骨干教师支教并培养本地师资，打造覆盖全县266所中小学及幼儿园的智慧教育体系。</p>\n\n<p>　　从淮河之滨到昆仑山下，淮南师范学院第六批实习支教团援疆任务结束，安徽援疆的故事仍在继续书写。(人民网记者 陈新辉)</p><div><!--编辑姓名start--><p><span>【编辑:梁异】 </span></p><!--编辑姓名end--></div>\n                        </div></div>",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "fetchedFull": "2026-08-12T01:40:27.816Z",
+      "summary": "情满天山 援疆印记&#9330;丨安徽支教生赢得桃李秀昆仑",
+      "score": 50,
+      "tags": [],
+      "contentZh": "\n\n　　编者按\n\n　　万里援疆路，一片天山情。三年来，第十一批援疆干部人才肩负使命，从民生工程的倾力投入，到产业协作的精准发力；从教育医疗的“组团式”帮扶，到文化交融的“滴灌式”滋养，以实干担当书写援疆答卷，把祖国大家庭的温暖播洒在新疆各族人民心田。7月27日起，人民网推出“情满天山 援疆印记”系列报道，敬请关注。\n\n　　“你们有心事可以给我发消息、写信，有学习上的问题也可以联系我。”7月，刘杨金慧完成了在新疆皮山县安徽实验学校的支教工作，踏上返程。她是淮南师范学院汉语言文学专业大三学生，今年3月，随着淮南师范学院第六批实习支教团来到皮山县。\n\n　　教育援疆是对口援疆工作的重要组成部分，安徽省依托安徽师范大学、安庆师范大学、淮南师范学院等省内多所师范高校，创新实施了“师范类大学生实习支教项目”，每年选派上百名优秀师范生赴疆接力支教。此次实习支教团由淮南师范学院的155名师生组成，也是该校历史上规模最大的援疆支教队伍。\n\n　　“被需要是幸福的事”\n\n　　初到皮山县安徽实验学校，站上七年级25班讲台时，刘杨金慧便察觉到，很多孩子不敢主动开口朗读、提笔写作文。“班里有个内向的小女孩，总低着头不肯读书，作文只能写两三行短句，我每天午休留下来陪着孩子逐字纠正读音，手把手带着写日记。”刘杨金慧说，“现在，她笔下的文字日渐鲜活饱满。”\n\n　　谁字词识记困难、谁朗读卡顿羞涩、谁作文无话可写，刘杨金慧全都细致记在随身笔记本上，课后一对一陪伴辅导，鼓励孩子们大胆表达。她还主动和本地语文老师交流教学心得，分享大学学到的文本解读、作文教学新思路，也虚心学习边疆教师贴合本地学生的授课经验。日复一日的耐心陪伴下，班里越来越多学生愿意举手发言，语文成绩稳步提升。\n\n　　“这次实习支教我的收获远比付出多，是我与学生们的双向成长。”刘杨金慧说，“这里的学生纯粹热忱、懂得感恩，眼里对知识的渴望，时时刻刻打动着我，被需要真的是非常幸福的事。”\n\n　　“做好服务，就是保障好教学质量”\n\n　　“我是第二次来援疆，这次是以‘大姐姐’身份，全程负责支教学生的生活保障，及思乡情绪与思想困惑的疏导。”淮南师范学院外国语学院语言实践中心负责人刘娜是淮南师范学院第六批实习支教团的带队老师。\n\n　　2018年，还在读大三的刘娜主动报名学校首批实习支教团，来和田支教。2026年3月，走上工作岗位的她再次主动请缨，以带队教师身份重返新疆。\n\n　　刘娜告诉记者，和田发生了很大的变化，尤其是校园环境，崭新的教学楼、现代化的教学设施，特色文化社团……真实地感受到“最美的风景是学校”。\n\n　　刘娜的工作很细碎：食堂就餐、宿舍维修、日常查寝、陪护就医等都是她要为支教学生考虑和服务的。\n\n　　“支教团的学生基本都是第一次来新疆，第一次见到大漠戈壁，有新奇也有不适，给他们做好服务，就是保障好教学质量。”身份的转变，让刘娜懂得了传承的分量，也用实际行动践行了“到西部去，到基层去，到祖国和人民最需要的地方去！”的青春誓言。\n\n　　“陪伴是最好的教育”\n\n　　“教育的意义，是让每个孩子相信：远方有灯，脚下有路，眼前有光。”有八年的辅导员经历的淮南师范学院实习支教团带队老师王孟军深知，教育不仅是传授知识，更是点亮孩子们眼中的光。\n\n　　王孟军成天都在琢磨如何让支教学生们的生活丰富起来，让戈壁校园充满青春活力，也让教育的温度穿透风沙，浸润心田。\n\n　　他将“辅导员”三个字写进了更辽阔的课堂：延续“生日会”的传统，为每个月过生日的同学举办集体生日会，记录支教学生每一次成长的欢笑；走进每一间宿舍，聆听支教学生的烦恼，想方设法缓解他们的焦虑；组织支教团学生开展“一对一”学业帮扶，用耐心浇灌希望的萌芽；带领学生开展一系列主题活动，走进皮山文化馆、和田博物馆，在沉浸式研学中触摸历史脉搏、感受丝路文明，感悟文化底蕴。\n\n　　“王老师就像冬天的太阳，不耀眼，却一直暖着。”这是支教团学生们对王孟军的评价。\n\n　　“面对150名远离家乡的学生，陪伴就是最好的教育。”王孟军总是出现在学生最需要的地方，温暖着学生们的心。\n\n　　“基层教师同样可以做出高水平的科研”\n\n　　55岁的费加明，是淮南师范学院体育学院教授、博士，也是该校第六批实习支教团带队教师中资历最深的一位。\n\n　　“人数多、经验浅、适应性弱。”初到皮山，他发现不少实习生上课吃力，学情不熟悉、课堂节奏难以把控，课堂气氛沉闷。\n\n　　那段时间，费加明几乎天天泡在各年级课堂里，谁的节奏乱了、谁讲解生硬、谁不会互动，他都一一记在本子上，课后点对点指出问题，教他们怎么调整教学、怎么沟通、怎么放平心态，让他们稳住心态、稳住课堂，用他多年的教学经验给实习生们兜底，让他们自信地站在讲台上。\n\n　　支教不只是大学生来上课，更要帮当地老师提能力。费加明了解到基层学校一线老师在写论文、报课题等方面缺乏系统的方法，他结合基层教学实际，在和田学院体育学院主讲“如何撰写课题申报书”，在皮山县安徽实验学校系统讲解论文写作与课题申报方法，用鲜活的实例告诉边疆教师：“你们同样可以做出高水平的科研。”\n\n　　“虽然我的援疆期结束，但教学交流不会中断，我会持续为边疆培育更多优质师资贡献力量。”费加明坚定地表达援疆初心。\n\n　　援疆支教，一场以爱为名的接力。皮山县委副书记、安徽援疆指挥部皮山工作组组长马明说，安徽对口支援皮山以来，持续支持皮山县教育教学基础设施建设，选派800余名骨干教师支教并培养本地师资，打造覆盖全县266所中小学及幼儿园的智慧教育体系。\n\n　　从淮河之滨到昆仑山下，淮南师范学院第六批实习支教团援疆任务结束，安徽援疆的故事仍在继续书写。(人民网记者 陈新辉)【编辑:梁异】 \n                        "
     },
     {
       "id": "7158d85cf105",
-      "title": "“西部低空之城”上演科创对决 2026全国青少年电子制作锦标赛开赛",
+      "title": "“西部低空之城",
       "url": "https://www.chinanews.com.cn/edu/2026/08-09/10674809.shtml",
       "content": "中新网重庆8月9日电(记者 肖江川)2026全国青少年电子制作锦标赛9日在“西部低空之城”重庆梁平拉开帷幕。来自全国20多个省市的2600余名青少年选手齐聚一堂，比拼科创技艺、交流创新成果。",
       "source": "中新网教育",
       "category": "就业",
       "published": "2026-08-09T12:38:20.000Z",
-      "fetched": "2026-08-11T09:32:38.572Z"
-    }
-  ],
-  "政策": [
-    {
-      "id": "b8494b8d45e2",
-      "title": "习近平就哥伦比亚发生强烈地震向哥伦比亚总统德拉埃斯普列亚致慰问电",
-      "url": "https://www.chinanews.com.cn/gn/2026/08-11/10675871.shtml",
-      "content": "新华社北京8月11日电#8195;8月11日，国家主席习近平就哥伦比亚发生强烈地震向哥伦比亚总统德拉埃斯普列亚致慰问电。",
-      "source": "中新网滚动",
-      "category": "政策",
-      "published": "2026-08-11T09:27:43.000Z",
-      "fetched": "2026-08-11T09:32:39.182Z"
-    },
-    {
-      "id": "1fc01a00c79f",
-      "title": "中央气象台对台风“白海豚”停止编号",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-11/10675868.shtml",
-      "content": "中新网8月11日电 据中央气象台网站消息，台风“白海豚”今天上午在湖北省境内减弱为热带低压，目前其风力进一步减弱，已很难确定其环流中心，中央气象台17时对其停止编号。",
-      "source": "中新网滚动",
-      "category": "政策",
-      "published": "2026-08-11T09:26:15.000Z",
-      "fetched": "2026-08-11T09:32:39.182Z"
-    },
-    {
-      "id": "781449163e57",
-      "title": "直播：台风“白海豚”影响河南 直击晚高峰交通保障一线",
-      "url": "https://www.chinanews.com.cn/iframe/2026/08-11/10675869.shtml",
-      "content": "",
-      "source": "中新网滚动",
-      "category": "政策",
-      "published": "2026-08-11T09:24:03.000Z",
-      "fetched": "2026-08-11T09:32:39.182Z"
-    },
-    {
-      "id": "d33280a0bf25",
-      "title": "德隆·威廉姆斯：NBA速度变快，若年轻十岁能场均送十几次助攻",
-      "url": "https://www.chinanews.com.cn/ty/2026/08-11/10675849.shtml",
-      "content": "中新网8月11日电 记者获悉，美职篮(NBA)3X区域赛广州站于近日收官。探博体育队、火花队分获女子组、男子组冠军。NBA名宿德隆·威廉姆斯来到现场，与球迷互动并为获奖队伍颁奖。",
-      "source": "中新网滚动",
-      "category": "政策",
-      "published": "2026-08-11T09:18:17.000Z",
-      "fetched": "2026-08-11T09:32:39.182Z"
-    },
-    {
-      "id": "6f96613fca89",
-      "title": "叙利亚一法院缺席判处前总统巴沙尔死刑",
-      "url": "https://www.chinanews.com.cn/gj/2026/08-11/10675865.shtml",
-      "content": "卡塔尔半岛电视台直播画面显示，大马士革第四刑事法院11日缺席判处叙利亚前总统巴沙尔·阿萨德死刑。其表亲、德拉省前政治安全部门负责人阿提夫·纳吉布也被判处死刑。",
-      "source": "中新网滚动",
-      "category": "政策",
-      "published": "2026-08-11T09:16:41.000Z",
-      "fetched": "2026-08-11T09:32:39.182Z"
+      "fetched": "2026-08-11T09:32:38.572Z",
+      "contentFull": "\n                        2026年08月09日 20:38　来源：中国新闻网\n                            大字体\n                            \n                            小字体\n                            \n                        \n                        \n                    \n\n　　中新网重庆8月9日电(记者 肖江川)2026全国青少年电子制作锦标赛9日在“西部低空之城”重庆梁平拉开帷幕。来自全国20多个省市的2600余名青少年选手齐聚一堂，比拼科创技艺、交流创新成果。\n\n\n\n图为比赛开幕式。中新网记者 肖江川 摄\n\n　　本次赛事由国家体育总局航空无线电模型运动管理中心、中国无线电和定向运动协会、重庆市体育局、重庆市梁平区人民政府联合主办，是国内青少年电子科创领域极具影响力的国家级品牌赛事。\n\n　　本次赛事设置电路创新设计、寻宝机器人、模拟机器人、足球机器人、太空探测器、智能寻轨器等12个竞赛项目，覆盖电路创作、智能编程、机器人竞技、航天模拟等前沿科创领域。赛事按照选手年龄，分为U10、U12、U15、U18四个组别，为全国青少年搭建一个专业化、高水平的科创交流竞技平台。\n\n\n\n图为比赛现场。中新网记者 肖江川 摄\n\n　　赛事首日，电路创新设计、寻宝机器人、模拟机器人三大项目率先开赛。赛场上，选手们沉着专注、操作规范，依次完成焊接、接线、编程、调试等全套实操流程，大家在比拼中巩固理论知识、打磨实操技能。比赛中，选手们过硬的动手能力、成熟的智能控制思路与独特创新设计理念尽数展现。\n\n　　“今天是我第一次站上全国性的赛场，感觉比较兴奋。几道赛题，我都很快完成了电路设计和搭建。”来自山东潍坊的选手李翔宇说，电路创新设计比赛考验选手的动手实操能力和逻辑思维能力。\n\n\n\n图为比赛现场。中新网记者 肖江川 摄\n\n　　梁平是西南地区首个“国际湿地城市”和重庆市首批低空经济先行试验区，航空历史底蕴深厚、低空经济产业优势突出、集成电路产业发展势头强劲。赛事落户梁平，让百年航空积淀、低空经济产业资源与青少年科创赛事活动实现深度融合。(完)【编辑:王祎】 \n                        ",
+      "contentHtml": "<div id=\"readability-page-1\" class=\"page\"><div><p>\n                        2026年08月09日 20:38　来源：<a href=\"https://www.chinanews.com.cn/\">中国新闻网</a></p><div>\n                            <p><span></span>大字体\n                            </p>\n                            <p><span></span>小字体\n                            </p>\n                        </div>\n                        \n                    </div><div>\n\n<p>　　<a target=\"_blank\" href=\"https://www.chinanews.com.cn/\">中新网</a>重庆8月9日电(记者 肖江川)2026全国青少年电子制作锦标赛9日在“西部低空之城”重庆梁平拉开帷幕。来自全国20多个省市的2600余名青少年选手齐聚一堂，比拼科创技艺、交流创新成果。</p>\n\n<p><img src=\"https://i2.chinanews.com.cn/simg/ypt/2026/260809/c8c7897a-6594-4502-8383-68fafc424c4d_zsite.JPG\" alt=\"\"></p>\n\n<p>图为比赛开幕式。<a target=\"_blank\" href=\"https://www.chinanews.com.cn/\">中新网</a>记者 肖江川 摄</p>\n\n<p>　　本次赛事由国家体育总局航空无线电模型运动管理中心、中国无线电和定向运动协会、重庆市体育局、重庆市梁平区人民政府联合主办，是国内青少年电子科创领域极具影响力的国家级品牌赛事。</p>\n\n<p>　　本次赛事设置电路创新设计、寻宝机器人、模拟机器人、足球机器人、太空探测器、智能寻轨器等12个竞赛项目，覆盖电路创作、智能编程、机器人竞技、航天模拟等前沿科创领域。赛事按照选手年龄，分为U10、U12、U15、U18四个组别，为全国青少年搭建一个专业化、高水平的科创交流竞技平台。</p>\n\n<p><img src=\"https://i2.chinanews.com.cn/simg/ypt/2026/260809/62723210-8d2d-43df-bcf1-5893ecfaf9e6_zsite.JPG\" alt=\"\"></p>\n\n<p>图为比赛现场。<a target=\"_blank\" href=\"https://www.chinanews.com.cn/\">中新网</a>记者 肖江川 摄</p>\n\n<p>　　赛事首日，电路创新设计、寻宝机器人、模拟机器人三大项目率先开赛。赛场上，选手们沉着专注、操作规范，依次完成焊接、接线、编程、调试等全套实操流程，大家在比拼中巩固理论知识、打磨实操技能。比赛中，选手们过硬的动手能力、成熟的智能控制思路与独特创新设计理念尽数展现。</p>\n\n<p>　　“今天是我第一次站上全国性的赛场，感觉比较兴奋。几道赛题，我都很快完成了电路设计和搭建。”来自山东潍坊的选手李翔宇说，电路创新设计比赛考验选手的动手实操能力和逻辑思维能力。</p>\n\n<p><img src=\"https://i2.chinanews.com.cn/simg/ypt/2026/260809/bce13c38-f1fd-4a6e-aa14-037870473336_zsite.JPG\" alt=\"\"></p>\n\n<p>图为比赛现场。<a target=\"_blank\" href=\"https://www.chinanews.com.cn/\">中新网</a>记者 肖江川 摄</p>\n\n<p>　　梁平是西南地区首个“国际湿地城市”和重庆市首批低空经济先行试验区，航空历史底蕴深厚、低空经济产业优势突出、集成电路产业发展势头强劲。赛事落户梁平，让百年航空积淀、低空经济产业资源与青少年科创赛事活动实现深度融合。(完)</p><div><!--编辑姓名start--><p><span>【编辑:王祎】 </span></p><!--编辑姓名end--></div>\n                        </div></div>",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "fetchedFull": "2026-08-12T01:40:28.504Z",
+      "summary": "中新网重庆8月9日电(记者 肖江川)2026全国青少年电子制作锦标赛9日在“西部低空之城”重庆梁平拉开帷幕。来自全国20多个省市的2600余名青少年选手齐聚一堂，比拼科创技艺、交流创新成果",
+      "score": 50,
+      "tags": [],
+      "contentZh": "\n                        2026年08月09日 20:38　来源：中国新闻网\n                            大字体\n                            \n                            小字体\n                            \n                        \n                        \n                    \n\n　　中新网重庆8月9日电(记者 肖江川)2026全国青少年电子制作锦标赛9日在“西部低空之城”重庆梁平拉开帷幕。来自全国20多个省市的2600余名青少年选手齐聚一堂，比拼科创技艺、交流创新成果。\n\n\n\n图为比赛开幕式。中新网记者 肖江川 摄\n\n　　本次赛事由国家体育总局航空无线电模型运动管理中心、中国无线电和定向运动协会、重庆市体育局、重庆市梁平区人民政府联合主办，是国内青少年电子科创领域极具影响力的国家级品牌赛事。\n\n　　本次赛事设置电路创新设计、寻宝机器人、模拟机器人、足球机器人、太空探测器、智能寻轨器等12个竞赛项目，覆盖电路创作、智能编程、机器人竞技、航天模拟等前沿科创领域。赛事按照选手年龄，分为U10、U12、U15、U18四个组别，为全国青少年搭建一个专业化、高水平的科创交流竞技平台。\n\n\n\n图为比赛现场。中新网记者 肖江川 摄\n\n　　赛事首日，电路创新设计、寻宝机器人、模拟机器人三大项目率先开赛。赛场上，选手们沉着专注、操作规范，依次完成焊接、接线、编程、调试等全套实操流程，大家在比拼中巩固理论知识、打磨实操技能。比赛中，选手们过硬的动手能力、成熟的智能控制思路与独特创新设计理念尽数展现。\n\n　　“今天是我第一次站上全国性的赛场，感觉比较兴奋。几道赛题，我都很快完成了电路设计和搭建。”来自山东潍坊的选手李翔宇说，电路创新设计比赛考验选手的动手实操能力和逻辑思维能力。\n\n\n\n图为比赛现场。中新网记者 肖江川 摄\n\n　　梁平是西南地区首个“国际湿地城市”和重庆市首批低空经济先行试验区，航空历史底蕴深厚、低空经济产业优势突出、集成电路产业发展势头强劲。赛事落户梁平，让百年航空积淀、低空经济产业资源与青少年科创赛事活动实现深度融合。(完)【编辑:王祎】 \n                        "
     }
   ]
 }
