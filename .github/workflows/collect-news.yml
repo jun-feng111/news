@@ -52,9 +52,9 @@ jobs:
       - name: Build site & sync to repo root
         run: |
           # 清除缓存确保全新构建
-          rm -rf node_modules/.vite node_modules/.cache .vite 2>/dev/null || true
-          # Vite v5 拒绝 --outDir .（安全限制），正常输出到 dist/ 再复制
-          npx vite build --force
+          rm -rf node_modules/.vite node_modules/.cache .vite dist 2>/dev/null || true
+          # 正常构建到 dist/（Vite v5 拒绝输出到根目录）
+          npx vite build
           echo "=== 构建产物 ==="
           ls -lh dist/index.html 2>/dev/null && echo "✓ dist/index.html 已构建" || { echo "✗ 构建失败"; exit 1; }
           # 复制到仓库根目录（GitHub Pages 服务根目录）
