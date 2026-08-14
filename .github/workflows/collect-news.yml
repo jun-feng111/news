@@ -49,13 +49,20 @@ jobs:
       - name: Generate JSON
         run: node scripts/generate-json.js
 
+      - name: Build site (vite single-file)
+        run: npm run build
+
+      - name: Sync built app to repo root
+        run: cp dist/index.html index.html
+
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add public/data/
+          # 数据 + 重新构建的单文件 app 一起提交，确保线上使用最新代码读取最新数据
+          git add public/data/ index.html
           if ! git diff --staged --quiet; then
-            git commit -m "auto: update news data $(date -u '+%Y-%m-%d %H:%M')"
+            git commit -m "auto: update news data + site $(date -u '+%Y-%m-%d %H:%M')"
             git push
           else
             echo "No changes to commit"
