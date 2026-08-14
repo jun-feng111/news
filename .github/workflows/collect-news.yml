@@ -53,12 +53,19 @@ jobs:
         run: |
           # 清除缓存确保全新构建
           rm -rf node_modules/.vite node_modules/.cache .vite dist 2>/dev/null || true
-          # 正常构建到 dist/（Vite v5 拒绝输出到根目录）
+          # 正常构建到 dist/
           npx vite build
           echo "=== 构建产物 ==="
-          ls -lh dist/index.html 2>/dev/null && echo "✓ dist/index.html 已构建" || { echo "✗ 构建失败"; exit 1; }
-          # 复制到仓库根目录（GitHub Pages 服务根目录）
-          cp dist/index.html index.html
+          ls -lhR dist/
+          # 自动找到构建输出的 HTML 文件（可能是 index.html 或 entry.html）
+          BUILT_HTML=$(find dist -name "*.html" -type f | head -1)
+          if [ -z "$BUILT_HTML" ]; then
+            echo "✗ 构建失败：dist/ 中未找到 HTML 文件"
+            exit 1
+          fi
+          echo "✓ 构建产物: $BUILT_HTML"
+          # 复制到仓库根目录，统一命名为 index.html（GitHub Pages 默认入口）
+          cp "$BUILT_HTML" index.html
           echo "✓ 已同步 index.html 到仓库根"
           # 验证新版代码是否包含运行时数据加载
           if grep -q 'public/data' index.html 2>/dev/null; then
