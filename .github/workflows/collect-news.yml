@@ -50,7 +50,18 @@ jobs:
         run: node scripts/generate-json.js
 
       - name: Build site (output to repo root)
-        run: npx vite build --outDir . --emptyOutDir false
+        run: |
+          # 清除 Vite/构建缓存，确保每次都用最新源码重新构建
+          rm -rf node_modules/.vite node_modules/.cache dist .vite 2>/dev/null || true
+          npx vite build --outDir . --emptyOutDir false --force
+          echo "=== 构建产物验证 ==="
+          ls -lh index.html 2>/dev/null && echo "✓ index.html 已生成" || echo "✗ index.html 未生成"
+          # 验证新代码确实被打包进去（运行时 fetch 而非静态内联）
+          if grep -q 'public/data' index.html 2>/dev/null; then
+            echo "✓ 包含运行时数据加载代码（新版）"
+          else
+            echo "⚠️ 未检测到 public/data 引用，可能仍为旧版缓存构建"
+          fi
 
       - name: Commit and push
         run: |
