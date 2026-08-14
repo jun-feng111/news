@@ -49,18 +49,23 @@ jobs:
       - name: Generate JSON
         run: node scripts/generate-json.js
 
-      - name: Build site (output to repo root)
+      - name: Build site & sync to repo root
         run: |
-          # 清除 Vite/构建缓存，确保每次都用最新源码重新构建
-          rm -rf node_modules/.vite node_modules/.cache dist .vite 2>/dev/null || true
-          npx vite build --outDir . --emptyOutDir false --force
-          echo "=== 构建产物验证 ==="
-          ls -lh index.html 2>/dev/null && echo "✓ index.html 已生成" || echo "✗ index.html 未生成"
-          # 验证新代码确实被打包进去（运行时 fetch 而非静态内联）
+          # 清除缓存确保全新构建
+          rm -rf node_modules/.vite node_modules/.cache .vite 2>/dev/null || true
+          # Vite v5 拒绝 --outDir .（安全限制），正常输出到 dist/ 再复制
+          npx vite build --force
+          echo "=== 构建产物 ==="
+          ls -lh dist/index.html 2>/dev/null && echo "✓ dist/index.html 已构建" || { echo "✗ 构建失败"; exit 1; }
+          # 复制到仓库根目录（GitHub Pages 服务根目录）
+          cp dist/index.html index.html
+          echo "✓ 已同步 index.html 到仓库根"
+          # 验证新版代码是否包含运行时数据加载
           if grep -q 'public/data' index.html 2>/dev/null; then
             echo "✓ 包含运行时数据加载代码（新版）"
           else
-            echo "⚠️ 未检测到 public/data 引用，可能仍为旧版缓存构建"
+            echo "⚠️ 警告：未检测到 public/data 引用"
+            echo "  可能原因：useArticles.js 改动未生效 / Vite tree-shaking 移除了代码"
           fi
 
       - name: Commit and push
