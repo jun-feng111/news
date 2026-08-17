@@ -29,6 +29,8 @@ function discoveryUrl(q) {
 const QUERIES = [
   '智联招聘 就业报告',
   'BOSS直聘 研究院 报告',
+  '智联招聘 校园招聘',
+  'BOSS直聘 应届生',
   '大学生就业 市场行情',
   '春招 秋招 应届生 就业',
 ]
@@ -67,6 +69,40 @@ async function fetchTextRetry(url, tries = 2) {
   throw lastErr
 }
 
+// 解析 Bing/Google 跟踪 URL 获取真实文章地址
+async function resolveRealUrl(url) {
+  if (!/(bing\.com\/news\/ap|bing\.com\/news\/search|google\.com\/url)/.test(url)) return url
+  return new Promise((resolve) => {
+    try {
+      const mod = url.startsWith('https') ? https : http
+      const req = mod.get(url, {
+        headers: { 'User-Agent': 'Mozilla/5.0 NewsHub/1.0' },
+        timeout: 8000,
+      }, (res) => {
+        if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
+          const next = res.headers.location.startsWith('http')
+            ? res.headers.location
+            : new URL(res.headers.location, url).href
+          resolve(resolveRealUrl(next))
+        } else {
+          try {
+            if (new URL(res.url || url).hostname.includes('bing.com')) resolve(url)
+            else resolve(res.url || url)
+          } catch { resolve(url) }
+        }
+        req.destroy()
+      })
+      req.on('error', () => resolve(url))
+      req.on('timeout', () => { req.destroy(); resolve(url) })
+    } catch { resolve(url) }
+  })
+}
+
+// 标题归一化（去重用）
+function normalizeTitle(t) {
+  return t.toLowerCase().replace(/\s+/g, '').replace(/[-—|·].{1,20}$/, '').trim()
+}
+
 function decodeEntities(s) {
   return s
     .replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"')
@@ -89,7 +125,7 @@ function isJobRelated(text) {
   return /(就业|招聘|智联|BOSS|看准|直聘|春招|秋招|应届|毕业生|职场|求职|人才|薪酬|工资|岗位)/.test(text)
 }
 
-function parseNews(xml) {
+async function parseNews(xml) {
   const items = []
   const re = /<item>([\s\S]*?)<\/item>/gi
   let m
@@ -106,9 +142,10 @@ function parseNews(xml) {
     const source = get('source')
     if (title && link && isJobRelated(title + desc)) {
       const brand = detectBrand(title + desc)
+      const realLink = await resolveRealUrl(link)
       items.push({
         title: title.replace(/\s*-\s*[^-\s]{1,20}$/, ''), // 去掉 " - 媒体名" 后缀
-        url: link,
+        url: realLink,
         published: pubDate ? new Date(pubDate).toISOString() : new Date().toISOString(),
         content: desc.slice(0, 1500),
         source: brand || source || SOURCE_DEFAULT,
@@ -136,7 +173,7 @@ async function main() {
         continue
       }
     }
-    const items = parseNews(xml)
+    const items = await parseNews(xml)
     collected.push(...items)
     okQueries++
     console.log(`  发现[${q}](${used}): ${items.length} 条`)
@@ -150,11 +187,16 @@ async function main() {
 
   // 去重（同一条可能被多个关键词命中）
   const seen = new Set()
+  const seenTitles = new Set(existing.map(a => normalizeTitle(a.title)))
   let added = 0
   for (const it of collected) {
     const id = crypto.createHash('md5').update(it.url).digest('hex').slice(0, 12)
     if (existingIds.has(id) || seen.has(id)) continue
+    // 标题去重（归一化后比较）
+    const normTitle = normalizeTitle(it.title)
+    if (seenTitles.has(normTitle)) continue
     seen.add(id)
+    seenTitles.add(normTitle)
     existing.push({
       id,
       title: it.title,
