@@ -49,6 +49,11 @@ jobs:
       - name: Generate JSON
         run: node scripts/generate-json.js
 
+      - name: Resolve Tracking URLs
+        run: node scripts/resolve-urls.js
+        # 修复采集时未能解析的 Bing/Google 跟踪链接，确保文章链接可点击
+        timeout-minutes: 15
+
       - name: Build site & sync to repo root
         run: |
           # 清除缓存确保全新构建
