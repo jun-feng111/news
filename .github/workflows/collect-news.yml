@@ -50,7 +50,7 @@ jobs:
         run: node scripts/generate-json.js
 
       - name: Resolve Tracking URLs
-        run: node scripts/resolve-urls.js
+        run: node scripts/resolve-urls.cjs
         # 修复采集时未能解析的 Bing/Google 跟踪链接，确保文章链接可点击
         timeout-minutes: 15
 
