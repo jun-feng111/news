@@ -45,6 +45,27 @@ function dedupeByCategory(articles) {
   return [...best.values()]
 }
 
+// ── 时间过滤：淘汰过期文章，只保留最近 N 天的内容 ──
+// 默认 90 天（覆盖秋招/春招周期），可通过环境变量 MAX_AGE_DAYS 覆盖
+const MAX_AGE_DAYS = Number(process.env.MAX_AGE_DAYS) || 90
+
+function filterByAge(articles) {
+  const cutoff = Date.now() - MAX_AGE_DAYS * 86400000
+  const before = articles.length
+  const fresh = articles.filter(a => {
+    const d = a.pubDate || a.date || a.published || ''
+    if (!d) return true // 无日期的保留，不误杀
+    const ts = new Date(d).getTime()
+    if (isNaN(ts)) return true // 无法解析的保留
+    return ts >= cutoff
+  })
+  const removed = before - fresh.length
+  if (removed > 0) {
+    console.log(`  时间过滤: 淘汰 ${removed} 篇超过 ${MAX_AGE_DAYS} 天的旧文章，保留 ${fresh.length} 篇`)
+  }
+  return fresh
+}
+
 function main() {
   let articles = []
   if (fs.existsSync(PROCESSED_PATH)) {
@@ -58,6 +79,9 @@ function main() {
 
   // 同板块标题去重（必须在归一化分类之后、排序之前）
   articles = dedupeByCategory(articles)
+
+  // 淘汰过期旧文章（默认保留 90 天内）
+  articles = filterByAge(articles)
 
   articles.sort((a, b) => (b.score || 0) - (a.score || 0))
 
