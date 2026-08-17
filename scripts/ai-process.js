@@ -146,6 +146,10 @@ function simpleCategory(article) {
   if (/股市|基金|融资|经济|金融|投资|stock|finance|market/.test(text)) return '财经'
   if (/代码|编程|开发|github|框架|api|programming|developer|rust|python|javascript/.test(text)) return '开发'
   if (/科技|technology|手机|芯片|硬件|tech|apple|google|microsoft|meta/.test(text)) return '科技'
+  // 就业/政策/社会 这类语义较强的分类，启发式无法可靠判定时，保留采集时的标注，避免被误并到"综合"
+  if (/就业|招聘|智联|boss|直聘|应届|求职|职场|春招|秋招/.test(text)) return '就业'
+  if (/政策|政府|时政|政务|通知|条例|办法|印发/.test(text)) return '政策'
+  if (/社会|事故|灾害|救援|民生/.test(text)) return '社会'
   return article.category || '综合'
 }
 
@@ -157,7 +161,7 @@ function simpleSummary(article) {
 
 async function processWithAI(article) {
   const content = (article.content || '').trim() || '(无正文，根据标题分析)'
-  const prompt = `分析新闻返回JSON：{"title_zh":"中文标题(如果是英文则翻译成中文,如果是中文则保留)","summary":"50-100字中文摘要","category":"AI/科技/财经/综合/开发","score":0到100评分,"tags":["标签1","标签2"]}
+  const prompt = `分析新闻返回JSON：{"title_zh":"中文标题(如果是英文则翻译成中文,如果是中文则保留)","summary":"50-100字中文摘要","category":"AI/科技/财经/综合/开发/就业/政策/社会","score":0到100评分,"tags":["标签1","标签2"]}
 
 标题: ${article.title}
 来源: ${article.source}

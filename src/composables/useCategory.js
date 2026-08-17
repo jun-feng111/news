@@ -5,6 +5,7 @@ const CATEGORY_MAP = {
   政策: { color: '#f87171', icon: '🏛️', key: 'cat-policy' },
   就业: { color: '#fbbf24', icon: '💼', key: 'cat-job' },
   开发: { color: '#22d3ee', icon: '💻', key: 'cat-dev' },
+  社会: { color: '#f472b6', icon: '🏘️', key: 'cat-society' },
   综合: { color: '#a78bfa', icon: '🌐', key: 'cat-general' },
 }
 

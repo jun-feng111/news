@@ -71,7 +71,7 @@ async function fetchTextRetry(url, tries = 2) {
 
 // 解析 Bing/Google 跟踪 URL 获取真实文章地址
 async function resolveRealUrl(url) {
-  if (!/(bing\.com\/news\/ap|bing\.com\/news\/search|google\.com\/url)/.test(url)) return url
+  if (!/(bing\.com\/news\/ap|bing\.com\/news\/search|google\.com\/url|news\.google\.com\/rss\/articles)/.test(url)) return url
   return new Promise((resolve) => {
     try {
       const mod = url.startsWith('https') ? https : http
@@ -100,7 +100,7 @@ async function resolveRealUrl(url) {
 
 // 标题归一化（去重用）
 function normalizeTitle(t) {
-  return t.toLowerCase().replace(/\s+/g, '').replace(/[-—|·].{1,20}$/, '').trim()
+  return t.toLowerCase().replace(/\s+/g, '').replace(/[-—|·_~].{0,40}$/, '').trim()
 }
 
 function decodeEntities(s) {

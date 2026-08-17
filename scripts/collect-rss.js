@@ -29,7 +29,7 @@ function fetchText(url) {
 // 直接在浏览器打开会报"此URL可能不是由Bing生成的"
 async function resolveRealUrl(url) {
   // 非跟踪 URL 直接返回
-  if (!/(bing\.com\/news\/ap|bing\.com\/news\/search|google\.com\/url|google\.com\/search)/.test(url)) return url
+  if (!/(bing\.com\/news\/ap|bing\.com\/news\/search|google\.com\/url|google\.com\/search|news\.google\.com\/rss\/articles)/.test(url)) return url
   return new Promise((resolve) => {
     try {
       const mod = url.startsWith('https') ? https : http
@@ -65,7 +65,7 @@ async function resolveRealUrl(url) {
 
 // 标题归一化：用于去重比较（去空格、统一大小写、去掉常见媒体后缀）
 function normalizeTitle(t) {
-  return t.toLowerCase().replace(/\s+/g, '').replace(/[-—|·].{1,20}$/, '').trim()
+  return t.toLowerCase().replace(/\s+/g, '').replace(/[-—|·_~].{0,40}$/, '').trim()
 }
 
 function stripHtml(html) {
