@@ -29,7 +29,7 @@ function fetchText(url) {
 // 直接在浏览器打开会报"此URL可能不是由Bing生成的"
 async function resolveRealUrl(url) {
   // 非跟踪 URL 直接返回
-  if (!/(bing\.com\/news\/ap|bing\.com\/news\/search|google\.com\/url|google\.com\/search|news\.google\.com\/rss\/articles)/.test(url)) return url
+  if (!/(bing\.com\/news\/ap|bing\.com\/news\/search|google\.com\/url|google\.com\/search|news\.google\.com\/rss\/articles|news\.baidu\.com\/link)/.test(url)) return url
   return new Promise((resolve) => {
     try {
       const mod = url.startsWith('https') ? https : http

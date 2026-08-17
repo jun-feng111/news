@@ -3,9 +3,9 @@
 // 背景：智联(zhaopin.com)与BOSS(zhipin.com)首页均为 SPA，职位/报告数据走 XHR，
 // 纯 Node HTTP 抓不到正文；且其研究院报告散落在 21财经/搜狐/新浪等媒体转载页。
 // 本脚本用「新闻搜索 RSS」做发现层，自动拿到这些报告的媒体转载链接与摘要：
-//   - 发现层 = Google News RSS（news.google.com/rss/search），在美国 IP（GitHub Actions）直连可用。
-//   - 注意：从中国大陆（如广西）直连 Google 会被墙，该步会超时并优雅跳过；
-//     此时由 feeds.json 里的主干 RSS（中新网财经/社会、教育部）兜底就业内容。
+//   - 发现层 = Bing News RSS（bing.com/news/search），bing.com 在中国大陆可正常访问，
+//     返回 bing.com/news/ap 跳转链接，由下游 resolveRealUrl / resolve-urls.cjs 解析成真实文章地址。
+//   - 不再使用 Google News：news.google.com 在中国大陆被墙，链接点击必超时。
 // 产出结构与 raw-articles.json 完全一致，下游 fetch-content / ai-process / cluster 照常处理。
 
 import fs from 'node:fs'
@@ -19,10 +19,10 @@ const RAW_PATH = path.join(DATA_DIR, 'raw-articles.json')
 const CATEGORY = '就业'
 const SOURCE_DEFAULT = '就业报告'
 
-// 发现层：Google News RSS 搜索（按关键词）。gl/hl/ceid 设为中国简体。
+// 发现层：Bing News RSS 搜索（按关键词）。bing.com 在中国大陆可正常访问。
 function discoveryUrl(q) {
-  return 'https://news.google.com/rss/search?q=' +
-    encodeURIComponent(q) + '&hl=zh-CN&gl=CN&ceid=CN:zh-Hans'
+  return 'https://www.bing.com/news/search?q=' +
+    encodeURIComponent(q) + '&setlang=zh-CN&format=rss'
 }
 
 // 检索词：覆盖「智联/Boss 品牌报告」+「大学生就业市场行情」
@@ -54,7 +54,7 @@ function fetchText(url, timeout = 30000) {
   })
 }
 
-// Bing News RSS 兜底（美国 runner 上通常比 Google 更稳，且返回真实文章链接）
+// Bing News RSS（与发现层同源；保留以备扩展多源）
 function bingUrl(q) {
   return 'https://www.bing.com/news/search?q=' + encodeURIComponent(q) + '&setlang=zh-CN&format=rss'
 }
@@ -69,9 +69,9 @@ async function fetchTextRetry(url, tries = 2) {
   throw lastErr
 }
 
-// 解析 Bing/Google 跟踪 URL 获取真实文章地址
+// 解析 Bing/Google/百度 跟踪 URL 获取真实文章地址
 async function resolveRealUrl(url) {
-  if (!/(bing\.com\/news\/ap|bing\.com\/news\/search|google\.com\/url|news\.google\.com\/rss\/articles)/.test(url)) return url
+  if (!/(bing\.com\/news\/ap|bing\.com\/news\/search|google\.com\/url|news\.google\.com\/rss\/articles|news\.baidu\.com\/link)/.test(url)) return url
   return new Promise((resolve) => {
     try {
       const mod = url.startsWith('https') ? https : http
@@ -162,26 +162,22 @@ async function main() {
   let collected = []
   let okQueries = 0
   for (const q of QUERIES) {
-    let xml = null, used = ''
+    let xml = null
     try {
-      xml = await fetchTextRetry(discoveryUrl(q)); used = 'Google'
-    } catch (e1) {
-      try {
-        xml = await fetchTextRetry(bingUrl(q)); used = 'Bing'
-      } catch (e2) {
-        console.log(`  发现[${q}] 跳过（Google/Bing 均不可达）: ${e2.message}`)
-        continue
-      }
+      xml = await fetchTextRetry(discoveryUrl(q))
+    } catch (e) {
+      console.log(`  发现[${q}] 跳过（Bing News RSS 不可达）: ${e.message}`)
+      continue
     }
     const items = await parseNews(xml)
     collected.push(...items)
     okQueries++
-    console.log(`  发现[${q}](${used}): ${items.length} 条`)
+    console.log(`  发现[${q}](Bing): ${items.length} 条`)
     await new Promise(r => setTimeout(r, 600))
   }
 
   if (okQueries === 0) {
-    console.log('Google/Bing News RSS 发现层全部不可达。「就业」板块由 feeds.json 主干 RSS 兜底。')
+    console.log('Bing News RSS 发现层全部不可达。「就业」板块由 feeds.json 主干 RSS 兜底。')
     return
   }
 

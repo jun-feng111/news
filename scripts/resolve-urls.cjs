@@ -10,12 +10,14 @@
 
 const fs = require('fs')
 const path = require('path')
-const { https, http } = require('url')
+const https = require('https')
+const http = require('http')
 
 const DATA_DIR = path.join(__dirname, '..', 'public', 'data')
 
-// ── 匹配需要解析的跟踪 URL ──
-const TRACKING_RE = /bing\.com\/news\/ap|news\.google\.com\/rss\/articles|bing\.com\/news\/search|google\.com\/url|google\.com\/search/
+// ── 匹配需要解析的跟踪 URL（任一跳转型新闻聚合链接）──
+// 涵盖：Bing 新闻跳转、Google News 跳转（墙内打不开）、百度新闻跳转、各类 url 中转。
+const TRACKING_RE = /bing\.com\/news|news\.google\.com|google\.com\/url|google\.com\/search|news\.baidu\.com\/link|baidu\.com\/link|t\.cn\/|dwz\.cn|url\.cn|goo\.gl|bit\.ly|tinyurl\.com|t\.co/
 
 function isTrackingUrl(url) {
   return url && TRACKING_RE.test(url)
