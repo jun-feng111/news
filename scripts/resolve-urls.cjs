@@ -23,10 +23,68 @@ function isTrackingUrl(url) {
   return url && TRACKING_RE.test(url)
 }
 
-// ── 跟随重定向获取真实 URL（最多跳 5 次，每跳 6 秒超时）──
+// ── 第一优先级：从查询参数直接提取嵌入的真实 URL（无需网络请求）──
+// 适用场景：
+//   Bing apiclick.aspx?...&url=<encoded_target>&...
+//   Google url?q=<target>（备用）
+//   baidu.com/link?url=<encoded_target>&...
+function extractEmbeddedUrl(url) {
+  try {
+    // RSS/XML 中 & 常被编码为 &amp;，需先还原
+    let clean = url.replace(/&amp;/g, '&')
+    const parsed = new URL(clean)
+    const hostname = parsed.hostname.toLowerCase()
+
+    // Bing apiclick.aspx — 真实 URL 在 url 参数中（URL 编码）
+    if (hostname.includes('bing.com') && parsed.pathname.includes('apiclick')) {
+      const embedded = parsed.searchParams.get('url')
+      if (embedded) {
+        const decoded = decodeURIComponent(embedded)
+        // 确保解码出来是个合理 URL
+        if (decoded.startsWith('http://') || decoded.startsWith('https://')) {
+          return decoded
+        }
+      }
+    }
+
+    // baidu.com/link — 真实 URL 在 url 参数中
+    if (hostname.includes('baidu.com') && parsed.pathname.includes('/link')) {
+      const embedded = parsed.searchParams.get('url')
+      if (embedded) {
+        const decoded = decodeURIComponent(embedded)
+        if (decoded.startsWith('http://') || decoded.startsWith('https://')) {
+          return decoded
+        }
+      }
+    }
+
+    // Google search URL — q 参数有时包含目标
+    if (hostname.includes('google.com') && parsed.pathname.includes('/search')) {
+      const embedded = parsed.searchParams.get('q')
+      if (embedded && (embedded.startsWith('http://') || embedded.startsWith('https://'))) {
+        return embedded
+      }
+    }
+
+    return null // 没有可提取的嵌入 URL
+  } catch (e) {
+    return null
+  }
+}
+
+// ── 第二优先级：跟随 HTTP 重定向获取真实 URL（最多跳 5 次，每跳 6 秒超时）──
 function resolveRealUrl(url) {
   return new Promise((resolve) => {
     if (!isTrackingUrl(url)) return resolve(url)
+
+    // ── 策略1：从查询参数直接提取嵌入 URL（最快，无需网络）──
+    const embedded = extractEmbeddedUrl(url)
+    if (embedded) {
+      console.log(`  📎 参数提取: ${url.slice(0, 60)}... → ${embedded.slice(0, 80)}`)
+      return resolve(embedded)
+    }
+
+    // ── 策略2：跟随 HTTP 重定向 ──
 
     const maxHops = 5
     let currentUrl = url

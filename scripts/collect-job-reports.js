@@ -70,8 +70,30 @@ async function fetchTextRetry(url, tries = 2) {
 }
 
 // 解析 Bing/Google/百度 跟踪 URL 获取真实文章地址
+// 策略1：从查询参数直接提取嵌入 URL（零网络开销，覆盖 apiclick.aspx）
+// 策略2：跟随 HTTP 重定向
+function extractEmbeddedUrl(url) {
+  try {
+    let clean = url.replace(/&amp;/g, '&')
+    const p = new URL(clean)
+    if (p.hostname.includes('bing.com') && p.pathname.includes('apiclick')) {
+      const e = p.searchParams.get('url')
+      if (e) { const d = decodeURIComponent(e); if (d.startsWith('http')) return d }
+    }
+    if (p.hostname.includes('baidu.com') && p.pathname.includes('/link')) {
+      const e = p.searchParams.get('url')
+      if (e) { const d = decodeURIComponent(e); if (d.startsWith('http')) return d }
+    }
+  } catch (_) {}
+  return null
+}
+
 async function resolveRealUrl(url) {
   if (!/(bing\.com\/news\/ap|bing\.com\/news\/search|google\.com\/url|news\.google\.com\/rss\/articles|news\.baidu\.com\/link)/.test(url)) return url
+  // 先尝试参数提取
+  const embedded = extractEmbeddedUrl(url)
+  if (embedded) return embedded
+  // 提取不到再走 HTTP 重定向
   return new Promise((resolve) => {
     try {
       const mod = url.startsWith('https') ? https : http
