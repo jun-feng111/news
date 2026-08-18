@@ -15,9 +15,28 @@ function fetchText(url) {
       if (res.statusCode === 301 || res.statusCode === 302) {
         return fetchText(res.headers.location).then(resolve, reject)
       }
-      let data = ''
-      res.on('data', c => data += c)
-      res.on('end', () => resolve(data))
+      const chunks = []
+      res.on('data', c => chunks.push(c))
+      res.on('end', () => {
+        const buf = Buffer.concat(chunks)
+        // 检测字符编码（默认 UTF-8；GBK/GB2312 等需正确解码，否则中文变乱码）
+        let charset = 'utf-8'
+        const ct = (res.headers['content-type'] || '').toLowerCase()
+        const cm = ct.match(/charset=([\w-]+)/)
+        if (cm) charset = cm[1]
+        // 若 content-type 未声明，从 <?xml ... encoding="..."?> 探测
+        if (charset === 'utf-8') {
+          const head = buf.slice(0, 1024).toString('latin1')
+          const xm = head.match(/encoding=["']?([\w-]+)/i)
+          if (xm) charset = xm[1]
+        }
+        try {
+          resolve(new TextDecoder(charset).decode(buf))
+        } catch {
+          // 解码失败时退化为 UTF-8，避免整批崩溃
+          resolve(buf.toString('utf-8'))
+        }
+      })
     })
     req.on('error', reject)
     req.setTimeout(10000, () => { req.destroy(); reject(new Error('timeout')) })
@@ -112,7 +131,10 @@ async function parseRSS(xml, sourceName, category) {
     const link = getLink()
     const pubDate = getTag('pubDate') || getTag('published') || getTag('updated')
     const description = getTag('description') || getTag('summary') || ''
-    if (title && link) {
+    // 必须有可解析的发布时间，否则丢弃：避免把"无日期/远古"的垃圾(如 2008 年中新网旧闻)
+    // 因解析失败被强行填成"今天"而混入综合等板块
+    const pubTime = pubDate ? new Date(pubDate).getTime() : NaN
+    if (title && link && !isNaN(pubTime)) {
       // 解析 Bing/Google 跟踪 URL 为真实文章地址
       const realLink = await resolveRealUrl(link)
       articles.push({
@@ -122,7 +144,7 @@ async function parseRSS(xml, sourceName, category) {
         content: stripHtml(description).slice(0, 2000),
         source: sourceName,
         category,
-        published: pubDate ? new Date(pubDate).toISOString() : new Date().toISOString(),
+        published: new Date(pubTime).toISOString(),
         fetched: new Date().toISOString(),
       })
     }

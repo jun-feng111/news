@@ -95,6 +95,39 @@ function filterByAge(articles) {
   return fresh
 }
 
+// ── 垃圾拦截：剔除已污染进数据的乱码标题 / 远古链接文章 ──
+// 场景：某些 GBK 源(如中新网)历史上因未解码产生乱码标题；Bing 可能返回 2008 年旧链接。
+// 这类文章在综合等板块显示为"看不了内容"，必须兜底剔除（采集端修复后新数据不再产生，
+// 此函数主要清掉存量污染）。
+function isMojibake(s) {
+  if (!s) return false
+  if (s.includes('�')) return true // 含 Unicode 替换字符，典型的未解码残留
+  // GBK 字节被误当 UTF-8 解码后，常产生西里尔/亚美尼亚等"中文绝不会出现"的字符块。
+  // 用码点区间显式匹配：西里尔 U+0400-U+04FF、亚美尼亚 U+0530-U+058F
+  const mojiRe = new RegExp('[\\u0400-\\u04FF\\u0530-\\u058F]', 'u')
+  if (mojiRe.test(s)) return true
+  // 大量 C1 控制区(0x80-0x9f)字符 -> GBK 字节被当 UTF-8 解码的特征
+  return (s.match(/[-]/g) || []).length > 3
+}
+function filterJunk(articles) {
+  const curYear = new Date().getFullYear()
+  const before = articles.length
+  const kept = articles.filter(a => {
+    if (isMojibake(a.title)) return false
+    if (isMojibake(a.summary)) return false
+    // URL 路径里出现 2 年前(含)的年份 -> 远古旧闻，剔除
+    const ym = (a.url || '').match(/\b(19|20)\d{2}\b/)
+    if (ym) {
+      const y = +ym[0]
+      if (y < curYear - 2) return false
+    }
+    return true
+  })
+  const removed = before - kept.length
+  if (removed > 0) console.log(`  垃圾拦截: 剔除 ${removed} 篇乱码/远古文章`)
+  return kept
+}
+
 // ── 列表用精简字段：去掉正文(contentFull/contentHtml/contentZh)，把首屏体积从 ~17MB 降到 ~1MB ──
 const LITE_KEYS = ['id', 'title', 'url', 'summary', 'source', 'category', 'published', 'image', 'score', 'tags']
 function toLite(a) {
@@ -133,6 +166,9 @@ function main() {
     // 优先按来源强制归类（修正历史错误），否则走关键词归一化
     a.category = SOURCE_TO_CATEGORY[a.source] || normalizeCategory(a.category)
   }
+
+  // 垃圾拦截：剔除乱码标题 / 远古链接（清理存量污染，新数据由采集端修复不再产生）
+  articles = filterJunk(articles)
 
   // 同板块标题去重（必须在归一化分类之后、排序之前）
   articles = dedupeByCategory(articles)
