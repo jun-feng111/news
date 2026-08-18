@@ -91,7 +91,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           # 数据 + 重新构建的单文件 app 一起提交，确保线上使用最新代码读取最新数据
-          git add public/data/ index.html
+          git add public/data/ index.html _headers
           if ! git diff --staged --quiet; then
             git commit -m "auto: update news data + site $(date -u '+%Y-%m-%d %H:%M')"
             git push

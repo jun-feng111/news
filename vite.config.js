@@ -7,7 +7,7 @@ export default defineConfig({
   base: './',
   build: {
     outDir: 'dist',
-    emptyOutDir: true,
+    emptyOutDir: false,
     rollupOptions: {
       input: 'src/entry.html',
     },
