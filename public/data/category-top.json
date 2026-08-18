@@ -1,18 +1,6 @@
 {
   "AI": [
     {
-      "id": "ae374bc00228",
-      "title": "Alvys launches AI agents for freight TMS workflows",
-      "url": "https://www.artificialintelligence-news.com/news/alvys-ai-agents-freight-tms/",
-      "summary": "Freight software provider Alvys has launched an agentic AI platform that allows carriers and brokers",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-08-18T12:00:00.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/Alvys-launches-AI-agents-for-freight-TMS-workflows-scaled-e1787045759798.jpg",
-      "score": 85,
-      "tags": []
-    },
-    {
       "id": "2499b38f4a46",
       "title": "OpenAI president urges enterprises to hasten AI security defences",
       "url": "https://www.artificialintelligence-news.com/news/openai-president-urges-enterprises-hasten-ai-security-defences/",
@@ -21,6 +9,18 @@
       "category": "AI",
       "published": "2026-08-18T14:58:27.000Z",
       "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/openai-president-greg-brockman-ai-security-defences-infosec-cyber-enterprise-agentic-automation.jpg",
+      "score": 80,
+      "tags": []
+    },
+    {
+      "id": "ae374bc00228",
+      "title": "Alvys launches AI agents for freight TMS workflows",
+      "url": "https://www.artificialintelligence-news.com/news/alvys-ai-agents-freight-tms/",
+      "summary": "Freight software provider Alvys has launched an agentic AI platform that allows carriers and brokers",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-08-18T12:00:00.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/Alvys-launches-AI-agents-for-freight-TMS-workflows-scaled-e1787045759798.jpg",
       "score": 80,
       "tags": []
     },
@@ -37,15 +37,15 @@
       "tags": []
     },
     {
-      "id": "2b9b3cf50e86",
-      "title": "Peacock is raising prices across all of its streaming plans",
-      "url": "https://techcrunch.com/2026/08/18/peacock-is-raising-prices-across-all-of-its-streaming-plans/",
-      "summary": "Peacock is raising prices across all of its streaming plans",
+      "id": "0bfb066bf07c",
+      "title": "OpenAI institutes new safeguards after Hugging Face breach",
+      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "summary": "OpenAI institutes new safeguards after Hugging Face breach",
       "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-08-18T15:26:31.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2205537583.jpg?resize=1200,800",
-      "score": 75,
+      "published": "2026-08-18T18:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
+      "score": 80,
       "tags": []
     },
     {
@@ -62,6 +62,18 @@
     }
   ],
   "科技": [
+    {
+      "id": "4f194a81176f",
+      "title": "Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21",
+      "url": "https://techcrunch.com/2026/08/18/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
+      "summary": "Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-18T17:31:01.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-Space-Stage-Even-Rogers.jpg?resize=1200,800",
+      "score": 75,
+      "tags": []
+    },
     {
       "id": "506ef6f4e042",
       "title": "Etched&#8217;s valuation doubles to $21B in a month",
@@ -107,18 +119,6 @@
       "category": "科技",
       "published": "2026-08-18T16:39:05.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/xfinity-1232480636.jpg?w=1024",
-      "score": 65,
-      "tags": []
-    },
-    {
-      "id": "fab1a2870535",
-      "title": "Anthro Energy breaks ground on factory that could pave the road to solid-state batteries",
-      "url": "https://techcrunch.com/2026/08/18/anthro-energy-breaks-ground-on-factory-that-could-pave-the-road-to-solid-state-batteries/",
-      "summary": "Anthro Energy breaks ground on factory that could pave the road to solid-state batteries",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-18T14:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/anthro-energy-electrolyte.jpg?resize=1200,675",
       "score": 65,
       "tags": []
     }
@@ -330,7 +330,6 @@
       "source": "就业创业政策",
       "category": "政策",
       "published": "2026-07-16T01:51:00.000Z",
-      "image": "https://news.66wz.com/pic/003/013/337/00301333742_93765919.gif",
       "score": 55,
       "tags": []
     },
