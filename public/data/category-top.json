@@ -173,13 +173,63 @@
       "tags": []
     }
   ],
+  "开发": [
+    {
+      "id": "c74b255a8192",
+      "title": "科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识",
+      "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html",
+      "summary": "这里记录每周值得分享的科技内容，周五发布",
+      "source": "阮一峰",
+      "category": "开发",
+      "published": "2026-08-13T23:54:49.000Z",
+      "image": "",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "68472270a8ed",
+      "title": "谷歌发布 Angular v22，带来稳定的 Signal Forms、默认启用的 OnPush 以及实验性的 WebMCP",
+      "url": "https://www.infoq.cn/article/J7CiEHSU79e9TYi3soro?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-18T17:28:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/92/21/922fcec3d81be061f1f904c52735e721.jpg"
+    },
+    {
+      "id": "4b5541f6e8fe",
+      "title": "Snowflake CoCo AI 成本优化指南：7 个关键方法 | 技术实践",
+      "url": "https://www.infoq.cn/article/pOfV96f9DHG9Cw1KQAZB?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-18T16:29:05.000Z",
+      "image": "https://static001.infoq.cn/resource/image/5e/68/5e0d76ec9728090617596d6733b74c68.png"
+    },
+    {
+      "id": "6cc46385228f",
+      "title": "共识之外：Linux 生态系统中 AI 政策的碎片化现象",
+      "url": "https://www.infoq.cn/article/jsqPaMGuPXFkhifJmTym?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-18T16:15:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/6c/e1/6cf27976fb782fa8ba3732d04ecec2e1.jpg"
+    },
+    {
+      "id": "12f4900efdc4",
+      "title": "阿里云的野心，不在 Agent Builder",
+      "url": "https://www.infoq.cn/article/QekQuwv8UhxAcrOFgKM8?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-18T15:32:44.000Z",
+      "image": "https://static001.infoq.cn/resource/image/be/01/beab18e05a12c464bd0c5115f7e47601.jpg"
+    }
+  ],
   "政策": [
     {
       "id": "148659117e79",
       "title": "重庆OPC政策赋能 “大创慧谷”园区企业轻创园发布v4.0方案",
       "url": "http://www.cq.xinhuanet.com/20260811/a500570295e447fab690118162269b06/c.html",
       "summary": "活动当天，轻创园正式发布“OPC社区建设方案（v4。聚焦跨境电商、AI短视频、AI设计、AI程序开发四大核心赛道，以自研数字化系统为支撑，打造“实体空间+系统赋能+产业孵化+联营共生”的新型数字创业生",
-      "source": "Bing·大学生创业扶持政策",
+      "source": "就业创业政策",
       "category": "政策",
       "published": "2026-08-11T11:03:00.000Z",
       "image": "http://www.news.cn/detail2020/images/ewm.png",
@@ -218,6 +268,7 @@
       "source": "Bing·高校毕业生就业创业政策",
       "category": "政策",
       "published": "2026-08-13T14:25:00.000Z",
+      "image": "https://img.chengdu.cn/templates/chengdu/i19/images/side_weibo_hs.png",
       "score": 50,
       "tags": []
     },
@@ -232,56 +283,6 @@
       "image": "",
       "score": 50,
       "tags": []
-    }
-  ],
-  "开发": [
-    {
-      "id": "c74b255a8192",
-      "title": "科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识",
-      "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html",
-      "summary": "这里记录每周值得分享的科技内容，周五发布",
-      "source": "阮一峰",
-      "category": "开发",
-      "published": "2026-08-13T23:54:49.000Z",
-      "image": "",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "4b5541f6e8fe",
-      "title": "Snowflake CoCo AI 成本优化指南：7 个关键方法 | 技术实践",
-      "url": "https://www.infoq.cn/article/pOfV96f9DHG9Cw1KQAZB?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-08-18T16:29:05.000Z",
-      "image": "https://static001.infoq.cn/resource/image/5e/68/5e0d76ec9728090617596d6733b74c68.png"
-    },
-    {
-      "id": "6cc46385228f",
-      "title": "共识之外：Linux 生态系统中 AI 政策的碎片化现象",
-      "url": "https://www.infoq.cn/article/jsqPaMGuPXFkhifJmTym?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-08-18T16:15:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/6c/e1/6cf27976fb782fa8ba3732d04ecec2e1.jpg"
-    },
-    {
-      "id": "12f4900efdc4",
-      "title": "阿里云的野心，不在 Agent Builder",
-      "url": "https://www.infoq.cn/article/QekQuwv8UhxAcrOFgKM8?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-08-18T15:32:44.000Z",
-      "image": "https://static001.infoq.cn/resource/image/be/01/beab18e05a12c464bd0c5115f7e47601.jpg"
-    },
-    {
-      "id": "48ef67ccad1f",
-      "title": "豆包视频通话升级，火山引擎多模态传输系统提供技术支撑",
-      "url": "https://www.infoq.cn/article/kJK3qG9m7UEYtf7siCgU?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-08-18T14:46:57.000Z",
-      "image": "https://static001.infoq.cn/resource/image/13/93/1333bf99983d5e81ed919fb5d21cd693.jpg"
     }
   ],
   "社会": [
@@ -346,54 +347,25 @@
       "tags": []
     }
   ],
-  "综合": [
-    {
-      "id": "f8da0aa3eae9",
-      "title": "����ȫ:�����������򸯰���ɹ�����Դ�˷���ʧ",
-      "url": "http://www.chinanews.com.cn/gn/news/2008/01-23/1143269.shtml",
-      "source": "中新网时政",
-      "category": "综合",
-      "published": "2026-08-18T09:03:37.335Z",
-      "image": "http://www.chinanews.com.cn/fileftp/2007/12/2007-12-13/U31P4T47D7993F967DT20071213101145.gif"
-    },
-    {
-      "id": "2a1aede16ebf",
-      "title": "�й������������ѩ�����ֺ� ��úȫ��漱",
-      "url": "http://www.chinanews.com.cn/gn/news/2008/01-23/1143156.shtml",
-      "source": "中新网时政",
-      "category": "综合",
-      "published": "2026-08-18T09:03:37.335Z",
-      "image": "http://www.chinanews.com.cn/kpimg/2.gif"
-    },
-    {
-      "id": "5ffd3a3027d9",
-      "title": "���츱�г���Ϲ�Ա���ԣ�����Ҫ˵��Щ�ٻ���",
-      "url": "http://www.chinanews.com.cn/gn/news/2008/01-23/1143153.shtml",
-      "source": "中新网时政",
-      "category": "综合",
-      "published": "2026-08-18T09:03:37.335Z",
-      "image": "http://www.chinanews.com.cn/kpimg/2.gif"
-    },
-    {
-      "id": "ac185099c93c",
-      "title": "����ɽ��ѡ������Э��ϯ �ֹ�ǿ�Ⱦ���Ϊ����ϯ",
-      "url": "http://www.chinanews.com.cn/gn/news/2008/01-23/1143148.shtml",
-      "source": "中新网时政",
-      "category": "综合",
-      "published": "2026-08-18T09:03:37.335Z",
-      "image": "http://www.chinanews.com.cn/kpimg/2.gif"
-    },
-    {
-      "id": "a79d58639e69",
-      "title": "��ⴺ��ѡ��һ�����ʡ�˴�ί������",
-      "url": "http://www.chinanews.com.cn/gn/news/2008/01-23/1143133.shtml",
-      "source": "中新网时政",
-      "category": "综合",
-      "published": "2026-08-18T09:03:37.335Z",
-      "image": "http://www.chinanews.com.cn/kpimg/2.gif"
-    }
-  ],
   "财经": [
+    {
+      "id": "dbcfbdcd3121",
+      "title": "活力中国调研行｜福州上下杭，非遗“指尖经济”",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679715.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-08-18T09:04:34.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "6ffc6e12822f",
+      "title": "好评中国｜经济新图景：以县域微活力赋能经济大循环",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679713.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-08-18T09:01:58.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
     {
       "id": "6809548b731b",
       "title": "市场监管总局：截至7月底，下沉市场在册个体工商户数量是企业数量的2倍多",
@@ -419,24 +391,6 @@
       "source": "中新网财经",
       "category": "财经",
       "published": "2026-08-18T08:46:55.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "61528b884a60",
-      "title": "2026国际智慧渔业和水产大会开幕 发布智慧渔业公开数据集和“范蠡大模型4.0”",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679728.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-08-18T08:45:59.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "686fa876cf97",
-      "title": "“新”“智”“绿”，促动能转换提速",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679680.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-08-18T08:36:22.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
