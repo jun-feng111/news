@@ -80,10 +80,8 @@ async function main() {
     return
   }
 
-  // 政策生命周期长（一个就业创业政策通常管 1-3 年，且有年度性质如 2024届/2025届/2026届），
-  // 用 730 天（2 年）窗口保留历届政策，让"政策"板块有足够内容做历年对比。
-  // 早期 90 天过滤太严，导致只有 2 条近 3 个月政策。
-  const POLICY_WINDOW = 730 * 86400000
+  // 政策窗口 365 天（1 年）：用户要求只保留一年内的政策，超过 365 天的不要
+  const POLICY_WINDOW = 365 * 86400000
   let added = 0
   for (const it of items) {
     const id = crypto.createHash('md5').update(it.url).digest('hex').slice(0, 12)

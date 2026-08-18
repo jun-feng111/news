@@ -38,6 +38,9 @@ jobs:
       - name: Collect Job Market Reports (News RSS)
         run: node scripts/collect-job-reports.js
 
+      - name: Collect Job Details (Position salary/skill/prospect)
+        run: node scripts/collect-job-details.js
+
       - name: Fetch Full Content
         run: node scripts/fetch-content.js
 

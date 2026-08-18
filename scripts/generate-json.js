@@ -71,10 +71,9 @@ function dedupeByCategory(articles) {
 
 // ── 时间过滤：淘汰过期文章，只保留最近 N 天的内容 ──
 // 默认 90 天（覆盖秋招/春招周期），可通过环境变量 MAX_AGE_DAYS 覆盖
-// 政策分类例外：政策生命周期长（1-3 年，且有年度性质如 2024届/2025届/2026届），
-// 用 730 天（2 年）窗口保留历届政策
+// 政策分类例外：用户要求只保留一年内的政策，用 365 天窗口
 const MAX_AGE_DAYS = Number(process.env.MAX_AGE_DAYS) || 90
-const POLICY_MAX_AGE_DAYS = Number(process.env.POLICY_MAX_AGE_DAYS) || 730
+const POLICY_MAX_AGE_DAYS = Number(process.env.POLICY_MAX_AGE_DAYS) || 365
 
 function filterByAge(articles) {
   const cutoff = Date.now() - MAX_AGE_DAYS * 86400000

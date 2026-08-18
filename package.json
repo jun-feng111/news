@@ -11,11 +11,12 @@
     "collect:moe": "node scripts/collect-moe-policy.js",
     "collect:policy": "node scripts/collect-policy.js",
     "collect:job": "node scripts/collect-job-reports.js",
+    "collect:job-details": "node scripts/collect-job-details.js",
     "ai": "node scripts/ai-process.js",
     "cluster": "node scripts/cluster.js",
     "generate": "node scripts/generate-json.js",
     "fix:policy": "node scripts/fix-policy-category.js",
-    "update": "node scripts/collect-rss.js && node scripts/collect-moe-policy.js && node scripts/collect-policy.js && node scripts/collect-job-reports.js && node scripts/ai-process.js && node scripts/cluster.js && node scripts/generate-json.js"
+    "update": "node scripts/collect-rss.js && node scripts/collect-moe-policy.js && node scripts/collect-policy.js && node scripts/collect-job-reports.js && node scripts/collect-job-details.js && node scripts/ai-process.js && node scripts/cluster.js && node scripts/generate-json.js"
   },
   "dependencies": {
     "@element-plus/icons-vue": "^2.3.0",
