@@ -95,6 +95,14 @@ function filterByAge(articles) {
   return fresh
 }
 
+// ── 列表用精简字段：去掉正文(contentFull/contentHtml/contentZh)，把首屏体积从 ~17MB 降到 ~1MB ──
+const LITE_KEYS = ['id', 'title', 'url', 'summary', 'source', 'category', 'published', 'image', 'score', 'tags']
+function toLite(a) {
+  const o = {}
+  for (const k of LITE_KEYS) o[k] = a[k]
+  return o
+}
+
 function main() {
   let articles = []
   // 合并 processed-articles.json（AI 处理后，含摘要/评分/标签）和 raw-articles.json（最新采集）
@@ -134,40 +142,36 @@ function main() {
 
   articles.sort((a, b) => (b.score || 0) - (a.score || 0))
 
-  const topToday = articles.slice(0, 10)
+  // 列表用精简数据（仅元数据）：首屏从 ~17MB 降到 ~1MB
+  const lite = articles.map(toLite)
 
-  const byCategory = {}
+  // 详情页正文：按 id 拆成独立小文件，打开哪篇才下载哪篇（~10KB/篇）
+  const fullDir = path.join(DATA_DIR, 'full')
+  fs.mkdirSync(fullDir, { recursive: true })
   for (const a of articles) {
-    const cat = a.category || '综合'
-    if (!byCategory[cat]) byCategory[cat] = []
-    byCategory[cat].push(a)
+    fs.writeFileSync(
+      path.join(fullDir, `${a.id}.json`),
+      JSON.stringify({
+        id: a.id,
+        title: a.title,
+        url: a.url,
+        contentZh: a.contentZh || '',
+        contentFull: a.contentFull || '',
+      }, null, 2)
+    )
   }
 
-  const categoryTop = {}
-  for (const [cat, list] of Object.entries(byCategory)) {
-    categoryTop[cat] = list.slice(0, 5)
-  }
-
-  const byDate = {}
-  for (const a of articles) {
-    const date = (a.published || '').slice(0, 10)
-    if (!byDate[date]) byDate[date] = []
-    byDate[date].push(a)
-  }
-
-  fs.writeFileSync(path.join(DATA_DIR, 'articles.json'), JSON.stringify(articles, null, 2))
-  fs.writeFileSync(path.join(DATA_DIR, 'top-today.json'), JSON.stringify(topToday, null, 2))
-  fs.writeFileSync(path.join(DATA_DIR, 'category-top.json'), JSON.stringify(categoryTop, null, 2))
-  fs.writeFileSync(path.join(DATA_DIR, 'articles-by-category.json'), JSON.stringify(byCategory, null, 2))
-  fs.writeFileSync(path.join(DATA_DIR, 'articles-by-date.json'), JSON.stringify(byDate, null, 2))
+  fs.writeFileSync(path.join(DATA_DIR, 'articles-lite.json'), JSON.stringify(lite, null, 2))
 
   const feeds = JSON.parse(fs.readFileSync(FEEDS_PATH, 'utf8'))
   fs.writeFileSync(path.join(DATA_DIR, 'feeds.json'), JSON.stringify(feeds, null, 2))
 
+  // 注：top-today.json / category-top.json 由 scripts/derive-lite.js 在 resolve-urls 之后派生，
+  //     以保证其中的 url 已是解析后的真实地址。
   console.log(`生成完成: ${articles.length} 篇文章`)
-  console.log(`  top-today.json: ${topToday.length} 篇`)
-  console.log(`  category-top.json: ${Object.keys(categoryTop).map(k => `${k}(${categoryTop[k].length})`).join(', ')}`)
-  console.log(`  分类: ${Object.keys(byCategory).join(', ')}`)
+  console.log(`  articles-lite.json: ${lite.length} 篇（仅元数据，供列表/首页）`)
+  console.log(`  full/<id>.json: ${articles.length} 个（正文，供详情页按需加载）`)
+  console.log(`  分类: ${[...new Set(articles.map(a => a.category || '综合'))].join(', ')}`)
 }
 
 main()

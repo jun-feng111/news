@@ -1,5 +1,8 @@
 /public/data/*
   Cache-Control: no-cache
 
+/public/data/full/*
+  Cache-Control: public, max-age=86400
+
 /index.html
   Cache-Control: no-cache

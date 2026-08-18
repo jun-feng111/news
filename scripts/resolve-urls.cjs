@@ -152,11 +152,14 @@ function resolveRealUrl(url) {
 
 // ── 主流程 ──
 async function main() {
-  const jsonFiles = [
-    'articles.json',
-    'articles-by-category.json',
-    'processed-articles.json'
-  ]
+  // 只修正前端真正使用的精简数据 + 详情页正文文件（不再维护庞大的 articles.json）
+  const jsonFiles = ['articles-lite.json']
+  const fullDir = path.join(DATA_DIR, 'full')
+  if (fs.existsSync(fullDir)) {
+    for (const f of fs.readdirSync(fullDir)) {
+      if (f.endsWith('.json')) jsonFiles.push(path.join('full', f))
+    }
+  }
 
   let totalFixed = 0
   let totalSkipped = 0
@@ -179,9 +182,9 @@ async function main() {
       continue
     }
 
-    // 支持数组或对象（articles-by-category 是 {分类: [文章]}）
+    // 支持数组（articles-lite.json）或单对象（full/<id>.json，整体即一篇文章）
     const isArray = Array.isArray(data)
-    const items = isArray ? data : Object.values(data).flat()
+    const items = isArray ? data : [data]
 
     const trackingItems = items.filter(a => isTrackingUrl(a.url))
     console.log(`  总 ${items.length} 篇，其中跟踪链接 ${trackingItems.length} 篇`)

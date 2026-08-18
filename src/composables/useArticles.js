@@ -8,9 +8,9 @@ let loaded = false
 
 // 运行时从 public/data/ 拉取，而非构建时写死
 // base: './' 下相对路径在本地和 GitHub Pages 都能正确解析
+// 缓存策略由 _headers 控制（列表数据 no-cache 自动校验，详情正文 max-age 长缓存）
 async function loadJson(name) {
-  // cache: 'no-store' 防止浏览器/CDN 缓存旧数据，确保每次拿到最新文章
-  const res = await fetch(`./public/data/${name}`, { cache: 'no-store' })
+  const res = await fetch(`./public/data/${name}`)
   if (!res.ok) throw new Error(`加载 ${name} 失败: HTTP ${res.status}`)
   return res.json()
 }
@@ -21,7 +21,7 @@ export function useArticles() {
     loading.value = true
     try {
       const [arts, top, ctop] = await Promise.all([
-        loadJson('articles.json'),
+        loadJson('articles-lite.json'),
         loadJson('top-today.json'),
         loadJson('category-top.json'),
       ])

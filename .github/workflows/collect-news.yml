@@ -60,6 +60,10 @@ jobs:
         # 修复采集时未能解析的 Bing/Google 跟踪链接，确保文章链接可点击
         timeout-minutes: 15
 
+      - name: Derive lite views (top/category)
+        run: node scripts/derive-lite.js
+        # 在链接修正之后派生 top-today / category-top，保证 url 已是真实地址
+
       - name: Build site & sync to repo root
         run: |
           # 清除缓存确保全新构建
@@ -91,7 +95,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           # 数据 + 重新构建的单文件 app 一起提交，确保线上使用最新代码读取最新数据
-          git add public/data/ index.html _headers
+          git add -A public/data/ index.html _headers
           if ! git diff --staged --quiet; then
             git commit -m "auto: update news data + site $(date -u '+%Y-%m-%d %H:%M')"
             git push

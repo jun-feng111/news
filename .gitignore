@@ -3,3 +3,10 @@ dist/
 *.log
 .DS_Store
 .env
+
+# 采集/处理中间文件（每轮流水线都会重新生成，无需进版本库，避免历史体积爆炸）
+public/data/raw-articles.json
+public/data/processed-articles.json
+public/data/*.bak.json
+public/data/raw-articles.bak.json
+public/data/processed-articles.bak.json
