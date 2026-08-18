@@ -1,69 +1,10 @@
 {
-  "AI": [
-    {
-      "id": "ae374bc00228",
-      "title": "Alvys launches AI agents for freight TMS workflows",
-      "url": "https://www.artificialintelligence-news.com/news/alvys-ai-agents-freight-tms/",
-      "summary": "Freight software provider Alvys has launched an agentic AI platform that allows carriers and brokers",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-08-18T12:00:00.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/Alvys-launches-AI-agents-for-freight-TMS-workflows-scaled-e1787045759798.jpg",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "6b203e98e0f0",
-      "title": "Reading Zhipu&#8217;s GLM-5.3 results past the headline number",
-      "url": "https://www.artificialintelligence-news.com/news/zhipu-glm-5-3-benchmarks-explained/",
-      "summary": "Zhipu&#8217;s&#160;release note&#160;for GLM-5。3 contains a sentence that did not make it into most ",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-08-18T10:00:00.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/Screenshot-2026-08-18-at-3.04.48-PM.png",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "0bfb066bf07c",
-      "title": "OpenAI institutes new safeguards after Hugging Face breach",
-      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-      "summary": "OpenAI institutes new safeguards after Hugging Face breach",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-18T18:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "2499b38f4a46",
-      "title": "OpenAI president urges enterprises to hasten AI security defences",
-      "url": "https://www.artificialintelligence-news.com/news/openai-president-urges-enterprises-hasten-ai-security-defences/",
-      "summary": "OpenAI president and co-founder Greg Brockman warns that enterprise security teams face a compressed",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-08-18T14:58:27.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/openai-president-greg-brockman-ai-security-defences-infosec-cyber-enterprise-agentic-automation.jpg",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "893e4fe5644e",
-      "title": "Samsung health AI models analyse wearable biosignal data",
-      "url": "https://www.artificialintelligence-news.com/news/samsung-health-ai-models-analyse-wearable-biosignal-data/",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-08-14T13:30:10.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/samsung-galaxy-watch-health-AI-models-analyse-wearable-biosignal-data-ecg-heart-digital-foundation-artificial-intelligence.jpg"
-    }
-  ],
   "开发": [
     {
       "id": "38269b8f7f4f",
-      "title": "Cursor capitalizes on Github frustration, launches rival hosting platform",
+      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
       "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-      "summary": "Cursor capitalizes on Github frustration, launches rival hosting platform",
+      "summary": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
       "source": "TechCrunch",
       "category": "开发",
       "published": "2026-08-18T22:14:25.000Z",
@@ -111,6 +52,32 @@
       "image": "https://static001.infoq.cn/resource/image/6c/e1/6cf27976fb782fa8ba3732d04ecec2e1.jpg"
     }
   ],
+  "AI": [
+    {
+      "id": "0bfb066bf07c",
+      "title": "OpenAI institutes new safeguards after Hugging Face breach",
+      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "summary": "OpenAI institutes new safeguards after Hugging Face breach",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-18T18:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
+      "score": 80,
+      "tags": []
+    },
+    {
+      "id": "7e22fac6343e",
+      "title": "Why Apple&#8217;s camera-equipped AirPods may not be the &#8216;pervert pods&#8217; consumers fear",
+      "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+      "summary": "Why Apple&#8217;s camera-equipped AirPods may not be the &#8216;pervert pods&#8217; consumers fear",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-18T16:19:10.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/airpods-with-cameras.jpeg?w=1000",
+      "score": 60,
+      "tags": []
+    }
+  ],
   "科技": [
     {
       "id": "c48b408163b2",
@@ -145,7 +112,7 @@
       "category": "科技",
       "published": "2026-08-18T17:31:01.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-Space-Stage-Even-Rogers.jpg?resize=1200,800",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -157,7 +124,7 @@
       "category": "科技",
       "published": "2026-08-18T17:21:58.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/07/Etched-co-founder-COO-Robert-Wachen.jpg?resize=1200,1200",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -169,7 +136,7 @@
       "category": "科技",
       "published": "2026-08-18T17:12:13.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2024/01/app-store-2024-v3.jpg?resize=1200,675",
-      "score": 75,
+      "score": 70,
       "tags": []
     }
   ],
@@ -330,7 +297,6 @@
       "source": "就业创业政策",
       "category": "政策",
       "published": "2026-07-16T01:51:00.000Z",
-      "image": "https://news.66wz.com/pic/003/013/337/00301333742_93765919.gif",
       "score": 55,
       "tags": []
     },

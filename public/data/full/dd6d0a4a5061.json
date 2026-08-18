@@ -1,0 +1,7 @@
+{
+  "id": "dd6d0a4a5061",
+  "title": "切换 Embedding 模型时，千万别忽略历史向量维度 - AlfredZhao",
+  "url": "https://www.cnblogs.com/jyzhao/p/22559609",
+  "contentZh": "",
+  "contentFull": "\n    \n    \n2026-08-19 07:08 \nAlfredZhao \n阅读(0) \n评论() \n \n收藏 \n举报\n\n笔者最近在测试知识库系统时，因原 Embedding 模型不可用而切换了新模型。看似只是更换模型，却因为历史向量仍在数据库中，导致文档重新解析后依然报错。\n01 | 问题关键：向量维度不一致\n不同 Embedding 模型输出的向量维度可能不同。例如，笔者测试的旧模型输出过 2560 维，新模型为 1536 维；而最终排查发现，历史记忆表中还存有 2048 维向量。\n当新旧向量混在同一套问答链路中，就可能触发维度不匹配错误。\n02 | 重新解析���档为何无效\n笔者多次重新解析文档仍报错。原因是重新解析仅影响文本向量表 kbot_biz_txt_embedding，但旧的记忆向量还保存在 kbot_md_memory_entry 中。\n可先检查两张表的向量维度：\nSELECT\n VECTOR_DIMENSION_COUNT(memory_vector) AS dimensions,\n VECTOR_DIMENSION_FORMAT(memory_vector) AS element_format,\n COUNT(*) AS row_count\nFROM kbot_md_memory_entry\nWHERE memory_vector IS NOT NULL\nGROUP BY\n VECTOR_DIMENSION_COUNT(memory_vector),\n VECTOR_DIMENSION_FORMAT(memory_vector)\nORDER BY dimensions, element_format;\n\nSELECT\n VECTOR_DIMENSION_COUNT(embedding) AS dimensions,\n VECTOR_DIMENSION_FORMAT(embedding) AS element_format,\n COUNT(*) AS row_count\nFROM kbot_biz_txt_embedding\nWHERE kb_id = 41\nGROUP BY\n VECTOR_DIMENSION_COUNT(embedding),\n VECTOR_DIMENSION_FORMAT(embedding)\nORDER BY dimensions, element_format;\n\n03 | 清理旧记忆前务必确认\n还可以直接查看两张表：\nselect * from kbot_biz_txt_embedding;\nselect * from kbot_md_memory_entry;\n\n确认 kbot_md_memory_entry 存在过时维度的历史向量后，才谨慎清理：\ntruncate table kbot_md_memory_entry;\n\n笔者清空该表中的旧信息后，问答恢复正常，不再报错。\n切换 Embedding 模型时，除了重新解析文件，更要检查历史记忆向量是否仍使用旧维度。只有相关向量维度统一，知识库问答才能稳定运行。\n关注我，和AI一起成长~\n\n\n\n    \n        \n    \n"
+}
