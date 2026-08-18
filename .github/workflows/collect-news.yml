@@ -32,6 +32,9 @@ jobs:
       - name: Collect MOE Policy (HTML)
         run: node scripts/collect-moe-policy.js
 
+      - name: Collect Employment Policy (Multi-source)
+        run: node scripts/collect-policy.js
+
       - name: Collect Job Market Reports (News RSS)
         run: node scripts/collect-job-reports.js
 

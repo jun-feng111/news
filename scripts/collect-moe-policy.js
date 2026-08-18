@@ -1,6 +1,10 @@
-// 抓取教育部「高校毕业生就业创业」政策文件目录，作为"就业"板块的权威政策源。
+// 抓取教育部「高校毕业生就业创业」政策文件目录，作为"政策"板块的权威政策源。
 // 采集器 collect-rss.js 只支持 RSS，而教育部无 RSS，故这里单独做 HTML 目录解析。
 // 产出结构与 raw-articles.json 完全一致，下游 fetch-content / ai-process / cluster 照常处理。
+//
+// 说明：早期版本曾把教育部政策归到"就业"分类，导致"政策"板块反而没有大学生就业创业政策，
+// 全被中新网时政/滚动的灾害体育新闻占据。现已纠正：教育部政策归到"政策"板块，
+// 与"就业"板块（招聘/求职/秋招等市场动态）形成互补。
 
 import fs from 'node:fs'
 import path from 'node:path'
@@ -14,7 +18,7 @@ const RAW_PATH = path.join(DATA_DIR, 'raw-articles.json')
 // 教育部「高校毕业生就业创业」政策文件目录页
 const CATALOG_URL = 'https://www.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_bysjycy/bysjycy_bsxwj'
 const SOURCE_NAME = '教育部'
-const CATEGORY = '就业'
+const CATEGORY = '政策'
 
 function fetchText(url) {
   const mod = url.startsWith('https') ? https : http
@@ -76,14 +80,22 @@ async function main() {
     return
   }
 
-  const NINETY_DAYS = 90 * 86400000
+  // 政策生命周期长（一个就业创业政策通常管 1-3 年，且有年度性质如 2024届/2025届/2026届），
+  // 用 730 天（2 年）窗口保留历届政策，让"政策"板块有足够内容做历年对比。
+  // 早期 90 天过滤太严，导致只有 2 条近 3 个月政策。
+  const POLICY_WINDOW = 730 * 86400000
   let added = 0
   for (const it of items) {
     const id = crypto.createHash('md5').update(it.url).digest('hex').slice(0, 12)
-    if (existingIds.has(id)) continue
-    // 只保留近 90 天政策，避免 2024/2025 历史存量污染"就业"板块
+    // 教育部政策归到"政策"板块：即使 raw 里已存旧分类(就业)，也强制覆盖为"政策"
+    if (existingIds.has(id)) {
+      const idx = existing.findIndex(a => a.id === id)
+      if (idx >= 0 && existing[idx].category !== CATEGORY) existing[idx].category = CATEGORY
+      continue
+    }
+    // 保留近 730 天政策（政策生命周期长，比新闻放宽）
     const pubTime = new Date(it.published).getTime()
-    if (!isNaN(pubTime) && Date.now() - pubTime > NINETY_DAYS) continue
+    if (!isNaN(pubTime) && Date.now() - pubTime > POLICY_WINDOW) continue
     existing.push({
       id,
       title: it.title,
@@ -100,7 +112,7 @@ async function main() {
 
   if (!fs.existsSync(DATA_DIR)) fs.mkdirSync(DATA_DIR, { recursive: true })
   fs.writeFileSync(RAW_PATH, JSON.stringify(existing, null, 2))
-  console.log(`教育部政策并入完成: 新增 ${added} 条，当前 raw 共 ${existing.length} 条`)
+  console.log(`教育部政策并入完成: 新增 ${added} 条，当前 raw 共 ${existing.length} 条（归到"政策"板块）`)
 }
 
 main().catch(console.error)
