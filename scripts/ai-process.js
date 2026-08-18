@@ -254,6 +254,12 @@ async function processArticle(article) {
     article.contentZh = article.contentFull
   }
 
+  // 强制翻译的 AI/科技 旧文：还原原始分类，避免被 AI 误归其它类
+  if (article.__origCat) {
+    article.category = article.__origCat
+    delete article.__origCat
+  }
+
   return stat
 }
 
@@ -271,13 +277,17 @@ async function main() {
   let fresh = []
   let skippedOld = 0
 
+  // AI/科技 多为英文源（TechCrunch 等），需始终翻译，不受 48h 新鲜度窗口限制
+  const FORCE_AI_CATS = new Set(['AI', '科技'])
+
   if (!API_KEY) {
     console.warn('⚠️ 未设置 AI_API_KEY，全部文章改用启发式摘要（不调 AI）')
   } else {
     for (const a of articles) {
       const pub = a.published ? new Date(a.published).getTime() : NaN
       const isFresh = isNaN(pub) ? true : (now - pub <= FRESH_WINDOW_MS)
-      if (!isFresh) {
+      const forceAI = FORCE_AI_CATS.has(a.category)
+      if (!isFresh && !forceAI) {
         if (!a.summary) a.summary = simpleSummary(a)
         if (!a.score) a.score = simpleScore(a)
         if (!a.category) a.category = simpleCategory(a)
@@ -285,9 +295,13 @@ async function main() {
         skippedOld++
         continue
       }
+      // 超窗口但被强制处理的旧 AI/科技 文章：记录原分类，处理完还原，避免被 AI 误归其它类
+      if (forceAI && !isFresh) a.__origCat = a.category
       fresh.push(a)
     }
-    console.log(`新鲜(${FRESH_WINDOW_MS / 3600000}h内) ${fresh.length} 篇将调 AI；跳过旧文 ${skippedOld} 篇用启发式`)
+    // 优先处理 48h 内新鲜文；AI/科技 旧文（强制翻译）排到后面，避免预算耗尽时饿死新鲜文
+    fresh.sort((a, b) => (a.__origCat ? 1 : 0) - (b.__origCat ? 1 : 0))
+    console.log(`将调 AI ${fresh.length} 篇（含强制翻译的 AI/科技 旧文）；跳过其余旧文 ${skippedOld} 篇用启发式`)
   }
 
   let aiCount = 0, failCount = 0, transCount = 0
