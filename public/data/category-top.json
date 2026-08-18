@@ -218,7 +218,6 @@
       "source": "Bing·高校毕业生就业创业政策",
       "category": "政策",
       "published": "2026-08-13T14:25:00.000Z",
-      "image": "https://img.chengdu.cn/templates/chengdu/i19/images/side_weibo_hs.png",
       "score": 50,
       "tags": []
     },
@@ -249,6 +248,15 @@
       "tags": []
     },
     {
+      "id": "4b5541f6e8fe",
+      "title": "Snowflake CoCo AI 成本优化指南：7 个关键方法 | 技术实践",
+      "url": "https://www.infoq.cn/article/pOfV96f9DHG9Cw1KQAZB?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-18T16:29:05.000Z",
+      "image": "https://static001.infoq.cn/resource/image/5e/68/5e0d76ec9728090617596d6733b74c68.png"
+    },
+    {
       "id": "6cc46385228f",
       "title": "共识之外：Linux 生态系统中 AI 政策的碎片化现象",
       "url": "https://www.infoq.cn/article/jsqPaMGuPXFkhifJmTym?utm_source=rss&amp;utm_medium=article",
@@ -274,15 +282,6 @@
       "category": "开发",
       "published": "2026-08-18T14:46:57.000Z",
       "image": "https://static001.infoq.cn/resource/image/13/93/1333bf99983d5e81ed919fb5d21cd693.jpg"
-    },
-    {
-      "id": "7491b2faf4e2",
-      "title": "Stripe 利用 Graph Search 和状态机实现数据库修复自动化",
-      "url": "https://www.infoq.cn/article/lHpgJMVERySthZ0KKIg4?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-08-18T14:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/f7/a6/f70ea662e9c9bc408dcc9ba00cfd9da6.jpg"
     }
   ],
   "社会": [
@@ -354,7 +353,7 @@
       "url": "http://www.chinanews.com.cn/gn/news/2008/01-23/1143269.shtml",
       "source": "中新网时政",
       "category": "综合",
-      "published": "2026-08-18T08:36:16.911Z",
+      "published": "2026-08-18T09:03:37.335Z",
       "image": "http://www.chinanews.com.cn/fileftp/2007/12/2007-12-13/U31P4T47D7993F967DT20071213101145.gif"
     },
     {
@@ -363,7 +362,7 @@
       "url": "http://www.chinanews.com.cn/gn/news/2008/01-23/1143156.shtml",
       "source": "中新网时政",
       "category": "综合",
-      "published": "2026-08-18T08:36:16.911Z",
+      "published": "2026-08-18T09:03:37.335Z",
       "image": "http://www.chinanews.com.cn/kpimg/2.gif"
     },
     {
@@ -372,7 +371,7 @@
       "url": "http://www.chinanews.com.cn/gn/news/2008/01-23/1143153.shtml",
       "source": "中新网时政",
       "category": "综合",
-      "published": "2026-08-18T08:36:16.911Z",
+      "published": "2026-08-18T09:03:37.335Z",
       "image": "http://www.chinanews.com.cn/kpimg/2.gif"
     },
     {
@@ -381,7 +380,7 @@
       "url": "http://www.chinanews.com.cn/gn/news/2008/01-23/1143148.shtml",
       "source": "中新网时政",
       "category": "综合",
-      "published": "2026-08-18T08:36:16.911Z",
+      "published": "2026-08-18T09:03:37.335Z",
       "image": "http://www.chinanews.com.cn/kpimg/2.gif"
     },
     {
@@ -390,54 +389,54 @@
       "url": "http://www.chinanews.com.cn/gn/news/2008/01-23/1143133.shtml",
       "source": "中新网时政",
       "category": "综合",
-      "published": "2026-08-18T08:36:16.911Z",
+      "published": "2026-08-18T09:03:37.335Z",
       "image": "http://www.chinanews.com.cn/kpimg/2.gif"
     }
   ],
   "财经": [
     {
-      "id": "eff7bae00100",
-      "title": "中广核北方中心落地雄安 能源产业集聚效应日益凸显",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679701.shtml",
+      "id": "6809548b731b",
+      "title": "市场监管总局：截至7月底，下沉市场在册个体工商户数量是企业数量的2倍多",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679718.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-18T08:33:20.000Z",
+      "published": "2026-08-18T08:59:47.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "978b8ce00c75",
-      "title": "“一辆车”见证产业跃迁 “中国车谷”迈向世界舞台",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679694.shtml",
+      "id": "0a053d569c9a",
+      "title": "湖南破题网络交易监管“末梢” 构建监管新机制",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679742.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-18T08:33:16.000Z",
+      "published": "2026-08-18T08:57:15.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "7d2f9050fe86",
-      "title": "面向未来 外资车企逆势“加码”中国市场",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679712.shtml",
+      "id": "b85918537e6b",
+      "title": "跨境贸易便利再升级 成都“空侧直装”监管模式正式落地",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679730.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-18T08:32:48.000Z",
+      "published": "2026-08-18T08:46:55.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "9d7c25592955",
-      "title": "上半年东莞市场采购贸易申报出口货值同比增长超30%",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679691.shtml",
+      "id": "61528b884a60",
+      "title": "2026国际智慧渔业和水产大会开幕 发布智慧渔业公开数据集和“范蠡大模型4.0”",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679728.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-18T08:28:44.000Z",
+      "published": "2026-08-18T08:45:59.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "9d1388826494",
-      "title": "深圳地铁25号线四工区华富站主体结构封顶",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679689.shtml",
+      "id": "686fa876cf97",
+      "title": "“新”“智”“绿”，促动能转换提速",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679680.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-18T08:26:46.000Z",
+      "published": "2026-08-18T08:36:22.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
