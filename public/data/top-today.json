@@ -1,29 +1,5 @@
 [
   {
-    "id": "ae374bc00228",
-    "title": "Alvys launches AI agents for freight TMS workflows",
-    "url": "https://www.artificialintelligence-news.com/news/alvys-ai-agents-freight-tms/",
-    "summary": "Freight software provider Alvys has launched an agentic AI platform that allows carriers and brokers",
-    "source": "AI News",
-    "category": "AI",
-    "published": "2026-08-18T12:00:00.000Z",
-    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/Alvys-launches-AI-agents-for-freight-TMS-workflows-scaled-e1787045759798.jpg",
-    "score": 80,
-    "tags": []
-  },
-  {
-    "id": "6b203e98e0f0",
-    "title": "Reading Zhipu&#8217;s GLM-5.3 results past the headline number",
-    "url": "https://www.artificialintelligence-news.com/news/zhipu-glm-5-3-benchmarks-explained/",
-    "summary": "Zhipu&#8217;s&#160;release note&#160;for GLM-5。3 contains a sentence that did not make it into most ",
-    "source": "AI News",
-    "category": "AI",
-    "published": "2026-08-18T10:00:00.000Z",
-    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/Screenshot-2026-08-18-at-3.04.48-PM.png",
-    "score": 80,
-    "tags": []
-  },
-  {
     "id": "38269b8f7f4f",
     "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
     "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
@@ -36,14 +12,14 @@
     "tags": []
   },
   {
-    "id": "2499b38f4a46",
-    "title": "OpenAI president urges enterprises to hasten AI security defences",
-    "url": "https://www.artificialintelligence-news.com/news/openai-president-urges-enterprises-hasten-ai-security-defences/",
-    "summary": "OpenAI president and co-founder Greg Brockman warns that enterprise security teams face a compressed",
-    "source": "AI News",
+    "id": "0bfb066bf07c",
+    "title": "OpenAI institutes new safeguards after Hugging Face breach",
+    "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+    "summary": "OpenAI institutes new safeguards after Hugging Face breach",
+    "source": "TechCrunch",
     "category": "AI",
-    "published": "2026-08-18T14:58:27.000Z",
-    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/openai-president-greg-brockman-ai-security-defences-infosec-cyber-enterprise-agentic-automation.jpg",
+    "published": "2026-08-18T18:00:00.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
     "score": 75,
     "tags": []
   },
@@ -56,7 +32,7 @@
     "category": "科技",
     "published": "2026-08-18T20:36:20.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1027979078-604311108-composite.jpg?resize=1200,675",
-    "score": 75,
+    "score": 70,
     "tags": []
   },
   {
@@ -68,19 +44,7 @@
     "category": "科技",
     "published": "2026-08-18T20:03:56.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259084458.jpg?resize=1200,801",
-    "score": 75,
-    "tags": []
-  },
-  {
-    "id": "0bfb066bf07c",
-    "title": "OpenAI institutes new safeguards after Hugging Face breach",
-    "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-    "summary": "OpenAI institutes new safeguards after Hugging Face breach",
-    "source": "TechCrunch",
-    "category": "AI",
-    "published": "2026-08-18T18:00:00.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
-    "score": 75,
+    "score": 70,
     "tags": []
   },
   {
@@ -117,6 +81,42 @@
     "published": "2026-08-18T17:12:13.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2024/01/app-store-2024-v3.jpg?resize=1200,675",
     "score": 70,
+    "tags": []
+  },
+  {
+    "id": "ea6ea361e558",
+    "title": "Bluesky says its recent outage was caused by another DDoS attack",
+    "url": "https://techcrunch.com/2026/08/18/bluesky-says-its-recent-outage-was-caused-by-another-ddos-attack/",
+    "summary": "Bluesky says its recent outage was caused by another DDoS attack",
+    "source": "TechCrunch",
+    "category": "科技",
+    "published": "2026-08-18T15:59:48.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/bluesky-GettyImages-2185144073.jpg?w=1024",
+    "score": 70,
+    "tags": []
+  },
+  {
+    "id": "9b36c6ccf330",
+    "title": "共创1000个AI场景 上海交大成立AI时代商科人才培养联盟",
+    "url": "https://www.chinanews.com.cn/edu/2026/08-16/10678776.shtml",
+    "summary": "中新网上海8月16日电 (记者 许婧)在16日举办的上海交大AI时代产业创新管理论坛暨交大安泰MBA“智能时代五链人才”培养体系发布会上，上海交大宣布联合上海市人工智能协会、上海市人工智能研究院、上海",
+    "source": "中新网教育",
+    "category": "社会",
+    "published": "2026-08-16T13:03:06.000Z",
+    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+    "score": 65,
+    "tags": []
+  },
+  {
+    "id": "372dd8a174f7",
+    "title": "[合肥/多城市][科大讯飞内推] 大模型 / Agent / AI Infra / Java / 全栈 / 测试 / 数据 / 架构",
+    "url": "https://www.v2ex.com/t/1234676#reply2",
+    "summary": "[合肥/多城市][科大讯飞内推] 大模型 / Agent / AI Infra / Java / 全栈 / 测试 / 数据 / 架构",
+    "source": "V2EX·招聘",
+    "category": "就业",
+    "published": "2026-08-15T13:51:14.000Z",
+    "image": "https://cdn.v2ex.com/gravatar/e689b89f1c3831aa170bab72c84d2003?s=73&d=retro",
+    "score": 65,
     "tags": []
   }
 ]

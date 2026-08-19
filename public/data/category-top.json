@@ -1,63 +1,4 @@
 {
-  "AI": [
-    {
-      "id": "ae374bc00228",
-      "title": "Alvys launches AI agents for freight TMS workflows",
-      "url": "https://www.artificialintelligence-news.com/news/alvys-ai-agents-freight-tms/",
-      "summary": "Freight software provider Alvys has launched an agentic AI platform that allows carriers and brokers",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-08-18T12:00:00.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/Alvys-launches-AI-agents-for-freight-TMS-workflows-scaled-e1787045759798.jpg",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "6b203e98e0f0",
-      "title": "Reading Zhipu&#8217;s GLM-5.3 results past the headline number",
-      "url": "https://www.artificialintelligence-news.com/news/zhipu-glm-5-3-benchmarks-explained/",
-      "summary": "Zhipu&#8217;s&#160;release note&#160;for GLM-5。3 contains a sentence that did not make it into most ",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-08-18T10:00:00.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/Screenshot-2026-08-18-at-3.04.48-PM.png",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "2499b38f4a46",
-      "title": "OpenAI president urges enterprises to hasten AI security defences",
-      "url": "https://www.artificialintelligence-news.com/news/openai-president-urges-enterprises-hasten-ai-security-defences/",
-      "summary": "OpenAI president and co-founder Greg Brockman warns that enterprise security teams face a compressed",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-08-18T14:58:27.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/openai-president-greg-brockman-ai-security-defences-infosec-cyber-enterprise-agentic-automation.jpg",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "0bfb066bf07c",
-      "title": "OpenAI institutes new safeguards after Hugging Face breach",
-      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-      "summary": "OpenAI institutes new safeguards after Hugging Face breach",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-18T18:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "893e4fe5644e",
-      "title": "Samsung health AI models analyse wearable biosignal data",
-      "url": "https://www.artificialintelligence-news.com/news/samsung-health-ai-models-analyse-wearable-biosignal-data/",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-08-14T13:30:10.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/samsung-galaxy-watch-health-AI-models-analyse-wearable-biosignal-data-ecg-heart-digital-foundation-artificial-intelligence.jpg"
-    }
-  ],
   "开发": [
     {
       "id": "38269b8f7f4f",
@@ -84,6 +25,15 @@
       "tags": []
     },
     {
+      "id": "9398ccbf5e32",
+      "title": "让 Agent 真正驱动销售增长——FDE 模式下的业务流重构实战｜AICon深圳",
+      "url": "https://www.infoq.cn/article/vrlSsJUrdpfGqsj3CTZK?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-19T10:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/dd/45/ddd9b522afe16278ba0e82fedd773c45.jpg"
+    },
+    {
       "id": "68472270a8ed",
       "title": "谷歌发布 Angular v22，带来稳定的 Signal Forms、默认启用的 OnPush 以及实验性的 WebMCP",
       "url": "https://www.infoq.cn/article/J7CiEHSU79e9TYi3soro?utm_source=rss&amp;utm_medium=article",
@@ -100,15 +50,32 @@
       "category": "开发",
       "published": "2026-08-18T16:29:05.000Z",
       "image": "https://static001.infoq.cn/resource/image/5e/68/5e0d76ec9728090617596d6733b74c68.png"
+    }
+  ],
+  "AI": [
+    {
+      "id": "0bfb066bf07c",
+      "title": "OpenAI institutes new safeguards after Hugging Face breach",
+      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "summary": "OpenAI institutes new safeguards after Hugging Face breach",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-18T18:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
+      "score": 75,
+      "tags": []
     },
     {
-      "id": "6cc46385228f",
-      "title": "共识之外：Linux 生态系统中 AI 政策的碎片化现象",
-      "url": "https://www.infoq.cn/article/jsqPaMGuPXFkhifJmTym?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-08-18T16:15:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/6c/e1/6cf27976fb782fa8ba3732d04ecec2e1.jpg"
+      "id": "7e22fac6343e",
+      "title": "Why Apple&#8217;s camera-equipped AirPods may not be the &#8216;pervert pods&#8217; consumers fear",
+      "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+      "summary": "Why Apple&#8217;s camera-equipped AirPods may not be the &#8216;pervert pods&#8217; consumers fear",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-18T16:19:10.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/airpods-with-cameras.jpeg?w=1000",
+      "score": 60,
+      "tags": []
     }
   ],
   "科技": [
@@ -121,7 +88,7 @@
       "category": "科技",
       "published": "2026-08-18T20:36:20.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1027979078-604311108-composite.jpg?resize=1200,675",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -133,7 +100,7 @@
       "category": "科技",
       "published": "2026-08-18T20:03:56.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259084458.jpg?resize=1200,801",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -330,6 +297,7 @@
       "source": "就业创业政策",
       "category": "政策",
       "published": "2026-07-16T01:51:00.000Z",
+      "image": "https://news.66wz.com/pic/003/013/337/00301333742_93765919.gif",
       "score": 55,
       "tags": []
     },
@@ -360,48 +328,48 @@
   ],
   "财经": [
     {
-      "id": "6123ad17763d",
-      "title": "新国标发布，化妆品怎么选？儿童产品需标“小金盾”",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680011.shtml",
+      "id": "c4230c0ad1e4",
+      "title": "港股恒指小幅收涨 科技龙头企业AI业务稳步拓展",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680101.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-19T00:41:15.000Z",
+      "published": "2026-08-19T02:40:48.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "6a7ee31928e5",
-      "title": "再度“翻红” 定制汽车客运何以“加速跑”？",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680010.shtml",
+      "id": "b0042b9e5fb7",
+      "title": "直播海报：国新办就发挥积极财政政策作用，推动经济社会高质量发展有关情况举行发布会",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680099.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-19T00:39:37.000Z",
+      "published": "2026-08-19T02:31:40.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "3b282759610c",
-      "title": "市场监管部门加强商业秘密保护 助力产业创新发展",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10679989.shtml",
+      "id": "edeef11ca2dc",
+      "title": "直播海报：从炫技到实用 在世界机器人大会见证技术之变",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680094.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-18T23:18:26.000Z",
+      "published": "2026-08-19T02:29:50.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "e97707666296",
-      "title": "满足多样化、高品质出行需求正成为行业共识",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679955.shtml",
+      "id": "6c36bf1a1317",
+      "title": "激发下沉市场活力、活跃县域消费，该从何发力？",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680073.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-18T15:02:39.000Z",
+      "published": "2026-08-19T02:21:55.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "49cefd97f6f1",
-      "title": "（投资中国）德企阿玛松增资扩产天津二期项目 拟建北方总部",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-18/10679952.shtml",
+      "id": "e43117d43048",
+      "title": "三个关键词勾勒前7个月国民经济高质量发展图景",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680074.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-18T14:03:55.000Z",
+      "published": "2026-08-19T02:20:43.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
