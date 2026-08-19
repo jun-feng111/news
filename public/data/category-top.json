@@ -1,6 +1,18 @@
 {
   "AI": [
     {
+      "id": "d306eafa18af",
+      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+      "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+      "summary": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-19T22:10:46.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544149.jpg?resize=1200,800",
+      "score": 80,
+      "tags": []
+    },
+    {
       "id": "88cde3112e54",
       "title": "AI was supposed to win people over by now &#8212; it hasn&#8217;t",
       "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
@@ -47,21 +59,21 @@
       "image": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-914452330.jpg?resize=1200,800",
       "score": 80,
       "tags": []
-    },
-    {
-      "id": "ae374bc00228",
-      "title": "Alvys launches AI agents for freight TMS workflows",
-      "url": "https://www.artificialintelligence-news.com/news/alvys-ai-agents-freight-tms/",
-      "summary": "Freight software provider Alvys has launched an agentic AI platform that allows carriers and brokers",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-08-18T12:00:00.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/Alvys-launches-AI-agents-for-freight-TMS-workflows-scaled-e1787045759798.jpg",
-      "score": 75,
-      "tags": []
     }
   ],
   "科技": [
+    {
+      "id": "6aba2536a5ec",
+      "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+      "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+      "summary": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-19T21:51:23.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Scott-Wu-of-Cognition.jpg?w=1024",
+      "score": 75,
+      "tags": []
+    },
     {
       "id": "f1ebc9f8ed4c",
       "title": "Gwyneth Paltrow allegedly set to throw dinner in honor of Sam Altman",
@@ -87,6 +99,18 @@
       "tags": []
     },
     {
+      "id": "d3297bafc197",
+      "title": "Travis Kalanick kicks off another round of VC bashing: &#8216;1% are helpful&#8217;",
+      "url": "https://techcrunch.com/2026/08/19/travis-kalanick-kicks-off-another-round-of-vc-bashing-1-are-helpful/",
+      "summary": "Travis Kalanick kicks off another round of VC bashing: &#8216;1% are helpful&#8217;",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-19T21:48:24.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/travis-kalanick-fii.jpg?resize=1200,800",
+      "score": 65,
+      "tags": []
+    },
+    {
       "id": "ed148be24ca5",
       "title": "T-Mobile &#8216;chopped a cable&#8217; to expel Chinese hackers from its network",
       "url": "https://techcrunch.com/2026/08/19/t-mobile-chopped-a-cable-to-expel-chinese-hackers-from-its-network/",
@@ -94,24 +118,6 @@
       "category": "科技",
       "published": "2026-08-19T17:26:32.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2025/01/t-mobile-store-times-square.jpg?resize=1200,800"
-    },
-    {
-      "id": "0cf7bd58091f",
-      "title": "Time&#8217;s running out! Save $300 on your TechCrunch Disrupt 2026 pass until August 21",
-      "url": "https://techcrunch.com/2026/08/19/times-running-out-save-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-19T16:16:18.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-Space-Stage-Even-Rogers.jpg?resize=1200,800"
-    },
-    {
-      "id": "b7d34b8d601d",
-      "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
-      "url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-19T15:44:53.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/terrapower-power-plant.jpg?resize=1200,675"
     }
   ],
   "社会": [
@@ -352,6 +358,24 @@
   ],
   "财经": [
     {
+      "id": "414a20cac0e7",
+      "title": "手机充电为什么越来越快",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10680723.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-08-19T22:12:36.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "898099d4b0e5",
+      "title": "国际市场仍为中国航空货运重要增长点",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10680715.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-08-19T22:06:28.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
       "id": "8075df53b075",
       "title": "业内人士：AI时代，内容体系将进一步扩展",
       "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680700.shtml",
@@ -376,24 +400,6 @@
       "source": "中新网财经",
       "category": "财经",
       "published": "2026-08-19T13:56:39.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "9128c6571719",
-      "title": "上厅堂下厨房   中国机器人努力成为“生活搭子”",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680673.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-08-19T13:56:23.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "24531ddb9616",
-      "title": "“中国荔乡”广东茂名今年荔枝出口收官",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680668.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-08-19T13:46:06.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
