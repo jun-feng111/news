@@ -1,0 +1,7 @@
+{
+  "id": "244cc3c068a0",
+  "title": "Skill 的使用：从路径到能力边界 - AlfredZhao",
+  "url": "https://www.cnblogs.com/jyzhao/p/22579144",
+  "contentZh": "",
+  "contentFull": "\n    \n    \n2026-08-19 20:28 \nAlfredZhao \n阅读(0) \n评论() \n \n收藏 \n举报\n\nSkill 可以理解为一套可复用的工作说明，用来告诉 AI 在特定任务中该如何行动、遵循哪些规则。\n例如，gstack/office-hours/SKILL.md 表示一个位于 gstack 项目中、名为 office-hours 的 Skill 说明文件。SKILL.md 通常用于定义该能力的用途、操作步骤与约束。\nsuperpowers 则可以理解为另一组可调用的能力或工具集合。实际使用时，需要结合其提供的说明，确认适用场景与调用方式。\n01 | 使用 Skill 的基本思路\n先确认任务类型，再选择对应的 Skill。例如，写作、代码开发、知识整理等任务，往往需要不同的能力说明。\nSkill 的价值不只是“增加功能”，更重要的是让执行方式保持一致：知道该做什么，也知道哪些事情不该做。\n02 | 关注 SKILL.md 的约束\n使用前应重点关注 SKILL.md 中定义的内容，包括：\n\nSkill 的适用范围\n输入与输出要求\n操作流程\n安全或格式限制\n\n这样可以避免把不相关的能力用于当前任务，也能让结果更符合预期。\n03 | 让能力服务于任务\n无论是 gstack/office-hours/SKILL.md，还是 superpowers，核心都不是记住名称，而是理解它们解决什么问题，并在合适的场景下使用。\n关注我，和AI一起成长~\n\n\n\n    \n        \n    \n"
+}

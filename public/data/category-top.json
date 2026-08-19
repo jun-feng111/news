@@ -1,120 +1,17 @@
 {
-  "AI": [
-    {
-      "id": "ae374bc00228",
-      "title": "Alvys launches AI agents for freight TMS workflows",
-      "url": "https://www.artificialintelligence-news.com/news/alvys-ai-agents-freight-tms/",
-      "summary": "Freight software provider Alvys has launched an agentic AI platform that allows carriers and brokers",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-08-18T12:00:00.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/Alvys-launches-AI-agents-for-freight-TMS-workflows-scaled-e1787045759798.jpg",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "2499b38f4a46",
-      "title": "OpenAI president urges enterprises to hasten AI security defences",
-      "url": "https://www.artificialintelligence-news.com/news/openai-president-urges-enterprises-hasten-ai-security-defences/",
-      "summary": "OpenAI president and co-founder Greg Brockman warns that enterprise security teams face a compressed",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-08-18T14:58:27.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/openai-president-greg-brockman-ai-security-defences-infosec-cyber-enterprise-agentic-automation.jpg",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "6b203e98e0f0",
-      "title": "Reading Zhipu&#8217;s GLM-5.3 results past the headline number",
-      "url": "https://www.artificialintelligence-news.com/news/zhipu-glm-5-3-benchmarks-explained/",
-      "summary": "Zhipu&#8217;s&#160;release note&#160;for GLM-5。3 contains a sentence that did not make it into most ",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-08-18T10:00:00.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/Screenshot-2026-08-18-at-3.04.48-PM.png",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "0bfb066bf07c",
-      "title": "OpenAI institutes new safeguards after Hugging Face breach",
-      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-      "summary": "OpenAI institutes new safeguards after Hugging Face breach",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-18T18:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "d205738f828c",
-      "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
-      "url": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
-      "summary": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-19T10:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-18-at-5.17.16-PM.jpg?resize=1200,772",
-      "score": 65,
-      "tags": []
-    }
-  ],
-  "开发": [
-    {
-      "id": "38269b8f7f4f",
-      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-      "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-      "summary": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-      "source": "TechCrunch",
-      "category": "开发",
-      "published": "2026-08-18T22:14:25.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/cursor.jpg?resize=1200,800",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "c74b255a8192",
-      "title": "科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识",
-      "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html",
-      "summary": "这里记录每周值得分享的科技内容，周五发布",
-      "source": "阮一峰",
-      "category": "开发",
-      "published": "2026-08-13T23:54:49.000Z",
-      "image": "",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "c94034b4f9d3",
-      "title": "Pinterest 如何通过集中式 Terraform 管道在大规模环境中保障 AWS 基础设施的安全",
-      "url": "https://www.infoq.cn/article/0AR0FaYEllc9tk7iWu9U?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-08-19T17:41:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/14/55/145e93bb901ac4d572e11d90d606a155.jpg"
-    },
-    {
-      "id": "51416fbf8736",
-      "title": "2026 世界杯：一个通过与 CoCo 对话构建的实时应用 | 技术实践",
-      "url": "https://www.infoq.cn/article/ZZYxRqKglT4RpYO454K3?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-08-19T17:12:42.000Z",
-      "image": "https://static001.infoq.cn/resource/image/f6/69/f6cb8b5039d717732b8a5c18fee56e69.png"
-    },
-    {
-      "id": "896d41f53d19",
-      "title": "明道云举办首届 Real AI Contest，面向真实落地的企业 AI 应用",
-      "url": "https://xie.infoq.cn/article/6724ff083cc2192487d818695?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-08-19T15:50:11.000Z",
-      "image": "https://static001.infoq.cn/static/write/img/write-favicon.jpg"
-    }
-  ],
   "科技": [
+    {
+      "id": "cdd5fddf71dd",
+      "title": "You can Venmo your college tuition, for some reason",
+      "url": "https://techcrunch.com/2026/08/19/you-can-venmo-your-college-tuition-for-some-reason/",
+      "summary": "You can Venmo your college tuition, for some reason",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-19T12:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-1231192043.jpg?resize=1200,800",
+      "score": 75,
+      "tags": []
+    },
     {
       "id": "c48b408163b2",
       "title": "DOJ&#8217;s probe into Andreessen Horowitz over board seats baffles VCs",
@@ -162,15 +59,97 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/07/Etched-co-founder-COO-Robert-Wachen.jpg?resize=1200,1200",
       "score": 70,
       "tags": []
+    }
+  ],
+  "开发": [
+    {
+      "id": "38269b8f7f4f",
+      "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+      "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+      "summary": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+      "source": "TechCrunch",
+      "category": "开发",
+      "published": "2026-08-18T22:14:25.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/cursor.jpg?resize=1200,800",
+      "score": 75,
+      "tags": []
     },
     {
-      "id": "24490df0ac4a",
-      "title": "Apple overhauls its EU App Store fees, loosens rules for alternative app stores",
-      "url": "https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/",
+      "id": "c74b255a8192",
+      "title": "科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识",
+      "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html",
+      "summary": "这里记录每周值得分享的科技内容，周五发布",
+      "source": "阮一峰",
+      "category": "开发",
+      "published": "2026-08-13T23:54:49.000Z",
+      "image": "",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "ac186a464869",
+      "title": "AI爬虫涌入电商，安全防线正在从“拦截”转向“判断”",
+      "url": "https://www.infoq.cn/article/61DFAJiVlqlaWQXi9kzA?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-19T20:32:05.000Z",
+      "image": "https://static001.infoq.cn/resource/image/23/c1/23d98cf98e298f0yy226e0a0596df3c1.png"
+    },
+    {
+      "id": "d7a5e950b9bd",
+      "title": "中国“机器人第一股”来了，宇树科技开盘暴涨 620%",
+      "url": "https://www.infoq.cn/article/Ae1KpZ9eIJD2V4DcQ0Au?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-19T20:19:24.000Z",
+      "image": "https://static001.infoq.cn/resource/image/b7/85/b701a0cd77f7e2d177f40449e8eb9385.png"
+    },
+    {
+      "id": "e2ccee60cbcd",
+      "title": "OpenAI 因安全问题突然停训GPT-6！网友：当你造出一个神，就不可能再给它拴上绳子",
+      "url": "https://www.infoq.cn/article/BLfF9zUGrzpqJ5QbSBJD?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-19T20:14:12.000Z",
+      "image": "https://static001.infoq.cn/resource/image/60/96/60bf2b0987b4899c7ee62671165e3a96.png"
+    }
+  ],
+  "AI": [
+    {
+      "id": "0bfb066bf07c",
+      "title": "OpenAI institutes new safeguards after Hugging Face breach",
+      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "summary": "OpenAI institutes new safeguards after Hugging Face breach",
       "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-18T17:12:13.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/01/app-store-2024-v3.jpg?resize=1200,675"
+      "category": "AI",
+      "published": "2026-08-18T18:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "fe46527ac030",
+      "title": "AI isn&#8217;t close to curing cancer. This startup says it knows what it will take.",
+      "url": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
+      "summary": "AI isn&#8217;t close to curing cancer。 This startup says it knows what it will take",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-19T12:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/IMG_0110-rotated.jpg?resize=900,1200",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "d205738f828c",
+      "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+      "url": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
+      "summary": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-19T10:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-18-at-5.17.16-PM.jpg?resize=1200,772",
+      "score": 65,
+      "tags": []
     }
   ],
   "社会": [
@@ -323,6 +302,18 @@
       "tags": []
     },
     {
+      "id": "27656dec4f7f",
+      "title": "湖南三部门关于进一步优化创业担保贷款政策 全力支持大学生等重点 ...",
+      "url": "https://news.qq.com/rain/a/20260817A092GS00",
+      "summary": "为进一步健全创业支持体系，提升创业质量，增强创业担保贷款政策的吸引力和可及性，强化对大学生等重点群体创业的金融支撑，根据省委、省政府促进创业带动就业的决策部署及支持大学生创业“七个一”行动要求，依据《",
+      "source": "Bing·大学生创业扶持政策",
+      "category": "政策",
+      "published": "2026-08-17T09:48:00.000Z",
+      "image": "",
+      "score": 55,
+      "tags": []
+    },
+    {
       "id": "ed0822808f9b",
       "title": "温州发布专项政策指南 为残疾人大学生就业创业“撑腰”",
       "url": "https://news.66wz.com/system/2026/07/16/105805829.shtml",
@@ -335,24 +326,13 @@
       "tags": []
     },
     {
-      "id": "6a12b15ecd81",
-      "title": "青年驿站、专场招聘 各地多措并举打好稳就业“组合拳” 促进高校 ...",
-      "url": "https://news.chengdu.cn/2026/0813/6a7dc59a4465eb1b354b80dc.shtml",
-      "summary": "就业是最基本的民生。暑期正值高校毕业生求职择业关键窗口期，各地多措并举、精准发力，持续夯实就业服务保障",
+      "id": "b0272c7d1ebf",
+      "title": "我的新疆日记&#183;第五天｜北庭与天山，在遗址与群山之间",
+      "url": "https://www.msn.cn/zh-cn/travel/户外活动/我的新疆日记-第五天-北庭与天山-在遗址与群山之间/ar-AA2aep1r",
+      "summary": "编者按：这几天，我随人民网2026“行进中国”调研行前往新疆维吾尔自治区采访，以日记的形式，记录一路的所见所闻、所思所感 ",
       "source": "Bing·高校毕业生就业创业政策",
       "category": "政策",
-      "published": "2026-08-13T14:25:00.000Z",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "70b8974c632f",
-      "title": "383个优质岗位、约200人达成就业意向!平远这场高校毕业生专场招聘 ...",
-      "url": "https://www.msn.com/zh-cn/news/other/383个优质岗位-约200人达成就业意向-平远这场高校毕业生专场招聘火热举办/ar-AA2a7a09",
-      "summary": "8月12日晚，平远县“筑梦青春&#183;就业启航”高校毕业生专场招聘暨人社政策宣传活动在大柘镇翠拥华庭广场举行。活动由平远县人力资源和社会保障局主办，创新采用“夜市招聘”模式，融合夜间经济与求职服务",
-      "source": "Bing·高校毕业生就业创业政策",
-      "category": "政策",
-      "published": "2026-08-14T05:37:16.000Z",
+      "published": "2026-08-15T23:23:00.000Z",
       "image": "",
       "score": 50,
       "tags": []
@@ -360,48 +340,48 @@
   ],
   "财经": [
     {
-      "id": "d52188fdfba3",
-      "title": "沪市科创板88家公司披露半年报 合计实现营业收入同比增长32%",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680560.shtml",
+      "id": "3300ce354ea4",
+      "title": "山西晋中：“十五五”煤炭稳产1.2亿吨 绿电占比超三分之二",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680603.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-19T11:12:23.000Z",
+      "published": "2026-08-19T12:34:14.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "d0e96ed2ddb9",
-      "title": "辽宁省规划2030年海洋生产总值突破8000亿元",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680561.shtml",
+      "id": "b25389fc9df8",
+      "title": "中澳两国央行续签双边本币互换协议",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680599.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-19T11:11:33.000Z",
+      "published": "2026-08-19T12:30:58.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "75a93d1d209b",
-      "title": "中国牵头制定的全球首个算电协同领域国际标准成功立项",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680557.shtml",
+      "id": "777403922bda",
+      "title": "前7个月经济数据，这个“50.9%”很关键",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680615.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-19T11:09:29.000Z",
+      "published": "2026-08-19T12:17:15.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "7bdd01512c6b",
-      "title": "宇树上市：王兴兴身家超千亿，梁文锋也赚翻了",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680543.shtml",
+      "id": "2a9fa6f119eb",
+      "title": "中国中车上半年营收、净利同比“双增”",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680586.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-19T11:01:08.000Z",
+      "published": "2026-08-19T11:53:23.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "5b33e19ac14d",
-      "title": "柚家客服回应厨房纸巾致癌物超标：相关产品已下架",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680541.shtml",
+      "id": "679ef1022bbd",
+      "title": "重庆今年以来办理“免申即领”建设用地规划许可证332个",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680568.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-19T11:00:26.000Z",
+      "published": "2026-08-19T11:26:52.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
