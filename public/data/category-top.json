@@ -1,6 +1,18 @@
 {
   "AI": [
     {
+      "id": "da3d698d8f48",
+      "title": "Meet the startup helping Wall Street put a price on AI compute",
+      "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+      "summary": "Meet the startup helping Wall Street put a price on AI compute",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-19T17:26:48.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-914452330.jpg?resize=1200,800",
+      "score": 80,
+      "tags": []
+    },
+    {
       "id": "b7d34b8d601d",
       "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
       "url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
@@ -47,31 +59,19 @@
       "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/Screenshot-2026-08-18-at-3.04.48-PM.png",
       "score": 75,
       "tags": []
-    },
-    {
-      "id": "16e5ade211d0",
-      "title": "Rivian spinout Also raises another $150M",
-      "url": "https://techcrunch.com/2026/08/19/rivian-spinout-also-raises-another-150-million/",
-      "summary": "Rivian spinout Also raises another $150M",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-19T15:39:47.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/10/Also-quad-cargo-commercial.jpg?resize=1200,900",
-      "score": 75,
-      "tags": []
     }
   ],
   "科技": [
     {
-      "id": "759443956e5c",
-      "title": "Calendly throws its hat into meeting note-taker circus",
-      "url": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
-      "summary": "Calendly throws its hat into meeting note-taker circus",
+      "id": "ed148be24ca5",
+      "title": "T-Mobile &#8216;chopped a cable&#8217; to expel Chinese hackers from its network",
+      "url": "https://techcrunch.com/2026/08/19/t-mobile-chopped-a-cable-to-expel-chinese-hackers-from-its-network/",
+      "summary": "T-Mobile &#8216;chopped a cable&#8217; to expel Chinese hackers from its network",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-08-19T14:09:39.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Callie-email-experience.jpeg?resize=1200,675",
-      "score": 75,
+      "published": "2026-08-19T17:26:32.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/01/t-mobile-store-times-square.jpg?resize=1200,800",
+      "score": 65,
       "tags": []
     },
     {
@@ -87,6 +87,24 @@
       "tags": []
     },
     {
+      "id": "78fec483d4a0",
+      "title": "Amazon’s Prime Air is taking off in nearly 500 US cities",
+      "url": "https://techcrunch.com/2026/08/19/amazons-prime-air-is-taking-off-in-nearly-500-u-s-cities/",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-19T14:57:58.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/amazon-prime-air-2026.jpg?w=1200"
+    },
+    {
+      "id": "759443956e5c",
+      "title": "Calendly throws its hat into meeting note-taker circus",
+      "url": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-19T14:09:39.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Callie-email-experience.jpeg?resize=1200,675"
+    },
+    {
       "id": "308d959095d8",
       "title": "The founder&#8217;s secret weapon: Work at TechCrunch Disrupt 2026 and learn how the pros do it",
       "url": "https://techcrunch.com/2026/08/19/the-founders-secret-weapon-work-at-techcrunch-disrupt-2026-and-learn-how-the-pros-do-it/",
@@ -94,24 +112,6 @@
       "category": "科技",
       "published": "2026-08-19T14:02:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/TC-Disrupt-2025.jpg?resize=1200,800"
-    },
-    {
-      "id": "8b06d25a103d",
-      "title": "Home batteries are suddenly cheap and everywhere. Here’s why.",
-      "url": "https://techcrunch.com/2026/08/19/home-batteries-are-suddenly-cheap-and-everywhere-heres-why/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-19T13:40:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/10/68acb5c1066ca5f4d74bb99b_battery-p-3200.jpeg?resize=1200,901"
-    },
-    {
-      "id": "128efaba4f72",
-      "title": "CareCloud confirms 3.7M patients had their medical records stolen in data breach",
-      "url": "https://techcrunch.com/2026/08/19/carecloud-confirms-3-7m-patients-had-their-medical-records-stolen-in-data-breach/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-19T13:04:10.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2019/07/hacking-surveillance1.png?resize=1200,674"
     }
   ],
   "社会": [
@@ -333,6 +333,7 @@
       "source": "就业创业政策",
       "category": "政策",
       "published": "2026-07-16T01:51:00.000Z",
+      "image": "https://news.66wz.com/pic/003/013/337/00301333742_93765919.gif",
       "score": 55,
       "tags": []
     },
