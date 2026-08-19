@@ -1,4 +1,63 @@
 {
+  "AI": [
+    {
+      "id": "ae374bc00228",
+      "title": "Alvys launches AI agents for freight TMS workflows",
+      "url": "https://www.artificialintelligence-news.com/news/alvys-ai-agents-freight-tms/",
+      "summary": "Freight software provider Alvys has launched an agentic AI platform that allows carriers and brokers",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-08-18T12:00:00.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/Alvys-launches-AI-agents-for-freight-TMS-workflows-scaled-e1787045759798.jpg",
+      "score": 80,
+      "tags": []
+    },
+    {
+      "id": "6b203e98e0f0",
+      "title": "Reading Zhipu&#8217;s GLM-5.3 results past the headline number",
+      "url": "https://www.artificialintelligence-news.com/news/zhipu-glm-5-3-benchmarks-explained/",
+      "summary": "Zhipu&#8217;s&#160;release note&#160;for GLM-5。3 contains a sentence that did not make it into most ",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-08-18T10:00:00.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/Screenshot-2026-08-18-at-3.04.48-PM.png",
+      "score": 80,
+      "tags": []
+    },
+    {
+      "id": "2499b38f4a46",
+      "title": "OpenAI president urges enterprises to hasten AI security defences",
+      "url": "https://www.artificialintelligence-news.com/news/openai-president-urges-enterprises-hasten-ai-security-defences/",
+      "summary": "OpenAI president and co-founder Greg Brockman warns that enterprise security teams face a compressed",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-08-18T14:58:27.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/openai-president-greg-brockman-ai-security-defences-infosec-cyber-enterprise-agentic-automation.jpg",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "0bfb066bf07c",
+      "title": "OpenAI institutes new safeguards after Hugging Face breach",
+      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "summary": "OpenAI institutes new safeguards after Hugging Face breach",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-18T18:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "893e4fe5644e",
+      "title": "Samsung health AI models analyse wearable biosignal data",
+      "url": "https://www.artificialintelligence-news.com/news/samsung-health-ai-models-analyse-wearable-biosignal-data/",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-08-14T13:30:10.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/samsung-galaxy-watch-health-AI-models-analyse-wearable-biosignal-data-ecg-heart-digital-foundation-artificial-intelligence.jpg"
+    }
+  ],
   "开发": [
     {
       "id": "38269b8f7f4f",
@@ -25,6 +84,15 @@
       "tags": []
     },
     {
+      "id": "817480511134",
+      "title": "Canva 分享了基于 S3 的架构，用于管理数亿个会话的会话撤销",
+      "url": "https://www.infoq.cn/article/H74fUrce5mmYgtDtM8tI?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-19T14:24:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/47/e2/470f3c35e95741da7bd074285f4e1de2.jpg"
+    },
+    {
       "id": "0773b9431606",
       "title": "Valhalla 项目首次预览：JEP 401 重新定义 Java 对象的 == 运算符",
       "url": "https://www.infoq.cn/article/8grNo7eCm3Rly0NV8bcS?utm_source=rss&amp;utm_medium=article",
@@ -41,41 +109,6 @@
       "category": "开发",
       "published": "2026-08-19T11:14:23.000Z",
       "image": "https://static001.infoq.cn/resource/image/16/29/16e88779bc1a57307cae67985f3f7b29.jpg"
-    },
-    {
-      "id": "9398ccbf5e32",
-      "title": "让 Agent 真正驱动销售增长——FDE 模式下的业务流重构实战｜AICon深圳",
-      "url": "https://www.infoq.cn/article/vrlSsJUrdpfGqsj3CTZK?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-08-19T10:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/dd/45/ddd9b522afe16278ba0e82fedd773c45.jpg"
-    }
-  ],
-  "AI": [
-    {
-      "id": "0bfb066bf07c",
-      "title": "OpenAI institutes new safeguards after Hugging Face breach",
-      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-      "summary": "OpenAI institutes new safeguards after Hugging Face breach",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-18T18:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "7e22fac6343e",
-      "title": "Why Apple&#8217;s camera-equipped AirPods may not be the &#8216;pervert pods&#8217; consumers fear",
-      "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
-      "summary": "Why Apple&#8217;s camera-equipped AirPods may not be the &#8216;pervert pods&#8217; consumers fear",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-18T16:19:10.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/airpods-with-cameras.jpeg?w=1000",
-      "score": 60,
-      "tags": []
     }
   ],
   "科技": [
@@ -178,6 +211,18 @@
       "tags": []
     },
     {
+      "id": "cc3d86a547a1",
+      "title": "从校园到职场，如何补上沟通礼仪“必修课”？",
+      "url": "https://www.chinanews.com.cn/edu/2026/08-17/10678942.shtml",
+      "summary": "“不会写正式邮件”成为部分大学生的职场素养短板",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-08-17T05:40:05.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
+    },
+    {
       "id": "c34f47fa9f47",
       "title": "别让机构收割焦虑！幼小衔接四项准备 家长请查收→",
       "url": "https://www.chinanews.com.cn/edu/2026/08-16/10678531.shtml",
@@ -187,18 +232,6 @@
       "published": "2026-08-16T03:23:14.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 50,
-      "tags": []
-    },
-    {
-      "id": "71f51647265f",
-      "title": "贵州与马来西亚友好学校结对共建",
-      "url": "https://www.chinanews.com.cn/edu/2026/08-16/10678668.shtml",
-      "summary": "中新网贵阳8月16日电 (记者 张伟 杨茜)2026贵州—马来西亚友好学校结对共建暨交流活动16日在贵阳市第三中学举行，17所贵州学校与17所马来西亚学校签约结对",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-08-16T09:36:53.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 40,
       "tags": []
     }
   ],
@@ -297,18 +330,8 @@
       "source": "就业创业政策",
       "category": "政策",
       "published": "2026-07-16T01:51:00.000Z",
+      "image": "https://news.66wz.com/pic/003/013/337/00301333742_93765919.gif",
       "score": 55,
-      "tags": []
-    },
-    {
-      "id": "6a12b15ecd81",
-      "title": "青年驿站、专场招聘 各地多措并举打好稳就业“组合拳” 促进高校 ...",
-      "url": "https://news.chengdu.cn/2026/0813/6a7dc59a4465eb1b354b80dc.shtml",
-      "summary": "就业是最基本的民生。暑期正值高校毕业生求职择业关键窗口期，各地多措并举、精准发力，持续夯实就业服务保障",
-      "source": "Bing·高校毕业生就业创业政策",
-      "category": "政策",
-      "published": "2026-08-13T14:25:00.000Z",
-      "score": 50,
       "tags": []
     },
     {
@@ -322,52 +345,64 @@
       "image": "",
       "score": 50,
       "tags": []
+    },
+    {
+      "id": "f5cb39eaf8f6",
+      "title": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
+      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202606/t20260602_1438600.html",
+      "summary": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
+      "source": "教育部",
+      "category": "政策",
+      "published": "2026-06-02T00:00:00.000Z",
+      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+      "score": 50,
+      "tags": []
     }
   ],
   "财经": [
     {
-      "id": "988dfd812b96",
-      "title": "长三角首开至京津冀电商多式联运快速班列",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680207.shtml",
+      "id": "060be1e67f03",
+      "title": "漫评：列车+ 解锁暑期文旅消费市场新赛道",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680245.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-19T05:08:56.000Z",
+      "published": "2026-08-19T06:33:13.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "c211e72c793b",
-      "title": "A股市场投资逻辑加速转向",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680203.shtml",
+      "id": "00a6b39c1f06",
+      "title": "从月均1班到日均10班 “拓荒者”见证中原“钢铁丝路”蝶变",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680271.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-19T04:46:18.000Z",
+      "published": "2026-08-19T06:24:05.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "e76baaa61f66",
-      "title": "农村也要优化营商环境——推进乡村全面振兴系列谈之二",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680180.shtml",
+      "id": "730beceb5902",
+      "title": "最高赔付26.7万，件均17万：中国人寿发布2025年学平险十大理赔案例",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680282.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-19T04:13:10.000Z",
+      "published": "2026-08-19T06:22:24.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "15c9501b3184",
-      "title": "动能向新、结构向优 四大亮点解读1—7月经济数据",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680185.shtml",
+      "id": "4ed65da0d5e5",
+      "title": "市场监管总局：1至7月依法办结垄断协议和滥用市场支配地位案件13件",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680296.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-19T04:06:46.000Z",
+      "published": "2026-08-19T06:20:50.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "12d9143a5271",
-      "title": "海南产经新观察：聚焦产业，海口塑造高质量发展新动能",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680158.shtml",
+      "id": "5a9dd154af1f",
+      "title": "协同共治 保障二手房交易资金安全",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680283.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-19T03:38:18.000Z",
+      "published": "2026-08-19T06:20:06.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
