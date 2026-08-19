@@ -68,7 +68,7 @@
       "category": "开发",
       "published": "2026-08-18T22:14:25.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/07/cursor.jpg?resize=1200,800",
-      "score": 80,
+      "score": 75,
       "tags": []
     },
     {
@@ -82,6 +82,15 @@
       "image": "",
       "score": 60,
       "tags": []
+    },
+    {
+      "id": "0773b9431606",
+      "title": "Valhalla 项目首次预览：JEP 401 重新定义 Java 对象的 == 运算符",
+      "url": "https://www.infoq.cn/article/8grNo7eCm3Rly0NV8bcS?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-19T12:25:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/08/be/08dd65a1ff19dafb98bbf52007a45fbe.jpg"
     },
     {
       "id": "9a1ab3402841",
@@ -100,15 +109,6 @@
       "category": "开发",
       "published": "2026-08-19T10:00:00.000Z",
       "image": "https://static001.infoq.cn/resource/image/dd/45/ddd9b522afe16278ba0e82fedd773c45.jpg"
-    },
-    {
-      "id": "68472270a8ed",
-      "title": "谷歌发布 Angular v22，带来稳定的 Signal Forms、默认启用的 OnPush 以及实验性的 WebMCP",
-      "url": "https://www.infoq.cn/article/J7CiEHSU79e9TYi3soro?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-08-18T17:28:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/92/21/922fcec3d81be061f1f904c52735e721.jpg"
     }
   ],
   "科技": [
@@ -323,6 +323,18 @@
       "tags": []
     },
     {
+      "id": "ed0822808f9b",
+      "title": "温州发布专项政策指南 为残疾人大学生就业创业“撑腰”",
+      "url": "https://news.66wz.com/system/2026/07/16/105805829.shtml",
+      "summary": "市人社局与市残联携手对现行最实用、最优惠的就创业补贴政策进行全面梳理，并形成《温州市残疾人大学生就业创业政策指南》，助力这一特殊群体跨越障碍，实现更加充分、更高质量的就业和创业。 温州网讯 为支持更多",
+      "source": "就业创业政策",
+      "category": "政策",
+      "published": "2026-07-16T01:51:00.000Z",
+      "image": "https://news.66wz.com/pic/003/013/337/00301333742_93765919.gif",
+      "score": 55,
+      "tags": []
+    },
+    {
       "id": "6a12b15ecd81",
       "title": "青年驿站、专场招聘 各地多措并举打好稳就业“组合拳” 促进高校 ...",
       "url": "https://news.chengdu.cn/2026/0813/6a7dc59a4465eb1b354b80dc.shtml",
@@ -345,21 +357,27 @@
       "image": "",
       "score": 50,
       "tags": []
-    },
-    {
-      "id": "ee1a6a0f157c",
-      "title": "访企拓岗促就业｜就业创业办公室联合农学院赴辽宁开展 “双一流 ...",
-      "url": "https://news.cau.edu.cn/jcdt/81a734ffe1c24b629d37b524c256209d.htm",
-      "summary": "本次活动由辽宁省委组织部主办，汇聚全国40余所 “双一流” 高校就业工作负责人参会。会上，辽宁省委组织部、省人社厅相关领导详细介绍辽宁省情、产业布局与人才政策，并集中推介省内重点企事业单位优质就业岗位",
-      "source": "Bing·人社部就业创业政策",
-      "category": "政策",
-      "published": "2026-08-13T07:12:00.000Z",
-      "image": "",
-      "score": 50,
-      "tags": []
     }
   ],
   "财经": [
+    {
+      "id": "e76baaa61f66",
+      "title": "农村也要优化营商环境——推进乡村全面振兴系列谈之二",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680180.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-08-19T04:13:10.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "15c9501b3184",
+      "title": "动能向新、结构向优 四大亮点解读1—7月经济数据",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680185.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-08-19T04:06:46.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
     {
       "id": "12d9143a5271",
       "title": "海南产经新观察：聚焦产业，海口塑造高质量发展新动能",
@@ -385,24 +403,6 @@
       "source": "中新网财经",
       "category": "财经",
       "published": "2026-08-19T03:24:15.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "4364f87e5212",
-      "title": "高温催热海外需求 海关“绿色通道”助力消暑食品出海",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680132.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-08-19T03:17:21.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "844985a57208",
-      "title": "广南联络线西塱隧道盾构掘进转入攻坚冲刺阶段",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680130.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-08-19T03:15:23.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
