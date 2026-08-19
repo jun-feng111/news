@@ -84,6 +84,24 @@
       "tags": []
     },
     {
+      "id": "4bf5972ec33e",
+      "title": "AI for Science进入新阶段：机器人正在成为科研新基础设施",
+      "url": "https://www.infoq.cn/article/LrAzoZZQiecRCtyVX1u9?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-19T16:22:01.000Z",
+      "image": "https://static001.infoq.cn/resource/image/6f/90/6f123df1fefd203af4dyy2035d3ee190.png"
+    },
+    {
+      "id": "48a524d6234c",
+      "title": "Java 近期新闻：Shenandoah GC、TeamCity CVE、A2A Java SDK、Camel、Gradle、GlassFish",
+      "url": "https://www.infoq.cn/article/aJvM0NaOObTK34dOAUTC?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-19T16:11:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/6a/42/6afd8635fa27115ec090467f408ea642.jpg"
+    },
+    {
       "id": "c91353f8c4e1",
       "title": "网易传媒 AI 另辟赛道：近千亿研发，蜜蜂AI杀入年轻人社区",
       "url": "https://www.infoq.cn/article/eUqDCgNhzkbNpNxS7dYI?utm_source=rss&amp;utm_medium=article",
@@ -91,24 +109,6 @@
       "category": "开发",
       "published": "2026-08-19T15:02:20.000Z",
       "image": "https://static001.infoq.cn/resource/image/2e/1f/2e73bc9yy4af1bcee38b95694ab7d41f.png"
-    },
-    {
-      "id": "817480511134",
-      "title": "Canva 分享了基于 S3 的架构，用于管理数亿个会话的会话撤销",
-      "url": "https://www.infoq.cn/article/H74fUrce5mmYgtDtM8tI?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-08-19T14:24:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/47/e2/470f3c35e95741da7bd074285f4e1de2.jpg"
-    },
-    {
-      "id": "0773b9431606",
-      "title": "Valhalla 项目首次预览：JEP 401 重新定义 Java 对象的 == 运算符",
-      "url": "https://www.infoq.cn/article/8grNo7eCm3Rly0NV8bcS?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-08-19T12:25:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/08/be/08dd65a1ff19dafb98bbf52007a45fbe.jpg"
     }
   ],
   "科技": [
@@ -334,6 +334,18 @@
       "tags": []
     },
     {
+      "id": "b0272c7d1ebf",
+      "title": "我的新疆日记&#183;第五天｜北庭与天山，在遗址与群山之间",
+      "url": "https://www.msn.cn/zh-cn/travel/户外活动/我的新疆日记-第五天-北庭与天山-在遗址与群山之间/ar-AA2aep1r",
+      "summary": "编者按：这几天，我随人民网2026“行进中国”调研行前往新疆维吾尔自治区采访，以日记的形式，记录一路的所见所闻、所思所感 ",
+      "source": "Bing·高校毕业生就业创业政策",
+      "category": "政策",
+      "published": "2026-08-15T23:23:00.000Z",
+      "image": "",
+      "score": 50,
+      "tags": []
+    },
+    {
       "id": "70b8974c632f",
       "title": "383个优质岗位、约200人达成就业意向!平远这场高校毕业生专场招聘 ...",
       "url": "https://www.msn.com/zh-cn/news/other/383个优质岗位-约200人达成就业意向-平远这场高校毕业生专场招聘火热举办/ar-AA2a7a09",
@@ -344,21 +356,27 @@
       "image": "",
       "score": 50,
       "tags": []
-    },
-    {
-      "id": "ee1a6a0f157c",
-      "title": "访企拓岗促就业｜就业创业办公室联合农学院赴辽宁开展 “双一流 ...",
-      "url": "https://news.cau.edu.cn/jcdt/81a734ffe1c24b629d37b524c256209d.htm",
-      "summary": "本次活动由辽宁省委组织部主办，汇聚全国40余所 “双一流” 高校就业工作负责人参会。会上，辽宁省委组织部、省人社厅相关领导详细介绍辽宁省情、产业布局与人才政策，并集中推介省内重点企事业单位优质就业岗位",
-      "source": "Bing·人社部就业创业政策",
-      "category": "政策",
-      "published": "2026-08-13T07:12:00.000Z",
-      "image": "",
-      "score": 50,
-      "tags": []
     }
   ],
   "财经": [
+    {
+      "id": "7ed94c2c8ca4",
+      "title": "国产算力支撑4D世界模型加速产业化 魔芯科技完成新一轮5亿元融资",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680389.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-08-19T08:22:26.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "5c5e9f3acd72",
+      "title": "8月19日“农产品批发价格200指数”比昨天上升0.07个点",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680325.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-08-19T08:07:39.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
     {
       "id": "0b9f839db83d",
       "title": "2026世界机器人大会开幕  300余家中外企业参展",
@@ -384,24 +402,6 @@
       "source": "中新网财经",
       "category": "财经",
       "published": "2026-08-19T07:12:54.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "72da1fb2453e",
-      "title": "不靠海亦扬帆  湖南工程机械企业持续拓宽海外版图",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680339.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-08-19T07:07:41.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "48dc0560a289",
-      "title": "华南首个“生物制造+美妆、食品、农业”公共中试平台落地广州白云",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-19/10680322.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-08-19T06:47:22.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
