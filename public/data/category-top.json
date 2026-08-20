@@ -1,24 +1,72 @@
 {
   "AI": [
     {
-      "id": "b359671ae1bf",
-      "title": "Google gives publishers a new way to fight AI-driven traffic losses",
-      "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-      "summary": "Google gives publishers a new way to fight AI-driven traffic losses",
+      "id": "90accb9ed72d",
+      "title": "A third of ChatGPT ads appear in irrelevant conversations",
+      "url": "https://www.artificialintelligence-news.com/news/a-third-of-chatgpt-ads-appear-in-irrelevant-conversations/",
+      "summary": "Advertising inside ChatGPT arrived with a promise that the assistant already knows what the user wan",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-08-20T08:07:40.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/levart_photographer-drwpcjkvxuU-unsplash-scaled.jpg",
+      "score": 80,
+      "tags": []
+    },
+    {
+      "id": "fc53f9f20e6e",
+      "title": "ChatGPT can now send texts for you with new Apple Messages plugin",
+      "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+      "summary": "ChatGPT can now send texts for you with new Apple Messages plugin",
       "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-08-20T19:18:21.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/01-ps-button-Family_resized.width-2000.format-webp.webp?resize=1200,675",
+      "published": "2026-08-20T22:09:51.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1831275897.jpg?resize=1200,800",
       "score": 80,
+      "tags": []
+    },
+    {
+      "id": "5f36318a4995",
+      "title": "Amazon&#8217;s Prime Air autonomous drones to reach 500 US cities",
+      "url": "https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/",
+      "summary": "Amazon plans to expand its Prime Air drone delivery service to nearly 500 cities and towns across th",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-08-20T14:05:18.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/amazon-prime-air-drone-delivery-us-cities-expansion-autonomous-physical-edge-ai-logistics.jpg",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "90eae752a6c9",
+      "title": "Stripe agrees to buy OpenRouter as AI model routing expands",
+      "url": "https://www.artificialintelligence-news.com/news/stripe-openrouter-acquisition-ai-model-routing/",
+      "summary": "Stripe has agreed to acquire OpenRouter, an AI model-routing platform that gives developers access t",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-08-20T10:00:00.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/Stripe-agrees-to-buy-OpenRouter-as-AI-model-routing-expands-scaled-e1787195901752.jpg",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "9df37d9e2fb4",
+      "title": "AI data centre regulation just got a template that needs no new law",
+      "url": "https://www.artificialintelligence-news.com/news/ai-data-centre-regulation-pennsylvania-template/",
+      "summary": "AI data centre regulation in Pennsylvania now begins with a signature。 Before the state will so much",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-08-20T08:00:00.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/donnie-rosie-VQGjgACllXA-unsplash-scaled.jpg",
+      "score": 75,
       "tags": []
     }
   ],
   "科技": [
     {
       "id": "0e5fabfe4834",
-      "title": "Ok, can we actually cool data centers with our pee?",
+      "title": "OK, can we actually cool data centers with our pee?",
       "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
-      "summary": "Ok, can we actually cool data centers with our pee",
+      "summary": "OK, can we actually cool data centers with our pee",
       "source": "TechCrunch",
       "category": "科技",
       "published": "2026-08-20T20:53:13.000Z",
@@ -39,30 +87,6 @@
       "tags": []
     },
     {
-      "id": "18e1f1c8fc43",
-      "title": "Castelion hits $13B valuation to mass-produce hypersonic missiles",
-      "url": "https://techcrunch.com/2026/08/20/castelion-hits-13b-valuation-to-mass-produce-hypersonic-missiles/",
-      "summary": "Castelion hits $13B valuation to mass-produce hypersonic missiles",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-20T19:01:41.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/10/image004.png?resize=1200,835",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "90eae5e4b71e",
-      "title": "Grok keeps sending gibberish responses to users",
-      "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
-      "summary": "Grok keeps sending gibberish responses to users",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-20T17:32:16.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2218892225.jpg?resize=1200,804",
-      "score": 75,
-      "tags": []
-    },
-    {
       "id": "95fe83e57d1a",
       "title": "The Enhanced Games — tech&#8217;s steroid extravaganza — didn&#8217;t pay off, as company posts $60 million loss",
       "url": "https://techcrunch.com/2026/08/20/the-enhanced-games-techs-steroid-extravaganza-didnt-pay-off-as-company-posts-60-million-loss/",
@@ -73,6 +97,24 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2278069583.jpg?resize=1200,800",
       "score": 65,
       "tags": []
+    },
+    {
+      "id": "0585e92cb809",
+      "title": "Mark buys a castle",
+      "url": "https://techcrunch.com/2026/08/20/mark-buys-a-castle/",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-20T19:55:40.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2243536353.jpg?w=1024"
+    },
+    {
+      "id": "b359671ae1bf",
+      "title": "Google gives publishers a new way to fight AI-driven traffic losses",
+      "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-20T19:18:21.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/01-ps-button-Family_resized.width-2000.format-webp.webp?resize=1200,675"
     }
   ],
   "社会": [
@@ -139,18 +181,6 @@
   ],
   "就业": [
     {
-      "id": "1427782e4599",
-      "title": "银行业务口社招也要求熟悉AI了？这个投研分析岗，写明要负责“AI ...",
-      "url": "https://finance.sina.com.cn/roll/2026-08-18/doc-inintxxh8598374.shtml",
-      "summary": "记者梳理多家银行秋招及社招信息后发现，将AI生成内容审核明确纳入像财富管理业务这类非科技岗位职责的情况，目前仍属个案，尚未形成普遍趋势。 AI生成内容审核已成工作岗位要求 据宁波银行发布的社招信息，市",
-      "source": "Bing·秋招",
-      "category": "就业",
-      "published": "2026-08-18T13:19:00.000Z",
-      "image": "//n.sinaimg.cn/default/feedbackpics/transform/116/w550h366/20180418/7RAA-fzihnep5208659.png",
-      "score": 65,
-      "tags": []
-    },
-    {
       "id": "372dd8a174f7",
       "title": "[合肥/多城市][科大讯飞内推] 大模型 / Agent / AI Infra / Java / 全栈 / 测试 / 数据 / 架构",
       "url": "https://www.v2ex.com/t/1234676#reply2",
@@ -195,6 +225,18 @@
       "category": "就业",
       "published": "2026-08-17T17:00:00.000Z",
       "image": "",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "164a483cc170",
+      "title": "[招聘 优质岗位丨 Base 杭州]招聘研发经理/技术架构师｜跨境电商·广告营销中台·数据平台·AI Agent",
+      "url": "https://www.v2ex.com/t/1234409#reply4",
+      "summary": "[招聘 优质岗位丨 Base 杭州]招聘研发经理/技术架构师｜跨境电商·广告营销中台·数据平台·AI Agent",
+      "source": "V2EX·招聘",
+      "category": "就业",
+      "published": "2026-08-14T08:01:57.000Z",
+      "image": "https://cdn.v2ex.com/gravatar/7f86464e0626e7fedbb5c03901f10e4f?s=73&d=retro",
       "score": 60,
       "tags": []
     }
