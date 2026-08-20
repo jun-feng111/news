@@ -163,39 +163,85 @@
       </div>
     </div>
 
-    <div v-show="activeTab === 'db'" class="fade-in">
+    <div v-show="activeTab === 'oracle'" class="fade-in">
       <div class="card-base overflow-hidden mb-6">
-        <div class="banner-sm relative h-32 flex items-center px-8" style="background: linear-gradient(135deg, #7b2ff7, #4b6cb7)">
+        <div class="banner-sm relative h-32 flex items-center px-8" style="background: linear-gradient(135deg, #c2410c, #ea580c)">
           <div class="relative z-10">
-            <span class="text-3xl">🗄️</span>
-            <span class="text-white text-xl font-bold ml-3">数据库常用命令</span>
-            <p class="text-gray-400 text-sm mt-1">Linux · Oracle · MySQL 三栏并列速查</p>
+            <span class="text-3xl">🐉</span>
+            <span class="text-white text-xl font-bold ml-3">Oracle 常用命令</span>
+            <p class="text-gray-400 text-sm mt-1">{{ oracleCommands.length }} 个命令 · sqlplus / PL/SQL / 运维</p>
           </div>
         </div>
       </div>
 
-      <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
-        <div v-for="col in dbColumns" :key="col.title">
-          <div class="flex items-center gap-2 mb-4">
-            <span class="text-2xl">{{ col.icon }}</span>
-            <h2 class="text-lg font-bold" style="color: var(--text-primary)">{{ col.title }}</h2>
-            <span class="text-sm" style="color: var(--text-muted)">{{ col.items.length }} 条</span>
-          </div>
-          <div class="space-y-4">
-            <div v-for="item in col.items" :key="item.cmd" class="card-base p-5">
-              <div class="flex items-start justify-between mb-2">
-                <div class="flex items-center gap-2">
-                  <code class="cmd-code">{{ item.cmd }}</code>
-                  <span class="freq-badge" :class="item.freq">{{ item.freq }}</span>
-                </div>
-              </div>
-              <p class="text-sm mb-2" style="color: var(--text-secondary)">{{ item.desc }}</p>
-              <p class="text-xs mb-3 cmd-detail" style="color: var(--text-muted)">{{ item.detail }}</p>
-              <div class="cmd-example">
-                <span class="text-xs text-green-400">$</span>
-                <code class="text-xs">{{ item.example }}</code>
-              </div>
+      <div class="flex gap-2 mb-6 flex-wrap items-center">
+        <span class="text-xs" style="color: var(--text-muted)">使用频率：</span>
+        <button class="freq-btn" :class="{ active: activeOracleFreq === 'all' }" @click="activeOracleFreq = 'all'">
+          <span class="freq-dot all"></span> 全部 {{ oracleCommands.length }}
+        </button>
+        <button v-for="f in ['高频','中频','低频']" :key="f" class="freq-btn" :class="{ active: activeOracleFreq === f }" @click="activeOracleFreq = f">
+          <span class="freq-dot" :class="f"></span> {{ f }} {{ oracleFreqCounts[f] }}
+        </button>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+        <div v-for="(item, i) in filteredOracleCommands" :key="item.cmd" class="card-base p-5 stagger-item" :style="{ animationDelay: `${i * 30}ms` }">
+          <div class="flex items-start justify-between mb-2">
+            <div class="flex items-center gap-2">
+              <code class="cmd-code">{{ item.cmd }}</code>
+              <span class="freq-badge" :class="item.freq">{{ item.freq }}</span>
             </div>
+            <div class="flex gap-1">
+              <span v-for="tag in item.tags" :key="tag" class="cmd-tag">{{ tag }}</span>
+            </div>
+          </div>
+          <p class="text-sm mb-2" style="color: var(--text-secondary)">{{ item.desc }}</p>
+          <p class="text-xs mb-3 cmd-detail" style="color: var(--text-muted)">{{ item.detail }}</p>
+          <div class="cmd-example">
+            <span class="text-xs text-green-400">$</span>
+            <code class="text-xs">{{ item.example }}</code>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div v-show="activeTab === 'mysql'" class="fade-in">
+      <div class="card-base overflow-hidden mb-6">
+        <div class="banner-sm relative h-32 flex items-center px-8" style="background: linear-gradient(135deg, #0066cc, #0099ff)">
+          <div class="relative z-10">
+            <span class="text-3xl">🐬</span>
+            <span class="text-white text-xl font-bold ml-3">MySQL 常用命令</span>
+            <p class="text-gray-400 text-sm mt-1">{{ mysqlCommands.length }} 个命令 · 客户端 / SQL / 运维</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="flex gap-2 mb-6 flex-wrap items-center">
+        <span class="text-xs" style="color: var(--text-muted)">使用频率：</span>
+        <button class="freq-btn" :class="{ active: activeMysqlFreq === 'all' }" @click="activeMysqlFreq = 'all'">
+          <span class="freq-dot all"></span> 全部 {{ mysqlCommands.length }}
+        </button>
+        <button v-for="f in ['高频','中频','低频']" :key="f" class="freq-btn" :class="{ active: activeMysqlFreq === f }" @click="activeMysqlFreq = f">
+          <span class="freq-dot" :class="f"></span> {{ f }} {{ mysqlFreqCounts[f] }}
+        </button>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+        <div v-for="(item, i) in filteredMysqlCommands" :key="item.cmd" class="card-base p-5 stagger-item" :style="{ animationDelay: `${i * 30}ms` }">
+          <div class="flex items-start justify-between mb-2">
+            <div class="flex items-center gap-2">
+              <code class="cmd-code">{{ item.cmd }}</code>
+              <span class="freq-badge" :class="item.freq">{{ item.freq }}</span>
+            </div>
+            <div class="flex gap-1">
+              <span v-for="tag in item.tags" :key="tag" class="cmd-tag">{{ tag }}</span>
+            </div>
+          </div>
+          <p class="text-sm mb-2" style="color: var(--text-secondary)">{{ item.desc }}</p>
+          <p class="text-xs mb-3 cmd-detail" style="color: var(--text-muted)">{{ item.detail }}</p>
+          <div class="cmd-example">
+            <span class="text-xs text-green-400">$</span>
+            <code class="text-xs">{{ item.example }}</code>
           </div>
         </div>
       </div>
@@ -205,7 +251,7 @@
 
 <script setup>
 import { ref, computed } from 'vue'
-import { linuxCommands, techStacks, dbLinuxCommands, oracleCommands, mysqlCommands } from '../data/skills-data'
+import { linuxCommands, techStacks, oracleCommands, mysqlCommands } from '../data/skills-data'
 
 const CMD_GROUP_MAP = [
   { name: '文件操作', icon: '📁', tags: ['文件', '压缩', '权限'] },
@@ -226,18 +272,16 @@ const CMD_GROUP_MAP = [
 
 const tabs = [
   { key: 'linux', label: 'Linux命令', icon: '🐧' },
-  { key: 'db', label: '数据库命令', icon: '🗄️' },
+  { key: 'oracle', label: 'Oracle', icon: '🐉' },
+  { key: 'mysql', label: 'MySQL', icon: '🐬' },
   { key: 'tech', label: '技术栈', icon: '💻' },
-]
-const dbColumns = [
-  { title: 'Linux', icon: '🐧', items: dbLinuxCommands },
-  { title: 'Oracle', icon: '🐉', items: oracleCommands },
-  { title: 'MySQL', icon: '🐬', items: mysqlCommands },
 ]
 const activeTab = ref('linux')
 const activeCat = ref('all')
 const activeCmdCat = ref('all')
 const activeFreq = ref('all')
+const activeOracleFreq = ref('all')
+const activeMysqlFreq = ref('all')
 
 const FREQ_ORDER = { '高频': 0, '中频': 1, '低频': 2 }
 
@@ -270,6 +314,22 @@ const filteredLinuxCommands = computed(() => {
   }
   const group = cmdGroups.value.find(g => g.name === activeCmdCat.value)
   return group ? group.commands : []
+})
+
+const countByFreq = (arr) => {
+  const counts = { '高频': 0, '中频': 0, '低频': 0 }
+  arr.forEach(c => { if (c.freq) counts[c.freq]++ })
+  return counts
+}
+const oracleFreqCounts = computed(() => countByFreq(oracleCommands))
+const mysqlFreqCounts = computed(() => countByFreq(mysqlCommands))
+const filteredOracleCommands = computed(() => {
+  const cmds = activeOracleFreq.value === 'all' ? [...oracleCommands] : oracleCommands.filter(c => c.freq === activeOracleFreq.value)
+  return sortByFreq(cmds)
+})
+const filteredMysqlCommands = computed(() => {
+  const cmds = activeMysqlFreq.value === 'all' ? [...mysqlCommands] : mysqlCommands.filter(c => c.freq === activeMysqlFreq.value)
+  return sortByFreq(cmds)
 })
 
 const techCategories = computed(() => [...new Set(techStacks.map(t => t.category))])
@@ -314,6 +374,7 @@ const filteredTech = computed(() => {
 .freq-dot {
   display: inline-block; width: 7px; height: 7px; border-radius: 50%;
 }
+.freq-dot.all { background: #5b8def; }
 .freq-dot.高频 { background: #4ade80; }
 .freq-dot.中频 { background: #fbbf24; }
 .freq-dot.低频 { background: #94a3b8; }
