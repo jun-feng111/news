@@ -9,7 +9,7 @@
       "category": "AI",
       "published": "2026-08-19T22:10:46.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544149.jpg?resize=1200,800",
-      "score": 80,
+      "score": 75,
       "tags": []
     },
     {
@@ -107,7 +107,7 @@
       "category": "科技",
       "published": "2026-08-19T22:25:01.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/waymo-ojai.jpg?resize=1200,675",
-      "score": 65,
+      "score": 60,
       "tags": []
     }
   ],
@@ -348,6 +348,24 @@
   ],
   "财经": [
     {
+      "id": "862b868a0aac",
+      "title": "“和敏助学”五年捐赠突破4200万 累计资助学子超2000人",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10680881.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-08-20T03:48:39.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "28173e431dc4",
+      "title": "山西晋中：加快把文旅业打造成战略性支柱产业",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10680879.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-08-20T03:47:15.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
       "id": "5c129827e422",
       "title": "当七夕遇上唐山皮影：抖音非遗嘉年华亮相唐山河头老街",
       "url": "https://www.chinanews.com.cn/cj/2026/08-20/10680900.shtml",
@@ -372,24 +390,6 @@
       "source": "中新网财经",
       "category": "财经",
       "published": "2026-08-20T03:34:18.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "4072199ec1a8",
-      "title": "A股午评：近4400只个股飘红，三大指数集体收涨",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10680901.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-08-20T03:33:48.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "8c8aff417f11",
-      "title": "2026太原论坛将启 聚焦能源科技创新与成果对接",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10680869.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-08-20T03:33:10.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
