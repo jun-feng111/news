@@ -162,12 +162,50 @@
         </div>
       </div>
     </div>
+
+    <div v-show="activeTab === 'db'" class="fade-in">
+      <div class="card-base overflow-hidden mb-6">
+        <div class="banner-sm relative h-32 flex items-center px-8" style="background: linear-gradient(135deg, #7b2ff7, #4b6cb7)">
+          <div class="relative z-10">
+            <span class="text-3xl">🗄️</span>
+            <span class="text-white text-xl font-bold ml-3">数据库常用命令</span>
+            <p class="text-gray-400 text-sm mt-1">Linux · Oracle · MySQL 三栏并列速查</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
+        <div v-for="col in dbColumns" :key="col.title">
+          <div class="flex items-center gap-2 mb-4">
+            <span class="text-2xl">{{ col.icon }}</span>
+            <h2 class="text-lg font-bold" style="color: var(--text-primary)">{{ col.title }}</h2>
+            <span class="text-sm" style="color: var(--text-muted)">{{ col.items.length }} 条</span>
+          </div>
+          <div class="space-y-4">
+            <div v-for="item in col.items" :key="item.cmd" class="card-base p-5">
+              <div class="flex items-start justify-between mb-2">
+                <div class="flex items-center gap-2">
+                  <code class="cmd-code">{{ item.cmd }}</code>
+                  <span class="freq-badge" :class="item.freq">{{ item.freq }}</span>
+                </div>
+              </div>
+              <p class="text-sm mb-2" style="color: var(--text-secondary)">{{ item.desc }}</p>
+              <p class="text-xs mb-3 cmd-detail" style="color: var(--text-muted)">{{ item.detail }}</p>
+              <div class="cmd-example">
+                <span class="text-xs text-green-400">$</span>
+                <code class="text-xs">{{ item.example }}</code>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </template>
 
 <script setup>
 import { ref, computed } from 'vue'
-import { linuxCommands, techStacks } from '../data/skills-data'
+import { linuxCommands, techStacks, dbLinuxCommands, oracleCommands, mysqlCommands } from '../data/skills-data'
 
 const CMD_GROUP_MAP = [
   { name: '文件操作', icon: '📁', tags: ['文件', '压缩', '权限'] },
@@ -188,7 +226,13 @@ const CMD_GROUP_MAP = [
 
 const tabs = [
   { key: 'linux', label: 'Linux命令', icon: '🐧' },
+  { key: 'db', label: '数据库命令', icon: '🗄️' },
   { key: 'tech', label: '技术栈', icon: '💻' },
+]
+const dbColumns = [
+  { title: 'Linux', icon: '🐧', items: dbLinuxCommands },
+  { title: 'Oracle', icon: '🐉', items: oracleCommands },
+  { title: 'MySQL', icon: '🐬', items: mysqlCommands },
 ]
 const activeTab = ref('linux')
 const activeCat = ref('all')
