@@ -8,7 +8,7 @@
     "category": "AI",
     "published": "2026-08-21T00:13:44.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2025/12/IMG_2686.jpeg?resize=1200,957",
-    "score": 80,
+    "score": 75,
     "tags": []
   },
   {
@@ -84,18 +84,6 @@
     "tags": []
   },
   {
-    "id": "2954f75ed6ff",
-    "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
-    "url": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
-    "summary": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
-    "source": "TechCrunch",
-    "category": "科技",
-    "published": "2026-08-21T00:23:36.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2220872848.jpg?resize=1200,801",
-    "score": 65,
-    "tags": []
-  },
-  {
     "id": "1427782e4599",
     "title": "银行业务口社招也要求熟悉AI了？这个投研分析岗，写明要负责“AI ...",
     "url": "https://finance.sina.com.cn/roll/2026-08-18/doc-inintxxh8598374.shtml",
@@ -108,14 +96,26 @@
     "tags": []
   },
   {
-    "id": "372dd8a174f7",
+    "id": "6ac745344ef7",
     "title": "[合肥/多城市][科大讯飞内推] 大模型 / Agent / AI Infra / Java / 全栈 / 测试 / 数据 / 架构",
-    "url": "https://www.v2ex.com/t/1234676#reply2",
+    "url": "https://www.v2ex.com/t/1234676#reply3",
     "summary": "[合肥/多城市][科大讯飞内推] 大模型 / Agent / AI Infra / Java / 全栈 / 测试 / 数据 / 架构",
     "source": "V2EX·招聘",
     "category": "就业",
     "published": "2026-08-15T13:51:14.000Z",
     "image": "https://cdn.v2ex.com/gravatar/e689b89f1c3831aa170bab72c84d2003?s=73&d=retro",
+    "score": 65,
+    "tags": []
+  },
+  {
+    "id": "c76b56413d4a",
+    "title": "AI人才缺口超500万！有最新报告称，AI抢人逻辑悄悄变了：架构师新发 ...",
+    "url": "https://news.qq.com/rain/a/20260718A08XHR00",
+    "summary": "人才缺口500万，大厂抢得最凶的不是算法工程师，架构师新发职位同比大涨近八成。懂提示词和人机训练岗位的文科生，平均年薪达到34",
+    "source": "算法工程师·就业分析",
+    "category": "就业",
+    "published": "2026-07-18T11:05:00.000Z",
+    "image": "https://inews.gtimg.com/om_ls/Ows_BB25Bhnf-wlGWgFoIkmLSVd_6MJWCT8-yw6C3HS10AA_640330/0",
     "score": 65,
     "tags": []
   }
