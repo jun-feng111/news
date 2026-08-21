@@ -15,13 +15,20 @@
       </div>
     </div>
 
-    <div class="flex gap-2 mb-6 flex-wrap">
-      <button v-for="tab in tabs" :key="tab.key" class="tab-btn" :class="{ active: activeTab === tab.key }" @click="activeTab = tab.key">
-        {{ tab.icon }} {{ tab.label }}
-      </button>
+    <div class="flex flex-col md:flex-row md:items-center md:justify-between gap-4 mb-6">
+      <div class="flex gap-2 flex-wrap">
+        <button v-for="tab in tabs" :key="tab.key" class="tab-btn" :class="{ active: activeTab === tab.key && !isSearching }" @click="activeTab = tab.key; searchQuery = ''">
+          {{ tab.icon }} {{ tab.label }}
+        </button>
+      </div>
+      <div class="search-box">
+        <span class="search-icon">🔍</span>
+        <input v-model.trim="searchQuery" type="text" placeholder="搜索技术问题，如：mysql 插入命令" />
+        <button v-if="searchQuery" class="search-clear" @click="searchQuery = ''">×</button>
+      </div>
     </div>
 
-    <div v-show="activeTab === 'linux'" class="fade-in">
+    <div v-show="activeTab === 'linux' && !isSearching" class="fade-in">
       <div class="card-base overflow-hidden mb-6">
         <div class="banner-sm relative h-32 flex items-center px-8" style="background: linear-gradient(135deg, #1a1a2e, #16213e)">
           <div class="relative z-10">
@@ -98,7 +105,7 @@
       </div>
     </div>
 
-    <div v-show="activeTab === 'tech'" class="fade-in">
+    <div v-show="activeTab === 'tech' && !isSearching" class="fade-in">
       <div class="card-base overflow-hidden mb-6">
         <div class="banner-sm relative h-32 flex items-center px-8" style="background: linear-gradient(135deg, #0f3460, #16537e)">
           <div class="relative z-10">
@@ -163,7 +170,7 @@
       </div>
     </div>
 
-    <div v-show="activeTab === 'oracle'" class="fade-in">
+    <div v-show="activeTab === 'oracle' && !isSearching" class="fade-in">
       <div class="card-base overflow-hidden mb-6">
         <div class="banner-sm relative h-32 flex items-center px-8" style="background: linear-gradient(135deg, #c2410c, #ea580c)">
           <div class="relative z-10">
@@ -205,7 +212,7 @@
       </div>
     </div>
 
-    <div v-show="activeTab === 'mysql'" class="fade-in">
+    <div v-show="activeTab === 'mysql' && !isSearching" class="fade-in">
       <div class="card-base overflow-hidden mb-6">
         <div class="banner-sm relative h-32 flex items-center px-8" style="background: linear-gradient(135deg, #0066cc, #0099ff)">
           <div class="relative z-10">
@@ -244,6 +251,100 @@
             <code class="text-xs">{{ item.example }}</code>
           </div>
         </div>
+      </div>
+    </div>
+
+    <div v-show="isSearching" class="fade-in">
+      <div class="card-base overflow-hidden mb-6">
+        <div class="banner-sm relative h-32 flex items-center px-8" style="background: linear-gradient(135deg, #4b6cb7, #182848)">
+          <div class="relative z-10">
+            <span class="text-3xl">🔍</span>
+            <span class="text-white text-xl font-bold ml-3">搜索结果</span>
+            <p class="text-gray-400 text-sm mt-1">{{ searchResults.length }} 条匹配 · 来自 Linux / Oracle / MySQL / 技术栈</p>
+          </div>
+        </div>
+      </div>
+
+      <div v-if="searchResults.length === 0" class="text-center py-16 card-base">
+        <div class="text-4xl mb-3">🤔</div>
+        <p style="color: var(--text-secondary)">没找到“{{ searchQuery }}”相关内容</p>
+        <p class="text-sm mt-2" style="color: var(--text-muted)">试试：mysql 插入、oracle 授权、linux 压缩</p>
+      </div>
+
+      <div v-else class="space-y-8">
+        <section v-for="group in searchGroups" :key="group.key" v-show="group.items.length">
+          <div class="flex items-center gap-2 mb-4">
+            <span class="text-xl">{{ group.icon }}</span>
+            <h2 class="text-lg font-bold" style="color: var(--text-primary)">{{ group.title }}</h2>
+            <span class="text-sm" style="color: var(--text-muted)">{{ group.items.length }} 条</span>
+          </div>
+
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <template v-if="group.key !== 'tech'">
+              <div v-for="(item, i) in group.items" :key="item.cmd + i" class="card-base p-5 stagger-item" :style="{ animationDelay: `${i * 30}ms` }">
+                <div class="flex items-start justify-between mb-2">
+                  <div class="flex items-center gap-2">
+                    <code class="cmd-code">{{ item.cmd }}</code>
+                    <span class="freq-badge" :class="item.freq">{{ item.freq }}</span>
+                  </div>
+                  <div class="flex gap-1">
+                    <span v-for="tag in item.tags" :key="tag" class="cmd-tag">{{ tag }}</span>
+                  </div>
+                </div>
+                <p class="text-sm mb-2" style="color: var(--text-secondary)">{{ item.desc }}</p>
+                <p class="text-xs mb-3 cmd-detail" style="color: var(--text-muted)">{{ item.detail }}</p>
+                <div class="cmd-example">
+                  <span class="text-xs text-green-400">$</span>
+                  <code class="text-xs">{{ item.example }}</code>
+                </div>
+              </div>
+            </template>
+
+            <template v-else>
+              <div v-for="(tech, i) in group.items" :key="tech.name" class="card-base overflow-hidden stagger-item" :style="{ animationDelay: `${i * 40}ms` }">
+                <div class="h-1.5" :style="{ background: tech.color }"></div>
+                <div class="p-6">
+                  <div class="flex items-center gap-3 mb-3">
+                    <span class="text-3xl">{{ tech.icon }}</span>
+                    <div>
+                      <h3 class="text-lg font-bold" style="color: var(--text-primary)">{{ tech.name }}</h3>
+                      <span class="text-xs px-2 py-0.5 rounded-full" :style="{ color: tech.color, background: tech.color + '22' }">{{ tech.category }}</span>
+                    </div>
+                  </div>
+                  <p class="text-sm mb-4" style="color: var(--text-secondary)">{{ tech.desc }}</p>
+                  <div class="mb-3">
+                    <div class="text-xs font-semibold mb-1" style="color: var(--text-muted)">📌 怎么用</div>
+                    <p class="text-sm" style="color: var(--text-secondary)">{{ tech.how }}</p>
+                  </div>
+                  <div class="grid grid-cols-2 gap-3 mb-3">
+                    <div>
+                      <div class="text-xs font-semibold mb-1.5" style="color: #4ade80">✅ 优点</div>
+                      <ul class="space-y-1">
+                        <li v-for="p in tech.pros" :key="p" class="text-xs flex gap-1" style="color: var(--text-secondary)">
+                          <span class="text-green-400">·</span>{{ p }}
+                        </li>
+                      </ul>
+                    </div>
+                    <div>
+                      <div class="text-xs font-semibold mb-1.5" style="color: #f87171">❌ 缺点</div>
+                      <ul class="space-y-1">
+                        <li v-for="c in tech.cons" :key="c" class="text-xs flex gap-1" style="color: var(--text-secondary)">
+                          <span class="text-red-400">·</span>{{ c }}
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                  <div>
+                    <div class="text-xs font-semibold mb-1" style="color: var(--text-muted)">🎯 适用场景</div>
+                    <div class="flex flex-wrap gap-1.5">
+                      <span v-for="uc in tech.useCases" :key="uc" class="use-case-tag">{{ uc }}</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </template>
+          </div>
+        </section>
       </div>
     </div>
   </div>
@@ -337,6 +438,68 @@ const filteredTech = computed(() => {
   if (activeCat.value === 'all') return techStacks
   return techStacks.filter(t => t.category === activeCat.value)
 })
+
+const searchQuery = ref('')
+const isSearching = computed(() => searchQuery.value.trim().length > 0)
+
+const normalize = (s) => String(s ?? '').toLowerCase()
+const collectCmdText = (c) => [
+  c.cmd, c.desc, c.example, c.detail, c.freq, ...(c.tags || [])
+].map(normalize).join(' ')
+const collectTechText = (t) => [
+  t.name, t.category, t.desc, t.how,
+  ...(t.pros || []), ...(t.cons || []), ...(t.useCases || [])
+].map(normalize).join(' ')
+
+const scoreItem = (item, keywords, source) => {
+  const text = source === 'tech' ? collectTechText(item) : collectCmdText(item)
+  const title = normalize(source === 'tech' ? item.name : item.cmd)
+  let score = 0
+  let allMatch = true
+  for (const kw of keywords) {
+    const idx = text.indexOf(kw)
+    if (idx === -1) { allMatch = false; break }
+    if (title.startsWith(kw)) score += 100
+    else if (title.includes(kw)) score += 60
+    else if (idx === 0 || text[idx - 1] === ' ') score += 40
+    else score += 20
+  }
+  return allMatch ? score : -1
+}
+
+const searchResults = computed(() => {
+  const raw = searchQuery.value.trim()
+  if (!raw) return []
+  const keywords = raw.toLowerCase().split(/\s+/).filter(Boolean)
+  if (!keywords.length) return []
+
+  const all = [
+    ...linuxCommands.map(c => ({ source: 'linux', item: c })),
+    ...oracleCommands.map(c => ({ source: 'oracle', item: c })),
+    ...mysqlCommands.map(c => ({ source: 'mysql', item: c })),
+    ...techStacks.map(t => ({ source: 'tech', item: t })),
+  ]
+
+  return all
+    .map(({ source, item }) => ({ source, item, score: scoreItem(item, keywords, source) }))
+    .filter(x => x.score >= 0)
+    .sort((a, b) => b.score - a.score)
+    .map(x => ({ source: x.source, ...x.item }))
+})
+
+const searchGroups = computed(() => {
+  const groups = [
+    { key: 'linux', title: 'Linux 命令', icon: '🐧', items: [] },
+    { key: 'oracle', title: 'Oracle 常用命令', icon: '🐉', items: [] },
+    { key: 'mysql', title: 'MySQL 常用命令', icon: '🐬', items: [] },
+    { key: 'tech', title: '技术栈', icon: '💻', items: [] },
+  ]
+  for (const r of searchResults.value) {
+    const g = groups.find(x => x.key === r.source)
+    if (g) g.items.push(r)
+  }
+  return groups
+})
 </script>
 
 <style scoped>
@@ -400,4 +563,56 @@ const filteredTech = computed(() => {
   color: var(--text-secondary); background: var(--bg-hover); border: 1px solid var(--border);
 }
 .hero-banner { background: var(--bg-card); }
+.search-box {
+  position: relative;
+  display: flex;
+  align-items: center;
+  min-width: 240px;
+  max-width: 360px;
+  flex: 1;
+}
+.search-box input {
+  width: 100%;
+  padding: 8px 32px 8px 36px;
+  border-radius: 10px;
+  font-size: 14px;
+  color: var(--text-primary);
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  outline: none;
+  transition: all 0.2s ease;
+}
+.search-box input:focus {
+  border-color: var(--border-strong);
+  box-shadow: 0 0 0 2px rgba(91, 141, 239, 0.15);
+}
+.search-box input::placeholder {
+  color: var(--text-muted);
+}
+.search-icon {
+  position: absolute;
+  left: 12px;
+  font-size: 14px;
+  pointer-events: none;
+}
+.search-clear {
+  position: absolute;
+  right: 8px;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  border: none;
+  background: transparent;
+  color: var(--text-muted);
+  cursor: pointer;
+  font-size: 16px;
+  line-height: 1;
+}
+.search-clear:hover {
+  background: var(--bg-hover);
+  color: var(--text-primary);
+}
 </style>
