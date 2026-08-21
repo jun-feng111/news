@@ -1,15 +1,63 @@
 {
   "AI": [
     {
-      "id": "4af5149f16f9",
-      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-      "summary": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "id": "a01edf0c5254",
+      "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48-hours",
+      "url": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
+      "summary": "How AI accounting startup Rillet raised $100M and became a unicorn in 48-hours",
       "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-08-21T19:43:39.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Nvidia-VP-of-product-Adel-El-Hallak.jpg?resize=1200,898",
+      "published": "2026-08-21T22:10:01.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Rillet.jpg?resize=1200,799",
       "score": 80,
+      "tags": []
+    },
+    {
+      "id": "25360e89e79a",
+      "title": "How AI coding tools are contributing to the popularity of JavaScript",
+      "url": "https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/",
+      "summary": "In August 2025, TypeScript became the most used language on GitHub。 This was the largest shift in Gi",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-08-21T08:41:29.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/chris-ried-ieic5Tq8YMk-unsplash-scaled.jpg",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "90accb9ed72d",
+      "title": "A third of ChatGPT ads appear in irrelevant conversations",
+      "url": "https://www.artificialintelligence-news.com/news/a-third-of-chatgpt-ads-appear-in-irrelevant-conversations/",
+      "summary": "Advertising inside ChatGPT arrived with a promise that the assistant already knows what the user wan",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-08-20T08:07:40.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/levart_photographer-drwpcjkvxuU-unsplash-scaled.jpg",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "5f36318a4995",
+      "title": "Amazon&#8217;s Prime Air autonomous drones to reach 500 US cities",
+      "url": "https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/",
+      "summary": "Amazon plans to expand its Prime Air drone delivery service to nearly 500 cities and towns across th",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-08-20T14:05:18.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/amazon-prime-air-drone-delivery-us-cities-expansion-autonomous-physical-edge-ai-logistics.jpg",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "90eae752a6c9",
+      "title": "Stripe agrees to buy OpenRouter as AI model routing expands",
+      "url": "https://www.artificialintelligence-news.com/news/stripe-openrouter-acquisition-ai-model-routing/",
+      "summary": "Stripe has agreed to acquire OpenRouter, an AI model-routing platform that gives developers access t",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-08-20T10:00:00.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/Stripe-agrees-to-buy-OpenRouter-as-AI-model-routing-expands-scaled-e1787195901752.jpg",
+      "score": 70,
       "tags": []
     }
   ],
@@ -42,37 +90,28 @@
       "id": "3a4211235d0e",
       "title": "The $225 Pebble Time 2 is a refreshingly fun smartwatch",
       "url": "https://techcrunch.com/2026/08/21/the-225-pebble-time-2-is-a-refreshingly-fun-smartwatch/",
-      "summary": "The $225 Pebble Time 2 is a refreshingly fun smartwatch",
       "source": "TechCrunch",
       "category": "科技",
       "published": "2026-08-21T19:57:46.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/image-1.webp?resize=1200,923",
-      "score": 75,
-      "tags": []
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/image-1.webp?resize=1200,923"
+    },
+    {
+      "id": "4af5149f16f9",
+      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-21T19:43:39.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Nvidia-VP-of-product-Adel-El-Hallak.jpg?resize=1200,898"
     },
     {
       "id": "8f23860a0054",
       "title": "Last chance: Save up to $300 on your TechCrunch Disrupt 2026 ticket today",
       "url": "https://techcrunch.com/2026/08/21/last-chance-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket-today/",
-      "summary": "Last chance: Save up to $300 on your TechCrunch Disrupt 2026 ticket today",
       "source": "TechCrunch",
       "category": "科技",
       "published": "2026-08-21T19:16:15.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Save-Up-to-300-Horizontal.png?w=1200",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "21783aeedadd",
-      "title": "Tesla’s solar roof is dead — here’s what went wrong",
-      "url": "https://techcrunch.com/2026/08/21/teslas-solar-roof-is-dead-heres-what-went-wrong/",
-      "summary": "Tesla’s solar roof is dead — here’s what went wrong",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-21T18:09:53.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1233610093.jpeg?resize=1200,800",
-      "score": 75,
-      "tags": []
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Save-Up-to-300-Horizontal.png?w=1200"
     }
   ],
   "就业": [
@@ -101,6 +140,18 @@
       "tags": []
     },
     {
+      "id": "2eb589cd69ea",
+      "title": "2026秋招季大学生用什么AI工具？5款测试对比，职悟空值得关注",
+      "url": "https://www.ithome.com/0/990/978.htm",
+      "summary": "2026 年的大学生秋招 AI 工具已经开始走向“全流程陪伴”。2026 年 7 月，智联招聘在 WAIC 上发布了职悟空，搭载业内首个职业生涯长期记忆系统",
+      "source": "Bing·秋招",
+      "category": "就业",
+      "published": "2026-08-17T17:00:00.000Z",
+      "image": "",
+      "score": 60,
+      "tags": []
+    },
+    {
       "id": "067d27562981",
       "title": "硅谷最热门工种来了！大厂为何集体招聘“前端部署工程师”？",
       "url": "https://www.yicai.com/news/103246550.html",
@@ -123,18 +174,6 @@
       "image": "https://inews.gtimg.com/om_ls/OWCs-Tp6UekhhmAEcGla04vVA8bxCbpJz6i1bDub3KFkwAA_640330/0",
       "score": 60,
       "tags": []
-    },
-    {
-      "id": "c87244ede46e",
-      "title": "技术人35岁危机怎么破？AI大模型工程师+项目管理双轨教学!",
-      "url": "https://www.sohu.com/a/1059956030_100062024",
-      "summary": "在中国互联网行业，“35岁危机”在过去十余年里几乎成了一条不成文的铁律。程序员到了35岁，往往面临被“优化”的命运，企业偏爱更年轻、成本更低、更能加班的新人",
-      "source": "就业报告",
-      "category": "就业",
-      "published": "2026-08-07T07:07:00.000Z",
-      "image": "",
-      "score": 60,
-      "tags": []
     }
   ],
   "政策": [
@@ -151,14 +190,26 @@
       "tags": []
     },
     {
-      "id": "27656dec4f7f",
-      "title": "湖南三部门关于进一步优化创业担保贷款政策 全力支持大学生等重点 ...",
-      "url": "https://news.qq.com/rain/a/20260817A092GS00",
-      "summary": "为进一步健全创业支持体系，提升创业质量，增强创业担保贷款政策的吸引力和可及性，强化对大学生等重点群体创业的金融支撑，根据省委、省政府促进创业带动就业的决策部署及支持大学生创业“七个一”行动要求，依据《",
-      "source": "Bing·大学生创业扶持政策",
+      "id": "7530315d4a43",
+      "title": "@丹东企业、高校毕业生、就业困难人员……2026版补贴政策请查收",
+      "url": "https://news.qq.com/rain/a/20260815A06VPO00",
+      "summary": "近日，丹东市人力资源和社会保障局发布《丹东市就业创业政策清单（2026版）》，集中梳理了当前全市就业创业领域的重点扶持政策，方便企业和市民“对号入座”、应享尽享。清单分为“企业类”和“个人类”两大板块",
+      "source": "Bing·高校毕业生就业创业政策",
       "category": "政策",
-      "published": "2026-08-17T09:48:00.000Z",
-      "image": "",
+      "published": "2026-08-15T05:41:00.000Z",
+      "image": "http://inews.gtimg.com/newsapp_ls/0/192333742_200200/0",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "cbc9eef66c6c",
+      "title": "黑龙江推出“源来好创业”资源对接服务季 七大举措助力创业就业",
+      "url": "https://news.qq.com/rain/a/20260818A0AA7O00",
+      "summary": "央广网哈尔滨8月18日消息（记者 许诺）8月18日，黑龙江省以创业带动就业工作新闻发布会召开，会上介绍了全省即将开展的“源来好创业”资源对接服务季活动相关详情。据黑龙江省人力资源和社会保障厅二级巡视员",
+      "source": "Bing·人社部就业创业政策",
+      "category": "政策",
+      "published": "2026-08-18T10:51:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/O62q6z2c0KGCpf7gaIkvbrlwgjm6JAq5IE1-TYbe4OjeYAA_640330/0",
       "score": 55,
       "tags": []
     },
@@ -167,7 +218,7 @@
       "title": "黑龙江省出台10条政策措施 支持创业带动就业",
       "url": "https://www.sohu.com/a/1064437903_362042",
       "summary": "央广网哈尔滨8月18日消息（记者许诺）2026年以来，黑龙江省将创业带动就业工作列入2026年省政府工作报告重点任务，纳入新时代“幸福龙江”建设20件民生实事。在8月18日召开的黑龙江省以创业带动就业",
-      "source": "就业创业政策",
+      "source": "Bing·人社部就业创业政策",
       "category": "政策",
       "published": "2026-08-18T09:49:00.000Z",
       "image": "//q3.itc.cn/q_70/images03/20260818/350b2e83e67e45cb90a404a711ec7090.jpeg",
@@ -175,26 +226,14 @@
       "tags": []
     },
     {
-      "id": "ed0822808f9b",
-      "title": "温州发布专项政策指南 为残疾人大学生就业创业“撑腰”",
-      "url": "https://news.66wz.com/system/2026/07/16/105805829.shtml",
-      "summary": "市人社局与市残联携手对现行最实用、最优惠的就创业补贴政策进行全面梳理，并形成《温州市残疾人大学生就业创业政策指南》，助力这一特殊群体跨越障碍，实现更加充分、更高质量的就业和创业。 温州网讯 为支持更多",
-      "source": "就业创业政策",
+      "id": "27656dec4f7f",
+      "title": "湖南三部门关于进一步优化创业担保贷款政策 全力支持大学生等重点 ...",
+      "url": "https://news.qq.com/rain/a/20260817A092GS00",
+      "summary": "为进一步健全创业支持体系，提升创业质量，增强创业担保贷款政策的吸引力和可及性，强化对大学生等重点群体创业的金融支撑，根据省委、省政府促进创业带动就业的决策部署及支持大学生创业“七个一”行动要求，依据《",
+      "source": "Bing·大学生创业扶持政策",
       "category": "政策",
-      "published": "2026-07-16T01:51:00.000Z",
-      "image": "https://news.66wz.com/pic/003/013/337/00301333742_93765919.gif",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "7530315d4a43",
-      "title": "@丹东企业、高校毕业生、就业困难人员……2026版补贴政策请查收",
-      "url": "https://news.qq.com/rain/a/20260815A06VPO00",
-      "summary": "近日，丹东市人力资源和社会保障局发布《丹东市就业创业政策清单（2026版）》，集中梳理了当前全市就业创业领域的重点扶持政策，方便企业和市民“对号入座”、应享尽享。清单分为“企业类”和“个人类”两大板块",
-      "source": "就业创业政策",
-      "category": "政策",
-      "published": "2026-08-15T05:41:00.000Z",
-      "image": "http://inews.gtimg.com/newsapp_ls/0/192333742_200200/0",
+      "published": "2026-08-17T09:48:00.000Z",
+      "image": "",
       "score": 55,
       "tags": []
     }
