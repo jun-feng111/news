@@ -443,34 +443,100 @@ const searchQuery = ref('')
 const isSearching = computed(() => searchQuery.value.trim().length > 0)
 
 const normalize = (s) => String(s ?? '').toLowerCase()
-const collectCmdText = (c) => [
-  c.cmd, c.desc, c.example, c.detail, c.freq, ...(c.tags || [])
+const collectCmdText = (c, source) => [
+  source, c.cmd, c.desc, c.example, c.detail, c.freq, ...(c.tags || [])
 ].map(normalize).join(' ')
 const collectTechText = (t) => [
   t.name, t.category, t.desc, t.how,
   ...(t.pros || []), ...(t.cons || []), ...(t.useCases || [])
 ].map(normalize).join(' ')
 
+// 中文动词 → 常见英文命令/SQL 关键字映射，让“插入mysql”也能命中 INSERT 命令
+const SYNONYMS = {
+  '插入': ['insert', 'into'],
+  '增加': ['insert', 'add'],
+  '查询': ['select', 'show', 'from', 'where'],
+  '查找': ['select', 'show', 'grep', 'find'],
+  '搜索': ['select', 'show', 'grep', 'find'],
+  '删除': ['delete', 'drop', 'remove', 'rm'],
+  '更新': ['update', 'modify'],
+  '修改': ['update', 'alter', 'modify'],
+  '创建': ['create', 'make', 'mkdir'],
+  '建立': ['create', 'make'],
+  '授权': ['grant', 'privilege'],
+  '备份': ['backup', 'dump', 'mysqldump', 'expdp', 'impdp'],
+  '恢复': ['restore', 'import', 'recover'],
+  '导入': ['import', 'source', 'impdp'],
+  '导出': ['export', 'dump', 'mysqldump', 'expdp'],
+  '用户': ['user', 'username'],
+  '表': ['table', 'tables'],
+  '数据库': ['database', 'schema', 'db'],
+  '权限': ['privilege', 'grant', 'permission'],
+  '进程': ['process', 'ps', 'kill'],
+  '日志': ['log', 'journalctl'],
+  '服务': ['service', 'systemctl'],
+  '端口': ['port', 'ss', 'netstat'],
+  '文件': ['file', 'ls', 'find'],
+  '目录': ['dir', 'directory', 'cd'],
+  '压缩': ['zip', 'tar', 'gzip', 'compress'],
+  '解压': ['unzip', 'tar', 'extract'],
+  '查看': ['show', 'select', 'ls', 'cat'],
+  '停止': ['stop', 'kill', 'shutdown'],
+  '启动': ['start', 'startup', 'run'],
+  '重启': ['restart', 'reload'],
+  '配置': ['config', 'configure', 'conf'],
+  '连接': ['connect', 'connection', 'ssh', 'sqlplus'],
+  '安装': ['install', 'setup'],
+}
+
+// 把输入拆成最小关键词：空格分隔 + 中英文边界拆分
+const segmentKeywords = (raw) => {
+  const parts = raw.toLowerCase().split(/\s+/).filter(Boolean)
+  const keywords = []
+  for (const p of parts) {
+    // 按连续中文字符 / 连续非中文字符切分
+    const segs = p.match(/[\u4e00-\u9fa5]+|[^\u4e00-\u9fa5]+/g) || []
+    for (const s of segs) {
+      const trimmed = s.replace(/^[^a-z0-9\u4e00-\u9fa5]+|[^a-z0-9\u4e00-\u9fa5]+$/g, '')
+      if (trimmed) keywords.push(trimmed)
+    }
+  }
+  return [...new Set(keywords)]
+}
+
 const scoreItem = (item, keywords, source) => {
-  const text = source === 'tech' ? collectTechText(item) : collectCmdText(item)
+  const text = source === 'tech' ? collectTechText(item) : collectCmdText(item, source)
   const title = normalize(source === 'tech' ? item.name : item.cmd)
   let score = 0
-  let allMatch = true
+  let matched = 0
   for (const kw of keywords) {
-    const idx = text.indexOf(kw)
-    if (idx === -1) { allMatch = false; break }
-    if (title.startsWith(kw)) score += 100
-    else if (title.includes(kw)) score += 60
-    else if (idx === 0 || text[idx - 1] === ' ') score += 40
-    else score += 20
+    const expanded = [kw, ...(SYNONYMS[kw] || [])]
+    let best = 0
+    for (const w of expanded) {
+      const idx = text.indexOf(w)
+      if (idx === -1) continue
+      let s = 0
+      if (title.startsWith(w)) s = 120
+      else if (title.includes(w)) s = 70
+      else if (idx === 0 || text[idx - 1] === ' ' || text[idx - 1] === '(') s = 45
+      else s = 25
+      if (s > best) best = s
+    }
+    if (best > 0) {
+      matched++
+      score += best
+    }
   }
-  return allMatch ? score : -1
+  // 命中的关键词越多越靠前；全部命中额外奖励
+  if (matched > 0) score += matched * 15
+  if (matched === keywords.length) score += 60
+  return matched > 0 ? score : -1
 }
 
 const searchResults = computed(() => {
   const raw = searchQuery.value.trim()
   if (!raw) return []
-  const keywords = raw.toLowerCase().split(/\s+/).filter(Boolean)
+  const keywords = segmentKeywords(raw)
   if (!keywords.length) return []
 
   const all = [
