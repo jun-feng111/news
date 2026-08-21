@@ -304,11 +304,30 @@
       "source": "就业创业政策",
       "category": "政策",
       "published": "2026-07-16T01:51:00.000Z",
+      "image": "https://news.66wz.com/pic/003/013/337/00301333742_93765919.gif",
       "score": 55,
       "tags": []
     }
   ],
   "财经": [
+    {
+      "id": "394d383f3142",
+      "title": "我国自研新一代深水多功能海洋工程船完工交付",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-21/10681440.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-08-21T01:33:32.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "aa82d42bf8a4",
+      "title": "A股开盘：超3900只个股飘绿，三大指数集体低开",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-21/10681439.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-08-21T01:31:52.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
     {
       "id": "a7c67905f245",
       "title": "失控的9.9元手机壳",
@@ -335,27 +354,18 @@
       "category": "财经",
       "published": "2026-08-20T23:34:56.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "71c4a49e3869",
-      "title": "上市公司组织百人“抢公章”？ 海威华芯控制权纠纷升级",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681375.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-08-20T14:39:06.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "8a6b36cfd72b",
-      "title": "锚定建设高能级开放强省 浙江绘就五年“路线图”",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-20/10681371.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-08-20T13:59:30.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ],
   "开发": [
+    {
+      "id": "8e23d2539866",
+      "title": "Rust 再下一城：Astro 7 重写编译器与 Markdown 流水线",
+      "url": "https://www.infoq.cn/article/D6IBeGO6rqVCjBDv1qwj?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-21T09:16:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/ae/05/ae56byy3caf4875d8e02782a6fb81405.jpg"
+    },
     {
       "id": "ca00b11aa182",
       "title": "CFP 开放 | KCD 杭州站邀您共议 Agent 时代的云原生、可观测与大模型推理",
@@ -391,15 +401,6 @@
       "category": "开发",
       "published": "2026-08-20T16:12:45.000Z",
       "image": "https://static001.infoq.cn/resource/image/f3/86/f32d7f039e8d533e1c62e8d2285f2586.png"
-    },
-    {
-      "id": "b3576b3cb7e5",
-      "title": "Buildpacks 将容器加固控制点从 Dockerfile 中移出",
-      "url": "https://www.infoq.cn/article/8EPJjIlk5WwgiXphjxEW?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-08-20T15:39:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/97/2a/97095c77a0b17ae5f511f86dd8dbc82a.jpg"
     }
   ]
 }
