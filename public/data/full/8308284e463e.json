@@ -1,0 +1,7 @@
+{
+  "id": "8308284e463e",
+  "title": "使用Winform+WebView2+HTML构建弹性化、样式自定义化的管理系统界面 - 伍华聪",
+  "url": "https://www.cnblogs.com/wuhuacong/p/22623668",
+  "contentZh": "",
+  "contentFull": "\n最近根据一些界面设计心得，Winform+WebView2+HTML的技术，构建了一套非常弹性化、样式自定义化的管理系统界面，包含我们常规管理系统的一些场景，通过结合WInForm的强大功能，以及HTML弹性化设计，以WebView2为媒介载体，发挥各自的优势，设计了一些界面效果，包含我们常规用到的，用户、部门、角色、权限分配、字典管理、参数设置、登录日志、操作日志、销售报表、大屏展示，以及一些登录界面、闪屏界面，全屏切换、样式切换、关于信息等辅助性界面，供大家参考和交流。\n系统技术路线为C# + HTML + CSS + WebView2，没有依赖其他第三方控件。　通过使用微软的WebView2控件，实现WinForm 和 HTML的信息交互处理，可以通过相互的消息处理实现数据传递、事件通知的处理，类似Electron的模型处理。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+}
