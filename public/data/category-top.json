@@ -1,42 +1,6 @@
 {
   "AI": [
     {
-      "id": "25360e89e79a",
-      "title": "How AI coding tools are contributing to the popularity of JavaScript",
-      "url": "https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/",
-      "summary": "In August 2025, TypeScript became the most used language on GitHub。 This was the largest shift in Gi",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-08-21T08:41:29.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/chris-ried-ieic5Tq8YMk-unsplash-scaled.jpg",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "5f36318a4995",
-      "title": "Amazon&#8217;s Prime Air autonomous drones to reach 500 US cities",
-      "url": "https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/",
-      "summary": "Amazon plans to expand its Prime Air drone delivery service to nearly 500 cities and towns across th",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-08-20T14:05:18.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/amazon-prime-air-drone-delivery-us-cities-expansion-autonomous-physical-edge-ai-logistics.jpg",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "90accb9ed72d",
-      "title": "A third of ChatGPT ads appear in irrelevant conversations",
-      "url": "https://www.artificialintelligence-news.com/news/a-third-of-chatgpt-ads-appear-in-irrelevant-conversations/",
-      "summary": "Advertising inside ChatGPT arrived with a promise that the assistant already knows what the user wan",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-08-20T08:07:40.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/levart_photographer-drwpcjkvxuU-unsplash-scaled.jpg",
-      "score": 75,
-      "tags": []
-    },
-    {
       "id": "715aa7b8d8cb",
       "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
       "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
@@ -49,15 +13,113 @@
       "tags": []
     },
     {
-      "id": "90eae752a6c9",
-      "title": "Stripe agrees to buy OpenRouter as AI model routing expands",
-      "url": "https://www.artificialintelligence-news.com/news/stripe-openrouter-acquisition-ai-model-routing/",
-      "summary": "Stripe has agreed to acquire OpenRouter, an AI model-routing platform that gives developers access t",
-      "source": "AI News",
+      "id": "08dddb48c1bd",
+      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+      "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "summary": "OpenAI is gaining on Anthropic with business users, new data indicates",
+      "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-08-20T10:00:00.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/Stripe-agrees-to-buy-OpenRouter-as-AI-model-routing-expands-scaled-e1787195901752.jpg",
+      "published": "2026-08-20T22:36:37.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "fc53f9f20e6e",
+      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+      "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+      "summary": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-20T22:09:51.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1831275897.jpg?resize=1200,800",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "b359671ae1bf",
+      "title": "Google gives publishers a new way to fight AI-driven traffic losses",
+      "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+      "summary": "Google gives publishers a new way to fight AI-driven traffic losses",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-20T19:18:21.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/01-ps-button-Family_resized.width-2000.format-webp.webp?resize=1200,675",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "cdac95d6e803",
+      "title": "Learn what VCs actually want, from a founder who&#8217;s raised $1B",
+      "url": "https://techcrunch.com/video/learn-what-vcs-actually-want-from-a-founder-whos-raised-1b/",
+      "summary": "Learn what VCs actually want, from a founder who&#8217;s raised $1B",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-20T23:32:27.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/BMs3e7-features.png?resize=1200,675",
       "score": 70,
+      "tags": []
+    }
+  ],
+  "科技": [
+    {
+      "id": "0e5fabfe4834",
+      "title": "OK, can we actually cool data centers with our pee?",
+      "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
+      "summary": "OK, can we actually cool data centers with our pee",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-20T20:53:13.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2270767933.jpg?resize=1200,686",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "f7568c550672",
+      "title": "Someone targeted security researchers using a fake crypto conference as a lure",
+      "url": "https://techcrunch.com/2026/08/20/someone-targeted-security-researchers-using-a-fake-crypto-conference-as-a-lure/",
+      "summary": "Someone targeted security researchers using a fake crypto conference as a lure",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-20T20:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2018/02/gettyimages-887454272.jpg?resize=1200,797",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "2954f75ed6ff",
+      "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
+      "url": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
+      "summary": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-21T00:23:36.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2220872848.jpg?resize=1200,801",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "95fe83e57d1a",
+      "title": "The Enhanced Games — tech&#8217;s steroid extravaganza — didn&#8217;t pay off, as company posts $60 million loss",
+      "url": "https://techcrunch.com/2026/08/20/the-enhanced-games-techs-steroid-extravaganza-didnt-pay-off-as-company-posts-60-million-loss/",
+      "summary": "The Enhanced Games — tech&#8217;s steroid extravaganza — didn&#8217;t pay off, as company posts $60 ",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-20T21:08:34.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2278069583.jpg?resize=1200,800",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "0585e92cb809",
+      "title": "Mark buys a castle",
+      "url": "https://techcrunch.com/2026/08/20/mark-buys-a-castle/",
+      "summary": "Mark buys a castle",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-20T19:55:40.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2243536353.jpg?w=1024",
+      "score": 60,
       "tags": []
     }
   ],
@@ -87,6 +149,18 @@
       "tags": []
     },
     {
+      "id": "2eb589cd69ea",
+      "title": "2026秋招季大学生用什么AI工具？5款测试对比，职悟空值得关注",
+      "url": "https://www.ithome.com/0/990/978.htm",
+      "summary": "2026 年的大学生秋招 AI 工具已经开始走向“全流程陪伴”。2026 年 7 月，智联招聘在 WAIC 上发布了职悟空，搭载业内首个职业生涯长期记忆系统",
+      "source": "Bing·秋招",
+      "category": "就业",
+      "published": "2026-08-17T17:00:00.000Z",
+      "image": "",
+      "score": 60,
+      "tags": []
+    },
+    {
       "id": "af8ee80ad7c4",
       "title": "2026年大学生就业前景研判报告：人工智能、数据工程师以三成招聘 ...",
       "url": "https://news.qq.com/rain/a/20260621A08K1J00",
@@ -109,68 +183,6 @@
       "image": "data:image/png;base64,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",
       "score": 60,
       "tags": []
-    },
-    {
-      "id": "c87244ede46e",
-      "title": "技术人35岁危机怎么破？AI大模型工程师+项目管理双轨教学!",
-      "url": "https://www.sohu.com/a/1059956030_100062024",
-      "summary": "在中国互联网行业，“35岁危机”在过去十余年里几乎成了一条不成文的铁律。程序员到了35岁，往往面临被“优化”的命运，企业偏爱更年轻、成本更低、更能加班的新人",
-      "source": "就业报告",
-      "category": "就业",
-      "published": "2026-08-07T07:07:00.000Z",
-      "image": "",
-      "score": 60,
-      "tags": []
-    }
-  ],
-  "科技": [
-    {
-      "id": "2954f75ed6ff",
-      "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
-      "url": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
-      "summary": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-21T00:23:36.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2220872848.jpg?resize=1200,801",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "08dddb48c1bd",
-      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-      "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-20T22:36:37.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800"
-    },
-    {
-      "id": "fc53f9f20e6e",
-      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-      "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-20T22:09:51.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1831275897.jpg?resize=1200,800"
-    },
-    {
-      "id": "95fe83e57d1a",
-      "title": "The Enhanced Games — tech&#8217;s steroid extravaganza — didn&#8217;t pay off, as company posts $60 million loss",
-      "url": "https://techcrunch.com/2026/08/20/the-enhanced-games-techs-steroid-extravaganza-didnt-pay-off-as-company-posts-60-million-loss/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-20T21:08:34.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2278069583.jpg?resize=1200,800"
-    },
-    {
-      "id": "0e5fabfe4834",
-      "title": "OK, can we actually cool data centers with our pee?",
-      "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-20T20:53:13.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2270767933.jpg?resize=1200,686"
     }
   ],
   "政策": [
@@ -187,6 +199,30 @@
       "tags": []
     },
     {
+      "id": "7530315d4a43",
+      "title": "@丹东企业、高校毕业生、就业困难人员……2026版补贴政策请查收",
+      "url": "https://news.qq.com/rain/a/20260815A06VPO00",
+      "summary": "近日，丹东市人力资源和社会保障局发布《丹东市就业创业政策清单（2026版）》，集中梳理了当前全市就业创业领域的重点扶持政策，方便企业和市民“对号入座”、应享尽享。清单分为“企业类”和“个人类”两大板块",
+      "source": "Bing·高校毕业生就业创业政策",
+      "category": "政策",
+      "published": "2026-08-15T05:41:00.000Z",
+      "image": "http://inews.gtimg.com/newsapp_ls/0/192333742_200200/0",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "81334988a399",
+      "title": "黑龙江省出台10条政策措施 支持创业带动就业",
+      "url": "https://www.sohu.com/a/1064437903_362042",
+      "summary": "央广网哈尔滨8月18日消息（记者许诺）2026年以来，黑龙江省将创业带动就业工作列入2026年省政府工作报告重点任务，纳入新时代“幸福龙江”建设20件民生实事。在8月18日召开的黑龙江省以创业带动就业",
+      "source": "Bing·人社部就业创业政策",
+      "category": "政策",
+      "published": "2026-08-18T09:49:00.000Z",
+      "image": "//q3.itc.cn/q_70/images03/20260818/350b2e83e67e45cb90a404a711ec7090.jpeg",
+      "score": 55,
+      "tags": []
+    },
+    {
       "id": "27656dec4f7f",
       "title": "湖南三部门关于进一步优化创业担保贷款政策 全力支持大学生等重点 ...",
       "url": "https://news.qq.com/rain/a/20260817A092GS00",
@@ -199,18 +235,6 @@
       "tags": []
     },
     {
-      "id": "81334988a399",
-      "title": "黑龙江省出台10条政策措施 支持创业带动就业",
-      "url": "https://www.sohu.com/a/1064437903_362042",
-      "summary": "央广网哈尔滨8月18日消息（记者许诺）2026年以来，黑龙江省将创业带动就业工作列入2026年省政府工作报告重点任务，纳入新时代“幸福龙江”建设20件民生实事。在8月18日召开的黑龙江省以创业带动就业",
-      "source": "就业创业政策",
-      "category": "政策",
-      "published": "2026-08-18T09:49:00.000Z",
-      "image": "//q3.itc.cn/q_70/images03/20260818/350b2e83e67e45cb90a404a711ec7090.jpeg",
-      "score": 55,
-      "tags": []
-    },
-    {
       "id": "ed0822808f9b",
       "title": "温州发布专项政策指南 为残疾人大学生就业创业“撑腰”",
       "url": "https://news.66wz.com/system/2026/07/16/105805829.shtml",
@@ -218,19 +242,6 @@
       "source": "就业创业政策",
       "category": "政策",
       "published": "2026-07-16T01:51:00.000Z",
-      "image": "https://news.66wz.com/pic/003/013/337/00301333742_93765919.gif",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "7530315d4a43",
-      "title": "@丹东企业、高校毕业生、就业困难人员……2026版补贴政策请查收",
-      "url": "https://news.qq.com/rain/a/20260815A06VPO00",
-      "summary": "近日，丹东市人力资源和社会保障局发布《丹东市就业创业政策清单（2026版）》，集中梳理了当前全市就业创业领域的重点扶持政策，方便企业和市民“对号入座”、应享尽享。清单分为“企业类”和“个人类”两大板块",
-      "source": "就业创业政策",
-      "category": "政策",
-      "published": "2026-08-15T05:41:00.000Z",
-      "image": "http://inews.gtimg.com/newsapp_ls/0/192333742_200200/0",
       "score": 55,
       "tags": []
     }
@@ -299,52 +310,79 @@
   ],
   "财经": [
     {
-      "id": "491134e43989",
-      "title": "世界机器人大会吸引多国业界人士与会共议全球协作路径",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-21/10681955.shtml",
+      "id": "bb9764f25ed2",
+      "title": "“一单到底”+数据联通 多式联运跑出物流加速度",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-21/10682019.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-21T11:17:56.000Z",
+      "published": "2026-08-21T12:28:13.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "34405c251ff3",
-      "title": "广东今年前7月生产供给增长较快 新动能成长壮大",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-21/10681948.shtml",
+      "id": "ca7f15b737e0",
+      "title": "第二届全球技术创新大赛在浙江启动",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-21/10682010.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-21T11:16:36.000Z",
+      "published": "2026-08-21T12:18:48.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "d37b335d9790",
-      "title": "“中国雪花梨之乡”打出梨果产销提质“组合拳”",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-21/10681940.shtml",
+      "id": "dee7525da1c5",
+      "title": "串珠成链、引客入“吕” 山西吕梁文旅的“留量”新棋局",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-21/10682001.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-21T11:07:36.000Z",
+      "published": "2026-08-21T12:15:14.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "fe633d58613b",
-      "title": "“中国脆李之乡”释产业红利 变“单打冠军”为“团体冠军”",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-21/10681935.shtml",
+      "id": "260b621bb666",
+      "title": "全球500余支队伍聚深圳角逐合成生物学创新赛决赛",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-21/10681999.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-21T10:53:39.000Z",
+      "published": "2026-08-21T12:14:40.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "a33d23ff6f46",
-      "title": "中国民航局：7月份民航旅客运输量同比增长3.9%",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-21/10681931.shtml",
+      "id": "bfac110e9b58",
+      "title": "50余位港澳院校毕业生到访青岛 探寻智能制造等领域发展机遇",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-21/10681997.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-21T10:45:26.000Z",
+      "published": "2026-08-21T12:13:54.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ],
   "开发": [
+    {
+      "id": "d8ad8756ffac",
+      "title": "神秘“Ox Alpha”突袭 OpenRouter，性能超过 Fable 5？全网盲猜智谱 or 小米",
+      "url": "https://www.infoq.cn/article/3MNJh5F34GSsRQJJWJzY?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-21T19:41:49.000Z",
+      "image": "https://static001.infoq.cn/resource/image/d6/f3/d63b0f5d645e4d4c9745f3757cd78ff3.png"
+    },
+    {
+      "id": "0db2545a182a",
+      "title": "DeepSeek 发布多模态模型，“小鲸鱼”长出了眼睛",
+      "url": "https://www.infoq.cn/article/jlTfe57D4r0Juzpz8Fk5?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-21T19:34:36.000Z",
+      "image": "https://static001.infoq.cn/resource/image/a4/bb/a4ba1ca59e4969be19fe0yy1a790dabb.png"
+    },
+    {
+      "id": "1792c3179adc",
+      "title": "材科源图三个月完成两轮融资，AI全链路闭环加速材料产业化",
+      "url": "https://www.infoq.cn/article/YB51rwb95keVmlIZ0xQd?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-21T19:31:11.000Z",
+      "image": "https://static001.infoq.cn/resource/image/27/64/27b209a2d9513698274c409cd6dbb964.png"
+    },
     {
       "id": "5ed70c17945a",
       "title": "本地运行、支持视觉与工具调用：Meta 开源智能体模型",
@@ -361,33 +399,6 @@
       "source": "InfoQ中文",
       "category": "开发",
       "published": "2026-08-21T16:55:09.000Z",
-      "image": "https://static001.infoq.cn/resource/image/86/a9/863f4cb77cf82779f1e69f6e367477a9.jpg"
-    },
-    {
-      "id": "75d01e63bc1f",
-      "title": "不跟风、不堆模型，百度靠什么突围AI办公赛道？",
-      "url": "https://www.infoq.cn/article/9x1ohAMlMpMCLdygg8Yf?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-08-21T16:47:55.000Z",
-      "image": "https://static001.infoq.cn/resource/image/0e/37/0ec377f82688c64527a8a00816023c37.png"
-    },
-    {
-      "id": "e43be4fbf990",
-      "title": "Vercel Zero 引发争议：AI 时代真的需要一门新语言吗？",
-      "url": "https://www.infoq.cn/article/v44qVA7JeYOckqlztLMP?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-08-21T14:25:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/b7/06/b72b712f67df7d76a193d446f46d3306.jpg"
-    },
-    {
-      "id": "f4ed497e293d",
-      "title": "初级岗位消失、高级人才断层：下一代高级工程师从哪里来？",
-      "url": "https://www.infoq.cn/article/xL611mlF8NKR0zTB7aMl?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-08-21T12:00:00.000Z",
       "image": "https://static001.infoq.cn/resource/image/86/a9/863f4cb77cf82779f1e69f6e367477a9.jpg"
     }
   ]
