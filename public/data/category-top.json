@@ -1,114 +1,117 @@
 {
-  "科技": [
+  "AI": [
     {
-      "id": "05d1da53ace1",
-      "title": "Senator asks US government watchdog to review how feds use hacking tools",
-      "url": "https://techcrunch.com/2026/08/21/senator-asks-us-federal-watchdog-to-review-how-feds-use-hacking-tools/",
-      "summary": "Senator asks US government watchdog to review how feds use hacking tools",
+      "id": "f30a4a32fb60",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "summary": "Starcloud raises $250 million for orbital data centers as launch options dry up",
       "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-21T13:05:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/sen-ron-wyden.jpg?resize=1200,800",
+      "category": "AI",
+      "published": "2026-08-21T14:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Starcloud-Founders-2026.jpg?w=810",
+      "score": 80,
+      "tags": []
+    },
+    {
+      "id": "25360e89e79a",
+      "title": "How AI coding tools are contributing to the popularity of JavaScript",
+      "url": "https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/",
+      "summary": "In August 2025, TypeScript became the most used language on GitHub。 This was the largest shift in Gi",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-08-21T08:41:29.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/chris-ried-ieic5Tq8YMk-unsplash-scaled.jpg",
       "score": 75,
       "tags": []
     },
     {
-      "id": "0e5fabfe4834",
-      "title": "OK, can we actually cool data centers with our pee?",
-      "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
-      "summary": "OK, can we actually cool data centers with our pee",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-20T20:53:13.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2270767933.jpg?resize=1200,686",
+      "id": "90accb9ed72d",
+      "title": "A third of ChatGPT ads appear in irrelevant conversations",
+      "url": "https://www.artificialintelligence-news.com/news/a-third-of-chatgpt-ads-appear-in-irrelevant-conversations/",
+      "summary": "Advertising inside ChatGPT arrived with a promise that the assistant already knows what the user wan",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-08-20T08:07:40.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/levart_photographer-drwpcjkvxuU-unsplash-scaled.jpg",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "5f36318a4995",
+      "title": "Amazon&#8217;s Prime Air autonomous drones to reach 500 US cities",
+      "url": "https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/",
+      "summary": "Amazon plans to expand its Prime Air drone delivery service to nearly 500 cities and towns across th",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-08-20T14:05:18.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/amazon-prime-air-drone-delivery-us-cities-expansion-autonomous-physical-edge-ai-logistics.jpg",
       "score": 70,
       "tags": []
     },
     {
-      "id": "f7568c550672",
-      "title": "Someone targeted security researchers using a fake crypto conference as a lure",
-      "url": "https://techcrunch.com/2026/08/20/someone-targeted-security-researchers-using-a-fake-crypto-conference-as-a-lure/",
-      "summary": "Someone targeted security researchers using a fake crypto conference as a lure",
+      "id": "90eae752a6c9",
+      "title": "Stripe agrees to buy OpenRouter as AI model routing expands",
+      "url": "https://www.artificialintelligence-news.com/news/stripe-openrouter-acquisition-ai-model-routing/",
+      "summary": "Stripe has agreed to acquire OpenRouter, an AI model-routing platform that gives developers access t",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-08-20T10:00:00.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/Stripe-agrees-to-buy-OpenRouter-as-AI-model-routing-expands-scaled-e1787195901752.jpg",
+      "score": 70,
+      "tags": []
+    }
+  ],
+  "科技": [
+    {
+      "id": "103b83fa4000",
+      "title": "Walmart to finally start accepting Apple Pay and Google Pay",
+      "url": "https://techcrunch.com/2026/08/21/walmart-to-finally-start-accepting-apple-pay-and-google-pay/",
+      "summary": "Walmart to finally start accepting Apple Pay and Google Pay",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-08-20T20:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2018/02/gettyimages-887454272.jpg?resize=1200,797",
-      "score": 70,
+      "published": "2026-08-21T14:30:23.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2015/07/shutterstock_186861932.jpg?w=1000",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "2cb3495a5528",
+      "title": "Tesla recalls 3 million cars as part of China-wide push to stop hidden door handles",
+      "url": "https://techcrunch.com/2026/08/21/tesla-recalls-3-million-cars-as-part-of-china-wide-push-to-stop-hidden-door-handles/",
+      "summary": "Tesla recalls 3 million cars as part of China-wide push to stop hidden door handles",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-21T13:48:26.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1252658003.jpg?resize=1200,675",
+      "score": 65,
       "tags": []
     },
     {
       "id": "b0e22beaaf5f",
       "title": "Private equity firm Apollo confirms data breach amid hacking wave targeting financial giants",
       "url": "https://techcrunch.com/2026/08/21/private-equity-firm-apollo-confirms-data-breach-amid-hacking-wave-targeting-financial-giants/",
-      "summary": "Private equity firm Apollo confirms data breach amid hacking wave targeting financial giants",
       "source": "TechCrunch",
       "category": "科技",
       "published": "2026-08-21T13:35:23.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/apollo-1825445522.jpg?resize=1200,801",
-      "score": 65,
-      "tags": []
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/apollo-1825445522.jpg?resize=1200,801"
+    },
+    {
+      "id": "05d1da53ace1",
+      "title": "Senator asks US government watchdog to review how feds use hacking tools",
+      "url": "https://techcrunch.com/2026/08/21/senator-asks-us-federal-watchdog-to-review-how-feds-use-hacking-tools/",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-21T13:05:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/sen-ron-wyden.jpg?resize=1200,800"
     },
     {
       "id": "2954f75ed6ff",
       "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
       "url": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
-      "summary": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
       "source": "TechCrunch",
       "category": "科技",
       "published": "2026-08-21T00:23:36.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2220872848.jpg?resize=1200,801",
-      "score": 60,
-      "tags": []
-    }
-  ],
-  "AI": [
-    {
-      "id": "715aa7b8d8cb",
-      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-      "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-      "summary": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-21T00:13:44.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/12/IMG_2686.jpeg?resize=1200,957",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "08dddb48c1bd",
-      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-      "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-      "summary": "OpenAI is gaining on Anthropic with business users, new data indicates",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-20T22:36:37.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "fc53f9f20e6e",
-      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-      "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-      "summary": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-20T22:09:51.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1831275897.jpg?resize=1200,800",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "cdac95d6e803",
-      "title": "Learn what VCs actually want, from a founder who&#8217;s raised $1B",
-      "url": "https://techcrunch.com/video/learn-what-vcs-actually-want-from-a-founder-whos-raised-1b/",
-      "summary": "Learn what VCs actually want, from a founder who&#8217;s raised $1B",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-20T23:32:27.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/BMs3e7-features.png?resize=1200,675",
-      "score": 70,
-      "tags": []
+      "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2220872848.jpg?resize=1200,801"
     }
   ],
   "就业": [
@@ -199,6 +202,18 @@
       "tags": []
     },
     {
+      "id": "cbc9eef66c6c",
+      "title": "黑龙江推出“源来好创业”资源对接服务季 七大举措助力创业就业",
+      "url": "https://news.qq.com/rain/a/20260818A0AA7O00",
+      "summary": "央广网哈尔滨8月18日消息（记者 许诺）8月18日，黑龙江省以创业带动就业工作新闻发布会召开，会上介绍了全省即将开展的“源来好创业”资源对接服务季活动相关详情。据黑龙江省人力资源和社会保障厅二级巡视员",
+      "source": "Bing·人社部就业创业政策",
+      "category": "政策",
+      "published": "2026-08-18T10:51:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/O62q6z2c0KGCpf7gaIkvbrlwgjm6JAq5IE1-TYbe4OjeYAA_640330/0",
+      "score": 55,
+      "tags": []
+    },
+    {
       "id": "81334988a399",
       "title": "黑龙江省出台10条政策措施 支持创业带动就业",
       "url": "https://www.sohu.com/a/1064437903_362042",
@@ -219,17 +234,6 @@
       "category": "政策",
       "published": "2026-08-17T09:48:00.000Z",
       "image": "",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "ed0822808f9b",
-      "title": "温州发布专项政策指南 为残疾人大学生就业创业“撑腰”",
-      "url": "https://news.66wz.com/system/2026/07/16/105805829.shtml",
-      "summary": "市人社局与市残联携手对现行最实用、最优惠的就创业补贴政策进行全面梳理，并形成《温州市残疾人大学生就业创业政策指南》，助力这一特殊群体跨越障碍，实现更加充分、更高质量的就业和创业。 温州网讯 为支持更多",
-      "source": "就业创业政策",
-      "category": "政策",
-      "published": "2026-07-16T01:51:00.000Z",
       "score": 55,
       "tags": []
     }
@@ -298,48 +302,48 @@
   ],
   "财经": [
     {
+      "id": "f9370d119bd7",
+      "title": "海南洋浦港审批便利化新举措提升国际船舶进口岸效率",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-21/10682115.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-08-21T14:06:29.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "51d2ac9e3280",
+      "title": "闽宁科技合作推进会在宁夏银川召开",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-21/10682103.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-08-21T13:57:42.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "4896ca37c5de",
+      "title": "临床出题、产业破题 广州医博会搭医产协同创新平台",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-21/10682106.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-08-21T13:55:48.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "9440bb301be1",
+      "title": "涉及汽车门把手缺陷 9家车企召回多款汽车",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-21/10682098.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-08-21T13:52:06.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
       "id": "d9b22553f5aa",
       "title": "“铜城”白银“十五五”的“三张牌”",
       "url": "https://www.chinanews.com.cn/cj/2026/08-21/10682078.shtml",
       "source": "中新网财经",
       "category": "财经",
       "published": "2026-08-21T13:36:19.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "a88f9cd74da0",
-      "title": "从“造星”到“运营星” 浙江一民企获批开展卫星物联网商用试验",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-21/10682077.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-08-21T13:33:01.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "ee79b720a069",
-      "title": "从“守金山卖矿石”到“世界镁都” 青阳用轻金属完成重转型",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-21/10682075.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-08-21T13:32:31.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "e0080c16f210",
-      "title": "一国家级平台新增33个重点项目 助推智能出行成果转化",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-21/10682073.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-08-21T13:30:39.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "95533fcf0efa",
-      "title": "开局起步“十五五”：海南加快农业农村现代化",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-21/10682070.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-08-21T13:29:47.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ],
