@@ -1,4 +1,66 @@
 {
+  "科技": [
+    {
+      "id": "05d1da53ace1",
+      "title": "Senator asks US government watchdog to review how feds use hacking tools",
+      "url": "https://techcrunch.com/2026/08/21/senator-asks-us-federal-watchdog-to-review-how-feds-use-hacking-tools/",
+      "summary": "Senator asks US government watchdog to review how feds use hacking tools",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-21T13:05:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/sen-ron-wyden.jpg?resize=1200,800",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "0e5fabfe4834",
+      "title": "OK, can we actually cool data centers with our pee?",
+      "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
+      "summary": "OK, can we actually cool data centers with our pee",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-20T20:53:13.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2270767933.jpg?resize=1200,686",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "f7568c550672",
+      "title": "Someone targeted security researchers using a fake crypto conference as a lure",
+      "url": "https://techcrunch.com/2026/08/20/someone-targeted-security-researchers-using-a-fake-crypto-conference-as-a-lure/",
+      "summary": "Someone targeted security researchers using a fake crypto conference as a lure",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-20T20:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2018/02/gettyimages-887454272.jpg?resize=1200,797",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "b0e22beaaf5f",
+      "title": "Private equity firm Apollo confirms data breach amid hacking wave targeting financial giants",
+      "url": "https://techcrunch.com/2026/08/21/private-equity-firm-apollo-confirms-data-breach-amid-hacking-wave-targeting-financial-giants/",
+      "summary": "Private equity firm Apollo confirms data breach amid hacking wave targeting financial giants",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-21T13:35:23.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/apollo-1825445522.jpg?resize=1200,801",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "2954f75ed6ff",
+      "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
+      "url": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
+      "summary": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-21T00:23:36.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2220872848.jpg?resize=1200,801",
+      "score": 60,
+      "tags": []
+    }
+  ],
   "AI": [
     {
       "id": "715aa7b8d8cb",
@@ -37,18 +99,6 @@
       "tags": []
     },
     {
-      "id": "b359671ae1bf",
-      "title": "Google gives publishers a new way to fight AI-driven traffic losses",
-      "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-      "summary": "Google gives publishers a new way to fight AI-driven traffic losses",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-20T19:18:21.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/01-ps-button-Family_resized.width-2000.format-webp.webp?resize=1200,675",
-      "score": 75,
-      "tags": []
-    },
-    {
       "id": "cdac95d6e803",
       "title": "Learn what VCs actually want, from a founder who&#8217;s raised $1B",
       "url": "https://techcrunch.com/video/learn-what-vcs-actually-want-from-a-founder-whos-raised-1b/",
@@ -58,68 +108,6 @@
       "published": "2026-08-20T23:32:27.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/BMs3e7-features.png?resize=1200,675",
       "score": 70,
-      "tags": []
-    }
-  ],
-  "科技": [
-    {
-      "id": "0e5fabfe4834",
-      "title": "OK, can we actually cool data centers with our pee?",
-      "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
-      "summary": "OK, can we actually cool data centers with our pee",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-20T20:53:13.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2270767933.jpg?resize=1200,686",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "f7568c550672",
-      "title": "Someone targeted security researchers using a fake crypto conference as a lure",
-      "url": "https://techcrunch.com/2026/08/20/someone-targeted-security-researchers-using-a-fake-crypto-conference-as-a-lure/",
-      "summary": "Someone targeted security researchers using a fake crypto conference as a lure",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-20T20:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2018/02/gettyimages-887454272.jpg?resize=1200,797",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "2954f75ed6ff",
-      "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
-      "url": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
-      "summary": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-21T00:23:36.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2220872848.jpg?resize=1200,801",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "95fe83e57d1a",
-      "title": "The Enhanced Games — tech&#8217;s steroid extravaganza — didn&#8217;t pay off, as company posts $60 million loss",
-      "url": "https://techcrunch.com/2026/08/20/the-enhanced-games-techs-steroid-extravaganza-didnt-pay-off-as-company-posts-60-million-loss/",
-      "summary": "The Enhanced Games — tech&#8217;s steroid extravaganza — didn&#8217;t pay off, as company posts $60 ",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-20T21:08:34.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2278069583.jpg?resize=1200,800",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "0585e92cb809",
-      "title": "Mark buys a castle",
-      "url": "https://techcrunch.com/2026/08/20/mark-buys-a-castle/",
-      "summary": "Mark buys a castle",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-20T19:55:40.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2243536353.jpg?w=1024",
-      "score": 60,
       "tags": []
     }
   ],
@@ -310,48 +298,48 @@
   ],
   "财经": [
     {
-      "id": "bb9764f25ed2",
-      "title": "“一单到底”+数据联通 多式联运跑出物流加速度",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-21/10682019.shtml",
+      "id": "d9b22553f5aa",
+      "title": "“铜城”白银“十五五”的“三张牌”",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-21/10682078.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-21T12:28:13.000Z",
+      "published": "2026-08-21T13:36:19.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "ca7f15b737e0",
-      "title": "第二届全球技术创新大赛在浙江启动",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-21/10682010.shtml",
+      "id": "a88f9cd74da0",
+      "title": "从“造星”到“运营星” 浙江一民企获批开展卫星物联网商用试验",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-21/10682077.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-21T12:18:48.000Z",
+      "published": "2026-08-21T13:33:01.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "dee7525da1c5",
-      "title": "串珠成链、引客入“吕” 山西吕梁文旅的“留量”新棋局",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-21/10682001.shtml",
+      "id": "ee79b720a069",
+      "title": "从“守金山卖矿石”到“世界镁都” 青阳用轻金属完成重转型",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-21/10682075.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-21T12:15:14.000Z",
+      "published": "2026-08-21T13:32:31.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "260b621bb666",
-      "title": "全球500余支队伍聚深圳角逐合成生物学创新赛决赛",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-21/10681999.shtml",
+      "id": "e0080c16f210",
+      "title": "一国家级平台新增33个重点项目 助推智能出行成果转化",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-21/10682073.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-21T12:14:40.000Z",
+      "published": "2026-08-21T13:30:39.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "bfac110e9b58",
-      "title": "50余位港澳院校毕业生到访青岛 探寻智能制造等领域发展机遇",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-21/10681997.shtml",
+      "id": "95533fcf0efa",
+      "title": "开局起步“十五五”：海南加快农业农村现代化",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-21/10682070.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-21T12:13:54.000Z",
+      "published": "2026-08-21T13:29:47.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ],
