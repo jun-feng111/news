@@ -1,18 +1,6 @@
 {
   "AI": [
     {
-      "id": "25360e89e79a",
-      "title": "How AI coding tools are contributing to the popularity of JavaScript",
-      "url": "https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/",
-      "summary": "In August 2025, TypeScript became the most used language on GitHub。 This was the largest shift in Gi",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-08-21T08:41:29.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/chris-ried-ieic5Tq8YMk-unsplash-scaled.jpg",
-      "score": 75,
-      "tags": []
-    },
-    {
       "id": "8014b9bf1f18",
       "title": "Michael Polansky is training an AI model on skin that’s still alive",
       "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
@@ -37,27 +25,15 @@
       "tags": []
     },
     {
-      "id": "5f36318a4995",
-      "title": "Amazon&#8217;s Prime Air autonomous drones to reach 500 US cities",
-      "url": "https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/",
-      "summary": "Amazon plans to expand its Prime Air drone delivery service to nearly 500 cities and towns across th",
-      "source": "AI News",
+      "id": "4af5149f16f9",
+      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "summary": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-08-20T14:05:18.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/amazon-prime-air-drone-delivery-us-cities-expansion-autonomous-physical-edge-ai-logistics.jpg",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "90eae752a6c9",
-      "title": "Stripe agrees to buy OpenRouter as AI model routing expands",
-      "url": "https://www.artificialintelligence-news.com/news/stripe-openrouter-acquisition-ai-model-routing/",
-      "summary": "Stripe has agreed to acquire OpenRouter, an AI model-routing platform that gives developers access t",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-08-20T10:00:00.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/Stripe-agrees-to-buy-OpenRouter-as-AI-model-routing-expands-scaled-e1787195901752.jpg",
-      "score": 70,
+      "published": "2026-08-21T19:43:39.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Nvidia-VP-of-product-Adel-El-Hallak.jpg?resize=1200,898",
+      "score": 75,
       "tags": []
     }
   ],
@@ -87,6 +63,15 @@
       "tags": []
     },
     {
+      "id": "bdf14d262edb",
+      "title": "Cloudflare 推出 Cache Response Rules，在源站响应后进一步控制缓存",
+      "url": "https://www.infoq.cn/article/kyUdCw0IPHwuIHg2WJCu?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-22T17:17:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/06/13/068982f07be1f91d83992f79178e1913.jpg"
+    },
+    {
       "id": "05a19ddeb61b",
       "title": "Cloudflare 推出 Agent Tracing：支持截断限制，不同框架的 Payload 默认记录策略存在差异",
       "url": "https://www.infoq.cn/article/IBYDTeu3rse9tH3549wf?utm_source=rss&amp;utm_medium=article",
@@ -103,15 +88,6 @@
       "category": "开发",
       "published": "2026-08-22T11:05:00.000Z",
       "image": "https://static001.infoq.cn/resource/image/91/2e/916683441476e747f8fa17e0da3baf2e.jpg"
-    },
-    {
-      "id": "8b6ae21e3850",
-      "title": "JetBrains详细阐述了控制AI支出快速增长的首批举措",
-      "url": "https://www.infoq.cn/article/CQhb4TOREpEZshtqWZMy?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-08-22T09:05:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/3d/b5/3d3b8f1f16b58112f8bf5570144076b5.jpg"
     }
   ],
   "科技": [
@@ -143,28 +119,37 @@
       "id": "a461a274e989",
       "title": "TikTok reaches $400M settlement over children’s privacy lawsuit",
       "url": "https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/",
+      "summary": "TikTok reaches $400M settlement over children’s privacy lawsuit",
       "source": "TechCrunch",
       "category": "科技",
       "published": "2026-08-21T20:25:21.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2268918823.jpg?resize=1200,800"
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2268918823.jpg?resize=1200,800",
+      "score": 70,
+      "tags": []
     },
     {
       "id": "3a4211235d0e",
       "title": "The $225 Pebble Time 2 is a refreshingly fun smartwatch",
       "url": "https://techcrunch.com/2026/08/21/the-225-pebble-time-2-is-a-refreshingly-fun-smartwatch/",
+      "summary": "The $225 Pebble Time 2 is a refreshingly fun smartwatch",
       "source": "TechCrunch",
       "category": "科技",
       "published": "2026-08-21T19:57:46.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/image-1.webp?resize=1200,923"
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/image-1.webp?resize=1200,923",
+      "score": 70,
+      "tags": []
     },
     {
-      "id": "4af5149f16f9",
-      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "id": "8f23860a0054",
+      "title": "Last chance: Save up to $300 on your TechCrunch Disrupt 2026 ticket today",
+      "url": "https://techcrunch.com/2026/08/21/last-chance-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket-today/",
+      "summary": "Last chance: Save up to $300 on your TechCrunch Disrupt 2026 ticket today",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-08-21T19:43:39.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Nvidia-VP-of-product-Adel-El-Hallak.jpg?resize=1200,898"
+      "published": "2026-08-21T19:16:15.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Save-Up-to-300-Horizontal.png?w=1200",
+      "score": 70,
+      "tags": []
     }
   ],
   "就业": [
@@ -243,14 +228,14 @@
       "tags": []
     },
     {
-      "id": "27656dec4f7f",
-      "title": "湖南三部门关于进一步优化创业担保贷款政策 全力支持大学生等重点 ...",
-      "url": "https://news.qq.com/rain/a/20260817A092GS00",
-      "summary": "为进一步健全创业支持体系，提升创业质量，增强创业担保贷款政策的吸引力和可及性，强化对大学生等重点群体创业的金融支撑，根据省委、省政府促进创业带动就业的决策部署及支持大学生创业“七个一”行动要求，依据《",
-      "source": "Bing·大学生创业扶持政策",
+      "id": "cbc9eef66c6c",
+      "title": "黑龙江推出“源来好创业”资源对接服务季 七大举措助力创业就业",
+      "url": "https://news.qq.com/rain/a/20260818A0AA7O00",
+      "summary": "央广网哈尔滨8月18日消息（记者 许诺）8月18日，黑龙江省以创业带动就业工作新闻发布会召开，会上介绍了全省即将开展的“源来好创业”资源对接服务季活动相关详情。据黑龙江省人力资源和社会保障厅二级巡视员",
+      "source": "Bing·人社部就业创业政策",
       "category": "政策",
-      "published": "2026-08-17T09:48:00.000Z",
-      "image": "",
+      "published": "2026-08-18T10:51:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/O62q6z2c0KGCpf7gaIkvbrlwgjm6JAq5IE1-TYbe4OjeYAA_640330/0",
       "score": 55,
       "tags": []
     },
@@ -259,7 +244,7 @@
       "title": "黑龙江省出台10条政策措施 支持创业带动就业",
       "url": "https://www.sohu.com/a/1064437903_362042",
       "summary": "央广网哈尔滨8月18日消息（记者许诺）2026年以来，黑龙江省将创业带动就业工作列入2026年省政府工作报告重点任务，纳入新时代“幸福龙江”建设20件民生实事。在8月18日召开的黑龙江省以创业带动就业",
-      "source": "就业创业政策",
+      "source": "Bing·人社部就业创业政策",
       "category": "政策",
       "published": "2026-08-18T09:49:00.000Z",
       "image": "//q3.itc.cn/q_70/images03/20260818/350b2e83e67e45cb90a404a711ec7090.jpeg",
@@ -267,13 +252,14 @@
       "tags": []
     },
     {
-      "id": "ed0822808f9b",
-      "title": "温州发布专项政策指南 为残疾人大学生就业创业“撑腰”",
-      "url": "https://news.66wz.com/system/2026/07/16/105805829.shtml",
-      "summary": "市人社局与市残联携手对现行最实用、最优惠的就创业补贴政策进行全面梳理，并形成《温州市残疾人大学生就业创业政策指南》，助力这一特殊群体跨越障碍，实现更加充分、更高质量的就业和创业。 温州网讯 为支持更多",
-      "source": "就业创业政策",
+      "id": "27656dec4f7f",
+      "title": "湖南三部门关于进一步优化创业担保贷款政策 全力支持大学生等重点 ...",
+      "url": "https://news.qq.com/rain/a/20260817A092GS00",
+      "summary": "为进一步健全创业支持体系，提升创业质量，增强创业担保贷款政策的吸引力和可及性，强化对大学生等重点群体创业的金融支撑，根据省委、省政府促进创业带动就业的决策部署及支持大学生创业“七个一”行动要求，依据《",
+      "source": "Bing·大学生创业扶持政策",
       "category": "政策",
-      "published": "2026-07-16T01:51:00.000Z",
+      "published": "2026-08-17T09:48:00.000Z",
+      "image": "",
       "score": 55,
       "tags": []
     },
@@ -354,6 +340,24 @@
   ],
   "财经": [
     {
+      "id": "995676dba202",
+      "title": "过去五年石家庄承接京津转移项目537个 石家庄都市圈建设扎实推进",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682336.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-08-22T08:51:44.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "4c67e3011255",
+      "title": "（活力中国调研行）从“被守护”到“被共享”：鼓浪屿文商旅融合激活消费新业态",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682340.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-08-22T08:50:20.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
       "id": "f78eb2a379ea",
       "title": "钱大妈门店数突破3000家 受到加盟商和消费者认可",
       "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682311.shtml",
@@ -378,24 +382,6 @@
       "source": "中新网财经",
       "category": "财经",
       "published": "2026-08-22T07:41:51.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "db2bc7945f61",
-      "title": "“眼见为实”有回响",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682298.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-08-22T07:34:23.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "9101c7057c83",
-      "title": "暑期经济“热”力足 消费释放新动能",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682296.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-08-22T07:16:48.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
