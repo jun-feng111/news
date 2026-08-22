@@ -25,37 +25,16 @@
       "tags": []
     },
     {
-      "id": "25360e89e79a",
-      "title": "How AI coding tools are contributing to the popularity of JavaScript",
-      "url": "https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/",
-      "summary": "In August 2025, TypeScript became the most used language on GitHub。 This was the largest shift in Gi",
-      "source": "AI News",
+      "id": "4af5149f16f9",
+      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "summary": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-08-21T08:41:29.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/chris-ried-ieic5Tq8YMk-unsplash-scaled.jpg",
-      "score": 70,
+      "published": "2026-08-21T19:43:39.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Nvidia-VP-of-product-Adel-El-Hallak.jpg?resize=1200,898",
+      "score": 75,
       "tags": []
-    },
-    {
-      "id": "5f36318a4995",
-      "title": "Amazon&#8217;s Prime Air autonomous drones to reach 500 US cities",
-      "url": "https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/",
-      "summary": "Amazon plans to expand its Prime Air drone delivery service to nearly 500 cities and towns across th",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-08-20T14:05:18.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/amazon-prime-air-drone-delivery-us-cities-expansion-autonomous-physical-edge-ai-logistics.jpg",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "90eae752a6c9",
-      "title": "Stripe agrees to buy OpenRouter as AI model routing expands",
-      "url": "https://www.artificialintelligence-news.com/news/stripe-openrouter-acquisition-ai-model-routing/",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-08-20T10:00:00.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/Stripe-agrees-to-buy-OpenRouter-as-AI-model-routing-expands-scaled-e1787195901752.jpg"
     }
   ],
   "开发": [
@@ -161,13 +140,16 @@
       "tags": []
     },
     {
-      "id": "4af5149f16f9",
-      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "id": "8f23860a0054",
+      "title": "Last chance: Save up to $300 on your TechCrunch Disrupt 2026 ticket today",
+      "url": "https://techcrunch.com/2026/08/21/last-chance-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket-today/",
+      "summary": "Last chance: Save up to $300 on your TechCrunch Disrupt 2026 ticket today",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-08-21T19:43:39.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Nvidia-VP-of-product-Adel-El-Hallak.jpg?resize=1200,898"
+      "published": "2026-08-21T19:16:15.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Save-Up-to-300-Horizontal.png?w=1200",
+      "score": 70,
+      "tags": []
     }
   ],
   "就业": [
@@ -180,18 +162,6 @@
       "category": "就业",
       "published": "2026-08-15T13:51:14.000Z",
       "image": "https://cdn.v2ex.com/gravatar/e689b89f1c3831aa170bab72c84d2003?s=73&d=retro",
-      "score": 65,
-      "tags": []
-    },
-    {
-      "id": "c76b56413d4a",
-      "title": "AI人才缺口超500万！有最新报告称，AI抢人逻辑悄悄变了：架构师新发 ...",
-      "url": "https://news.qq.com/rain/a/20260718A08XHR00",
-      "summary": "人才缺口500万，大厂抢得最凶的不是算法工程师，架构师新发职位同比大涨近八成。懂提示词和人机训练岗位的文科生，平均年薪达到34",
-      "source": "算法工程师·就业分析",
-      "category": "就业",
-      "published": "2026-07-18T11:05:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/Ows_BB25Bhnf-wlGWgFoIkmLSVd_6MJWCT8-yw6C3HS10AA_640330/0",
       "score": 65,
       "tags": []
     },
@@ -230,6 +200,18 @@
       "image": "data:image/png;base64,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",
       "score": 60,
       "tags": []
+    },
+    {
+      "id": "a739e986b3b4",
+      "title": "FDE工程师薪资走高，亚马逊投入10亿美元加入“抢人大战”",
+      "url": "https://news.sina.com.cn/w/2026-07-01/doc-inifinuh3962104.shtml",
+      "summary": "当地时间6月30日，亚马逊宣布投入10亿美元打造FDE（前沿部署工程师）团队，让AI工程师与客户直接合作，并且协助客户构建和部署人工智能系统。 亚马逊表示，FDE嵌入式团队将与客户的业务、工程和安全团",
+      "source": "就业报告",
+      "category": "就业",
+      "published": "2026-07-01T16:07:00.000Z",
+      "image": "http://n.sinaimg.cn/sinakd20260701s/0/w1920h1280/20260701/ed65-3a9b2c08a6d0f60875ae66e5a55145cb.jpg",
+      "score": 60,
+      "tags": []
     }
   ],
   "政策": [
@@ -246,23 +228,11 @@
       "tags": []
     },
     {
-      "id": "cbc9eef66c6c",
-      "title": "黑龙江推出“源来好创业”资源对接服务季 七大举措助力创业就业",
-      "url": "https://news.qq.com/rain/a/20260818A0AA7O00",
-      "summary": "央广网哈尔滨8月18日消息（记者 许诺）8月18日，黑龙江省以创业带动就业工作新闻发布会召开，会上介绍了全省即将开展的“源来好创业”资源对接服务季活动相关详情。据黑龙江省人力资源和社会保障厅二级巡视员",
-      "source": "Bing·人社部就业创业政策",
-      "category": "政策",
-      "published": "2026-08-18T10:51:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/O62q6z2c0KGCpf7gaIkvbrlwgjm6JAq5IE1-TYbe4OjeYAA_640330/0",
-      "score": 55,
-      "tags": []
-    },
-    {
       "id": "81334988a399",
       "title": "黑龙江省出台10条政策措施 支持创业带动就业",
       "url": "https://www.sohu.com/a/1064437903_362042",
       "summary": "央广网哈尔滨8月18日消息（记者许诺）2026年以来，黑龙江省将创业带动就业工作列入2026年省政府工作报告重点任务，纳入新时代“幸福龙江”建设20件民生实事。在8月18日召开的黑龙江省以创业带动就业",
-      "source": "Bing·人社部就业创业政策",
+      "source": "就业创业政策",
       "category": "政策",
       "published": "2026-08-18T09:49:00.000Z",
       "image": "//q3.itc.cn/q_70/images03/20260818/350b2e83e67e45cb90a404a711ec7090.jpeg",
@@ -270,27 +240,39 @@
       "tags": []
     },
     {
-      "id": "27656dec4f7f",
-      "title": "湖南三部门关于进一步优化创业担保贷款政策 全力支持大学生等重点 ...",
-      "url": "https://news.qq.com/rain/a/20260817A092GS00",
-      "summary": "为进一步健全创业支持体系，提升创业质量，增强创业担保贷款政策的吸引力和可及性，强化对大学生等重点群体创业的金融支撑，根据省委、省政府促进创业带动就业的决策部署及支持大学生创业“七个一”行动要求，依据《",
-      "source": "Bing·大学生创业扶持政策",
+      "id": "7530315d4a43",
+      "title": "@丹东企业、高校毕业生、就业困难人员……2026版补贴政策请查收",
+      "url": "https://news.qq.com/rain/a/20260815A06VPO00",
+      "summary": "近日，丹东市人力资源和社会保障局发布《丹东市就业创业政策清单（2026版）》，集中梳理了当前全市就业创业领域的重点扶持政策，方便企业和市民“对号入座”、应享尽享。清单分为“企业类”和“个人类”两大板块",
+      "source": "就业创业政策",
       "category": "政策",
-      "published": "2026-08-17T09:48:00.000Z",
-      "image": "",
+      "published": "2026-08-15T05:41:00.000Z",
+      "image": "http://inews.gtimg.com/newsapp_ls/0/192333742_200200/0",
       "score": 55,
       "tags": []
     },
     {
-      "id": "ed0822808f9b",
-      "title": "温州发布专项政策指南 为残疾人大学生就业创业“撑腰”",
-      "url": "https://news.66wz.com/system/2026/07/16/105805829.shtml",
-      "summary": "市人社局与市残联携手对现行最实用、最优惠的就创业补贴政策进行全面梳理，并形成《温州市残疾人大学生就业创业政策指南》，助力这一特殊群体跨越障碍，实现更加充分、更高质量的就业和创业。 温州网讯 为支持更多",
-      "source": "就业创业政策",
+      "id": "3bec6656af7f",
+      "title": "绘就人才回流新图景 祁阳市首届大学生就业供需对接会成功举办",
+      "url": "https://www.sohu.com/a/1064208566_160273",
+      "summary": "今日永州讯盛夏八月，骄阳似火，却挡不住青春逐梦的热情。继“青春与家乡”高中毕业生专场活动后，8月17日，祁阳市2026年“青春同行&#183;追梦祁阳”首届大学生就业供需对接会火热举行",
+      "source": "Bing·大学生就业政策",
       "category": "政策",
-      "published": "2026-07-16T01:51:00.000Z",
-      "image": "https://news.66wz.com/pic/003/013/337/00301333742_93765919.gif",
-      "score": 55,
+      "published": "2026-08-18T01:51:00.000Z",
+      "image": "https://q7.itc.cn/q_70/images03/20260818/fc2f444a445847088668462fe9635467.jpeg",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "5f002ebfb466",
+      "title": "旗市快讯丨鸿雁归扎聚青春 政策护航耕北疆——扎赉诺尔区返乡大 ...",
+      "url": "https://www.sohu.com/a/1065320702_121106854",
+      "summary": "为扎实做好高校毕业生就业创业服务工作，精准破解返乡大学生政策不清、就业迷茫、创业无方等痛点问题，近日，扎赉诺尔区就业服务中心联合共青团扎赉诺尔区委员会精心筹备的鸿雁归“扎”&#183;青耕北疆扎赉诺尔",
+      "source": "Bing·高校毕业生就业创业政策",
+      "category": "政策",
+      "published": "2026-08-20T07:19:00.000Z",
+      "image": "https://q8.itc.cn/q_70/images03/20260820/939d8121a6654cb99f61463482800b2a.png",
+      "score": 50,
       "tags": []
     }
   ],
@@ -358,48 +340,48 @@
   ],
   "财经": [
     {
-      "id": "0463a96e8be9",
-      "title": "珠江第一港富宁港年内建成 云南通江达海再近一步",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682357.shtml",
+      "id": "dbb4d0405471",
+      "title": "天津津南“十五五”深化京津冀协同：做好“融入”“引入”两篇文章",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682404.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-22T09:40:33.000Z",
+      "published": "2026-08-22T11:14:49.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "e8dd76f13176",
-      "title": "2026绿色算力大会签约13个项目 总投资1361亿元",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682351.shtml",
+      "id": "b231c918732f",
+      "title": "车轮滚滚向北行 绥芬河汽车出口跑出增长加速度",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682377.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-22T09:37:39.000Z",
+      "published": "2026-08-22T10:27:34.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "995676dba202",
-      "title": "过去五年石家庄承接京津转移项目537个 石家庄都市圈建设扎实推进",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682336.shtml",
+      "id": "961179cf66eb",
+      "title": "从建机房到做服务：绿色算力大会释放内蒙古算力全链条发展信号",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682381.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-22T08:51:44.000Z",
+      "published": "2026-08-22T10:26:40.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "4c67e3011255",
-      "title": "（活力中国调研行）从“被守护”到“被共享”：鼓浪屿文商旅融合激活消费新业态",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682340.shtml",
+      "id": "17d84a297f41",
+      "title": "日用消费品“零关税”政策加速惠及海南居民",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682385.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-22T08:50:20.000Z",
+      "published": "2026-08-22T10:26:16.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "f78eb2a379ea",
-      "title": "钱大妈门店数突破3000家 受到加盟商和消费者认可",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682311.shtml",
+      "id": "36bfd495db79",
+      "title": "解读“机器人组装机器人”：从实验室走向真实工业部署的跨越",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682384.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-22T08:13:54.000Z",
+      "published": "2026-08-22T10:25:56.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
