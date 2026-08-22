@@ -1,6 +1,18 @@
 {
   "AI": [
     {
+      "id": "480d7ab40672",
+      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+      "summary": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-22T21:46:56.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2169079907_27e720-e1734690817769.jpg?resize=1200,800",
+      "score": 80,
+      "tags": []
+    },
+    {
       "id": "39119bad22db",
       "title": "OpenAI says California should strengthen its AI safety bill",
       "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
@@ -9,7 +21,7 @@
       "category": "AI",
       "published": "2026-08-22T16:30:34.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
-      "score": 80,
+      "score": 75,
       "tags": []
     },
     {
@@ -21,7 +33,7 @@
       "category": "AI",
       "published": "2026-08-22T16:00:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2019/07/kill-switch-ransomware.jpg?resize=1200,638",
-      "score": 80,
+      "score": 75,
       "tags": []
     },
     {
@@ -45,18 +57,6 @@
       "category": "AI",
       "published": "2026-08-21T08:41:29.000Z",
       "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/chris-ried-ieic5Tq8YMk-unsplash-scaled.jpg",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "f264c057671c",
-      "title": "Inherent, founded by DeepMind alumni, says its AI &#8216;teammate&#8217; just outperformed Anthropic and OpenAI at replicating research",
-      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-      "summary": "Inherent, founded by DeepMind alumni, says its AI &#8216;teammate&#8217; just outperformed Anthropic",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-22T19:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/inherent-labs-cofounders-credit-Anna-Gordon.jpeg?resize=1200,800",
       "score": 70,
       "tags": []
     }
@@ -102,13 +102,10 @@
       "id": "d7e3e6a3a485",
       "title": "Anthropic’s Opus 4.6 is a smut-machine",
       "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-      "summary": "Anthropic’s Opus 4。6 is a smut-machine",
       "source": "TechCrunch",
       "category": "科技",
       "published": "2026-08-21T23:07:25.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-157692252.jpg?resize=1200,915",
-      "score": 70,
-      "tags": []
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-157692252.jpg?resize=1200,915"
     },
     {
       "id": "5a379d4f9d7f",
@@ -232,14 +229,14 @@
       "tags": []
     },
     {
-      "id": "ce6f366e642b",
-      "title": "AI Agent工具实测：数据分析场景该选谁？",
-      "url": "https://news.zol.com.cn/1234/12342031.html",
-      "summary": "市面上多数AI Agent测评聚焦个人开发者场景,围绕代码编写效率、轻量问答体验展开。但落到企业真实的数据分析场景中,团队协作、全链路执行、数据安全合规都是无法回避的硬性要求,多数个人向工具无法匹配这",
-      "source": "数据分析·就业分析",
+      "id": "6c29c012001d",
+      "title": "美国人事管理办公室要求联邦机构优先招聘技术人才",
+      "url": "https://news.qq.com/rain/a/20260805A0B95V00",
+      "summary": "据meritalk网站８月４日消息，美国人事管理办公室（OPM）发布指导意见，要求联邦机构在9月30日前提交的2027财年劳动力计划中，将人工智能、网络安全、软件工程、数据科学等技术岗位招聘列为核心内",
+      "source": "数据科学·就业分析",
       "category": "就业",
-      "published": "2026-08-17T09:52:00.000Z",
-      "image": "https://doc-fd.zol-img.com.cn/t_s120x75/g8/M00/07/03/ChMkLWqCy-KIfsG-AAEXvWSYhYEAAJcGALyLVMAARfV936.jpg",
+      "published": "2026-08-05T09:44:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/O-zanNMfobFuSbgVRUpt7B8D8KPgLef76B9rLoSn4nd3IAA_640330/0",
       "score": 60,
       "tags": []
     }
@@ -282,18 +279,6 @@
       "tags": []
     },
     {
-      "id": "81334988a399",
-      "title": "黑龙江省出台10条政策措施 支持创业带动就业",
-      "url": "https://www.sohu.com/a/1064437903_362042",
-      "summary": "央广网哈尔滨8月18日消息（记者许诺）2026年以来，黑龙江省将创业带动就业工作列入2026年省政府工作报告重点任务，纳入新时代“幸福龙江”建设20件民生实事。在8月18日召开的黑龙江省以创业带动就业",
-      "source": "就业创业政策",
-      "category": "政策",
-      "published": "2026-08-18T09:49:00.000Z",
-      "image": "//q3.itc.cn/q_70/images03/20260818/350b2e83e67e45cb90a404a711ec7090.jpeg",
-      "score": 55,
-      "tags": []
-    },
-    {
       "id": "ed0822808f9b",
       "title": "温州发布专项政策指南 为残疾人大学生就业创业“撑腰”",
       "url": "https://news.66wz.com/system/2026/07/16/105805829.shtml",
@@ -302,6 +287,18 @@
       "category": "政策",
       "published": "2026-07-16T01:51:00.000Z",
       "image": "https://news.66wz.com/pic/003/013/337/00301333742_93765919.gif",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "7530315d4a43",
+      "title": "@丹东企业、高校毕业生、就业困难人员……2026版补贴政策请查收",
+      "url": "https://news.qq.com/rain/a/20260815A06VPO00",
+      "summary": "近日，丹东市人力资源和社会保障局发布《丹东市就业创业政策清单（2026版）》，集中梳理了当前全市就业创业领域的重点扶持政策，方便企业和市民“对号入座”、应享尽享。清单分为“企业类”和“个人类”两大板块",
+      "source": "就业创业政策",
+      "category": "政策",
+      "published": "2026-08-15T05:41:00.000Z",
+      "image": "http://inews.gtimg.com/newsapp_ls/0/192333742_200200/0",
       "score": 55,
       "tags": []
     }
@@ -356,15 +353,15 @@
       "tags": []
     },
     {
-      "id": "2c6e4af27393",
-      "title": "超本科线123分读高职：这些高分考生为何“逆向流动”？",
-      "url": "https://www.chinanews.com.cn/edu/2026/08-18/10679439.shtml",
-      "summary": "——透视“高职热”之认知篇",
+      "id": "3917c1060c65",
+      "title": "大学英语四六级查分时间定了",
+      "url": "https://www.chinanews.com.cn/edu/2026/08-20/10680950.shtml",
+      "summary": "中新网8月20日电 据中国教育考试网消息，近日，教育部教育考试院发布通知，2026年上半年全国大学英语四、六级考试(CET)成绩查询服务将于2026年8月24日(周一)开通",
       "source": "中新网教育",
       "category": "社会",
-      "published": "2026-08-18T01:58:47.000Z",
+      "published": "2026-08-20T06:44:12.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
+      "score": 45,
       "tags": []
     }
   ],
