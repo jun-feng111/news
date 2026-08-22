@@ -75,6 +75,15 @@
       "tags": []
     },
     {
+      "id": "a226373b6600",
+      "title": "npm 终于动手了：默认封杀 postinstall 脚本",
+      "url": "https://www.infoq.cn/article/fPGPEF2hwCKtz3PTg69C?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-22T11:05:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/91/2e/916683441476e747f8fa17e0da3baf2e.jpg"
+    },
+    {
       "id": "8b6ae21e3850",
       "title": "JetBrains详细阐述了控制AI支出快速增长的首批举措",
       "url": "https://www.infoq.cn/article/CQhb4TOREpEZshtqWZMy?utm_source=rss&amp;utm_medium=article",
@@ -100,15 +109,6 @@
       "category": "开发",
       "published": "2026-08-21T19:34:36.000Z",
       "image": "https://static001.infoq.cn/resource/image/a4/bb/a4ba1ca59e4969be19fe0yy1a790dabb.png"
-    },
-    {
-      "id": "1792c3179adc",
-      "title": "材科源图三个月完成两轮融资，AI全链路闭环加速材料产业化",
-      "url": "https://www.infoq.cn/article/YB51rwb95keVmlIZ0xQd?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-08-21T19:31:11.000Z",
-      "image": "https://static001.infoq.cn/resource/image/27/64/27b209a2d9513698274c409cd6dbb964.png"
     }
   ],
   "科技": [
@@ -249,30 +249,6 @@
       "tags": []
     },
     {
-      "id": "cbc9eef66c6c",
-      "title": "黑龙江推出“源来好创业”资源对接服务季 七大举措助力创业就业",
-      "url": "https://news.qq.com/rain/a/20260818A0AA7O00",
-      "summary": "央广网哈尔滨8月18日消息（记者 许诺）8月18日，黑龙江省以创业带动就业工作新闻发布会召开，会上介绍了全省即将开展的“源来好创业”资源对接服务季活动相关详情。据黑龙江省人力资源和社会保障厅二级巡视员",
-      "source": "Bing·人社部就业创业政策",
-      "category": "政策",
-      "published": "2026-08-18T10:51:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/O62q6z2c0KGCpf7gaIkvbrlwgjm6JAq5IE1-TYbe4OjeYAA_640330/0",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "81334988a399",
-      "title": "黑龙江省出台10条政策措施 支持创业带动就业",
-      "url": "https://www.sohu.com/a/1064437903_362042",
-      "summary": "央广网哈尔滨8月18日消息（记者许诺）2026年以来，黑龙江省将创业带动就业工作列入2026年省政府工作报告重点任务，纳入新时代“幸福龙江”建设20件民生实事。在8月18日召开的黑龙江省以创业带动就业",
-      "source": "Bing·人社部就业创业政策",
-      "category": "政策",
-      "published": "2026-08-18T09:49:00.000Z",
-      "image": "//q3.itc.cn/q_70/images03/20260818/350b2e83e67e45cb90a404a711ec7090.jpeg",
-      "score": 55,
-      "tags": []
-    },
-    {
       "id": "27656dec4f7f",
       "title": "湖南三部门关于进一步优化创业担保贷款政策 全力支持大学生等重点 ...",
       "url": "https://news.qq.com/rain/a/20260817A092GS00",
@@ -281,6 +257,30 @@
       "category": "政策",
       "published": "2026-08-17T09:48:00.000Z",
       "image": "",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "81334988a399",
+      "title": "黑龙江省出台10条政策措施 支持创业带动就业",
+      "url": "https://www.sohu.com/a/1064437903_362042",
+      "summary": "央广网哈尔滨8月18日消息（记者许诺）2026年以来，黑龙江省将创业带动就业工作列入2026年省政府工作报告重点任务，纳入新时代“幸福龙江”建设20件民生实事。在8月18日召开的黑龙江省以创业带动就业",
+      "source": "就业创业政策",
+      "category": "政策",
+      "published": "2026-08-18T09:49:00.000Z",
+      "image": "//q3.itc.cn/q_70/images03/20260818/350b2e83e67e45cb90a404a711ec7090.jpeg",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "ed0822808f9b",
+      "title": "温州发布专项政策指南 为残疾人大学生就业创业“撑腰”",
+      "url": "https://news.66wz.com/system/2026/07/16/105805829.shtml",
+      "summary": "市人社局与市残联携手对现行最实用、最优惠的就创业补贴政策进行全面梳理，并形成《温州市残疾人大学生就业创业政策指南》，助力这一特殊群体跨越障碍，实现更加充分、更高质量的就业和创业。 温州网讯 为支持更多",
+      "source": "就业创业政策",
+      "category": "政策",
+      "published": "2026-07-16T01:51:00.000Z",
+      "image": "https://news.66wz.com/pic/003/013/337/00301333742_93765919.gif",
       "score": 55,
       "tags": []
     }
@@ -296,6 +296,30 @@
       "published": "2026-08-20T02:42:07.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 55,
+      "tags": []
+    },
+    {
+      "id": "20ca3040f87f",
+      "title": "开局起步“十五五”：服务自贸港建设，海南高校如何作示范？",
+      "url": "https://www.chinanews.com.cn/edu/2026/08-20/10680859.shtml",
+      "summary": "中新网海口8月20日电 (张茜翼 张芷懿)新增学科专业点100%契合国家战略及海南急需，七大领域高峰学科冲击国内前列，实验室“搬”进文昌国际航天城、海口药谷和田间地头……“十五五”开局，海南大学亮出一",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-08-20T03:17:48.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "73528594d772",
+      "title": "“向下扎根+向外开放”赋能海南高职院校发展",
+      "url": "https://www.chinanews.com.cn/edu/2026/08-20/10680855.shtml",
+      "summary": "中新网海口8月20日电 (张茜翼 张芷懿)把课堂搬进产业园区，与宇树科技共建机器人学院，让留学生毕业后直接回所在国担任海外店长……在海南自贸港加速构建现代产业体系的当下，一所信息技术类高职院校选择将自",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-08-20T03:13:53.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
       "tags": []
     },
     {
@@ -321,76 +345,52 @@
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 40,
       "tags": []
-    },
-    {
-      "id": "ba8253b6ee31",
-      "title": "中新网评：别让孩子困在“抢跑”里",
-      "url": "https://www.chinanews.com.cn/edu/2026/08-18/10679831.shtml",
-      "summary": "中新网北京8月18日电(记者 袁秀月)暑假即将结束，关于孩子学习的话题不断引起讨论",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-08-18T11:11:52.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 40,
-      "tags": []
-    },
-    {
-      "id": "e6e75a7c601a",
-      "title": "海南推进国际教育创新岛建设调查",
-      "url": "https://www.chinanews.com.cn/edu/2026/08-18/10679492.shtml",
-      "summary": "“家门口留学”到底香不香",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-08-18T03:02:44.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 40,
-      "tags": []
     }
   ],
   "财经": [
     {
-      "id": "1ab9210c1820",
-      "title": "国企建功自贸港：“助力海南特色农产品拓展国际市场”",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682188.shtml",
+      "id": "de90256b483c",
+      "title": "第十届中关村国际前沿科技大赛在京启动 覆盖不同阶段创新主体",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682222.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-22T01:44:05.000Z",
+      "published": "2026-08-22T03:31:06.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "9bd6f057319f",
-      "title": "会抓豆腐、拥有电子皮肤 国产机器人感知能力加速迭代",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682185.shtml",
+      "id": "099bfdce09f8",
+      "title": "聚焦客货运需求增长 空客宽体机助力中国民航提质增量",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682220.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-22T01:35:44.000Z",
+      "published": "2026-08-22T03:26:51.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "b3e40f1d9ccc",
-      "title": "主播说联播丨老家消费大变样！活跃消费，“奔县”有力度",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682182.shtml",
+      "id": "2bc319f41360",
+      "title": "下半年以来千亿元级资金借道股票型ETF布局A股",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682211.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-22T01:27:10.000Z",
+      "published": "2026-08-22T03:08:56.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "86301651508a",
-      "title": "真金白银投得更实 政策举措落得更准",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682179.shtml",
+      "id": "8794e35b5710",
+      "title": "每天一款新车上市？将“速度内卷”转向“质量竞争”",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682210.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-22T01:17:09.000Z",
+      "published": "2026-08-22T03:06:14.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "ac4469c359c3",
-      "title": "订单排到第四季度！国产叉车 全球爆单→",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682173.shtml",
+      "id": "036e95668420",
+      "title": "首超三十万亿 今年财政支出预算更多“投资于人”",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682209.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-22T00:56:44.000Z",
+      "published": "2026-08-22T03:02:58.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
