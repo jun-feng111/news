@@ -47,18 +47,6 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/Rillet.jpg?resize=1200,799",
       "score": 75,
       "tags": []
-    },
-    {
-      "id": "25360e89e79a",
-      "title": "How AI coding tools are contributing to the popularity of JavaScript",
-      "url": "https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/",
-      "summary": "In August 2025, TypeScript became the most used language on GitHub。 This was the largest shift in Gi",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-08-21T08:41:29.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/chris-ried-ieic5Tq8YMk-unsplash-scaled.jpg",
-      "score": 70,
-      "tags": []
     }
   ],
   "科技": [
@@ -102,10 +90,13 @@
       "id": "6ac586b3514a",
       "title": "Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams",
       "url": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/",
+      "summary": "Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams",
       "source": "TechCrunch",
       "category": "科技",
       "published": "2026-08-21T20:58:07.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/06/Apple-Vision-Pro-global-availability-e1718041644616.jpg?resize=1200,676"
+      "image": "https://techcrunch.com/wp-content/uploads/2024/06/Apple-Vision-Pro-global-availability-e1718041644616.jpg?resize=1200,676",
+      "score": 70,
+      "tags": []
     },
     {
       "id": "a461a274e989",
@@ -143,6 +134,18 @@
       "tags": []
     },
     {
+      "id": "5dfc28337f3d",
+      "title": "AI Infra 正在诞生自己的石油期货？GPU 不够买之后，华尔街开始交易算力",
+      "url": "https://www.infoq.cn/article/qaWyth5P4tZE1CQhhaGq?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/qaWyth5P4tZE1CQhhaGq",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-20T18:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/2d/e0/2d757b2dcfc242b7233dfc3f20697de0.png",
+      "score": 55,
+      "tags": []
+    },
+    {
       "id": "048d525dc8c5",
       "title": "你的 Coding Agent 有多大价值，取决于它对你的数据了解多少 | 技术实践",
       "url": "https://www.infoq.cn/article/CPidTC2YJ7AvlU7jUgiq?utm_source=rss&amp;utm_medium=article",
@@ -165,15 +168,6 @@
       "image": "https://static001.infoq.cn/resource/image/cb/f1/cbb95a85b41261ff4a56043a82f1a7f1.jpg",
       "score": 50,
       "tags": []
-    },
-    {
-      "id": "bdf14d262edb",
-      "title": "Cloudflare 推出 Cache Response Rules，在源站响应后进一步控制缓存",
-      "url": "https://www.infoq.cn/article/kyUdCw0IPHwuIHg2WJCu?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-08-22T17:17:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/06/13/068982f07be1f91d83992f79178e1913.jpg"
     }
   ],
   "就业": [
@@ -252,18 +246,6 @@
       "tags": []
     },
     {
-      "id": "cbc9eef66c6c",
-      "title": "黑龙江推出“源来好创业”资源对接服务季 七大举措助力创业就业",
-      "url": "https://news.qq.com/rain/a/20260818A0AA7O00",
-      "summary": "央广网哈尔滨8月18日消息（记者 许诺）8月18日，黑龙江省以创业带动就业工作新闻发布会召开，会上介绍了全省即将开展的“源来好创业”资源对接服务季活动相关详情。据黑龙江省人力资源和社会保障厅二级巡视员",
-      "source": "Bing·人社部就业创业政策",
-      "category": "政策",
-      "published": "2026-08-18T10:51:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/O62q6z2c0KGCpf7gaIkvbrlwgjm6JAq5IE1-TYbe4OjeYAA_640330/0",
-      "score": 55,
-      "tags": []
-    },
-    {
       "id": "27656dec4f7f",
       "title": "湖南三部门关于进一步优化创业担保贷款政策 全力支持大学生等重点 ...",
       "url": "https://news.qq.com/rain/a/20260817A092GS00",
@@ -276,14 +258,14 @@
       "tags": []
     },
     {
-      "id": "81334988a399",
-      "title": "黑龙江省出台10条政策措施 支持创业带动就业",
-      "url": "https://www.sohu.com/a/1064437903_362042",
-      "summary": "央广网哈尔滨8月18日消息（记者许诺）2026年以来，黑龙江省将创业带动就业工作列入2026年省政府工作报告重点任务，纳入新时代“幸福龙江”建设20件民生实事。在8月18日召开的黑龙江省以创业带动就业",
+      "id": "7530315d4a43",
+      "title": "@丹东企业、高校毕业生、就业困难人员……2026版补贴政策请查收",
+      "url": "https://news.qq.com/rain/a/20260815A06VPO00",
+      "summary": "近日，丹东市人力资源和社会保障局发布《丹东市就业创业政策清单（2026版）》，集中梳理了当前全市就业创业领域的重点扶持政策，方便企业和市民“对号入座”、应享尽享。清单分为“企业类”和“个人类”两大板块",
       "source": "就业创业政策",
       "category": "政策",
-      "published": "2026-08-18T09:49:00.000Z",
-      "image": "//q3.itc.cn/q_70/images03/20260818/350b2e83e67e45cb90a404a711ec7090.jpeg",
+      "published": "2026-08-15T05:41:00.000Z",
+      "image": "http://inews.gtimg.com/newsapp_ls/0/192333742_200200/0",
       "score": 55,
       "tags": []
     },
@@ -295,8 +277,19 @@
       "source": "就业创业政策",
       "category": "政策",
       "published": "2026-07-16T01:51:00.000Z",
-      "image": "https://news.66wz.com/pic/003/013/337/00301333742_93765919.gif",
       "score": 55,
+      "tags": []
+    },
+    {
+      "id": "3bec6656af7f",
+      "title": "绘就人才回流新图景 祁阳市首届大学生就业供需对接会成功举办",
+      "url": "https://www.sohu.com/a/1064208566_160273",
+      "summary": "今日永州讯盛夏八月，骄阳似火，却挡不住青春逐梦的热情。继“青春与家乡”高中毕业生专场活动后，8月17日，祁阳市2026年“青春同行&#183;追梦祁阳”首届大学生就业供需对接会火热举行",
+      "source": "Bing·大学生就业政策",
+      "category": "政策",
+      "published": "2026-08-18T01:51:00.000Z",
+      "image": "https://q7.itc.cn/q_70/images03/20260818/fc2f444a445847088668462fe9635467.jpeg",
+      "score": 50,
       "tags": []
     }
   ],
