@@ -1,6 +1,18 @@
 {
   "AI": [
     {
+      "id": "8014b9bf1f18",
+      "title": "Michael Polansky is training an AI model on skin that’s still alive",
+      "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
+      "summary": "Michael Polansky is training an AI model on skin that’s still alive",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-22T01:31:04.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Michael_Polansky.jpg?resize=1200,759",
+      "score": 80,
+      "tags": []
+    },
+    {
       "id": "25360e89e79a",
       "title": "How AI coding tools are contributing to the popularity of JavaScript",
       "url": "https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/",
@@ -47,18 +59,6 @@
       "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/Stripe-agrees-to-buy-OpenRouter-as-AI-model-routing-expands-scaled-e1787195901752.jpg",
       "score": 70,
       "tags": []
-    },
-    {
-      "id": "9df37d9e2fb4",
-      "title": "AI data centre regulation just got a template that needs no new law",
-      "url": "https://www.artificialintelligence-news.com/news/ai-data-centre-regulation-pennsylvania-template/",
-      "summary": "AI data centre regulation in Pennsylvania now begins with a signature。 Before the state will so much",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-08-20T08:00:00.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/donnie-rosie-VQGjgACllXA-unsplash-scaled.jpg",
-      "score": 70,
-      "tags": []
     }
   ],
   "开发": [
@@ -71,18 +71,6 @@
       "category": "开发",
       "published": "2026-08-22T01:03:06.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2238027332.jpg?resize=1200,675",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "5a379d4f9d7f",
-      "title": "Nvidia partners with data center developer Cloverleaf",
-      "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-      "summary": "Nvidia partners with data center developer Cloverleaf",
-      "source": "TechCrunch",
-      "category": "开发",
-      "published": "2026-08-21T22:37:38.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
       "score": 75,
       "tags": []
     },
@@ -112,6 +100,15 @@
       "category": "开发",
       "published": "2026-08-21T19:34:36.000Z",
       "image": "https://static001.infoq.cn/resource/image/a4/bb/a4ba1ca59e4969be19fe0yy1a790dabb.png"
+    },
+    {
+      "id": "1792c3179adc",
+      "title": "材科源图三个月完成两轮融资，AI全链路闭环加速材料产业化",
+      "url": "https://www.infoq.cn/article/YB51rwb95keVmlIZ0xQd?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-21T19:31:11.000Z",
+      "image": "https://static001.infoq.cn/resource/image/27/64/27b209a2d9513698274c409cd6dbb964.png"
     }
   ],
   "科技": [
@@ -126,6 +123,15 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-157692252.jpg?resize=1200,915",
       "score": 75,
       "tags": []
+    },
+    {
+      "id": "5a379d4f9d7f",
+      "title": "Nvidia partners with data center developer Cloverleaf",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-21T22:37:38.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750"
     },
     {
       "id": "a01edf0c5254",
@@ -153,15 +159,6 @@
       "category": "科技",
       "published": "2026-08-21T20:25:21.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2268918823.jpg?resize=1200,800"
-    },
-    {
-      "id": "3a4211235d0e",
-      "title": "The $225 Pebble Time 2 is a refreshingly fun smartwatch",
-      "url": "https://techcrunch.com/2026/08/21/the-225-pebble-time-2-is-a-refreshingly-fun-smartwatch/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-21T19:57:46.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/image-1.webp?resize=1200,923"
     }
   ],
   "就业": [
@@ -252,6 +249,18 @@
       "tags": []
     },
     {
+      "id": "cbc9eef66c6c",
+      "title": "黑龙江推出“源来好创业”资源对接服务季 七大举措助力创业就业",
+      "url": "https://news.qq.com/rain/a/20260818A0AA7O00",
+      "summary": "央广网哈尔滨8月18日消息（记者 许诺）8月18日，黑龙江省以创业带动就业工作新闻发布会召开，会上介绍了全省即将开展的“源来好创业”资源对接服务季活动相关详情。据黑龙江省人力资源和社会保障厅二级巡视员",
+      "source": "Bing·人社部就业创业政策",
+      "category": "政策",
+      "published": "2026-08-18T10:51:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/O62q6z2c0KGCpf7gaIkvbrlwgjm6JAq5IE1-TYbe4OjeYAA_640330/0",
+      "score": 55,
+      "tags": []
+    },
+    {
       "id": "81334988a399",
       "title": "黑龙江省出台10条政策措施 支持创业带动就业",
       "url": "https://www.sohu.com/a/1064437903_362042",
@@ -274,20 +283,21 @@
       "image": "",
       "score": 55,
       "tags": []
-    },
-    {
-      "id": "ed0822808f9b",
-      "title": "温州发布专项政策指南 为残疾人大学生就业创业“撑腰”",
-      "url": "https://news.66wz.com/system/2026/07/16/105805829.shtml",
-      "summary": "市人社局与市残联携手对现行最实用、最优惠的就创业补贴政策进行全面梳理，并形成《温州市残疾人大学生就业创业政策指南》，助力这一特殊群体跨越障碍，实现更加充分、更高质量的就业和创业。 温州网讯 为支持更多",
-      "source": "就业创业政策",
-      "category": "政策",
-      "published": "2026-07-16T01:51:00.000Z",
-      "score": 55,
-      "tags": []
     }
   ],
   "社会": [
+    {
+      "id": "6e555d685420",
+      "title": "今年暑期需求激增，AI研学如何回归育人本质？",
+      "url": "https://www.chinanews.com.cn/edu/2026/08-20/10680832.shtml",
+      "summary": "今年暑期需求激增",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-08-20T02:42:07.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 55,
+      "tags": []
+    },
     {
       "id": "2c6e4af27393",
       "title": "超本科线123分读高职：这些高分考生为何“逆向流动”？",
@@ -335,18 +345,45 @@
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 40,
       "tags": []
-    },
-    {
-      "id": "520f54cbc18f",
-      "title": "台湾台南市发生大火 多人受伤",
-      "url": "https://www.chinanews.com.cn/sh/2026/08-22/10682169.shtml",
-      "source": "中新网社会",
-      "category": "社会",
-      "published": "2026-08-22T00:51:01.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ],
   "财经": [
+    {
+      "id": "1ab9210c1820",
+      "title": "国企建功自贸港：“助力海南特色农产品拓展国际市场”",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682188.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-08-22T01:44:05.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "9bd6f057319f",
+      "title": "会抓豆腐、拥有电子皮肤 国产机器人感知能力加速迭代",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682185.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-08-22T01:35:44.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "b3e40f1d9ccc",
+      "title": "主播说联播丨老家消费大变样！活跃消费，“奔县”有力度",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682182.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-08-22T01:27:10.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "86301651508a",
+      "title": "真金白银投得更实 政策举措落得更准",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682179.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-08-22T01:17:09.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
     {
       "id": "ac4469c359c3",
       "title": "订单排到第四季度！国产叉车 全球爆单→",
@@ -354,42 +391,6 @@
       "source": "中新网财经",
       "category": "财经",
       "published": "2026-08-22T00:56:44.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "f706cca7d980",
-      "title": "海南织密食品安全“全链条”防护网 智慧监管“耳聪目明”",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682156.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-08-22T00:32:36.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "d50af054ddb5",
-      "title": "太空的第一座矿山，会挖什么",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682155.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-08-22T00:26:34.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "8ece4efe3417",
-      "title": "中国经济的韧性与活力",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682154.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-08-22T00:21:18.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "2f7b2e6cd40d",
-      "title": "发展气候康养，得迈过这些“坎儿”",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682150.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-08-21T23:26:16.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
