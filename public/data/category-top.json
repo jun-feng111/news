@@ -63,18 +63,6 @@
   ],
   "科技": [
     {
-      "id": "6ce2b1d23580",
-      "title": "Two years after launch, Walmart&#8217;s Flipkart is closing in on India&#8217;s quick-commerce leaders",
-      "url": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/",
-      "summary": "Two years after launch, Walmart&#8217;s Flipkart is closing in on India&#8217;s quick-commerce leade",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-23T03:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/flipkart-minutes.jpg?resize=1200,800",
-      "score": 70,
-      "tags": []
-    },
-    {
       "id": "05cdf650ffdb",
       "title": "Will the DOJ&#8217;s investigation into a16z spook other VCs?",
       "url": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
@@ -111,6 +99,18 @@
       "tags": []
     },
     {
+      "id": "6ce2b1d23580",
+      "title": "Two years after launch, Walmart&#8217;s Flipkart is closing in on India&#8217;s quick-commerce leaders",
+      "url": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/",
+      "summary": "Two years after launch, Walmart&#8217;s Flipkart is closing in on India&#8217;s quick-commerce leade",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-23T03:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/flipkart-minutes.jpg?resize=1200,800",
+      "score": 65,
+      "tags": []
+    },
+    {
       "id": "d7e3e6a3a485",
       "title": "Anthropic’s Opus 4.6 is a smut-machine",
       "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
@@ -134,18 +134,6 @@
       "tags": []
     },
     {
-      "id": "ca00b11aa182",
-      "title": "CFP 开放 | KCD 杭州站邀您共议 Agent 时代的云原生、可观测与大模型推理",
-      "url": "https://www.infoq.cn/article/LpNjOA7au7WIhTBmVcJo?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/LpNjOA7au7WIhTBmVcJo",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-08-20T19:03:02.000Z",
-      "image": "https://static001.infoq.cn/resource/image/71/2a/71632c7925bb618c19b401369316222a.png",
-      "score": 60,
-      "tags": []
-    },
-    {
       "id": "cc87898e1a06",
       "title": "科技爱好者周刊（第 409 期）：程序员的职业未来",
       "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html",
@@ -158,6 +146,27 @@
       "tags": []
     },
     {
+      "id": "8e23d2539866",
+      "title": "Rust 再下一城：Astro 7 重写编译器与 Markdown 流水线",
+      "url": "https://www.infoq.cn/article/D6IBeGO6rqVCjBDv1qwj?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/D6IBeGO6rqVCjBDv1qwj",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-21T09:16:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/ae/05/ae56byy3caf4875d8e02782a6fb81405.jpg",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "0be2053c45a3",
+      "title": "亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩",
+      "url": "https://www.infoq.cn/article/cwj5Ikvhqu5mKH22zKsO?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-23T17:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/0c/5b/0c2c759cb5599bf5bf00b4eceb74205b.jpg"
+    },
+    {
       "id": "74ea3752183b",
       "title": "向量数据库要被取代？DynamoDB 开始原生支持 AI 搜索",
       "url": "https://www.infoq.cn/article/9YicfQysexJdmx11xG4m?utm_source=rss&amp;utm_medium=article",
@@ -165,15 +174,6 @@
       "category": "开发",
       "published": "2026-08-23T14:09:00.000Z",
       "image": "https://static001.infoq.cn/resource/image/c4/d4/c47110faaa6ab573f79cf35d536f66d4.jpg"
-    },
-    {
-      "id": "5c4251c446d9",
-      "title": "PostgreSQL 太难懂？有人把它做成了城市模拟器",
-      "url": "https://www.infoq.cn/article/umVdo2GaEyONQLWNmPZ9?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-08-23T11:25:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/7e/7d/7e9854827f2336b2876fefa2ed5e2a7d.jpg"
     }
   ],
   "就业": [
@@ -252,41 +252,6 @@
       "tags": []
     },
     {
-      "id": "cbc9eef66c6c",
-      "title": "黑龙江推出“源来好创业”资源对接服务季 七大举措助力创业就业",
-      "url": "https://news.qq.com/rain/a/20260818A0AA7O00",
-      "summary": "央广网哈尔滨8月18日消息（记者 许诺）8月18日，黑龙江省以创业带动就业工作新闻发布会召开，会上介绍了全省即将开展的“源来好创业”资源对接服务季活动相关详情。据黑龙江省人力资源和社会保障厅二级巡视员",
-      "source": "Bing·人社部就业创业政策",
-      "category": "政策",
-      "published": "2026-08-18T10:51:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/O62q6z2c0KGCpf7gaIkvbrlwgjm6JAq5IE1-TYbe4OjeYAA_640330/0",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "27656dec4f7f",
-      "title": "湖南三部门关于进一步优化创业担保贷款政策 全力支持大学生等重点 ...",
-      "url": "https://news.qq.com/rain/a/20260817A092GS00",
-      "summary": "为进一步健全创业支持体系，提升创业质量，增强创业担保贷款政策的吸引力和可及性，强化对大学生等重点群体创业的金融支撑，根据省委、省政府促进创业带动就业的决策部署及支持大学生创业“七个一”行动要求，依据《",
-      "source": "Bing·大学生创业扶持政策",
-      "category": "政策",
-      "published": "2026-08-17T09:48:00.000Z",
-      "image": "",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "ed0822808f9b",
-      "title": "温州发布专项政策指南 为残疾人大学生就业创业“撑腰”",
-      "url": "https://news.66wz.com/system/2026/07/16/105805829.shtml",
-      "summary": "市人社局与市残联携手对现行最实用、最优惠的就创业补贴政策进行全面梳理，并形成《温州市残疾人大学生就业创业政策指南》，助力这一特殊群体跨越障碍，实现更加充分、更高质量的就业和创业。 温州网讯 为支持更多",
-      "source": "就业创业政策",
-      "category": "政策",
-      "published": "2026-07-16T01:51:00.000Z",
-      "score": 55,
-      "tags": []
-    },
-    {
       "id": "7530315d4a43",
       "title": "@丹东企业、高校毕业生、就业困难人员……2026版补贴政策请查收",
       "url": "https://news.qq.com/rain/a/20260815A06VPO00",
@@ -296,6 +261,42 @@
       "published": "2026-08-15T05:41:00.000Z",
       "image": "http://inews.gtimg.com/newsapp_ls/0/192333742_200200/0",
       "score": 55,
+      "tags": []
+    },
+    {
+      "id": "e54513a42b40",
+      "title": "@湖南高校毕业生：三部门发文推动社区就业，这些新岗位、新待遇请 ...",
+      "url": "https://www.sohu.com/a/1065591213_99900119",
+      "summary": "人力资源社会保障部 中央社会工作部 民政部关于优化城乡社区岗位吸纳高校毕业生就业工作的通知 人社部发〔2026〕49号 各省、自治区、直辖市及新疆生产建设兵团人力资源社会保障厅（局）、社会工作部、民政",
+      "source": "Bing·高校毕业生就业创业政策",
+      "category": "政策",
+      "published": "2026-08-21T00:16:00.000Z",
+      "image": "",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "efbef99e0d99",
+      "title": "聚焦高校毕业生就业 两部门发文部署五项活动（附支持政策清单）",
+      "url": "https://www.xinhuanet.com/edu//20260424/346df901c5cb47bd9b697a8e623224f5/c.html",
+      "summary": "日前，教育部、人力资源社会保障部联合印发通知，部署在全国范围内开展2026年高校毕业生就业政策宣传活动，帮助高校毕业生和用人单位全面了解、精准享受就业优惠政策，促进高校毕业生高质量充分就业。 2026",
+      "source": "就业创业政策",
+      "category": "政策",
+      "published": "2026-04-24T07:25:00.000Z",
+      "image": "https://www.news.cn/detail2020/images/ewm.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "4d053f2d316c",
+      "title": "最全汇总！广东出台2026年高校毕业生就业创业扶持政策",
+      "url": "https://finance.sina.com.cn/roll/2026-07-14/doc-inihtvuk5341936.shtml",
+      "summary": "又是一年毕业求职季，为全力推动高校毕业生高质量充分就业，广东省人力资源和社会保障部门出台一揽子就业创业扶持政策，覆盖企业、在校大学生、应届及离校毕业生、创业主体、基层服务人群等不同群体，补贴、贷款、培",
+      "source": "就业创业政策",
+      "category": "政策",
+      "published": "2026-07-14T04:30:00.000Z",
+      "image": "//n.sinaimg.cn/default/feedbackpics/transform/116/w550h366/20180409/SXMa-fyvtmxe2860250.png",
+      "score": 50,
       "tags": []
     }
   ],
@@ -363,6 +364,15 @@
   ],
   "财经": [
     {
+      "id": "621fa6fa6c94",
+      "title": "新疆葡萄产业加速“数智化”转型",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-23/10682725.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-08-23T08:53:50.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
       "id": "1ba30a3d03a6",
       "title": "海内外嘉宾青岛共议“可持续、高效、智能”交通能源未来",
       "url": "https://www.chinanews.com.cn/cj/2026/08-23/10682693.shtml",
@@ -396,15 +406,6 @@
       "source": "中新网财经",
       "category": "财经",
       "published": "2026-08-23T05:06:58.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "af975fc946bf",
-      "title": "贵州化肥借力铁路“运仓配”直奔东北粮仓",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-23/10682631.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-08-23T04:55:01.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
