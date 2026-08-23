@@ -37,18 +37,6 @@
       "tags": []
     },
     {
-      "id": "8014b9bf1f18",
-      "title": "Michael Polansky is training an AI model on skin that’s still alive",
-      "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
-      "summary": "Michael Polansky is training an AI model on skin that’s still alive",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-22T01:31:04.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Michael_Polansky.jpg?resize=1200,759",
-      "score": 75,
-      "tags": []
-    },
-    {
       "id": "25360e89e79a",
       "title": "How AI coding tools are contributing to the popularity of JavaScript",
       "url": "https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/",
@@ -59,9 +47,33 @@
       "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/chris-ried-ieic5Tq8YMk-unsplash-scaled.jpg",
       "score": 70,
       "tags": []
+    },
+    {
+      "id": "8014b9bf1f18",
+      "title": "Michael Polansky is training an AI model on skin that’s still alive",
+      "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
+      "summary": "Michael Polansky is training an AI model on skin that’s still alive",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-22T01:31:04.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Michael_Polansky.jpg?resize=1200,759",
+      "score": 70,
+      "tags": []
     }
   ],
   "科技": [
+    {
+      "id": "6ce2b1d23580",
+      "title": "Two years after launch, Walmart&#8217;s Flipkart is closing in on India&#8217;s quick-commerce leaders",
+      "url": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/",
+      "summary": "Two years after launch, Walmart&#8217;s Flipkart is closing in on India&#8217;s quick-commerce leade",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-23T03:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/flipkart-minutes.jpg?resize=1200,800",
+      "score": 70,
+      "tags": []
+    },
     {
       "id": "05cdf650ffdb",
       "title": "Will the DOJ&#8217;s investigation into a16z spook other VCs?",
@@ -71,7 +83,7 @@
       "category": "科技",
       "published": "2026-08-22T20:24:20.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/01/a16z-Andreessen-Horowitz.jpg?resize=1200,800",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -99,84 +111,13 @@
       "tags": []
     },
     {
-      "id": "d7e3e6a3a485",
-      "title": "Anthropic’s Opus 4.6 is a smut-machine",
-      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-21T23:07:25.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-157692252.jpg?resize=1200,915"
-    },
-    {
-      "id": "5a379d4f9d7f",
-      "title": "Nvidia partners with data center developer Cloverleaf",
-      "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-21T22:37:38.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750"
-    }
-  ],
-  "开发": [
-    {
       "id": "9596b975c197",
       "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
       "url": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
-      "summary": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
       "source": "TechCrunch",
-      "category": "开发",
+      "category": "科技",
       "published": "2026-08-22T01:03:06.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2238027332.jpg?resize=1200,675",
-      "score": 65,
-      "tags": []
-    },
-    {
-      "id": "ca00b11aa182",
-      "title": "CFP 开放 | KCD 杭州站邀您共议 Agent 时代的云原生、可观测与大模型推理",
-      "url": "https://www.infoq.cn/article/LpNjOA7au7WIhTBmVcJo?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/LpNjOA7au7WIhTBmVcJo",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-08-20T19:03:02.000Z",
-      "image": "https://static001.infoq.cn/resource/image/71/2a/71632c7925bb618c19b401369316222a.png",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "5dfc28337f3d",
-      "title": "AI Infra 正在诞生自己的石油期货？GPU 不够买之后，华尔街开始交易算力",
-      "url": "https://www.infoq.cn/article/qaWyth5P4tZE1CQhhaGq?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/qaWyth5P4tZE1CQhhaGq",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-08-20T18:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/2d/e0/2d757b2dcfc242b7233dfc3f20697de0.png",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "048d525dc8c5",
-      "title": "你的 Coding Agent 有多大价值，取决于它对你的数据了解多少 | 技术实践",
-      "url": "https://www.infoq.cn/article/CPidTC2YJ7AvlU7jUgiq?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/CPidTC2YJ7AvlU7jUgiq",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-08-20T16:12:45.000Z",
-      "image": "https://static001.infoq.cn/resource/image/f3/86/f32d7f039e8d533e1c62e8d2285f2586.png",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "cc87898e1a06",
-      "title": "科技爱好者周刊（第 409 期）：程序员的职业未来",
-      "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html",
-      "summary": "这里记录每周值得分享的科技内容，周五发布",
-      "source": "阮一峰",
-      "category": "开发",
-      "published": "2026-08-20T23:53:54.000Z",
-      "image": "",
-      "score": 55,
-      "tags": []
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2238027332.jpg?resize=1200,675"
     }
   ],
   "就业": [
@@ -229,16 +170,75 @@
       "tags": []
     },
     {
-      "id": "6c29c012001d",
-      "title": "美国人事管理办公室要求联邦机构优先招聘技术人才",
-      "url": "https://news.qq.com/rain/a/20260805A0B95V00",
-      "summary": "据meritalk网站８月４日消息，美国人事管理办公室（OPM）发布指导意见，要求联邦机构在9月30日前提交的2027财年劳动力计划中，将人工智能、网络安全、软件工程、数据科学等技术岗位招聘列为核心内",
-      "source": "数据科学·就业分析",
+      "id": "a739e986b3b4",
+      "title": "FDE工程师薪资走高，亚马逊投入10亿美元加入“抢人大战”",
+      "url": "https://news.sina.com.cn/w/2026-07-01/doc-inifinuh3962104.shtml",
+      "summary": "当地时间6月30日，亚马逊宣布投入10亿美元打造FDE（前沿部署工程师）团队，让AI工程师与客户直接合作，并且协助客户构建和部署人工智能系统。 亚马逊表示，FDE嵌入式团队将与客户的业务、工程和安全团",
+      "source": "就业报告",
       "category": "就业",
-      "published": "2026-08-05T09:44:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/O-zanNMfobFuSbgVRUpt7B8D8KPgLef76B9rLoSn4nd3IAA_640330/0",
+      "published": "2026-07-01T16:07:00.000Z",
+      "image": "http://n.sinaimg.cn/sinakd20260701s/0/w1920h1280/20260701/ed65-3a9b2c08a6d0f60875ae66e5a55145cb.jpg",
       "score": 60,
       "tags": []
+    }
+  ],
+  "开发": [
+    {
+      "id": "ca00b11aa182",
+      "title": "CFP 开放 | KCD 杭州站邀您共议 Agent 时代的云原生、可观测与大模型推理",
+      "url": "https://www.infoq.cn/article/LpNjOA7au7WIhTBmVcJo?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/LpNjOA7au7WIhTBmVcJo",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-20T19:03:02.000Z",
+      "image": "https://static001.infoq.cn/resource/image/71/2a/71632c7925bb618c19b401369316222a.png",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "5dfc28337f3d",
+      "title": "AI Infra 正在诞生自己的石油期货？GPU 不够买之后，华尔街开始交易算力",
+      "url": "https://www.infoq.cn/article/qaWyth5P4tZE1CQhhaGq?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/qaWyth5P4tZE1CQhhaGq",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-20T18:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/2d/e0/2d757b2dcfc242b7233dfc3f20697de0.png",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "cc87898e1a06",
+      "title": "科技爱好者周刊（第 409 期）：程序员的职业未来",
+      "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html",
+      "summary": "这里记录每周值得分享的科技内容，周五发布",
+      "source": "阮一峰",
+      "category": "开发",
+      "published": "2026-08-20T23:53:54.000Z",
+      "image": "",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "11b35a28c1cc",
+      "title": "CloudFlare 预览网页 WebMCP 自动支持功能",
+      "url": "https://www.infoq.cn/article/pKbwv6YkdSE1UdCiKl2F?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/pKbwv6YkdSE1UdCiKl2F",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-20T17:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/cb/f1/cbb95a85b41261ff4a56043a82f1a7f1.jpg",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "7c73ca77d275",
+      "title": "事故频发并不意味着可靠性下降",
+      "url": "https://www.infoq.cn/article/m8zEcEteGKJma9EJe35S?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-23T09:10:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/83/43/836a4c6f8f5145e886f416b536d70143.jpg"
     }
   ],
   "政策": [
@@ -255,6 +255,18 @@
       "tags": []
     },
     {
+      "id": "cbc9eef66c6c",
+      "title": "黑龙江推出“源来好创业”资源对接服务季 七大举措助力创业就业",
+      "url": "https://news.qq.com/rain/a/20260818A0AA7O00",
+      "summary": "央广网哈尔滨8月18日消息（记者 许诺）8月18日，黑龙江省以创业带动就业工作新闻发布会召开，会上介绍了全省即将开展的“源来好创业”资源对接服务季活动相关详情。据黑龙江省人力资源和社会保障厅二级巡视员",
+      "source": "Bing·人社部就业创业政策",
+      "category": "政策",
+      "published": "2026-08-18T10:51:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/O62q6z2c0KGCpf7gaIkvbrlwgjm6JAq5IE1-TYbe4OjeYAA_640330/0",
+      "score": 55,
+      "tags": []
+    },
+    {
       "id": "27656dec4f7f",
       "title": "湖南三部门关于进一步优化创业担保贷款政策 全力支持大学生等重点 ...",
       "url": "https://news.qq.com/rain/a/20260817A092GS00",
@@ -263,18 +275,6 @@
       "category": "政策",
       "published": "2026-08-17T09:48:00.000Z",
       "image": "",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "ed0822808f9b",
-      "title": "温州发布专项政策指南 为残疾人大学生就业创业“撑腰”",
-      "url": "https://news.66wz.com/system/2026/07/16/105805829.shtml",
-      "summary": "市人社局与市残联携手对现行最实用、最优惠的就创业补贴政策进行全面梳理，并形成《温州市残疾人大学生就业创业政策指南》，助力这一特殊群体跨越障碍，实现更加充分、更高质量的就业和创业。 温州网讯 为支持更多",
-      "source": "就业创业政策",
-      "category": "政策",
-      "published": "2026-07-16T01:51:00.000Z",
-      "image": "https://news.66wz.com/pic/003/013/337/00301333742_93765919.gif",
       "score": 55,
       "tags": []
     },
@@ -291,14 +291,14 @@
       "tags": []
     },
     {
-      "id": "d96fdbd22ea6",
-      "title": "国家三部门发文！促进高校毕业生到城乡社区就业",
-      "url": "https://www.sohu.com/a/1065440013_503494",
-      "summary": "为深入贯彻党中央关于稳就业、稳企业、稳市场、稳预期决策部署，进一步优化城乡社区岗位，吸纳更多高校毕业生到基层就业，日前，人力资源社会保障部、中央社会工作部、民政部联合印发《关于优化城乡社区岗位吸纳高校",
-      "source": "Bing·高校毕业生就业创业政策",
+      "id": "3bec6656af7f",
+      "title": "绘就人才回流新图景 祁阳市首届大学生就业供需对接会成功举办",
+      "url": "https://www.sohu.com/a/1064208566_160273",
+      "summary": "今日永州讯盛夏八月，骄阳似火，却挡不住青春逐梦的热情。继“青春与家乡”高中毕业生专场活动后，8月17日，祁阳市2026年“青春同行&#183;追梦祁阳”首届大学生就业供需对接会火热举行",
+      "source": "Bing·大学生就业政策",
       "category": "政策",
-      "published": "2026-08-20T11:30:00.000Z",
-      "image": "https://q2.itc.cn/q_70/images03/20260820/86e3e5dda9f64e5b968784660366d7e8.png",
+      "published": "2026-08-18T01:51:00.000Z",
+      "image": "https://q7.itc.cn/q_70/images03/20260818/fc2f444a445847088668462fe9635467.jpeg",
       "score": 50,
       "tags": []
     }
@@ -353,19 +353,46 @@
       "tags": []
     },
     {
-      "id": "3917c1060c65",
-      "title": "大学英语四六级查分时间定了",
-      "url": "https://www.chinanews.com.cn/edu/2026/08-20/10680950.shtml",
-      "summary": "中新网8月20日电 据中国教育考试网消息，近日，教育部教育考试院发布通知，2026年上半年全国大学英语四、六级考试(CET)成绩查询服务将于2026年8月24日(周一)开通",
+      "id": "fa35bdc98f15",
+      "title": "当学术期刊集体给AI“立规矩”",
+      "url": "https://www.chinanews.com.cn/edu/2026/08-21/10681471.shtml",
+      "summary": "当学术期刊集体给AI“立规矩”",
       "source": "中新网教育",
       "category": "社会",
-      "published": "2026-08-20T06:44:12.000Z",
+      "published": "2026-08-21T02:03:10.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 45,
       "tags": []
     }
   ],
   "财经": [
+    {
+      "id": "86ed349a2ae2",
+      "title": "我国实现多领域高端钢材自主量产",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-23/10682562.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-08-23T02:13:07.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "207f216e07cb",
+      "title": "云南跨境电商公益大讲堂开讲 推动产品向品牌“输出升级”",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-23/10682531.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-08-23T01:50:34.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "cb54e60ed5b3",
+      "title": "上半年亏损或四千万，爱丽家居凭什么13天12板？",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-23/10682523.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-08-23T01:18:36.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
     {
       "id": "76667745fdac",
       "title": "霍尔果斯压气首站累计输气突破6000亿立方米",
@@ -382,33 +409,6 @@
       "source": "中新网财经",
       "category": "财经",
       "published": "2026-08-22T13:50:45.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "6ed238bb597c",
-      "title": "（经济观察）算力也能“存”和“买” 中国探索“算力银行”“算力超市”",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682472.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-08-22T13:47:40.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "c0be051f752b",
-      "title": "世界机器人大会观察：跳出炫技 埋头“干活”",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682469.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-08-22T12:58:53.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "827f1d7d2b26",
-      "title": "（粤港澳大湾区）“湾区明珠 双城海上游”新航线开通",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682464.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-08-22T12:55:53.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
