@@ -127,7 +127,7 @@
       "category": "开发",
       "published": "2026-08-22T01:03:06.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2238027332.jpg?resize=1200,675",
-      "score": 70,
+      "score": 65,
       "tags": []
     },
     {
@@ -167,15 +167,15 @@
       "tags": []
     },
     {
-      "id": "11b35a28c1cc",
-      "title": "CloudFlare 预览网页 WebMCP 自动支持功能",
-      "url": "https://www.infoq.cn/article/pKbwv6YkdSE1UdCiKl2F?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/pKbwv6YkdSE1UdCiKl2F",
-      "source": "InfoQ中文",
+      "id": "cc87898e1a06",
+      "title": "科技爱好者周刊（第 409 期）：程序员的职业未来",
+      "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html",
+      "summary": "这里记录每周值得分享的科技内容，周五发布",
+      "source": "阮一峰",
       "category": "开发",
-      "published": "2026-08-20T17:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/cb/f1/cbb95a85b41261ff4a56043a82f1a7f1.jpg",
-      "score": 50,
+      "published": "2026-08-20T23:53:54.000Z",
+      "image": "",
+      "score": 55,
       "tags": []
     }
   ],
@@ -229,14 +229,14 @@
       "tags": []
     },
     {
-      "id": "a739e986b3b4",
-      "title": "FDE工程师薪资走高，亚马逊投入10亿美元加入“抢人大战”",
-      "url": "https://news.sina.com.cn/w/2026-07-01/doc-inifinuh3962104.shtml",
-      "summary": "当地时间6月30日，亚马逊宣布投入10亿美元打造FDE（前沿部署工程师）团队，让AI工程师与客户直接合作，并且协助客户构建和部署人工智能系统。 亚马逊表示，FDE嵌入式团队将与客户的业务、工程和安全团",
-      "source": "就业报告",
+      "id": "6c29c012001d",
+      "title": "美国人事管理办公室要求联邦机构优先招聘技术人才",
+      "url": "https://news.qq.com/rain/a/20260805A0B95V00",
+      "summary": "据meritalk网站８月４日消息，美国人事管理办公室（OPM）发布指导意见，要求联邦机构在9月30日前提交的2027财年劳动力计划中，将人工智能、网络安全、软件工程、数据科学等技术岗位招聘列为核心内",
+      "source": "数据科学·就业分析",
       "category": "就业",
-      "published": "2026-07-01T16:07:00.000Z",
-      "image": "http://n.sinaimg.cn/sinakd20260701s/0/w1920h1280/20260701/ed65-3a9b2c08a6d0f60875ae66e5a55145cb.jpg",
+      "published": "2026-08-05T09:44:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/O-zanNMfobFuSbgVRUpt7B8D8KPgLef76B9rLoSn4nd3IAA_640330/0",
       "score": 60,
       "tags": []
     }
@@ -267,18 +267,6 @@
       "tags": []
     },
     {
-      "id": "7530315d4a43",
-      "title": "@丹东企业、高校毕业生、就业困难人员……2026版补贴政策请查收",
-      "url": "https://news.qq.com/rain/a/20260815A06VPO00",
-      "summary": "近日，丹东市人力资源和社会保障局发布《丹东市就业创业政策清单（2026版）》，集中梳理了当前全市就业创业领域的重点扶持政策，方便企业和市民“对号入座”、应享尽享。清单分为“企业类”和“个人类”两大板块",
-      "source": "就业创业政策",
-      "category": "政策",
-      "published": "2026-08-15T05:41:00.000Z",
-      "image": "http://inews.gtimg.com/newsapp_ls/0/192333742_200200/0",
-      "score": 55,
-      "tags": []
-    },
-    {
       "id": "ed0822808f9b",
       "title": "温州发布专项政策指南 为残疾人大学生就业创业“撑腰”",
       "url": "https://news.66wz.com/system/2026/07/16/105805829.shtml",
@@ -291,14 +279,26 @@
       "tags": []
     },
     {
-      "id": "e7cd3e2cbeb4",
-      "title": "人力资源社会保障部 中央社会工作部 民政部印发《关于优化城乡 ...",
-      "url": "https://www.sohu.com/a/1065272403_121106822",
+      "id": "7530315d4a43",
+      "title": "@丹东企业、高校毕业生、就业困难人员……2026版补贴政策请查收",
+      "url": "https://news.qq.com/rain/a/20260815A06VPO00",
+      "summary": "近日，丹东市人力资源和社会保障局发布《丹东市就业创业政策清单（2026版）》，集中梳理了当前全市就业创业领域的重点扶持政策，方便企业和市民“对号入座”、应享尽享。清单分为“企业类”和“个人类”两大板块",
+      "source": "就业创业政策",
+      "category": "政策",
+      "published": "2026-08-15T05:41:00.000Z",
+      "image": "http://inews.gtimg.com/newsapp_ls/0/192333742_200200/0",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "d96fdbd22ea6",
+      "title": "国家三部门发文！促进高校毕业生到城乡社区就业",
+      "url": "https://www.sohu.com/a/1065440013_503494",
       "summary": "为深入贯彻党中央关于稳就业、稳企业、稳市场、稳预期决策部署，进一步优化城乡社区岗位，吸纳更多高校毕业生到基层就业，日前，人力资源社会保障部、中央社会工作部、民政部联合印发《关于优化城乡社区岗位吸纳高校",
       "source": "Bing·高校毕业生就业创业政策",
       "category": "政策",
-      "published": "2026-08-20T05:15:00.000Z",
-      "image": "",
+      "published": "2026-08-20T11:30:00.000Z",
+      "image": "https://q2.itc.cn/q_70/images03/20260820/86e3e5dda9f64e5b968784660366d7e8.png",
       "score": 50,
       "tags": []
     }
@@ -367,6 +367,15 @@
   ],
   "财经": [
     {
+      "id": "76667745fdac",
+      "title": "霍尔果斯压气首站累计输气突破6000亿立方米",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-23/10682507.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-08-22T23:38:10.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
       "id": "2eb67b3cf9cc",
       "title": "侨链全球开新局 第十二届侨交会收官",
       "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682476.shtml",
@@ -400,15 +409,6 @@
       "source": "中新网财经",
       "category": "财经",
       "published": "2026-08-22T12:55:53.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "14f3df7a9cbc",
-      "title": "多元业态升级！“电影+”延伸光影消费链条",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-22/10682445.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-08-22T12:16:33.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
