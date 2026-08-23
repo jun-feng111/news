@@ -25,30 +25,6 @@
       "tags": []
     },
     {
-      "id": "39119bad22db",
-      "title": "OpenAI says California should strengthen its AI safety bill",
-      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-      "summary": "OpenAI says California should strengthen its AI safety bill",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-22T16:30:34.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "796f7a9c48e9",
-      "title": "Frontier AI labs still won&#8217;t say how they&#8217;d contain a rogue model",
-      "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-      "summary": "Frontier AI labs still won&#8217;t say how they&#8217;d contain a rogue model",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-22T16:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2019/07/kill-switch-ransomware.jpg?resize=1200,638",
-      "score": 70,
-      "tags": []
-    },
-    {
       "id": "f264c057671c",
       "title": "Inherent, founded by DeepMind alumni, says its AI &#8216;teammate&#8217; just outperformed Anthropic and OpenAI at replicating research",
       "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
@@ -59,9 +35,51 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/inherent-labs-cofounders-credit-Anna-Gordon.jpeg?resize=1200,800",
       "score": 60,
       "tags": []
+    },
+    {
+      "id": "25360e89e79a",
+      "title": "How AI coding tools are contributing to the popularity of JavaScript",
+      "url": "https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-08-21T08:41:29.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/chris-ried-ieic5Tq8YMk-unsplash-scaled.jpg"
+    },
+    {
+      "id": "5f36318a4995",
+      "title": "Amazon&#8217;s Prime Air autonomous drones to reach 500 US cities",
+      "url": "https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-08-20T14:05:18.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/amazon-prime-air-drone-delivery-us-cities-expansion-autonomous-physical-edge-ai-logistics.jpg"
     }
   ],
   "科技": [
+    {
+      "id": "be28f1428bf3",
+      "title": "Who&#8217;s behind the new ‘stealth model’ Ox Alpha?",
+      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "summary": "Who&#8217;s behind the new ‘stealth model’ Ox Alpha",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-23T20:01:36.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/02/magnifying-glasses-Getty.jpg?resize=1200,675",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "38092a5bb168",
+      "title": "Uber faces fine of nearly $1B over automated driver suspensions",
+      "url": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/",
+      "summary": "Uber faces fine of nearly $1B over automated driver suspensions",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-23T19:30:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2018/10/uber-thumb.jpg?resize=1200,800",
+      "score": 75,
+      "tags": []
+    },
     {
       "id": "caeae8aba479",
       "title": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
@@ -87,18 +105,6 @@
       "tags": []
     },
     {
-      "id": "05cdf650ffdb",
-      "title": "Will the DOJ&#8217;s investigation into a16z spook other VCs?",
-      "url": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
-      "summary": "Will the DOJ&#8217;s investigation into a16z spook other VCs",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-22T20:24:20.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/a16z-Andreessen-Horowitz.jpg?resize=1200,800",
-      "score": 70,
-      "tags": []
-    },
-    {
       "id": "fc3e349b3942",
       "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
       "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
@@ -107,18 +113,6 @@
       "category": "科技",
       "published": "2026-08-23T19:14:08.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/Linkdaze-calendar.jpeg?w=1200",
-      "score": 65,
-      "tags": []
-    },
-    {
-      "id": "6ce2b1d23580",
-      "title": "Two years after launch, Walmart&#8217;s Flipkart is closing in on India&#8217;s quick-commerce leaders",
-      "url": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/",
-      "summary": "Two years after launch, Walmart&#8217;s Flipkart is closing in on India&#8217;s quick-commerce leade",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-23T03:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/flipkart-minutes.jpg?resize=1200,800",
       "score": 65,
       "tags": []
     }
@@ -199,6 +193,18 @@
       "tags": []
     },
     {
+      "id": "0db2545a182a",
+      "title": "DeepSeek 发布多模态模型，“小鲸鱼”长出了眼睛",
+      "url": "https://www.infoq.cn/article/jlTfe57D4r0Juzpz8Fk5?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/jlTfe57D4r0Juzpz8Fk5",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-21T19:34:36.000Z",
+      "image": "https://static001.infoq.cn/resource/image/a4/bb/a4ba1ca59e4969be19fe0yy1a790dabb.png",
+      "score": 55,
+      "tags": []
+    },
+    {
       "id": "5ed70c17945a",
       "title": "本地运行、支持视觉与工具调用：Meta 开源智能体模型",
       "url": "https://www.infoq.cn/article/aGfkSN1YlmLrUQMPea9L?utm_source=rss&amp;utm_medium=article",
@@ -231,18 +237,6 @@
       "category": "开发",
       "published": "2026-08-21T14:25:00.000Z",
       "image": "https://static001.infoq.cn/resource/image/b7/06/b72b712f67df7d76a193d446f46d3306.jpg",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "fdec265f4ded",
-      "title": "OpenAI 之后又是 Anthropic，Claude 将攻击延伸至公共互联网",
-      "url": "https://www.infoq.cn/article/9FZ8z60yB4tS4WQEP4dw?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/9FZ8z60yB4tS4WQEP4dw",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-08-21T10:25:50.000Z",
-      "image": "https://static001.infoq.cn/resource/image/11/39/11dac95b28abb51c3debyy7a0e17ba39.jpg",
       "score": 55,
       "tags": []
     }
@@ -285,6 +279,17 @@
       "tags": []
     },
     {
+      "id": "ed0822808f9b",
+      "title": "温州发布专项政策指南 为残疾人大学生就业创业“撑腰”",
+      "url": "https://news.66wz.com/system/2026/07/16/105805829.shtml",
+      "summary": "市人社局与市残联携手对现行最实用、最优惠的就创业补贴政策进行全面梳理，并形成《温州市残疾人大学生就业创业政策指南》，助力这一特殊群体跨越障碍，实现更加充分、更高质量的就业和创业。 温州网讯 为支持更多",
+      "source": "就业创业政策",
+      "category": "政策",
+      "published": "2026-07-16T01:51:00.000Z",
+      "score": 55,
+      "tags": []
+    },
+    {
       "id": "7530315d4a43",
       "title": "@丹东企业、高校毕业生、就业困难人员……2026版补贴政策请查收",
       "url": "https://news.qq.com/rain/a/20260815A06VPO00",
@@ -294,18 +299,6 @@
       "published": "2026-08-15T05:41:00.000Z",
       "image": "http://inews.gtimg.com/newsapp_ls/0/192333742_200200/0",
       "score": 55,
-      "tags": []
-    },
-    {
-      "id": "973fa57026cc",
-      "title": "政策护航就业路，服务提质暖人心——禹州市人社局开展高校毕业生 ...",
-      "url": "https://www.sohu.com/a/1065913650_121123756",
-      "summary": "为全面落实高校毕业生就业创业扶持政策，进一步扩大就业创业政策覆盖面，切实提升青年就业服务质效，8月21日，禹州市人社局组织工作人员走进坪山永和苑社区，开展“政策护航就业路，服务提质暖人心”高校毕业生就",
-      "source": "Bing·高校毕业生就业创业政策",
-      "category": "政策",
-      "published": "2026-08-21T11:40:00.000Z",
-      "image": "https://q8.itc.cn/q_70/images03/20260821/b1935fd1bea34fe7918ded69fa59b574.jpeg",
-      "score": 50,
       "tags": []
     }
   ],
