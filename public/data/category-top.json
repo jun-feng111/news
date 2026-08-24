@@ -1,6 +1,18 @@
 {
   "科技": [
     {
+      "id": "db07451bcf8b",
+      "title": "Brake problems in GM EVs draw greater federal scrutiny",
+      "url": "https://techcrunch.com/2026/08/24/brake-problems-in-gm-evs-draw-greater-federal-scrutiny/",
+      "summary": "Brake problems in GM EVs draw greater federal scrutiny",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-24T14:18:47.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/09/MY24-Chevrolet-Equinox-EV-3LT.jpg?resize=1200,632",
+      "score": 75,
+      "tags": []
+    },
+    {
       "id": "aa2dd08ad7da",
       "title": "Hugging Face reportedly in talks to be acquired for $13B",
       "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
@@ -47,18 +59,6 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/waymo-ojai.jpg?resize=1200,675",
       "score": 70,
       "tags": []
-    },
-    {
-      "id": "d26899ffdb40",
-      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
-      "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
-      "summary": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-23T15:30:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/flock-camera-pole.jpg?resize=1200,799",
-      "score": 70,
-      "tags": []
     }
   ],
   "AI": [
@@ -75,16 +75,40 @@
       "tags": []
     },
     {
-      "id": "480d7ab40672",
-      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-      "summary": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-      "source": "TechCrunch",
+      "id": "25360e89e79a",
+      "title": "How AI coding tools are contributing to the popularity of JavaScript",
+      "url": "https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/",
+      "source": "AI News",
       "category": "AI",
-      "published": "2026-08-22T21:46:56.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2169079907_27e720-e1734690817769.jpg?resize=1200,800",
-      "score": 70,
-      "tags": []
+      "published": "2026-08-21T08:41:29.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/chris-ried-ieic5Tq8YMk-unsplash-scaled.jpg"
+    },
+    {
+      "id": "5f36318a4995",
+      "title": "Amazon&#8217;s Prime Air autonomous drones to reach 500 US cities",
+      "url": "https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-08-20T14:05:18.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/amazon-prime-air-drone-delivery-us-cities-expansion-autonomous-physical-edge-ai-logistics.jpg"
+    },
+    {
+      "id": "90eae752a6c9",
+      "title": "Stripe agrees to buy OpenRouter as AI model routing expands",
+      "url": "https://www.artificialintelligence-news.com/news/stripe-openrouter-acquisition-ai-model-routing/",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-08-20T10:00:00.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/Stripe-agrees-to-buy-OpenRouter-as-AI-model-routing-expands-scaled-e1787195901752.jpg"
+    },
+    {
+      "id": "e3d7b0428306",
+      "title": "Agentic AI in government just hit the hard part: deciding what a machine may decide",
+      "url": "https://www.artificialintelligence-news.com/news/agentic-ai-in-government-uae-classification/",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-08-20T09:00:00.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/p1x04htn1ka1ardpn-scaled.jpeg"
     }
   ],
   "就业": [
@@ -113,14 +137,14 @@
       "tags": []
     },
     {
-      "id": "67398aba775e",
-      "title": "1270万毕业生求职内卷，职计划四大求职产品上线，一文看懂 A/Z/H/J ...",
-      "url": "https://biz.ifeng.com/c/8vllG1IS3HI",
-      "summary": "近日,国内职业发展教育与求职陪跑服务头部品牌职计划完成四大产品矩阵布局,职计划A计划、Z计划、H计划、J计划悉数对外发布。在毕业生规模持续走高、AI技术深度重塑招聘标准的行业背景之下,不少应届生以及职",
-      "source": "Bing·应届生求职",
+      "id": "af8ee80ad7c4",
+      "title": "2026年大学生就业前景研判报告：人工智能、数据工程师以三成招聘 ...",
+      "url": "https://news.qq.com/rain/a/20260621A08K1J00",
+      "summary": "哪些行业发展增速位居前列。哪些专业毕业后薪资领先",
+      "source": "智联招聘",
       "category": "就业",
-      "published": "2026-08-21T06:35:00.000Z",
-      "image": "https://x0.ifengimg.com/res/2026/ACD2DA8CFA1A25CC1B7CBCDBC2FF9AC43D410EF3_size748_w800_h837.png",
+      "published": "2026-06-21T11:28:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/OWCs-Tp6UekhhmAEcGla04vVA8bxCbpJz6i1bDub3KFkwAA_640330/0",
       "score": 60,
       "tags": []
     },
@@ -137,14 +161,14 @@
       "tags": []
     },
     {
-      "id": "af8ee80ad7c4",
-      "title": "2026年大学生就业前景研判报告：人工智能、数据工程师以三成招聘 ...",
-      "url": "https://news.qq.com/rain/a/20260621A08K1J00",
-      "summary": "哪些行业发展增速位居前列。哪些专业毕业后薪资领先",
-      "source": "智联招聘",
+      "id": "fff53dbc1de7",
+      "title": "报告：人工智能、数据工程师以三成招聘增速领跑高增长职业",
+      "url": "https://news.qq.com/rain/a/20260617A05FN300",
+      "summary": "哪些行业发展增速位居前列。何种专业毕业生薪资水平领先",
+      "source": "数据科学·就业分析",
       "category": "就业",
-      "published": "2026-06-21T11:28:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/OWCs-Tp6UekhhmAEcGla04vVA8bxCbpJz6i1bDub3KFkwAA_640330/0",
+      "published": "2026-06-17T07:00:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/OuI7ph7ISA3EE-ML4ZAaByrlSVBplTAHvIC0xD4xu2L8EAA_640330/0",
       "score": 60,
       "tags": []
     }
@@ -337,6 +361,24 @@
   ],
   "财经": [
     {
+      "id": "50ad1f8af5eb",
+      "title": "国家人形机器人产业标准体系建设指南将公开征求意见",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683483.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-08-24T14:15:25.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "2b226aae04bf",
+      "title": "（长江十年行）长江入海处，中国制造从这里驶向深蓝",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683476.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-08-24T13:53:10.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
       "id": "aef4676b3383",
       "title": "闽宁协作三十载：西吉小菌棒成为群众增收“金棒棒”",
       "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683466.shtml",
@@ -361,24 +403,6 @@
       "source": "中新网财经",
       "category": "财经",
       "published": "2026-08-24T13:43:51.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "40354b777e24",
-      "title": "国产机器人出海加速跑 哈尔滨“智造”驶入快车道",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683459.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-08-24T13:43:13.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "c8135dc11639",
-      "title": "邬贺铨：AI兴起 互联网基础资源技术创新正当时",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683457.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-08-24T13:43:09.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
