@@ -1,0 +1,7 @@
+{
+  "id": "2e94d4c66afc",
+  "title": "Nginx 开启 Gzip 完整配置 - 微山湖上静悄悄",
+  "url": "https://www.cnblogs.com/zhuoshengjie/p/22655392",
+  "contentZh": "",
+  "contentFull": "\n一、核心配置（推荐直接放在 http{} 全局块，所有站点生效）\n打开 nginx 主配置文件，一般路径：\n/etc/nginx/nginx.conf\nhttp {\n    # 开启gzip\n    gzip on;\n\n    # 低于此大小不压缩，单位bytes，建议1k，小文件压缩得不偿失\n    gzip_min_length 1024;\n\n    # 压缩级别 1-9，数字越大压缩率越高、CPU消耗越高，一般5足够\n    gzip_comp_level 5;\n\n    # 需要压缩的MIME类型\n    gzip_types\n        text/plain\n        text/css\n        text/xml\n        text/javascript\n        application/json\n        application/javascript\n        application/xml+rss\n        image/svg+xml;\n\n    # 是否在响应头添加 Vary: Accept-Encoding（建议开启，代理环境必备）\n    gzip_vary on;\n\n    # 代理服务器缓存压缩标识（反向代理场景开启）\n    gzip_proxied any;\n\n    # IE6及以下禁用gzip（兼容老浏览器）\n    gzip_disable \"MSIE [1-6]\\.\";\n\n    # 缓冲区，默认即可，可选配置\n    gzip_buffers 4 16k;\n}\n\n\n如果你只想单个网站启用，把上面配置放到对应 server {} 块内。\n\n二、重要注���点\n❌ 不要加图片格式（jpg/png/gif/webp）\n图片本身已经压缩，再次 gzip 收益极小，浪费 CPU；只压缩文本类资源。\n三、生效步骤\n\n检查配置语法\n\nnginx -t\n\n\n重载 Nginx（不中断服务）\n\nnginx -s reload\n\n四、验证是否生效\n方式 1 curl 测试\ncurl -I -H \"Accept-Encoding: gzip\" https://你的域名/style.css\n\n返回头部出现：\nContent-Encoding: gzip → 代表成功\n方式 2 浏览器 F12\n网络面板 → 选中资源 → 响应头查看 Content-Encoding: gzip\n五、常见问题\n\n配置写了不生效\n\n\n\n确认配置放在 http{} / server{}，不要放在 location{} 之外错误层级\n\n\nnginx -t 是否报错\n\n\n有没有其他地方重复 gzip off; 覆盖配置\n\n\n\n\n反向代理后端返回不压缩\n加�� gzip_proxied any;\n\n\n静态小文件不压缩\n由 gzip_min_length 1024 控制，小于 1KB 不会压缩，属于正常策略。\n\n\n\n\n"
+}
