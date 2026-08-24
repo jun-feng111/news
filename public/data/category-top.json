@@ -1,4 +1,42 @@
 {
+  "AI": [
+    {
+      "id": "c058daa1dd11",
+      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "summary": "Is it legal to train AI models on copyrighted books。 It’s complicated",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-23T15:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1303811813.jpg?resize=1200,749",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "480d7ab40672",
+      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+      "summary": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-22T21:46:56.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2169079907_27e720-e1734690817769.jpg?resize=1200,800",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "f264c057671c",
+      "title": "Inherent, founded by DeepMind alumni, says its AI &#8216;teammate&#8217; just outperformed Anthropic and OpenAI at replicating research",
+      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "summary": "Inherent, founded by DeepMind alumni, says its AI &#8216;teammate&#8217; just outperformed Anthropic",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-22T19:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/inherent-labs-cofounders-credit-Anna-Gordon.jpeg?resize=1200,800",
+      "score": 60,
+      "tags": []
+    }
+  ],
   "科技": [
     {
       "id": "be28f1428bf3",
@@ -9,7 +47,7 @@
       "category": "科技",
       "published": "2026-08-23T20:01:36.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2025/02/magnifying-glasses-Getty.jpg?resize=1200,675",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -49,72 +87,16 @@
       "tags": []
     },
     {
-      "id": "6ce2b1d23580",
-      "title": "Two years after launch, Walmart&#8217;s Flipkart is closing in on India&#8217;s quick-commerce leaders",
-      "url": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/",
-      "summary": "Two years after launch, Walmart&#8217;s Flipkart is closing in on India&#8217;s quick-commerce leade",
+      "id": "05cdf650ffdb",
+      "title": "Will the DOJ&#8217;s investigation into a16z spook other VCs?",
+      "url": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
+      "summary": "Will the DOJ&#8217;s investigation into a16z spook other VCs",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-08-23T03:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/flipkart-minutes.jpg?resize=1200,800",
+      "published": "2026-08-22T20:24:20.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/a16z-Andreessen-Horowitz.jpg?resize=1200,800",
       "score": 65,
       "tags": []
-    }
-  ],
-  "AI": [
-    {
-      "id": "c058daa1dd11",
-      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
-      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-      "summary": "Is it legal to train AI models on copyrighted books。 It’s complicated",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-23T15:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1303811813.jpg?resize=1200,749",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "480d7ab40672",
-      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-      "summary": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-22T21:46:56.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2169079907_27e720-e1734690817769.jpg?resize=1200,800",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "f264c057671c",
-      "title": "Inherent, founded by DeepMind alumni, says its AI &#8216;teammate&#8217; just outperformed Anthropic and OpenAI at replicating research",
-      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-      "summary": "Inherent, founded by DeepMind alumni, says its AI &#8216;teammate&#8217; just outperformed Anthropic",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-22T19:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/inherent-labs-cofounders-credit-Anna-Gordon.jpeg?resize=1200,800",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "25360e89e79a",
-      "title": "How AI coding tools are contributing to the popularity of JavaScript",
-      "url": "https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-08-21T08:41:29.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/chris-ried-ieic5Tq8YMk-unsplash-scaled.jpg"
-    },
-    {
-      "id": "5f36318a4995",
-      "title": "Amazon&#8217;s Prime Air autonomous drones to reach 500 US cities",
-      "url": "https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-08-20T14:05:18.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/amazon-prime-air-drone-delivery-us-cities-expansion-autonomous-physical-edge-ai-logistics.jpg"
     }
   ],
   "就业": [
@@ -279,18 +261,6 @@
       "tags": []
     },
     {
-      "id": "ed0822808f9b",
-      "title": "温州发布专项政策指南 为残疾人大学生就业创业“撑腰”",
-      "url": "https://news.66wz.com/system/2026/07/16/105805829.shtml",
-      "summary": "市人社局与市残联携手对现行最实用、最优惠的就创业补贴政策进行全面梳理，并形成《温州市残疾人大学生就业创业政策指南》，助力这一特殊群体跨越障碍，实现更加充分、更高质量的就业和创业。 温州网讯 为支持更多",
-      "source": "就业创业政策",
-      "category": "政策",
-      "published": "2026-07-16T01:51:00.000Z",
-      "image": "https://news.66wz.com/pic/003/013/337/00301333742_93765919.gif",
-      "score": 55,
-      "tags": []
-    },
-    {
       "id": "7530315d4a43",
       "title": "@丹东企业、高校毕业生、就业困难人员……2026版补贴政策请查收",
       "url": "https://news.qq.com/rain/a/20260815A06VPO00",
@@ -300,6 +270,18 @@
       "published": "2026-08-15T05:41:00.000Z",
       "image": "http://inews.gtimg.com/newsapp_ls/0/192333742_200200/0",
       "score": 55,
+      "tags": []
+    },
+    {
+      "id": "5a999aec11e0",
+      "title": "【我为群众办实事】就业培训 加装座椅 爱心助学 件件实事暖人心",
+      "url": "https://www.sohu.com/a/1065974458_754552",
+      "summary": "群众事，无小事。师市各团场、社区、企业等聚焦群众急难愁盼，从就业帮扶、人居环境改善、爱心助学等方面持续办好民生实事，一桩桩务实举措落地见效，不断提升群众的获得感与幸福感",
+      "source": "Bing·大学生就业政策",
+      "category": "政策",
+      "published": "2026-08-21T14:37:00.000Z",
+      "image": "//q7.itc.cn/q_70/images03/20260821/c2bd3e88cae5471caf623007a188e203.png",
+      "score": 50,
       "tags": []
     }
   ],
@@ -367,48 +349,48 @@
   ],
   "财经": [
     {
-      "id": "5181766e4bef",
-      "title": "上半年食品冷链物流业务总需求量达2亿吨",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10682934.shtml",
+      "id": "c88b7d607b36",
+      "title": "奔腾中国·质胜未来丨坚持创新驱动发展",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683002.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-24T01:00:05.000Z",
+      "published": "2026-08-24T02:18:32.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "745028d08c5f",
-      "title": "每年最高补5000元！消费贷贴息政策优化 购车装修等纳入补贴",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10682905.shtml",
+      "id": "702e3ccc851f",
+      "title": "国家统计局：8月中旬生猪（外三元）价格环比上涨5.8%",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10682976.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-24T00:07:26.000Z",
+      "published": "2026-08-24T02:14:48.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "9123a0ba1925",
-      "title": "电商平台大众评审机制兴起 “赛博判官”如何主持正义",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10682901.shtml",
+      "id": "d6b8b0e2280a",
+      "title": "宇树科技，下跌6.6%",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10682999.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-23T23:56:33.000Z",
+      "published": "2026-08-24T02:14:08.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "715dc264a228",
-      "title": "“十五五”时期，全国将培育三万名农产品骨干经纪人",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10682892.shtml",
+      "id": "4fe49314e8f9",
+      "title": "8月24日央行开展3400亿元7天期逆回购操作",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10682978.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-23T23:42:20.000Z",
+      "published": "2026-08-24T02:01:07.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "d53b56cdb892",
-      "title": "上半年经济增长4.7%说明了什么？",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10682886.shtml",
+      "id": "df9c886a8d1d",
+      "title": "A股开盘：超2400只个股飘绿，沪指低开，深指、创业板指高开",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-24/10682975.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-23T23:21:55.000Z",
+      "published": "2026-08-24T01:41:40.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
