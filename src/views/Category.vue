@@ -6,10 +6,19 @@
         <h1 class="text-3xl font-bold" style="color: var(--text-primary)">{{ category }}</h1>
         <span class="text-sm" style="color: var(--text-secondary)">· {{ filtered.length }} 篇</span>
       </div>
-      <div class="cat-search-box">
-        <span class="search-icon">🔍</span>
-        <input v-model.trim="searchQuery" type="text" placeholder="搜索本分类文章，如：银行 招聘 AI" />
-        <button v-if="searchQuery" class="search-clear" @click="searchQuery = ''">×</button>
+      <div class="flex items-center gap-3 w-full md:w-auto">
+        <div class="cat-sort">
+          <span class="sort-icon">↕️</span>
+          <select v-model="sortBy" aria-label="排序方式">
+            <option value="newest">最新优先</option>
+            <option value="oldest">最旧优先</option>
+          </select>
+        </div>
+        <div class="cat-search-box">
+          <span class="search-icon">🔍</span>
+          <input v-model.trim="searchQuery" type="text" placeholder="搜索本分类文章，如：银行 招聘 AI" />
+          <button v-if="searchQuery" class="search-clear" @click="searchQuery = ''">×</button>
+        </div>
       </div>
     </div>
 
@@ -49,6 +58,7 @@ const category = computed(() => route.params.cat)
 const catStyle = computed(() => getCategoryStyle(category.value))
 
 const searchQuery = ref('')
+const sortBy = ref('newest') // newest = 最新优先(时间倒序), oldest = 最旧优先
 const normalize = (s) => String(s ?? '').toLowerCase()
 
 // 按空格 + 中英文边界拆分，支持“银行招聘”拆成“银行”“招聘”
@@ -89,20 +99,57 @@ const scoreArticle = (article, keywords) => {
 const filtered = computed(() => {
   const catArticles = articles.value.filter(a => a.category === category.value)
   const raw = searchQuery.value.trim()
-  if (!raw) return catArticles
-  const keywords = segmentKeywords(raw)
-  if (!keywords.length) return catArticles
-  return catArticles
-    .map(a => ({ article: a, score: scoreArticle(a, keywords) }))
-    .filter(x => x.score >= 0)
-    .sort((a, b) => b.score - a.score)
-    .map(x => x.article)
+  // 先按关键词过滤（搜索功能，其余不变）
+  let list = catArticles
+  if (raw) {
+    const keywords = segmentKeywords(raw)
+    if (keywords.length) {
+      list = catArticles.filter(a => scoreArticle(a, keywords) >= 0)
+    }
+  }
+  // 再按所选时间顺序排序（默认最新优先）
+  const sorted = [...list]
+  if (sortBy.value === 'newest') {
+    sorted.sort((a, b) => new Date(b.published || 0) - new Date(a.published || 0))
+  } else if (sortBy.value === 'oldest') {
+    sorted.sort((a, b) => new Date(a.published || 0) - new Date(b.published || 0))
+  }
+  return sorted
 })
 
 onMounted(() => loadData())
 </script>
 
 <style scoped>
+.cat-sort {
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex: 0 0 auto;
+}
+.cat-sort select {
+  appearance: none;
+  -webkit-appearance: none;
+  padding: 8px 28px 8px 30px;
+  border-radius: 10px;
+  font-size: 14px;
+  color: var(--text-primary);
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  outline: none;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+.cat-sort select:focus {
+  border-color: var(--border-strong);
+  box-shadow: 0 0 0 2px rgba(91, 141, 239, 0.15);
+}
+.cat-sort .sort-icon {
+  position: absolute;
+  left: 10px;
+  font-size: 13px;
+  pointer-events: none;
+}
 .cat-search-box {
   position: relative;
   display: flex;
