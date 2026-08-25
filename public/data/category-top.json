@@ -1,6 +1,18 @@
 {
   "AI": [
     {
+      "id": "afa866e58f41",
+      "title": "MIT AI forecasts extreme weather without historical data",
+      "url": "https://www.artificialintelligence-news.com/news/mit-ai-forecasts-extreme-weather-without-historical-data/",
+      "summary": "MIT engineers have built an AI tool that forecasts extreme weather without training on historical di",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-08-25T15:46:06.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/mit-ai-extreme-weather-forecasts-predictive-modelling-machine-learning-risk-assessment-forecasting-flood-prediction.jpg",
+      "score": 80,
+      "tags": []
+    },
+    {
       "id": "6017c27dc638",
       "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
       "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
@@ -10,18 +22,6 @@
       "published": "2026-08-25T14:22:04.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/Jalapeno-chip-final.jpeg?resize=1200,900",
       "score": 80,
-      "tags": []
-    },
-    {
-      "id": "5f1d04b47c3e",
-      "title": "XPENG IRON humanoid robot draws record physical AI funding",
-      "url": "https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/",
-      "summary": "XPENG&#8217;s physical AI unit has secured over $900 million at a $6。3 billion valuation to scale it",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-08-24T15:53:53.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/xpeng-iron-humanoid-robot-physical-ai-model-artificial-intelligence-china-platform-scaled.jpeg",
-      "score": 75,
       "tags": []
     },
     {
@@ -49,16 +49,43 @@
       "tags": []
     },
     {
-      "id": "25360e89e79a",
-      "title": "How AI coding tools are contributing to the popularity of JavaScript",
-      "url": "https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/",
+      "id": "5f1d04b47c3e",
+      "title": "XPENG IRON humanoid robot draws record physical AI funding",
+      "url": "https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/",
+      "summary": "XPENG&#8217;s physical AI unit has secured over $900 million at a $6。3 billion valuation to scale it",
       "source": "AI News",
       "category": "AI",
-      "published": "2026-08-21T08:41:29.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/chris-ried-ieic5Tq8YMk-unsplash-scaled.jpg"
+      "published": "2026-08-24T15:53:53.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/xpeng-iron-humanoid-robot-physical-ai-model-artificial-intelligence-china-platform-scaled.jpeg",
+      "score": 70,
+      "tags": []
     }
   ],
   "科技": [
+    {
+      "id": "47f6c894f30d",
+      "title": "Life360 expands pet tracking with new $8 scannable tags and zoomie alerts",
+      "url": "https://techcrunch.com/2026/08/25/life360-expands-pet-tracking-with-new-8-scannable-tags-and-zoomie-alerts/",
+      "summary": "Life360 expands pet tracking with new $8 scannable tags and zoomie alerts",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-25T16:35:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Life-style-UI-tag.png?resize=1200,800",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "dacef993307d",
+      "title": "That fake Grand Theft Auto VI demo is actually just malware",
+      "url": "https://techcrunch.com/2026/08/25/that-fake-grand-theft-auto-vi-demo-is-actually-just-malware/",
+      "summary": "That fake Grand Theft Auto VI demo is actually just malware",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-25T15:48:38.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/grand-theft-auto-2213757731.jpg?resize=1200,800",
+      "score": 75,
+      "tags": []
+    },
     {
       "id": "eb2b72187dea",
       "title": "Gamma acquires Accel-backed design startup Lica",
@@ -80,30 +107,6 @@
       "category": "科技",
       "published": "2026-08-25T14:10:36.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/Apple-M6-and-M5-Ultra-hero-260825_big.jpg.medium_2x.jpg?resize=1200,675",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "084d0bd1c324",
-      "title": "Apple&#8217;s latest Mac Mini runs on a new M6 chip, and starts at $899",
-      "url": "https://techcrunch.com/2026/08/25/apples-latest-mac-mini-runs-on-a-new-m6-chip-and-starts-at-899/",
-      "summary": "Apple&#8217;s latest Mac Mini runs on a new M6 chip, and starts at $899",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-25T13:55:06.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Apple-Mac-mini-hero-260825_big.jpg.large_2x.jpg?resize=1200,800",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "e41f2a55ad78",
-      "title": "WhatsApp tightens account security with stronger two-step verification and more",
-      "url": "https://techcrunch.com/2026/08/25/whatsapp-tightens-account-security-with-stronger-two-step-verification-and-more/",
-      "summary": "WhatsApp tightens account security with stronger two-step verification and more",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-25T13:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/whatsapp-iphone-icon.jpg?resize=1200,800",
       "score": 75,
       "tags": []
     },
@@ -134,6 +137,18 @@
       "tags": []
     },
     {
+      "id": "a616fe3b93d3",
+      "title": "报告发布：莫高设计（MasterGo）以79.25%市占率领跑UI设计行业",
+      "url": "https://finance.sina.com.cn/roll/2026-06-02/doc-inhzzivp1611699.shtml",
+      "summary": "人工智能（AI）设计工具数量快速增长，但真正能够在大型组织中长期稳定运行并形成体系化能力的案例仍然有限。行业关注点正从“工具是否好用”，转向“能否在复杂组织中持续创造业务价值”",
+      "source": "UI设计·就业分析",
+      "category": "就业",
+      "published": "2026-06-02T09:58:00.000Z",
+      "image": "https://n.sinaimg.cn/finance/transform/260/w880h180/20180326/zi4T-fysqfnf9377213.png",
+      "score": 65,
+      "tags": []
+    },
+    {
       "id": "67398aba775e",
       "title": "1270万毕业生求职内卷，职计划四大求职产品上线，一文看懂 A/Z/H/J ...",
       "url": "https://biz.ifeng.com/c/8vllG1IS3HI",
@@ -158,26 +173,14 @@
       "tags": []
     },
     {
-      "id": "067d27562981",
-      "title": "硅谷最热门工种来了！大厂为何集体招聘“前端部署工程师”？",
-      "url": "https://www.yicai.com/news/103246550.html",
-      "summary": "前述内容由第一财经“星翼大模型”智能生成，相关AI内容力求但不保证准确性、时效性、完整性等。请用户注意甄别，第一财经不承担由此产生的任何责任",
+      "id": "8c797ede41a4",
+      "title": "项目经理转型AI有前景吗？2026年这类人才正在被疯抢",
+      "url": "https://www.sohu.com/a/1061444504_99999728",
+      "summary": "跟几个做项目经理的朋友聊天，发现大家的焦虑出奇一致：AI浪潮一来，纯管理岗会不会被边缘化。天天跑进度、跟风险、拉通对齐，如果连大模型、智能体、RAG这些词都听不懂，以后还怎么和开发团队对话，怎么把AI",
       "source": "就业报告",
       "category": "就业",
-      "published": "2026-06-25T10:34:00.000Z",
-      "image": "data:image/png;base64,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",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "fff53dbc1de7",
-      "title": "报告：人工智能、数据工程师以三成招聘增速领跑高增长职业",
-      "url": "https://news.qq.com/rain/a/20260617A05FN300",
-      "summary": "哪些行业发展增速位居前列。何种专业毕业生薪资水平领先",
-      "source": "数据科学·就业分析",
-      "category": "就业",
-      "published": "2026-06-17T07:00:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/OuI7ph7ISA3EE-ML4ZAaByrlSVBplTAHvIC0xD4xu2L8EAA_640330/0",
+      "published": "2026-08-11T07:49:00.000Z",
+      "image": "//q9.itc.cn/images01/20260811/37f6b947450542e480c4fb503b5c0b72.jpeg",
       "score": 60,
       "tags": []
     }
@@ -196,6 +199,18 @@
       "tags": []
     },
     {
+      "id": "25ca26968aa1",
+      "title": "解锁“省级大学生创业孵化基地”新身份，这个园区为何受创业者 ...",
+      "url": "https://news.qq.com/rain/a/20260821A05ZZA00",
+      "summary": "红网时刻新闻8月21日讯 （记者 王娟娟）近日，湖南省人力资源和社会保障厅发布的第五批省级大学生创业孵化基地认定结果完成公示。经基地自主申报、市州推荐、专家评审等环节，湘江集团大科城公司建设运营的湘江",
+      "source": "Bing·大学生创业扶持政策",
+      "category": "政策",
+      "published": "2026-08-21T05:48:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/OSlibZLAhSG4R9Z8mKDZecVfcDvNlGbo5ZXc3QebcOEV0AA_640330/0",
+      "score": 55,
+      "tags": []
+    },
+    {
       "id": "7530315d4a43",
       "title": "@丹东企业、高校毕业生、就业困难人员……2026版补贴政策请查收",
       "url": "https://news.qq.com/rain/a/20260815A06VPO00",
@@ -205,18 +220,6 @@
       "published": "2026-08-15T05:41:00.000Z",
       "image": "http://inews.gtimg.com/newsapp_ls/0/192333742_200200/0",
       "score": 55,
-      "tags": []
-    },
-    {
-      "id": "5a999aec11e0",
-      "title": "【我为群众办实事】就业培训 加装座椅 爱心助学 件件实事暖人心",
-      "url": "https://www.sohu.com/a/1065974458_754552",
-      "summary": "群众事，无小事。师市各团场、社区、企业等聚焦群众急难愁盼，从就业帮扶、人居环境改善、爱心助学等方面持续办好民生实事，一桩桩务实举措落地见效，不断提升群众的获得感与幸福感",
-      "source": "Bing·大学生就业政策",
-      "category": "政策",
-      "published": "2026-08-21T14:37:00.000Z",
-      "image": "//q7.itc.cn/q_70/images03/20260821/c2bd3e88cae5471caf623007a188e203.png",
-      "score": 50,
       "tags": []
     },
     {
