@@ -1,6 +1,18 @@
 {
   "AI": [
     {
+      "id": "6017c27dc638",
+      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+      "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+      "summary": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-25T14:22:04.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Jalapeno-chip-final.jpeg?resize=1200,900",
+      "score": 80,
+      "tags": []
+    },
+    {
       "id": "944b086394f2",
       "title": "Accel-backed Keenable is indexing the web for AI agents",
       "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
@@ -13,27 +25,15 @@
       "tags": []
     },
     {
-      "id": "93a87e369cbc",
-      "title": "&#8216;The world seems to be ready&#8217;: An interview with OpenAI head of product Thibault Sottiaux",
-      "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
-      "summary": "&#8216;The world seems to be ready&#8217;: An interview with OpenAI head of product Thibault Sottiau",
+      "id": "332af197fd65",
+      "title": "Self-driving truck startup Gatik raises $200M following PepsiCo deal",
+      "url": "https://techcrunch.com/2026/08/25/self-driving-truck-startup-gatik-raises-200m-following-pepsico-deal/",
+      "summary": "Self-driving truck startup Gatik raises $200M following PepsiCo deal",
       "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-08-25T12:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Thibault-headshot.jpg?resize=1200,750",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "19bcdfe5e2ad",
-      "title": "India&#8217;s Airbound bags $37M to take on trucks with rocket-like drones",
-      "url": "https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/",
-      "summary": "India&#8217;s Airbound bags $37M to take on trucks with rocket-like drones",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-25T03:30:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/airbound-drone.jpg?resize=1200,800",
-      "score": 70,
+      "published": "2026-08-25T14:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Gatik-PepsiCo-flet.jpg?resize=1200,800",
+      "score": 75,
       "tags": []
     },
     {
@@ -45,18 +45,6 @@
       "category": "AI",
       "published": "2026-08-25T12:37:37.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/FGVCapital_Group.jpg?resize=1200,800",
-      "score": 65,
-      "tags": []
-    },
-    {
-      "id": "32cda19d8db8",
-      "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-      "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
-      "summary": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-25T00:23:12.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/10/us-securities-and-exchange-commission-sec-logo.jpg?resize=1200,800",
       "score": 65,
       "tags": []
     }
@@ -87,6 +75,30 @@
       "tags": []
     },
     {
+      "id": "59cfbc5b88fd",
+      "title": "Apple debuts its &#8216;most powerful chip ever&#8217; in M5 Ultra and M6",
+      "url": "https://techcrunch.com/2026/08/25/apple-debuts-its-most-powerful-chip-ever-in-m5-ultra-and-m6/",
+      "summary": "Apple debuts its &#8216;most powerful chip ever&#8217; in M5 Ultra and M6",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-25T14:10:36.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Apple-M6-and-M5-Ultra-hero-260825_big.jpg.medium_2x.jpg?resize=1200,675",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "084d0bd1c324",
+      "title": "Apple&#8217;s latest Mac Mini runs on a new M6 chip, and starts at $899",
+      "url": "https://techcrunch.com/2026/08/25/apples-latest-mac-mini-runs-on-a-new-m6-chip-and-starts-at-899/",
+      "summary": "Apple&#8217;s latest Mac Mini runs on a new M6 chip, and starts at $899",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-25T13:55:06.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Apple-Mac-mini-hero-260825_big.jpg.large_2x.jpg?resize=1200,800",
+      "score": 75,
+      "tags": []
+    },
+    {
       "id": "e41f2a55ad78",
       "title": "WhatsApp tightens account security with stronger two-step verification and more",
       "url": "https://techcrunch.com/2026/08/25/whatsapp-tightens-account-security-with-stronger-two-step-verification-and-more/",
@@ -96,30 +108,6 @@
       "published": "2026-08-25T13:00:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/02/whatsapp-iphone-icon.jpg?resize=1200,800",
       "score": 75,
-      "tags": []
-    },
-    {
-      "id": "588aadc507f3",
-      "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
-      "url": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/",
-      "summary": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-24T23:05:44.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/Oura_Ring_5_Product-1_Collection.png?resize=1200,800",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "fdb8844c0e11",
-      "title": "Andy Dunn&#8217;s startup Pie becomes less of an events app and more of a social network",
-      "url": "https://techcrunch.com/2026/08/25/andy-dunns-startup-pie-becomes-less-of-an-events-app-and-more-of-a-social-network/",
-      "summary": "Andy Dunn&#8217;s startup Pie becomes less of an events app and more of a social network",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-25T13:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/lolla-2-comments-ticket-negotiation.png?resize=1200,825",
-      "score": 65,
       "tags": []
     }
   ],
@@ -149,18 +137,6 @@
       "tags": []
     },
     {
-      "id": "af8ee80ad7c4",
-      "title": "2026年大学生就业前景研判报告：人工智能、数据工程师以三成招聘 ...",
-      "url": "https://news.qq.com/rain/a/20260621A08K1J00",
-      "summary": "哪些行业发展增速位居前列。哪些专业毕业后薪资领先",
-      "source": "智联招聘",
-      "category": "就业",
-      "published": "2026-06-21T11:28:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/OWCs-Tp6UekhhmAEcGla04vVA8bxCbpJz6i1bDub3KFkwAA_640330/0",
-      "score": 60,
-      "tags": []
-    },
-    {
       "id": "067d27562981",
       "title": "硅谷最热门工种来了！大厂为何集体招聘“前端部署工程师”？",
       "url": "https://www.yicai.com/news/103246550.html",
@@ -169,6 +145,18 @@
       "category": "就业",
       "published": "2026-06-25T10:34:00.000Z",
       "image": "data:image/png;base64,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",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "af8ee80ad7c4",
+      "title": "2026年大学生就业前景研判报告：人工智能、数据工程师以三成招聘 ...",
+      "url": "https://news.qq.com/rain/a/20260621A08K1J00",
+      "summary": "哪些行业发展增速位居前列。哪些专业毕业后薪资领先",
+      "source": "智联招聘",
+      "category": "就业",
+      "published": "2026-06-21T11:28:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/OWCs-Tp6UekhhmAEcGla04vVA8bxCbpJz6i1bDub3KFkwAA_640330/0",
       "score": 60,
       "tags": []
     },
@@ -211,43 +199,55 @@
       "tags": []
     },
     {
-      "id": "f5cb39eaf8f6",
-      "title": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
-      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202606/t20260602_1438600.html",
-      "summary": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
-      "source": "教育部",
+      "id": "5a999aec11e0",
+      "title": "【我为群众办实事】就业培训 加装座椅 爱心助学 件件实事暖人心",
+      "url": "https://www.sohu.com/a/1065974458_754552",
+      "summary": "群众事，无小事。师市各团场、社区、企业等聚焦群众急难愁盼，从就业帮扶、人居环境改善、爱心助学等方面持续办好民生实事，一桩桩务实举措落地见效，不断提升群众的获得感与幸福感",
+      "source": "Bing·大学生就业政策",
       "category": "政策",
-      "published": "2026-06-02T00:00:00.000Z",
-      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+      "published": "2026-08-21T14:37:00.000Z",
+      "image": "//q7.itc.cn/q_70/images03/20260821/c2bd3e88cae5471caf623007a188e203.png",
       "score": 50,
       "tags": []
     },
     {
-      "id": "a3af074b2b9b",
-      "title": "2026-05-22教育部等八部门办公厅关于联合开展2026年度高校毕业生等重点群体促就业“国聘行动”的通知",
-      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202605/t20260522_1437356.html",
-      "summary": "2026-05-22教育部等八部门办公厅关于联合开展2026年度高校毕业生等重点群体促就业“国聘行动”的通知",
-      "source": "教育部",
+      "id": "973fa57026cc",
+      "title": "政策护航就业路，服务提质暖人心——禹州市人社局开展高校毕业生 ...",
+      "url": "https://www.sohu.com/a/1065913650_121123756",
+      "summary": "为全面落实高校毕业生就业创业扶持政策，进一步扩大就业创业政策覆盖面，切实提升青年就业服务质效，8月21日，禹州市人社局组织工作人员走进坪山永和苑社区，开展“政策护航就业路，服务提质暖人心”高校毕业生就",
+      "source": "Bing·高校毕业生就业创业政策",
       "category": "政策",
-      "published": "2026-05-22T00:00:00.000Z",
-      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+      "published": "2026-08-21T11:40:00.000Z",
+      "image": "https://q8.itc.cn/q_70/images03/20260821/b1935fd1bea34fe7918ded69fa59b574.jpeg",
       "score": 50,
       "tags": []
     },
     {
-      "id": "20eed286abd8",
-      "title": "2026-04-24教育部办公厅 人力资源社会保障部办公厅关于开展2026年高校毕业生就业政策宣传活动的通知",
-      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202604/t20260423_1434600.html",
-      "summary": "2026-04-24教育部办公厅 人力资源社会保障部办公厅关于开展2026年高校毕业生就业政策宣传活动的通知",
-      "source": "教育部",
+      "id": "d395f32ac55d",
+      "title": "市场周刊｜三部门发文力促城乡社区岗位吸纳高校毕业生 人社部等九 ...",
+      "url": "https://www.sohu.com/a/1066110929_121614400",
+      "summary": "人力资源和社会保障部、中央社会工作部、民政部日前联合印发《关于优化城乡社区岗位吸纳高校毕业生就业工作的通知》。《通知》明确，畅通各类就业渠道，动员城乡社区服务领域企业和社会组织吸纳一批，支持城乡社区服",
+      "source": "Bing·人社部就业创业政策",
       "category": "政策",
-      "published": "2026-04-23T00:00:00.000Z",
-      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+      "published": "2026-08-22T03:14:00.000Z",
+      "image": "//q5.itc.cn/images01/20260822/3306ada096b0410a9db377e4c8382d71.png",
       "score": 50,
       "tags": []
     }
   ],
   "开发": [
+    {
+      "id": "74ea3752183b",
+      "title": "向量数据库要被取代？DynamoDB 开始原生支持 AI 搜索",
+      "url": "https://www.infoq.cn/article/9YicfQysexJdmx11xG4m?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/9YicfQysexJdmx11xG4m",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-23T14:09:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/c4/d4/c47110faaa6ab573f79cf35d536f66d4.jpg",
+      "score": 55,
+      "tags": []
+    },
     {
       "id": "05a19ddeb61b",
       "title": "Cloudflare 推出 Agent Tracing：支持截断限制，不同框架的 Payload 默认记录策略存在差异",
@@ -294,18 +294,6 @@
       "published": "2026-08-22T17:17:00.000Z",
       "image": "https://static001.infoq.cn/resource/image/06/13/068982f07be1f91d83992f79178e1913.jpg",
       "score": 50,
-      "tags": []
-    },
-    {
-      "id": "7c73ca77d275",
-      "title": "事故频发并不意味着可靠性下降",
-      "url": "https://www.infoq.cn/article/m8zEcEteGKJma9EJe35S?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/m8zEcEteGKJma9EJe35S",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-08-23T09:10:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/83/43/836a4c6f8f5145e886f416b536d70143.jpg",
-      "score": 40,
       "tags": []
     }
   ],
@@ -373,6 +361,33 @@
   ],
   "财经": [
     {
+      "id": "7f95dc798487",
+      "title": "沪港数字合作成果丰硕 将深化数据标准对接",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684192.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-08-25T14:03:09.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "2b0546b91472",
+      "title": "湖北形成“海陆空多向联动”的国际物流格局",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684189.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-08-25T14:01:27.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "3c8a59d3209c",
+      "title": "上海冀“十五五”期间新增认定跨国公司地区总部数量逾300家",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684185.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-08-25T13:57:19.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
       "id": "54c2ed907980",
       "title": "浙江制造业深度拥抱人工智能 加快推进体系化落地",
       "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684180.shtml",
@@ -388,33 +403,6 @@
       "source": "中新网财经",
       "category": "财经",
       "published": "2026-08-25T13:40:44.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "c750ed0ad032",
-      "title": "甘肃加快“碳足迹”管理体系建设",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684172.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-08-25T13:33:23.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "075b1ff0dcde",
-      "title": "浙江义乌春节用品超前开启“羊年模式”",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684171.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-08-25T13:32:03.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "ae1a35974ccb",
-      "title": "中国官方：今年经济呈现动能向新、结构向优的发展态势",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684164.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-08-25T13:27:09.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]

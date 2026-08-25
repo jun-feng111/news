@@ -1,5 +1,17 @@
 [
   {
+    "id": "6017c27dc638",
+    "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+    "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+    "summary": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+    "source": "TechCrunch",
+    "category": "AI",
+    "published": "2026-08-25T14:22:04.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Jalapeno-chip-final.jpeg?resize=1200,900",
+    "score": 80,
+    "tags": []
+  },
+  {
     "id": "944b086394f2",
     "title": "Accel-backed Keenable is indexing the web for AI agents",
     "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
@@ -36,6 +48,42 @@
     "tags": []
   },
   {
+    "id": "59cfbc5b88fd",
+    "title": "Apple debuts its &#8216;most powerful chip ever&#8217; in M5 Ultra and M6",
+    "url": "https://techcrunch.com/2026/08/25/apple-debuts-its-most-powerful-chip-ever-in-m5-ultra-and-m6/",
+    "summary": "Apple debuts its &#8216;most powerful chip ever&#8217; in M5 Ultra and M6",
+    "source": "TechCrunch",
+    "category": "科技",
+    "published": "2026-08-25T14:10:36.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Apple-M6-and-M5-Ultra-hero-260825_big.jpg.medium_2x.jpg?resize=1200,675",
+    "score": 75,
+    "tags": []
+  },
+  {
+    "id": "332af197fd65",
+    "title": "Self-driving truck startup Gatik raises $200M following PepsiCo deal",
+    "url": "https://techcrunch.com/2026/08/25/self-driving-truck-startup-gatik-raises-200m-following-pepsico-deal/",
+    "summary": "Self-driving truck startup Gatik raises $200M following PepsiCo deal",
+    "source": "TechCrunch",
+    "category": "AI",
+    "published": "2026-08-25T14:00:00.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Gatik-PepsiCo-flet.jpg?resize=1200,800",
+    "score": 75,
+    "tags": []
+  },
+  {
+    "id": "084d0bd1c324",
+    "title": "Apple&#8217;s latest Mac Mini runs on a new M6 chip, and starts at $899",
+    "url": "https://techcrunch.com/2026/08/25/apples-latest-mac-mini-runs-on-a-new-m6-chip-and-starts-at-899/",
+    "summary": "Apple&#8217;s latest Mac Mini runs on a new M6 chip, and starts at $899",
+    "source": "TechCrunch",
+    "category": "科技",
+    "published": "2026-08-25T13:55:06.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Apple-Mac-mini-hero-260825_big.jpg.large_2x.jpg?resize=1200,800",
+    "score": 75,
+    "tags": []
+  },
+  {
     "id": "e41f2a55ad78",
     "title": "WhatsApp tightens account security with stronger two-step verification and more",
     "url": "https://techcrunch.com/2026/08/25/whatsapp-tightens-account-security-with-stronger-two-step-verification-and-more/",
@@ -45,42 +93,6 @@
     "published": "2026-08-25T13:00:00.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/whatsapp-iphone-icon.jpg?resize=1200,800",
     "score": 75,
-    "tags": []
-  },
-  {
-    "id": "93a87e369cbc",
-    "title": "&#8216;The world seems to be ready&#8217;: An interview with OpenAI head of product Thibault Sottiaux",
-    "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
-    "summary": "&#8216;The world seems to be ready&#8217;: An interview with OpenAI head of product Thibault Sottiau",
-    "source": "TechCrunch",
-    "category": "AI",
-    "published": "2026-08-25T12:00:00.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Thibault-headshot.jpg?resize=1200,750",
-    "score": 70,
-    "tags": []
-  },
-  {
-    "id": "19bcdfe5e2ad",
-    "title": "India&#8217;s Airbound bags $37M to take on trucks with rocket-like drones",
-    "url": "https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/",
-    "summary": "India&#8217;s Airbound bags $37M to take on trucks with rocket-like drones",
-    "source": "TechCrunch",
-    "category": "AI",
-    "published": "2026-08-25T03:30:00.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/airbound-drone.jpg?resize=1200,800",
-    "score": 70,
-    "tags": []
-  },
-  {
-    "id": "588aadc507f3",
-    "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
-    "url": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/",
-    "summary": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
-    "source": "TechCrunch",
-    "category": "科技",
-    "published": "2026-08-24T23:05:44.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Oura_Ring_5_Product-1_Collection.png?resize=1200,800",
-    "score": 70,
     "tags": []
   },
   {
@@ -104,18 +116,6 @@
     "category": "AI",
     "published": "2026-08-25T12:37:37.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/FGVCapital_Group.jpg?resize=1200,800",
-    "score": 65,
-    "tags": []
-  },
-  {
-    "id": "32cda19d8db8",
-    "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-    "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
-    "summary": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-    "source": "TechCrunch",
-    "category": "AI",
-    "published": "2026-08-25T00:23:12.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/10/us-securities-and-exchange-commission-sec-logo.jpg?resize=1200,800",
     "score": 65,
     "tags": []
   }
