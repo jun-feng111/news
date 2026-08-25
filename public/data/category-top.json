@@ -1,4 +1,66 @@
 {
+  "开发": [
+    {
+      "id": "383105d352e0",
+      "title": "X sends cease-and-desist to open-source project Nitter over alleged scraping",
+      "url": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
+      "summary": "X sends cease-and-desist to open-source project Nitter over alleged scraping",
+      "source": "TechCrunch",
+      "category": "开发",
+      "published": "2026-08-25T20:44:12.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-2.jpg?resize=1200,675",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "0be2053c45a3",
+      "title": "亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩",
+      "url": "https://www.infoq.cn/article/cwj5Ikvhqu5mKH22zKsO?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/cwj5Ikvhqu5mKH22zKsO",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-23T17:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/0c/5b/0c2c759cb5599bf5bf00b4eceb74205b.jpg",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "74ea3752183b",
+      "title": "向量数据库要被取代？DynamoDB 开始原生支持 AI 搜索",
+      "url": "https://www.infoq.cn/article/9YicfQysexJdmx11xG4m?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/9YicfQysexJdmx11xG4m",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-23T14:09:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/c4/d4/c47110faaa6ab573f79cf35d536f66d4.jpg",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "05a19ddeb61b",
+      "title": "Cloudflare 推出 Agent Tracing：支持截断限制，不同框架的 Payload 默认记录策略存在差异",
+      "url": "https://www.infoq.cn/article/IBYDTeu3rse9tH3549wf?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/IBYDTeu3rse9tH3549wf",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-22T15:15:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/7c/d1/7c9ff82a4e24f03d106253005132e6d1.jpg",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "cc87898e1a06",
+      "title": "科技爱好者周刊（第 409 期）：程序员的职业未来",
+      "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html",
+      "summary": "这里记录每周值得分享的科技内容，周五发布",
+      "source": "阮一峰",
+      "category": "开发",
+      "published": "2026-08-20T23:53:54.000Z",
+      "image": "",
+      "score": 55,
+      "tags": []
+    }
+  ],
   "科技": [
     {
       "id": "86914721e145",
@@ -158,68 +220,6 @@
       "published": "2026-06-17T07:00:00.000Z",
       "image": "https://inews.gtimg.com/om_ls/OuI7ph7ISA3EE-ML4ZAaByrlSVBplTAHvIC0xD4xu2L8EAA_640330/0",
       "score": 60,
-      "tags": []
-    }
-  ],
-  "开发": [
-    {
-      "id": "0be2053c45a3",
-      "title": "亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩",
-      "url": "https://www.infoq.cn/article/cwj5Ikvhqu5mKH22zKsO?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/cwj5Ikvhqu5mKH22zKsO",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-08-23T17:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/0c/5b/0c2c759cb5599bf5bf00b4eceb74205b.jpg",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "74ea3752183b",
-      "title": "向量数据库要被取代？DynamoDB 开始原生支持 AI 搜索",
-      "url": "https://www.infoq.cn/article/9YicfQysexJdmx11xG4m?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/9YicfQysexJdmx11xG4m",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-08-23T14:09:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/c4/d4/c47110faaa6ab573f79cf35d536f66d4.jpg",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "05a19ddeb61b",
-      "title": "Cloudflare 推出 Agent Tracing：支持截断限制，不同框架的 Payload 默认记录策略存在差异",
-      "url": "https://www.infoq.cn/article/IBYDTeu3rse9tH3549wf?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/IBYDTeu3rse9tH3549wf",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-08-22T15:15:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/7c/d1/7c9ff82a4e24f03d106253005132e6d1.jpg",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "cc87898e1a06",
-      "title": "科技爱好者周刊（第 409 期）：程序员的职业未来",
-      "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html",
-      "summary": "这里记录每周值得分享的科技内容，周五发布",
-      "source": "阮一峰",
-      "category": "开发",
-      "published": "2026-08-20T23:53:54.000Z",
-      "image": "",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "5c4251c446d9",
-      "title": "PostgreSQL 太难懂？有人把它做成了城市模拟器",
-      "url": "https://www.infoq.cn/article/umVdo2GaEyONQLWNmPZ9?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/umVdo2GaEyONQLWNmPZ9",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-08-23T11:25:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/7e/7d/7e9854827f2336b2876fefa2ed5e2a7d.jpg",
-      "score": 50,
       "tags": []
     }
   ],
