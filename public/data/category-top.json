@@ -1,67 +1,29 @@
 {
-  "AI": [
-    {
-      "id": "afa866e58f41",
-      "title": "MIT AI forecasts extreme weather without historical data",
-      "url": "https://www.artificialintelligence-news.com/news/mit-ai-forecasts-extreme-weather-without-historical-data/",
-      "summary": "MIT engineers have built an AI tool that forecasts extreme weather without training on historical di",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-08-25T15:46:06.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/mit-ai-extreme-weather-forecasts-predictive-modelling-machine-learning-risk-assessment-forecasting-flood-prediction.jpg",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "6017c27dc638",
-      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
-      "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
-      "summary": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-25T14:22:04.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Jalapeno-chip-final.jpeg?resize=1200,900",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "85a2e2dc263b",
-      "title": "Apple rescues Hide My Email feature from the privacy scrap heap",
-      "url": "https://techcrunch.com/2026/08/25/apple-rescues-hide-my-email-feature-from-the-privacy-scrap-heap/",
-      "summary": "Apple rescues Hide My Email feature from the privacy scrap heap",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-25T14:46:32.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2021/08/icloud-pattern-with-key-red.jpg?resize=1200,675",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "332af197fd65",
-      "title": "Self-driving truck startup Gatik raises $200M following PepsiCo deal",
-      "url": "https://techcrunch.com/2026/08/25/self-driving-truck-startup-gatik-raises-200m-following-pepsico-deal/",
-      "summary": "Self-driving truck startup Gatik raises $200M following PepsiCo deal",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-25T14:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Gatik-PepsiCo-flet.jpg?resize=1200,800",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "5f1d04b47c3e",
-      "title": "XPENG IRON humanoid robot draws record physical AI funding",
-      "url": "https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/",
-      "summary": "XPENG&#8217;s physical AI unit has secured over $900 million at a $6。3 billion valuation to scale it",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-08-24T15:53:53.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/xpeng-iron-humanoid-robot-physical-ai-model-artificial-intelligence-china-platform-scaled.jpeg",
-      "score": 70,
-      "tags": []
-    }
-  ],
   "科技": [
+    {
+      "id": "86914721e145",
+      "title": "SpaceX will build a second, $100B &#8216;Starbase&#8217; spaceport in Louisiana",
+      "url": "https://techcrunch.com/2026/08/25/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana/",
+      "summary": "SpaceX will build a second, $100B &#8216;Starbase&#8217; spaceport in Louisiana",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-25T18:26:55.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/20260511_Wet_Dress_Actual_2_259bcb3ae9.jpg?resize=1200,899",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "e9a502825c2e",
+      "title": "Waymo robotaxis are headed to Munich",
+      "url": "https://techcrunch.com/2026/08/25/waymo-robotaxis-are-headed-to-munich/",
+      "summary": "Waymo robotaxis are headed to Munich",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-25T17:32:03.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/waymo-SF-getty.jpg?resize=1200,800",
+      "score": 75,
+      "tags": []
+    },
     {
       "id": "47f6c894f30d",
       "title": "Life360 expands pet tracking with new $8 scannable tags and zoomie alerts",
@@ -97,29 +59,31 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/R6II0507.jpg?resize=1200,960",
       "score": 75,
       "tags": []
-    },
+    }
+  ],
+  "AI": [
     {
-      "id": "59cfbc5b88fd",
-      "title": "Apple debuts its &#8216;most powerful chip ever&#8217; in M5 Ultra and M6",
-      "url": "https://techcrunch.com/2026/08/25/apple-debuts-its-most-powerful-chip-ever-in-m5-ultra-and-m6/",
-      "summary": "Apple debuts its &#8216;most powerful chip ever&#8217; in M5 Ultra and M6",
+      "id": "c315b9a7b90f",
+      "title": "Claude Cowork finally remembers what you told the app in chat",
+      "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+      "summary": "Claude Cowork finally remembers what you told the app in chat",
       "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-25T14:10:36.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Apple-M6-and-M5-Ultra-hero-260825_big.jpg.medium_2x.jpg?resize=1200,675",
+      "category": "AI",
+      "published": "2026-08-25T17:50:33.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Claude-AI-app.jpg?resize=1200,842",
       "score": 75,
       "tags": []
     },
     {
-      "id": "0c8bf55c3b6a",
-      "title": "Pacific Fusion’s next fusion machine could clear a key hurdle to commercial power",
-      "url": "https://techcrunch.com/2026/08/25/pacific-fusion-next-fusion-machine-could-clear-key-hurdle-to-commercial-power/",
-      "summary": "Pacific Fusion’s next fusion machine could clear a key hurdle to commercial power",
+      "id": "85a2e2dc263b",
+      "title": "Apple rescues Hide My Email feature from the privacy scrap heap",
+      "url": "https://techcrunch.com/2026/08/25/apple-rescues-hide-my-email-feature-from-the-privacy-scrap-heap/",
+      "summary": "Apple rescues Hide My Email feature from the privacy scrap heap",
       "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-25T15:30:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/pacific-fusion-pulser-prototype-end.jpeg?resize=1200,800",
-      "score": 65,
+      "category": "AI",
+      "published": "2026-08-25T14:46:32.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/08/icloud-pattern-with-key-red.jpg?resize=1200,675",
+      "score": 75,
       "tags": []
     }
   ],
@@ -373,6 +337,15 @@
   ],
   "财经": [
     {
+      "id": "5d5b8e3ad81f",
+      "title": "新疆阿勒泰加快打造中国高纯石英产业新高地",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684212.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-08-25T18:09:25.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
       "id": "7f95dc798487",
       "title": "沪港数字合作成果丰硕 将深化数据标准对接",
       "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684192.shtml",
@@ -406,15 +379,6 @@
       "source": "中新网财经",
       "category": "财经",
       "published": "2026-08-25T13:48:12.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "ff2321685af7",
-      "title": "天工机器人百米竞速跑出8.86秒 再创纪录",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-25/10684177.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-08-25T13:40:44.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
