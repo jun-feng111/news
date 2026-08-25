@@ -132,18 +132,6 @@
     "tags": []
   },
   {
-    "id": "a616fe3b93d3",
-    "title": "报告发布：莫高设计（MasterGo）以79.25%市占率领跑UI设计行业",
-    "url": "https://finance.sina.com.cn/roll/2026-06-02/doc-inhzzivp1611699.shtml",
-    "summary": "人工智能（AI）设计工具数量快速增长，但真正能够在大型组织中长期稳定运行并形成体系化能力的案例仍然有限。行业关注点正从“工具是否好用”，转向“能否在复杂组织中持续创造业务价值”",
-    "source": "UI设计·就业分析",
-    "category": "就业",
-    "published": "2026-06-02T09:58:00.000Z",
-    "image": "https://n.sinaimg.cn/finance/transform/260/w880h180/20180326/zi4T-fysqfnf9377213.png",
-    "score": 65,
-    "tags": []
-  },
-  {
     "id": "67398aba775e",
     "title": "1270万毕业生求职内卷，职计划四大求职产品上线，一文看懂 A/Z/H/J ...",
     "url": "https://biz.ifeng.com/c/8vllG1IS3HI",
@@ -152,6 +140,18 @@
     "category": "就业",
     "published": "2026-08-21T06:35:00.000Z",
     "image": "https://x0.ifengimg.com/res/2026/ACD2DA8CFA1A25CC1B7CBCDBC2FF9AC43D410EF3_size748_w800_h837.png",
+    "score": 60,
+    "tags": []
+  },
+  {
+    "id": "0be2053c45a3",
+    "title": "亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩",
+    "url": "https://www.infoq.cn/article/cwj5Ikvhqu5mKH22zKsO?utm_source=rss&amp;utm_medium=article",
+    "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/cwj5Ikvhqu5mKH22zKsO",
+    "source": "InfoQ中文",
+    "category": "开发",
+    "published": "2026-08-23T17:00:00.000Z",
+    "image": "https://static001.infoq.cn/resource/image/0c/5b/0c2c759cb5599bf5bf00b4eceb74205b.jpg",
     "score": 60,
     "tags": []
   },
@@ -180,14 +180,14 @@
     "tags": []
   },
   {
-    "id": "8c797ede41a4",
-    "title": "项目经理转型AI有前景吗？2026年这类人才正在被疯抢",
-    "url": "https://www.sohu.com/a/1061444504_99999728",
-    "summary": "跟几个做项目经理的朋友聊天，发现大家的焦虑出奇一致：AI浪潮一来，纯管理岗会不会被边缘化。天天跑进度、跟风险、拉通对齐，如果连大模型、智能体、RAG这些词都听不懂，以后还怎么和开发团队对话，怎么把AI",
+    "id": "067d27562981",
+    "title": "硅谷最热门工种来了！大厂为何集体招聘“前端部署工程师”？",
+    "url": "https://www.yicai.com/news/103246550.html",
+    "summary": "前述内容由第一财经“星翼大模型”智能生成，相关AI内容力求但不保证准确性、时效性、完整性等。请用户注意甄别，第一财经不承担由此产生的任何责任",
     "source": "就业报告",
     "category": "就业",
-    "published": "2026-08-11T07:49:00.000Z",
-    "image": "//q9.itc.cn/images01/20260811/37f6b947450542e480c4fb503b5c0b72.jpeg",
+    "published": "2026-06-25T10:34:00.000Z",
+    "image": "data:image/png;base64,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",
     "score": 60,
     "tags": []
   },
@@ -216,18 +216,6 @@
     "tags": []
   },
   {
-    "id": "db2e9e524731",
-    "title": "秋招不再等金九银十！央企打响提前“抢人战”",
-    "url": "https://fund.eastmoney.com/a/202608213849799948.html",
-    "summary": "2026年全国高校毕业生规模再创新高，达1270万人，就业市场总量压力进一步加大。作为吸纳应届生就业的重要“压舱石”，中央企业秋季校园招聘节奏明显前移",
-    "source": "Bing·校园招聘",
-    "category": "就业",
-    "published": "2026-08-21T12:54:00.000Z",
-    "image": "https://j5.dfcfw.com/image/201511/20151125162150.png",
-    "score": 55,
-    "tags": []
-  },
-  {
     "id": "6bce31a16351",
     "title": "夜读｜这届应届生，被困在无数次“线上评测”里",
     "url": "https://news.qq.com/rain/a/20260820A08WFT00",
@@ -236,6 +224,18 @@
     "category": "就业",
     "published": "2026-08-20T13:00:00.000Z",
     "image": "https://inews.gtimg.com/news_ls/OapRD9cG-W3xb5K1f0yMjkBckO4Wo3Jp6EW6b6lRXMR3cAA_640330/0",
+    "score": 55,
+    "tags": []
+  },
+  {
+    "id": "95bb7b013055",
+    "title": "智联招聘海归报告：回国求职人数创新高！硕士占80%，新材料投递暴 ...",
+    "url": "https://www.sohu.com/a/1066565976_120896290",
+    "summary": "近日，智联招聘发布的《2025中国海归就业调查报告》显示，2025年国内海归就业市场持续升温，回国求职人数创下新高，同时就业结构正随着国内产业升级而发生深刻变化。报告详细剖析了海归群体的就业规模、来源",
+    "source": "Bing·智联招聘",
+    "category": "就业",
+    "published": "2026-08-23T11:31:00.000Z",
+    "image": "//q2.itc.cn/images01/20260823/81f9b1234f89446aac2b7d9034687904.png",
     "score": 55,
     "tags": []
   },
@@ -260,18 +260,6 @@
     "category": "就业",
     "published": "2026-08-22T19:40:00.000Z",
     "image": "http://sohu-media.bjcnc.scs.sohucs.com/web/static/images/sohu_logo.png",
-    "score": 55,
-    "tags": []
-  },
-  {
-    "id": "25ca26968aa1",
-    "title": "解锁“省级大学生创业孵化基地”新身份，这个园区为何受创业者 ...",
-    "url": "https://news.qq.com/rain/a/20260821A05ZZA00",
-    "summary": "红网时刻新闻8月21日讯 （记者 王娟娟）近日，湖南省人力资源和社会保障厅发布的第五批省级大学生创业孵化基地认定结果完成公示。经基地自主申报、市州推荐、专家评审等环节，湘江集团大科城公司建设运营的湘江",
-    "source": "Bing·大学生创业扶持政策",
-    "category": "政策",
-    "published": "2026-08-21T05:48:00.000Z",
-    "image": "https://inews.gtimg.com/om_ls/OSlibZLAhSG4R9Z8mKDZecVfcDvNlGbo5ZXc3QebcOEV0AA_640330/0",
     "score": 55,
     "tags": []
   },
@@ -324,18 +312,6 @@
     "tags": []
   },
   {
-    "id": "95bb7b013055",
-    "title": "智联招聘海归报告：回国求职人数创新高！硕士占80%，新材料投递暴 ...",
-    "url": "https://www.sohu.com/a/1066565976_120896290",
-    "summary": "近日，智联招聘发布的《2025中国海归就业调查报告》显示，2025年国内海归就业市场持续升温，回国求职人数创下新高，同时就业结构正随着国内产业升级而发生深刻变化。报告详细剖析了海归群体的就业规模、来源",
-    "source": "智联招聘",
-    "category": "就业",
-    "published": "2026-08-23T11:31:00.000Z",
-    "image": "//q2.itc.cn/images01/20260823/81f9b1234f89446aac2b7d9034687904.png",
-    "score": 55,
-    "tags": []
-  },
-  {
     "id": "25a21d42549e",
     "title": "哪些行业、城市最值得选？智联招聘发布大学生就业前景研判及高考 ...",
     "url": "https://news.qq.com/rain/a/20260616A085JC00",
@@ -344,6 +320,29 @@
     "category": "就业",
     "published": "2026-06-16T11:00:00.000Z",
     "image": "https://inews.gtimg.com/om_ls/OU6_3fLPAt3fu4p_ObOsc3BpzQRybFlxh6Qrx5Pto0MVMAA_640330/0",
+    "score": 55,
+    "tags": []
+  },
+  {
+    "id": "b85d949aafd8",
+    "title": "备战国考别裸考求职，秋招期间，实习与校招同步准备更稳妥",
+    "url": "https://www.sohu.com/a/1061514596_121618239",
+    "summary": "每年秋季大批应届生开启国考长线备考，近几年国考报名规模持续扩张，热门职能岗竞争尤为激烈，不少岗位报录比突破几百比一。很多备考学生下意识认为求职投递会分流复习精力，干脆暂停一切校招、实习信息搜集，把全部",
+    "source": "就业报告",
+    "category": "就业",
+    "published": "2026-08-11T10:15:00.000Z",
+    "image": "//q8.itc.cn/images01/20260811/d19c68ab2c3d4d628ed28309e68dd65d.jpeg",
+    "score": 55,
+    "tags": []
+  },
+  {
+    "id": "97ddad88b98a",
+    "title": "大数据管理与应用专业毕业生的就业去向有哪些？待遇如何？",
+    "url": "https://www.eol.cn/kaoshi/gaokao/gkzy/202606/t20260606_2741699.shtml",
+    "summary": "该专业的毕业生就业范围广泛，可以从事大数据管理平台的规划与构建、大数据资源的分析、挖掘与管理工作，具体岗位有数据分析师、商业分析师、数据科学家等；若是对编程、开发等技术方向的岗位感兴趣，也可以做开发工",
+    "source": "就业报告",
+    "category": "就业",
+    "published": "2026-06-06T06:57:00.000Z",
     "score": 55,
     "tags": []
   },
@@ -360,26 +359,86 @@
     "tags": []
   },
   {
-    "id": "97ddad88b98a",
-    "title": "大数据管理与应用专业毕业生的就业去向有哪些？待遇如何？",
-    "url": "https://www.eol.cn/kaoshi/gaokao/gkzy/202606/t20260606_2741699.shtml",
-    "summary": "该专业的毕业生就业范围广泛，可以从事大数据管理平台的规划与构建、大数据资源的分析、挖掘与管理工作，具体岗位有数据分析师、商业分析师、数据科学家等；若是对编程、开发等技术方向的岗位感兴趣，也可以做开发工",
+    "id": "f2b266240aa3",
+    "title": "2026高考选什么专业好？十大热门专业就业前景分析",
+    "url": "https://www.eol.cn/kaoshi/gaokao/gkzy/202606/t20260611_2744034.shtml",
+    "summary": "在2026年高考志愿填报阶段，就业稳定、发展前景可观的专业，是考生和家长的首选方向。其中计算机、人工智能、电气工科、医学、财会等专业常年稳居报考热度榜",
     "source": "就业报告",
     "category": "就业",
-    "published": "2026-06-06T06:57:00.000Z",
+    "published": "2026-06-11T06:38:00.000Z",
     "image": "https://www.eol.cn/news/",
     "score": 55,
     "tags": []
   },
   {
-    "id": "44737787dfdd",
-    "title": "2026 AIGC就业全盘点：岗位爆发、薪资翻倍，普通人也能入局的黄金赛道",
-    "url": "https://www.sohu.com/a/1040992609_122747815",
-    "summary": "当下职场最火的风口，一定非AIGC莫属。从AI绘图、AI剪辑到智能体开发、企业数字化落地，生成式AI早已跳出科技圈，全面渗透电商、传媒、金融、教育、企业服务等全行业",
+    "id": "96f88ec8d24c",
+    "title": "2026年AI产品经理还是个好选择吗？读懂行业真实趋势！",
+    "url": "https://www.sohu.com/a/1065817296_100062024",
+    "summary": "2026年过半，关于AI产品经理的讨论从未像现在这样热烈又充满分歧。有人高呼“产品经理正在消失”，也有人断言“AI产品经理将成为最稀缺的人才”",
     "source": "就业报告",
     "category": "就业",
-    "published": "2026-06-24T09:46:00.000Z",
-    "image": "//q7.itc.cn/images01/20260624/1fcb7addfb43442da232c0a93980c6a9.png",
+    "published": "2026-08-21T08:51:00.000Z",
+    "image": "",
+    "score": 55,
+    "tags": []
+  },
+  {
+    "id": "2a7a23f3cfb1",
+    "title": "一名 AI 产品经理，从需求到上线经历什么",
+    "url": "https://www.msn.com/zh-cn/news/other/一名-ai-产品经理-从需求到上线经历什么/ar-AA2aqsps",
+    "summary": "中型企业内部场景：客服每日处理大量重复问题，新人培训成本高，常被问及功能操作、X003 报错，希望 AI 产品经理落地员工智能助手。这就是需求的起点 ",
+    "source": "就业报告",
+    "category": "就业",
+    "published": "2026-08-18T18:41:46.000Z",
+    "image": "",
+    "score": 55,
+    "tags": []
+  },
+  {
+    "id": "2a2e25b84613",
+    "title": "就业率仅66%，薪资低于平均线？别急，土木的“反击”从AI数据中心 ...",
+    "url": "https://news.qq.com/rain/a/20260821A0BHJ700",
+    "summary": "AI公司开始招聘土木工程师，这一现象背后，实际上是算力基础设施需求爆发的直接反映。当AI算力成为行业角逐的制高点，数据中心不再只是服务器堆叠的机房，而是一个涉及选址、结构、供电、制冷的复杂工程系统",
+    "source": "就业报告",
+    "category": "就业",
+    "published": "2026-08-21T11:04:00.000Z",
+    "image": "https://inews.gtimg.com/om_ls/OA4FMkPg3Pe1gQqtMq7VRKDqTZUR50nIWTQJthS552bbEAA_640330/0",
+    "score": 55,
+    "tags": []
+  },
+  {
+    "id": "5f83014120fc",
+    "title": "产品经理的未来在哪？很多人已经悄悄转赛道了！",
+    "url": "https://www.sohu.com/a/1063949641_100062024",
+    "summary": "2026年，产品经理这个职业正在经历一场前所未有的洗牌。 硅谷大厂开始AI-first换血，先裁3万人、再招8000个新人",
+    "source": "产品经理·就业分析",
+    "category": "就业",
+    "published": "2026-08-17T08:28:00.000Z",
+    "image": "",
+    "score": 55,
+    "tags": []
+  },
+  {
+    "id": "ad371e0379e6",
+    "title": "2026 武汉综合全栈GEO 服务商实力甄选 + 行业发展全景趋势盘点",
+    "url": "https://finance.sina.com.cn/roll/2026-06-28/doc-inieyvrn2638500.shtml",
+    "summary": "2026 年生成式 AI 深度赋能武汉科创、先进制造、本地工贸各类企业，AI 问答流量成为本土品牌全新增长渠道，但本地 GEO 行业乱象突出，大部分服务商仅能产出零散浅层文案，缺少自主底层研发系统、全",
+    "source": "全栈工程师·就业分析",
+    "category": "就业",
+    "published": "2026-06-28T16:21:00.000Z",
+    "image": "//n.sinaimg.cn/sinakd20260628s/732/w479h253/20260628/2ff1-8f5f7f8334808e211e04ac70f43b78d0.jpg",
+    "score": 55,
+    "tags": []
+  },
+  {
+    "id": "aa8b009330c8",
+    "title": "美团启动2027届校招 超80%岗位要求AI能力",
+    "url": "https://www.msn.cn/zh-cn/news/other/美团启动2027届校招-超80-岗位要求ai能力/ar-AA2aiEkp",
+    "summary": "美团正式启动2027届校园招聘，面向2026年11月至2027年10月毕业的海内外应届生，开放10大类、100余种岗位，覆盖全球几十个城市。新增AI全栈工程师、AI产品经理、智能商业分析师等十余种AI",
+    "source": "全栈工程师·就业分析",
+    "category": "就业",
+    "published": "2026-08-17T14:37:00.000Z",
+    "image": "",
     "score": 55,
     "tags": []
   },
@@ -405,18 +464,6 @@
     "published": "2026-08-08T04:20:00.000Z",
     "image": "https://csdnimg.cn/release/cmsfe/public/img/code-Icon.9ffdd99c.jpg",
     "score": 55,
-    "tags": []
-  },
-  {
-    "id": "a0a32e53d36e",
-    "title": "稳就业｜2026校招观察：用人需求收缩，毕业生如何应对？(含视频)",
-    "url": "https://www.caixin.com/2026-08-20/102475892.html",
-    "summary": "就业市场供给持续扩容，高学历人才规模大幅增长是2026年校招市场的核心背景。2026年中国高校毕业生规模达到1270万人，连续多年增长并再创历史新高",
-    "source": "Bing·校园招聘",
-    "category": "就业",
-    "published": "2026-08-20T00:22:00.000Z",
-    "image": "https://img.caixin.com/2026-08-20/178718193111358_560_373.jpg",
-    "score": 50,
     "tags": []
   },
   {
@@ -452,6 +499,17 @@
     "category": "就业",
     "published": "2026-08-21T11:51:00.000Z",
     "image": "//q2.itc.cn/images01/20260821/575d1c43e26045e1ada749e3658570fd.png",
+    "score": 50,
+    "tags": []
+  },
+  {
+    "id": "8605721bddf2",
+    "title": "有人预测：明后年，中国的应届毕业生或迎来这几个结局，太真实了",
+    "url": "https://www.aboluowang.com/2026/0824/2424620.html",
+    "summary": "2026年6月，教育部公布了一组让不少家庭心里咯噔一下的数字：这一年全国高校毕业生规模达到1270万人，再次刷新历史纪录。把往届未落实工作的、海外回流求职的算进来，实际参与竞争的人群已经越过1500万",
+    "source": "Bing·应届生求职",
+    "category": "就业",
+    "published": "2026-08-23T17:00:00.000Z",
     "score": 50,
     "tags": []
   },
@@ -648,6 +706,18 @@
     "tags": []
   },
   {
+    "id": "5a999aec11e0",
+    "title": "【我为群众办实事】就业培训 加装座椅 爱心助学 件件实事暖人心",
+    "url": "https://www.sohu.com/a/1065974458_754552",
+    "summary": "群众事，无小事。师市各团场、社区、企业等聚焦群众急难愁盼，从就业帮扶、人居环境改善、爱心助学等方面持续办好民生实事，一桩桩务实举措落地见效，不断提升群众的获得感与幸福感",
+    "source": "Bing·大学生就业政策",
+    "category": "政策",
+    "published": "2026-08-21T14:37:00.000Z",
+    "image": "//q7.itc.cn/q_70/images03/20260821/c2bd3e88cae5471caf623007a188e203.png",
+    "score": 50,
+    "tags": []
+  },
+  {
     "id": "973fa57026cc",
     "title": "政策护航就业路，服务提质暖人心——禹州市人社局开展高校毕业生 ...",
     "url": "https://www.sohu.com/a/1065913650_121123756",
@@ -672,18 +742,6 @@
     "tags": []
   },
   {
-    "id": "695513fac2ed",
-    "title": "全国省级层面首部促进青年创业法规施行——重庆给了创业青年哪些 ...",
-    "url": "https://news.youth.cn/gn/202608/t20260820_16824404.htm",
-    "summary": "“创业多年，我深刻体会到青年创业最大的痛点不是缺少创意和产品，而是创业路上的不确定性、扶持政策的碎片化。”8月15日，重庆缙泉烧文化艺术有限公司总经理陈勇告诉中青报&#183;中青网记者，作为一名深耕",
-    "source": "Bing·大学生创业扶持政策",
-    "category": "政策",
-    "published": "2026-08-19T23:31:00.000Z",
-    "image": "https://news.youth.cn/images/2017930youth_logo.png",
-    "score": 50,
-    "tags": []
-  },
-  {
     "id": "5f002ebfb466",
     "title": "旗市快讯丨鸿雁归扎聚青春 政策护航耕北疆——扎赉诺尔区返乡大 ...",
     "url": "https://www.sohu.com/a/1065320702_121106854",
@@ -692,6 +750,18 @@
     "category": "政策",
     "published": "2026-08-20T07:19:00.000Z",
     "image": "https://q8.itc.cn/q_70/images03/20260820/939d8121a6654cb99f61463482800b2a.png",
+    "score": 50,
+    "tags": []
+  },
+  {
+    "id": "695513fac2ed",
+    "title": "全国省级层面首部促进青年创业法规施行——重庆给了创业青年哪些 ...",
+    "url": "https://news.youth.cn/gn/202608/t20260820_16824404.htm",
+    "summary": "“创业多年，我深刻体会到青年创业最大的痛点不是缺少创意和产品，而是创业路上的不确定性、扶持政策的碎片化。”8月15日，重庆缙泉烧文化艺术有限公司总经理陈勇告诉中青报&#183;中青网记者，作为一名深耕",
+    "source": "Bing·大学生创业扶持政策",
+    "category": "政策",
+    "published": "2026-08-19T23:31:00.000Z",
+    "image": "https://news.youth.cn/images/2017930youth_logo.png",
     "score": 50,
     "tags": []
   },
@@ -739,18 +809,6 @@
     "source": "教育部",
     "category": "政策",
     "published": "2026-05-22T00:00:00.000Z",
-    "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
-    "score": 50,
-    "tags": []
-  },
-  {
-    "id": "20eed286abd8",
-    "title": "2026-04-24教育部办公厅 人力资源社会保障部办公厅关于开展2026年高校毕业生就业政策宣传活动的通知",
-    "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202604/t20260423_1434600.html",
-    "summary": "2026-04-24教育部办公厅 人力资源社会保障部办公厅关于开展2026年高校毕业生就业政策宣传活动的通知",
-    "source": "教育部",
-    "category": "政策",
-    "published": "2026-04-23T00:00:00.000Z",
     "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
     "score": 50,
     "tags": []
@@ -816,30 +874,6 @@
     "tags": []
   },
   {
-    "id": "313ee1a03d0b",
-    "title": "重庆多项就业政策补贴“礼包”来了! 符合条件的高校毕业生等青年 ...",
-    "url": "https://www.msn.cn/zh-cn/money/政府支助和福利/重庆多项就业政策补贴-礼包-来了-符合条件的高校毕业生等青年可申领/ar-AA29L5Yy",
-    "summary": "一次性求职补贴、12个县大学生就业补贴、高校毕业生灵活就业社保补贴、紧缺岗位就业补贴……8月10日，记者从市就业局获悉，为促进高校毕业生等青年留渝来渝就业创业，重庆出台了一系列就业政策补贴“礼包”，符",
-    "source": "就业创业政策",
-    "category": "政策",
-    "published": "2026-08-10T03:27:10.000Z",
-    "image": "",
-    "score": 50,
-    "tags": []
-  },
-  {
-    "id": "d7ec59bff25b",
-    "title": "两部门发文，部署开展2026年高校毕业生就业政策宣传活动（附支持 ...",
-    "url": "https://finance.sina.com.cn/wm/2026-04-24/doc-inhvqmqh4809841.shtml",
-    "summary": "日前，教育部、人力资源社会保障部联合印发通知，部署在全国范围内开展2026年高校毕业生就业政策宣传活动，帮助高校毕业生和用人单位全面了解、精准享受就业优惠政策，促进高校毕业生高质量充分就业。 2026",
-    "source": "就业创业政策",
-    "category": "政策",
-    "published": "2026-04-24T04:45:00.000Z",
-    "image": "https://n.sinaimg.cn/finance/transform/260/w880h180/20180326/zi4T-fysqfnf9377213.png",
-    "score": 50,
-    "tags": []
-  },
-  {
     "id": "ee758d220dd7",
     "title": "《广东省灵活就业人员参加企业职工基本养老保险办法》政策解读",
     "url": "https://www.jiangmen.gov.cn/bmpd/jmsshbxjjglj/zwgk/zcjd/content/post_3494496.html",
@@ -848,6 +882,18 @@
     "category": "政策",
     "published": "2026-05-21T09:11:00.000Z",
     "image": "https://www.jiangmen.gov.cn/bmpd/jmsshbxjjglj/zwgk/zcjd/content/static/images/wap_logo.png",
+    "score": 50,
+    "tags": []
+  },
+  {
+    "id": "bf2294f91718",
+    "title": "瞭望&#183;政策解码|统筹促进城乡高质量充分就业",
+    "url": "https://news.ifeng.com/c/8vh4YXq25xn",
+    "summary": "近期，人力资源社会保障部、国家发展改革委、农业农村部联合印发《关于统筹城乡就业政策体系的意见》（以下简称《意见》），这是贯彻党中央、国务院关于实施就业优先战略、构建就业友好型发展方式、促进高质量充分就",
+    "source": "就业创业政策",
+    "category": "政策",
+    "published": "2026-08-18T10:44:00.000Z",
+    "image": "https://x0.ifengimg.com/res/2026/91D73D640F3F6CF98E3CFBAD249CD962849BEB7D_size572_w800_h667.jpg",
     "score": 50,
     "tags": []
   },
@@ -864,26 +910,14 @@
     "tags": []
   },
   {
-    "id": "c82a45b6243c",
-    "title": "人力资源社会保障部 国家发展改革委 农业农村部印发 《关于建立 ...",
-    "url": "https://finance.sina.com.cn/jjxw/2026-04-07/doc-inhtsezc7183065.shtml",
-    "summary": "本网北京讯 （记者 任社宣）日前，为贯彻党中央、国务院关于统筹建立常态化防止返贫致贫机制促进乡村全面振兴的决策部署，人力资源社会保障部、国家发展改革委、农业农村部印发《关于建立常态化防止返贫致贫就业帮",
+    "id": "d7ec59bff25b",
+    "title": "两部门发文，部署开展2026年高校毕业生就业政策宣传活动（附支持 ...",
+    "url": "https://finance.sina.com.cn/wm/2026-04-24/doc-inhvqmqh4809841.shtml",
+    "summary": "日前，教育部、人力资源社会保障部联合印发通知，部署在全国范围内开展2026年高校毕业生就业政策宣传活动，帮助高校毕业生和用人单位全面了解、精准享受就业优惠政策，促进高校毕业生高质量充分就业。 2026",
     "source": "就业创业政策",
     "category": "政策",
-    "published": "2026-04-07T07:57:00.000Z",
-    "image": "",
-    "score": 50,
-    "tags": []
-  },
-  {
-    "id": "dffb24e183b5",
-    "title": "BOSS直聘收费标准全解析：中小微企业低成本招聘优选吉鹿力招聘网",
-    "url": "https://www.sohu.com/a/1051723589_121311675",
-    "summary": "在人力成本持续走高、企业招聘预算精细化管控的当下，线上招聘平台的收费模式与性价比，已成为企业HR、人力资源管理者重点考量的核心指标。作为国内主流招聘平台，BOSS直聘凭借直聊模式占据大量市场份额，但其",
-    "source": "BOSS直聘",
-    "category": "就业",
-    "published": "2026-07-18T00:57:00.000Z",
-    "image": "//q7.itc.cn/images01/20260718/116f2dab3b9d4f5a829dc9b19d755dc5.png",
+    "published": "2026-04-24T04:45:00.000Z",
+    "image": "https://n.sinaimg.cn/finance/transform/260/w880h180/20180326/zi4T-fysqfnf9377213.png",
     "score": 50,
     "tags": []
   },
@@ -912,6 +946,30 @@
     "tags": []
   },
   {
+    "id": "404754d08aba",
+    "title": "年薪数百万！英伟达薪资曝光：软件工程师、产品经理岗薪资亮眼",
+    "url": "https://news.mydrivers.com/1/1127/1127108.htm",
+    "summary": "快科技6月3日消息，据媒体报道，Business Insider根据英伟达公开的薪资文件整理出一组数据：英伟达软件工程师、产品经理、架构总监、算法工程师等岗位的基本年薪，换算成人民币均达数百万元级别。",
+    "source": "就业报告",
+    "category": "就业",
+    "published": "2026-06-03T16:41:00.000Z",
+    "image": "https://img1.mydrivers.com/img/20260603/249f5e8a03a74c1b8c2e17e2ea65dbdc.png",
+    "score": 50,
+    "tags": []
+  },
+  {
+    "id": "954ad1fe4ce9",
+    "title": "光伏企业风波背后，光伏运维工程师为何愈发重要",
+    "url": "https://www.sohu.com/a/1058102956_121881452",
+    "summary": "快速了解：光伏运维岗未来5年会被淘汰吗。 近期，武汉一家老牌光伏企业因合同纠纷导致资产被查封的消息，在行业内引发了不少讨论",
+    "source": "就业报告",
+    "category": "就业",
+    "published": "2026-08-03T03:46:00.000Z",
+    "image": "//q0.itc.cn/images01/20260803/c5c6d1fea9554794a750b52bbd3cf0f0.jpeg",
+    "score": 50,
+    "tags": []
+  },
+  {
     "id": "4c177ad967a3",
     "title": "乐动机器人（01236.HK）｜全栈智能机器人第一股的薪资福利",
     "url": "https://finance.ifeng.com/c/8vZIsDk10PA",
@@ -920,90 +978,6 @@
     "category": "就业",
     "published": "2026-08-13T03:47:00.000Z",
     "image": "https://x0.ifengimg.com/ucms/2026_33/A785CDAECE17BF8E81408E74B6C23B1287BAE566_size69_w698_h392.jpg",
-    "score": 50,
-    "tags": []
-  },
-  {
-    "id": "bffe5243d050",
-    "title": "零编码经验, 如何成为一名AI工程师",
-    "url": "https://news.qq.com/rain/a/20260606A01YEP00",
-    "summary": "现在，招人企业需要的不是吃透数学原理的人，而是能搭建可落地稳定投产系统的工程师。二者有本质区别",
-    "source": "就业报告",
-    "category": "就业",
-    "published": "2026-06-06T00:10:00.000Z",
-    "image": "https://inews.gtimg.com/om_ls/O45HUaVqH-ZLDwcnkr_s4Cg-Zmo25JxgtdrlYXs_Z59BUAA_640330/0",
-    "score": 50,
-    "tags": []
-  },
-  {
-    "id": "a90c9c32a694",
-    "title": "有人晒1688万年薪，光个税就687万，英伟达薪资大曝光：软件工程师 ...",
-    "url": "https://www.36kr.com/p/3847186812700937",
-    "summary": "前不久，一张据称来自英伟达中国区员工的薪酬单在社交媒体上刷屏： 截图显示，该员工 2024 年总收入高达1688。其中，月薪约 11",
-    "source": "就业报告",
-    "category": "就业",
-    "published": "2026-06-09T17:01:00.000Z",
-    "image": "https://img.36krcdn.com/hsossms/20260610/v2_ebc94241c0d640dd8c2744c973f6b923@46958@ai_oswg867526oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-    "score": 50,
-    "tags": []
-  },
-  {
-    "id": "04720ca0f1d1",
-    "title": "英伟达岗位薪资曝光：软件工程师、产品经理等年薪均达数百万元级别",
-    "url": "https://finance.sina.com.cn/stock/bxjj/2026-06-03/doc-iniacxkk4033895.shtml",
-    "summary": "格隆汇6月3日｜据量子位，英伟达员工到底有多赚钱。Business Insider根据英伟达公开薪资文件整理出了一组数据",
-    "source": "算法工程师·就业分析",
-    "category": "就业",
-    "published": "2026-06-03T15:19:00.000Z",
-    "image": "//n.sinaimg.cn/spider20260603/616/w692h1524/20260603/205e-ab6572e4bc52142b50bea7600b6e30b7.jpg",
-    "score": 50,
-    "tags": []
-  },
-  {
-    "id": "00b46945589e",
-    "title": "年薪数百万！英伟达薪资曝光：软件工程师、产品经理岗薪资亮眼",
-    "url": "https://finance.sina.com.cn/tech/roll/2026-06-03/doc-iniaecsk0737705.shtml",
-    "summary": "快科技6月3日消息，据媒体报道，Business Insider根据英伟达公开的薪资文件整理出一组数据：英伟达软件工程师、产品经理、架构总监、算法工程师等岗位的基本年薪，换算成人民币均达数百万元级别。",
-    "source": "产品经理·就业分析",
-    "category": "就业",
-    "published": "2026-06-03T08:41:00.000Z",
-    "image": "//n.sinaimg.cn/spider20260603/110/w583h327/20260603/d414-9636ebe3c2d4fe57e7f0f6404ad14faa.png",
-    "score": 50,
-    "tags": []
-  },
-  {
-    "id": "c979c93c897b",
-    "title": "2026招聘测评：UI设计师常用主流招聘平台深度解析",
-    "url": "https://www.sohu.com/a/1040249027_121957541",
-    "summary": "2026 年，UI 设计师招聘市场呈现出一些显著的变化趋势。根据专业机构的调研数据，随着科技的飞速发展，各行业对 UI 设计的需求持续增长，尤其是互联网、金融、医疗等领域",
-    "source": "UI设计·就业分析",
-    "category": "就业",
-    "published": "2026-06-23T05:37:00.000Z",
-    "image": "//q9.itc.cn/images02/20260123/e9636eab9a4e443386e84ab29700a8da.jpeg",
-    "score": 50,
-    "tags": []
-  },
-  {
-    "id": "690131a58dcc",
-    "title": "深圳第一职业技术学校界面设计与制作专业介绍",
-    "url": "https://sz.bendibao.com/edu/2026722/1008433.shtm",
-    "summary": "【导语】：深圳一职界面设计与制作专业是新兴专业，可考本科，培养UI设计、动效设计等数字内容制作技能人才。 深圳第一职业技术学校界面设计与制作专业介绍 深圳第一职业技术学校界面设计与制作专业面向数字创意",
-    "source": "UI设计·就业分析",
-    "category": "就业",
-    "published": "2026-07-22T13:01:00.000Z",
-    "image": "https://sz.bendibao.com/style/banshi/resource/icons/search.png",
-    "score": 50,
-    "tags": []
-  },
-  {
-    "id": "6b6534f6a3e4",
-    "title": "注册安全工程师前景如何？政策、薪资、发展全解析",
-    "url": "https://www.eol.cn/kaoshi/jg/zjzcaqgcs/202607/t20260729_2761224.shtml",
-    "summary": "摘要：随着国家对安全生产的重视程度不断提升，注册安全工程师这一职业逐渐从幕后走向台前。很多考生都在问：注册安全工程师前景如何",
-    "source": "安全工程师·就业分析",
-    "category": "就业",
-    "published": "2026-07-29T10:21:00.000Z",
-    "image": "https://www.eol.cn/kaoshi/“ />\n    <meta property=",
     "score": 50,
     "tags": []
   },
@@ -1028,18 +1002,6 @@
     "category": "就业",
     "published": "2026-08-04T14:00:00.000Z",
     "image": "https://inews.gtimg.com/om_ls/OfOnvb4vDVxg2PXrJuMkW6e8AhBzw2-qwOQ7NRe4Q75l4AA_640330/0",
-    "score": 50,
-    "tags": []
-  },
-  {
-    "id": "3f264998b064",
-    "title": "2026年中级安全工程师考试时间指南，报名关键节点与注意事项",
-    "url": "https://www.sohu.com/a/1056828888_122948273",
-    "summary": "想知道2026年中级安全工程师考试时间。根据人社部《关于2026年度专业技术人员职业资格考试工作计划及有关事项的通知》，本年度考试将于10月24日至25日举行，报名窗口为8月4日至8月25日",
-    "source": "安全工程师·就业分析",
-    "category": "就业",
-    "published": "2026-07-30T14:55:00.000Z",
-    "image": "//q7.itc.cn/images01/20260730/59f2a30ed192459584fca436709f8302.png",
     "score": 50,
     "tags": []
   },
@@ -1080,18 +1042,6 @@
     "tags": []
   },
   {
-    "id": "9e4ae89f98e8",
-    "title": "这届应届生，被困在无数次“线上评测”里",
-    "url": "https://eu.36kr.com/zh/p/3947531996658822",
-    "summary": "企业AI评测赋能效能升级，职场人AI搜题破解工作难题，AI工具深度融入日常办公，开启智能办公“魔法对轰”新范式。从企业端依托AI评测实现人才评估、绩效复盘的数字化革新，到员工端借助AI搜题快速定位工作",
-    "source": "Bing·应届生求职",
-    "category": "就业",
-    "published": "2026-08-20T10:08:00.000Z",
-    "image": "https://img.36krcdn.com/hsossms/20260820/v2_355d9e1e53904372bf12955f24db852d@5888275@ai_oswg977310oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-    "score": 45,
-    "tags": []
-  },
-  {
     "id": "9831343b9a4c",
     "title": "外企的模型团队招 AI 方向优秀的人才",
     "url": "https://www.v2ex.com/t/1236127#reply7",
@@ -1116,6 +1066,30 @@
     "tags": []
   },
   {
+    "id": "70eb16b5178b",
+    "title": "用数据“看见”大学生就业真相",
+    "url": "https://finance.sina.com.cn/tech/roll/2026-08-04/doc-inimamwf2513939.shtml",
+    "summary": "又是一年毕业季。教育部公布的数据显示，2025届全国高校毕业生规模预计达1222万人，再创历史新高",
+    "source": "就业报告",
+    "category": "就业",
+    "published": "2026-08-03T18:50:00.000Z",
+    "image": "//n.sinaimg.cn/spider20260804/99/w500h399/20260804/7832-42bac34e734ec705c9e8b948a2b18480.jpg",
+    "score": 45,
+    "tags": []
+  },
+  {
+    "id": "cb04c7e74730",
+    "title": "哪些大学专业才是“真风口”?",
+    "url": "https://www.msn.com/zh-cn/news/other/哪些大学专业才是-真风口/ar-AA29RNoB",
+    "summary": "本文转自：贵州教育报2026本科专业热度榜（TOP20）。2021—2025年薪资涨幅最显著的5个专业",
+    "source": "就业报告",
+    "category": "就业",
+    "published": "2026-08-11T09:39:41.000Z",
+    "image": "",
+    "score": 45,
+    "tags": []
+  },
+  {
     "id": "d925ccd06f51",
     "title": "彭凯平：孩子和父母都在“求救”",
     "url": "https://www.chinanews.com.cn/edu/2026/08-22/10682177.shtml",
@@ -1136,6 +1110,18 @@
     "category": "社会",
     "published": "2026-08-21T01:48:00.000Z",
     "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+    "score": 40,
+    "tags": []
+  },
+  {
+    "id": "995734283aa0",
+    "title": "这届应届生，被困在无数次“线上评测”里",
+    "url": "https://www.36kr.com/p/3947531996658822",
+    "summary": "互联网大厂担任多年HR的陈晨解释，招应届生比社招风险更高，大部分人的简历都相对简单，看不出他/她在实际面对工作问题时候的逻辑能力、学习能力和抗压能力，所以只能通过复杂的问题设计去筛选",
+    "source": "Bing·应届生求职",
+    "category": "就业",
+    "published": "2026-08-19T17:01:00.000Z",
+    "image": "https://img.36krcdn.com/hsossms/20260820/v2_355d9e1e53904372bf12955f24db852d@5888275@ai_oswg977310oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
     "score": 40,
     "tags": []
   },
@@ -1200,25 +1186,14 @@
     "tags": []
   },
   {
-    "id": "f03ec9c09b11",
-    "title": "2020 Java工程师就业前景",
-    "url": "https://soft.zol.com.cn/1214/12141694.html",
-    "summary": "全球有25亿台设备运行Java，450多万名开发者遍布世界各地，数以千万计的网络用户每次上网都能感受到Java的强大功能。 1、 Java工程师未来就业形势乐观 2、 2017年，美国、加拿大、澳大利",
-    "source": "Java开发·就业分析",
-    "category": "就业",
-    "published": "2026-07-19T08:46:00.000Z",
-    "image": "https://icon.zol-img.com.cn/cms/zollogo/bqrcode.jpg",
-    "score": 40,
-    "tags": []
-  },
-  {
-    "id": "7c276d3e0c4d",
-    "title": "现在嵌入式行业薪水怎么样？",
-    "url": "https://www.eet-china.com/mp/a504429.html",
-    "summary": "2026年的嵌入式行业，可以说是“冰火两重天”：一边是行业需求大爆发，另一边是对工程师能力的要求也水涨船高。 总的来看，这依然是值得深耕的赛道，但“随便学学就能找到好工作”的日子已经过去了",
-    "source": "嵌入式开发·就业分析",
-    "category": "就业",
-    "published": "2026-06-22T15:10:00.000Z",
+    "id": "42d8edbfb11c",
+    "title": "重庆出台一系列就业补贴政策",
+    "url": "http://cq.people.com.cn/n2/2026/0811/c367668-41664399.html",
+    "summary": "一次性求职补贴、12个县大学生就业补贴、高校毕业生灵活就业社保补贴、紧缺岗位就业补贴……8月10日，记者从市就业局获悉，为促进高校毕业生等青年留渝来渝就业，重庆出台了一系列就业补贴政策，符合条件的青年",
+    "source": "就业创业政策",
+    "category": "政策",
+    "published": "2026-08-10T17:00:00.000Z",
+    "image": "https://www.people.com.cn/img/2020peopleindex/img/logo_share_ap.jpg",
     "score": 40,
     "tags": []
   },
@@ -1227,7 +1202,7 @@
     "title": "嵌入式开发，这些知识点一定要学！",
     "url": "https://www.sohu.com/a/1061990499_121123998",
     "summary": "很多零基础、转行、在校生入门嵌入式时都会陷入迷茫： 技术体系繁杂，单片机、Linux、驱动、物联网分不清主次，网上资料零散，学一堆冷门技术却摸不到企业招聘核心考点。 今天带你一次性梳理全岗位通用刚需、",
-    "source": "嵌入式开发·就业分析",
+    "source": "就业报告",
     "category": "就业",
     "published": "2026-08-12T10:15:00.000Z",
     "image": "https://q0.itc.cn/q_70/images03/20260812/47db71948fa145a6a25640ac2517a464.png",
@@ -1958,12 +1933,22 @@
     "image": "https://q7.itc.cn/q_70/images03/20260824/7c05b8c2db3c4c488233d17424579072.png"
   },
   {
-    "id": "8605721bddf2",
-    "title": "有人预测：明后年，中国的应届毕业生或迎来这几个结局，太真实了",
-    "url": "https://www.aboluowang.com/2026/0824/2424620.html",
+    "id": "171a9f4c6ff0",
+    "title": "2026秋招“最难”是假象——测试开发岗需求激增30%，大厂薪资包涨了 ...",
+    "url": "https://www.sohu.com/a/1066778981_121356541",
+    "source": "Bing·秋招",
+    "category": "就业",
+    "published": "2026-08-24T04:37:00.000Z",
+    "image": "//q4.itc.cn/images01/20260824/2dd37eadf3c84507a75933b843f4a972.png"
+  },
+  {
+    "id": "1dbfe5195950",
+    "title": "上市公司被曝要求应届生离职与“打螺丝”二选一！老板是前常州女 ...",
+    "url": "https://www.sohu.com/a/1067195565_120157034",
     "source": "Bing·应届生求职",
     "category": "就业",
-    "published": "2026-08-23T17:00:00.000Z"
+    "published": "2026-08-25T03:11:00.000Z",
+    "image": "https://q9.itc.cn/q_70/images03/20260825/3a99174505c84c279ea2bc28ec02f934.jpeg"
   },
   {
     "id": "8e923936903e",
@@ -1974,49 +1959,22 @@
     "published": "2026-08-25T02:42:00.000Z"
   },
   {
-    "id": "4343a2bec77c",
-    "title": "星宇股份“去留二选一”：400名应届生入职一月，被要求“主动离职 ...",
-    "url": "https://news.qq.com/rain/a/20260825A037PJ00",
-    "source": "Bing·应届生求职",
-    "category": "就业",
-    "published": "2026-08-25T02:33:00.000Z",
-    "image": "https://inews.gtimg.com/om_ls/O6mHTcgdh2UYlQsMn36PxI_6rWUGnoaL3OkJcbTootXaEAA_640330/0"
-  },
-  {
-    "id": "2048802db5f0",
-    "title": "账上躺着20亿，却“羞辱式”狂裁应届生！常州“车灯一哥”，欠 ...",
-    "url": "https://finance.ifeng.com/c/8vspgiZpuPu",
-    "source": "Bing·应届生求职",
-    "category": "就业",
-    "published": "2026-08-24T21:10:00.000Z",
-    "image": "https://x0.ifengimg.com/res/2026/9C6BC192AEE07E5E3A363C4376FBAFF03278B310_size54_w957_h719.jpg"
-  },
-  {
-    "id": "bb2aa00956dc",
-    "title": "BOSS直聘：第二季度营收23.99亿元，AI助力招聘服务向闭环推进",
-    "url": "https://www.msn.cn/zh-cn/money/人力资源/boss直聘-第二季度营收23-99亿元-ai助力招聘服务向闭环推进/ar-AA2aTZvO",
+    "id": "bf138ebe1f14",
+    "title": "BOSS直聘二季度经营利润同比增长32.6%",
+    "url": "https://finance.sina.com.cn/roll/2026-08-26/doc-inipqhkk2269196.shtml",
     "source": "Bing·BOSS直聘",
     "category": "就业",
-    "published": "2026-08-25T02:10:00.000Z",
+    "published": "2026-08-25T03:00:00.000Z",
     "image": ""
   },
   {
-    "id": "8a76f9d6e925",
-    "title": "BOSS直聘：2026年第二季度营收23.99亿元 经营利润8.63亿元",
-    "url": "https://www.msn.cn/zh-cn/news/other/boss直聘-2026年第二季度营收2399亿元-经营利润863亿元/ar-AA2aTxo4",
+    "id": "62e3d967736e",
+    "title": "BOSS直聘2026年Q2财报炸裂！营收23.99亿、派息2.3亿美元，打工人背后的 ...",
+    "url": "https://www.sohu.com/a/1067483787_122066679",
     "source": "Bing·BOSS直聘",
     "category": "就业",
-    "published": "2026-08-25T06:11:41.000Z",
+    "published": "2026-08-24T23:36:00.000Z",
     "image": ""
-  },
-  {
-    "id": "f9daba6f44ef",
-    "title": "找工作不用花钱，那BOSS直聘的收入是从哪儿来的？",
-    "url": "https://www.sohu.com/a/1067523276_120162166",
-    "source": "Bing·BOSS直聘",
-    "category": "就业",
-    "published": "2026-08-25T01:57:00.000Z",
-    "image": "//q9.itc.cn/images01/20260825/661756de6229440591cd92828cb8b547.jpeg"
   },
   {
     "id": "3e602f059f3e",
@@ -2028,22 +1986,31 @@
     "image": "//q0.itc.cn/images01/20260825/2082c22ee8a341bcaac255748359f0e7.jpeg"
   },
   {
-    "id": "7e6e39659a96",
-    "title": "BOSS直聘-W2026年第二季净利19.42亿元，同比增加173.1%",
-    "url": "https://news.qq.com/rain/a/20260825A0BSZB00",
+    "id": "fb4dd734ccd0",
+    "title": "BOSS直聘2026财年第二财季归母净利润19.45亿元，同比增长173.1%",
+    "url": "https://www.msn.cn/zh-cn/money/other/boss直聘2026财年第二财季归母净利润19-45亿元-同比增长173-1/ar-AA2aTmLN",
     "source": "Bing·BOSS直聘",
     "category": "就业",
-    "published": "2026-08-24T23:03:00.000Z",
-    "image": "https://inews.gtimg.com/om_ls/Oyc6hmuYIaIBC9_GZ9G4XNPpQ3a1b8zlau1QX4S5dZvd8AA_640330/0"
+    "published": "2026-08-25T04:43:03.000Z",
+    "image": ""
   },
   {
-    "id": "3e308d258e56",
-    "title": "BOSS直聘2026财年上半年财报出炉：营收44.67亿元同比增长11%，净利润 ...",
-    "url": "https://www.smarthey.com/detail/456200603359.html",
+    "id": "af45a39b81f0",
+    "title": "BOSS直聘-W(02076.HK)2026年第二季净利19.42亿元，同比增加173.1%",
+    "url": "https://www.msn.cn/zh-cn/money/经济/boss直聘-w-02076-hk-2026年第二季净利19-42亿元-同比增加173-1/ar-AA2aTr24",
     "source": "Bing·BOSS直聘",
     "category": "就业",
-    "published": "2026-08-24T22:59:00.000Z",
-    "image": "https://www.smarthey.com/static/smarthey/image/small-logo.png"
+    "published": "2026-08-25T05:03:11.000Z",
+    "image": ""
+  },
+  {
+    "id": "31033877a3a7",
+    "title": "BOSS直聘：第二季度营收23.99亿元，AI助力招聘服务向闭环推进",
+    "url": "https://finance.sina.com.cn/stock/t/2026-08-25/doc-inipqaan2321155.shtml",
+    "source": "Bing·BOSS直聘",
+    "category": "就业",
+    "published": "2026-08-25T02:19:00.000Z",
+    "image": "//n.sinaimg.cn/spider20260825/195/w660h335/20260825/4867-147a1bc2487566d826af29f656c75e20.jpg"
   },
   {
     "id": "abc223dd9fa6",
@@ -2052,7 +2019,7 @@
     "source": "Bing·BOSS直聘",
     "category": "就业",
     "published": "2026-08-24T17:00:00.000Z",
-    "image": ""
+    "image": "https://np-newspic.dfcfw.com/download/D25494593576433525844_w145h95.jpg"
   },
   {
     "id": "fdb9a89645a4",
@@ -2127,6 +2094,15 @@
     "image": "https://cdn.v2ex.com/avatar/b8ab/b9fd/156070_large.png?m=1714827478"
   },
   {
+    "id": "11cd38265853",
+    "title": "珠三角五市联动聚合力，为退役军人提供跨区域就业服务",
+    "url": "https://news.qq.com/rain/a/20260825A07G2000",
+    "source": "Bing·大学生就业政策",
+    "category": "政策",
+    "published": "2026-08-25T07:49:00.000Z",
+    "image": "https://inews.gtimg.com/om_ls/ORMZjh02XU8wzpTUoj4sbYB8ra0TZYk8SNd0IC7i-XotoAA_640330/0"
+  },
+  {
     "id": "aab4e9d135cb",
     "title": "禄丰市：举办高校毕业生就业创业专场招聘会",
     "url": "https://www.sohu.com/a/1066961824_121123739",
@@ -2134,24 +2110,6 @@
     "category": "政策",
     "published": "2026-08-24T11:03:00.000Z",
     "image": "https://q8.itc.cn/q_70/images03/20260824/257cd7207adc4ee58ee95f3e3f89d553.jpeg"
-  },
-  {
-    "id": "6a17b4b689b9",
-    "title": "燃动创业热情！华容区AI赋能跨境电商，40名创业者解锁出海新玩法~",
-    "url": "https://www.sohu.com/a/1067423692_121975242",
-    "source": "Bing·大学生创业扶持政策",
-    "category": "政策",
-    "published": "2026-08-24T20:59:00.000Z",
-    "image": "//q4.itc.cn/images01/20260825/ded661c502694a29931b2f8e69aa2432.jpeg"
-  },
-  {
-    "id": "d2acdac633c2",
-    "title": "社会民生 | 南平顺昌：举办大学生暑假创业实践活动 为乡村振兴注入 ...",
-    "url": "https://www.greatwuyi.com/info/content/202608/25/c1595831.html",
-    "source": "Bing·大学生创业扶持政策",
-    "category": "政策",
-    "published": "2026-08-24T20:57:00.000Z",
-    "image": "https://www.greatwuyi.com/templateRes/2022nr/img/logo.png"
   },
   {
     "id": "7f95dc798487",
@@ -2550,15 +2508,6 @@
     "image": "https://static001.infoq.cn/resource/image/3e/04/3e987729c3d1889b3d17b7eae20afe04.jpg"
   },
   {
-    "id": "0be2053c45a3",
-    "title": "亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩",
-    "url": "https://www.infoq.cn/article/cwj5Ikvhqu5mKH22zKsO?utm_source=rss&amp;utm_medium=article",
-    "source": "InfoQ中文",
-    "category": "开发",
-    "published": "2026-08-23T17:00:00.000Z",
-    "image": "https://static001.infoq.cn/resource/image/0c/5b/0c2c759cb5599bf5bf00b4eceb74205b.jpg"
-  },
-  {
     "id": "5aa686cdef2a",
     "title": "Magicodes.IE.IO： XML 单元格读写：转义、稀疏列与日期 - HueiFeng",
     "url": "https://www.cnblogs.com/yyfh/p/22685032",
@@ -2748,13 +2697,13 @@
     "image": "https://inews.gtimg.com/om_ls/OZEY91yuD9cmP5Xo6uyjVacjAw3MhvQAFqlFzEOEZv0J8AA_640330/0"
   },
   {
-    "id": "15c8f750c987",
-    "title": "WorkBuddy都开始招FDE了！ 程序员转型AI前沿部署工程师指南（建议收藏）",
-    "url": "https://news.qq.com/rain/a/20260824A0C24C00",
+    "id": "be2b2ac8ec80",
+    "title": "产品经理越做越迷茫？大概率踩进了这些陷阱",
+    "url": "https://www.sohu.com/a/1067321043_100062024",
     "source": "就业报告",
     "category": "就业",
-    "published": "2026-08-24T13:57:00.000Z",
-    "image": "https://inews.gtimg.com/om_ls/OBubmP3_C6DlZfLxEBeqClCc6A9dkfXueDwkppYTonxcEAA_640330/0"
+    "published": "2026-08-25T08:41:00.000Z",
+    "image": ""
   },
   {
     "id": "e62a2ab7f27a",
