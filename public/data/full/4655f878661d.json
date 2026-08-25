@@ -1,0 +1,7 @@
+{
+  "id": "4655f878661d",
+  "title": "uniapp连接斑马打印机ZD421 蓝牙打印：从踩坑到出纸 - 小铭同学a",
+  "url": "https://www.cnblogs.com/liuxuming/p/22679807",
+  "contentZh": "",
+  "contentFull": "\n用 uni-app 给斑马（Zebra）ZD421 打一张 100mm × 150mm 的面单，\n\n环境：uni-app Vue2、App 真机（安卓小米13）、斑马 ZD421\n本项目因为之前已经走通汉印打印机的蓝牙通信，时长会默认走CPCL。\n但是斑马必须走ZPL,终于走通了\n\n\n每次切 onceLength 字节\n每包间隔 300ms\n失败最多重试 15 次（整包重发）\n用 uni.writeBLECharacteristicValue\n\n\n内容必须转成二进制\n中文必须 GBK\n指令也要转二进制\nBLE 一次接收有限，建议 20 字节递归分包，\n\n\n\n## 面单 ZPL 样例\n\n下面是斑马文档里那张经典面单，加上纸张尺寸后可以直接发：\n\n\n```zpl\n^XA\n^PW800\n^LL1200\n^CF0,60\n^FO50,50^GB100,100,100^FS\n^FO75,75^FR^GB100,100,100^FS\n^FO93,93^GB40,40,40^FS\n^FO220,50^FDIntershipping, Inc.^FS\n^CF0,30\n^FO220,115^FD1000 Shipping Lane^FS\n^FO220,155^FDShelbyville TN 38102^FS\n^FO220,195^FDUnited States (USA)^FS\n^FO50,250^GB700,3,3^FS\n^CFA,30\n^FO50,300^FDJohn Doe^FS\n^FO50,340^FD100 Main Street^FS\n^FO50,380^FDSpringfield TN 39021^FS\n^FO50,420^FDUnited States (USA)^FS\n^CFA,15\n^FO600,300^GB150,150,3^FS\n^FO638,340^FDPermit^FS\n^FO638,390^FD123456^FS\n^FO50,500^GB700,3,3^FS\n^BY5,2,270\n^FO100,550^BC^FD12345678^FS\n^FO50,900^GB700,250,3^FS\n^FO400,900^GB3,250,3^FS\n^CF0,40\n^FO100,960^FDCtr. X34B-1^FS\n^FO100,1010^FDREF1 F00B47^FS\n^FO100,1060^FDREF2 BL4H8^FS\n^CF0,190\n^FO470,955^FDCA^FS\n^XZ\n```\n\n\n业务里只要把 `^FD` 后面的文字、条码换成订单数据。坐标原点在标签左上，单位是点。\n\n\n\n多少无益，需要源代码的找我，平时不在线，打赏做个敲门砖\n\n\n\n\n\n\n\n\n\n\n\n"
+}
