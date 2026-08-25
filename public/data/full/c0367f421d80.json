@@ -1,0 +1,7 @@
+{
+  "id": "c0367f421d80",
+  "title": "Mac 小技巧：用方向键优雅处理超长网址 - AlfredZhao",
+  "url": "https://www.cnblogs.com/jyzhao/p/22688854",
+  "contentZh": "",
+  "contentFull": "\n    \n    \n2026-08-26 07:06 \nAlfredZhao \n阅读(0) \n评论() \n \n收藏 \n举报\n\n复制网址很简单：⌘ + A、⌘ + C。但面对超长链接，若只想保留站点地址，鼠标拖选既慢又容易选不准。\n例如：\nhttps://example.com/article/2026/08/mac-shortcuts-guide?utm_source=wechat&utm_medium=article&utm_campaign=productivity_tips&from=singlemessage&isappinstalled=0&sessionid=9f3e71a6c28b4d6ea0c7f6a2b9d4e185&share_token=8c6d2f1a3b7e4c9fa05d1e6b2c8f734a&timestamp=1756108800\n\n想留下 https://example.com，笔者更推荐用方向键快速完成。\n01 | 一键删掉网址后半段\n先把光标放在 .com 后面，按：\n⌘ + Shift + →\n这会选中光标右侧的全部内容，再按 Delete 即可。\n这组操作特别适合删除网址路径和参数：光标位置放对，一次就能选准。\n02 | 左右方向键：处理单行文字\n\n\n\n快捷键\n作用\n\n\n\n\n⌘ + ←\n跳到这一行最前面\n\n\n⌘ + →\n跳到这一行最后面\n\n\n⌘ + Shift + ←\n选中光标左边的全部内容\n\n\n⌘ + Shift + →\n选中光标右边的全部内容\n\n\n\n如果想删除网址开头、保留后半段，把光标放在要保留内容前面，按 ⌘ + Shift + ←，再按 Delete。\n03 | 上下方向键：处理多行内容\n在备忘录、邮件或文档中，可以用：\n\n\n\n快捷键\n作用\n\n\n\n\n⌘ + ↑\n跳到文本最开头\n\n\n⌘ + ↓\n跳到文本最结尾\n\n\n⌘ + Shift + ↑\n从光标选到文本最开头\n\n\n⌘ + Shift + ↓\n从光标选到文本最结尾\n\n\n\n例如光标在长邮件中间，想删除后续内容：按 ⌘ + Shift + ↓，再按 Delete。\n04 | 用 Option 按词编辑\nOption（⌥） 适合精细调整文字：\n\n⌥ + ← / →：按词移动光标\n⌥ + Shift + ← / →：一次选中一个词\n⌥ + Delete：删除左侧一个词\nfn + ⌥ + Delete：删除右侧一个词\n\n一句话记忆：⌘ 管头尾，Shift 管选中，Option 管按词移动。下次处理长网址，少拖一次鼠标就够了。\n关注我，和AI一起成长~\n\n\n\n    \n        \n    \n"
+}
