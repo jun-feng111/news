@@ -36,18 +36,6 @@
     "tags": []
   },
   {
-    "id": "588aadc507f3",
-    "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
-    "url": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/",
-    "summary": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
-    "source": "TechCrunch",
-    "category": "科技",
-    "published": "2026-08-24T23:05:44.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Oura_Ring_5_Product-1_Collection.png?resize=1200,800",
-    "score": 75,
-    "tags": []
-  },
-  {
     "id": "32cda19d8db8",
     "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
     "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
@@ -56,6 +44,18 @@
     "category": "AI",
     "published": "2026-08-25T00:23:12.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2024/10/us-securities-and-exchange-commission-sec-logo.jpg?resize=1200,800",
+    "score": 70,
+    "tags": []
+  },
+  {
+    "id": "588aadc507f3",
+    "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
+    "url": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/",
+    "summary": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
+    "source": "TechCrunch",
+    "category": "科技",
+    "published": "2026-08-24T23:05:44.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Oura_Ring_5_Product-1_Collection.png?resize=1200,800",
     "score": 70,
     "tags": []
   },
@@ -176,6 +176,30 @@
     "category": "就业",
     "published": "2026-06-25T10:34:00.000Z",
     "image": "data:image/png;base64,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",
+    "score": 60,
+    "tags": []
+  },
+  {
+    "id": "a739e986b3b4",
+    "title": "FDE工程师薪资走高，亚马逊投入10亿美元加入“抢人大战”",
+    "url": "https://news.sina.com.cn/w/2026-07-01/doc-inifinuh3962104.shtml",
+    "summary": "当地时间6月30日，亚马逊宣布投入10亿美元打造FDE（前沿部署工程师）团队，让AI工程师与客户直接合作，并且协助客户构建和部署人工智能系统。 亚马逊表示，FDE嵌入式团队将与客户的业务、工程和安全团",
+    "source": "就业报告",
+    "category": "就业",
+    "published": "2026-07-01T16:07:00.000Z",
+    "image": "http://n.sinaimg.cn/sinakd20260701s/0/w1920h1280/20260701/ed65-3a9b2c08a6d0f60875ae66e5a55145cb.jpg",
+    "score": 60,
+    "tags": []
+  },
+  {
+    "id": "6c29c012001d",
+    "title": "美国人事管理办公室要求联邦机构优先招聘技术人才",
+    "url": "https://news.qq.com/rain/a/20260805A0B95V00",
+    "summary": "据meritalk网站８月４日消息，美国人事管理办公室（OPM）发布指导意见，要求联邦机构在9月30日前提交的2027财年劳动力计划中，将人工智能、网络安全、软件工程、数据科学等技术岗位招聘列为核心内",
+    "source": "数据科学·就业分析",
+    "category": "就业",
+    "published": "2026-08-05T09:44:00.000Z",
+    "image": "https://inews.gtimg.com/om_ls/O-zanNMfobFuSbgVRUpt7B8D8KPgLef76B9rLoSn4nd3IAA_640330/0",
     "score": 60,
     "tags": []
   },
@@ -336,6 +360,18 @@
     "tags": []
   },
   {
+    "id": "b85d949aafd8",
+    "title": "备战国考别裸考求职，秋招期间，实习与校招同步准备更稳妥",
+    "url": "https://www.sohu.com/a/1061514596_121618239",
+    "summary": "每年秋季大批应届生开启国考长线备考，近几年国考报名规模持续扩张，热门职能岗竞争尤为激烈，不少岗位报录比突破几百比一。很多备考学生下意识认为求职投递会分流复习精力，干脆暂停一切校招、实习信息搜集，把全部",
+    "source": "就业报告",
+    "category": "就业",
+    "published": "2026-08-11T10:15:00.000Z",
+    "image": "//q8.itc.cn/images01/20260811/d19c68ab2c3d4d628ed28309e68dd65d.jpeg",
+    "score": 55,
+    "tags": []
+  },
+  {
     "id": "97ddad88b98a",
     "title": "大数据管理与应用专业毕业生的就业去向有哪些？待遇如何？",
     "url": "https://www.eol.cn/kaoshi/gaokao/gkzy/202606/t20260606_2741699.shtml",
@@ -344,6 +380,18 @@
     "category": "就业",
     "published": "2026-06-06T06:57:00.000Z",
     "image": "https://www.eol.cn/news/",
+    "score": 55,
+    "tags": []
+  },
+  {
+    "id": "b04bb1766ffd",
+    "title": "从近5年薪资变化和供需比，看哪些大学专业是真风口",
+    "url": "https://news.qq.com/rain/a/20260809A04OEA00",
+    "summary": "又是一年毕业季。教育部公布的数据显示，2025届全国高校毕业生规模预计达1222万人，再创历史新高",
+    "source": "就业报告",
+    "category": "就业",
+    "published": "2026-08-09T04:22:00.000Z",
+    "image": "https://inews.gtimg.com/om_ls/O0QRISXRxL4lm8GstLYUYYgDvb-18gVwL_eOwCFT4IXckAA_640330/0",
     "score": 55,
     "tags": []
   },
@@ -465,6 +513,18 @@
     "published": "2026-08-10T04:42:00.000Z",
     "image": "//q5.itc.cn/images01/20260810/fa2df161ae924708a95ba26530590dc0.png",
     "score": 55,
+    "tags": []
+  },
+  {
+    "id": "a0a32e53d36e",
+    "title": "稳就业｜2026校招观察：用人需求收缩，毕业生如何应对？(含视频)",
+    "url": "https://www.caixin.com/2026-08-20/102475892.html",
+    "summary": "就业市场供给持续扩容，高学历人才规模大幅增长是2026年校招市场的核心背景。2026年中国高校毕业生规模达到1270万人，连续多年增长并再创历史新高",
+    "source": "Bing·校园招聘",
+    "category": "就业",
+    "published": "2026-08-20T00:22:00.000Z",
+    "image": "https://img.caixin.com/2026-08-20/178718193111358_560_373.jpg",
+    "score": 50,
     "tags": []
   },
   {
@@ -660,18 +720,6 @@
     "tags": []
   },
   {
-    "id": "5a999aec11e0",
-    "title": "【我为群众办实事】就业培训 加装座椅 爱心助学 件件实事暖人心",
-    "url": "https://www.sohu.com/a/1065974458_754552",
-    "summary": "群众事，无小事。师市各团场、社区、企业等聚焦群众急难愁盼，从就业帮扶、人居环境改善、爱心助学等方面持续办好民生实事，一桩桩务实举措落地见效，不断提升群众的获得感与幸福感",
-    "source": "Bing·大学生就业政策",
-    "category": "政策",
-    "published": "2026-08-21T14:37:00.000Z",
-    "image": "//q7.itc.cn/q_70/images03/20260821/c2bd3e88cae5471caf623007a188e203.png",
-    "score": 50,
-    "tags": []
-  },
-  {
     "id": "973fa57026cc",
     "title": "政策护航就业路，服务提质暖人心——禹州市人社局开展高校毕业生 ...",
     "url": "https://www.sohu.com/a/1065913650_121123756",
@@ -752,54 +800,6 @@
     "category": "开发",
     "published": "2026-08-22T11:05:00.000Z",
     "image": "https://static001.infoq.cn/resource/image/91/2e/916683441476e747f8fa17e0da3baf2e.jpg",
-    "score": 50,
-    "tags": []
-  },
-  {
-    "id": "f5cb39eaf8f6",
-    "title": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
-    "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202606/t20260602_1438600.html",
-    "summary": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
-    "source": "教育部",
-    "category": "政策",
-    "published": "2026-06-02T00:00:00.000Z",
-    "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
-    "score": 50,
-    "tags": []
-  },
-  {
-    "id": "a3af074b2b9b",
-    "title": "2026-05-22教育部等八部门办公厅关于联合开展2026年度高校毕业生等重点群体促就业“国聘行动”的通知",
-    "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202605/t20260522_1437356.html",
-    "summary": "2026-05-22教育部等八部门办公厅关于联合开展2026年度高校毕业生等重点群体促就业“国聘行动”的通知",
-    "source": "教育部",
-    "category": "政策",
-    "published": "2026-05-22T00:00:00.000Z",
-    "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
-    "score": 50,
-    "tags": []
-  },
-  {
-    "id": "20eed286abd8",
-    "title": "2026-04-24教育部办公厅 人力资源社会保障部办公厅关于开展2026年高校毕业生就业政策宣传活动的通知",
-    "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202604/t20260423_1434600.html",
-    "summary": "2026-04-24教育部办公厅 人力资源社会保障部办公厅关于开展2026年高校毕业生就业政策宣传活动的通知",
-    "source": "教育部",
-    "category": "政策",
-    "published": "2026-04-23T00:00:00.000Z",
-    "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
-    "score": 50,
-    "tags": []
-  },
-  {
-    "id": "4a7d237a17a2",
-    "title": "2026-01-16教育部办公厅等四部门关于开展高校毕业生异地求职“双惠”行动的通知",
-    "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202601/t20260115_1426697.html",
-    "summary": "2026-01-16教育部办公厅等四部门关于开展高校毕业生异地求职“双惠”行动的通知",
-    "source": "教育部",
-    "category": "政策",
-    "published": "2026-01-15T00:00:00.000Z",
-    "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
     "score": 50,
     "tags": []
   },
@@ -900,14 +900,14 @@
     "tags": []
   },
   {
-    "id": "2a91d87df573",
+    "id": "d7ec59bff25b",
     "title": "两部门发文，部署开展2026年高校毕业生就业政策宣传活动（附支持 ...",
-    "url": "https://news.qq.com/rain/a/20260424A03VOX00",
+    "url": "https://finance.sina.com.cn/wm/2026-04-24/doc-inhvqmqh4809841.shtml",
     "summary": "日前，教育部、人力资源社会保障部联合印发通知，部署在全国范围内开展2026年高校毕业生就业政策宣传活动，帮助高校毕业生和用人单位全面了解、精准享受就业优惠政策，促进高校毕业生高质量充分就业。 2026",
     "source": "就业创业政策",
     "category": "政策",
-    "published": "2026-04-24T04:00:00.000Z",
-    "image": "https://inews.gtimg.com/om_ls/O6Xv658mguKWdIzfHZpxqIiovf_MXV3Oy4nBy8mAhrpi0AA_640330/0",
+    "published": "2026-04-24T04:45:00.000Z",
+    "image": "https://n.sinaimg.cn/finance/transform/260/w880h180/20180326/zi4T-fysqfnf9377213.png",
     "score": 50,
     "tags": []
   },
@@ -936,18 +936,6 @@
     "tags": []
   },
   {
-    "id": "cfc70635e28c",
-    "title": "26/27届留学生注意！你的应届生身份到底能用多久？",
-    "url": "https://www.sohu.com/a/1065261993_120284448",
-    "summary": "“留学生毕业两年内都算应届生吗。”“26届今年秋招还能投吗",
-    "source": "就业报告",
-    "category": "就业",
-    "published": "2026-08-20T05:00:00.000Z",
-    "image": "//q8.itc.cn/images01/20260820/20891cd512ca4d56804c177c635e0310.jpeg",
-    "score": 50,
-    "tags": []
-  },
-  {
     "id": "404754d08aba",
     "title": "年薪数百万！英伟达薪资曝光：软件工程师、产品经理岗薪资亮眼",
     "url": "https://news.mydrivers.com/1/1127/1127108.htm",
@@ -972,26 +960,26 @@
     "tags": []
   },
   {
-    "id": "4c177ad967a3",
-    "title": "乐动机器人（01236.HK）｜全栈智能机器人第一股的薪资福利",
-    "url": "https://finance.ifeng.com/c/8vZIsDk10PA",
-    "summary": "深圳乐动机器人股份有限公司（LDROBOT）成立于2017年，总部位于深圳南山区，2026年5月12日在香港联交所主板上市（股票代码：01236。HK），是\"全栈式智能机器人第一股\"",
-    "source": "就业报告",
+    "id": "dc8335ff5c6c",
+    "title": "阿里2027校招开启！16个产品/设计岗：产品经理要笔试了...",
+    "url": "https://www.sohu.com/a/1061566860_121124300",
+    "summary": "2026年夏天，阿里已经开始2027届“秋招”了。 8月5日，阿里巴巴公布2027届应届生招聘信息，面 向毕业时间在2026年11月至2027年10月的海内外学生",
+    "source": "产品经理·就业分析",
     "category": "就业",
-    "published": "2026-08-13T03:47:00.000Z",
-    "image": "https://x0.ifengimg.com/ucms/2026_33/A785CDAECE17BF8E81408E74B6C23B1287BAE566_size69_w698_h392.jpg",
+    "published": "2026-08-11T12:18:00.000Z",
+    "image": "https://q7.itc.cn/q_70/images03/20260811/44507f60f98946caa6951cf05d6f9473.png",
     "score": 50,
     "tags": []
   },
   {
-    "id": "ac537e765522",
-    "title": "2026年信息安全专业就业前景深度分析——以重庆地区为例",
-    "url": "https://www.eol.cn/kaifang/xgkwyw/2026072013527.html",
-    "summary": "本文内容仅供参考，包含费用、分数等具体信息以本省教育考试相关部门公告、院校公告、报名系统提示为准。 在数字化浪潮下，信息安全已然成为各个行业的关键需求",
+    "id": "7c4c240c260d",
+    "title": "中级注册安全工程师能做什么工作？考下证后这些岗位都能关注",
+    "url": "https://www.eol.cn/kaoshi/jg/zjzcaqgcs/202607/t20260716_2756940.shtml",
+    "summary": "摘要：很多考生准备报考前，都会先了解“2026年中级注册安全工程师能做什么工作”。中级注册安全工程师证书主要面向安全生产管理、安全工程技术、安全咨询服务等相关岗位，适合建筑、化工、矿山、制造、道路运输",
     "source": "安全工程师·就业分析",
     "category": "就业",
-    "published": "2026-07-20T06:06:00.000Z",
-    "image": "https://resources.cepsp.com.cn/static/sysource/bk/img/ffe1ceafa5e39963.jpg",
+    "published": "2026-07-16T09:59:00.000Z",
+    "image": "https://www.eol.cn/kaoshi/“ />\n    <meta property=",
     "score": 50,
     "tags": []
   },
@@ -1076,6 +1064,18 @@
     "category": "就业",
     "published": "2026-08-03T18:50:00.000Z",
     "image": "//n.sinaimg.cn/spider20260804/99/w500h399/20260804/7832-42bac34e734ec705c9e8b948a2b18480.jpg",
+    "score": 45,
+    "tags": []
+  },
+  {
+    "id": "cb04c7e74730",
+    "title": "哪些大学专业才是“真风口”?",
+    "url": "https://www.msn.com/zh-cn/news/other/哪些大学专业才是-真风口/ar-AA29RNoB",
+    "summary": "本文转自：贵州教育报2026本科专业热度榜（TOP20）。2021—2025年薪资涨幅最显著的5个专业",
+    "source": "就业报告",
+    "category": "就业",
+    "published": "2026-08-11T09:39:41.000Z",
+    "image": "",
     "score": 45,
     "tags": []
   },
@@ -1171,7 +1171,6 @@
     "source": "就业创业政策",
     "category": "政策",
     "published": "2026-07-13T09:50:00.000Z",
-    "image": "",
     "score": 40,
     "tags": []
   },
@@ -1184,18 +1183,6 @@
     "category": "就业",
     "published": "2026-08-12T10:15:00.000Z",
     "image": "https://q0.itc.cn/q_70/images03/20260812/47db71948fa145a6a25640ac2517a464.png",
-    "score": 40,
-    "tags": []
-  },
-  {
-    "id": "61bac84076d8",
-    "title": "2019 Java工程师薪资揭秘",
-    "url": "https://soft.zol.com.cn/1214/12141765.html",
-    "summary": "当前，计算机专业毕业生大多从事与Java语言相关的工作。招聘平台数据显示，开发工程师中有超过80%集中在Java方向",
-    "source": "Java开发·就业分析",
-    "category": "就业",
-    "published": "2026-07-19T10:19:00.000Z",
-    "image": "https://icon.zol-img.com.cn/cms/zollogo/bqrcode.jpg",
     "score": 40,
     "tags": []
   },
@@ -1581,6 +1568,42 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/mx-master-4-graphite-lifestyle-gallery-4-new-1088x648.jpg"
   },
   {
+    "id": "4a657278d10e",
+    "title": "济南黄岗路黄河隧道建成通车 两岸通行仅需5分钟",
+    "url": "https://www.chinanews.com.cn/sh/2026/08-25/10683780.shtml",
+    "source": "中新网社会",
+    "category": "社会",
+    "published": "2026-08-25T05:29:03.000Z",
+    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+  },
+  {
+    "id": "adc6f34e7e77",
+    "title": "广西14条河流20个水文站出现超警洪水",
+    "url": "https://www.chinanews.com.cn/sh/2026/08-25/10683790.shtml",
+    "source": "中新网社会",
+    "category": "社会",
+    "published": "2026-08-25T05:27:11.000Z",
+    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+  },
+  {
+    "id": "2da74255eb0f",
+    "title": "广东近五年为残疾人提供基本康复服务逾147万人次",
+    "url": "https://www.chinanews.com.cn/sh/2026/08-25/10683766.shtml",
+    "source": "中新网社会",
+    "category": "社会",
+    "published": "2026-08-25T05:26:25.000Z",
+    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+  },
+  {
+    "id": "df32dda2890d",
+    "title": "首条横跨京冀城市轨道有望年底开通",
+    "url": "https://www.chinanews.com.cn/sh/2026/08-25/10683750.shtml",
+    "source": "中新网社会",
+    "category": "社会",
+    "published": "2026-08-25T04:44:02.000Z",
+    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+  },
+  {
     "id": "50a48522a373",
     "title": "“中国科技游”这把火，值得烧得更旺",
     "url": "https://www.chinanews.com.cn/sh/2026/08-25/10683741.shtml",
@@ -1815,42 +1838,6 @@
     "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
   },
   {
-    "id": "054219fec631",
-    "title": "前7月我国交通运输主要指标保持增长 外贸新航线密集开通",
-    "url": "https://www.chinanews.com.cn/sh/2026/08-25/10683615.shtml",
-    "source": "中新网社会",
-    "category": "社会",
-    "published": "2026-08-25T01:50:37.000Z",
-    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-  },
-  {
-    "id": "3f50e20ae424",
-    "title": "北京发布山洪灾害风险黄色预警",
-    "url": "https://www.chinanews.com.cn/sh/2026/08-25/10683608.shtml",
-    "source": "中新网社会",
-    "category": "社会",
-    "published": "2026-08-25T01:49:51.000Z",
-    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-  },
-  {
-    "id": "3e71d59b50e8",
-    "title": "50余名中外学员齐聚银川共探干旱地区生态治理路径",
-    "url": "https://www.chinanews.com.cn/sh/2026/08-25/10683582.shtml",
-    "source": "中新网社会",
-    "category": "社会",
-    "published": "2026-08-25T01:49:15.000Z",
-    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-  },
-  {
-    "id": "ef501cf20750",
-    "title": "处暑“暑未消” 山东暴雨高温预警齐发",
-    "url": "https://www.chinanews.com.cn/sh/2026/08-25/10683580.shtml",
-    "source": "中新网社会",
-    "category": "社会",
-    "published": "2026-08-25T01:48:57.000Z",
-    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-  },
-  {
     "id": "153ffbe14ec5",
     "title": "摒弃招生“拉踩抹黑”，守护职业教育改革成果",
     "url": "https://www.chinanews.com.cn/edu/2026/08-25/10683529.shtml",
@@ -1975,13 +1962,13 @@
     "published": "2026-08-24T12:41:00.000Z"
   },
   {
-    "id": "1dbfe5195950",
-    "title": "上市公司被曝要求应届生离职与“打螺丝”二选一！老板是前常州女 ...",
-    "url": "https://www.sohu.com/a/1067195565_120157034",
+    "id": "3586ff59e365",
+    "title": "“上市公司开出3万月薪，第一天上班却让我下单刷单”：揭秘新型 ...",
+    "url": "https://finance.sina.com.cn/roll/2026-08-25/doc-inipnuhw1627725.shtml",
     "source": "Bing·应届生求职",
     "category": "就业",
-    "published": "2026-08-24T13:11:00.000Z",
-    "image": "https://q9.itc.cn/q_70/images03/20260825/3a99174505c84c279ea2bc28ec02f934.jpeg"
+    "published": "2026-08-24T12:07:00.000Z",
+    "image": "//n.sinaimg.cn/spider20260825/370/w2140h1430/20260825/6d9a-ad796eb38d1f6534a4da5d9e0df3c130.png"
   },
   {
     "id": "4343a2bec77c",
@@ -1991,15 +1978,6 @@
     "category": "就业",
     "published": "2026-08-24T12:33:00.000Z",
     "image": "https://inews.gtimg.com/om_ls/O6mHTcgdh2UYlQsMn36PxI_6rWUGnoaL3OkJcbTootXaEAA_640330/0"
-  },
-  {
-    "id": "3586ff59e365",
-    "title": "“上市公司开出3万月薪，第一天上班却让我下单刷单”：揭秘新型 ...",
-    "url": "https://finance.sina.com.cn/roll/2026-08-25/doc-inipnuhw1627725.shtml",
-    "source": "Bing·应届生求职",
-    "category": "就业",
-    "published": "2026-08-24T12:07:00.000Z",
-    "image": "//n.sinaimg.cn/spider20260825/370/w2140h1430/20260825/6d9a-ad796eb38d1f6534a4da5d9e0df3c130.png"
   },
   {
     "id": "95bb7b013055",
@@ -2065,9 +2043,9 @@
     "image": "https://cdn.v2ex.com/gravatar/46a0cc6965c31eb8f561e9952462a359?s=73&d=retro"
   },
   {
-    "id": "3ff7404ad0d3",
+    "id": "e4608f40bd68",
     "title": "[代发招聘][广州][15–20K] Golang 后端开发工程师（API 网关 / 协议适配）",
-    "url": "https://www.v2ex.com/t/1236753#reply2",
+    "url": "https://www.v2ex.com/t/1236753#reply4",
     "source": "V2EX·招聘",
     "category": "就业",
     "published": "2026-08-24T03:33:44.000Z",
@@ -2090,6 +2068,33 @@
     "category": "政策",
     "published": "2026-08-24T11:03:00.000Z",
     "image": "https://q8.itc.cn/q_70/images03/20260824/257cd7207adc4ee58ee95f3e3f89d553.jpeg"
+  },
+  {
+    "id": "5c3dea3cd370",
+    "title": "截至7月底全国累计发电装机容量同比增长11.0%",
+    "url": "https://www.chinanews.com.cn/cj/2026/08-25/10683760.shtml",
+    "source": "中新网财经",
+    "category": "财经",
+    "published": "2026-08-25T05:20:17.000Z",
+    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+  },
+  {
+    "id": "1787892c3c70",
+    "title": "报告称上半年中国并购市场交易宗数与规模双双跃升至近三年高位",
+    "url": "https://www.chinanews.com.cn/cj/2026/08-25/10683757.shtml",
+    "source": "中新网财经",
+    "category": "财经",
+    "published": "2026-08-25T05:14:12.000Z",
+    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+  },
+  {
+    "id": "06b830ae87d2",
+    "title": "两千余名“钢铁健儿”北京竞技：比“脑”力 拼灵巧",
+    "url": "https://www.chinanews.com.cn/cj/2026/08-25/10683751.shtml",
+    "source": "中新网财经",
+    "category": "财经",
+    "published": "2026-08-25T04:53:23.000Z",
+    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
   },
   {
     "id": "152caf531ad2",
@@ -2332,33 +2337,6 @@
     "source": "中新网财经",
     "category": "财经",
     "published": "2026-08-24T23:31:56.000Z",
-    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-  },
-  {
-    "id": "fa6c9ab295e2",
-    "title": "智慧生活加速到来！机器人硬核科技，将带来哪些惊喜？",
-    "url": "https://www.chinanews.com.cn/cj/2026/08-25/10683513.shtml",
-    "source": "中新网财经",
-    "category": "财经",
-    "published": "2026-08-24T23:29:26.000Z",
-    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-  },
-  {
-    "id": "50ad1f8af5eb",
-    "title": "国家人形机器人产业标准体系建设指南将公开征求意见",
-    "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683483.shtml",
-    "source": "中新网财经",
-    "category": "财经",
-    "published": "2026-08-24T14:15:25.000Z",
-    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-  },
-  {
-    "id": "2b226aae04bf",
-    "title": "（长江十年行）长江入海处，中国制造从这里驶向深蓝",
-    "url": "https://www.chinanews.com.cn/cj/2026/08-24/10683476.shtml",
-    "source": "中新网财经",
-    "category": "财经",
-    "published": "2026-08-24T13:53:10.000Z",
     "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
   },
   {
