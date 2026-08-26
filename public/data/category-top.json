@@ -1,29 +1,67 @@
 {
+  "科技": [
+    {
+      "id": "a4308e591b38",
+      "title": "Apple is holding its iPhone launch event on September 9",
+      "url": "https://techcrunch.com/2026/08/26/apple-is-holding-its-iphone-launch-event-on-september-9/",
+      "summary": "Apple is holding its iPhone launch event on September 9",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-26T16:53:07.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-26-at-12.45.18-PM.png?resize=1200,927",
+      "score": 80,
+      "tags": []
+    },
+    {
+      "id": "1d0d902fb0ad",
+      "title": "What’s driving Sweden’s startup boom, from Lovable to Legora",
+      "url": "https://techcrunch.com/video/whats-driving-swedens-startup-boom-from-lovable-to-legora/",
+      "summary": "What’s driving Sweden’s startup boom, from Lovable to Legora",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-26T16:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1193266208.jpg?resize=1200,800",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "72bcbc260cb7",
+      "title": "Flipboard acquires Graze, the feed builder working to monetize the open social web",
+      "url": "https://techcrunch.com/2026/08/26/flipboard-acquires-graze-the-feed-builder-working-to-monetize-the-open-social-web/",
+      "summary": "Flipboard acquires Graze, the feed builder working to monetize the open social web",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-26T18:35:40.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/05/Bluesky-in-Flipboard-logos.png?resize=1200,738",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "2c217d531135",
+      "title": "Medical device maker Boston Scientific says a cyberattack is causing a &#8216;global disruption&#8217; to its operations",
+      "url": "https://techcrunch.com/2026/08/26/medical-device-maker-boston-scientific-says-a-cyberattack-is-causing-a-global-disruption-to-its-operations/",
+      "summary": "Medical device maker Boston Scientific says a cyberattack is causing a &#8216;global disruption&#821",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-26T18:23:09.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/boston-scientific-524267992.jpg?resize=1200,772",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "6350f80b5a17",
+      "title": "Meta agrees to sweeping changes to restrict kids&#8217; access to its apps as part of settlement with states",
+      "url": "https://techcrunch.com/2026/08/26/meta-agrees-to-sweeping-changes-to-restrict-kids-access-to-its-apps-as-part-of-settlement-with-states/",
+      "summary": "Meta agrees to sweeping changes to restrict kids&#8217; access to its apps as part of settlement wit",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-26T16:03:14.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2233066222.jpg?resize=1200,800",
+      "score": 65,
+      "tags": []
+    }
+  ],
   "AI": [
-    {
-      "id": "cbe393ca0644",
-      "title": "Radar makes podcasts searchable — and usable by AI agents",
-      "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
-      "summary": "Radar makes podcasts searchable — and usable by AI agents",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-26T15:47:28.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/05/pexels-magda-ehlers-1054713.jpg?resize=1200,800",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "11d877801143",
-      "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
-      "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
-      "summary": "Ex-Meta scientists want to bring visual AI to the factory floor",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-26T15:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Perceptron-Team-Photo.jpg?resize=1200,800",
-      "score": 80,
-      "tags": []
-    },
     {
       "id": "f5e441e0e9f8",
       "title": "Gatik raises $200M to scale AI-powered autonomous freight",
@@ -59,65 +97,89 @@
       "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/mit-ai-extreme-weather-forecasts-predictive-modelling-machine-learning-risk-assessment-forecasting-flood-prediction.jpg",
       "score": 70,
       "tags": []
+    },
+    {
+      "id": "008755ae7365",
+      "title": "US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate",
+      "url": "https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/",
+      "summary": "US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-26T17:01:05.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/china-hacker-computer-flag.jpg?resize=1200,675",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "5f1d04b47c3e",
+      "title": "XPENG IRON humanoid robot draws record physical AI funding",
+      "url": "https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-08-24T15:53:53.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/xpeng-iron-humanoid-robot-physical-ai-model-artificial-intelligence-china-platform-scaled.jpeg"
     }
   ],
-  "科技": [
+  "开发": [
     {
-      "id": "1d0d902fb0ad",
-      "title": "What’s driving Sweden’s startup boom, from Lovable to Legora",
-      "url": "https://techcrunch.com/video/whats-driving-swedens-startup-boom-from-lovable-to-legora/",
-      "summary": "What’s driving Sweden’s startup boom, from Lovable to Legora",
+      "id": "0c427da04e9f",
+      "title": "Capital F closes $17M debut fund with goal to back the future of the &#8216;female economy&#8217;",
+      "url": "https://techcrunch.com/2026/08/26/capital-f-closes-17m-debut-fund-with-goal-to-back-the-future-of-the-female-economy/",
+      "summary": "Capital F closes $17M debut fund with goal to back the future of the &#8216;female economy&#8217;",
       "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-26T16:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1193266208.jpg?resize=1200,800",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "faacc3467a3d",
-      "title": "CISA confirms hackers targeted over 100 US water systems during July",
-      "url": "https://techcrunch.com/2026/08/26/cisa-confirms-hackers-targeted-over-100-us-water-systems-during-july/",
-      "summary": "CISA confirms hackers targeted over 100 US water systems during July",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-26T14:31:05.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/water-waste-water-2099931275.jpg?resize=1200,917",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "6350f80b5a17",
-      "title": "Meta agrees to sweeping changes to restrict kids&#8217; access to its apps as part of settlement with states",
-      "url": "https://techcrunch.com/2026/08/26/meta-agrees-to-sweeping-changes-to-restrict-kids-access-to-its-apps-as-part-of-settlement-with-states/",
-      "summary": "Meta agrees to sweeping changes to restrict kids&#8217; access to its apps as part of settlement wit",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-26T16:03:14.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2233066222.jpg?resize=1200,800",
+      "category": "开发",
+      "published": "2026-08-26T17:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Margaret-Coblentz-and-Dawn-Dobras.png?w=934",
       "score": 65,
       "tags": []
     },
     {
-      "id": "315c090a4574",
-      "title": "Ring introduces a new encryption standard, makes it the default for cloud features",
-      "url": "https://techcrunch.com/2026/08/26/ring-introduces-a-new-encryption-standard-makes-it-the-default-for-cloud-features/",
-      "summary": "Ring introduces a new encryption standard, makes it the default for cloud features",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-26T14:44:33.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/12/20250714_lifestyle_wireddoorbellprogen3_sn_frontdoor_RGB.jpeg?resize=1200,675",
-      "score": 65,
+      "id": "075a924f3da3",
+      "title": "多个 AI 智能体“同住”一台 EC2：AgentCore 推出持久计算",
+      "url": "https://www.infoq.cn/article/2IBWc7BuB2qoGao5tlQT?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/2IBWc7BuB2qoGao5tlQT",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-24T15:43:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/76/f5/76950baced5de35528fbfb7743b036f5.jpg",
+      "score": 60,
       "tags": []
     },
     {
-      "id": "f3d6254f8558",
-      "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
-      "url": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-26T14:19:29.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2221390508.jpg?w=1024"
+      "id": "1e39281dbc6e",
+      "title": "Next.js 16.3 发布：即时导航、开发内存最高降低 90%，构建速度大幅提升",
+      "url": "https://www.infoq.cn/article/NedlVNN6E9uWbIE3WV07?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/NedlVNN6E9uWbIE3WV07",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-24T17:15:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/59/9c/5950b3e6ca27b88ea1c187c955a18b9c.jpg",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "cc87898e1a06",
+      "title": "科技爱好者周刊（第 409 期）：程序员的职业未来",
+      "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html",
+      "summary": "这里记录每周值得分享的科技内容，周五发布",
+      "source": "阮一峰",
+      "category": "开发",
+      "published": "2026-08-20T23:53:54.000Z",
+      "image": "",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "ab1a5fd903f5",
+      "title": "“我们破坏了你们所有的应用”：React Router v8 引发争议，有开发者转向 TanStack Router",
+      "url": "https://www.infoq.cn/article/yEKcMO03wXvuyZpj1C1d?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/yEKcMO03wXvuyZpj1C1d",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-24T14:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/72/87/725bf3c4f78b9a5911f04408099e0687.jpg",
+      "score": 50,
+      "tags": []
     }
   ],
   "就业": [
@@ -182,65 +244,6 @@
       "tags": []
     }
   ],
-  "开发": [
-    {
-      "id": "075a924f3da3",
-      "title": "多个 AI 智能体“同住”一台 EC2：AgentCore 推出持久计算",
-      "url": "https://www.infoq.cn/article/2IBWc7BuB2qoGao5tlQT?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/2IBWc7BuB2qoGao5tlQT",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-08-24T15:43:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/76/f5/76950baced5de35528fbfb7743b036f5.jpg",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "cc87898e1a06",
-      "title": "科技爱好者周刊（第 409 期）：程序员的职业未来",
-      "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html",
-      "summary": "这里记录每周值得分享的科技内容，周五发布",
-      "source": "阮一峰",
-      "category": "开发",
-      "published": "2026-08-20T23:53:54.000Z",
-      "image": "",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "ab1a5fd903f5",
-      "title": "“我们破坏了你们所有的应用”：React Router v8 引发争议，有开发者转向 TanStack Router",
-      "url": "https://www.infoq.cn/article/yEKcMO03wXvuyZpj1C1d?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/yEKcMO03wXvuyZpj1C1d",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-08-24T14:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/72/87/725bf3c4f78b9a5911f04408099e0687.jpg",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "51caea4d7607",
-      "title": "GitHub 公开预览 Stacked Pull Requests 功能",
-      "url": "https://www.infoq.cn/article/zdc3HzpvqA96jwWA6lGb?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/zdc3HzpvqA96jwWA6lGb",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-08-24T12:19:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/98/9b/98ba8b43c436778f003ba466e461d79b.jpg",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "81286567d1f9",
-      "title": "英伟达公布 Vera Rubin 最新进展：推理、网络和定制芯片全面升级",
-      "url": "https://www.infoq.cn/article/3F8I0zcLfC5wcENtLASD?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-08-26T17:44:28.000Z",
-      "image": "https://static001.infoq.cn/resource/image/ce/53/cee3c19f5b47e4yy6de0d6dc95cba753.png"
-    }
-  ],
   "政策": [
     {
       "id": "148659117e79",
@@ -291,14 +294,13 @@
       "tags": []
     },
     {
-      "id": "5f002ebfb466",
-      "title": "旗市快讯丨鸿雁归扎聚青春 政策护航耕北疆——扎赉诺尔区返乡大 ...",
-      "url": "https://www.sohu.com/a/1065320702_121106854",
-      "summary": "为扎实做好高校毕业生就业创业服务工作，精准破解返乡大学生政策不清、就业迷茫、创业无方等痛点问题，近日，扎赉诺尔区就业服务中心联合共青团扎赉诺尔区委员会精心筹备的鸿雁归“扎”&#183;青耕北疆扎赉诺尔",
-      "source": "Bing·大学生创业扶持政策",
+      "id": "f5cb39eaf8f6",
+      "title": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
+      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202606/t20260602_1438600.html",
+      "summary": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
+      "source": "教育部",
       "category": "政策",
-      "published": "2026-08-20T07:19:00.000Z",
-      "image": "https://q8.itc.cn/q_70/images03/20260820/939d8121a6654cb99f61463482800b2a.png",
+      "published": "2026-06-02T00:00:00.000Z",
       "score": 50,
       "tags": []
     }
