@@ -1,5 +1,67 @@
 {
+  "AI": [
+    {
+      "id": "0f701375c211",
+      "title": "OpenAI releases its official report on the Hugging Face breach",
+      "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
+      "summary": "OpenAI releases its official report on the Hugging Face breach",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-26T19:05:22.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+      "score": 85,
+      "tags": []
+    },
+    {
+      "id": "838ca76e929f",
+      "title": "Google&#8217;s Gemini has a branding problem, and so does the rest of AI",
+      "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
+      "summary": "Google&#8217;s Gemini has a branding problem, and so does the rest of AI",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-26T19:37:34.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/gemini-spark-GettyImages-2276583186-1.jpg?w=1024",
+      "score": 80,
+      "tags": []
+    },
+    {
+      "id": "a65015085aa1",
+      "title": "How do we explain OpenAI&#8217;s executive exodus?",
+      "url": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
+      "summary": "How do we explain OpenAI&#8217;s executive exodus",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-26T19:34:04.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2182154299.jpg?w=1024",
+      "score": 80,
+      "tags": []
+    },
+    {
+      "id": "008755ae7365",
+      "title": "US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate",
+      "url": "https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/",
+      "summary": "US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-26T17:01:05.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/china-hacker-computer-flag.jpg?resize=1200,675",
+      "score": 65,
+      "tags": []
+    }
+  ],
   "科技": [
+    {
+      "id": "e8aad19178f2",
+      "title": "Anthropic continues compute-gobbling streak in $45 billion deal with Nscale",
+      "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+      "summary": "Anthropic continues compute-gobbling streak in $45 billion deal with Nscale",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-26T21:37:39.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
+      "score": 75,
+      "tags": []
+    },
     {
       "id": "a4308e591b38",
       "title": "Apple is holding its iPhone launch event on September 9",
@@ -9,18 +71,6 @@
       "category": "科技",
       "published": "2026-08-26T16:53:07.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-26-at-12.45.18-PM.png?resize=1200,927",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "1d0d902fb0ad",
-      "title": "What’s driving Sweden’s startup boom, from Lovable to Legora",
-      "url": "https://techcrunch.com/video/whats-driving-swedens-startup-boom-from-lovable-to-legora/",
-      "summary": "What’s driving Sweden’s startup boom, from Lovable to Legora",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-26T16:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1193266208.jpg?resize=1200,800",
       "score": 75,
       "tags": []
     },
@@ -57,67 +107,8 @@
       "category": "科技",
       "published": "2026-08-26T16:03:14.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2233066222.jpg?resize=1200,800",
-      "score": 65,
+      "score": 60,
       "tags": []
-    }
-  ],
-  "AI": [
-    {
-      "id": "f5e441e0e9f8",
-      "title": "Gatik raises $200M to scale AI-powered autonomous freight",
-      "url": "https://www.artificialintelligence-news.com/news/gatik-200m-ai-autonomous-freight/",
-      "summary": "Autonomous trucking company Gatik has raised $200 million in Series D funding to expand its driverle",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-08-26T10:00:00.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/Gatik-raises-200M-to-scale-AI-powered-autonomous-freight-scaled-e1787721024660.jpg",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "813c205aa1a4",
-      "title": "NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots",
-      "url": "https://www.artificialintelligence-news.com/news/nvidia-jetson-orin-nano-2-physical-ai-to-drones-and-robots/",
-      "summary": "NVIDIA has unveiled the Jetson Orin Nano 2, an edge robotics computer aimed at bringing physical AI ",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-08-26T09:08:11.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/nvidia-jetson-orin-nano-2-physical-ai-edge-computing-robotics-artificial-intelligence.jpg",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "afa866e58f41",
-      "title": "MIT AI forecasts extreme weather without historical data",
-      "url": "https://www.artificialintelligence-news.com/news/mit-ai-forecasts-extreme-weather-without-historical-data/",
-      "summary": "MIT engineers have built an AI tool that forecasts extreme weather without training on historical di",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-08-25T15:46:06.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/mit-ai-extreme-weather-forecasts-predictive-modelling-machine-learning-risk-assessment-forecasting-flood-prediction.jpg",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "008755ae7365",
-      "title": "US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate",
-      "url": "https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/",
-      "summary": "US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-26T17:01:05.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/china-hacker-computer-flag.jpg?resize=1200,675",
-      "score": 65,
-      "tags": []
-    },
-    {
-      "id": "5f1d04b47c3e",
-      "title": "XPENG IRON humanoid robot draws record physical AI funding",
-      "url": "https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-08-24T15:53:53.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/xpeng-iron-humanoid-robot-physical-ai-model-artificial-intelligence-china-platform-scaled.jpeg"
     }
   ],
   "开发": [
@@ -232,14 +223,14 @@
       "tags": []
     },
     {
-      "id": "fff53dbc1de7",
-      "title": "报告：人工智能、数据工程师以三成招聘增速领跑高增长职业",
-      "url": "https://news.qq.com/rain/a/20260617A05FN300",
-      "summary": "哪些行业发展增速位居前列。何种专业毕业生薪资水平领先",
-      "source": "数据科学·就业分析",
+      "id": "2bfed594740c",
+      "title": "agent Ma--你的全栈开发工程师，即将亮相WAIC2026上海世博主馆",
+      "url": "https://finance.ifeng.com/c/8uXkWt0kBpX",
+      "summary": "2026 世界人工智能大会(WAIC2026)开幕在即, agent Ma--“全栈开发工程师” AI开发平台(AI软件工厂) 将于上海世博主馆正式亮相。不同于市场上主流的代码辅助工具,agent M",
+      "source": "全栈工程师·就业分析",
       "category": "就业",
-      "published": "2026-06-17T07:00:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/OuI7ph7ISA3EE-ML4ZAaByrlSVBplTAHvIC0xD4xu2L8EAA_640330/0",
+      "published": "2026-07-06T11:07:00.000Z",
+      "image": "https://x0.ifengimg.com/res/2026/F39C75FC532B5F0CCE43CFA7546B5EEFC20915BD_size896_w650_h352.png",
       "score": 60,
       "tags": []
     }
@@ -294,13 +285,14 @@
       "tags": []
     },
     {
-      "id": "f5cb39eaf8f6",
-      "title": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
-      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202606/t20260602_1438600.html",
-      "summary": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
-      "source": "教育部",
+      "id": "5f002ebfb466",
+      "title": "旗市快讯丨鸿雁归扎聚青春 政策护航耕北疆——扎赉诺尔区返乡大 ...",
+      "url": "https://www.sohu.com/a/1065320702_121106854",
+      "summary": "为扎实做好高校毕业生就业创业服务工作，精准破解返乡大学生政策不清、就业迷茫、创业无方等痛点问题，近日，扎赉诺尔区就业服务中心联合共青团扎赉诺尔区委员会精心筹备的鸿雁归“扎”&#183;青耕北疆扎赉诺尔",
+      "source": "Bing·大学生创业扶持政策",
       "category": "政策",
-      "published": "2026-06-02T00:00:00.000Z",
+      "published": "2026-08-20T07:19:00.000Z",
+      "image": "https://q8.itc.cn/q_70/images03/20260820/939d8121a6654cb99f61463482800b2a.png",
       "score": 50,
       "tags": []
     }
@@ -369,6 +361,15 @@
   ],
   "财经": [
     {
+      "id": "dd5e1fc0c6b6",
+      "title": "智能体支付应用迎来行业自律公约 如何给AI支付立规矩",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-27/10684897.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-08-26T22:19:44.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
       "id": "642adfc55596",
       "title": "筑牢技术底座 “人工智能+”加出新速度、新高度、新成效催生经济新增长点",
       "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684869.shtml",
@@ -402,15 +403,6 @@
       "source": "中新网财经",
       "category": "财经",
       "published": "2026-08-26T13:35:22.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "cd9cd9767e3d",
-      "title": "IVD项目入选联合国人工智能治理全球对话伙伴平台",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684818.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-08-26T12:55:22.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]

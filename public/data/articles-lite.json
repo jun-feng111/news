@@ -1,5 +1,53 @@
 [
   {
+    "id": "0f701375c211",
+    "title": "OpenAI releases its official report on the Hugging Face breach",
+    "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
+    "summary": "OpenAI releases its official report on the Hugging Face breach",
+    "source": "TechCrunch",
+    "category": "AI",
+    "published": "2026-08-26T19:05:22.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+    "score": 85,
+    "tags": []
+  },
+  {
+    "id": "838ca76e929f",
+    "title": "Google&#8217;s Gemini has a branding problem, and so does the rest of AI",
+    "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
+    "summary": "Google&#8217;s Gemini has a branding problem, and so does the rest of AI",
+    "source": "TechCrunch",
+    "category": "AI",
+    "published": "2026-08-26T19:37:34.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/gemini-spark-GettyImages-2276583186-1.jpg?w=1024",
+    "score": 80,
+    "tags": []
+  },
+  {
+    "id": "a65015085aa1",
+    "title": "How do we explain OpenAI&#8217;s executive exodus?",
+    "url": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
+    "summary": "How do we explain OpenAI&#8217;s executive exodus",
+    "source": "TechCrunch",
+    "category": "AI",
+    "published": "2026-08-26T19:34:04.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2182154299.jpg?w=1024",
+    "score": 80,
+    "tags": []
+  },
+  {
+    "id": "e8aad19178f2",
+    "title": "Anthropic continues compute-gobbling streak in $45 billion deal with Nscale",
+    "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+    "summary": "Anthropic continues compute-gobbling streak in $45 billion deal with Nscale",
+    "source": "TechCrunch",
+    "category": "科技",
+    "published": "2026-08-26T21:37:39.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
+    "score": 75,
+    "tags": []
+  },
+  {
     "id": "a4308e591b38",
     "title": "Apple is holding its iPhone launch event on September 9",
     "url": "https://techcrunch.com/2026/08/26/apple-is-holding-its-iphone-launch-event-on-september-9/",
@@ -8,55 +56,7 @@
     "category": "科技",
     "published": "2026-08-26T16:53:07.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-26-at-12.45.18-PM.png?resize=1200,927",
-    "score": 80,
-    "tags": []
-  },
-  {
-    "id": "f5e441e0e9f8",
-    "title": "Gatik raises $200M to scale AI-powered autonomous freight",
-    "url": "https://www.artificialintelligence-news.com/news/gatik-200m-ai-autonomous-freight/",
-    "summary": "Autonomous trucking company Gatik has raised $200 million in Series D funding to expand its driverle",
-    "source": "AI News",
-    "category": "AI",
-    "published": "2026-08-26T10:00:00.000Z",
-    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/Gatik-raises-200M-to-scale-AI-powered-autonomous-freight-scaled-e1787721024660.jpg",
     "score": 75,
-    "tags": []
-  },
-  {
-    "id": "813c205aa1a4",
-    "title": "NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots",
-    "url": "https://www.artificialintelligence-news.com/news/nvidia-jetson-orin-nano-2-physical-ai-to-drones-and-robots/",
-    "summary": "NVIDIA has unveiled the Jetson Orin Nano 2, an edge robotics computer aimed at bringing physical AI ",
-    "source": "AI News",
-    "category": "AI",
-    "published": "2026-08-26T09:08:11.000Z",
-    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/nvidia-jetson-orin-nano-2-physical-ai-edge-computing-robotics-artificial-intelligence.jpg",
-    "score": 75,
-    "tags": []
-  },
-  {
-    "id": "1d0d902fb0ad",
-    "title": "What’s driving Sweden’s startup boom, from Lovable to Legora",
-    "url": "https://techcrunch.com/video/whats-driving-swedens-startup-boom-from-lovable-to-legora/",
-    "summary": "What’s driving Sweden’s startup boom, from Lovable to Legora",
-    "source": "TechCrunch",
-    "category": "科技",
-    "published": "2026-08-26T16:00:00.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1193266208.jpg?resize=1200,800",
-    "score": 75,
-    "tags": []
-  },
-  {
-    "id": "afa866e58f41",
-    "title": "MIT AI forecasts extreme weather without historical data",
-    "url": "https://www.artificialintelligence-news.com/news/mit-ai-forecasts-extreme-weather-without-historical-data/",
-    "summary": "MIT engineers have built an AI tool that forecasts extreme weather without training on historical di",
-    "source": "AI News",
-    "category": "AI",
-    "published": "2026-08-25T15:46:06.000Z",
-    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/mit-ai-extreme-weather-forecasts-predictive-modelling-machine-learning-risk-assessment-forecasting-flood-prediction.jpg",
-    "score": 70,
     "tags": []
   },
   {
@@ -108,18 +108,6 @@
     "tags": []
   },
   {
-    "id": "6350f80b5a17",
-    "title": "Meta agrees to sweeping changes to restrict kids&#8217; access to its apps as part of settlement with states",
-    "url": "https://techcrunch.com/2026/08/26/meta-agrees-to-sweeping-changes-to-restrict-kids-access-to-its-apps-as-part-of-settlement-with-states/",
-    "summary": "Meta agrees to sweeping changes to restrict kids&#8217; access to its apps as part of settlement wit",
-    "source": "TechCrunch",
-    "category": "科技",
-    "published": "2026-08-26T16:03:14.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2233066222.jpg?resize=1200,800",
-    "score": 65,
-    "tags": []
-  },
-  {
     "id": "c76b56413d4a",
     "title": "AI人才缺口超500万！有最新报告称，AI抢人逻辑悄悄变了：架构师新发 ...",
     "url": "https://news.qq.com/rain/a/20260718A08XHR00",
@@ -129,6 +117,18 @@
     "published": "2026-07-18T11:05:00.000Z",
     "image": "https://inews.gtimg.com/om_ls/Ows_BB25Bhnf-wlGWgFoIkmLSVd_6MJWCT8-yw6C3HS10AA_640330/0",
     "score": 65,
+    "tags": []
+  },
+  {
+    "id": "6350f80b5a17",
+    "title": "Meta agrees to sweeping changes to restrict kids&#8217; access to its apps as part of settlement with states",
+    "url": "https://techcrunch.com/2026/08/26/meta-agrees-to-sweeping-changes-to-restrict-kids-access-to-its-apps-as-part-of-settlement-with-states/",
+    "summary": "Meta agrees to sweeping changes to restrict kids&#8217; access to its apps as part of settlement wit",
+    "source": "TechCrunch",
+    "category": "科技",
+    "published": "2026-08-26T16:03:14.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2233066222.jpg?resize=1200,800",
+    "score": 60,
     "tags": []
   },
   {
@@ -192,18 +192,6 @@
     "tags": []
   },
   {
-    "id": "fff53dbc1de7",
-    "title": "报告：人工智能、数据工程师以三成招聘增速领跑高增长职业",
-    "url": "https://news.qq.com/rain/a/20260617A05FN300",
-    "summary": "哪些行业发展增速位居前列。何种专业毕业生薪资水平领先",
-    "source": "数据科学·就业分析",
-    "category": "就业",
-    "published": "2026-06-17T07:00:00.000Z",
-    "image": "https://inews.gtimg.com/om_ls/OuI7ph7ISA3EE-ML4ZAaByrlSVBplTAHvIC0xD4xu2L8EAA_640330/0",
-    "score": 60,
-    "tags": []
-  },
-  {
     "id": "2bfed594740c",
     "title": "agent Ma--你的全栈开发工程师，即将亮相WAIC2026上海世博主馆",
     "url": "https://finance.ifeng.com/c/8uXkWt0kBpX",
@@ -228,14 +216,14 @@
     "tags": []
   },
   {
-    "id": "6bce31a16351",
-    "title": "夜读｜这届应届生，被困在无数次“线上评测”里",
-    "url": "https://news.qq.com/rain/a/20260820A08WFT00",
-    "summary": "小升初、中考、高考、考研……无数次考试以后，应届毕业生终于准备叩想理想职业的大门，却没想到摆在他们面前的，依然是无穷无尽的评测。有相关数据显示，有超过60%以上大中型企业将线上笔试纳入校招流程，此外随",
-    "source": "Bing·应届生求职",
+    "id": "e1328f99c309",
+    "title": "金九定胜负！秋招想稳上岸，9 月抢跑才是王道",
+    "url": "https://www.sohu.com/a/1066910016_121124320",
+    "summary": "又到一年一度的金九银十秋招季，很多同学都有个误区：秋招战线超长，慢慢准备完全来得及。 但真实秋招数据，真的会狠狠打脸拖延党",
+    "source": "Bing·秋招",
     "category": "就业",
-    "published": "2026-08-20T13:00:00.000Z",
-    "image": "https://inews.gtimg.com/news_ls/OapRD9cG-W3xb5K1f0yMjkBckO4Wo3Jp6EW6b6lRXMR3cAA_640330/0",
+    "published": "2026-08-24T09:04:00.000Z",
+    "image": "https://q7.itc.cn/q_70/images03/20260824/7c05b8c2db3c4c488233d17424579072.png",
     "score": 55,
     "tags": []
   },
@@ -260,6 +248,18 @@
     "category": "就业",
     "published": "2026-08-22T16:21:29.000Z",
     "image": "https://cdn.v2ex.com/avatar/63ae/e833/610691_xlarge.png?m=1785339539",
+    "score": 55,
+    "tags": []
+  },
+  {
+    "id": "b2373447be98",
+    "title": "如何筛选车载测试培训 成都本地正规机构判断维度",
+    "url": "https://www.sohu.com/a/1066344527_122712809",
+    "summary": "随着新能源与智能网联汽车产业的快速发展，车载相关技术迭代速度不断加快，行业对具备系统测试能力的实操型人才需求持续攀升。信息均来自公开数据资料，2024年国内智能网联汽车相关岗位人才缺口已突破数十万人，",
+    "source": "Bing·测试运维薪资",
+    "category": "就业",
+    "published": "2026-08-22T19:40:00.000Z",
+    "image": "http://sohu-media.bjcnc.scs.sohucs.com/web/static/images/sohu_logo.png",
     "score": 55,
     "tags": []
   },
@@ -348,13 +348,13 @@
     "tags": []
   },
   {
-    "id": "96f88ec8d24c",
-    "title": "2026年AI产品经理还是个好选择吗？读懂行业真实趋势！",
-    "url": "https://www.sohu.com/a/1065817296_100062024",
-    "summary": "2026年过半，关于AI产品经理的讨论从未像现在这样热烈又充满分歧。有人高呼“产品经理正在消失”，也有人断言“AI产品经理将成为最稀缺的人才”",
+    "id": "2a7a23f3cfb1",
+    "title": "一名 AI 产品经理，从需求到上线经历什么",
+    "url": "https://www.msn.com/zh-cn/news/other/一名-ai-产品经理-从需求到上线经历什么/ar-AA2aqsps",
+    "summary": "中型企业内部场景：客服每日处理大量重复问题，新人培训成本高，常被问及功能操作、X003 报错，希望 AI 产品经理落地员工智能助手。这就是需求的起点 ",
     "source": "就业报告",
     "category": "就业",
-    "published": "2026-08-21T08:51:00.000Z",
+    "published": "2026-08-18T18:41:46.000Z",
     "image": "",
     "score": 55,
     "tags": []
@@ -408,6 +408,18 @@
     "tags": []
   },
   {
+    "id": "41026c1f80e8",
+    "title": "2026年物联网嵌入式 IT 培训怎么选？高就业率靠谱机构推荐",
+    "url": "https://www.csdn.net/article/2026-08-08/163586858",
+    "summary": "2026年，物联网与人工智能融合持续推高嵌入式人才需求，零基础跨行与技术深造人群最关心的是：如何判断一家机构值得托付。汉码未来作为国内主打5人精品面授小班的IT培训机构，其物联网嵌入式（人工智能）课程",
+    "source": "嵌入式开发·就业分析",
+    "category": "就业",
+    "published": "2026-08-08T04:20:00.000Z",
+    "image": "https://csdnimg.cn/release/cmsfe/public/img/code-Icon.9ffdd99c.jpg",
+    "score": 55,
+    "tags": []
+  },
+  {
     "id": "55dfb718c4be",
     "title": "如何科学做好中小学、幼儿园学段衔接？“十问十答”来了",
     "url": "https://www.chinanews.com.cn/edu/2026/08-24/10683227.shtml",
@@ -456,6 +468,54 @@
     "tags": []
   },
   {
+    "id": "ff42e57afb17",
+    "title": "【校园招聘】甘肃省化工研究院有限责任公司2027届校园招聘",
+    "url": "https://www.sohu.com/a/1067003745_121124036",
+    "summary": "甘肃省化工研究院有限责任公司前身是创建于1962年的第五机械工业部第五研究所，主要从事高能炸药的研制工作，作为“两弹一星”参战单位之一，曾获得省部级以上科技成果185项，为我国国防工业的发展和“两弹一",
+    "source": "Bing·校园招聘",
+    "category": "就业",
+    "published": "2026-08-24T13:14:00.000Z",
+    "image": "//q3.itc.cn/q_70/images03/20260824/e07a3192e24347eeaf58a5d9054143db.png",
+    "score": 50,
+    "tags": []
+  },
+  {
+    "id": "26a1cf20d392",
+    "title": "海天集团2027届校园招聘正式启动，年轻人才的机会来了！",
+    "url": "https://www.sohu.com/a/1066609399_121956425",
+    "summary": "在当今竞争激烈的职场环境中，校园招聘成为了每年学生们关注的焦点。近日，海天集团宣布正式启动2027届校园招聘，吸引了众多在校大学生的目光",
+    "source": "Bing·校园招聘",
+    "category": "就业",
+    "published": "2026-08-23T15:04:00.000Z",
+    "image": "",
+    "score": 50,
+    "tags": []
+  },
+  {
+    "id": "dc8c32ac964c",
+    "title": "公安县教育系统2026年校园招聘体检、考察合格人员及岗位调整公告",
+    "url": "https://news.qq.com/rain/a/20260824A07TUF00",
+    "summary": "根据《公安县教育系统2026年校园招聘公告》《公安县教育系统2026年招聘体检、考察公告》要求，现将体检、考察结果及岗位调整情况公示如下：一、体检、考察合格人员名单具体人员名单见附件。二、岗位调整情况",
+    "source": "Bing·校园招聘",
+    "category": "就业",
+    "published": "2026-08-24T08:28:00.000Z",
+    "image": "https://inews.gtimg.com/om_ls/OYGcQfoZ6H9VHh2sHMStzN9bgpeZ5F2WHztXNqP23DjIsAA_640330/0",
+    "score": 50,
+    "tags": []
+  },
+  {
+    "id": "171a9f4c6ff0",
+    "title": "2026秋招“最难”是假象——测试开发岗需求激增30%，大厂薪资包涨了 ...",
+    "url": "https://www.sohu.com/a/1066778981_121356541",
+    "summary": "上周五晚上，一个做了8年测试的老朋友给我打电话。在一家二线互联网公司做了5年功能测试，月薪从12K涨到15K，然后——就没有然后了",
+    "source": "Bing·秋招",
+    "category": "就业",
+    "published": "2026-08-24T04:37:00.000Z",
+    "image": "//q4.itc.cn/images01/20260824/2dd37eadf3c84507a75933b843f4a972.png",
+    "score": 50,
+    "tags": []
+  },
+  {
     "id": "b6faa23732f3",
     "title": "1270万应届生涌入求职市场，面面星如何改写找工作这门生意",
     "url": "https://finance.sina.com.cn/tech/roll/2026-08-20/doc-ininyfvr8759521.shtml",
@@ -475,6 +535,18 @@
     "source": "Bing·应届生求职",
     "category": "就业",
     "published": "2026-08-23T17:00:00.000Z",
+    "score": 50,
+    "tags": []
+  },
+  {
+    "id": "ac48929790dd",
+    "title": "海外 BD-湾区 Sunnyvale， base 在上海来湾区出差也可（但要有这边客户资源）",
+    "url": "https://www.v2ex.com/t/1236928#reply0",
+    "summary": "海外 BD-湾区 Sunnyvale， base 在上海来湾区出差也可（但要有这边客户资源）",
+    "source": "V2EX·招聘",
+    "category": "就业",
+    "published": "2026-08-24T21:24:58.000Z",
+    "image": "https://cdn.v2ex.com/avatar/4c83/08d4/221578_xlarge.png?m=1762788791",
     "score": 50,
     "tags": []
   },
@@ -647,6 +719,30 @@
     "tags": []
   },
   {
+    "id": "5f002ebfb466",
+    "title": "旗市快讯丨鸿雁归扎聚青春 政策护航耕北疆——扎赉诺尔区返乡大 ...",
+    "url": "https://www.sohu.com/a/1065320702_121106854",
+    "summary": "为扎实做好高校毕业生就业创业服务工作，精准破解返乡大学生政策不清、就业迷茫、创业无方等痛点问题，近日，扎赉诺尔区就业服务中心联合共青团扎赉诺尔区委员会精心筹备的鸿雁归“扎”&#183;青耕北疆扎赉诺尔",
+    "source": "Bing·大学生创业扶持政策",
+    "category": "政策",
+    "published": "2026-08-20T07:19:00.000Z",
+    "image": "https://q8.itc.cn/q_70/images03/20260820/939d8121a6654cb99f61463482800b2a.png",
+    "score": 50,
+    "tags": []
+  },
+  {
+    "id": "695513fac2ed",
+    "title": "全国省级层面首部促进青年创业法规施行——重庆给了创业青年哪些 ...",
+    "url": "https://news.youth.cn/gn/202608/t20260820_16824404.htm",
+    "summary": "“创业多年，我深刻体会到青年创业最大的痛点不是缺少创意和产品，而是创业路上的不确定性、扶持政策的碎片化。”8月15日，重庆缙泉烧文化艺术有限公司总经理陈勇告诉中青报&#183;中青网记者，作为一名深耕",
+    "source": "Bing·大学生创业扶持政策",
+    "category": "政策",
+    "published": "2026-08-19T23:31:00.000Z",
+    "image": "https://news.youth.cn/images/2017930youth_logo.png",
+    "score": 50,
+    "tags": []
+  },
+  {
     "id": "ab1a5fd903f5",
     "title": "“我们破坏了你们所有的应用”：React Router v8 引发争议，有开发者转向 TanStack Router",
     "url": "https://www.infoq.cn/article/yEKcMO03wXvuyZpj1C1d?utm_source=rss&amp;utm_medium=article",
@@ -678,6 +774,7 @@
     "source": "教育部",
     "category": "政策",
     "published": "2026-06-02T00:00:00.000Z",
+    "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
     "score": 50,
     "tags": []
   },
@@ -754,9 +851,21 @@
     "tags": []
   },
   {
-    "id": "f7d555e2d56f",
+    "id": "892324563bd1",
+    "title": "人力资源社会保障部 财政部印发通知 推动做好2026年高校毕业生等 ...",
+    "url": "https://cn.chinadaily.com.cn/a/202603/20/WS69bd0a04a310942cc49a433b.html",
+    "summary": "中国日报3月20日电（记者 李磊）为深入贯彻落实党中央关于稳就业、稳企业、稳市场、稳预期的决策部署，强化就业优先导向，推动更多资金资源投资于人，加强高校毕业生就业政策和服务高品质供给，日前，人力资源社",
+    "source": "就业创业政策",
+    "category": "政策",
+    "published": "2026-03-20T09:48:00.000Z",
+    "image": "https://img3.chinadaily.com.cn/images/202603/20/69bd0a30a310942c0d5ea92f.jpeg",
+    "score": 50,
+    "tags": []
+  },
+  {
+    "id": "e3b1a9215c5c",
     "title": "重庆出台一系列就业补贴政策 高校毕业生等青年留渝来渝就业可申领",
-    "url": "https://www.msn.cn/zh-cn/money/政府支助和福利/重庆出台一系列就业补贴政策-高校毕业生等青年留渝来渝就业可申领/ar-AA29Uekx",
+    "url": "https://www.msn.cn/zh-cn/money/通用/重庆出台一系列就业补贴政策-高校毕业生等青年留渝来渝就业可申领/ar-AA29Uekx",
     "summary": "本文转自：南岸报一次性求职补贴、12个县大学生就业补贴、高校毕业生灵活就业社保补贴、紧缺岗位就业补贴……8月10日，记者从市就业局获悉，为促进高校毕业生等青年留渝来渝就业，重庆出台了一系列就业补贴政策",
     "source": "就业创业政策",
     "category": "政策",
@@ -790,18 +899,6 @@
     "tags": []
   },
   {
-    "id": "adc5c4810f53",
-    "title": "三部门印发《意见》出台六大政策措施 建立健全常态化就业帮扶机制",
-    "url": "https://www.cqnews.net/web/content_1490826638798884864.html",
-    "summary": "记者从人力资源社会保障部获悉，近日，为贯彻党中央、国务院关于统筹建立常态化防止返贫致贫机制促进乡村全面振兴的决策部署，人力资源社会保障部、国家发展改革委、农业农村部印发《关于建立常态化防止返贫致贫就业",
-    "source": "就业创业政策",
-    "category": "政策",
-    "published": "2026-04-06T14:32:00.000Z",
-    "image": "https://res.cqhlw.cn/ires/2023/9/19/2003717/img/warn.png",
-    "score": 50,
-    "tags": []
-  },
-  {
     "id": "c82a45b6243c",
     "title": "人力资源社会保障部 国家发展改革委 农业农村部印发 《关于建立 ...",
     "url": "https://finance.sina.com.cn/jjxw/2026-04-07/doc-inhtsezc7183065.shtml",
@@ -814,6 +911,18 @@
     "tags": []
   },
   {
+    "id": "adc5c4810f53",
+    "title": "三部门印发《意见》出台六大政策措施 建立健全常态化就业帮扶机制",
+    "url": "https://www.cqnews.net/web/content_1490826638798884864.html",
+    "summary": "记者从人力资源社会保障部获悉，近日，为贯彻党中央、国务院关于统筹建立常态化防止返贫致贫机制促进乡村全面振兴的决策部署，人力资源社会保障部、国家发展改革委、农业农村部印发《关于建立常态化防止返贫致贫就业",
+    "source": "就业创业政策",
+    "category": "政策",
+    "published": "2026-04-06T14:32:00.000Z",
+    "image": "https://res.cqhlw.cn/ires/2023/9/19/2003717/img/warn.png",
+    "score": 50,
+    "tags": []
+  },
+  {
     "id": "d7ec59bff25b",
     "title": "两部门发文，部署开展2026年高校毕业生就业政策宣传活动（附支持 ...",
     "url": "https://finance.sina.com.cn/wm/2026-04-24/doc-inhvqmqh4809841.shtml",
@@ -822,18 +931,6 @@
     "category": "政策",
     "published": "2026-04-24T04:45:00.000Z",
     "image": "https://n.sinaimg.cn/finance/transform/260/w880h180/20180326/zi4T-fysqfnf9377213.png",
-    "score": 50,
-    "tags": []
-  },
-  {
-    "id": "80b4ff1fec8d",
-    "title": "两部门推出16条政策举措 促进高校毕业生等青年就业",
-    "url": "https://edu.gmw.cn/2026-03/23/content_38662965.htm",
-    "summary": "本报北京3月22日电 （记者邱超奕）人力资源社会保障部、财政部日前联合印发《关于做好2026年高校毕业生等青年就业工作的通知》，提出16条政策举措，全力促进高校毕业生等青年就业。 实施民营企业促就业行",
-    "source": "就业创业政策",
-    "category": "政策",
-    "published": "2026-03-23T03:00:00.000Z",
-    "image": "https://img.gmw.cn/pic/mgmw/iconshare.png",
     "score": 50,
     "tags": []
   },
@@ -874,30 +971,6 @@
     "tags": []
   },
   {
-    "id": "4c177ad967a3",
-    "title": "乐动机器人（01236.HK）｜全栈智能机器人第一股的薪资福利",
-    "url": "https://finance.ifeng.com/c/8vZIsDk10PA",
-    "summary": "深圳乐动机器人股份有限公司（LDROBOT）成立于2017年，总部位于深圳南山区，2026年5月12日在香港联交所主板上市（股票代码：01236。HK），是\"全栈式智能机器人第一股\"",
-    "source": "就业报告",
-    "category": "就业",
-    "published": "2026-08-13T03:47:00.000Z",
-    "image": "https://x0.ifengimg.com/ucms/2026_33/A785CDAECE17BF8E81408E74B6C23B1287BAE566_size69_w698_h392.jpg",
-    "score": 50,
-    "tags": []
-  },
-  {
-    "id": "83a038d8a84f",
-    "title": "自治区医疗保障局监控和数据中心举办2026年全区医疗保障数据运用 ...",
-    "url": "https://www.sohu.com/a/1062716456_121106869",
-    "summary": "为切实提升全区医保系统、医疗机构干部职工数据运用和数据分析实操能力，全面赋能基金安全运行、政策科学研判、数据精准治理。8月12日至14日，自治区医疗保障局在石嘴山市组织举办全区医疗保障数据运用分析能力",
-    "source": "数据分析·就业分析",
-    "category": "就业",
-    "published": "2026-08-14T04:22:00.000Z",
-    "image": "https://q1.itc.cn/q_70/images03/20260814/d7683c4be2f64f719af499212fa1ccdb.jpeg",
-    "score": 50,
-    "tags": []
-  },
-  {
     "id": "dc8335ff5c6c",
     "title": "阿里2027校招开启！16个产品/设计岗：产品经理要笔试了...",
     "url": "https://www.sohu.com/a/1061566860_121124300",
@@ -910,14 +983,14 @@
     "tags": []
   },
   {
-    "id": "7c4c240c260d",
-    "title": "中级注册安全工程师能做什么工作？考下证后这些岗位都能关注",
-    "url": "https://www.eol.cn/kaoshi/jg/zjzcaqgcs/202607/t20260716_2756940.shtml",
-    "summary": "摘要：很多考生准备报考前，都会先了解“2026年中级注册安全工程师能做什么工作”。中级注册安全工程师证书主要面向安全生产管理、安全工程技术、安全咨询服务等相关岗位，适合建筑、化工、矿山、制造、道路运输",
+    "id": "ac537e765522",
+    "title": "2026年信息安全专业就业前景深度分析——以重庆地区为例",
+    "url": "https://www.eol.cn/kaifang/xgkwyw/2026072013527.html",
+    "summary": "本文内容仅供参考，包含费用、分数等具体信息以本省教育考试相关部门公告、院校公告、报名系统提示为准。 在数字化浪潮下，信息安全已然成为各个行业的关键需求",
     "source": "安全工程师·就业分析",
     "category": "就业",
-    "published": "2026-07-16T09:59:00.000Z",
-    "image": "https://www.eol.cn/kaoshi/“ />\n    <meta property=",
+    "published": "2026-07-20T06:06:00.000Z",
+    "image": "https://resources.cepsp.com.cn/static/sysource/bk/img/ffe1ceafa5e39963.jpg",
     "score": 50,
     "tags": []
   },
@@ -1054,6 +1127,18 @@
     "tags": []
   },
   {
+    "id": "622951fdb71a",
+    "title": "go 高级开发工程师 工作地点上海五角场",
+    "url": "https://www.v2ex.com/t/1236929#reply3",
+    "summary": "go 高级开发工程师 工作地点上海五角场",
+    "source": "V2EX·招聘",
+    "category": "就业",
+    "published": "2026-08-24T22:05:27.000Z",
+    "image": "https://cdn.v2ex.com/avatar/1375/b468/581675_xlarge.png?m=1780190351",
+    "score": 40,
+    "tags": []
+  },
+  {
     "id": "3394fadbcde2",
     "title": "[深圳] 招聘 C++ 软件工程师",
     "url": "https://www.v2ex.com/t/1236318#reply7",
@@ -1086,18 +1171,6 @@
     "category": "政策",
     "published": "2026-08-24T11:03:00.000Z",
     "image": "https://q8.itc.cn/q_70/images03/20260824/257cd7207adc4ee58ee95f3e3f89d553.jpeg",
-    "score": 40,
-    "tags": []
-  },
-  {
-    "id": "28f378e420e9",
-    "title": "扶持高校毕业生就业创业，广东有这些政策！",
-    "url": "https://news.southcn.com/node_2eb87b1c85/b92105b3d5.shtml",
-    "summary": "小微企业招用毕业2年内高校毕业生，与其签订1年以上劳动合同并按规定缴纳社会保险费的，每月按企业为符合条件人员实际缴纳的基本养老保险费、基本医疗保险（含生育保险）费、失业保险费、工伤保险费给予补贴，补贴",
-    "source": "就业创业政策",
-    "category": "政策",
-    "published": "2026-07-13T09:50:00.000Z",
-    "image": "",
     "score": 40,
     "tags": []
   },
@@ -1138,76 +1211,13 @@
     "tags": []
   },
   {
-    "id": "5f1d04b47c3e",
-    "title": "XPENG IRON humanoid robot draws record physical AI funding",
-    "url": "https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/",
-    "source": "AI News",
-    "category": "AI",
-    "published": "2026-08-24T15:53:53.000Z",
-    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/xpeng-iron-humanoid-robot-physical-ai-model-artificial-intelligence-china-platform-scaled.jpeg"
-  },
-  {
-    "id": "25360e89e79a",
-    "title": "How AI coding tools are contributing to the popularity of JavaScript",
-    "url": "https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/",
-    "source": "AI News",
-    "category": "AI",
-    "published": "2026-08-21T08:41:29.000Z",
-    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/chris-ried-ieic5Tq8YMk-unsplash-scaled.jpg"
-  },
-  {
-    "id": "5f36318a4995",
-    "title": "Amazon&#8217;s Prime Air autonomous drones to reach 500 US cities",
-    "url": "https://www.artificialintelligence-news.com/news/amazons-prime-air-autonomous-drones-to-reach-500-us-cities/",
-    "source": "AI News",
-    "category": "AI",
-    "published": "2026-08-20T14:05:18.000Z",
-    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/amazon-prime-air-drone-delivery-us-cities-expansion-autonomous-physical-edge-ai-logistics.jpg"
-  },
-  {
-    "id": "90eae752a6c9",
-    "title": "Stripe agrees to buy OpenRouter as AI model routing expands",
-    "url": "https://www.artificialintelligence-news.com/news/stripe-openrouter-acquisition-ai-model-routing/",
-    "source": "AI News",
-    "category": "AI",
-    "published": "2026-08-20T10:00:00.000Z",
-    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/Stripe-agrees-to-buy-OpenRouter-as-AI-model-routing-expands-scaled-e1787195901752.jpg"
-  },
-  {
-    "id": "e3d7b0428306",
-    "title": "Agentic AI in government just hit the hard part: deciding what a machine may decide",
-    "url": "https://www.artificialintelligence-news.com/news/agentic-ai-in-government-uae-classification/",
-    "source": "AI News",
-    "category": "AI",
-    "published": "2026-08-20T09:00:00.000Z",
-    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/p1x04htn1ka1ardpn-scaled.jpeg"
-  },
-  {
-    "id": "90accb9ed72d",
-    "title": "A third of ChatGPT ads appear in irrelevant conversations",
-    "url": "https://www.artificialintelligence-news.com/news/a-third-of-chatgpt-ads-appear-in-irrelevant-conversations/",
-    "source": "AI News",
-    "category": "AI",
-    "published": "2026-08-20T08:07:40.000Z",
-    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/levart_photographer-drwpcjkvxuU-unsplash-scaled.jpg"
-  },
-  {
-    "id": "9df37d9e2fb4",
-    "title": "AI data centre regulation just got a template that needs no new law",
-    "url": "https://www.artificialintelligence-news.com/news/ai-data-centre-regulation-pennsylvania-template/",
-    "source": "AI News",
-    "category": "AI",
-    "published": "2026-08-20T08:00:00.000Z",
-    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/donnie-rosie-VQGjgACllXA-unsplash-scaled.jpg"
-  },
-  {
-    "id": "04f620df7924",
-    "title": "HoneyBook bets on agentic AI to streamline small business operations with its new Claude connector",
-    "url": "https://www.artificialintelligence-news.com/news/honeybook-bets-on-agentic-ai-to-streamline-small-business-operations-with-its-new-claude-connector/",
-    "source": "AI News",
-    "category": "AI",
-    "published": "2026-08-20T07:35:07.000Z",
-    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/honeybook-mcp-agentic-ai-agents-enterprise-.jpg"
+    "id": "1d0d902fb0ad",
+    "title": "What’s driving Sweden’s startup boom, from Lovable to Legora",
+    "url": "https://techcrunch.com/video/whats-driving-swedens-startup-boom-from-lovable-to-legora/",
+    "source": "TechCrunch",
+    "category": "科技",
+    "published": "2026-08-26T16:00:00.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1193266208.jpg?resize=1200,800"
   },
   {
     "id": "cbe393ca0644",
@@ -1265,7 +1275,7 @@
   },
   {
     "id": "ae1d9c6c8de0",
-    "title": "Meta settles for $18 billion in lawsuit brought by 29 states over social media harms to children",
+    "title": "Meta settles for $18B in lawsuit brought by 29 states over social media harms to children",
     "url": "https://techcrunch.com/2026/08/26/meta-settles-for-18-billion-in-lawsuit-brought-by-29-states-over-social-media-harms-to-children/",
     "source": "TechCrunch",
     "category": "科技",
@@ -1291,40 +1301,67 @@
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/bluesky-GettyImages-2185144073.jpg?w=1024"
   },
   {
-    "id": "9831f37a70b7",
-    "title": "QueryStory wants you to believe what AI is telling you",
-    "url": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
-    "source": "TechCrunch",
+    "id": "7e1703c40fda",
+    "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
+    "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+    "source": "Ars Technica",
     "category": "科技",
-    "published": "2026-08-26T13:00:00.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/QueryStory-Groups-8-1.jpg?resize=1200,799"
+    "published": "2026-08-26T21:25:27.000Z",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2171717886-1152x648.jpg"
   },
   {
-    "id": "26bfb8eb611d",
-    "title": "Arga Labs is building a better way to train enterprise AI agents",
-    "url": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
-    "source": "TechCrunch",
+    "id": "dc6ff42fa34f",
+    "title": "New Twitter launches, says Musk's X gave up the name",
+    "url": "https://arstechnica.com/tech-policy/2026/08/new-twitter-launches-says-musks-x-gave-up-the-name/",
+    "source": "Ars Technica",
     "category": "科技",
-    "published": "2026-08-26T12:55:28.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Arga-Headshots.jpg?resize=1099,1200"
+    "published": "2026-08-26T20:49:04.000Z",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/twitter-1152x648-1787776300.jpg"
   },
   {
-    "id": "c7519cb8e616",
-    "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
-    "url": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
-    "source": "TechCrunch",
+    "id": "5a789e7011ec",
+    "title": "Meta settles states' child-safety claims for $18B; Florida rejects deal as \"peanuts\"",
+    "url": "https://arstechnica.com/tech-policy/2026/08/meta-settles-states-child-safety-claims-for-18b-florida-rejects-deal-as-peanuts/",
+    "source": "Ars Technica",
     "category": "科技",
-    "published": "2026-08-26T12:00:00.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/legato.png?resize=1200,751"
+    "published": "2026-08-26T19:50:52.000Z",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/facebook-instagram-1152x648-1761326412.jpg"
   },
   {
-    "id": "d56bb99852c0",
-    "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
-    "url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
-    "source": "TechCrunch",
+    "id": "857c379e8d03",
+    "title": "Florida Catholics slap down state AG by rejecting religious vaccine exemptions",
+    "url": "https://arstechnica.com/health/2026/08/catholic-bishops-tell-florida-theres-no-religious-reason-for-vaccine-exemptions/",
+    "source": "Ars Technica",
     "category": "科技",
-    "published": "2026-08-26T11:00:00.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/runable-co-founders-umesh-saksham.jpg?resize=1200,800"
+    "published": "2026-08-26T19:39:24.000Z",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-178446892-2560x1440.jpg"
+  },
+  {
+    "id": "3400e8c67cbf",
+    "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
+    "url": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
+    "source": "Ars Technica",
+    "category": "科技",
+    "published": "2026-08-26T19:19:22.000Z",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-6-1152x648.jpg"
+  },
+  {
+    "id": "e921e2ec3734",
+    "title": "The Porsche 911 GT3 Touring punches above its weight class",
+    "url": "https://arstechnica.com/cars/2026/08/driven-the-992-2-porsche-911-gt3-touring-earns-its-keep/",
+    "source": "Ars Technica",
+    "category": "科技",
+    "published": "2026-08-26T17:25:53.000Z",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/09-992.2-Porsche-911-GT3-Touring-1152x648.jpg"
+  },
+  {
+    "id": "bedb9024935a",
+    "title": "Xbox’s new disc-to-digital program gives physical games a digital future",
+    "url": "https://arstechnica.com/gaming/2026/08/xboxs-new-disc-to-digital-program-gives-physical-games-a-digital-future/",
+    "source": "Ars Technica",
+    "category": "科技",
+    "published": "2026-08-26T16:59:41.000Z",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/disccrack-1152x648.jpg"
   },
   {
     "id": "388ec16abfe3",
@@ -1444,67 +1481,13 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1184711342-2560x1440.jpg"
   },
   {
-    "id": "54c199f6d80a",
-    "title": "New bootloader lets you take the \"Meta\" out of the original Meta Quest",
-    "url": "https://arstechnica.com/gaming/2026/08/new-bootloader-lets-you-take-the-meta-out-of-the-original-meta-quest/",
-    "source": "Ars Technica",
-    "category": "科技",
-    "published": "2026-08-25T16:04:37.000Z",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/quest1-1152x648.png"
-  },
-  {
-    "id": "fd38b0be8423",
-    "title": "AI won’t replace radiologists, but it will dramatically change their jobs",
-    "url": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
-    "source": "Ars Technica",
-    "category": "科技",
-    "published": "2026-08-25T15:10:03.000Z",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2280376449-1024x648.jpg"
-  },
-  {
-    "id": "a259f2eef687",
-    "title": "Apple's new desktop computers are designed specifically for local AI development",
-    "url": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
-    "source": "Ars Technica",
-    "category": "科技",
-    "published": "2026-08-25T13:00:11.000Z",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Mac-Studio-2026-1152x648-1787611177.jpg"
-  },
-  {
-    "id": "a92e5141fd26",
-    "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
-    "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
-    "source": "Ars Technica",
-    "category": "科技",
-    "published": "2026-08-24T21:45:53.000Z",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2211086231-1152x648.jpg"
-  },
-  {
-    "id": "b888edea5d8b",
-    "title": "Data centers become \"killer application\" for new power transformer tech",
-    "url": "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/",
-    "source": "Ars Technica",
-    "category": "科技",
-    "published": "2026-08-24T21:32:16.000Z",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/deployed-SST-1152x648.jpg"
-  },
-  {
-    "id": "898c7de99050",
-    "title": "RFK Jr. may upend how vaccine recommendations are categorized",
-    "url": "https://arstechnica.com/health/2026/08/rfk-jr-may-upend-how-vaccine-recommendations-are-categorized/",
-    "source": "Ars Technica",
-    "category": "科技",
-    "published": "2026-08-24T21:04:48.000Z",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2289379931-1152x648.jpg"
-  },
-  {
-    "id": "68816b779507",
-    "title": "Ads and tracking infiltrated TVs. Now they're coming for monitors.",
-    "url": "https://arstechnica.com/gadgets/2026/08/ads-and-tracking-infiltrated-tvs-now-theyre-coming-for-monitors/",
-    "source": "Ars Technica",
-    "category": "科技",
-    "published": "2026-08-24T20:17:41.000Z",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-159905320-1024x648.jpg"
+    "id": "79935f1296fa",
+    "title": "中国救援队111名消防救援指战员赴西藏吉隆灾害现场增援",
+    "url": "https://www.chinanews.com.cn/sh/2026/08-27/10684896.shtml",
+    "source": "中新网社会",
+    "category": "社会",
+    "published": "2026-08-26T22:01:05.000Z",
+    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
   },
   {
     "id": "9835d4d7264b",
@@ -1768,15 +1751,6 @@
     "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
   },
   {
-    "id": "c492ce272072",
-    "title": "AI融入创意比拼 第二届广告设计师职业技能竞赛在浙江落幕",
-    "url": "https://www.chinanews.com.cn/sh/2026/08-26/10684779.shtml",
-    "source": "中新网社会",
-    "category": "社会",
-    "published": "2026-08-26T12:28:28.000Z",
-    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-  },
-  {
     "id": "e03fea300998",
     "title": "暑假“余额”不足，如何助力学生从容迈向新学期",
     "url": "https://www.chinanews.com.cn/edu/2026/08-26/10684629.shtml",
@@ -1804,6 +1778,24 @@
     "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
   },
   {
+    "id": "d7a37200fd15",
+    "title": "2026东南大学秋季校园招聘工作安排",
+    "url": "https://news.qq.com/rain/a/20260825A0550000",
+    "source": "Bing·校园招聘",
+    "category": "就业",
+    "published": "2026-08-25T04:35:00.000Z",
+    "image": "https://inews.gtimg.com/om_ls/OeOZ3uEu7lJql99a2-UXryOl1MZfaKJ5MAibTtqmok2u4AA_640330/0"
+  },
+  {
+    "id": "7bbded133d6b",
+    "title": "秋招AI人才争夺战，淘天推新政：校招生一年可以晋升两次",
+    "url": "https://news.qq.com/rain/a/20260826A04YV300",
+    "source": "Bing·秋招",
+    "category": "就业",
+    "published": "2026-08-26T03:31:00.000Z",
+    "image": "https://inews.gtimg.com/om_ls/OOTKCt2TBHqCk9P3omp_WJsAsyoBAjQICxs8u4giVDbJcAA_640330/0"
+  },
+  {
     "id": "d9e63b6793c0",
     "title": "应届生求职踩坑迷茫 过来人告诉你正确选择，看完这些你就明白了",
     "url": "https://www.sohu.com/a/1067848155_120689917",
@@ -1813,15 +1805,6 @@
     "image": "//q1.itc.cn/images01/20260826/33a3b0cdf0cb4359ae0bb5a6e47dccc6.jpeg"
   },
   {
-    "id": "819c8d30cf77",
-    "title": "440名应届生惨遭套路！上市前夕批量劝退，企业财报红利不该压榨新人",
-    "url": "https://www.sohu.com/a/1067881839_120835858",
-    "source": "Bing·应届生求职",
-    "category": "就业",
-    "published": "2026-08-26T09:51:00.000Z",
-    "image": "//q9.itc.cn/images01/20260826/d72d266c4db84ecfaf67d358b00dc11a.jpeg"
-  },
-  {
     "id": "3b34dfda0271",
     "title": "A股车灯龙头集中劝退入职一个多月的硕博应届生，主动离职或“打 ...",
     "url": "https://finance.ifeng.com/c/8vsoekYgwOc",
@@ -1829,6 +1812,96 @@
     "category": "就业",
     "published": "2026-08-25T11:35:00.000Z",
     "image": "https://x0.ifengimg.com/ucms/2026_05/AD1CC79B52F7D3386661F5CE5FBA49F36F314281_size20_w200_h200.jpg"
+  },
+  {
+    "id": "dab649bbbbf7",
+    "title": "BOSS直聘二季度MAU首次突破7000万，AI服务向招聘全流程延伸",
+    "url": "https://www.msn.cn/zh-cn/money/人力资源/boss直聘二季度mau首次突破7000万-ai服务向招聘全流程延伸/ar-AA2aVtuv",
+    "source": "Bing·BOSS直聘",
+    "category": "就业",
+    "published": "2026-08-25T19:20:08.000Z",
+    "image": ""
+  },
+  {
+    "id": "22b458d239d5",
+    "title": "BOSS直聘Q2季报图解：营收24亿，经营利润8.6亿 派息15.5亿",
+    "url": "https://news.qq.com/rain/a/20260825A0D8WD00",
+    "source": "Bing·BOSS直聘",
+    "category": "就业",
+    "published": "2026-08-25T15:54:00.000Z",
+    "image": "https://inews.gtimg.com/om_ls/O2gPsW1YGkdAh1QTd7h_B3TxG_1c0Lmepsy3v3hwN-Gn4AA_640330/0"
+  },
+  {
+    "id": "62e3d967736e",
+    "title": "BOSS直聘2026年Q2财报炸裂！营收23.99亿、派息2.3亿美元，打工人背后的 ...",
+    "url": "https://www.sohu.com/a/1067483787_122066679",
+    "source": "Bing·BOSS直聘",
+    "category": "就业",
+    "published": "2026-08-25T13:36:00.000Z",
+    "image": ""
+  },
+  {
+    "id": "1eea2ea2decc",
+    "title": "BOSS直聘2026财年第二财季财报：净利润暴增173.1%，AI助力招聘行业新高峰",
+    "url": "https://www.sohu.com/a/1067499526_122004016",
+    "source": "Bing·BOSS直聘",
+    "category": "就业",
+    "published": "2026-08-25T12:43:00.000Z",
+    "image": ""
+  },
+  {
+    "id": "87818a89728f",
+    "title": "月活突破7000万，BOSS直聘的增长重心转向蓝领市场",
+    "url": "https://news.qq.com/rain/a/20260826A09WJ800",
+    "source": "Bing·BOSS直聘",
+    "category": "就业",
+    "published": "2026-08-26T10:13:00.000Z",
+    "image": "https://inews.gtimg.com/om_ls/OsVNROHHjH4Ju-BApfdS65U5ncXYtA7GXMytfWbBN1TNQAA_640330/0"
+  },
+  {
+    "id": "2f360f3214f3",
+    "title": "BOSS直聘：第二季度营收23.99亿元，AI助力招聘服务向闭环推进",
+    "url": "https://tech.ifeng.com/c/8vtzRQj9zQe",
+    "source": "Bing·BOSS直聘",
+    "category": "就业",
+    "published": "2026-08-26T05:37:00.000Z",
+    "image": "https://x0.ifengimg.com/ucms/2026_35/5B2C24E9803E06C57F1C6D6BE0D470EB8954C24E_size51_w800_h450.jpg"
+  },
+  {
+    "id": "18b401814e30",
+    "title": "BOSS直聘2026财年第二财季归母净利润19.45亿元，同比增长173.1%",
+    "url": "https://www.msn.cn/zh-cn/money/经济/boss直聘2026财年第二财季归母净利润19-45亿元-同比增长173-1/ar-AA2aTmLN",
+    "source": "Bing·BOSS直聘",
+    "category": "就业",
+    "published": "2026-08-25T04:43:03.000Z",
+    "image": ""
+  },
+  {
+    "id": "bf138ebe1f14",
+    "title": "BOSS直聘二季度经营利润同比增长32.6%",
+    "url": "https://finance.sina.com.cn/roll/2026-08-26/doc-inipqhkk2269196.shtml",
+    "source": "Bing·BOSS直聘",
+    "category": "就业",
+    "published": "2026-08-25T16:59:00.000Z",
+    "image": ""
+  },
+  {
+    "id": "ec947ef20ae7",
+    "title": "BOSS直聘第二季度营收23.99亿元，蓝领与低线级城市市场驱动岗位增长",
+    "url": "https://stock.10jqka.com.cn/20260826/c679311876.shtml",
+    "source": "Bing·BOSS直聘",
+    "category": "就业",
+    "published": "2026-08-25T20:35:00.000Z",
+    "image": "https://www.10jqka.com.cn/s.thsi.cn/cd/news-p-fe-app-news-flow-home/newsDetail/_next/static/media/og-logo.b0df97d2.png"
+  },
+  {
+    "id": "3ef43fbfe0f5",
+    "title": "【BT财报瞬析】BOSS直聘Q2营收增14%：AI打通招聘全链路",
+    "url": "https://stock.stockstar.com/IG2026082600037422.shtml",
+    "source": "Bing·BOSS直聘",
+    "category": "就业",
+    "published": "2026-08-26T09:38:00.000Z",
+    "image": "https://i.ssimg.cn/images/public/news/sou.gif"
   },
   {
     "id": "863df019e0ef",
@@ -1939,22 +2012,40 @@
     "image": "https://cdn.v2ex.com/avatar/40b9/ef48/285559_large.png?m=1518409642"
   },
   {
-    "id": "622951fdb71a",
-    "title": "go 高级开发工程师 工作地点上海五角场",
-    "url": "https://www.v2ex.com/t/1236929#reply3",
-    "source": "V2EX·招聘",
-    "category": "就业",
-    "published": "2026-08-24T22:05:27.000Z",
-    "image": "https://cdn.v2ex.com/avatar/1375/b468/581675_xlarge.png?m=1780190351"
+    "id": "2e113bf48a98",
+    "title": "1000万大学生就业难？专家：中国需变贵，服务业是最大就业蓄水池",
+    "url": "https://www.sohu.com/a/1067603960_122407768",
+    "source": "Bing·大学生就业政策",
+    "category": "政策",
+    "published": "2026-08-25T22:45:00.000Z",
+    "image": "https://q4.itc.cn/q_70/images03/20260826/42df2fa6dfae4b9996a06c804e4c4508.jpeg"
   },
   {
-    "id": "ac48929790dd",
-    "title": "海外 BD-湾区 Sunnyvale， base 在上海来湾区出差也可（但要有这边客户资源）",
-    "url": "https://www.v2ex.com/t/1236928#reply0",
-    "source": "V2EX·招聘",
-    "category": "就业",
-    "published": "2026-08-24T21:24:58.000Z",
-    "image": "https://cdn.v2ex.com/avatar/4c83/08d4/221578_xlarge.png?m=1762788791"
+    "id": "11cd38265853",
+    "title": "珠三角五市联动聚合力，为退役军人提供跨区域就业服务",
+    "url": "https://news.qq.com/rain/a/20260825A07G2000",
+    "source": "Bing·大学生就业政策",
+    "category": "政策",
+    "published": "2026-08-25T07:49:00.000Z",
+    "image": "https://inews.gtimg.com/om_ls/ORMZjh02XU8wzpTUoj4sbYB8ra0TZYk8SNd0IC7i-XotoAA_640330/0"
+  },
+  {
+    "id": "c6e1eae07e31",
+    "title": "大创动态 | 青春启航，梦想落地——走进北京市大学生创业板孵化 ...",
+    "url": "https://www.sohu.com/a/1067946725_121123898",
+    "source": "Bing·大学生创业扶持政策",
+    "category": "政策",
+    "published": "2026-08-26T11:42:00.000Z",
+    "image": "https://q4.itc.cn/q_70/images03/20260826/476757c4c6e84c339ec4752cce42c42f.png"
+  },
+  {
+    "id": "dd5e1fc0c6b6",
+    "title": "智能体支付应用迎来行业自律公约 如何给AI支付立规矩",
+    "url": "https://www.chinanews.com.cn/cj/2026/08-27/10684897.shtml",
+    "source": "中新网财经",
+    "category": "财经",
+    "published": "2026-08-26T22:19:44.000Z",
+    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
   },
   {
     "id": "642adfc55596",
@@ -2215,15 +2306,6 @@
     "source": "中新网财经",
     "category": "财经",
     "published": "2026-08-26T10:42:09.000Z",
-    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-  },
-  {
-    "id": "878c812ec4a5",
-    "title": "中国国际水果展开幕 多国嘉宾看好中国市场提质机遇",
-    "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684669.shtml",
-    "source": "中新网财经",
-    "category": "财经",
-    "published": "2026-08-26T09:55:04.000Z",
     "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
   },
   {
