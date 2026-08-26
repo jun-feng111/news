@@ -1,6 +1,8 @@
 // 合规求职数据采集：从有公开授权 / 免密 API 的合法数据源拉取真实岗位。
 //
 // 数据源（均为官方公开 API，非爬虫、不触碰招聘站反爬）：
+//   - V2EX（国内优先）: https://www.v2ex.com/api/topics/show.json?node_name=jobs
+//                       （中文技术社区公开 API，免密，岗位为中文，region=domestic）
 //   - RemoteOK   : https://remoteok.com/api                       （免密，需 UA）
 //   - Remotive   : https://remotive.com/api/remote-jobs           （免密）
 //   - Arbeitnow  : https://www.arbeitnow.com/api/job-board-api    （免密）
@@ -87,6 +89,7 @@ async function fromRemoteOK() {
       postedDate: toDate(j.date) || null,
       url: j.url && j.url.startsWith('http') ? j.url : 'https://remoteok.com' + (j.url || ''),
       source: 'RemoteOK',
+      region: 'foreign',
     }
   })
 }
@@ -109,6 +112,7 @@ async function fromRemotive() {
       postedDate: (j.publication_date || '').slice(0, 10) || null,
       url: j.url,
       source: 'Remotive',
+      region: 'foreign',
     }
   })
 }
@@ -131,6 +135,7 @@ async function fromArbeitnow() {
       postedDate: (j.created_at || '').slice(0, 10) || null,
       url: j.url,
       source: 'Arbeitnow',
+      region: 'foreign',
     }
   })
 }
@@ -162,6 +167,72 @@ async function fromAdzuna() {
       postedDate: (j.created || '').slice(0, 10) || null,
       url: j.redirect_url,
       source: 'Adzuna',
+      region: 'foreign',
+    }
+  })
+}
+
+// ── 国内源：V2EX 招聘节点（中文社区，公开 API）────────────
+async function fromV2EX() {
+  const data = await getJSON('https://www.v2ex.com/api/topics/show.json?node_name=jobs')
+  const list = Array.isArray(data) ? data : []
+  // 常见技术关键词（用于从标题/正文抽取技能标签，便于搜索）
+  const TECH = ['python', 'java', 'go', 'golang', 'rust', 'c++', 'c#', 'javascript',
+    'typescript', 'react', 'vue', 'angular', 'node', 'nodejs', 'spring', 'django',
+    'flask', 'docker', 'kubernetes', 'k8s', 'aws', '阿里云', '腾讯云', 'linux', 'mysql',
+    'postgresql', 'redis', 'mongodb', 'elasticsearch', 'grpc', 'graphql', 'flutter',
+    'swift', 'kotlin', 'php', 'ruby', 'scala', 'spark', 'hadoop', 'pytorch', 'tensorflow']
+  return list.map((t) => {
+    const titleRaw = clean(t.title)
+    const member = (t.member && t.member.username) || ''
+    const url = `https://www.v2ex.com/t/${t.id}`
+    // 解析标题中的 [地点][薪资] 前缀，如 "[杭州][20-35K] 高级前端"
+    let title = titleRaw
+    let location = '国内'
+    let salaryText = ''
+    const m1 = title.match(/\[([^\]]+)\]/)
+    if (m1) {
+      const first = m1[1].trim()
+      if (/\d|k|K|w|W|薪|元|rmb|￥|¥/i.test(first)) salaryText = first
+      else location = first
+      title = title.replace(m1[0], '').trim()
+      const m2 = title.match(/\[([^\]]+)\]/)
+      if (m2 && /\d|k|K|w|W|薪|元|rmb|￥|¥/i.test(m2[1])) {
+        salaryText = salaryText ? `${salaryText} ${m2[1].trim()}` : m2[1].trim()
+        title = title.replace(m2[0], '').trim()
+      }
+    }
+    const s = parseSalary(salaryText)
+    const hay = (titleRaw + ' ' + (t.content || '')).toLowerCase()
+    const skills = TECH.filter((k) => hay.includes(k.toLowerCase()))
+    let category = '其他'
+    if (/前端|front[\s-]?end|web 前端/i.test(titleRaw)) category = '前端'
+    else if (/后端|back[\s-]?end|服务端|server/i.test(titleRaw)) category = '后端'
+    else if (/全栈|full[\s-]?stack/i.test(titleRaw)) category = '全栈'
+    else if (/算法|机器学习|machine learning|\bml\b|人工智能|深度学习|ai /i.test(titleRaw)) category = '算法/AI'
+    else if (/数据|data|分析|bi\b/i.test(titleRaw)) category = '数据'
+    else if (/测试|qa\b|test/i.test(titleRaw)) category = '测试'
+    else if (/运维|devops|sre|系统工程师/i.test(titleRaw)) category = '运维/SRE'
+    else if (/产品|product|pm\b/i.test(titleRaw)) category = '产品'
+    else if (/设计|design|ui|ux/i.test(titleRaw)) category = '设计'
+    else if (/运营|operation|内容|新媒体/i.test(titleRaw)) category = '运营'
+    else if (/市场|marketing|增长/i.test(titleRaw)) category = '市场'
+    else if (/销售|sales|商务|bd\b/i.test(titleRaw)) category = '销售'
+    else if (/hr|人力|招聘|猎头/i.test(titleRaw)) category = '人力/HR'
+    const remote = /远程|remote|在家|wfh|异地|线上/i.test(titleRaw)
+    return {
+      id: 'v2ex-' + (t.id || shortHash(url)),
+      title: title || titleRaw,
+      company: member || '个人发布',
+      location,
+      remote,
+      salaryText: s.text, salaryMin: s.min, salaryMax: s.max, salaryCurrency: s.currency || 'CNY',
+      skills,
+      category,
+      postedDate: toDate(t.created) || null,
+      url,
+      source: 'V2EX',
+      region: 'domestic',
     }
   })
 }
@@ -169,6 +240,7 @@ async function fromAdzuna() {
 // ── 主流程 ────────────────────────────────────────────
 async function main() {
   const sources = [
+    ['V2EX', fromV2EX],
     ['RemoteOK', fromRemoteOK],
     ['Remotive', fromRemotive],
     ['Arbeitnow', fromArbeitnow],
@@ -209,8 +281,13 @@ async function main() {
     deduped.push(j)
   }
 
-  // 按发布时间倒序，截断
-  deduped.sort((a, b) => (b.postedDate || '').localeCompare(a.postedDate || ''))
+  // 国内优先（region=domestic 排前），同区按发布时间倒序，截断
+  deduped.sort((a, b) => {
+    const ra = a.region === 'domestic' ? 0 : 1
+    const rb = b.region === 'domestic' ? 0 : 1
+    if (ra !== rb) return ra - rb
+    return (b.postedDate || '').localeCompare(a.postedDate || '')
+  })
   const final = deduped.slice(0, MAX_JOBS)
 
   if (!fs.existsSync(DATA_DIR)) fs.mkdirSync(DATA_DIR, { recursive: true })

@@ -3,7 +3,7 @@
     <div class="mb-8">
       <h1 class="text-3xl font-bold mb-2" style="color: var(--text-primary)">💼 求职</h1>
       <p class="text-sm" style="color: var(--text-secondary)">
-        真实岗位来自 RemoteOK / Remotive / Arbeitnow 等公开 API · 含技能要求与薪资（合规采集，不爬招聘站）
+        真实岗位来自 V2EX（国内社区，优先）· RemoteOK / Remotive / Arbeitnow（海外公开 API）· 含技能要求与薪资（合规采集，不爬招聘站）
       </p>
     </div>
 
@@ -22,7 +22,7 @@
       <div class="flex flex-col md:flex-row md:items-center md:justify-between gap-4">
         <div class="search-box">
           <span class="search-icon">🔍</span>
-          <input v-model.trim="searchQuery" type="text" placeholder="搜索岗位 / 公司 / 技能，如：python 后端" />
+          <input v-model.trim="searchQuery" type="text" placeholder="搜索岗位 / 公司 / 技能，如：前端 杭州" />
           <button v-if="searchQuery" class="search-clear" @click="searchQuery = ''">×</button>
         </div>
         <div class="flex items-center gap-3">
@@ -30,11 +30,18 @@
             <input type="checkbox" v-model="remoteOnly" /> 仅远程
           </label>
           <select v-model="sortBy" class="sort-select">
+            <option value="domestic_first">国内优先</option>
             <option value="newest">最新优先</option>
             <option value="salary_desc">薪资高→低</option>
             <option value="salary_asc">薪资低→高</option>
           </select>
         </div>
+      </div>
+
+      <div class="flex flex-wrap items-center gap-2">
+        <button class="filter-chip" :class="{ active: activeRegion === 'all' }" @click="activeRegion = 'all'">全部地区</button>
+        <button class="filter-chip" :class="{ active: activeRegion === 'domestic' }" @click="activeRegion = 'domestic'">🇨🇳 国内</button>
+        <button class="filter-chip" :class="{ active: activeRegion === 'foreign' }" @click="activeRegion = 'foreign'">🌐 海外</button>
       </div>
 
       <div class="flex flex-wrap items-center gap-2">
@@ -44,7 +51,7 @@
 
       <div class="flex flex-wrap items-center gap-2" v-if="categories.length">
         <button class="filter-chip cat" :class="{ active: activeCategory === 'all' }" @click="activeCategory = 'all'">全部分类</button>
-        <button v-for="c in categories" :key="c" class="filter-chip cat" :class="{ active: activeCategory === c }" @click="activeCategory = c">{{ c }}</button>
+        <button v-for="c in categories" :key="c" class="filter-chip cat" :class="{ active: activeCategory === c }" @click="activeCategory = c">{{ catZH(c) }}</button>
       </div>
     </div>
 
@@ -62,17 +69,21 @@
          class="job-card card-base p-5 stagger-item" :style="{ animationDelay: `${i * 30}ms` }">
         <div class="flex items-start justify-between gap-2 mb-2">
           <h3 class="job-title line-clamp-2">{{ job.title }}</h3>
-          <span class="source-badge">{{ job.source }}</span>
+          <span class="source-badge" :class="job.region === 'domestic' ? 'domestic' : 'foreign'">
+            {{ sourceLabel(job) }}
+          </span>
         </div>
         <p class="job-company mb-2">{{ job.company }}</p>
         <div class="flex items-center gap-2 mb-3 text-xs" style="color: var(--text-secondary)">
-          <span>📍 {{ job.location || '—' }}</span>
+          <span>📍 {{ locZH(job.location) }}</span>
           <span v-if="job.remote" class="remote-tag">远程</span>
+          <span v-if="job.region === 'domestic'" class="region-tag domestic">国内</span>
+          <span v-else class="region-tag foreign">海外</span>
         </div>
         <div v-if="job.salaryText" class="salary-badge mb-3">{{ formatSalary(job) }}</div>
         <div v-else class="salary-badge muted mb-3">薪资面议</div>
         <div class="flex flex-wrap gap-1.5 mb-3" v-if="displaySkills(job).length">
-          <span v-for="sk in displaySkills(job)" :key="sk" class="skill-tag">{{ sk }}</span>
+          <span v-for="sk in displaySkills(job)" :key="sk" class="skill-tag" :title="sk">{{ tagZH(sk) }}</span>
         </div>
         <div class="flex items-center justify-between text-xs" style="color: var(--text-muted)">
           <span>{{ relativeDate(job.postedDate) }}</span>
@@ -91,13 +102,78 @@ const jobs = ref([])
 const loading = ref(false)
 const error = ref('')
 const searchQuery = ref('')
-const sortBy = ref('newest')
+const sortBy = ref('domestic_first')
 const remoteOnly = ref(false)
 const activeSource = ref('all')
 const activeCategory = ref('all')
+const activeRegion = ref('all')
 
 const CURRENCY = { USD: '$', CNY: '¥', EUR: '€', GBP: '£', INR: '₹' }
 const SKILL_STOP = new Set(['senior', 'junior', 'mid', 'lead', 'engineer', 'developer', 'remote', 'full', 'time', 'part', 'job', 'hiring', 'new', 'apply', 'work', 'role', 'position', 'level', 'exp', 'year', 'contract', 'permanent', 'freelance', 'intern', 'internship'])
+
+// ── 中文化映射 ────────────────────────────────────────
+// 海外源的分类/标签是英文，界面统一翻译成中文。
+const CATEGORY_ZH = {
+  'Software': '软件', 'Software Development': '软件开发', 'Software Engineering': '软件工程',
+  'Data and Analytics': '数据分析', 'Data Science': '数据科学', 'Data': '数据',
+  'Design': '设计', 'Customer Service': '客服', 'Customer Success': '客户成功',
+  'Sales': '销售', 'Marketing': '市场', 'Writing': '写作/编辑',
+  'Information Technology': '信息技术', 'IT': '信息技术', 'All others': '其他', 'Other': '其他',
+  'Accounting': '会计', 'Finance': '财务', 'Human Resources': '人力资源', 'HR': '人力资源',
+  'Product': '产品', 'Operations': '运营', 'Education': '教育', 'Legal': '法务',
+  'Consulting': '咨询', 'Engineering': '工程', 'DevOps': '运维', 'QA': '测试',
+  'Management': '管理', 'Healthcare': '医疗', 'Research': '研究',
+}
+const TAG_ZH = {
+  'backend': '后端', 'back-end': '后端', 'frontend': '前端', 'front-end': '前端',
+  'full stack': '全栈', 'fullstack': '全栈', 'full-stack': '全栈',
+  'devops': '运维', 'sre': 'SRE', 'sys admin': '系统管理员', 'system administrator': '系统管理员',
+  'golang': 'Go', 'go': 'Go', 'python': 'Python', 'java': 'Java', 'rust': 'Rust',
+  'react': 'React', 'vue': 'Vue', 'node': 'Node', 'nodejs': 'Node', 'typescript': 'TypeScript',
+  'javascript': 'JavaScript', 'aws': 'AWS', 'azure': 'Azure', 'gcp': 'GCP',
+  'kubernetes': 'Kubernetes', 'docker': 'Docker', 'linux': 'Linux', 'remote': '远程',
+  'consulting': '咨询', 'customer support': '客户支持', 'customer service': '客服',
+  'design': '设计', 'education': '教育', 'exec': '高管', 'finance': '财务',
+  'hr': '人力资源', 'infosec': '信息安全', 'marketing': '市场', 'recruiter': '招聘',
+  'sales': '销售', 'supervisor': '主管', 'technical': '技术', 'testing': '测试',
+  'qa': '测试', 'travel': '出差', 'virtual assistant': '虚拟助理', 'developer': '开发',
+  'engineer': '工程师', 'mobile': '移动端', 'ios': 'iOS', 'android': 'Android',
+  'data': '数据', 'analytics': '分析', 'security': '安全', 'cloud': '云', 'api': 'API',
+  'machine learning': '机器学习', 'ai': '人工智能', 'sql': 'SQL', 'nosql': 'NoSQL',
+}
+const LOC_ZH = {
+  'remote': '远程', 'anywhere': '全球远程', 'worldwide': '全球', 'europe': '欧洲',
+  'us': '美国', 'usa': '美国', 'united states': '美国', 'uk': '英国', 'global': '全球',
+  '国内': '国内', 'china': '中国', '中国': '中国',
+}
+const firstWordCap = (s) => s.charAt(0).toUpperCase() + s.slice(1)
+function catZH(c) {
+  if (!c) return '其他'
+  if (CATEGORY_ZH[c]) return CATEGORY_ZH[c]
+  const low = c.toLowerCase()
+  if (CATEGORY_ZH[low]) return CATEGORY_ZH[low]
+  if (TAG_ZH[low]) return TAG_ZH[low]
+  // 未命中：原样返回（多为已中文或专有名词）
+  return /[一-龥]/.test(c) ? c : firstWordCap(c)
+}
+function tagZH(t) {
+  if (!t) return t
+  if (TAG_ZH[t]) return TAG_ZH[t]
+  const low = t.toLowerCase()
+  if (TAG_ZH[low]) return TAG_ZH[low]
+  return t
+}
+function locZH(loc) {
+  if (!loc) return '—'
+  if (LOC_ZH[loc]) return LOC_ZH[loc]
+  const low = loc.toLowerCase()
+  if (LOC_ZH[low]) return LOC_ZH[low]
+  return loc
+}
+function sourceLabel(job) {
+  const region = job.region === 'domestic' ? '国内' : '海外'
+  return `${job.source}·${region}`
+}
 
 const sources = computed(() => [...new Set(jobs.value.map(j => j.source))].sort())
 const categories = computed(() => [...new Set(jobs.value.map(j => j.category).filter(Boolean))].sort())
@@ -105,11 +181,15 @@ const categories = computed(() => [...new Set(jobs.value.map(j => j.category).fi
 const filteredJobs = computed(() => {
   const kw = searchQuery.value.trim().toLowerCase()
   let list = jobs.value.filter(j => {
+    if (activeRegion.value !== 'all' && (j.region || 'foreign') !== activeRegion.value) return false
     if (activeSource.value !== 'all' && j.source !== activeSource.value) return false
     if (activeCategory.value !== 'all' && j.category !== activeCategory.value) return false
     if (remoteOnly.value && !j.remote) return false
     if (kw) {
-      const hay = [j.title, j.company, j.location, ...(j.skills || [])].join(' ').toLowerCase()
+      const hay = [
+        j.title, j.company, locZH(j.location), catZH(j.category),
+        ...(j.skills || []).map(tagZH),
+      ].join(' ').toLowerCase()
       if (!hay.includes(kw)) return false
     }
     return true
@@ -121,7 +201,15 @@ const filteredJobs = computed(() => {
   }
   if (sortBy.value === 'salary_desc') list.sort(bySalary('desc'))
   else if (sortBy.value === 'salary_asc') list.sort(bySalary('asc'))
-  else list.sort(byDate)
+  else if (sortBy.value === 'newest') list.sort(byDate)
+  else { // domestic_first（默认）：国内优先，再按时间
+    list.sort((a, b) => {
+      const ra = (a.region === 'domestic') ? 0 : 1
+      const rb = (b.region === 'domestic') ? 0 : 1
+      if (ra !== rb) return ra - rb
+      return byDate(a, b)
+    })
+  }
   return list
 })
 
@@ -222,11 +310,18 @@ onMounted(loadData)
   flex-shrink: 0; font-size: 11px; padding: 2px 8px; border-radius: 999px;
   background: var(--bg-hover); color: var(--text-secondary);
 }
+.source-badge.domestic { background: rgba(34, 197, 94, 0.15); color: #4ade80; }
+.source-badge.foreign { background: rgba(99, 102, 241, 0.15); color: #a5b4fc; }
 .job-company { font-size: 13px; color: var(--text-secondary); }
 .remote-tag {
   font-size: 11px; padding: 1px 7px; border-radius: 999px;
   background: rgba(34, 197, 94, 0.15); color: #4ade80;
 }
+.region-tag {
+  font-size: 11px; padding: 1px 7px; border-radius: 999px; font-weight: 600;
+}
+.region-tag.domestic { background: rgba(34, 197, 94, 0.12); color: #4ade80; }
+.region-tag.foreign { background: rgba(99, 102, 241, 0.12); color: #a5b4fc; }
 .salary-badge {
   display: inline-block; font-size: 13px; font-weight: 600;
   color: #fbbf24; background: rgba(251, 191, 36, 0.12);
