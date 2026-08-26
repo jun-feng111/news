@@ -1,13 +1,163 @@
 {
-  "updated": "2026-08-26T09:13:40.910Z",
-  "count": 117,
+  "updated": "2026-08-26T10:18:44.392Z",
+  "count": 123,
   "sources": {
+    "V2EX": 6,
     "RemoteOK": 99,
     "Remotive": 18,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1237420",
+      "title": "公司改了第三方公司缴纳社保和工资发放主体有什么风险吗？",
+      "company": "NLL",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [],
+      "category": "其他",
+      "postedDate": "2026-08-26",
+      "url": "https://www.v2ex.com/t/1237420",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1237392",
+      "title": "｜字节跳动｜资深后端工程师/后端技术专家",
+      "company": "LuoDiNate",
+      "location": "上海",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "java",
+        "spring",
+        "spark",
+        "hadoop"
+      ],
+      "category": "后端",
+      "postedDate": "2026-08-26",
+      "url": "https://www.v2ex.com/t/1237392",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1237349",
+      "title": "招募东莞东城 ERP 工程师， 5 年经验",
+      "company": "littlemis",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "c#"
+      ],
+      "category": "其他",
+      "postedDate": "2026-08-26",
+      "url": "https://www.v2ex.com/t/1237349",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1237028",
+      "title": "安全服务工程师（政府/企业服务方向）",
+      "company": "wzlsgspdtc",
+      "location": "广州",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [],
+      "category": "其他",
+      "postedDate": "2026-08-25",
+      "url": "https://www.v2ex.com/t/1237028",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1236988",
+      "title": "高级 Java 全栈开发工程师 20~35K",
+      "company": "SbloodyS",
+      "location": "广州",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "java",
+        "react",
+        "vue",
+        "spring",
+        "docker",
+        "mysql",
+        "redis"
+      ],
+      "category": "全栈",
+      "postedDate": "2026-08-25",
+      "url": "https://www.v2ex.com/t/1236988",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1236929",
+      "title": "go 高级开发工程师 工作地点上海五角场",
+      "company": "wanghuinet",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "go",
+        "golang",
+        "c++"
+      ],
+      "category": "其他",
+      "postedDate": "2026-08-24",
+      "url": "https://www.v2ex.com/t/1236929",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "remoteok-1137125",
+      "title": "Smokemart &amp; GiftBox Palmerstone Sales Assistant",
+      "company": "Smokemart &amp; GiftBox",
+      "location": "Darwin,",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "accounting",
+        "customer support",
+        "recruiter",
+        "non tech",
+        "virtual assistant",
+        "infosec",
+        "marketing",
+        "exec",
+        "sales",
+        "golang"
+      ],
+      "category": "accounting",
+      "postedDate": "2026-08-25",
+      "url": "https://remoteOK.com/remote-jobs/remote-smokemart-amp-giftbox-palmerstone-sales-assistant-smokemart-amp-giftbox-1137125",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
     {
       "id": "remoteok-1137114",
       "title": "Senior Backend Engineer Build AI Agents",
@@ -28,7 +178,8 @@
       "category": "golang",
       "postedDate": "2026-08-25",
       "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137112",
@@ -44,7 +195,8 @@
       "category": "Software",
       "postedDate": "2026-08-24",
       "url": "https://remoteOK.com/remote-jobs/remote-lego-teatro-multiplan-morumbishopping-1137112",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137105",
@@ -63,7 +215,8 @@
       "category": "exec",
       "postedDate": "2026-08-24",
       "url": "https://remoteOK.com/remote-jobs/remote-executive-vashi-integrated-solutions-1137105",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137107",
@@ -88,7 +241,8 @@
       "category": "exec",
       "postedDate": "2026-08-24",
       "url": "https://remoteOK.com/remote-jobs/remote-bell-captain-four-seasons-1137107",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137100",
@@ -104,7 +258,8 @@
       "category": "Software",
       "postedDate": "2026-08-24",
       "url": "https://remoteOK.com/remote-jobs/remote-store-person-krannich-solar-australia-1137100",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137102",
@@ -126,7 +281,8 @@
       "category": "dev",
       "postedDate": "2026-08-24",
       "url": "https://remoteOK.com/remote-jobs/remote-glucobay-task-force-bayer-1137102",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137096",
@@ -155,7 +311,8 @@
       "category": "design",
       "postedDate": "2026-08-24",
       "url": "https://remoteOK.com/remote-jobs/remote-residential-technician-the-abaco-club-1137096",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137092",
@@ -176,7 +333,8 @@
       "category": "education",
       "postedDate": "2026-08-23",
       "url": "https://remoteOK.com/remote-jobs/remote-electrical-tradesperson-territory-generation-1137092",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137091",
@@ -196,7 +354,8 @@
       "category": "finance",
       "postedDate": "2026-08-23",
       "url": "https://remoteOK.com/remote-jobs/remote-cdp-saasuji-1137091",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137086",
@@ -215,7 +374,8 @@
       "category": "education",
       "postedDate": "2026-08-23",
       "url": "https://remoteOK.com/remote-jobs/remote-sandwich-artist-subway-1137086",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137073",
@@ -242,7 +402,8 @@
       "category": "education",
       "postedDate": "2026-08-22",
       "url": "https://remoteOK.com/remote-jobs/remote-retail-store-associate-rowan-1137073",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137072",
@@ -270,7 +431,8 @@
       "category": "hr",
       "postedDate": "2026-08-22",
       "url": "https://remoteOK.com/remote-jobs/remote-senior-specialist-global-qms-orca-bio-1137072",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137075",
@@ -292,7 +454,8 @@
       "category": "education",
       "postedDate": "2026-08-22",
       "url": "https://remoteOK.com/remote-jobs/remote-across-all-departments-saasuji-1137075",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137098",
@@ -316,7 +479,8 @@
       "category": "exec",
       "postedDate": "2026-08-22",
       "url": "https://remoteOK.com/remote-jobs/remote-quantity-surveyor-edspired-tech-1137098",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137071",
@@ -336,7 +500,8 @@
       "category": "education",
       "postedDate": "2026-08-22",
       "url": "https://remoteOK.com/remote-jobs/remote-building-cleaner-newfoundland-chocolate-company-1137071",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137074",
@@ -355,7 +520,8 @@
       "category": "education",
       "postedDate": "2026-08-22",
       "url": "https://remoteOK.com/remote-jobs/remote-officer-lupin-ltd-1137074",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137077",
@@ -378,7 +544,8 @@
       "category": "exec",
       "postedDate": "2026-08-22",
       "url": "https://remoteOK.com/remote-jobs/remote-team-manager-newry-extra-tesco-1137077",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137099",
@@ -405,7 +572,8 @@
       "category": "exec",
       "postedDate": "2026-08-22",
       "url": "https://remoteOK.com/remote-jobs/remote-dtp-operator-jobtrade-1137099",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137066",
@@ -421,7 +589,8 @@
       "category": "Software",
       "postedDate": "2026-08-22",
       "url": "https://remoteOK.com/remote-jobs/remote-parcel-delivery-drivers-inpost-group-1137066",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137062",
@@ -450,7 +619,8 @@
       "category": "full stack",
       "postedDate": "2026-08-22",
       "url": "https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137061",
@@ -479,7 +649,8 @@
       "category": "analyst",
       "postedDate": "2026-08-22",
       "url": "https://remoteOK.com/remote-jobs/remote-senior-governance-risk-and-compliance-analyst-rainfocus-1137061",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137065",
@@ -499,7 +670,8 @@
       "category": "finance",
       "postedDate": "2026-08-22",
       "url": "https://remoteOK.com/remote-jobs/remote-cdp-east-coast-concepts-1137065",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137063",
@@ -521,7 +693,8 @@
       "category": "exec",
       "postedDate": "2026-08-21",
       "url": "https://remoteOK.com/remote-jobs/remote-post-office-manager-shoppers-drug-mart-1137063",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137060",
@@ -548,7 +721,8 @@
       "category": "design",
       "postedDate": "2026-08-21",
       "url": "https://remoteOK.com/remote-jobs/remote-estimator-linsco-ltd-1137060",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137069",
@@ -577,7 +751,8 @@
       "category": "design",
       "postedDate": "2026-08-21",
       "url": "https://remoteOK.com/remote-jobs/remote-project-systems-specialist-dart-1137069",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137048",
@@ -596,7 +771,8 @@
       "category": "marketing",
       "postedDate": "2026-08-21",
       "url": "https://remoteOK.com/remote-jobs/remote-uday-myaarohan-1137048",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137113",
@@ -620,7 +796,8 @@
       "category": "virtual assistant",
       "postedDate": "2026-08-21",
       "url": "https://remoteOK.com/remote-jobs/remote-aus-dr-martens-sales-assistant-expression-of-interest-dr-martens-australia-new-zealand-1137113",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137047",
@@ -645,7 +822,8 @@
       "category": "education",
       "postedDate": "2026-08-21",
       "url": "https://remoteOK.com/remote-jobs/remote-estimator-brisbane-mcnab-1137047",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137059",
@@ -668,7 +846,8 @@
       "category": "customer support",
       "postedDate": "2026-08-21",
       "url": "https://remoteOK.com/remote-jobs/remote-removalist-offsider-kent-removals-amp-storage-1137059",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137043",
@@ -697,7 +876,8 @@
       "category": "virtual assistant",
       "postedDate": "2026-08-21",
       "url": "https://remoteOK.com/remote-jobs/remote-reddy-express-alice-springs-mt-gillen-customer-service-representative-otr-1137043",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137037",
@@ -716,7 +896,8 @@
       "category": "customer support",
       "postedDate": "2026-08-21",
       "url": "https://remoteOK.com/remote-jobs/remote-open-positions-uzeats-1137037",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137039",
@@ -742,7 +923,8 @@
       "category": "virtual assistant",
       "postedDate": "2026-08-21",
       "url": "https://remoteOK.com/remote-jobs/remote-stock-assistant-supre-parramatta-cotton-on-group-1137039",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137042",
@@ -771,7 +953,8 @@
       "category": "virtual assistant",
       "postedDate": "2026-08-21",
       "url": "https://remoteOK.com/remote-jobs/remote-store-manager-bunbury-retail-fx-1137042",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remotive-2091105",
@@ -792,7 +975,8 @@
       "category": "All others",
       "postedDate": "2026-08-21",
       "url": "https://remotive.com/remote-jobs/all-others/content-reviewer-english-us-2091105",
-      "source": "Remotive"
+      "source": "Remotive",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137068",
@@ -821,7 +1005,8 @@
       "category": "design",
       "postedDate": "2026-08-20",
       "url": "https://remoteOK.com/remote-jobs/remote-field-technician-iii-cable-bahamas-ltd-1137068",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137055",
@@ -850,7 +1035,8 @@
       "category": "sales",
       "postedDate": "2026-08-20",
       "url": "https://remoteOK.com/remote-jobs/remote-beauty-merchandiser-shoppers-drug-mart-1137055",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137035",
@@ -869,7 +1055,8 @@
       "category": "exec",
       "postedDate": "2026-08-20",
       "url": "https://remoteOK.com/remote-jobs/remote-orderly-nt-health-1137035",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137027",
@@ -888,7 +1075,8 @@
       "category": "accounting",
       "postedDate": "2026-08-20",
       "url": "https://remoteOK.com/remote-jobs/remote-loss-prevention-officer-manhattan-grand-hotel-1137027",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137044",
@@ -914,7 +1102,8 @@
       "category": "design",
       "postedDate": "2026-08-20",
       "url": "https://remoteOK.com/remote-jobs/remote-sales-advisor-hampm-1137044",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137022",
@@ -934,7 +1123,8 @@
       "category": "customer support",
       "postedDate": "2026-08-20",
       "url": "https://remoteOK.com/remote-jobs/remote-team-member-level-2-gpc-asia-pacific-1137022",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137057",
@@ -955,7 +1145,8 @@
       "category": "technical",
       "postedDate": "2026-08-20",
       "url": "https://remoteOK.com/remote-jobs/remote-senior-executive-exl-1137057",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137030",
@@ -971,7 +1162,8 @@
       "category": "Software",
       "postedDate": "2026-08-20",
       "url": "https://remoteOK.com/remote-jobs/remote-roupeiro-presenza-psicologia-1137030",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137085",
@@ -996,7 +1188,8 @@
       "category": "exec",
       "postedDate": "2026-08-20",
       "url": "https://remoteOK.com/remote-jobs/remote-platypus-store-manager-grand-plaza-platypus-shoes-1137085",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137007",
@@ -1017,7 +1210,8 @@
       "category": "travel",
       "postedDate": "2026-08-20",
       "url": "https://remoteOK.com/remote-jobs/remote-pilot-spacex-1137007",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137029",
@@ -1040,7 +1234,8 @@
       "category": "accounting",
       "postedDate": "2026-08-20",
       "url": "https://remoteOK.com/remote-jobs/remote-accountant-tipsy-topsy-1137029",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137008",
@@ -1061,7 +1256,8 @@
       "category": "customer support",
       "postedDate": "2026-08-20",
       "url": "https://remoteOK.com/remote-jobs/remote-front-office-executive-radisson-hotel-group-1137008",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137028",
@@ -1083,7 +1279,8 @@
       "category": "accounting",
       "postedDate": "2026-08-20",
       "url": "https://remoteOK.com/remote-jobs/remote-account-officer-natural-spirits-nepal-1137028",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137023",
@@ -1103,7 +1300,8 @@
       "category": "design",
       "postedDate": "2026-08-20",
       "url": "https://remoteOK.com/remote-jobs/remote-across-all-departments-vistara-group-1137023",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137119",
@@ -1128,7 +1326,8 @@
       "category": "technical",
       "postedDate": "2026-08-20",
       "url": "https://remoteOK.com/remote-jobs/remote-utility-continental-events-1137119",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1136997",
@@ -1155,7 +1354,8 @@
       "category": "education",
       "postedDate": "2026-08-20",
       "url": "https://remoteOK.com/remote-jobs/remote-trimmer-canopy-growth-corporation-1136997",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1136987",
@@ -1178,7 +1378,8 @@
       "category": "consulting",
       "postedDate": "2026-08-20",
       "url": "https://remoteOK.com/remote-jobs/remote-consultant-implementation-engineer-harbor-1136987",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remotive-2091098",
@@ -1207,7 +1408,8 @@
       "category": "Software Development",
       "postedDate": "2026-08-20",
       "url": "https://remotive.com/remote-jobs/software-development/senior-golang-developer-2091098",
-      "source": "Remotive"
+      "source": "Remotive",
+      "region": "foreign"
     },
     {
       "id": "remotive-2091104",
@@ -1236,7 +1438,8 @@
       "category": "All others",
       "postedDate": "2026-08-20",
       "url": "https://remotive.com/remote-jobs/all-others/vice-president-technology-digital-strategy-2091104",
-      "source": "Remotive"
+      "source": "Remotive",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137016",
@@ -1259,7 +1462,8 @@
       "category": "design",
       "postedDate": "2026-08-19",
       "url": "https://remoteOK.com/remote-jobs/remote-laborer-wood-1137016",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1136999",
@@ -1288,7 +1492,8 @@
       "category": "education",
       "postedDate": "2026-08-19",
       "url": "https://remoteOK.com/remote-jobs/remote-baker-day-loblaw-companies-limited-1136999",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137018",
@@ -1317,7 +1522,8 @@
       "category": "dev",
       "postedDate": "2026-08-19",
       "url": "https://remoteOK.com/remote-jobs/remote-technician-1-sunbelt-rentals-inc-1137018",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137000",
@@ -1346,7 +1552,8 @@
       "category": "education",
       "postedDate": "2026-08-19",
       "url": "https://remoteOK.com/remote-jobs/remote-overnight-task-team-ft-bass-pro-shops-1137000",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137019",
@@ -1375,7 +1582,8 @@
       "category": "dev",
       "postedDate": "2026-08-19",
       "url": "https://remoteOK.com/remote-jobs/remote-ci001-courier-fedex-1137019",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1136994",
@@ -1404,7 +1612,8 @@
       "category": "sys admin",
       "postedDate": "2026-08-19",
       "url": "https://remoteOK.com/remote-jobs/remote-assembly-technician-flow-control-commune-1136994",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137017",
@@ -1427,7 +1636,8 @@
       "category": "dev",
       "postedDate": "2026-08-19",
       "url": "https://remoteOK.com/remote-jobs/remote-collections-agent-crncy-group-1137017",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137012",
@@ -1456,7 +1666,8 @@
       "category": "customer support",
       "postedDate": "2026-08-19",
       "url": "https://remoteOK.com/remote-jobs/remote-costing-engineer-larsen-amp-toubro-1137012",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1136993",
@@ -1485,7 +1696,8 @@
       "category": "sys admin",
       "postedDate": "2026-08-19",
       "url": "https://remoteOK.com/remote-jobs/remote-general-physician-srikara-hospitals-1136993",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137067",
@@ -1506,7 +1718,8 @@
       "category": "customer support",
       "postedDate": "2026-08-19",
       "url": "https://remoteOK.com/remote-jobs/remote-justice-officer-grounds-and-services-department-of-justice-and-community-safety-victoria-1137067",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1136968",
@@ -1531,7 +1744,8 @@
       "category": "customer support",
       "postedDate": "2026-08-19",
       "url": "https://remoteOK.com/remote-jobs/remote-general-practitioner-north-balwyn-bupa-australia-1136968",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1136964",
@@ -1552,7 +1766,8 @@
       "category": "education",
       "postedDate": "2026-08-19",
       "url": "https://remoteOK.com/remote-jobs/remote-specimen-collector-alcotech-group-1136964",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1136965",
@@ -1568,7 +1783,8 @@
       "category": "Software",
       "postedDate": "2026-08-19",
       "url": "https://remoteOK.com/remote-jobs/remote-cell-production-vbs-associates-1136965",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1136998",
@@ -1597,7 +1813,8 @@
       "category": "education",
       "postedDate": "2026-08-19",
       "url": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-verlo-1136998",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1136963",
@@ -1617,7 +1834,8 @@
       "category": "customer support",
       "postedDate": "2026-08-19",
       "url": "https://remoteOK.com/remote-jobs/remote-general-interest-midjourney-1136963",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137121",
@@ -1643,7 +1861,8 @@
       "category": "technical",
       "postedDate": "2026-08-19",
       "url": "https://remoteOK.com/remote-jobs/remote-overnight-task-team-lead-bass-pro-shops-1137121",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137046",
@@ -1659,7 +1878,8 @@
       "category": "Software",
       "postedDate": "2026-08-19",
       "url": "https://remoteOK.com/remote-jobs/remote-vaga-de-motorista-entregador-em-sorocaba-pat-1137046",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remotive-2091097",
@@ -1688,7 +1908,8 @@
       "category": "Software Development",
       "postedDate": "2026-08-19",
       "url": "https://remotive.com/remote-jobs/software-development/senior-data-engineer-2091097",
-      "source": "Remotive"
+      "source": "Remotive",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1136955",
@@ -1714,7 +1935,8 @@
       "category": "infosec",
       "postedDate": "2026-08-18",
       "url": "https://remoteOK.com/remote-jobs/remote-unexploded-ordnance-tech-ii-alakaina-foundation-family-of-companies-1136955",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1136954",
@@ -1734,7 +1956,8 @@
       "category": "infosec",
       "postedDate": "2026-08-18",
       "url": "https://remoteOK.com/remote-jobs/remote-security-guard-four-seasons-1136954",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1136959",
@@ -1758,7 +1981,8 @@
       "category": "hr",
       "postedDate": "2026-08-18",
       "url": "https://remoteOK.com/remote-jobs/remote-planner-amp-zoning-specialist-city-of-covington-georgia-1136959",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1136962",
@@ -1778,7 +2002,8 @@
       "category": "customer support",
       "postedDate": "2026-08-18",
       "url": "https://remoteOK.com/remote-jobs/remote-all-other-roles-collate-1136962",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137006",
@@ -1807,7 +2032,8 @@
       "category": "education",
       "postedDate": "2026-08-18",
       "url": "https://remoteOK.com/remote-jobs/remote-store-manager-jack-amp-jones-1137006",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1136996",
@@ -1827,7 +2053,8 @@
       "category": "education",
       "postedDate": "2026-08-18",
       "url": "https://remoteOK.com/remote-jobs/remote-millwright-twi-foods-inc-1136996",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1136967",
@@ -1847,7 +2074,8 @@
       "category": "dev",
       "postedDate": "2026-08-18",
       "url": "https://remoteOK.com/remote-jobs/remote-email-developer-the-home-depot-canada-1136967",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137116",
@@ -1867,7 +2095,8 @@
       "category": "hr",
       "postedDate": "2026-08-18",
       "url": "https://remoteOK.com/remote-jobs/remote-airport-ground-staff-jobs-for-freshers-fronix-services-1137116",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137002",
@@ -1889,7 +2118,8 @@
       "category": "education",
       "postedDate": "2026-08-18",
       "url": "https://remoteOK.com/remote-jobs/remote-bellboy-the-chedi-lustica-bay-1137002",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1136981",
@@ -1918,7 +2148,8 @@
       "category": "supervisor",
       "postedDate": "2026-08-18",
       "url": "https://remoteOK.com/remote-jobs/remote-general-cleaner-caribe-hilton-hilton-1136981",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1136979",
@@ -1947,7 +2178,8 @@
       "category": "supervisor",
       "postedDate": "2026-08-18",
       "url": "https://remoteOK.com/remote-jobs/remote-accounts-receivable-clerk-alpha-bpo-corp-1136979",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1136950",
@@ -1971,7 +2203,8 @@
       "category": "customer support",
       "postedDate": "2026-08-18",
       "url": "https://remoteOK.com/remote-jobs/remote-marketing-operations-specialist-engine-1136950",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1136949",
@@ -2000,7 +2233,8 @@
       "category": "design",
       "postedDate": "2026-08-18",
       "url": "https://remoteOK.com/remote-jobs/remote-team-lead-education-chaos-1136949",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1136948",
@@ -2026,7 +2260,8 @@
       "category": "design",
       "postedDate": "2026-08-18",
       "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1136989",
@@ -2050,7 +2285,8 @@
       "category": "sys admin",
       "postedDate": "2026-08-18",
       "url": "https://remoteOK.com/remote-jobs/remote-customer-care-representative-associate-omani-nationals-only-fedex-1136989",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1136995",
@@ -2079,7 +2315,8 @@
       "category": "sys admin",
       "postedDate": "2026-08-18",
       "url": "https://remoteOK.com/remote-jobs/remote-field-sales-executive-bhushan-international-1136995",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1136966",
@@ -2098,7 +2335,8 @@
       "category": "education",
       "postedDate": "2026-08-18",
       "url": "https://remoteOK.com/remote-jobs/remote-team-member-special-assignment-reliance-industries-limited-1136966",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1136976",
@@ -2127,7 +2365,8 @@
       "category": "customer support",
       "postedDate": "2026-08-18",
       "url": "https://remoteOK.com/remote-jobs/remote-reddy-express-karratha-customer-service-representative-otr-1136976",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1136972",
@@ -2156,7 +2395,8 @@
       "category": "customer support",
       "postedDate": "2026-08-18",
       "url": "https://remoteOK.com/remote-jobs/remote-maintenance-fitter-power-fm-bega-bay-1136972",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1136969",
@@ -2185,7 +2425,8 @@
       "category": "customer support",
       "postedDate": "2026-08-18",
       "url": "https://remoteOK.com/remote-jobs/remote-team-member-cotton-on-market-city-mega-cotton-on-group-1136969",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1136937",
@@ -2211,7 +2452,8 @@
       "category": "exec",
       "postedDate": "2026-08-18",
       "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1136971",
@@ -2240,7 +2482,8 @@
       "category": "customer support",
       "postedDate": "2026-08-18",
       "url": "https://remoteOK.com/remote-jobs/remote-in-store-visual-merchandiser-rebel-rcx-chadstone-rebel-sport-1136971",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1136975",
@@ -2269,7 +2512,8 @@
       "category": "customer support",
       "postedDate": "2026-08-18",
       "url": "https://remoteOK.com/remote-jobs/remote-sales-assistant-antojitos-mexicanos-la-jefa-1136975",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1136974",
@@ -2298,7 +2542,8 @@
       "category": "customer support",
       "postedDate": "2026-08-18",
       "url": "https://remoteOK.com/remote-jobs/remote-store-manager-port-macquarie-seed-heritage-1136974",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1136932",
@@ -2323,7 +2568,8 @@
       "category": "sys admin",
       "postedDate": "2026-08-18",
       "url": "https://remoteOK.com/remote-jobs/remote-various-plumbers-co-op-1136932",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1136953",
@@ -2342,7 +2588,8 @@
       "category": "testing",
       "postedDate": "2026-08-18",
       "url": "https://remoteOK.com/remote-jobs/remote-test-the-inua-hotel-collection-1136953",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137054",
@@ -2367,7 +2614,8 @@
       "category": "sales",
       "postedDate": "2026-08-18",
       "url": "https://remoteOK.com/remote-jobs/remote-mairoom-clerk-tph-1137054",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1136940",
@@ -2396,7 +2644,8 @@
       "category": "sys admin",
       "postedDate": "2026-08-17",
       "url": "https://remoteOK.com/remote-jobs/remote-general-merchandise-department-manager-walmart-canada-1136940",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1136991",
@@ -2421,7 +2670,8 @@
       "category": "sys admin",
       "postedDate": "2026-08-17",
       "url": "https://remoteOK.com/remote-jobs/remote-ground-staff-required-thiruvananthapuram-airport-fronix-services-1136991",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137056",
@@ -2441,7 +2691,8 @@
       "category": "technical",
       "postedDate": "2026-08-17",
       "url": "https://remoteOK.com/remote-jobs/remote-hiring-for-air-ticketing-ground-staff-fronix-services-1137056",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1136944",
@@ -2461,33 +2712,8 @@
       "category": "recruiter",
       "postedDate": "2026-08-17",
       "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-with-first-quantum-first-quantum-minerals-1136944",
-      "source": "RemoteOK"
-    },
-    {
-      "id": "remoteok-1136926",
-      "title": "Fire Fighter",
-      "company": "Adani Airport Holdings Ltd",
-      "location": "Mangaluru,",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "infosec",
-        "education",
-        "customer support",
-        "marketing",
-        "exec",
-        "finance",
-        "ops",
-        "medical",
-        "engineer"
-      ],
-      "category": "infosec",
-      "postedDate": "2026-08-17",
-      "url": "https://remoteOK.com/remote-jobs/remote-fire-fighter-adani-airport-holdings-ltd-1136926",
-      "source": "RemoteOK"
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remotive-1919266",
@@ -2511,7 +2737,8 @@
       "category": "Software Development",
       "postedDate": "2026-08-16",
       "url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
-      "source": "Remotive"
+      "source": "Remotive",
+      "region": "foreign"
     },
     {
       "id": "remotive-1919265",
@@ -2534,7 +2761,8 @@
       "category": "Software Development",
       "postedDate": "2026-08-16",
       "url": "https://remotive.com/remote-jobs/software-development/senior-independent-software-developer-1919265",
-      "source": "Remotive"
+      "source": "Remotive",
+      "region": "foreign"
     },
     {
       "id": "remotive-2091068",
@@ -2562,7 +2790,8 @@
       "category": "Marketing",
       "postedDate": "2026-08-15",
       "url": "https://remotive.com/remote-jobs/marketing/head-of-marketing-communications-2091068",
-      "source": "Remotive"
+      "source": "Remotive",
+      "region": "foreign"
     },
     {
       "id": "remotive-2069746",
@@ -2591,7 +2820,8 @@
       "category": "Software Development",
       "postedDate": "2026-08-14",
       "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
-      "source": "Remotive"
+      "source": "Remotive",
+      "region": "foreign"
     },
     {
       "id": "remotive-2091093",
@@ -2609,7 +2839,8 @@
       "category": "All others",
       "postedDate": "2026-08-13",
       "url": "https://remotive.com/remote-jobs/all-others/face-deduplication-collection-2091093",
-      "source": "Remotive"
+      "source": "Remotive",
+      "region": "foreign"
     },
     {
       "id": "remotive-1680495",
@@ -2638,7 +2869,8 @@
       "category": "Marketing",
       "postedDate": "2026-08-11",
       "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
-      "source": "Remotive"
+      "source": "Remotive",
+      "region": "foreign"
     },
     {
       "id": "remotive-2086540",
@@ -2659,7 +2891,8 @@
       "category": "Sales",
       "postedDate": "2026-08-08",
       "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
-      "source": "Remotive"
+      "source": "Remotive",
+      "region": "foreign"
     },
     {
       "id": "remotive-2091045",
@@ -2688,7 +2921,8 @@
       "category": "Information Technology",
       "postedDate": "2026-08-07",
       "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
-      "source": "Remotive"
+      "source": "Remotive",
+      "region": "foreign"
     },
     {
       "id": "remotive-2091088",
@@ -2711,7 +2945,8 @@
       "category": "Sales",
       "postedDate": "2026-08-05",
       "url": "https://remotive.com/remote-jobs/sales/sales-jedi-2091088",
-      "source": "Remotive"
+      "source": "Remotive",
+      "region": "foreign"
     },
     {
       "id": "remotive-2091087",
@@ -2740,7 +2975,8 @@
       "category": "Customer Service",
       "postedDate": "2026-08-05",
       "url": "https://remotive.com/remote-jobs/customer-service/saas-product-support-jedi-2091087",
-      "source": "Remotive"
+      "source": "Remotive",
+      "region": "foreign"
     },
     {
       "id": "remotive-1185979",
@@ -2758,7 +2994,8 @@
       "category": "Writing",
       "postedDate": "2026-08-04",
       "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
-      "source": "Remotive"
+      "source": "Remotive",
+      "region": "foreign"
     },
     {
       "id": "remotive-1749306",
@@ -2785,7 +3022,8 @@
       "category": "Writing",
       "postedDate": "2026-08-02",
       "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
-      "source": "Remotive"
+      "source": "Remotive",
+      "region": "foreign"
     },
     {
       "id": "remotive-2091081",
@@ -2814,7 +3052,8 @@
       "category": "Design",
       "postedDate": "2026-07-28",
       "url": "https://remotive.com/remote-jobs/design/senior-graphic-designer-2091081",
-      "source": "Remotive"
+      "source": "Remotive",
+      "region": "foreign"
     },
     {
       "id": "remotive-2090903",
@@ -2834,7 +3073,8 @@
       "category": "Data and Analytics",
       "postedDate": "2026-07-26",
       "url": "https://remotive.com/remote-jobs/data/data-labeling-specialists-2090903",
-      "source": "Remotive"
+      "source": "Remotive",
+      "region": "foreign"
     }
   ]
 }
