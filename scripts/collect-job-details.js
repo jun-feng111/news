@@ -10,7 +10,9 @@
 //     - 维度4: 趋势（"{岗位} 就业趋势 招聘"）
 //   Bing News RSS 在 GitHub Actions（海外 IP）可达，本地可能被重定向到 cn.bing.com。
 //
-// 产出结构与 raw-articles.json 完全一致，归到"就业"分类。
+// 产出结构与 raw-articles.json 完全一致，归到"就业"分类；
+// 同时额外导出结构化文件 public/data/china-jobs.json（按岗位+维度聚合），
+// 供「中国岗位分析」独立展示区（src/views/ChinaJobs.vue）使用。
 
 import fs from 'node:fs'
 import path from 'node:path'
@@ -20,6 +22,7 @@ import crypto from 'node:crypto'
 
 const DATA_DIR = path.join(process.cwd(), 'public', 'data')
 const RAW_PATH = path.join(DATA_DIR, 'raw-articles.json')
+const CHINA_JOBS_PATH = path.join(DATA_DIR, 'china-jobs.json')
 const CATEGORY = '就业'
 
 // ── 岗位列表：覆盖全部常见技术岗 ──
@@ -43,11 +46,12 @@ const POSITIONS = [
 ]
 
 // ── 搜索维度：每个岗位 × 每个维度 = 一条 Bing News RSS 查询 ──
+// label 用于前端「中国岗位分析」页的维度筛选展示
 const DIMENSIONS = [
-  { key: 'salary', suffix: '薪资 待遇 2026', filter: /(薪资|薪水|待遇|月薪|年薪|薪酬|工资|收入)/ },
-  { key: 'prospect', suffix: '就业前景 行业趋势', filter: /(前景|趋势|行业|市场|需求|缺口|饱和|内卷|就业率)/ },
-  { key: 'skill', suffix: '技能要求 岗位要求', filter: /(技能|要求|能力|技术栈|必备|掌握|熟练|精通|资格)/ },
-  { key: 'trend', suffix: '招聘 就业分析 报告', filter: /(招聘|就业|分析|报告|趋势|行情|供需)/ },
+  { key: 'salary', label: '薪资待遇', suffix: '薪资 待遇 2026', filter: /(薪资|薪水|待遇|月薪|年薪|薪酬|工资|收入)/ },
+  { key: 'prospect', label: '就业前景', suffix: '就业前景 行业趋势', filter: /(前景|趋势|行业|市场|需求|缺口|饱和|内卷|就业率)/ },
+  { key: 'skill', label: '技能要求', suffix: '技能要求 岗位要求', filter: /(技能|要求|能力|技术栈|必备|掌握|熟练|精通|资格)/ },
+  { key: 'trend', label: '招聘趋势', suffix: '招聘 就业分析 报告', filter: /(招聘|就业|分析|报告|趋势|行情|供需)/ },
 ]
 
 // 只保留近 180 天的文章（岗位分析有时效性，但比新闻宽）
@@ -158,6 +162,13 @@ function isJobAnalysis(title, desc, position, dimension) {
   return true
 }
 
+// 从标题/摘要判断品牌（用于「中国岗位分析」页标注来源机构）
+function detectBrand(text) {
+  if (/智联/.test(text)) return '智联招聘'
+  if (/BOSS|看准|直聘/.test(text)) return 'BOSS直聘'
+  return ''
+}
+
 async function parseBingNews(xml, position, dimension) {
   const items = []
   const re = /<item>([\s\S]*?)<\/item>/gi
@@ -182,6 +193,12 @@ async function parseBingNews(xml, position, dimension) {
       published: pubDate ? new Date(pubDate).toISOString() : new Date().toISOString(),
       content: desc.slice(0, 1500),
       source: source || `${position.name}·就业分析`,
+      // ↓ 供「中国岗位分析」页做结构化展示（独立数据集 china-jobs.json）
+      position: position.name,
+      dimension: dimension.key,
+      dimensionLabel: dimension.label,
+      brand: detectBrand(title + ' ' + desc),
+      summary: desc.slice(0, 280),
     })
   }
   return items
@@ -258,6 +275,49 @@ async function main() {
   if (!fs.existsSync(DATA_DIR)) fs.mkdirSync(DATA_DIR, { recursive: true })
   fs.writeFileSync(RAW_PATH, JSON.stringify(existing, null, 2))
   console.log(`岗位就业分析并入完成: 新增 ${added} 条，当前 raw 共 ${existing.length} 条`)
+
+  // ── 额外导出结构化「中国岗位分析」数据集（独立展示区用）──
+  // 同一篇文章可能命中多个岗位/维度，按 id 聚合为一条，union 岗位与维度，便于前端按岗位/维度筛选。
+  const chinaMap = new Map()
+  for (const it of allItems) {
+    const id = crypto.createHash('md5').update(it.url).digest('hex').slice(0, 12)
+    const pubTime = new Date(it.published).getTime()
+    if (!isNaN(pubTime) && now - pubTime > MAX_AGE_MS) continue
+    if (!chinaMap.has(id)) {
+      chinaMap.set(id, {
+        id,
+        title: it.title,
+        url: it.url,
+        source: it.source,
+        brand: it.brand || '',
+        published: it.published,
+        summary: it.summary || '',
+        position: it.position,
+        positions: [it.position],
+        dimensions: [it.dimensionLabel],
+        tags: [it.position, it.dimensionLabel],
+      })
+    } else {
+      const e = chinaMap.get(id)
+      if (!e.positions.includes(it.position)) e.positions.push(it.position)
+      if (!e.dimensions.includes(it.dimensionLabel)) e.dimensions.push(it.dimensionLabel)
+      for (const t of [it.position, it.dimensionLabel]) {
+        if (!e.tags.includes(t)) e.tags.push(t)
+      }
+    }
+  }
+  const chinaItems = [...chinaMap.values()].sort(
+    (a, b) => new Date(b.published).getTime() - new Date(a.published).getTime()
+  )
+  const chinaData = {
+    generatedAt: new Date().toISOString(),
+    count: chinaItems.length,
+    positions: [...new Set(chinaItems.flatMap((i) => i.positions))].sort(),
+    dimensions: DIMENSIONS.map((d) => ({ key: d.key, label: d.label })),
+    items: chinaItems,
+  }
+  fs.writeFileSync(CHINA_JOBS_PATH, JSON.stringify(chinaData, null, 2))
+  console.log(`中国岗位分析数据集导出完成: ${chinaItems.length} 条 -> ${path.basename(CHINA_JOBS_PATH)}`)
 }
 
 main().catch((e) => {
