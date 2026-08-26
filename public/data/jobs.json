@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T11:31:21.446Z",
+  "updated": "2026-08-26T12:53:16.004Z",
   "count": 123,
   "sources": {
     "V2EX": 6,
@@ -9,6 +9,26 @@
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1237448",
+      "title": "总部墨尔本；小而美的处在高速发展期的医疗 AI 外企. 求 Senior AI Models Engineer",
+      "company": "newdogwang",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "go",
+        "rust"
+      ],
+      "category": "算法/AI",
+      "postedDate": "2026-08-26",
+      "url": "https://www.v2ex.com/t/1237448",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1237441",
       "title": "远程工作负责网站 SEO 工作",
@@ -105,29 +125,23 @@
       "region": "domestic"
     },
     {
-      "id": "v2ex-1236988",
-      "title": "高级 Java 全栈开发工程师 20~35K",
-      "company": "SbloodyS",
-      "location": "广州",
+      "id": "remoteok-1137118",
+      "title": "Technical Staff",
+      "company": "Piramal Pharma Ltd",
+      "location": "Dhar,",
       "remote": false,
       "salaryText": "",
       "salaryMin": null,
       "salaryMax": null,
-      "salaryCurrency": "CNY",
+      "salaryCurrency": "",
       "skills": [
-        "java",
-        "react",
-        "vue",
-        "spring",
-        "docker",
-        "mysql",
-        "redis"
+        "technical"
       ],
-      "category": "全栈",
+      "category": "technical",
       "postedDate": "2026-08-25",
-      "url": "https://www.v2ex.com/t/1236988",
-      "source": "V2EX",
-      "region": "domestic"
+      "url": "https://remoteOK.com/remote-jobs/remote-technical-staff-piramal-pharma-ltd-1137118",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137125",
@@ -2690,27 +2704,6 @@
       "category": "technical",
       "postedDate": "2026-08-17",
       "url": "https://remoteOK.com/remote-jobs/remote-hiring-for-air-ticketing-ground-staff-fronix-services-1137056",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1136944",
-      "title": "Expression of Interest with First Quantum",
-      "company": "First Quantum Minerals",
-      "location": "Perth,",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "recruiter",
-        "ops",
-        "non tech"
-      ],
-      "category": "recruiter",
-      "postedDate": "2026-08-17",
-      "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-with-first-quantum-first-quantum-minerals-1136944",
       "source": "RemoteOK",
       "region": "foreign"
     },
