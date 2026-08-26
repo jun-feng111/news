@@ -21,6 +21,7 @@
           </template>
         </el-dropdown>
         <router-link to="/skills" class="nav-link" :class="{ active: $route.name === 'skills' }">🛠️ 技能常识</router-link>
+        <router-link to="/jobs" class="nav-link" :class="{ active: $route.name === 'jobs' }">💼 求职</router-link>
       </nav>
 
       <div class="flex items-center gap-3">

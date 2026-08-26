@@ -41,6 +41,15 @@ jobs:
       - name: Collect Job Details (Position salary/skill/prospect)
         run: node scripts/collect-job-details.js
 
+      - name: Collect Real Job Postings (Legal APIs)
+        run: node scripts/collect-jobs.js
+        # 合规数据源：RemoteOK / Remotive / Arbeitnow 免密 API + 可选 Adzuna 密钥
+        # 红线：不直爬 智联/BOSS直聘/猎聘 等（SPA 反爬 + 违反 ToS）
+        env:
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+          ADZUNA_COUNTRY: ${{ secrets.ADZUNA_COUNTRY }}
+
       - name: Fetch Full Content
         run: node scripts/fetch-content.js
 
