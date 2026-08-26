@@ -70,6 +70,20 @@ const toDate = (isoOrUnix) => {
 }
 const clean = (s) => String(s ?? '').replace(/\s+/g, ' ').trim()
 
+// ── 疑似诈骗过滤（合规红线之上的额外防护）─────────────
+// 招聘板/V2EX 论坛均可能混入驻骗帖（押金/垫付/刷单/私加微信等），从源头剔除。
+const SCAM_PATTERNS = [
+  /押金|保证金|培训费|入职费|服装费|体检费|垫付|先交|付费|会员费|激活费|报名费|工本费|资料费|手续费/,
+  /加微信|加我微信|加qq|加我qq|私聊|私信|telegram|whatsapp|微信：|qq：|加我私|加我微/,
+  /刷单|返利|返佣|彩票|博彩|赌博|理财|高收益|稳赚|日赚|月入过万|零门槛|无需经验|在家办公日赚|轻松日结|日结高薪|躺赚/,
+  /虚拟币|外汇|币圈|传销|拉人头|资金盘|投资返利|杀猪盘/,
+  /upfront|deposit fee|pay.{0,12}(fee|first)|training fee|recruiting fee|whatsapp|telegram|get rich|easy money|work from home.{0,6}(daily|earn)/i,
+]
+function isScam(text) {
+  if (!text) return false
+  return SCAM_PATTERNS.some((rx) => rx.test(String(text)))
+}
+
 // ── 各源适配器 ────────────────────────────────────────
 async function fromRemoteOK() {
   const data = await getJSON('https://remoteok.com/api', { headers: { 'User-Agent': UA } })
@@ -91,7 +105,7 @@ async function fromRemoteOK() {
       source: 'RemoteOK',
       region: 'foreign',
     }
-  })
+  }).filter((j) => !isScam(j.title + ' ' + (j.skills || []).join(' ')))
 }
 
 async function fromRemotive() {
@@ -114,7 +128,7 @@ async function fromRemotive() {
       source: 'Remotive',
       region: 'foreign',
     }
-  })
+  }).filter((j) => !isScam(j.title + ' ' + (j.skills || []).join(' ')))
 }
 
 async function fromArbeitnow() {
@@ -137,7 +151,7 @@ async function fromArbeitnow() {
       source: 'Arbeitnow',
       region: 'foreign',
     }
-  })
+  }).filter((j) => !isScam(j.title + ' ' + (j.skills || []).join(' ')))
 }
 
 async function fromAdzuna() {
@@ -169,7 +183,7 @@ async function fromAdzuna() {
       source: 'Adzuna',
       region: 'foreign',
     }
-  })
+  }).filter((j) => !isScam(j.title + ' ' + (j.skills || []).join(' ')))
 }
 
 // ── 国内源：V2EX 招聘节点（中文社区，公开 API）────────────
@@ -182,7 +196,10 @@ async function fromV2EX() {
     'flask', 'docker', 'kubernetes', 'k8s', 'aws', '阿里云', '腾讯云', 'linux', 'mysql',
     'postgresql', 'redis', 'mongodb', 'elasticsearch', 'grpc', 'graphql', 'flutter',
     'swift', 'kotlin', 'php', 'ruby', 'scala', 'spark', 'hadoop', 'pytorch', 'tensorflow']
-  return list.map((t) => {
+  // 先按标题+正文过滤疑似诈骗帖（V2EX 论坛审核最松，重点防护）
+  return list
+    .filter((t) => !isScam(clean(t.title) + ' ' + (t.content || '')))
+    .map((t) => {
     const titleRaw = clean(t.title)
     const member = (t.member && t.member.username) || ''
     const url = `https://www.v2ex.com/t/${t.id}`

@@ -5,6 +5,9 @@
       <p class="text-sm" style="color: var(--text-secondary)">
         真实岗位来自 V2EX（国内社区，优先）· RemoteOK / Remotive / Arbeitnow（海外公开 API）· 含技能要求与薪资（合规采集，不爬招聘站）
       </p>
+      <div class="disclaimer">
+        ⚠️ 岗位均来自公开渠道，<b>未经平台核验</b>。求职请通过企业官方渠道核实公司、岗位与薪资，谨防「押金 / 培训费 / 垫付 / 私加微信」类诈骗；已自动过滤含此类特征的帖子。
+      </div>
     </div>
 
     <div class="card-base overflow-hidden mb-8">
@@ -86,8 +89,8 @@
           <span v-for="sk in displaySkills(job)" :key="sk" class="skill-tag" :title="sk">{{ tagZH(sk) }}</span>
         </div>
         <div class="flex items-center justify-between text-xs" style="color: var(--text-muted)">
-          <span>{{ relativeDate(job.postedDate) }}</span>
-          <span class="view-link">查看详情 →</span>
+          <span>{{ sourceLabel(job) }} · {{ relativeDate(job.postedDate) }}</span>
+          <span class="view-link">去源头核验 ↗</span>
         </div>
       </a>
     </div>
@@ -263,6 +266,13 @@ onMounted(loadData)
 
 <style scoped>
 .hero-banner { border-radius: 12px; overflow: hidden; }
+.disclaimer {
+  margin-top: 10px; font-size: 12.5px; line-height: 1.6;
+  color: #b45309; background: rgba(251, 191, 36, 0.12);
+  border: 1px solid rgba(251, 191, 36, 0.35);
+  border-radius: 10px; padding: 8px 12px;
+}
+.disclaimer b { color: #92400e; }
 .search-box {
   position: relative; display: flex; align-items: center;
   min-width: 240px; flex: 1; max-width: 460px;
