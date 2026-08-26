@@ -1,66 +1,4 @@
 {
-  "AI": [
-    {
-      "id": "f5e441e0e9f8",
-      "title": "Gatik raises $200M to scale AI-powered autonomous freight",
-      "url": "https://www.artificialintelligence-news.com/news/gatik-200m-ai-autonomous-freight/",
-      "summary": "Autonomous trucking company Gatik has raised $200 million in Series D funding to expand its driverle",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-08-26T10:00:00.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/Gatik-raises-200M-to-scale-AI-powered-autonomous-freight-scaled-e1787721024660.jpg",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "813c205aa1a4",
-      "title": "NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots",
-      "url": "https://www.artificialintelligence-news.com/news/nvidia-jetson-orin-nano-2-physical-ai-to-drones-and-robots/",
-      "summary": "NVIDIA has unveiled the Jetson Orin Nano 2, an edge robotics computer aimed at bringing physical AI ",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-08-26T09:08:11.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/nvidia-jetson-orin-nano-2-physical-ai-edge-computing-robotics-artificial-intelligence.jpg",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "afa866e58f41",
-      "title": "MIT AI forecasts extreme weather without historical data",
-      "url": "https://www.artificialintelligence-news.com/news/mit-ai-forecasts-extreme-weather-without-historical-data/",
-      "summary": "MIT engineers have built an AI tool that forecasts extreme weather without training on historical di",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-08-25T15:46:06.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/mit-ai-extreme-weather-forecasts-predictive-modelling-machine-learning-risk-assessment-forecasting-flood-prediction.jpg",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "5f1d04b47c3e",
-      "title": "XPENG IRON humanoid robot draws record physical AI funding",
-      "url": "https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/",
-      "summary": "XPENG&#8217;s physical AI unit has secured over $900 million at a $6。3 billion valuation to scale it",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-08-24T15:53:53.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/xpeng-iron-humanoid-robot-physical-ai-model-artificial-intelligence-china-platform-scaled.jpeg",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "3171b8e205ac",
-      "title": "India&#8217;s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
-      "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
-      "summary": "India&#8217;s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-26T03:30:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Ringg-Founder-Kali-CV-Siddharth-Tripathi-Utkarsh-Shukla.jpg?resize=1200,675",
-      "score": 65,
-      "tags": []
-    }
-  ],
   "科技": [
     {
       "id": "b4b1e595499f",
@@ -87,31 +25,99 @@
       "tags": []
     },
     {
-      "id": "5d321e71ab65",
-      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-      "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-25T19:03:47.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/10/unnamed-2.png?w=1152"
-    },
-    {
       "id": "86914721e145",
       "title": "SpaceX will build a second, $100B &#8216;Starbase&#8217; spaceport in Louisiana",
       "url": "https://techcrunch.com/2026/08/25/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana/",
+      "summary": "SpaceX will build a second, $100B &#8216;Starbase&#8217; spaceport in Louisiana",
       "source": "TechCrunch",
       "category": "科技",
       "published": "2026-08-25T18:26:55.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/20260511_Wet_Dress_Actual_2_259bcb3ae9.jpg?resize=1200,899"
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/20260511_Wet_Dress_Actual_2_259bcb3ae9.jpg?resize=1200,899",
+      "score": 70,
+      "tags": []
     },
     {
       "id": "5c3eb53b013f",
       "title": "Your vote matters! Decide which Audience Choice sessions will make it to TechCrunch Founder Summit",
       "url": "https://techcrunch.com/2026/08/25/your-vote-matters-decide-which-audience-choice-sessions-will-make-it-to-techcrunch-founder-summit/",
+      "summary": "Your vote matters。 Decide which Audience Choice sessions will make it to TechCrunch Founder Summit",
       "source": "TechCrunch",
       "category": "科技",
       "published": "2026-08-25T18:22:50.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/founder-summit-audience-choice.png?resize=1200,675"
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/founder-summit-audience-choice.png?resize=1200,675",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "feff13b2a64d",
+      "title": "Tonight marks your last chance to save up to $300 on a TechCrunch Disrupt 2026 pass",
+      "url": "https://techcrunch.com/2026/08/25/tonight-marks-your-last-chance-to-save-up-to-300-on-a-techcrunch-disrupt-2026-pass/",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-25T18:01:30.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Save-Up-to-300-Horizontal.png?w=1200"
+    }
+  ],
+  "AI": [
+    {
+      "id": "d56bb99852c0",
+      "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
+      "url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
+      "summary": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-26T11:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/runable-co-founders-umesh-saksham.jpg?resize=1200,800",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "3171b8e205ac",
+      "title": "India&#8217;s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+      "url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+      "summary": "India&#8217;s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-26T03:30:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Ringg-Founder-Kali-CV-Siddharth-Tripathi-Utkarsh-Shukla.jpg?resize=1200,675",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "8c02d9ad51cf",
+      "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
+      "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+      "summary": "OpenAI loses a top data center exec as stream of high-profile departures continues",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-26T00:06:20.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2236544023.jpeg?resize=1200,800",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "5d321e71ab65",
+      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+      "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+      "summary": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-25T19:03:47.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/10/unnamed-2.png?w=1152",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "61f72c1ca7d4",
+      "title": "Instagram’s &#8216;First Draft&#8217; feature aims to make editing Reels less tedious",
+      "url": "https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/",
+      "summary": "Instagram’s &#8216;First Draft&#8217; feature aims to make editing Reels less tedious",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-25T19:22:52.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/10/instagram-app-icon-GettyImages-1046023150.jpg?resize=1200,801",
+      "score": 60,
+      "tags": []
     }
   ],
   "开发": [
@@ -217,14 +223,14 @@
       "tags": []
     },
     {
-      "id": "a739e986b3b4",
-      "title": "FDE工程师薪资走高，亚马逊投入10亿美元加入“抢人大战”",
-      "url": "https://news.sina.com.cn/w/2026-07-01/doc-inifinuh3962104.shtml",
-      "summary": "当地时间6月30日，亚马逊宣布投入10亿美元打造FDE（前沿部署工程师）团队，让AI工程师与客户直接合作，并且协助客户构建和部署人工智能系统。 亚马逊表示，FDE嵌入式团队将与客户的业务、工程和安全团",
-      "source": "就业报告",
+      "id": "fff53dbc1de7",
+      "title": "报告：人工智能、数据工程师以三成招聘增速领跑高增长职业",
+      "url": "https://news.qq.com/rain/a/20260617A05FN300",
+      "summary": "哪些行业发展增速位居前列。何种专业毕业生薪资水平领先",
+      "source": "数据科学·就业分析",
       "category": "就业",
-      "published": "2026-07-01T16:07:00.000Z",
-      "image": "http://n.sinaimg.cn/sinakd20260701s/0/w1920h1280/20260701/ed65-3a9b2c08a6d0f60875ae66e5a55145cb.jpg",
+      "published": "2026-06-17T07:00:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/OuI7ph7ISA3EE-ML4ZAaByrlSVBplTAHvIC0xD4xu2L8EAA_640330/0",
       "score": 60,
       "tags": []
     }
@@ -355,48 +361,48 @@
   ],
   "财经": [
     {
-      "id": "a18d3535df2d",
-      "title": "全国每卖出3只箱包，就有1只来自这里！白沟太能“装”了！",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684673.shtml",
+      "id": "6017ee83492c",
+      "title": "前7个月广东综保区外贸进出口突破万亿元",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684722.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-26T09:36:29.000Z",
+      "published": "2026-08-26T11:17:44.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "7963a278a3ff",
-      "title": "受益于足球世界杯 7月中国销售彩票同比增68.6%",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684647.shtml",
+      "id": "2dddd0df6370",
+      "title": "西安企业涉外机构参访暨出海服务对接活动成功举行",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684720.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-26T09:03:09.000Z",
+      "published": "2026-08-26T11:13:52.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "e6644626fcf5",
-      "title": "7月中国核发绿证3.06亿个",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684646.shtml",
+      "id": "8bf5ab184ad4",
+      "title": "7月末中国境内公募基金资产净值达39.11万亿元",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684716.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-26T09:00:45.000Z",
+      "published": "2026-08-26T11:13:12.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "a916fac2c9f8",
-      "title": "四川自贡已储备“十五五”项目1896个 总投资达1.47万亿元",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684641.shtml",
+      "id": "67c14d2045b7",
+      "title": "（经济观察）中国财政金融协同促内需一揽子政策效显扩容",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684710.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-26T08:50:14.000Z",
+      "published": "2026-08-26T11:11:41.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "caa8807cc633",
-      "title": "“重质油气化集成废液协同处理成套技术”实现国产化突破",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684628.shtml",
+      "id": "2d530dc021b6",
+      "title": "A股周三缩量上涨 证券板块走强",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684707.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-26T08:36:39.000Z",
+      "published": "2026-08-26T11:10:13.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]

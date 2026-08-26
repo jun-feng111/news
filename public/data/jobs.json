@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T10:36:40.163Z",
+  "updated": "2026-08-26T11:31:21.446Z",
   "count": 123,
   "sources": {
     "V2EX": 6,
@@ -9,6 +9,26 @@
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1237441",
+      "title": "远程工作负责网站 SEO 工作",
+      "company": "sheniandaji2026",
+      "location": "国内",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "java",
+        "javascript"
+      ],
+      "category": "其他",
+      "postedDate": "2026-08-26",
+      "url": "https://www.v2ex.com/t/1237441",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1237420",
       "title": "公司改了第三方公司缴纳社保和工资发放主体有什么风险吗？",
@@ -106,27 +126,6 @@
       "category": "全栈",
       "postedDate": "2026-08-25",
       "url": "https://www.v2ex.com/t/1236988",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1236929",
-      "title": "go 高级开发工程师 工作地点上海五角场",
-      "company": "wanghuinet",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "go",
-        "golang",
-        "c++"
-      ],
-      "category": "其他",
-      "postedDate": "2026-08-24",
-      "url": "https://www.v2ex.com/t/1236929",
       "source": "V2EX",
       "region": "domestic"
     },
