@@ -1,6 +1,30 @@
 {
   "AI": [
     {
+      "id": "cbe393ca0644",
+      "title": "Radar makes podcasts searchable — and usable by AI agents",
+      "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
+      "summary": "Radar makes podcasts searchable — and usable by AI agents",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-26T15:47:28.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/05/pexels-magda-ehlers-1054713.jpg?resize=1200,800",
+      "score": 80,
+      "tags": []
+    },
+    {
+      "id": "11d877801143",
+      "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
+      "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
+      "summary": "Ex-Meta scientists want to bring visual AI to the factory floor",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-26T15:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Perceptron-Team-Photo.jpg?resize=1200,800",
+      "score": 80,
+      "tags": []
+    },
+    {
       "id": "f5e441e0e9f8",
       "title": "Gatik raises $200M to scale AI-powered autonomous freight",
       "url": "https://www.artificialintelligence-news.com/news/gatik-200m-ai-autonomous-freight/",
@@ -9,7 +33,7 @@
       "category": "AI",
       "published": "2026-08-26T10:00:00.000Z",
       "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/Gatik-raises-200M-to-scale-AI-powered-autonomous-freight-scaled-e1787721024660.jpg",
-      "score": 80,
+      "score": 75,
       "tags": []
     },
     {
@@ -21,31 +45,7 @@
       "category": "AI",
       "published": "2026-08-26T09:08:11.000Z",
       "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/nvidia-jetson-orin-nano-2-physical-ai-edge-computing-robotics-artificial-intelligence.jpg",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "f3d6254f8558",
-      "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
-      "url": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
-      "summary": "Surprise: Z。ai is the AI lab behind the mysterious Ox Alpha model",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-26T14:19:29.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2221390508.jpg?w=1024",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "9744030eca87",
-      "title": "Robot brain builders are pushing out of their GPT-2 era",
-      "url": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
-      "summary": "Robot brain builders are pushing out of their GPT-2 era",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-26T13:30:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?resize=1200,800",
-      "score": 80,
+      "score": 75,
       "tags": []
     },
     {
@@ -57,11 +57,23 @@
       "category": "AI",
       "published": "2026-08-25T15:46:06.000Z",
       "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/mit-ai-extreme-weather-forecasts-predictive-modelling-machine-learning-risk-assessment-forecasting-flood-prediction.jpg",
-      "score": 75,
+      "score": 70,
       "tags": []
     }
   ],
   "科技": [
+    {
+      "id": "1d0d902fb0ad",
+      "title": "What’s driving Sweden’s startup boom, from Lovable to Legora",
+      "url": "https://techcrunch.com/video/whats-driving-swedens-startup-boom-from-lovable-to-legora/",
+      "summary": "What’s driving Sweden’s startup boom, from Lovable to Legora",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-26T16:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1193266208.jpg?resize=1200,800",
+      "score": 75,
+      "tags": []
+    },
     {
       "id": "faacc3467a3d",
       "title": "CISA confirms hackers targeted over 100 US water systems during July",
@@ -75,46 +87,37 @@
       "tags": []
     },
     {
-      "id": "e1bd678136bc",
-      "title": "Bluesky now lets you upload 10-minute long videos",
-      "url": "https://techcrunch.com/2026/08/26/bluesky-now-lets-you-upload-10-minute-long-videos/",
-      "summary": "Bluesky now lets you upload 10-minute long videos",
+      "id": "6350f80b5a17",
+      "title": "Meta agrees to sweeping changes to restrict kids&#8217; access to its apps as part of settlement with states",
+      "url": "https://techcrunch.com/2026/08/26/meta-agrees-to-sweeping-changes-to-restrict-kids-access-to-its-apps-as-part-of-settlement-with-states/",
+      "summary": "Meta agrees to sweeping changes to restrict kids&#8217; access to its apps as part of settlement wit",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-08-26T13:12:36.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/bluesky-GettyImages-2185144073.jpg?w=1024",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "ae1d9c6c8de0",
-      "title": "Meta settles for $18 billion in lawsuit brought by 29 states over social media harms to children",
-      "url": "https://techcrunch.com/2026/08/26/meta-settles-for-18-billion-in-lawsuit-brought-by-29-states-over-social-media-harms-to-children/",
-      "summary": "Meta settles for $18 billion in lawsuit brought by 29 states over social media harms to children",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-26T13:43:01.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/zuckerberg-LA-trial-2026-GettyImages-2261841364.jpg?w=1024",
+      "published": "2026-08-26T16:03:14.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2233066222.jpg?resize=1200,800",
       "score": 65,
       "tags": []
     },
     {
-      "id": "9831f37a70b7",
-      "title": "QueryStory wants you to believe what AI is telling you",
-      "url": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
+      "id": "315c090a4574",
+      "title": "Ring introduces a new encryption standard, makes it the default for cloud features",
+      "url": "https://techcrunch.com/2026/08/26/ring-introduces-a-new-encryption-standard-makes-it-the-default-for-cloud-features/",
+      "summary": "Ring introduces a new encryption standard, makes it the default for cloud features",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-08-26T13:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/QueryStory-Groups-8-1.jpg?resize=1200,799"
+      "published": "2026-08-26T14:44:33.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/12/20250714_lifestyle_wireddoorbellprogen3_sn_frontdoor_RGB.jpeg?resize=1200,675",
+      "score": 65,
+      "tags": []
     },
     {
-      "id": "26bfb8eb611d",
-      "title": "Arga Labs is building a better way to train enterprise AI agents",
-      "url": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
+      "id": "f3d6254f8558",
+      "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
+      "url": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-08-26T12:55:28.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Arga-Headshots.jpg?resize=1099,1200"
+      "published": "2026-08-26T14:19:29.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2221390508.jpg?w=1024"
     }
   ],
   "就业": [
@@ -179,6 +182,65 @@
       "tags": []
     }
   ],
+  "开发": [
+    {
+      "id": "075a924f3da3",
+      "title": "多个 AI 智能体“同住”一台 EC2：AgentCore 推出持久计算",
+      "url": "https://www.infoq.cn/article/2IBWc7BuB2qoGao5tlQT?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/2IBWc7BuB2qoGao5tlQT",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-24T15:43:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/76/f5/76950baced5de35528fbfb7743b036f5.jpg",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "cc87898e1a06",
+      "title": "科技爱好者周刊（第 409 期）：程序员的职业未来",
+      "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html",
+      "summary": "这里记录每周值得分享的科技内容，周五发布",
+      "source": "阮一峰",
+      "category": "开发",
+      "published": "2026-08-20T23:53:54.000Z",
+      "image": "",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "ab1a5fd903f5",
+      "title": "“我们破坏了你们所有的应用”：React Router v8 引发争议，有开发者转向 TanStack Router",
+      "url": "https://www.infoq.cn/article/yEKcMO03wXvuyZpj1C1d?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/yEKcMO03wXvuyZpj1C1d",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-24T14:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/72/87/725bf3c4f78b9a5911f04408099e0687.jpg",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "51caea4d7607",
+      "title": "GitHub 公开预览 Stacked Pull Requests 功能",
+      "url": "https://www.infoq.cn/article/zdc3HzpvqA96jwWA6lGb?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/zdc3HzpvqA96jwWA6lGb",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-24T12:19:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/98/9b/98ba8b43c436778f003ba466e461d79b.jpg",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "81286567d1f9",
+      "title": "英伟达公布 Vera Rubin 最新进展：推理、网络和定制芯片全面升级",
+      "url": "https://www.infoq.cn/article/3F8I0zcLfC5wcENtLASD?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-26T17:44:28.000Z",
+      "image": "https://static001.infoq.cn/resource/image/ce/53/cee3c19f5b47e4yy6de0d6dc95cba753.png"
+    }
+  ],
   "政策": [
     {
       "id": "148659117e79",
@@ -239,62 +301,6 @@
       "image": "https://q8.itc.cn/q_70/images03/20260820/939d8121a6654cb99f61463482800b2a.png",
       "score": 50,
       "tags": []
-    }
-  ],
-  "开发": [
-    {
-      "id": "cc87898e1a06",
-      "title": "科技爱好者周刊（第 409 期）：程序员的职业未来",
-      "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html",
-      "summary": "这里记录每周值得分享的科技内容，周五发布",
-      "source": "阮一峰",
-      "category": "开发",
-      "published": "2026-08-20T23:53:54.000Z",
-      "image": "",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "ab1a5fd903f5",
-      "title": "“我们破坏了你们所有的应用”：React Router v8 引发争议，有开发者转向 TanStack Router",
-      "url": "https://www.infoq.cn/article/yEKcMO03wXvuyZpj1C1d?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/yEKcMO03wXvuyZpj1C1d",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-08-24T14:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/72/87/725bf3c4f78b9a5911f04408099e0687.jpg",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "51caea4d7607",
-      "title": "GitHub 公开预览 Stacked Pull Requests 功能",
-      "url": "https://www.infoq.cn/article/zdc3HzpvqA96jwWA6lGb?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/zdc3HzpvqA96jwWA6lGb",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-08-24T12:19:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/98/9b/98ba8b43c436778f003ba466e461d79b.jpg",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "81286567d1f9",
-      "title": "英伟达公布 Vera Rubin 最新进展：推理、网络和定制芯片全面升级",
-      "url": "https://www.infoq.cn/article/3F8I0zcLfC5wcENtLASD?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-08-26T17:44:28.000Z",
-      "image": "https://static001.infoq.cn/resource/image/ce/53/cee3c19f5b47e4yy6de0d6dc95cba753.png"
-    },
-    {
-      "id": "bb41d1990987",
-      "title": "DeepSeek 开源 Harness：AI 智能体基础设施开始“拆分”",
-      "url": "https://www.infoq.cn/article/vS7tpsLPdevZhMKdtxei?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-08-26T16:26:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/d6/55/d61b3e4cc3fc06b1d04f97789b4b0c55.jpg"
     }
   ],
   "社会": [
