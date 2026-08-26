@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T13:58:17.160Z",
+  "updated": "2026-08-26T14:45:10.643Z",
   "count": 123,
   "sources": {
     "V2EX": 6,
@@ -131,6 +131,49 @@
       "url": "https://www.v2ex.com/t/1237349",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "remoteok-1137126",
+      "title": "Rural and Suburban Mail Carrier Allan RR1",
+      "company": "Canada Post / Postes Canada",
+      "location": "Allan,",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "marketing",
+        "exec",
+        "full time"
+      ],
+      "category": "marketing",
+      "postedDate": "2026-08-25",
+      "url": "https://remoteOK.com/remote-jobs/remote-rural-and-suburban-mail-carrier-allan-rr1-canada-post-postes-canada-1137126",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1137124",
+      "title": "AP Accountant",
+      "company": "Bosta",
+      "location": "Maadi,",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "accounting",
+        "customer support",
+        "recruiter",
+        "non tech"
+      ],
+      "category": "accounting",
+      "postedDate": "2026-08-25",
+      "url": "https://remoteOK.com/remote-jobs/remote-ap-accountant-bosta-1137124",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137120",
@@ -2658,62 +2701,6 @@
       "category": "sales",
       "postedDate": "2026-08-18",
       "url": "https://remoteOK.com/remote-jobs/remote-mairoom-clerk-tph-1137054",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1136940",
-      "title": "General Merchandise Department Manager",
-      "company": "Walmart Canada",
-      "location": "Thunder Bay,",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "sys admin",
-        "customer support",
-        "recruiter",
-        "non tech",
-        "designer",
-        "education",
-        "assembly",
-        "exec",
-        "medical",
-        "marketing",
-        "ops",
-        "sales"
-      ],
-      "category": "sys admin",
-      "postedDate": "2026-08-17",
-      "url": "https://remoteOK.com/remote-jobs/remote-general-merchandise-department-manager-walmart-canada-1136940",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1136991",
-      "title": "Ground Staff Required Thiruvananthapuram Airport",
-      "company": "Fronix Services",
-      "location": "Thiruvananthapuram,",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "sys admin",
-        "customer support",
-        "exec",
-        "ops",
-        "marketing",
-        "microsoft",
-        "senior",
-        "technical"
-      ],
-      "category": "sys admin",
-      "postedDate": "2026-08-17",
-      "url": "https://remoteOK.com/remote-jobs/remote-ground-staff-required-thiruvananthapuram-airport-fronix-services-1136991",
       "source": "RemoteOK",
       "region": "foreign"
     },
