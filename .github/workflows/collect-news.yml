@@ -50,6 +50,11 @@ jobs:
           ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
           ADZUNA_COUNTRY: ${{ secrets.ADZUNA_COUNTRY }}
 
+      - name: Collect Domestic Jobs (CN-only, compliant)
+        run: node scripts/collect-jobs-cn.js
+        # 国内专属：V2EX/掘金社区真实岗位 + 大厂/政府/行业前景来自 Bing 公开报道聚合
+        # 不直爬 智联/BOSS直聘（ToS + 反爬 + 法律风险）；GitHub Actions 海外 IP 下 V2EX/Bing 可达
+
       - name: Fetch Full Content
         run: node scripts/fetch-content.js
 
