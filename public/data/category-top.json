@@ -1,27 +1,39 @@
 {
   "AI": [
     {
-      "id": "dff9dc0737a4",
-      "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
-      "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
-      "summary": "Viral AI startup Instinct has raised $350 million at a $2。5 billion valuation",
+      "id": "a88aee5f6674",
+      "title": "Google&#8217;s AI Mode can now track flight prices, help book hotels, and more",
+      "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+      "summary": "Google&#8217;s AI Mode can now track flight prices, help book hotels, and more",
       "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-08-27T00:24:57.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2255991416.jpg?resize=1200,795",
+      "published": "2026-08-27T16:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800",
       "score": 80,
       "tags": []
     },
     {
-      "id": "0f701375c211",
-      "title": "OpenAI releases its official report on the Hugging Face breach",
-      "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
-      "summary": "OpenAI releases its official report on the Hugging Face breach",
+      "id": "6df4843f350a",
+      "title": "AI&#8217;s memory crunch is coming for Android apps",
+      "url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
+      "summary": "AI&#8217;s memory crunch is coming for Android apps",
       "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-08-26T19:05:22.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+      "published": "2026-08-27T14:27:04.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Pixel-11-Pro-XL-main.jpg?resize=1200,675",
       "score": 80,
+      "tags": []
+    },
+    {
+      "id": "a3abf9eb1ccd",
+      "title": "A quarter of Nvidia&#8217;s business next year comes from labs it is financing",
+      "url": "https://www.artificialintelligence-news.com/news/nvidia-circular-financing-ai-labs/",
+      "summary": "Nvidia has put nearly US$50 billion into the AI labs that buy its chips, and has lined up commitment",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-08-27T10:00:00.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/voyager-exterior-sign-2-scaled.jpg",
+      "score": 75,
       "tags": []
     },
     {
@@ -33,7 +45,7 @@
       "category": "AI",
       "published": "2026-08-26T10:00:00.000Z",
       "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/Gatik-raises-200M-to-scale-AI-powered-autonomous-freight-scaled-e1787721024660.jpg",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -45,79 +57,91 @@
       "category": "AI",
       "published": "2026-08-26T09:08:11.000Z",
       "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/nvidia-jetson-orin-nano-2-physical-ai-edge-computing-robotics-artificial-intelligence.jpg",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "838ca76e929f",
-      "title": "Google&#8217;s Gemini has a branding problem, and so does the rest of AI",
-      "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
-      "summary": "Google&#8217;s Gemini has a branding problem, and so does the rest of AI",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-26T19:37:34.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/gemini-spark-GettyImages-2276583186-1.jpg?w=1024",
-      "score": 75,
+      "score": 70,
       "tags": []
     }
   ],
   "科技": [
     {
-      "id": "18acc42de8d1",
-      "title": "Amazon just tripled its order of Nvidia chips over &#8216;surging demand&#8217;",
-      "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
-      "summary": "Amazon just tripled its order of Nvidia chips over &#8216;surging demand&#8217;",
+      "id": "bbba8e91cbe6",
+      "title": "Hugging Face is selling a cute $399 open-source duck robot, Microduck",
+      "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
+      "summary": "Hugging Face is selling a cute $399 open-source duck robot, Microduck",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-08-26T23:47:18.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/jense-nvidi-chip-GettyImages-2266485392.jpg?resize=1200,800",
+      "published": "2026-08-27T14:56:52.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/microduck-morning.jpg?resize=1200,750",
       "score": 75,
       "tags": []
     },
     {
-      "id": "e8aad19178f2",
-      "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
-      "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
-      "summary": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+      "id": "a85bd683d906",
+      "title": "Hold up, there&#8217;s a new Twitter in town",
+      "url": "https://techcrunch.com/2026/08/27/hold-up-theres-a-new-twitter-in-the-town/",
+      "summary": "Hold up, there&#8217;s a new Twitter in town",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-08-26T21:37:39.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
-      "score": 70,
+      "published": "2026-08-27T14:40:22.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-27-at-5.40.14-PM.jpg?w=938",
+      "score": 75,
       "tags": []
     },
     {
-      "id": "996d58c1377d",
-      "title": "Meta&#8217;s $18B child-safety deal hinges on age-verification tech that doesn&#8217;t work well",
-      "url": "https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/",
-      "summary": "Meta&#8217;s $18B child-safety deal hinges on age-verification tech that doesn&#8217;t work well",
+      "id": "30f6a0c163fb",
+      "title": "This former PG&#038;E engineer is building a &#8216;Google Maps for the underground&#8217;",
+      "url": "https://techcrunch.com/2026/08/27/this-former-pge-engineer-is-building-a-google-maps-for-the-underground/",
+      "summary": "This former PG&#038;E engineer is building a &#8216;Google Maps for the underground&#8217;",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-08-26T22:47:58.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2267997264.jpg?resize=1200,800",
+      "published": "2026-08-27T15:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/civilgrid-platform-project-frames.jpg?resize=1200,953",
       "score": 65,
       "tags": []
     },
     {
-      "id": "72bcbc260cb7",
-      "title": "Flipboard acquires Graze, the feed builder working to monetize the open social web",
-      "url": "https://techcrunch.com/2026/08/26/flipboard-acquires-graze-the-feed-builder-working-to-monetize-the-open-social-web/",
+      "id": "d0a5ac6877d1",
+      "title": "Here’s all the times AI has gone rogue and hacked other companies",
+      "url": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-08-26T18:35:40.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/05/Bluesky-in-Flipboard-logos.png?resize=1200,738"
+      "published": "2026-08-27T14:01:42.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/open-ai-chatgpt-anthropic-claude-icons.jpg?resize=1200,800"
     },
     {
-      "id": "2c217d531135",
-      "title": "Medical device maker Boston Scientific says a cyberattack is causing a &#8216;global disruption&#8217; to its operations",
-      "url": "https://techcrunch.com/2026/08/26/medical-device-maker-boston-scientific-says-a-cyberattack-is-causing-a-global-disruption-to-its-operations/",
+      "id": "faa1a03b9722",
+      "title": "Plaud&#8217;s new earphones come with an eSIM-enabled case for talking to AI agents",
+      "url": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-08-26T18:23:09.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/boston-scientific-524267992.jpg?resize=1200,772"
+      "published": "2026-08-27T13:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/169-KV-Clean-2.jpeg?resize=1200,675"
     }
   ],
   "就业": [
+    {
+      "id": "0dd253370053",
+      "title": "月活突破7000万，BOSS直聘下一步增长看蓝领和AI",
+      "url": "https://news.qq.com/rain/a/20260825A0DBFO00",
+      "summary": "BOSS直聘发布了2026年第二季度财报。财报显示，2026年第二季度，公司实现营收23",
+      "source": "Bing·BOSS直聘",
+      "category": "就业",
+      "published": "2026-08-25T16:03:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/O1IlZzFdvdgL0kh2SJd6ivWbu5bTP08TJdE5_XHPB-NIUAA_640330/0",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "1a9f5ec81514",
+      "title": "AI人才市场迎来新机遇：大模型算法岗月薪超27329元！",
+      "url": "https://www.sohu.com/a/1067548845_121956425",
+      "summary": "近日，人力资源服务商前程无忧（51job）发布了《2027届校招AI人才市场洞察》，引发了广泛关注。这份报告基于超过8000份企业和个人的调研数据，揭示了当前AI人才市场的趋势和变化",
+      "source": "算法工程师·就业分析",
+      "category": "就业",
+      "published": "2026-08-25T15:56:00.000Z",
+      "image": "",
+      "score": 65,
+      "tags": []
+    },
     {
       "id": "c76b56413d4a",
       "title": "AI人才缺口超500万！有最新报告称，AI抢人逻辑悄悄变了：架构师新发 ...",
@@ -151,30 +175,6 @@
       "category": "就业",
       "published": "2026-06-21T11:28:00.000Z",
       "image": "https://inews.gtimg.com/om_ls/OWCs-Tp6UekhhmAEcGla04vVA8bxCbpJz6i1bDub3KFkwAA_640330/0",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "fff53dbc1de7",
-      "title": "报告：人工智能、数据工程师以三成招聘增速领跑高增长职业",
-      "url": "https://news.qq.com/rain/a/20260617A05FN300",
-      "summary": "哪些行业发展增速位居前列。何种专业毕业生薪资水平领先",
-      "source": "数据科学·就业分析",
-      "category": "就业",
-      "published": "2026-06-17T07:00:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/OuI7ph7ISA3EE-ML4ZAaByrlSVBplTAHvIC0xD4xu2L8EAA_640330/0",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "2bfed594740c",
-      "title": "agent Ma--你的全栈开发工程师，即将亮相WAIC2026上海世博主馆",
-      "url": "https://finance.ifeng.com/c/8uXkWt0kBpX",
-      "summary": "2026 世界人工智能大会(WAIC2026)开幕在即, agent Ma--“全栈开发工程师” AI开发平台(AI软件工厂) 将于上海世博主馆正式亮相。不同于市场上主流的代码辅助工具,agent M",
-      "source": "全栈工程师·就业分析",
-      "category": "就业",
-      "published": "2026-07-06T11:07:00.000Z",
-      "image": "https://x0.ifengimg.com/res/2026/F39C75FC532B5F0CCE43CFA7546B5EEFC20915BD_size896_w650_h352.png",
       "score": 60,
       "tags": []
     }
@@ -229,14 +229,14 @@
       "tags": []
     },
     {
-      "id": "5f002ebfb466",
-      "title": "旗市快讯丨鸿雁归扎聚青春 政策护航耕北疆——扎赉诺尔区返乡大 ...",
-      "url": "https://www.sohu.com/a/1065320702_121106854",
-      "summary": "为扎实做好高校毕业生就业创业服务工作，精准破解返乡大学生政策不清、就业迷茫、创业无方等痛点问题，近日，扎赉诺尔区就业服务中心联合共青团扎赉诺尔区委员会精心筹备的鸿雁归“扎”&#183;青耕北疆扎赉诺尔",
-      "source": "Bing·大学生创业扶持政策",
+      "id": "a3af074b2b9b",
+      "title": "2026-05-22教育部等八部门办公厅关于联合开展2026年度高校毕业生等重点群体促就业“国聘行动”的通知",
+      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202605/t20260522_1437356.html",
+      "summary": "2026-05-22教育部等八部门办公厅关于联合开展2026年度高校毕业生等重点群体促就业“国聘行动”的通知",
+      "source": "教育部",
       "category": "政策",
-      "published": "2026-08-20T07:19:00.000Z",
-      "image": "https://q8.itc.cn/q_70/images03/20260820/939d8121a6654cb99f61463482800b2a.png",
+      "published": "2026-05-22T00:00:00.000Z",
+      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
       "score": 50,
       "tags": []
     }
@@ -255,40 +255,40 @@
       "tags": []
     },
     {
-      "id": "388a3761ef06",
-      "title": "Flux 推出 Mirror 插件：只让可信制品进入 Kubernetes 集群",
-      "url": "https://www.infoq.cn/article/p8qELFuWcdBic11PXG72?utm_source=rss&amp;utm_medium=article",
+      "id": "2ca33852d10a",
+      "title": "世界人工智能开源大赛（GOAI）初赛评审结果暨晋级名单公告",
+      "url": "https://www.infoq.cn/article/Y410fSRGi67fUrNUuzYb?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-08-27T12:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/e8/6d/e8a728ca72d58902c2b75b22e640fd6d.jpg"
+      "published": "2026-08-27T17:56:39.000Z",
+      "image": "https://static001.infoq.cn/resource/image/ca/c8/cab81f61df2e43bafc32987fbbfb71c8.png"
     },
     {
-      "id": "fc60fb8a1398",
-      "title": "千问办公首发上线Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%",
-      "url": "https://www.infoq.cn/article/QEG6h1VpkiaFYUL1jUyc?utm_source=rss&amp;utm_medium=article",
+      "id": "ba3dc42f0272",
+      "title": "给 Agent 做“CT”：大规模 Agent 的可观测与质量保障体系",
+      "url": "https://www.infoq.cn/article/QqDSrCEGWitk7kkJg7Kj?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-08-27T10:28:42.000Z",
-      "image": "https://static001.infoq.cn/resource/image/66/9d/66eef10e380300ec48306cd57b417b9d.jpg"
+      "published": "2026-08-27T17:52:32.000Z",
+      "image": "https://static001.infoq.cn/resource/image/7e/a4/7e61d2d3186f1a9f54da858f0b0dd6a4.jpg"
     },
     {
-      "id": "976752f9cf2f",
-      "title": "ARR 超 8 亿美元，B 端收入占比升至 80%！MiniMax 第二份财报：增长与商业化来到验证时刻",
-      "url": "https://www.infoq.cn/article/OtZAGeLtUBgd9UzkO7eC?utm_source=rss&amp;utm_medium=article",
+      "id": "7c1f30fd11a0",
+      "title": "大模型推理加速全链路：内存管理、编译优化、量化与并行策略",
+      "url": "https://www.infoq.cn/article/AN2AuAT58V9fe8KXD2zi?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-08-27T10:27:18.000Z",
-      "image": "https://static001.infoq.cn/resource/image/73/a3/731e4d2yy22fcf3160f876eea2f5a4a3.png"
+      "published": "2026-08-27T17:47:44.000Z",
+      "image": "https://static001.infoq.cn/resource/image/08/59/08d1674df6f3dc78c716d071a90d4d59.jpg"
     },
     {
-      "id": "b5f22bff54ec",
-      "title": "“我们把同一个应用构建了两次”：Harper 挑战 Vercel，性能最高相差 14 倍",
-      "url": "https://www.infoq.cn/article/jbOa8ChckHTgVVKh5AKb?utm_source=rss&amp;utm_medium=article",
+      "id": "5e2f51954c13",
+      "title": "Cloudflare 利用 AI 智能体将 Astro GitHub 问题减少 85%",
+      "url": "https://www.infoq.cn/article/iJu3eUyEhEI373KeYhYN?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-08-27T10:10:46.000Z",
-      "image": "https://static001.infoq.cn/resource/image/fb/fa/fbbab53cb6d0a0a31e25de9d2d3de0fa.jpg"
+      "published": "2026-08-27T17:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/10/e5/1094f9f35467613619e7a3cd3df56de5.jpg"
     }
   ],
   "社会": [
@@ -355,48 +355,48 @@
   ],
   "财经": [
     {
-      "id": "2e3a66507963",
-      "title": "A股午评：超3000只个股飘红，三大指数集体收涨",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-27/10685080.shtml",
+      "id": "b62a62d82d59",
+      "title": "（活力中国调研行）“工厂”变“景区”　山东探索工业旅游新路径",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-27/10685519.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-27T03:36:17.000Z",
+      "published": "2026-08-27T14:59:56.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "2eb756936d6f",
-      "title": "一张百元“豹子号”人民币标价数千元？新规明确禁止！9月起严查",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-27/10685078.shtml",
+      "id": "0663e7afbcd5",
+      "title": "中国官方：力争“十五五”时期地理信息产业年均总产值突破万亿元大关",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-27/10685520.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-27T03:29:09.000Z",
+      "published": "2026-08-27T14:59:08.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "96fe70513617",
-      "title": "中经评论：激活中国消费版图的“县域空间”",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-27/10685073.shtml",
+      "id": "9a689fcf2f68",
+      "title": "逾30支团队在穗同台竞技 展示AI技术在交通领域创新成果",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-27/10685516.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-27T03:21:19.000Z",
+      "published": "2026-08-27T14:16:14.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "d5af4d58cc44",
-      "title": "国家能源局：1-7月全国电力市场交易电量同比增长23.4%",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-27/10685071.shtml",
+      "id": "6a476a25db62",
+      "title": "郑州国际陆港航空港片区首列混装拼箱班列发运",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-27/10685510.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-27T03:20:59.000Z",
+      "published": "2026-08-27T14:10:07.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "9ecca23df036",
-      "title": "27日，A股半导体板块集体大涨",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-27/10685060.shtml",
+      "id": "222a341859e0",
+      "title": "山西广灵打造绿电算力“双引擎” 加速融入环京津冀算力走廊",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-27/10685513.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-27T02:58:47.000Z",
+      "published": "2026-08-27T14:09:37.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
