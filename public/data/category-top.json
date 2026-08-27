@@ -1,6 +1,18 @@
 {
   "AI": [
     {
+      "id": "dff9dc0737a4",
+      "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
+      "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+      "summary": "Viral AI startup Instinct has raised $350 million at a $2。5 billion valuation",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-27T00:24:57.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2255991416.jpg?resize=1200,795",
+      "score": 80,
+      "tags": []
+    },
+    {
       "id": "0f701375c211",
       "title": "OpenAI releases its official report on the Hugging Face breach",
       "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
@@ -9,7 +21,31 @@
       "category": "AI",
       "published": "2026-08-26T19:05:22.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-      "score": 85,
+      "score": 80,
+      "tags": []
+    },
+    {
+      "id": "f5e441e0e9f8",
+      "title": "Gatik raises $200M to scale AI-powered autonomous freight",
+      "url": "https://www.artificialintelligence-news.com/news/gatik-200m-ai-autonomous-freight/",
+      "summary": "Autonomous trucking company Gatik has raised $200 million in Series D funding to expand its driverle",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-08-26T10:00:00.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/Gatik-raises-200M-to-scale-AI-powered-autonomous-freight-scaled-e1787721024660.jpg",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "813c205aa1a4",
+      "title": "NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots",
+      "url": "https://www.artificialintelligence-news.com/news/nvidia-jetson-orin-nano-2-physical-ai-to-drones-and-robots/",
+      "summary": "NVIDIA has unveiled the Jetson Orin Nano 2, an edge robotics computer aimed at bringing physical AI ",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-08-26T09:08:11.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/nvidia-jetson-orin-nano-2-physical-ai-edge-computing-robotics-artificial-intelligence.jpg",
+      "score": 75,
       "tags": []
     },
     {
@@ -21,156 +57,64 @@
       "category": "AI",
       "published": "2026-08-26T19:37:34.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/gemini-spark-GettyImages-2276583186-1.jpg?w=1024",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "a65015085aa1",
-      "title": "How do we explain OpenAI&#8217;s executive exodus?",
-      "url": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
-      "summary": "How do we explain OpenAI&#8217;s executive exodus",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-26T19:34:04.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2182154299.jpg?w=1024",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "008755ae7365",
-      "title": "US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate",
-      "url": "https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/",
-      "summary": "US seizes domains of Chinese botnet used to hack NASA, Justice Department, and the Senate",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-26T17:01:05.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/china-hacker-computer-flag.jpg?resize=1200,675",
-      "score": 65,
+      "score": 75,
       "tags": []
     }
   ],
   "科技": [
     {
-      "id": "e8aad19178f2",
-      "title": "Anthropic continues compute-gobbling streak in $45 billion deal with Nscale",
-      "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
-      "summary": "Anthropic continues compute-gobbling streak in $45 billion deal with Nscale",
+      "id": "18acc42de8d1",
+      "title": "Amazon just tripled its order of Nvidia chips over &#8216;surging demand&#8217;",
+      "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+      "summary": "Amazon just tripled its order of Nvidia chips over &#8216;surging demand&#8217;",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-08-26T21:37:39.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
+      "published": "2026-08-26T23:47:18.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/jense-nvidi-chip-GettyImages-2266485392.jpg?resize=1200,800",
       "score": 75,
       "tags": []
     },
     {
-      "id": "a4308e591b38",
-      "title": "Apple is holding its iPhone launch event on September 9",
-      "url": "https://techcrunch.com/2026/08/26/apple-is-holding-its-iphone-launch-event-on-september-9/",
-      "summary": "Apple is holding its iPhone launch event on September 9",
+      "id": "e8aad19178f2",
+      "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+      "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+      "summary": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-08-26T16:53:07.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-26-at-12.45.18-PM.png?resize=1200,927",
-      "score": 75,
+      "published": "2026-08-26T21:37:39.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "996d58c1377d",
+      "title": "Meta&#8217;s $18B child-safety deal hinges on age-verification tech that doesn&#8217;t work well",
+      "url": "https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/",
+      "summary": "Meta&#8217;s $18B child-safety deal hinges on age-verification tech that doesn&#8217;t work well",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-26T22:47:58.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2267997264.jpg?resize=1200,800",
+      "score": 65,
       "tags": []
     },
     {
       "id": "72bcbc260cb7",
       "title": "Flipboard acquires Graze, the feed builder working to monetize the open social web",
       "url": "https://techcrunch.com/2026/08/26/flipboard-acquires-graze-the-feed-builder-working-to-monetize-the-open-social-web/",
-      "summary": "Flipboard acquires Graze, the feed builder working to monetize the open social web",
       "source": "TechCrunch",
       "category": "科技",
       "published": "2026-08-26T18:35:40.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/05/Bluesky-in-Flipboard-logos.png?resize=1200,738",
-      "score": 65,
-      "tags": []
+      "image": "https://techcrunch.com/wp-content/uploads/2023/05/Bluesky-in-Flipboard-logos.png?resize=1200,738"
     },
     {
       "id": "2c217d531135",
       "title": "Medical device maker Boston Scientific says a cyberattack is causing a &#8216;global disruption&#8217; to its operations",
       "url": "https://techcrunch.com/2026/08/26/medical-device-maker-boston-scientific-says-a-cyberattack-is-causing-a-global-disruption-to-its-operations/",
-      "summary": "Medical device maker Boston Scientific says a cyberattack is causing a &#8216;global disruption&#821",
       "source": "TechCrunch",
       "category": "科技",
       "published": "2026-08-26T18:23:09.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/boston-scientific-524267992.jpg?resize=1200,772",
-      "score": 65,
-      "tags": []
-    },
-    {
-      "id": "6350f80b5a17",
-      "title": "Meta agrees to sweeping changes to restrict kids&#8217; access to its apps as part of settlement with states",
-      "url": "https://techcrunch.com/2026/08/26/meta-agrees-to-sweeping-changes-to-restrict-kids-access-to-its-apps-as-part-of-settlement-with-states/",
-      "summary": "Meta agrees to sweeping changes to restrict kids&#8217; access to its apps as part of settlement wit",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-26T16:03:14.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2233066222.jpg?resize=1200,800",
-      "score": 60,
-      "tags": []
-    }
-  ],
-  "开发": [
-    {
-      "id": "0c427da04e9f",
-      "title": "Capital F closes $17M debut fund with goal to back the future of the &#8216;female economy&#8217;",
-      "url": "https://techcrunch.com/2026/08/26/capital-f-closes-17m-debut-fund-with-goal-to-back-the-future-of-the-female-economy/",
-      "summary": "Capital F closes $17M debut fund with goal to back the future of the &#8216;female economy&#8217;",
-      "source": "TechCrunch",
-      "category": "开发",
-      "published": "2026-08-26T17:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Margaret-Coblentz-and-Dawn-Dobras.png?w=934",
-      "score": 65,
-      "tags": []
-    },
-    {
-      "id": "075a924f3da3",
-      "title": "多个 AI 智能体“同住”一台 EC2：AgentCore 推出持久计算",
-      "url": "https://www.infoq.cn/article/2IBWc7BuB2qoGao5tlQT?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/2IBWc7BuB2qoGao5tlQT",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-08-24T15:43:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/76/f5/76950baced5de35528fbfb7743b036f5.jpg",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "1e39281dbc6e",
-      "title": "Next.js 16.3 发布：即时导航、开发内存最高降低 90%，构建速度大幅提升",
-      "url": "https://www.infoq.cn/article/NedlVNN6E9uWbIE3WV07?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/NedlVNN6E9uWbIE3WV07",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-08-24T17:15:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/59/9c/5950b3e6ca27b88ea1c187c955a18b9c.jpg",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "cc87898e1a06",
-      "title": "科技爱好者周刊（第 409 期）：程序员的职业未来",
-      "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html",
-      "summary": "这里记录每周值得分享的科技内容，周五发布",
-      "source": "阮一峰",
-      "category": "开发",
-      "published": "2026-08-20T23:53:54.000Z",
-      "image": "",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "ab1a5fd903f5",
-      "title": "“我们破坏了你们所有的应用”：React Router v8 引发争议，有开发者转向 TanStack Router",
-      "url": "https://www.infoq.cn/article/yEKcMO03wXvuyZpj1C1d?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/yEKcMO03wXvuyZpj1C1d",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-08-24T14:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/72/87/725bf3c4f78b9a5911f04408099e0687.jpg",
-      "score": 50,
-      "tags": []
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/boston-scientific-524267992.jpg?resize=1200,772"
     }
   ],
   "就业": [
@@ -184,18 +128,6 @@
       "published": "2026-07-18T11:05:00.000Z",
       "image": "https://inews.gtimg.com/om_ls/Ows_BB25Bhnf-wlGWgFoIkmLSVd_6MJWCT8-yw6C3HS10AA_640330/0",
       "score": 65,
-      "tags": []
-    },
-    {
-      "id": "67398aba775e",
-      "title": "1270万毕业生求职内卷，职计划四大求职产品上线，一文看懂 A/Z/H/J ...",
-      "url": "https://biz.ifeng.com/c/8vllG1IS3HI",
-      "summary": "近日,国内职业发展教育与求职陪跑服务头部品牌职计划完成四大产品矩阵布局,职计划A计划、Z计划、H计划、J计划悉数对外发布。在毕业生规模持续走高、AI技术深度重塑招聘标准的行业背景之下,不少应届生以及职",
-      "source": "Bing·应届生求职",
-      "category": "就业",
-      "published": "2026-08-21T06:35:00.000Z",
-      "image": "https://x0.ifengimg.com/res/2026/ACD2DA8CFA1A25CC1B7CBCDBC2FF9AC43D410EF3_size748_w800_h837.png",
-      "score": 60,
       "tags": []
     },
     {
@@ -219,6 +151,18 @@
       "category": "就业",
       "published": "2026-06-21T11:28:00.000Z",
       "image": "https://inews.gtimg.com/om_ls/OWCs-Tp6UekhhmAEcGla04vVA8bxCbpJz6i1bDub3KFkwAA_640330/0",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "fff53dbc1de7",
+      "title": "报告：人工智能、数据工程师以三成招聘增速领跑高增长职业",
+      "url": "https://news.qq.com/rain/a/20260617A05FN300",
+      "summary": "哪些行业发展增速位居前列。何种专业毕业生薪资水平领先",
+      "source": "数据科学·就业分析",
+      "category": "就业",
+      "published": "2026-06-17T07:00:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/OuI7ph7ISA3EE-ML4ZAaByrlSVBplTAHvIC0xD4xu2L8EAA_640330/0",
       "score": 60,
       "tags": []
     },
@@ -297,7 +241,69 @@
       "tags": []
     }
   ],
+  "开发": [
+    {
+      "id": "cc87898e1a06",
+      "title": "科技爱好者周刊（第 409 期）：程序员的职业未来",
+      "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-409.html",
+      "summary": "这里记录每周值得分享的科技内容，周五发布",
+      "source": "阮一峰",
+      "category": "开发",
+      "published": "2026-08-20T23:53:54.000Z",
+      "image": "",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "388a3761ef06",
+      "title": "Flux 推出 Mirror 插件：只让可信制品进入 Kubernetes 集群",
+      "url": "https://www.infoq.cn/article/p8qELFuWcdBic11PXG72?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-27T12:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/e8/6d/e8a728ca72d58902c2b75b22e640fd6d.jpg"
+    },
+    {
+      "id": "fc60fb8a1398",
+      "title": "千问办公首发上线Qwen3.8-Flash，生成速度提升100%，Token消耗减少75%",
+      "url": "https://www.infoq.cn/article/QEG6h1VpkiaFYUL1jUyc?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-27T10:28:42.000Z",
+      "image": "https://static001.infoq.cn/resource/image/66/9d/66eef10e380300ec48306cd57b417b9d.jpg"
+    },
+    {
+      "id": "976752f9cf2f",
+      "title": "ARR 超 8 亿美元，B 端收入占比升至 80%！MiniMax 第二份财报：增长与商业化来到验证时刻",
+      "url": "https://www.infoq.cn/article/OtZAGeLtUBgd9UzkO7eC?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-27T10:27:18.000Z",
+      "image": "https://static001.infoq.cn/resource/image/73/a3/731e4d2yy22fcf3160f876eea2f5a4a3.png"
+    },
+    {
+      "id": "b5f22bff54ec",
+      "title": "“我们把同一个应用构建了两次”：Harper 挑战 Vercel，性能最高相差 14 倍",
+      "url": "https://www.infoq.cn/article/jbOa8ChckHTgVVKh5AKb?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-27T10:10:46.000Z",
+      "image": "https://static001.infoq.cn/resource/image/fb/fa/fbbab53cb6d0a0a31e25de9d2d3de0fa.jpg"
+    }
+  ],
   "社会": [
+    {
+      "id": "153ffbe14ec5",
+      "title": "摒弃招生“拉踩抹黑”，守护职业教育改革成果",
+      "url": "https://www.chinanews.com.cn/edu/2026/08-25/10683529.shtml",
+      "summary": "【社评】摒弃招生“拉踩抹黑”，守护职业教育改革成果",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-08-24T23:54:44.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
+    },
     {
       "id": "55dfb718c4be",
       "title": "如何科学做好中小学、幼儿园学段衔接？“十问十答”来了",
@@ -345,64 +351,52 @@
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 50,
       "tags": []
-    },
-    {
-      "id": "f493f205b261",
-      "title": "人工智能进课堂，如何学得更好？",
-      "url": "https://www.chinanews.com.cn/edu/2026/08-23/10682606.shtml",
-      "summary": "人工智能进课堂，如何学得更好(解码“十五五”专项规划)",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-08-23T03:41:49.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 45,
-      "tags": []
     }
   ],
   "财经": [
     {
-      "id": "dd5e1fc0c6b6",
-      "title": "智能体支付应用迎来行业自律公约 如何给AI支付立规矩",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-27/10684897.shtml",
+      "id": "2e3a66507963",
+      "title": "A股午评：超3000只个股飘红，三大指数集体收涨",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-27/10685080.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-26T22:19:44.000Z",
+      "published": "2026-08-27T03:36:17.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "642adfc55596",
-      "title": "筑牢技术底座 “人工智能+”加出新速度、新高度、新成效催生经济新增长点",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684869.shtml",
+      "id": "2eb756936d6f",
+      "title": "一张百元“豹子号”人民币标价数千元？新规明确禁止！9月起严查",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-27/10685078.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-26T13:49:33.000Z",
+      "published": "2026-08-27T03:29:09.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "420ce9fc8b63",
-      "title": "中新网评：被商家公开隐私信息，消费者不能花了钱还被侮辱",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684867.shtml",
+      "id": "96fe70513617",
+      "title": "中经评论：激活中国消费版图的“县域空间”",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-27/10685073.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-26T13:47:43.000Z",
+      "published": "2026-08-27T03:21:19.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "59661dced1cf",
-      "title": "浙江成立省级数据集团 人工智能产业布局再落关键一子",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684861.shtml",
+      "id": "d5af4d58cc44",
+      "title": "国家能源局：1-7月全国电力市场交易电量同比增长23.4%",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-27/10685071.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-26T13:41:13.000Z",
+      "published": "2026-08-27T03:20:59.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "1bb464b001db",
-      "title": "天工Ultra机器人再创纪录 百米跑出8.64秒",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-26/10684850.shtml",
+      "id": "9ecca23df036",
+      "title": "27日，A股半导体板块集体大涨",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-27/10685060.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-26T13:35:22.000Z",
+      "published": "2026-08-27T02:58:47.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
