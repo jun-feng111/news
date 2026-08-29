@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T05:55:14.954Z",
+  "updated": "2026-08-29T12:24:54.088Z",
   "count": 129,
   "sources": {
     "V2EX": 10,
@@ -9,6 +9,28 @@
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1238027",
+      "title": "remote AI 测试工程师/测试工程师（高级+自动化方向）h c 3 个",
+      "company": "andyxinweimin",
+      "location": "国内",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "python",
+        "go",
+        "node",
+        "flutter"
+      ],
+      "category": "算法/AI",
+      "postedDate": "2026-08-29",
+      "url": "https://www.v2ex.com/t/1238027",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1237905",
       "title": "诚聘：资深 Java 工程师 - 实时数据引擎 / CDC 核心开发工程师 - 深圳 35-50k",
@@ -228,29 +250,70 @@
       "region": "domestic"
     },
     {
-      "id": "v2ex-1237466",
-      "title": "社交应用项目，已获 YZi Labs 融资 招聘： React‑Native 移动端工程师",
-      "company": "amberGuo",
-      "location": "国内",
+      "id": "remoteok-1137195",
+      "title": "courier",
+      "company": "FedEx",
+      "location": "Pembroke,",
       "remote": false,
       "salaryText": "",
       "salaryMin": null,
       "salaryMax": null,
-      "salaryCurrency": "CNY",
+      "salaryCurrency": "",
       "skills": [
-        "java",
-        "go",
-        "javascript",
-        "typescript",
-        "react",
-        "flutter",
-        "swift"
+        "infosec",
+        "testing",
+        "exec",
+        "math",
+        "content writing",
+        "sales"
       ],
-      "category": "人力/HR",
-      "postedDate": "2026-08-26",
-      "url": "https://www.v2ex.com/t/1237466",
-      "source": "V2EX",
-      "region": "domestic"
+      "category": "infosec",
+      "postedDate": "2026-08-28",
+      "url": "https://remoteOK.com/remote-jobs/remote-courier-fedex-1137195",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1137196",
+      "title": "handyman woman",
+      "company": "Royal Lepage Icon Realty",
+      "location": "Prince Albert,",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "finance",
+        "education",
+        "medical",
+        "non tech"
+      ],
+      "category": "finance",
+      "postedDate": "2026-08-28",
+      "url": "https://remoteOK.com/remote-jobs/remote-handyman-woman-royal-lepage-icon-realty-1137196",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1137202",
+      "title": "åæ",
+      "company": "Stanley Black &amp; Decker, Inc.",
+      "location": "ä¸­å±±å¸,",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "marketing",
+        "non tech"
+      ],
+      "category": "marketing",
+      "postedDate": "2026-08-28",
+      "url": "https://remoteOK.com/remote-jobs/",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137186",
@@ -781,6 +844,36 @@
       "postedDate": "2026-08-27",
       "url": "https://remoteOK.com/remote-jobs/remote-oracle-fusion-cloud-lead-logistics-supply-chain-management-tessera-labs-1137155",
       "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remotive-2091101",
+      "title": "Senior React Full-stack Developer",
+      "company": "Lemon.io",
+      "location": "LATAM, Europe, USA, Canada, APAC",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        ".Net",
+        "android",
+        "AWS",
+        "backend",
+        "C",
+        "C#",
+        "C++",
+        "data science",
+        "fullstack",
+        "golang",
+        "ios",
+        "java"
+      ],
+      "category": "Software Development",
+      "postedDate": "2026-08-27",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091101",
+      "source": "Remotive",
       "region": "foreign"
     },
     {
@@ -2657,71 +2750,6 @@
       "region": "foreign"
     },
     {
-      "id": "remoteok-1137030",
-      "title": "Roupeiro",
-      "company": "Presenza Psicologia",
-      "location": "FlorianÃ³polis,",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [],
-      "category": "Software",
-      "postedDate": "2026-08-20",
-      "url": "https://remoteOK.com/remote-jobs/remote-roupeiro-presenza-psicologia-1137030",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137085",
-      "title": "Platypus Store Manager Grand Plaza",
-      "company": "Platypus Shoes",
-      "location": "Hillcrest,",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "exec",
-        "education",
-        "customer support",
-        "marketing",
-        "virtual assistant",
-        "ops",
-        "sales",
-        "medical"
-      ],
-      "category": "exec",
-      "postedDate": "2026-08-20",
-      "url": "https://remoteOK.com/remote-jobs/remote-platypus-store-manager-grand-plaza-platypus-shoes-1137085",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137007",
-      "title": "Pilot",
-      "company": "SpaceX",
-      "location": "NV",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "travel",
-        "c",
-        "ops",
-        "non tech"
-      ],
-      "category": "travel",
-      "postedDate": "2026-08-20",
-      "url": "https://remoteOK.com/remote-jobs/remote-pilot-spacex-1137007",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
       "id": "remotive-2091098",
       "title": "Senior Golang Developer",
       "company": "Lemon.io",
@@ -3118,36 +3146,6 @@
       "category": "Writing",
       "postedDate": "2026-08-02",
       "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
-      "source": "Remotive",
-      "region": "foreign"
-    },
-    {
-      "id": "remotive-2091081",
-      "title": "Senior Graphic Designer",
-      "company": "Lemon.io",
-      "location": "Americas, Europe, Asia, Africa, Oceania",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        ".Net",
-        "android",
-        "C",
-        "C#",
-        "C++",
-        "data science",
-        "golang",
-        "illustrator",
-        "ios",
-        "java",
-        "javascript",
-        "node.js"
-      ],
-      "category": "Design",
-      "postedDate": "2026-07-28",
-      "url": "https://remotive.com/remote-jobs/design/senior-graphic-designer-2091081",
       "source": "Remotive",
       "region": "foreign"
     }

@@ -1,0 +1,7 @@
+{
+  "id": "e8f544939ec4",
+  "title": "机械革命笔记本 VS Code及其衍生品 频繁屏闪问题排查与解决 - 有间猫",
+  "url": "https://www.cnblogs.com/itcod/p/22754743",
+  "contentZh": "",
+  "contentFull": "\n机械革命笔记本 VS Code 频繁屏闪问题排查与解决\n\n适用场景：机械革命（Mechrevo）笔记本电脑在使用 Visual Studio Code 时出现频繁屏闪/闪烁。\n问题根因：显卡驱动与 VS Code 硬件加速（GPU 渲染）冲突。VS Code 基于 Electron/Chromium，对 GPU 驱动兼容性敏感，机械革命的蓝天（Clevo）模具在双显卡切换、驱动版本上容易踩坑。\n\n一、常见原因排查表（按概率排序）\n\n\n\n可能原因\n判断方法\n解决方案\n\n\n\n\nGPU 硬件加速冲突（最常见）\n闪屏发生在 VS Code 窗口内，拖动窗口/滚动时明显\n关闭 VS Code 硬件加速（见第二步）\n\n\n双显卡切换抖动（核显↔独显频繁切换）\n笔记本插电时闪，或打开终端/终端渲染时闪\n在 NVIDIA 控制面板把 VS Code 设为指定显卡运行\n\n\n显卡驱动版本问题\n更新驱动后开始闪\n回退/更新显卡驱动（机械革命官网或 Intel/NVIDIA 官网）\n\n\n屏幕刷新率设置\n整个桌面也偶尔闪，不只 VS Code\n检查显示设置里的刷新率是否稳定（不要用\"动态刷新率\"）\n\n\n面板省电特性（PSR）\n白底页面停留时轻微闪烁\nBIOS 或注册表关闭 Panel Self Refresh\n\n\n\n二、解决步骤（从简单到复杂）\n第一步：关闭 VS Code 硬件加速 ⭐（80% 的情况这一步就解决，已验证有效）\n\n\n打开 VS Code，按 Ctrl + Shift + P 打开命令面板\n\n\n输入 Configure Runtime Arguments，回车打开 argv.json\n\n\n在文件中添加一行：\n\"disable-hardware-acceleration\": true\n\n\n\n完全退出 VS Code（包括托盘图标）再重新打开\n\n\n第二步：如果还闪，锁定显卡\n\n右键桌面 → NVIDIA 控制面板 → 管理 3D 设置 → 程序设置\n添加 Code.exe（默认路径在 C:\\Users\\xxxx\\AppData\\Local\\Programs\\Microsoft VS Code\\）\n为它选择\"集成图形\"或\"高性能 NVIDIA 处理器\"（先试集显，VS Code 不需要独显）\n\n第三步：检查驱动\n\n机械革命的显卡驱动有时是定制版，可去 Intel 官网直接更新核显驱动（用 Intel Driver & Support Assistant 自动检测最省事）\n如果是最近更新驱动后才出现的问题，直接回退到上一个版本\n\n第四步：终极排查\n\nWindows 设置 → 系统 → 屏幕 → 显示卡，确认 VS Code 的 GPU 偏好设置\n如果是高刷屏（165Hz 等），锁定固定刷新率而不是\"自动\"\n\n三、注意事项\n\n关闭硬件加速后如出现滚动卡顿（一般编辑器场景感知不到），可改用第二步锁定集显的方案替代\n每次修改 argv.json 或显卡设置后，务必完全退出 VS Code 再重启才能生效\n\n\n\n"
+}
