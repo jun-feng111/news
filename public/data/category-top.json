@@ -1,66 +1,4 @@
 {
-  "AI": [
-    {
-      "id": "e277e4a4618d",
-      "title": "Nvidia’s AI advantage is moving beyond the GPU",
-      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-      "summary": "Nvidia’s AI advantage is moving beyond the GPU",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-29T13:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/jense-nvidi-chip-GettyImages-2266485392.jpg?resize=1200,800",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "24c26e96ef00",
-      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-      "summary": "An Anthropic researcher just gave us a peek at self-improving AI",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-28T19:30:38.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2287646148.jpg?resize=1200,901",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "f019f50bce19",
-      "title": "Open-weight AI companies are the Valley&#8217;s hottest acquisition targets",
-      "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-      "summary": "Open-weight AI companies are the Valley&#8217;s hottest acquisition targets",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-28T18:19:40.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "93c197c40326",
-      "title": "Is the best way to watch a movie on a pair of sunglasses?",
-      "url": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
-      "summary": "Is the best way to watch a movie on a pair of sunglasses",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-28T22:42:48.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/P1110099.jpg?resize=1200,901",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "89c9a1fa20f1",
-      "title": "Brave&#8217;s browser one-ups Chrome with its new support for email aliases",
-      "url": "https://techcrunch.com/2026/08/28/braves-browser-one-ups-chrome-with-its-new-support-for-email-aliases/",
-      "summary": "Brave&#8217;s browser one-ups Chrome with its new support for email aliases",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-28T18:50:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/08/brave-browser.jpg?resize=1200,800",
-      "score": 70,
-      "tags": []
-    }
-  ],
   "科技": [
     {
       "id": "27a4e5c2a23f",
@@ -99,14 +37,14 @@
       "tags": []
     },
     {
-      "id": "a4e185da0952",
-      "title": "How Sweden built one of Europe’s hottest startup ecosystems",
-      "url": "https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems/",
-      "summary": "How Sweden built one of Europe’s hottest startup ecosystems",
+      "id": "619cf37e65ee",
+      "title": "&#8220;We&#8217;re not doing 30 bets a year&#8221;: Vijay Pande on betting small after running $4 billion at a16z",
+      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "summary": "&#8220;We&#8217;re not doing 30 bets a year&#8221;: Vijay Pande on betting small after running $4 bi",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-08-28T17:09:05.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2178323206.jpg?resize=1200,800",
+      "published": "2026-08-29T17:36:47.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Vijay-Pande.png?resize=1200,800",
       "score": 65,
       "tags": []
     },
@@ -120,6 +58,68 @@
       "published": "2026-08-28T23:24:27.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/xpeng-robot-Getty.jpg?resize=1200,848",
       "score": 60,
+      "tags": []
+    }
+  ],
+  "AI": [
+    {
+      "id": "e277e4a4618d",
+      "title": "Nvidia’s AI advantage is moving beyond the GPU",
+      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "summary": "Nvidia’s AI advantage is moving beyond the GPU",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-29T13:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/jense-nvidi-chip-GettyImages-2266485392.jpg?resize=1200,800",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "698656d72c29",
+      "title": "At TechBBQ, Europe&#8217;s AI conversations kept coming back to: Who&#8217;s actually in control?",
+      "url": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+      "summary": "At TechBBQ, Europe&#8217;s AI conversations kept coming back to: Who&#8217;s actually in control",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-29T17:51:10.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/TechBBQ.jpg?resize=1200,800",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "93c197c40326",
+      "title": "Is the best way to watch a movie on a pair of sunglasses?",
+      "url": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
+      "summary": "Is the best way to watch a movie on a pair of sunglasses",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-28T22:42:48.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/P1110099.jpg?resize=1200,901",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "24c26e96ef00",
+      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "summary": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-28T19:30:38.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2287646148.jpg?resize=1200,901",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "0d18d5472b03",
+      "title": "Sony Music, Warner sue Anthropic, alleging a &#8220;brazen campaign&#8221; of intellectual property theft",
+      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "summary": "Sony Music, Warner sue Anthropic, alleging a &#8220;brazen campaign&#8221; of intellectual property ",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-29T18:41:59.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=1024",
+      "score": 65,
       "tags": []
     }
   ],
@@ -223,18 +223,6 @@
       "tags": []
     },
     {
-      "id": "8a1385be49a1",
-      "title": "复旦教授曾说：再发达的国家都用不到那么多大学生！发人深省",
-      "url": "https://www.sohu.com/a/1068275584_122483031",
-      "summary": "2025年11月20日，教育部召开2026届全国普通高校毕业生就业创业工作会议，会上公布的一组数字牵动了千家万户的神经：2026届全国高校毕业生规模预计将达到1270万人。这已经是连续第三年站上千万量",
-      "source": "Bing·大学生就业政策",
-      "category": "政策",
-      "published": "2026-08-27T07:11:00.000Z",
-      "image": "//q3.itc.cn/images01/20260827/03c1835dbe114af1a8d9ff00401f4efd.jpeg",
-      "score": 50,
-      "tags": []
-    },
-    {
       "id": "a473f916115f",
       "title": "甘肃出台稳岗扩容提质行动实施方案 全方位拓宽就业渠道 提升就业质效",
       "url": "https://news.sina.com.cn/zx/gj/2026-08-25/doc-inippmeq1673001.shtml",
@@ -243,6 +231,18 @@
       "category": "政策",
       "published": "2026-08-24T18:21:00.000Z",
       "image": "https://n.sinaimg.cn/default/393/w253h140/20251230/d8d0-a01eca45e0968e8dbf7a84cd93d27d89.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "fa12d4ca8c9e",
+      "title": "珠三角区域（广州）退役军人就业联盟签约仪式暨退役大学生士兵 ...",
+      "url": "http://zw.china.com.cn/2026-08/26/content_118664932.shtml",
+      "summary": "戎耀新程，就业护航。8月24日，由广州市退役军人事务局主办的珠三角区域（广州）退役军人就业联盟单位签约仪式暨退役大学生士兵专场招聘活动在广州东方宾馆举办",
+      "source": "Bing·大学生就业政策",
+      "category": "政策",
+      "published": "2026-08-26T04:13:00.000Z",
+      "image": "http://images.china.cn/images1/ch/2022ChinaIdex/img/shareF2023.png",
       "score": 50,
       "tags": []
     }
