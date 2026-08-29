@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-29T19:42:57.527Z",
+  "updated": "2026-08-29T22:27:18.883Z",
   "count": 11,
-  "insightCount": 54,
+  "insightCount": 53,
   "channels": {
     "V2EX": 10,
     "掘金": 20,
-    "大厂官方": 13,
-    "政府公开": 4,
-    "搜索引擎聚合": 37
+    "大厂官方": 14,
+    "政府公开": 3,
+    "搜索引擎聚合": 36
   },
   "note": "国内岗位来自 V2EX/掘金 等社区真实发布；大厂/政府/行业前景来自搜索引擎公开报道聚合（合规，非伪造岗位）。求职请以企业官方渠道核实。",
   "jobs": [
@@ -335,28 +335,7 @@
   ],
   "insights": [
     {
-      "id": "agg-669c6271e4",
-      "topic": "安全工程师",
-      "type": "position",
-      "dimension": "skill",
-      "dimensionLabel": "技能要求",
-      "title": "网络安全工程师就业方向全解析：不止\"黑客\"，这 6 个方向都缺人",
-      "salary": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "skills": [
-        "数据"
-      ],
-      "prospect": "（报道未直接提及前景，可点开原文查看）",
-      "trend": "（报道未直接提及趋势，可点开原文查看）",
-      "summary": "提到网络安全，很多人第一反应是电影里戴兜帽敲键盘的\"黑客\"。但真实的网络安全行业远不止\"黑客\"这一个角色。随着《网络安全法》《数据安全法》《个人信息保护法》相继落地，以及\"护网行动\"每年举办 4 次，网络安全已经从一个小众领域变成了国家战略性新兴产业。 哪里有数据，哪里就需要安全。本文把网络安全行业的 6 大就业方向一次讲清，包括每个方向的工作内容、技能要求、薪资水平和适合人群，帮你找到最适合自己 ...",
-      "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a93363d35034745a606d69ae315ce8a&amp;url=https%3a%2f%2fwww.sohu.com%2fa%2f1069214239_122992539&amp;c=11457064834516899477&amp;mkt=en-us",
-      "published": "2026-08-29T04:35:00.000Z",
-      "channel": "搜索引擎聚合"
-    },
-    {
-      "id": "agg-a485790981",
+      "id": "agg-3e27094b18",
       "topic": "测试开发",
       "type": "position",
       "dimension": "skill",
@@ -372,12 +351,33 @@
       "trend": "（报道未直接提及趋势，可点开原文查看）",
       "summary": "关注 「软件测试就业联盟」公众号，陪你走好校招求职的每一步 如果你是2027届，最近正在准备测试开发、软件测试或者AI相关岗位，我建议你认真看看最近OpenAI发生的这件事。 不是因为GPT-6什么时候发布。 而是因为OpenAI正在因为一个过去很多人没有真正重视的问题，重新调整前沿模型研发的节奏： AI安全。 近期，OpenAI公开表示，为了让安全、监控、alignment等能力跟上前沿模型的发 ...",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a933632c8044e83a60e26206d58065b&amp;url=https%3a%2f%2fwww.sohu.com%2fa%2f1069390358_120635785&amp;c=2153124260622758938&amp;mkt=en-us",
-      "published": "2026-08-29T00:45:00.000Z",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935cb7283844a4b5ad414624c27ef3&amp;url=https%3a%2f%2fwww.sohu.com%2fa%2f1069390358_120635785&amp;c=2153124260622758938&amp;mkt=en-us",
+      "published": "2026-08-29T14:44:00.000Z",
       "channel": "搜索引擎聚合"
     },
     {
-      "id": "agg-f0d7f02ec3",
+      "id": "agg-b75a21c2e8",
+      "topic": "安全工程师",
+      "type": "position",
+      "dimension": "skill",
+      "dimensionLabel": "技能要求",
+      "title": "网络安全工程师就业方向全解析：不止\"黑客\"，这 6 个方向都缺人",
+      "salary": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "skills": [
+        "数据"
+      ],
+      "prospect": "（报道未直接提及前景，可点开原文查看）",
+      "trend": "（报道未直接提及趋势，可点开原文查看）",
+      "summary": "提到网络安全，很多人第一反应是电影里戴兜帽敲键盘的\"黑客\"。但真实的网络安全行业远不止\"黑客\"这一个角色。随着《网络安全法》《数据安全法》《个人信息保护法》相继落地，以及\"护网行动\"每年举办 4 次，网络安全已经从一个小众领域变成了国家战略性新兴产业。 哪里有数据，哪里就需要安全。本文把网络安全行业的 6 大就业方向一次讲清，包括每个方向的工作内容、技能要求、薪资水平和适合人群，帮你找到最适合自己 ...",
+      "source": "公开报道",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935cc2dc644dafb786eb31575fbc02&amp;url=https%3a%2f%2fwww.sohu.com%2fa%2f1069214239_122992539&amp;c=11457064834516899477&amp;mkt=en-us",
+      "published": "2026-08-29T04:35:00.000Z",
+      "channel": "搜索引擎聚合"
+    },
+    {
+      "id": "agg-663f6dbad1",
       "topic": "产品经理",
       "type": "position",
       "dimension": "skill",
@@ -394,12 +394,12 @@
       "trend": "（报道未直接提及趋势，可点开原文查看）",
       "summary": "职计划Z计划以三大AI Native核心项目为主体:工程级Skill开发项目由大厂在职AI讲师带队,学员完成场景选型、触发条件、上下文组织、输出规范、异常处理与测试全流程,交付可复用、可展示、支持背调的工程级作品;可上线AI产品开发项目要求学员完整参与从立项到上线全流程,交付PRD文档、线上链接与面试演示脚本;个人AI ...",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a933636ea7444f3958c91c08e3eb75a&amp;url=https%3a%2f%2ffinance.ifeng.com%2fc%2f8vxSyclyUDa&amp;c=15177623789340016163&amp;mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935cbc6a584eb7bbea7e1c77f166bc&amp;url=https%3a%2f%2ffinance.ifeng.com%2fc%2f8vxSyclyUDa&amp;c=15177623789340016163&amp;mkt=en-us",
       "published": "2026-08-28T07:39:00.000Z",
       "channel": "搜索引擎聚合"
     },
     {
-      "id": "agg-4befa42a05",
+      "id": "agg-34a612b9b4",
       "topic": "后端开发",
       "type": "position",
       "dimension": "skill",
@@ -417,12 +417,12 @@
       "trend": "” 我给他看了一组数据：某招聘平台显示，中高级测试开发工程师的供需比已经达到1:8，比很多后端开发岗还抢手",
       "summary": "上个月，一个在某大厂做了5年后端开发的老同事找我聊天。 “哥们，我最近在看机会，投了十几家，反馈寥寥。你说今年这市场怎么回事？” 我问了他一个挺扎心的问题：“你关注过测试开发岗吗？” 他愣了一下：“测试？那不是‘点点点’的岗位吗？薪资能高到哪去？” 我给他看了一组数据：某招聘平台显示，中高级测试开发工程师的供需比已经达到1:8，比很多后端开发岗还抢手。 他沉默了。 然后问了一句让我印象很深的话：“ ...",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a93362ffda944899a58f7a547756ba0&amp;url=https%3a%2f%2fwww.sohu.com%2fa%2f1067910447_120635785&amp;c=6510412243017097009&amp;mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935cb594574db38ea3c1e0a5c2c459&amp;url=https%3a%2f%2fwww.sohu.com%2fa%2f1067910447_120635785&amp;c=6510412243017097009&amp;mkt=en-us",
       "published": "2026-08-26T10:46:00.000Z",
       "channel": "搜索引擎聚合"
     },
     {
-      "id": "agg-a128d84b84",
+      "id": "agg-065982a51d",
       "topic": "测试开发",
       "type": "position",
       "dimension": "skill",
@@ -440,12 +440,12 @@
       "trend": "” 我给他看了一组数据：某招聘平台显示，中高级测试开发工程师的供需比已经达到1:8，比很多后端开发岗还抢手",
       "summary": "上个月，一个在某大厂做了5年后端开发的老同事找我聊天。 “哥们，我最近在看机会，投了十几家，反馈寥寥。你说今年这市场怎么回事？” 我问了他一个挺扎心的问题：“你关注过测试开发岗吗？” 他愣了一下：“测试？那不是‘点点点’的岗位吗？薪资能高到哪去？” 我给他看了一组数据：某招聘平台显示，中高级测试开发工程师的供需比已经达到1:8，比很多后端开发岗还抢手。 他沉默了。 然后问了一句让我印象很深的话：“ ...",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a933632c8044e83a60e26206d58065b&amp;url=https%3a%2f%2fwww.sohu.com%2fa%2f1067910447_120635785&amp;c=6510412243017097009&amp;mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935cb7283844a4b5ad414624c27ef3&amp;url=https%3a%2f%2fwww.sohu.com%2fa%2f1067910447_120635785&amp;c=6510412243017097009&amp;mkt=en-us",
       "published": "2026-08-26T10:46:00.000Z",
       "channel": "搜索引擎聚合"
     },
     {
-      "id": "agg-28e7fb01fb",
+      "id": "agg-4bb9bdc6c0",
       "topic": "安全工程师",
       "type": "position",
       "dimension": "trend",
@@ -461,12 +461,12 @@
       "trend": "（报道未直接提及趋势，可点开原文查看）",
       "summary": "AI智能体的兴起正深刻改变网络安全领域的职业技能需求。据AI劳动力联盟报告，78%的网络安全岗位现已要求具备AI技能，G7国家相关职位中要求AI技能的比例一年内从14.2%跃升至28.5%。报告指出，Python、提示工程、AI安全、智能体编排及MLOps已成为核心技能组合。SOC分析师角色正从手动处理转向对AI智能体的监督与验证，同时\"AI取证专家\"作为新兴岗位应运而生。",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a93363e15f14a6c807e9c96f3a42cc6&amp;url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2f%25E6%2599%25BA%25E8%2583%25BD%25E4%25BD%2593%25E9%2587%258D%25E5%25A1%2591%25E7%25BD%2591%25E7%25BB%259C%25E5%25AE%2589%25E5%2585%25A8%25E5%25A8%2581%25E8%2583%2581%25E6%25A0%25BC%25E5%25B1%2580-ai%25E6%258A%2580%25E8%2583%25BD%25E9%259C%2580%25E6%25B1%2582%25E6%2580%25A5%25E5%2589%25A7%25E6%2594%2580%25E5%258D%2587%2far-AA2aSJAQ&amp;c=7291017833302478538&amp;mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935cc39fc14a26840b32a1b8f17845&amp;url=https%3a%2f%2fwww.msn.cn%2fzh-cn%2f%25E6%258A%2580%25E6%259C%25AF%2f%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%2f%25E6%2599%25BA%25E8%2583%25BD%25E4%25BD%2593%25E9%2587%258D%25E5%25A1%2591%25E7%25BD%2591%25E7%25BB%259C%25E5%25AE%2589%25E5%2585%25A8%25E5%25A8%2581%25E8%2583%2581%25E6%25A0%25BC%25E5%25B1%2580-ai%25E6%258A%2580%25E8%2583%25BD%25E9%259C%2580%25E6%25B1%2582%25E6%2580%25A5%25E5%2589%25A7%25E6%2594%2580%25E5%258D%2587%2far-AA2aSJAQ&amp;c=7291017833302478538&amp;mkt=en-us",
       "published": "2026-08-25T14:49:00.000Z",
       "channel": "搜索引擎聚合"
     },
     {
-      "id": "big-2e64f35bea",
+      "id": "big-96493b4450",
       "topic": "快手",
       "type": "company",
       "title": "全面加码AI人才，快手启动2027届秋季校园招聘",
@@ -478,12 +478,12 @@
       "trend": "8月12日，快手正式启动2027届秋季校园招聘",
       "summary": "当 AI 正在重塑工作方式，快手也在重新定义校招生的能力标准。 8月12日，快手正式启动2027届秋季校园招聘。据悉，快手此次秋招将AI能力作为人才标配，希望寻找善于运用AI解决真实问题的AI Native年轻人才，并为校招生提供亿级用户业务场景和系统化培养支持。",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a93361f08004558baafc287ad3e8f17&amp;url=https%3a%2f%2fwww.csdn.net%2farticle%2f2026-08-14%2f163745353&amp;c=9544628132124677168&amp;mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935ca3a31e4f90afb160d7006f9f68&amp;url=https%3a%2f%2fwww.csdn.net%2farticle%2f2026-08-14%2f163745353&amp;c=9544628132124677168&amp;mkt=en-us",
       "published": "2026-08-14T02:48:00.000Z",
       "channel": "大厂官方"
     },
     {
-      "id": "big-f3077000c0",
+      "id": "big-4ed21afd29",
       "topic": "滴滴",
       "type": "company",
       "title": "腾讯、字节跳动、小米、阿里巴巴、滴滴等多家头部互联网、科技 ...",
@@ -499,12 +499,29 @@
       "trend": "8月13日，滴滴发文宣布2027届校园招聘正式启动，本次招聘面向2027届毕业生（毕业时间为2026年9月至2027年8月）",
       "summary": "8月13日，滴滴发文宣布2027届校园招聘正式启动，本次招聘面向2027届毕业生（毕业时间为2026年9月至2027年8月）。 岗位涵盖工程类、算法类、机器人类、产品类、安全技术类、运营类、数据类、商分类、金融业务类等。 工作地点覆盖北京、上海、广州、杭州 ...",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a93361e1f6d4a2383cc49d5860b8ab3&amp;url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260813A0A2GM00&amp;c=3799887470471335256&amp;mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935ca343c2444b930e9ae62d89896c&amp;url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260813A0A2GM00&amp;c=3799887470471335256&amp;mkt=en-us",
       "published": "2026-08-13T09:12:00.000Z",
       "channel": "大厂官方"
     },
     {
-      "id": "big-c7306487a8",
+      "id": "big-18d9248ce7",
+      "topic": "快手",
+      "type": "company",
+      "title": "全面加码AI人才，快手秋招向所有岗位开放“AI应用经验”上传入口",
+      "salary": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "skills": [],
+      "prospect": "（报道未直接提及前景，可点开原文查看）",
+      "trend": "8月12日，快手宣布正式启动2027届秋季校园招聘",
+      "summary": "8月12日，快手宣布正式启动2027届秋季校园招聘。据悉，快手此次秋招将AI能力作为人才标配，希望寻找善于运用AI解决真实问题的AI Native年轻人才，并为校招生提供亿级用户业务场景和系统化培养支持。",
+      "source": "公开报道",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935ca3a31e4f90afb160d7006f9f68&amp;url=https%3a%2f%2fwww.msn.com%2fzh-cn%2fmoney%2f%25E9%2580%259A%25E7%2594%25A8%2f%25E5%2585%25A8%25E9%259D%25A2%25E5%258A%25A0%25E7%25A0%2581ai%25E4%25BA%25BA%25E6%2589%258D-%25E5%25BF%25AB%25E6%2589%258B%25E7%25A7%258B%25E6%258B%259B%25E5%2590%2591%25E6%2589%2580%25E6%259C%2589%25E5%25B2%2597%25E4%25BD%258D%25E5%25BC%2580%25E6%2594%25BE-ai%25E5%25BA%2594%25E7%2594%25A8%25E7%25BB%258F%25E9%25AA%258C-%25E4%25B8%258A%25E4%25BC%25A0%25E5%2585%25A5%25E5%258F%25A3%2far-AA2a0ezm&amp;c=11217128245659597141&amp;mkt=en-us",
+      "published": "2026-08-12T22:49:41.000Z",
+      "channel": "大厂官方"
+    },
+    {
+      "id": "big-8a5081b1fb",
       "topic": "快手",
       "type": "company",
       "title": "快手启动2027届秋季校园招聘 全面加码AI人才",
@@ -516,12 +533,12 @@
       "trend": "8月12日，快手正式启动2027届秋季校园招聘",
       "summary": "8月12日，快手正式启动2027届秋季校园招聘。根据快手校园招聘官网信息，本次秋招常规岗位面向2026年11月至2027年10月毕业的本硕博学生。快Star顶尖技术人才计划面向2025年1月至2027年10月毕业的本硕博学生，全年开放，覆盖大模型、音视频、推荐、广告、搜索等 ...",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a93361f08004558baafc287ad3e8f17&amp;url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-08-12%2fdoc-ininaezk5250932.shtml&amp;c=101976890422099926&amp;mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935ca3a31e4f90afb160d7006f9f68&amp;url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-08-12%2fdoc-ininaezk5250932.shtml&amp;c=101976890422099926&amp;mkt=en-us",
       "published": "2026-08-12T12:07:00.000Z",
       "channel": "大厂官方"
     },
     {
-      "id": "agg-27b3389208",
+      "id": "agg-0e70063896",
       "topic": "产品经理",
       "type": "position",
       "dimension": "skill",
@@ -538,12 +555,12 @@
       "trend": "8月5日，阿里巴巴公布2027届应届生招聘信息，面 向毕业时间在2026年11月至2027年10月的海内外学生",
       "summary": "2026年夏天，阿里已经开始2027届“秋招”了。 8月5日，阿里巴巴公布2027届应届生招聘信息，面 向毕业时间在2026年11月至2027年10月的海内外学生。 互联网大厂锁定人才越来越早，实习、转正、校招之间的边界也越来越模糊。 阿里这批岗位还挺多的，总共487个，人数就更多了。产品和设计岗位总共16个。 岗位要求也越来越接近“一条龙”：既要懂用户和业务，也要开始理解模型、工作流、数据和工程 ...",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a933636ea7444f3958c91c08e3eb75a&amp;url=https%3a%2f%2fwww.sohu.com%2fa%2f1061566860_121124300&amp;c=4714653785940720769&amp;mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935cbc6a584eb7bbea7e1c77f166bc&amp;url=https%3a%2f%2fwww.sohu.com%2fa%2f1061566860_121124300&amp;c=4714653785940720769&amp;mkt=en-us",
       "published": "2026-08-11T12:18:00.000Z",
       "channel": "搜索引擎聚合"
     },
     {
-      "id": "big-70fbe2228a",
+      "id": "big-df0210337d",
       "topic": "腾讯",
       "type": "company",
       "title": "腾讯启动2027 校园招聘，AI重塑岗位设置及人才标准 “鹅厂”招新 ...",
@@ -557,12 +574,12 @@
       "trend": "8月11日，腾讯2027校园招聘正式启动",
       "summary": "8月11日，腾讯2027校园招聘正式启动。本次招聘面向2026年1月至2027年12月期间毕业的大学生，开放技术类、产品类、设计类、市场类、职能类等五大类别工作岗位。 随着AI技术发展和业务场景不断深化，腾讯校招迎来两大变化：岗位转型升级、人才标准迭代更新。",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a933618707d42fbbcf0ef116c8605c4&amp;url=https%3a%2f%2ffinance.sina.com.cn%2fjjxw%2f2026-08-11%2fdoc-inimxvum4208572.shtml&amp;c=471151722274406556&amp;mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935c9d59d5465aa80d64e82000f996&amp;url=https%3a%2f%2ffinance.sina.com.cn%2fjjxw%2f2026-08-11%2fdoc-inimxvum4208572.shtml&amp;c=471151722274406556&amp;mkt=en-us",
       "published": "2026-08-11T09:22:00.000Z",
       "channel": "大厂官方"
     },
     {
-      "id": "big-b2bb4cd60a",
+      "id": "big-f59194596b",
       "topic": "小米",
       "type": "company",
       "title": "小米与蚂蚁集团同步启动2027届校招，AI岗位成招聘重点",
@@ -576,12 +593,12 @@
       "trend": "8月10日，小米宣布启动2027届全球校园招聘，面向2026年9月1日至2027年8月31日期间毕业的海内外应届毕业生，网申截止时间为12月31日",
       "summary": "8月10日，小米宣布启动2027届全球校园招聘，面向2026年9月1日至2027年8月31日期间毕业的海内外应届毕业生，网申截止时间为12月31日。此次招聘中AI相关岗位需求同比增长50%，官方海报提及Xiaomi MiMo、Xiaomi miclaw、Xiaomi-Robotics-1、Xiaomi CyberOne等人工智能产品。 小米本 ...",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a93361cd38c4f86a4c363f4adb0c836&amp;url=https%3a%2f%2fwww.donews.com%2fnews%2fdetail%2f4%2f6665013.html&amp;c=8932520791935204413&amp;mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935ca161c94b1e8062eba685f4cb80&amp;url=https%3a%2f%2fwww.donews.com%2fnews%2fdetail%2f4%2f6665013.html&amp;c=8932520791935204413&amp;mkt=en-us",
       "published": "2026-08-10T07:50:00.000Z",
       "channel": "大厂官方"
     },
     {
-      "id": "big-ec1d301a41",
+      "id": "big-12aabd47d8",
       "topic": "阿里巴巴",
       "type": "company",
       "title": "阿里巴巴集团2027届应届生招聘正式启动，可同时投递包含淘宝闪购 ...",
@@ -593,12 +610,12 @@
       "trend": "据阿里巴巴校园招聘网站8月4日消息，阿里巴巴2027届应届生招聘正式启动",
       "summary": "据阿里巴巴校园招聘网站8月4日消息，阿里巴巴2027届应届生招聘正式启动。 在招业务包含淘宝闪购、千文、飞猪、菜鸟、盒马、高德地图、虎鲸文娱、阿里健康等多个知名业务。阿里的薪资在互联网行业极具竞争力，尤其是技术类岗位，应届生也能拿到可观的薪资 ...",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a93361965334c6b80a66de779d5b3ed&amp;url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260805A07X2500&amp;c=18059762374269040290&amp;mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935c9e86124ed1a84784b1e94ac9ed&amp;url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260805A07X2500&amp;c=18059762374269040290&amp;mkt=en-us",
       "published": "2026-08-05T06:14:00.000Z",
       "channel": "大厂官方"
     },
     {
-      "id": "agg-49a9b940c1",
+      "id": "agg-8781b5fb1d",
       "topic": "全栈工程师",
       "type": "position",
       "dimension": "trend",
@@ -616,12 +633,12 @@
       "trend": "【CNMO科技消息】8月3日，字节跳动2027校园招聘正式启动，面向所有2027届应届毕业生 （在2026年9月至2027年8月期间毕业）",
       "summary": "【CNMO科技消息】8月3日，字节跳动2027校园招聘正式启动，面向所有2027届应届毕业生 （在2026年9月至2027年8月期间毕业）。 字节跳动 据CNMO科技了解，字节跳动持续加大对校招人才的招募与投入，今年技术和产品岗位需求占比超过70%。研发类岗位中，算法类岗位 ...",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a93364056ca45eeaebdc8a9066095a1&amp;url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260803A0B2OG00&amp;c=13109276573759416448&amp;mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935cc6d05b45fbaca25282885ed049&amp;url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260803A0B2OG00&amp;c=13109276573759416448&amp;mkt=en-us",
       "published": "2026-08-03T14:13:00.000Z",
       "channel": "搜索引擎聚合"
     },
     {
-      "id": "agg-79e1373927",
+      "id": "agg-9689d72e41",
       "topic": "后端开发",
       "type": "position",
       "dimension": "skill",
@@ -637,12 +654,12 @@
       "trend": "（报道未直接提及趋势，可点开原文查看）",
       "summary": "四川科瑞软件有限责任公司（以下简称“四川科瑞”）成立于2002年，是九洲集团旗下国家高新技术企业，专注数智化综合服务。公司注册资本3.9亿元，2025年营收突破113亿元，构建全国一体化运营体系，服务网络覆盖全国。主营算力基础设施、商用及消费终端 ...",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a93362ffda944899a58f7a547756ba0&amp;url=https%3a%2f%2fwww.my.gov.cn%2fmysrmzf%2fc100022%2f202608%2fe5badc9239f74f10b84c7d4457a29ac6.shtml&amp;c=2341868865114376345&amp;mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935cb594574db38ea3c1e0a5c2c459&amp;url=https%3a%2f%2fwww.my.gov.cn%2fmysrmzf%2fc100022%2f202608%2fe5badc9239f74f10b84c7d4457a29ac6.shtml&amp;c=2341868865114376345&amp;mkt=en-us",
       "published": "2026-08-03T08:20:00.000Z",
       "channel": "搜索引擎聚合"
     },
     {
-      "id": "agg-7c6f524ad1",
+      "id": "agg-7277c9e3e2",
       "topic": "安全工程师",
       "type": "position",
       "dimension": "skill",
@@ -656,12 +673,12 @@
       "trend": "（报道未直接提及趋势，可点开原文查看）",
       "summary": "摘要：很多考生准备报考前，都会先了解“2026年中级注册安全工程师能做什么工作”。中级注册安全工程师证书主要面向安全生产管理、安全工程技术、安全咨询服务等相关岗位，适合建筑、化工、矿山、制造、道路运输等行业人员报考。2026年中级注册安全 ...",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a93363d35034745a606d69ae315ce8a&amp;url=https%3a%2f%2fwww.eol.cn%2fkaoshi%2fjg%2fzjzcaqgcs%2f202607%2ft20260716_2756940.shtml&amp;c=16280440448751808151&amp;mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935cc2dc644dafb786eb31575fbc02&amp;url=https%3a%2f%2fwww.eol.cn%2fkaoshi%2fjg%2fzjzcaqgcs%2f202607%2ft20260716_2756940.shtml&amp;c=16280440448751808151&amp;mkt=en-us",
       "published": "2026-07-16T09:59:00.000Z",
       "channel": "搜索引擎聚合"
     },
     {
-      "id": "agg-27ad008e45",
+      "id": "agg-7119de915c",
       "topic": "安全工程师",
       "type": "position",
       "dimension": "prospect",
@@ -675,12 +692,12 @@
       "trend": "（报道未直接提及趋势，可点开原文查看）",
       "summary": "摘要：很多考生准备报考前，都会先了解“2026年中级注册安全工程师能做什么工作”。中级注册安全工程师证书主要面向安全生产管理、安全工程技术、安全咨询服务等相关岗位，适合建筑、化工、矿山、制造、道路运输等行业人员报考。2026年中级注册安全 ...",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a93363eed644d37b169ccd0ee4ade15&amp;url=https%3a%2f%2fwww.eol.cn%2fkaoshi%2fjg%2fzjzcaqgcs%2f202607%2ft20260716_2756940.shtml&amp;c=16280440448751808151&amp;mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935cc30a1947c284dd4d896a96799b&amp;url=https%3a%2f%2fwww.eol.cn%2fkaoshi%2fjg%2fzjzcaqgcs%2f202607%2ft20260716_2756940.shtml&amp;c=16280440448751808151&amp;mkt=en-us",
       "published": "2026-07-16T09:59:00.000Z",
       "channel": "搜索引擎聚合"
     },
     {
-      "id": "agg-3458f0845b",
+      "id": "agg-900f8f7502",
       "topic": "数据分析",
       "type": "position",
       "dimension": "skill",
@@ -696,12 +713,12 @@
       "trend": "各行各业都急需能够结合整体商业战略开展数据分析与数据管理的专业人员，由此催生了人才需求的爆发式增长",
       "summary": "数字领域持续扩张，市场对数据科学专业人才的需求日益高涨。 各行各业都急需能够结合整体商业战略开展数据分析与数据管理的专业人员，由此催生了人才需求的爆发式增长。 IEEE高级会员Marcosiris Amorim de Oliveira Pessoa表示：“人才需求之所以持续上涨，是因为 ...",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a93362dffb6405289f319bad5e6bf17&amp;url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-07-08%2fdoc-inihaawk4908499.shtml&amp;c=4022649301939167280&amp;mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935cb3974845d989f49b27a3850119&amp;url=https%3a%2f%2ffinance.sina.com.cn%2ftech%2froll%2f2026-07-08%2fdoc-inihaawk4908499.shtml&amp;c=4022649301939167280&amp;mkt=en-us",
       "published": "2026-07-08T03:42:00.000Z",
       "channel": "搜索引擎聚合"
     },
     {
-      "id": "agg-8b446b1eea",
+      "id": "agg-61fffece21",
       "topic": "全栈工程师",
       "type": "position",
       "dimension": "prospect",
@@ -717,12 +734,12 @@
       "trend": "（报道未直接提及趋势，可点开原文查看）",
       "summary": "2026 世界人工智能大会(WAIC2026)开幕在即, agent Ma--“全栈开发工程师” AI开发平台(AI软件工厂) 将于上海世博主馆正式亮相。不同于市场上主流的代码辅助工具,agent Ma 实现从自然语言需求到线上交付的端到端闭环执行,打通需求理解、架构设计、代码编写、编译部署 ...",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a93364030104a0e82977224052374b0&amp;url=https%3a%2f%2ffinance.ifeng.com%2fc%2f8uXkWt0kBpX&amp;c=9192330183416406674&amp;mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935cc590124a349d38aa0ea533dd1f&amp;url=https%3a%2f%2ffinance.ifeng.com%2fc%2f8uXkWt0kBpX&amp;c=9192330183416406674&amp;mkt=en-us",
       "published": "2026-07-06T11:07:00.000Z",
       "channel": "搜索引擎聚合"
     },
     {
-      "id": "agg-fb65d77bc8",
+      "id": "agg-a62cbc9492",
       "topic": "全栈工程师",
       "type": "position",
       "dimension": "prospect",
@@ -738,12 +755,12 @@
       "trend": "2026 年生成式 AI 深度赋能武汉科创、先进制造、本地工贸各类企业，AI 问答流量成为本土品牌全新增长渠道，但本地 GEO 行业乱象突出，大部分服务商仅能产出零散浅层文案，缺少自主底层研发系统、全国同步运营交付、武汉本地化专属运营团队、全流程合规 ...",
       "summary": "2026 年生成式 AI 深度赋能武汉科创、先进制造、本地工贸各类企业，AI 问答流量成为本土品牌全新增长渠道，但本地 GEO 行业乱象突出，大部分服务商仅能产出零散浅层文案，缺少自主底层研发系统、全国同步运营交付、武汉本地化专属运营团队、全流程合规 ...",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a93364030104a0e82977224052374b0&amp;url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-06-28%2fdoc-inieyvrn2638500.shtml&amp;c=4715564001500549338&amp;mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935cc590124a349d38aa0ea533dd1f&amp;url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-06-28%2fdoc-inieyvrn2638500.shtml&amp;c=4715564001500549338&amp;mkt=en-us",
       "published": "2026-06-28T16:21:00.000Z",
       "channel": "搜索引擎聚合"
     },
     {
-      "id": "agg-6ea5c4e335",
+      "id": "agg-9ca092291e",
       "topic": "后端开发",
       "type": "position",
       "dimension": "trend",
@@ -760,12 +777,12 @@
       "trend": "南京奕巴巴智能科技有限公司主营：副业，接单，小程序，招聘，前端开发，后端开发，app开发，网站开发欢迎来电咨询",
       "summary": "南京奕巴巴智能科技有限公司主营：副业，接单，小程序，招聘，前端开发，后端开发，app开发，网站开发欢迎来电咨询！ 随着南京数字经济产业规模持续扩张，工业互联网、消费数字化、企业SaaS等赛道对后端开发服务的需求呈高速增长态势，无论是企业招聘 ...",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a933631f58847509036e2048ca6551e&amp;url=https%3a%2f%2fwww.dzwww.com%2fjixie%2f7d230bde47740718.html&amp;c=11835189775979855797&amp;mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935cb670ba41498a444251632fafb5&amp;url=https%3a%2f%2fwww.dzwww.com%2fjixie%2f7d230bde47740718.html&amp;c=11835189775979855797&amp;mkt=en-us",
       "published": "2026-06-17T17:00:00.000Z",
       "channel": "搜索引擎聚合"
     },
     {
-      "id": "agg-9099139f83",
+      "id": "agg-eaa88ff6ad",
       "topic": "前端开发",
       "type": "position",
       "dimension": "skill",
@@ -781,12 +798,12 @@
       "trend": "（报道未直接提及趋势，可点开原文查看）",
       "summary": "快速阅读：本文探讨了 AI 是否正在重演前端开发遭遇的“去技能化”危机。作者认为，虽然 AI 和框架降低了开发门槛并提升了效率，但也带来了软件质量下降、抽象层“泄漏”以及开发者核心竞争力被削弱的风险。 这种感觉很熟悉。 现在的程序员在担心 AI，就 ...",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a93362bc4a64234a5db9012cc1024b3&amp;url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260530A0326X00&amp;c=928661352813145144&amp;mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935cb0076742529f26dd50f7220434&amp;url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260530A0326X00&amp;c=928661352813145144&amp;mkt=en-us",
       "published": "2026-05-30T01:50:00.000Z",
       "channel": "搜索引擎聚合"
     },
     {
-      "id": "gov-4d35abb210",
+      "id": "gov-24df31e5e8",
       "topic": "达州2家国企公开招聘！",
       "type": "government",
       "title": "达州2家国企公开招聘！",
@@ -798,12 +815,12 @@
       "trend": "达州市投资有限公司 达州市高新科创有限公司 面向社会公开招聘工作人员 一起来看~~ 达州市投资有限公司 根据工作需要，达州市投资有限公司公开招聘1名工作人员，其下属子公司公开招聘9名工作人员，报名时间为2026年5月22日9:00至2026 ...",
       "summary": "找工作的小伙伴注意啦！ 达州市投资有限公司 达州市高新科创有限公司 面向社会公开招聘工作人员 一起来看~~ 达州市投资有限公司 根据工作需要，达州市投资有限公司公开招聘1名工作人员，其下属子公司公开招聘9名工作人员，报名时间为2026年5月22日9:00至2026 ...",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9336212dba449f9e55b0fe6f31404d&amp;url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260523A08VN200&amp;c=6666363433691103072&amp;mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935ca69677425697afb30a5afbba59&amp;url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260523A08VN200&amp;c=6666363433691103072&amp;mkt=en-us",
       "published": "2026-05-23T11:47:00.000Z",
       "channel": "政府公开"
     },
     {
-      "id": "agg-1dba91acdf",
+      "id": "agg-79d8808650",
       "topic": "数据分析",
       "type": "position",
       "dimension": "prospect",
@@ -819,12 +836,12 @@
       "trend": "（报道未直接提及趋势，可点开原文查看）",
       "summary": "随着新高考改革全面落地、就业市场结构持续调整，加之新兴产业崛起与人才需求格局重塑，志愿填报与职业规划成为社会重点关注领域，行业发展与人才择业迎来全新发展态势。立足当下升学就业双重刚需热点，本报告围绕高考志愿填报展开深度研究，梳理 ...",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a93362e99e24178a29817b6a39c3b55&amp;url=https%3a%2f%2fwww.iimedia.cn%2fc400%2f111442.html&amp;c=15806362454722250478&amp;mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935cb328ae4bbb85b729f6712655bc&amp;url=https%3a%2f%2fwww.iimedia.cn%2fc400%2f111442.html&amp;c=15806362454722250478&amp;mkt=en-us",
       "published": "2026-05-21T01:08:00.000Z",
       "channel": "搜索引擎聚合"
     },
     {
-      "id": "big-fd26e1e305",
+      "id": "big-df67dae327",
       "topic": "华为",
       "type": "company",
       "title": "华为紧急发布提醒，腾讯及时回应！深圳宣布再招40万毕业生！2026年 ...",
@@ -836,12 +853,12 @@
       "trend": "面对2026年全国预计1270万、深圳市高校预计首次突破5万人的应届毕业生规模，深圳正多措并举，从供需两端同步发力，积极扩岗位、优服务、强保障，全力促进高校毕业生顺利就业、高质量就业",
       "summary": "面对2026年全国预计1270万、深圳市高校预计首次突破5万人的应届毕业生规模，深圳正多措并举，从供需两端同步发力，积极扩岗位、优服务、强保障，全力促进高校毕业生顺利就业、高质量就业。 5月12日，深圳市人力资源和社会保障局党组书记、局长王楚宏作客 ...",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a93361bd1444f3689f14a029cbef11c&amp;url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260513A08UKE00&amp;c=9361833738514368892&amp;mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935ca0f2e7470d9d6cc30460e0ff2c&amp;url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260513A08UKE00&amp;c=9361833738514368892&amp;mkt=en-us",
       "published": "2026-05-13T12:48:00.000Z",
       "channel": "大厂官方"
     },
     {
-      "id": "gov-aafa78b51a",
+      "id": "gov-cbe60f3cd5",
       "topic": "【国企招聘】能源集团2026年春季校园招",
       "type": "government",
       "title": "【国企招聘】能源集团2026年春季校园招聘全面启动",
@@ -853,12 +870,12 @@
       "trend": "",
       "summary": "广东省能源集团有限公司（以下简称“广东能源集团”）成立于2001年8月8日，深耕能源行业，持续推进绿色低碳转型，有力保障能源安全清洁供应和国有资产保值增值，创造了良好的经济效益和社会效益。历经二十余年的改革发展，广东能源集团已形成以发电为 ...",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9336212dba449f9e55b0fe6f31404d&amp;url=https%3a%2f%2fnews.southcn.com%2fnode_414f7aecfc%2f0e8bd437fb.shtml&amp;c=7219543423186865038&amp;mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935ca69677425697afb30a5afbba59&amp;url=https%3a%2f%2fnews.southcn.com%2fnode_414f7aecfc%2f0e8bd437fb.shtml&amp;c=7219543423186865038&amp;mkt=en-us",
       "published": "2026-04-28T13:25:00.000Z",
       "channel": "政府公开"
     },
     {
-      "id": "agg-6c2634f9d9",
+      "id": "agg-4bf8e346dd",
       "topic": "嵌入式开发",
       "type": "position",
       "dimension": "prospect",
@@ -872,12 +889,12 @@
       "trend": "（报道未直接提及趋势，可点开原文查看）",
       "summary": "大家好，我是子衡，嵌入式 AI 工程师，《嵌入式AI：让单片机学会思考》课程主讲人，专注AI在MCU上的落地实践。 零基础速通嵌入式AI（加好友免费领取嵌入式AI资料） 我的嵌入式AI课程开课以来，除了给已付费学员解释技术答疑以外，竟然还有一部分的精力需要 ...",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a93363b709a46c3b1393d1ace227a30&amp;url=https%3a%2f%2fwww.eet-china.com%2fmp%2fa485885.html&amp;c=8801108060623218192&amp;mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935cc1394b43de987f6031fab8a5a8&amp;url=https%3a%2f%2fwww.eet-china.com%2fmp%2fa485885.html&amp;c=8801108060623218192&amp;mkt=en-us",
       "published": "2026-04-06T02:28:00.000Z",
       "channel": "搜索引擎聚合"
     },
     {
-      "id": "agg-a95b3aec02",
+      "id": "agg-dae4b2610c",
       "topic": "嵌入式开发",
       "type": "position",
       "dimension": "trend",
@@ -891,12 +908,12 @@
       "trend": "（报道未直接提及趋势，可点开原文查看）",
       "summary": "大家好，我是子衡，嵌入式 AI 工程师，《嵌入式AI：让单片机学会思考》课程主讲人，专注AI在MCU上的落地实践。 零基础速通嵌入式AI（加好友免费领取嵌入式AI资料） 我的嵌入式AI课程开课以来，除了给已付费学员解释技术答疑以外，竟然还有一部分的精力需要 ...",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a93363cfb7e4aff9dcec829abc0886e&amp;url=https%3a%2f%2fwww.eet-china.com%2fmp%2fa485885.html&amp;c=8801108060623218192&amp;mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935cc16fac4d028ca8e00a8584baca&amp;url=https%3a%2f%2fwww.eet-china.com%2fmp%2fa485885.html&amp;c=8801108060623218192&amp;mkt=en-us",
       "published": "2026-04-06T02:28:00.000Z",
       "channel": "搜索引擎聚合"
     },
     {
-      "id": "agg-a8a86564e5",
+      "id": "agg-14506574ed",
       "topic": "嵌入式开发",
       "type": "position",
       "dimension": "trend",
@@ -910,12 +927,12 @@
       "trend": "（报道未直接提及趋势，可点开原文查看）",
       "summary": "作为HR，您是否每年春招、秋招的时候特别烦恼？现场总是无法精准出来；在社招环节，面对众多简历，发现匹配进入面试的太少太少。作为技术部负责人，发现HR总是招不到合适人才，招的人要么留不住，要么基础不行，最终影响项目的交付。因此在嵌入式企业 ...",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a93363cfb7e4aff9dcec829abc0886e&amp;url=https%3a%2f%2fwww.eet-china.com%2fmp%2fa481756.html&amp;c=14874549946478318399&amp;mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935cc16fac4d028ca8e00a8584baca&amp;url=https%3a%2f%2fwww.eet-china.com%2fmp%2fa481756.html&amp;c=14874549946478318399&amp;mkt=en-us",
       "published": "2026-03-19T05:43:00.000Z",
       "channel": "搜索引擎聚合"
     },
     {
-      "id": "agg-687192c533",
+      "id": "agg-7629ed9a32",
       "topic": "全栈工程师",
       "type": "position",
       "dimension": "skill",
@@ -934,12 +951,12 @@
       "trend": "王自如通过社交平台发布招聘信息，面向全行业招募01号全栈前端工程师，共同打造面向未来的AI应用产品",
       "summary": "王自如招募01号全栈前端工程师，打造未来AI产品！要求Node.js+TS+AI工具经验，参与核心团队建设。立即了解详情！ 王自如通过社交平台发布招聘信息，面向全行业招募01号全栈前端工程师，共同打造面向未来的AI应用产品。 此次招聘的岗位为全栈前端工程师 ...",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a93363fd8fb49a48ace95e736a8b08d&amp;url=https%3a%2f%2fnews.17173.com%2fcontent%2f03182026%2f210227864.shtml&amp;c=5483869951662786060&amp;mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935cc5d7834eb493cc1f461e7e8bb9&amp;url=https%3a%2f%2fnews.17173.com%2fcontent%2f03182026%2f210227864.shtml&amp;c=5483869951662786060&amp;mkt=en-us",
       "published": "2026-03-18T14:02:00.000Z",
       "channel": "搜索引擎聚合"
     },
     {
-      "id": "agg-5beddc3d21",
+      "id": "agg-32f5b91e27",
       "topic": "全栈工程师",
       "type": "position",
       "dimension": "skill",
@@ -962,12 +979,12 @@
       "trend": "快科技3月18日消息，王自如通过社交平台发布招聘信息，面向全行业招募01号全栈前端工程师，共同打造面向未来的AI应用产品",
       "summary": "快科技3月18日消息，王自如通过社交平台发布招聘信息，面向全行业招募01号全栈前端工程师，共同打造面向未来的AI应用产品。 此次招聘的岗位为全栈前端工程师，主力技术方向为Node.js + TypeScript + Web，要求候选人能覆盖前端页面、后端API、数据库与基础运维 ...",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a93363fd8fb49a48ace95e736a8b08d&amp;url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260318A082IQ00&amp;c=7344309099646700079&amp;mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935cc5d7834eb493cc1f461e7e8bb9&amp;url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260318A082IQ00&amp;c=7344309099646700079&amp;mkt=en-us",
       "published": "2026-03-18T13:36:00.000Z",
       "channel": "搜索引擎聚合"
     },
     {
-      "id": "agg-617a9d3532",
+      "id": "agg-fdc21453a7",
       "topic": "全栈工程师",
       "type": "position",
       "dimension": "trend",
@@ -990,12 +1007,12 @@
       "trend": "快科技3月18日消息，王自如通过社交平台发布招聘信息，面向全行业招募01号全栈前端工程师，共同打造面向未来的AI应用产品",
       "summary": "快科技3月18日消息，王自如通过社交平台发布招聘信息，面向全行业招募01号全栈前端工程师，共同打造面向未来的AI应用产品。 此次招聘的岗位为全栈前端工程师，主力技术方向为Node.js + TypeScript + Web，要求候选人能覆盖前端页面、后端API、数据库与基础运维 ...",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a93364056ca45eeaebdc8a9066095a1&amp;url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260318A082IQ00&amp;c=7344309099646700079&amp;mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935cc6d05b45fbaca25282885ed049&amp;url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260318A082IQ00&amp;c=7344309099646700079&amp;mkt=en-us",
       "published": "2026-03-18T13:36:00.000Z",
       "channel": "搜索引擎聚合"
     },
     {
-      "id": "agg-2e17dd398d",
+      "id": "agg-9ad5127a5d",
       "topic": "嵌入式开发",
       "type": "position",
       "dimension": "prospect",
@@ -1011,12 +1028,12 @@
       "trend": "（报道未直接提及趋势，可点开原文查看）",
       "summary": "日前，嵌入式展2026（Embedded World ）在德国纽伦堡举行，作为嵌入式领域的年度盛典，每次嵌入式展上，都聚集着最前沿的技术和产品。大家都知道，AI是当下最热门的领域，无论是物理AI，还是OpenClaw，都让AI更火热了。今天EEWorld就来给大家盘一盘部分厂商的 ...",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a93363b709a46c3b1393d1ace227a30&amp;url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260313A020FW00&amp;c=9138638213595001824&amp;mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935cc1394b43de987f6031fab8a5a8&amp;url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260313A020FW00&amp;c=9138638213595001824&amp;mkt=en-us",
       "published": "2026-03-13T01:02:00.000Z",
       "channel": "搜索引擎聚合"
     },
     {
-      "id": "big-86c4538157",
+      "id": "big-cbf9694d01",
       "topic": "网易",
       "type": "company",
       "title": "月薪达2.5—5万，网易、三七互娱、边锋网络入局，广州游戏厂商开抢 ...",
@@ -1028,12 +1045,12 @@
       "trend": "以广州游戏圈为例，DataEye研究院统计了Boss直聘的招聘信息，发现包括网易、三七互娱、边锋网络在内的厂商都在争夺漫剧人才（不包括传统短剧人才招聘），且还有大量中小 ...",
       "summary": "近日，DataEye研究院发现，2026年漫剧赛道的“战火”已从内容生产端蔓延至人才市场。 以广州游戏圈为例，DataEye研究院统计了Boss直聘的招聘信息，发现包括网易、三七互娱、边锋网络在内的厂商都在争夺漫剧人才（不包括传统短剧人才招聘），且还有大量中小 ...",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a93361d3b244da7b511b4eb68877221&amp;url=https%3a%2f%2fwww.36kr.com%2fp%2f3719201164637574&amp;c=4717220760256197860&amp;mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935ca271e24ccaa58746dc4407b721&amp;url=https%3a%2f%2fwww.36kr.com%2fp%2f3719201164637574&amp;c=4717220760256197860&amp;mkt=en-us",
       "published": "2026-03-11T17:00:00.000Z",
       "channel": "大厂官方"
     },
     {
-      "id": "agg-f45ed4e231",
+      "id": "agg-12d236758d",
       "topic": "算法工程师",
       "type": "position",
       "dimension": "skill",
@@ -1049,12 +1066,12 @@
       "trend": "（报道未直接提及趋势，可点开原文查看）",
       "summary": "科技与数字化领域人才薪酬再创新高。3月10日，科锐国际发布《2026 人才市场洞察及薪酬指南》（以下简称“报告”）显示，随着AI等技术加速落地，相关领域人才的需求不断攀升，多模态算法工程师年薪最高可达150万元，具身智能算法工程师年薪最高可达200万元。",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a933622a27d49979195f349211ea429&amp;url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260311A072Z400&amp;c=1857683309158630671&amp;mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935ca81229431195018e31da8fdc84&amp;url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260311A072Z400&amp;c=1857683309158630671&amp;mkt=en-us",
       "published": "2026-03-11T11:34:00.000Z",
       "channel": "搜索引擎聚合"
     },
     {
-      "id": "big-112bcb66b0",
+      "id": "big-62a8c3266a",
       "topic": "腾讯",
       "type": "company",
       "title": "腾讯启动2026实习生招聘 AI相关岗位大幅扩招",
@@ -1068,12 +1085,12 @@
       "trend": "本报讯 （记者李冰）继去年宣布启动史上最大招聘计划后，腾讯再次向在校大学生伸出“橄榄枝”，于3月6日宣布启动2026实习生招聘",
       "summary": "本报讯 （记者李冰）继去年宣布启动史上最大招聘计划后，腾讯再次向在校大学生伸出“橄榄枝”，于3月6日宣布启动2026实习生招聘。据介绍，本次校招面向毕业时间在2026年6月份至2027年12月份期间的在校大学生，开放超过10000个实习岗位，包括技术类、产品类 ...",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a933618707d42fbbcf0ef116c8605c4&amp;url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202603103667712523.html&amp;c=4912238289285249854&amp;mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935c9d59d5465aa80d64e82000f996&amp;url=https%3a%2f%2ffinance.eastmoney.com%2fa%2f202603103667712523.html&amp;c=4912238289285249854&amp;mkt=en-us",
       "published": "2026-03-10T14:10:00.000Z",
       "channel": "大厂官方"
     },
     {
-      "id": "big-6d47d5ea34",
+      "id": "big-ffb2bdce76",
       "topic": "小米",
       "type": "company",
       "title": "小米集团2026届春季校园招聘正式启动 可投递4个职位",
@@ -1088,12 +1105,12 @@
       "trend": "【CNMO科技消息】3月9日，小米集团宣布2026届春季校园招聘正式启动",
       "summary": "【CNMO科技消息】3月9日，小米集团宣布2026届春季校园招聘正式启动。本次招聘以“趁年轻做点更酷的事儿”为主题，面向2026届海内外应届毕业生开放软件研发、算法、硬件研发、产品、运营、设计、芯片等20余类岗位，工作地点覆盖北京、上海、深圳、武汉 ...",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a93361cd38c4f86a4c363f4adb0c836&amp;url=https%3a%2f%2fwww.msn.com%2fzh-cn%2fnews%2fother%2f%25E5%25B0%258F%25E7%25B1%25B3%25E9%259B%2586%25E5%259B%25A22026%25E5%25B1%258A%25E6%2598%25A5%25E5%25AD%25A3%25E6%25A0%25A1%25E5%259B%25AD%25E6%258B%259B%25E8%2581%2598%25E6%25AD%25A3%25E5%25BC%258F%25E5%2590%25AF%25E5%258A%25A8-%25E5%258F%25AF%25E6%258A%2595%25E9%2580%25924%25E4%25B8%25AA%25E8%2581%258C%25E4%25BD%258D%2far-AA1XN8FR&amp;c=2995134166209998047&amp;mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935ca161c94b1e8062eba685f4cb80&amp;url=https%3a%2f%2fwww.msn.com%2fzh-cn%2fnews%2fother%2f%25E5%25B0%258F%25E7%25B1%25B3%25E9%259B%2586%25E5%259B%25A22026%25E5%25B1%258A%25E6%2598%25A5%25E5%25AD%25A3%25E6%25A0%25A1%25E5%259B%25AD%25E6%258B%259B%25E8%2581%2598%25E6%25AD%25A3%25E5%25BC%258F%25E5%2590%25AF%25E5%258A%25A8-%25E5%258F%25AF%25E6%258A%2595%25E9%2580%25924%25E4%25B8%25AA%25E8%2581%258C%25E4%25BD%258D%2far-AA1XN8FR&amp;c=2995134166209998047&amp;mkt=en-us",
       "published": "2026-03-08T20:20:00.000Z",
       "channel": "大厂官方"
     },
     {
-      "id": "big-a782ee009a",
+      "id": "big-225b881f27",
       "topic": "腾讯",
       "type": "company",
       "title": "超17000个岗位! 腾讯、字节同时启动2026实习生招聘，AI成核心方向",
@@ -1105,12 +1122,12 @@
       "trend": "】 3月6日，腾讯和字节跳动先后启动2026年实习生招聘，合计放出超17000个岗位，其中AI相关岗位大幅扩招，释放出强烈的人才信号",
       "summary": "【本文由小黑盒作者@China梁于03月06日发布，转载请标明出处！】 3月6日，腾讯和字节跳动先后启动2026年实习生招聘，合计放出超17000个岗位，其中AI相关岗位大幅扩招，释放出强烈的人才信号。 腾讯面向2026年9月-2027年12月的在校大学生，全球招募10000+实习生 ...",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a933618707d42fbbcf0ef116c8605c4&amp;url=https%3a%2f%2fwww.msn.com%2fzh-cn%2fnews%2fother%2f%25E8%25B6%258517000%25E4%25B8%25AA%25E5%25B2%2597%25E4%25BD%258D-%25E8%2585%25BE%25E8%25AE%25AF-%25E5%25AD%2597%25E8%258A%2582%25E5%2590%258C%25E6%2597%25B6%25E5%2590%25AF%25E5%258A%25A82026%25E5%25AE%259E%25E4%25B9%25A0%25E7%2594%259F%25E6%258B%259B%25E8%2581%2598-ai%25E6%2588%2590%25E6%25A0%25B8%25E5%25BF%2583%25E6%2596%25B9%25E5%2590%2591%2far-AA1XEpXw&amp;c=16807358057212643701&amp;mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935c9d59d5465aa80d64e82000f996&amp;url=https%3a%2f%2fwww.msn.com%2fzh-cn%2fnews%2fother%2f%25E8%25B6%258517000%25E4%25B8%25AA%25E5%25B2%2597%25E4%25BD%258D-%25E8%2585%25BE%25E8%25AE%25AF-%25E5%25AD%2597%25E8%258A%2582%25E5%2590%258C%25E6%2597%25B6%25E5%2590%25AF%25E5%258A%25A82026%25E5%25AE%259E%25E4%25B9%25A0%25E7%2594%259F%25E6%258B%259B%25E8%2581%2598-ai%25E6%2588%2590%25E6%25A0%25B8%25E5%25BF%2583%25E6%2596%25B9%25E5%2590%2591%2far-AA1XEpXw&amp;c=16807358057212643701&amp;mkt=en-us",
       "published": "2026-03-05T23:47:00.000Z",
       "channel": "大厂官方"
     },
     {
-      "id": "agg-f197e1c96f",
+      "id": "agg-cb7e3e4df5",
       "topic": "安全工程师",
       "type": "position",
       "dimension": "prospect",
@@ -1126,12 +1143,12 @@
       "trend": "（报道未直接提及趋势，可点开原文查看）",
       "summary": "内容概要：网络安全服务为组织提供全流程安全保障，维护网络空间与数据资产安全，支撑业务稳定运行，其价值体现在技术防御、管理提升与应急响应三方面。当前，国内外网络安全形势严峻，我国出台多项政策，从多维度明确安全要求，为网络安全服务行业 ...",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a93363eed644d37b169ccd0ee4ade15&amp;url=https%3a%2f%2ffinance.sina.com.cn%2fstock%2frelnews%2fcn%2f2026-03-04%2fdoc-inhpuwss3961411.shtml&amp;c=14671074232748087217&amp;mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935cc30a1947c284dd4d896a96799b&amp;url=https%3a%2f%2ffinance.sina.com.cn%2fstock%2frelnews%2fcn%2f2026-03-04%2fdoc-inhpuwss3961411.shtml&amp;c=14671074232748087217&amp;mkt=en-us",
       "published": "2026-03-04T02:02:00.000Z",
       "channel": "搜索引擎聚合"
     },
     {
-      "id": "agg-7f2a2d91db",
+      "id": "agg-3cbe7bebef",
       "topic": "算法工程师",
       "type": "position",
       "dimension": "prospect",
@@ -1147,12 +1164,12 @@
       "trend": "在新科技浪潮与产业结构升级的共同推动下，新质生产力领域人才需求持续爆发，成为就业市场的“增长极”",
       "summary": "在新科技浪潮与产业结构升级的共同推动下，新质生产力领域人才需求持续爆发，成为就业市场的“增长极”。智联招聘发布的《2025年四季度人才市场热点快报》显示，2025年四季度人才市场重心进一步向新质生产力集聚。其中，新一代信息技术领域呈现“算法 ...",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a933623f85e4285a1301df9f6335c10&amp;url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-01-22%2fdoc-inhicwve2906996.shtml&amp;c=3379094657621119674&amp;mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935ca8fba24bf3a543871af2774ee0&amp;url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-01-22%2fdoc-inhicwve2906996.shtml&amp;c=3379094657621119674&amp;mkt=en-us",
       "published": "2026-01-22T02:30:00.000Z",
       "channel": "搜索引擎聚合"
     },
     {
-      "id": "agg-f9fdede577",
+      "id": "agg-e9d088f590",
       "topic": "算法工程师",
       "type": "position",
       "dimension": "trend",
@@ -1168,12 +1185,12 @@
       "trend": "2025年四季度，算法工程师平均招聘月薪约2.5万元，企业的岗位需求激增110%",
       "summary": "2025年四季度，算法工程师平均招聘月薪约2.5万元，企业的岗位需求激增110%；无人机工程师招聘同比增加近60%，平均招聘月薪 ...",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9336232bd04d68815680b0dcca27e9&amp;url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-01-21%2fdoc-inhiaktv6594575.shtml&amp;c=12400218199516730638&amp;mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935ca9506c4098a1c884de2d349aa4&amp;url=https%3a%2f%2ffinance.sina.com.cn%2froll%2f2026-01-21%2fdoc-inhiaktv6594575.shtml&amp;c=12400218199516730638&amp;mkt=en-us",
       "published": "2026-01-21T11:06:00.000Z",
       "channel": "搜索引擎聚合"
     },
     {
-      "id": "agg-e753de0496",
+      "id": "agg-90cd5787a0",
       "topic": "算法工程师",
       "type": "position",
       "dimension": "prospect",
@@ -1190,12 +1207,12 @@
       "trend": "中新经纬1月14日电 近日，智联招聘基于平台大数据发布《2025年四季度人才市场热点快报》，其中指出，2025年四季度，人工智能方面，算法类岗位需求大幅上升",
       "summary": "中新经纬1月14日电 近日，智联招聘基于平台大数据发布《2025年四季度人才市场热点快报》，其中指出，2025年四季度，人工智能方面，算法类岗位需求大幅上升。算法工程师职位数同比增速高达110.1%，平均招聘月薪25236元，是新一代信息技术领域中最突出的职业。",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a933623f85e4285a1301df9f6335c10&amp;url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260114A0653T00&amp;c=5362696988802679681&amp;mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935ca8fba24bf3a543871af2774ee0&amp;url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260114A0653T00&amp;c=5362696988802679681&amp;mkt=en-us",
       "published": "2026-01-14T12:46:00.000Z",
       "channel": "搜索引擎聚合"
     },
     {
-      "id": "agg-224eff608c",
+      "id": "agg-331f112b10",
       "topic": "算法工程师",
       "type": "position",
       "dimension": "trend",
@@ -1212,12 +1229,12 @@
       "trend": "中新经纬1月14日电 近日，智联招聘基于平台大数据发布《2025年四季度人才市场热点快报》，其中指出，2025年四季度，人工智能方面，算法类岗位需求大幅上升",
       "summary": "中新经纬1月14日电 近日，智联招聘基于平台大数据发布《2025年四季度人才市场热点快报》，其中指出，2025年四季度，人工智能方面，算法类岗位需求大幅上升。算法工程师职位数同比增速高达110.1%，平均招聘月薪25236元，是新一代信息技术领域中最突出的职业。",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9336232bd04d68815680b0dcca27e9&amp;url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260114A0653T00&amp;c=5362696988802679681&amp;mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935ca9506c4098a1c884de2d349aa4&amp;url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20260114A0653T00&amp;c=5362696988802679681&amp;mkt=en-us",
       "published": "2026-01-14T12:46:00.000Z",
       "channel": "搜索引擎聚合"
     },
     {
-      "id": "big-6245e1c277",
+      "id": "big-ed51a435da",
       "topic": "华为",
       "type": "company",
       "title": "华为：2026届校招名单已陆续放榜 涉研发类、销售类等",
@@ -1229,12 +1246,12 @@
       "trend": "【CNMO科技消息】近日，华为招聘官方发文称，华为2026届应届生招聘（校招）已经开始陆续放榜",
       "summary": "【CNMO科技消息】近日，华为招聘官方发文称，华为2026届应届生招聘（校招）已经开始陆续放榜。华为招聘官方表示，将通过邮件给同学们发送录用意向书。 据CNMO了解，华为2026届实习生招聘于今年3月正式启动，招聘岗位涉及研发类、销售类、财经类、供应链类 ...",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a93361bd1444f3689f14a029cbef11c&amp;url=https%3a%2f%2fwww.msn.com%2fzh-cn%2fnews%2fother%2f%25E5%258D%258E%25E4%25B8%25BA-2026%25E5%25B1%258A%25E6%25A0%25A1%25E6%258B%259B%25E5%2590%258D%25E5%258D%2595%25E5%25B7%25B2%25E9%2599%2586%25E7%25BB%25AD%25E6%2594%25BE%25E6%25A6%259C-%25E6%25B6%2589%25E7%25A0%2594%25E5%258F%2591%25E7%25B1%25BB-%25E9%2594%2580%25E5%2594%25AE%25E7%25B1%25BB%25E7%25AD%2589%2far-AA1Rtzqt&amp;c=8972684180825266445&amp;mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935ca0f2e7470d9d6cc30460e0ff2c&amp;url=https%3a%2f%2fwww.msn.com%2fzh-cn%2fnews%2fother%2f%25E5%258D%258E%25E4%25B8%25BA-2026%25E5%25B1%258A%25E6%25A0%25A1%25E6%258B%259B%25E5%2590%258D%25E5%258D%2595%25E5%25B7%25B2%25E9%2599%2586%25E7%25BB%25AD%25E6%2594%25BE%25E6%25A6%259C-%25E6%25B6%2589%25E7%25A0%2594%25E5%258F%2591%25E7%25B1%25BB-%25E9%2594%2580%25E5%2594%25AE%25E7%25B1%25BB%25E7%25AD%2589%2far-AA1Rtzqt&amp;c=8972684180825266445&amp;mkt=en-us",
       "published": "2025-12-01T00:38:00.000Z",
       "channel": "大厂官方"
     },
     {
-      "id": "agg-d8d0830a3b",
+      "id": "agg-63088bc379",
       "topic": "安全工程师",
       "type": "position",
       "dimension": "trend",
@@ -1248,12 +1265,12 @@
       "trend": "（报道未直接提及趋势，可点开原文查看）",
       "summary": "近日,在海南博鳌举办的“APEC实操创新型人工智能人才培养研讨会”上,国家工业信息安全发展研究中心信息政策所与同道猎聘集团联合发布了《亚太地区人工智能人才发展研究报告》(以下简称“报告”)。该报告系统梳理了APEC经济体人工智能人才培育的经验做法 ...",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a93363e15f14a6c807e9c96f3a42cc6&amp;url=https%3a%2f%2fnews.sina.com.cn%2fsx%2f2025-11-04%2fdetail-infwftur0385709.shtml&amp;c=3963862344199450868&amp;mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935cc39fc14a26840b32a1b8f17845&amp;url=https%3a%2f%2fnews.sina.com.cn%2fsx%2f2025-11-04%2fdetail-infwftur0385709.shtml&amp;c=3963862344199450868&amp;mkt=en-us",
       "published": "2025-11-04T10:43:00.000Z",
       "channel": "搜索引擎聚合"
     },
     {
-      "id": "gov-16765dba63",
+      "id": "gov-e97b57a4fc",
       "topic": "2026年军队文职人员公开招考公告发布，",
       "type": "government",
       "title": "2026年军队文职人员公开招考公告发布，9类人不能报考",
@@ -1265,12 +1282,12 @@
       "trend": "",
       "summary": "为延揽社会优秀人才为军队建设服务，根据《中国人民解放军文职人员条例》、《军队文职人员公开招考暂行规定》及有关规定，中央军委政治工作部将组织实施2026年公开招考管理类和专业技术类文职人员工作。现就有关事项公告如下： 一、招考对象 军队文职 ...",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9336207e284a46b14f87cd6a9749bb&amp;url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20251102A04S2X00&amp;c=15688739104721890273&amp;mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935ca5686842a3bb890bdf550f13ca&amp;url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20251102A04S2X00&amp;c=15688739104721890273&amp;mkt=en-us",
       "published": "2025-11-02T12:24:00.000Z",
       "channel": "政府公开"
     },
     {
-      "id": "big-3756b56d3f",
+      "id": "big-c184e5ee0e",
       "topic": "小米",
       "type": "company",
       "title": "小米集团2026届国际部校招开启，多类重点岗位覆盖多国多地区",
@@ -1282,12 +1299,12 @@
       "trend": "小米集团近日宣布，2026届国际部校园招聘计划已全面启动",
       "summary": "小米集团近日宣布，2026届国际部校园招聘计划已全面启动。此次招聘面向全球多地高校毕业生，覆盖中国内地、中国港澳台地区以及海外多个国家，包括澳大利亚、阿曼、阿联酋、巴基斯坦、波兰和秘鲁等。 根据招聘要求，中国内地高校毕业生的毕业时间需在 ...",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a93361cd38c4f86a4c363f4adb0c836&amp;url=https%3a%2f%2fwww.msn.com%2fzh-cn%2fmoney%2f%25E9%2580%259A%25E7%2594%25A8%2f%25E5%25B0%258F%25E7%25B1%25B3%25E9%259B%2586%25E5%259B%25A22026%25E5%25B1%258A%25E5%259B%25BD%25E9%2599%2585%25E9%2583%25A8%25E6%25A0%25A1%25E6%258B%259B%25E5%25BC%2580%25E5%2590%25AF-%25E5%25A4%259A%25E7%25B1%25BB%25E9%2587%258D%25E7%2582%25B9%25E5%25B2%2597%25E4%25BD%258D%25E8%25A6%2586%25E7%259B%2596%25E5%25A4%259A%25E5%259B%25BD%25E5%25A4%259A%25E5%259C%25B0%25E5%258C%25BA%2far-AA1MJ13u&amp;c=11040690733301155950&amp;mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935ca161c94b1e8062eba685f4cb80&amp;url=https%3a%2f%2fwww.msn.com%2fzh-cn%2fmoney%2f%25E9%2580%259A%25E7%2594%25A8%2f%25E5%25B0%258F%25E7%25B1%25B3%25E9%259B%2586%25E5%259B%25A22026%25E5%25B1%258A%25E5%259B%25BD%25E9%2599%2585%25E9%2583%25A8%25E6%25A0%25A1%25E6%258B%259B%25E5%25BC%2580%25E5%2590%25AF-%25E5%25A4%259A%25E7%25B1%25BB%25E9%2587%258D%25E7%2582%25B9%25E5%25B2%2597%25E4%25BD%258D%25E8%25A6%2586%25E7%259B%2596%25E5%25A4%259A%25E5%259B%25BD%25E5%25A4%259A%25E5%259C%25B0%25E5%258C%25BA%2far-AA1MJ13u&amp;c=11040690733301155950&amp;mkt=en-us",
       "published": "2025-09-17T02:22:00.000Z",
       "channel": "大厂官方"
     },
     {
-      "id": "agg-956cbcbd86",
+      "id": "agg-83c2db44e6",
       "topic": "算法工程师",
       "type": "position",
       "dimension": "skill",
@@ -1304,12 +1321,12 @@
       "trend": "数据显示，近60%的高科技企业已将AI人才纳入核心招聘目标，其创新驱动发展的特性决定 ...",
       "summary": "#大模型算法工程师中位薪酬近2.5万#【报告：#AI人才成高科技行业刚需#，算法类岗位薪酬看涨】近日，人力资源服务机构前程无忧51job发布《2026届校招市场AI人才需求报告》。数据显示，近60%的高科技企业已将AI人才纳入核心招聘目标，其创新驱动发展的特性决定 ...",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a933622a27d49979195f349211ea429&amp;url=https%3a%2f%2ffinance.sina.com.cn%2fjjxw%2f2025-08-25%2fdoc-infnemzf3918285.shtml&amp;c=13482825519029793225&amp;mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935ca81229431195018e31da8fdc84&amp;url=https%3a%2f%2ffinance.sina.com.cn%2fjjxw%2f2025-08-25%2fdoc-infnemzf3918285.shtml&amp;c=13482825519029793225&amp;mkt=en-us",
       "published": "2025-08-25T05:38:00.000Z",
       "channel": "搜索引擎聚合"
     },
     {
-      "id": "agg-725b5f486e",
+      "id": "agg-1d10ee5fb7",
       "topic": "运维开发",
       "type": "position",
       "dimension": "skill",
@@ -1325,29 +1342,12 @@
       "trend": "（报道未直接提及趋势，可点开原文查看）",
       "summary": "如果你主要基于收入来选择技术职业道路，软件开发显然比IT运维更胜一筹。软件工程师的平均收入比运维工程师高出10%以上。软件开发人员通常也有更多机会晋升到高薪职位，因为他们可以更容易地转向站点可靠性工程或DevOps等职位，这些职位的薪酬通常比 ...",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a933634e23d4a098d92d6846630e2bb&amp;url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20250616A07R2W00&amp;c=15183232905825382919&amp;mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935cb9550645fc8af64b40166bd651&amp;url=https%3a%2f%2fnews.qq.com%2frain%2fa%2f20250616A07R2W00&amp;c=15183232905825382919&amp;mkt=en-us",
       "published": "2025-06-16T11:09:00.000Z",
       "channel": "搜索引擎聚合"
     },
     {
-      "id": "gov-4e63045413",
-      "topic": "2025年6月深圳央企+国企招聘汇总（持",
-      "type": "government",
-      "title": "2025年6月深圳央企+国企招聘汇总（持续更新）",
-      "salary": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "skills": [],
-      "prospect": "（公告未直接提及前景，可点开原文查看）",
-      "trend": "温馨提示：微信搜索公众号【本地宝深圳招聘】，关注后在对话框内回复【国企】可获深圳国企央企招聘最新消息、完整公告 ...",
-      "summary": "温馨提示：微信搜索公众号【本地宝深圳招聘】，关注后在对话框内回复【国企】可获深圳国企央企招聘最新消息、完整公告 ...",
-      "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a9336212dba449f9e55b0fe6f31404d&amp;url=https%3a%2f%2fsz.bendibao.com%2fjob%2f202296%2f900723.shtm&amp;c=12827665202146879479&amp;mkt=en-us",
-      "published": "2025-06-14T16:54:00.000Z",
-      "channel": "政府公开"
-    },
-    {
-      "id": "agg-ab5282aa52",
+      "id": "agg-f23618a1c5",
       "topic": "嵌入式开发",
       "type": "position",
       "dimension": "skill",
@@ -1363,33 +1363,12 @@
       "trend": "（报道未直接提及趋势，可点开原文查看）",
       "summary": "嵌入式/单片机是 C/C++ 的一个重要就业方向，咱们公众号有很多学习 C/C++ 的小伙伴，所以决定聊聊这个话题。 注意，这不是严肃的教科书，而是轻松的科普文，不管是小白还是大牛，都能看得懂、看得爽。 嵌入式软件就是嵌入在硬件中的操作系统和开发工具 ...",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a93363b933d408abcf19891ceef4f05&amp;url=https%3a%2f%2fwww.eet-china.com%2fmp%2fa370940.html&amp;c=1155095594881735126&amp;mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935cc0322243f29fa48f2e1d752ad2&amp;url=https%3a%2f%2fwww.eet-china.com%2fmp%2fa370940.html&amp;c=1155095594881735126&amp;mkt=en-us",
       "published": "2024-12-21T14:07:00.000Z",
       "channel": "搜索引擎聚合"
     },
     {
-      "id": "agg-81627f1f7a",
-      "topic": "数据分析",
-      "type": "position",
-      "dimension": "skill",
-      "dimensionLabel": "技能要求",
-      "title": "中国企业智能化数据分析：55.1%企业要求人工智能技术类岗位具有 ...",
-      "salary": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "skills": [
-        "数据"
-      ],
-      "prospect": "中国语音智能体用户行为与行业变革调研数据 科技消费 中国企业智能化发展状况及人才需求调研数据 科技消费 全球人工智能(AI)产业运行情况与大数据研究 电子学 企业智能化发展是指基于现代信息技术和人工智能技术，以智能化平台、云计算、物联网、大数据 ...",
-      "trend": "中国语音智能体用户行为与行业变革调研数据 科技消费 中国企业智能化发展状况及人才需求调研数据 科技消费 全球人工智能(AI)产业运行情况与大数据研究 电子学 企业智能化发展是指基于现代信息技术和人工智能技术，以智能化平台、云计算、物联网、大数据 ...",
-      "summary": "中国语音智能体用户行为与行业变革调研数据 科技消费 中国企业智能化发展状况及人才需求调研数据 科技消费 全球人工智能(AI)产业运行情况与大数据研究 电子学 企业智能化发展是指基于现代信息技术和人工智能技术，以智能化平台、云计算、物联网、大数据 ...",
-      "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a93362dffb6405289f319bad5e6bf17&amp;url=https%3a%2f%2fwww.iimedia.cn%2fc1061%2f103068.html&amp;c=10719685704102146596&amp;mkt=en-us",
-      "published": "2024-11-08T17:21:00.000Z",
-      "channel": "搜索引擎聚合"
-    },
-    {
-      "id": "agg-26c3658bcb",
+      "id": "agg-47c8143e2b",
       "topic": "嵌入式开发",
       "type": "position",
       "dimension": "skill",
@@ -1403,12 +1382,12 @@
       "trend": "社交媒体平台上，牧原股份招聘信息引起诸多网友的关注",
       "summary": "近日，有网传图片显示，牧原股份一名嵌入式负责人年薪达200万元。就图片所示内容，牧原股份有关负责人证实，“是事实”。 近期，应届毕业生秋招正在如火如荼的进行。社交媒体平台上，牧原股份招聘信息引起诸多网友的关注。据网传牧原股份秋招宣传材料 ...",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a93363b933d408abcf19891ceef4f05&amp;url=https%3a%2f%2fwww.eet-china.com%2fmp%2fa360450.html&amp;c=17909353979739045694&amp;mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935cc0322243f29fa48f2e1d752ad2&amp;url=https%3a%2f%2fwww.eet-china.com%2fmp%2fa360450.html&amp;c=17909353979739045694&amp;mkt=en-us",
       "published": "2024-11-08T14:09:00.000Z",
       "channel": "搜索引擎聚合"
     },
     {
-      "id": "agg-8bc8c07069",
+      "id": "agg-78a76814b1",
       "topic": "前端开发",
       "type": "position",
       "dimension": "skill",
@@ -1424,7 +1403,7 @@
       "trend": "（报道未直接提及趋势，可点开原文查看）",
       "summary": "通信世界网消息（CWW）近日，中国软件行业协会教育与培训委员会（以下简称教培委）秘书长初晓光，代表其研究团队，发布了2020年季度研究报告：《软件与信息技术高职毕业生职业发展环境报告：前端开发工程师》（下文简称《报告》）。该报告对前端开发 ...",
       "source": "公开报道",
-      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a93362bc4a64234a5db9012cc1024b3&amp;url=https%3a%2f%2fwww.cww.net.cn%2farticle%3fid%3d475211&amp;c=13053655262190655493&amp;mkt=en-us",
+      "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a935cb0076742529f26dd50f7220434&amp;url=https%3a%2f%2fwww.cww.net.cn%2farticle%3fid%3d475211&amp;c=13053655262190655493&amp;mkt=en-us",
       "published": "2020-08-31T17:01:00.000Z",
       "channel": "搜索引擎聚合"
     }

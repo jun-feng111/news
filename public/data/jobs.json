@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T19:42:13.596Z",
+  "updated": "2026-08-29T22:26:34.419Z",
   "count": 129,
   "sources": {
     "V2EX": 10,
@@ -283,6 +283,33 @@
       "category": "Software",
       "postedDate": "2026-08-28",
       "url": "https://remoteOK.com/remote-jobs/remote-visual-merchandiser-hola-moda-1137205",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1137212",
+      "title": "Building Maintenance Technician",
+      "company": "Dart",
+      "location": "George Town,",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "sys admin",
+        "education",
+        "technical",
+        "customer support",
+        "marketing",
+        "travel",
+        "medical",
+        "engineer",
+        "full time"
+      ],
+      "category": "sys admin",
+      "postedDate": "2026-08-28",
+      "url": "https://remoteOK.com/remote-jobs/remote-building-maintenance-technician-dart-1137212",
       "source": "RemoteOK",
       "region": "foreign"
     },
@@ -2733,26 +2760,6 @@
       "category": "sales",
       "postedDate": "2026-08-20",
       "url": "https://remoteOK.com/remote-jobs/remote-beauty-merchandiser-shoppers-drug-mart-1137055",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137035",
-      "title": "Orderly",
-      "company": "NT Health",
-      "location": "Alice Springs,",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "exec",
-        "medical"
-      ],
-      "category": "exec",
-      "postedDate": "2026-08-20",
-      "url": "https://remoteOK.com/remote-jobs/remote-orderly-nt-health-1137035",
       "source": "RemoteOK",
       "region": "foreign"
     },

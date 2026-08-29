@@ -1,66 +1,4 @@
 {
-  "科技": [
-    {
-      "id": "27a4e5c2a23f",
-      "title": "Hollywood celebs are getting into microdrama apps",
-      "url": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/",
-      "summary": "Hollywood celebs are getting into microdrama apps",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-29T16:10:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/12/shutterstock_movie_director.jpg?resize=1200,717",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "ddfe512dedc9",
-      "title": "The Theragun Sense makes everyday recovery surprisingly easy",
-      "url": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
-      "summary": "The Theragun Sense makes everyday recovery surprisingly easy",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-29T14:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/theragun-sense.png?resize=1200,788",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "f88a0fcca760",
-      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-      "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-      "summary": "Neocloud Lambda secures $1B in debt to buy more chips",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-28T20:24:11.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Chip-chips-dollar-signs-money.png?resize=1200,960",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "619cf37e65ee",
-      "title": "&#8220;We&#8217;re not doing 30 bets a year&#8221;: Vijay Pande on betting small after running $4 billion at a16z",
-      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
-      "summary": "&#8220;We&#8217;re not doing 30 bets a year&#8221;: Vijay Pande on betting small after running $4 bi",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-29T17:36:47.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Vijay-Pande.png?resize=1200,800",
-      "score": 65,
-      "tags": []
-    },
-    {
-      "id": "f10125c70d96",
-      "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
-      "url": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
-      "summary": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-28T23:24:27.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/xpeng-robot-Getty.jpg?resize=1200,848",
-      "score": 60,
-      "tags": []
-    }
-  ],
   "AI": [
     {
       "id": "e277e4a4618d",
@@ -120,6 +58,68 @@
       "published": "2026-08-29T18:41:59.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=1024",
       "score": 65,
+      "tags": []
+    }
+  ],
+  "科技": [
+    {
+      "id": "27a4e5c2a23f",
+      "title": "Hollywood celebs are getting into microdrama apps",
+      "url": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/",
+      "summary": "Hollywood celebs are getting into microdrama apps",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-29T16:10:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/12/shutterstock_movie_director.jpg?resize=1200,717",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "ddfe512dedc9",
+      "title": "The Theragun Sense makes everyday recovery surprisingly easy",
+      "url": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
+      "summary": "The Theragun Sense makes everyday recovery surprisingly easy",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-29T14:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/theragun-sense.png?resize=1200,788",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "619cf37e65ee",
+      "title": "&#8220;We&#8217;re not doing 30 bets a year&#8221;: Vijay Pande on betting small after running $4 billion at a16z",
+      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "summary": "&#8220;We&#8217;re not doing 30 bets a year&#8221;: Vijay Pande on betting small after running $4 bi",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-29T17:36:47.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Vijay-Pande.png?resize=1200,800",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "f88a0fcca760",
+      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+      "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+      "summary": "Neocloud Lambda secures $1B in debt to buy more chips",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-28T20:24:11.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Chip-chips-dollar-signs-money.png?resize=1200,960",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "f10125c70d96",
+      "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
+      "url": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
+      "summary": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-28T23:24:27.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/xpeng-robot-Getty.jpg?resize=1200,848",
+      "score": 60,
       "tags": []
     }
   ],
@@ -223,14 +223,14 @@
       "tags": []
     },
     {
-      "id": "a473f916115f",
-      "title": "甘肃出台稳岗扩容提质行动实施方案 全方位拓宽就业渠道 提升就业质效",
-      "url": "https://news.sina.com.cn/zx/gj/2026-08-25/doc-inippmeq1673001.shtml",
-      "summary": "甘肃出台稳岗扩容提质行动实施方案全方位拓宽就业渠道提升就业质效每日甘肃网兰州讯（新甘肃&#183;甘肃经济日报记者房惠玲）近日，甘肃省政府就业促进和劳动保护工作领导小组办公室印发《甘肃省稳岗扩容提质行",
+      "id": "8a1385be49a1",
+      "title": "复旦教授曾说：再发达的国家都用不到那么多大学生！发人深省",
+      "url": "https://www.sohu.com/a/1068275584_122483031",
+      "summary": "2025年11月20日，教育部召开2026届全国普通高校毕业生就业创业工作会议，会上公布的一组数字牵动了千家万户的神经：2026届全国高校毕业生规模预计将达到1270万人。这已经是连续第三年站上千万量",
       "source": "Bing·大学生就业政策",
       "category": "政策",
-      "published": "2026-08-24T18:21:00.000Z",
-      "image": "https://n.sinaimg.cn/default/393/w253h140/20251230/d8d0-a01eca45e0968e8dbf7a84cd93d27d89.png",
+      "published": "2026-08-27T07:11:00.000Z",
+      "image": "//q3.itc.cn/images01/20260827/03c1835dbe114af1a8d9ff00401f4efd.jpeg",
       "score": 50,
       "tags": []
     },
