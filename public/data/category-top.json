@@ -13,30 +13,6 @@
       "tags": []
     },
     {
-      "id": "698656d72c29",
-      "title": "At TechBBQ, Europe&#8217;s AI conversations kept coming back to: Who&#8217;s actually in control?",
-      "url": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
-      "summary": "At TechBBQ, Europe&#8217;s AI conversations kept coming back to: Who&#8217;s actually in control",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-29T17:51:10.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/TechBBQ.jpg?resize=1200,800",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "93c197c40326",
-      "title": "Is the best way to watch a movie on a pair of sunglasses?",
-      "url": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
-      "summary": "Is the best way to watch a movie on a pair of sunglasses",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-28T22:42:48.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/P1110099.jpg?resize=1200,901",
-      "score": 70,
-      "tags": []
-    },
-    {
       "id": "24c26e96ef00",
       "title": "An Anthropic researcher just gave us a peek at self-improving AI",
       "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
@@ -49,6 +25,30 @@
       "tags": []
     },
     {
+      "id": "698656d72c29",
+      "title": "At TechBBQ, Europe&#8217;s AI conversations kept coming back to: Who&#8217;s actually in control?",
+      "url": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+      "summary": "At TechBBQ, Europe&#8217;s AI conversations kept coming back to: Who&#8217;s actually in control",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-29T17:51:10.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/TechBBQ.jpg?resize=1200,800",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "93c197c40326",
+      "title": "Is the best way to watch a movie on a pair of sunglasses?",
+      "url": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
+      "summary": "Is the best way to watch a movie on a pair of sunglasses",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-28T22:42:48.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/P1110099.jpg?resize=1200,901",
+      "score": 65,
+      "tags": []
+    },
+    {
       "id": "0d18d5472b03",
       "title": "Sony Music, Warner sue Anthropic, alleging a &#8220;brazen campaign&#8221; of intellectual property theft",
       "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
@@ -57,7 +57,7 @@
       "category": "AI",
       "published": "2026-08-29T18:41:59.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=1024",
-      "score": 65,
+      "score": 60,
       "tags": []
     }
   ],
@@ -87,18 +87,6 @@
       "tags": []
     },
     {
-      "id": "619cf37e65ee",
-      "title": "&#8220;We&#8217;re not doing 30 bets a year&#8221;: Vijay Pande on betting small after running $4 billion at a16z",
-      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
-      "summary": "&#8220;We&#8217;re not doing 30 bets a year&#8221;: Vijay Pande on betting small after running $4 bi",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-29T17:36:47.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Vijay-Pande.png?resize=1200,800",
-      "score": 65,
-      "tags": []
-    },
-    {
       "id": "f88a0fcca760",
       "title": "Neocloud Lambda secures $1B in debt to buy more chips",
       "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
@@ -111,6 +99,18 @@
       "tags": []
     },
     {
+      "id": "619cf37e65ee",
+      "title": "&#8220;We&#8217;re not doing 30 bets a year&#8221;: Vijay Pande on betting small after running $4 billion at a16z",
+      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "summary": "&#8220;We&#8217;re not doing 30 bets a year&#8221;: Vijay Pande on betting small after running $4 bi",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-29T17:36:47.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Vijay-Pande.png?resize=1200,800",
+      "score": 60,
+      "tags": []
+    },
+    {
       "id": "f10125c70d96",
       "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
       "url": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
@@ -119,7 +119,7 @@
       "category": "科技",
       "published": "2026-08-28T23:24:27.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/xpeng-robot-Getty.jpg?resize=1200,848",
-      "score": 60,
+      "score": 55,
       "tags": []
     }
   ],
@@ -183,6 +183,56 @@
       "image": "//n.sinaimg.cn/spider20260827/300/w660h440/20260827/6064-fe5cc804160ab68706c07bc8d9d830e0.jpg",
       "score": 60,
       "tags": []
+    }
+  ],
+  "开发": [
+    {
+      "id": "25c5720f9d76",
+      "title": "科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制",
+      "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html",
+      "summary": "这里记录每周值得分享的科技内容，周五发布",
+      "source": "阮一峰",
+      "category": "开发",
+      "published": "2026-08-27T23:56:43.000Z",
+      "image": "",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "61c5edf4f0b7",
+      "title": "一句话找图，低清图再增强：HarmonyOS7 视觉 AI 如何走进真实应用",
+      "url": "https://www.infoq.cn/article/3R8f57Bow3B4kEBkPv5J?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-29T13:19:17.000Z",
+      "image": "https://static001.infoq.cn/resource/image/b3/a6/b38e1ccc453393bd39e1ba20aa1e29a6.jpg"
+    },
+    {
+      "id": "754624079332",
+      "title": "Agent 时代，为什么有人开始重新造 Google？",
+      "url": "https://www.infoq.cn/article/KbbHdAQFxQM7AJIYMLqR?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-29T12:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/b2/bb/b21680d84370fe6b895c70232d8826bb.png"
+    },
+    {
+      "id": "0187839bbef8",
+      "title": "下一层抽象：从UX角度思考Agentic OS的样貌",
+      "url": "https://www.infoq.cn/article/c4zPz7WHXryL5Erw7xop?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-28T18:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/f0/30/f0ce1b90595e2316d86bbe5f0a85e430.png"
+    },
+    {
+      "id": "7a16fd17a3a7",
+      "title": "DuckDB v2.0 重磅预览：从嵌入式数据库迈向分布式架构",
+      "url": "https://www.infoq.cn/article/9YLW3ZxLvrqxOVzSh9Y1?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-28T17:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/2e/ab/2e9aeb9320eb64cf4068618415f81dab.jpg"
     }
   ],
   "政策": [
@@ -354,53 +404,6 @@
       "category": "财经",
       "published": "2026-08-29T12:07:31.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    }
-  ],
-  "开发": [
-    {
-      "id": "61c5edf4f0b7",
-      "title": "一句话找图，低清图再增强：HarmonyOS7 视觉 AI 如何走进真实应用",
-      "url": "https://www.infoq.cn/article/3R8f57Bow3B4kEBkPv5J?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-08-29T13:19:17.000Z",
-      "image": "https://static001.infoq.cn/resource/image/b3/a6/b38e1ccc453393bd39e1ba20aa1e29a6.jpg"
-    },
-    {
-      "id": "754624079332",
-      "title": "Agent 时代，为什么有人开始重新造 Google？",
-      "url": "https://www.infoq.cn/article/KbbHdAQFxQM7AJIYMLqR?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-08-29T12:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/b2/bb/b21680d84370fe6b895c70232d8826bb.png"
-    },
-    {
-      "id": "0187839bbef8",
-      "title": "下一层抽象：从UX角度思考Agentic OS的样貌",
-      "url": "https://www.infoq.cn/article/c4zPz7WHXryL5Erw7xop?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-08-28T18:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/f0/30/f0ce1b90595e2316d86bbe5f0a85e430.png"
-    },
-    {
-      "id": "7a16fd17a3a7",
-      "title": "DuckDB v2.0 重磅预览：从嵌入式数据库迈向分布式架构",
-      "url": "https://www.infoq.cn/article/9YLW3ZxLvrqxOVzSh9Y1?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-08-28T17:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/2e/ab/2e9aeb9320eb64cf4068618415f81dab.jpg"
-    },
-    {
-      "id": "7ad41cbd2c6b",
-      "title": "圆桌讨论：研究型人才培养与数据库未来发展方向",
-      "url": "https://www.infoq.cn/video/kJ0ARKZePg80FpGY1J3Y?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-08-28T16:55:25.000Z",
-      "image": "https://static001.geekbang.org/static/infoq/img/infoq_icon.jpg"
     }
   ]
 }
