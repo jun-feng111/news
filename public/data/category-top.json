@@ -1,67 +1,17 @@
 {
-  "科技": [
-    {
-      "id": "27a4e5c2a23f",
-      "title": "Hollywood celebs are getting into microdrama apps",
-      "url": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/",
-      "summary": "Hollywood celebs are getting into microdrama apps",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-29T16:10:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/12/shutterstock_movie_director.jpg?resize=1200,717",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "ddfe512dedc9",
-      "title": "The Theragun Sense makes everyday recovery surprisingly easy",
-      "url": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
-      "summary": "The Theragun Sense makes everyday recovery surprisingly easy",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-29T14:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/theragun-sense.png?resize=1200,788",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "f88a0fcca760",
-      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-      "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-      "summary": "Neocloud Lambda secures $1B in debt to buy more chips",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-28T20:24:11.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Chip-chips-dollar-signs-money.png?resize=1200,960",
-      "score": 65,
-      "tags": []
-    },
-    {
-      "id": "619cf37e65ee",
-      "title": "&#8220;We&#8217;re not doing 30 bets a year&#8221;: Vijay Pande on betting small after running $4 billion at a16z",
-      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
-      "summary": "&#8220;We&#8217;re not doing 30 bets a year&#8221;: Vijay Pande on betting small after running $4 bi",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-29T17:36:47.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Vijay-Pande.png?resize=1200,800",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "f10125c70d96",
-      "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
-      "url": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
-      "summary": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-28T23:24:27.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/xpeng-robot-Getty.jpg?resize=1200,848",
-      "score": 55,
-      "tags": []
-    }
-  ],
   "AI": [
+    {
+      "id": "e4de3653e651",
+      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "summary": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-30T15:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/01/caterpillar-lidar-booth.jpg?resize=1200,800",
+      "score": 80,
+      "tags": []
+    },
     {
       "id": "e277e4a4618d",
       "title": "Nvidia’s AI advantage is moving beyond the GPU",
@@ -75,15 +25,15 @@
       "tags": []
     },
     {
-      "id": "24c26e96ef00",
-      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-      "summary": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "id": "0d18d5472b03",
+      "title": "Sony Music, Warner sue Anthropic, alleging a &#8220;brazen campaign&#8221; of intellectual property theft",
+      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "summary": "Sony Music, Warner sue Anthropic, alleging a &#8220;brazen campaign&#8221; of intellectual property ",
       "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-08-28T19:30:38.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2287646148.jpg?resize=1200,901",
-      "score": 70,
+      "published": "2026-08-29T18:41:59.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=1024",
+      "score": 60,
       "tags": []
     },
     {
@@ -95,35 +45,94 @@
       "category": "AI",
       "published": "2026-08-29T17:51:10.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/TechBBQ.jpg?resize=1200,800",
-      "score": 65,
-      "tags": []
-    },
-    {
-      "id": "93c197c40326",
-      "title": "Is the best way to watch a movie on a pair of sunglasses?",
-      "url": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
-      "summary": "Is the best way to watch a movie on a pair of sunglasses",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-28T22:42:48.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/P1110099.jpg?resize=1200,901",
-      "score": 65,
-      "tags": []
-    },
-    {
-      "id": "0d18d5472b03",
-      "title": "Sony Music, Warner sue Anthropic, alleging a &#8220;brazen campaign&#8221; of intellectual property theft",
-      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-      "summary": "Sony Music, Warner sue Anthropic, alleging a &#8220;brazen campaign&#8221; of intellectual property ",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-29T18:41:59.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=1024",
       "score": 60,
+      "tags": []
+    },
+    {
+      "id": "a3abf9eb1ccd",
+      "title": "A quarter of Nvidia&#8217;s business next year comes from labs it is financing",
+      "url": "https://www.artificialintelligence-news.com/news/nvidia-circular-financing-ai-labs/",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-08-27T10:00:00.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/voyager-exterior-sign-2-scaled.jpg"
+    }
+  ],
+  "科技": [
+    {
+      "id": "d5dafdd78fb6",
+      "title": "Musk&#8217;s faster path to more gas turbines comes with pollution problem",
+      "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+      "summary": "Musk&#8217;s faster path to more gas turbines comes with pollution problem",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-30T16:54:25.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Elon-Musk.jpg?w=1024",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "67389318ad3f",
+      "title": "TechCrunch Mobility: The hidden human cost of robotaxis",
+      "url": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
+      "summary": "TechCrunch Mobility: The hidden human cost of robotaxis",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-30T16:03:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/waymo-jaguar-ipace.jpg?resize=1200,633",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "27a4e5c2a23f",
+      "title": "Hollywood celebs are getting into microdrama apps",
+      "url": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/",
+      "summary": "Hollywood celebs are getting into microdrama apps",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-29T16:10:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/12/shutterstock_movie_director.jpg?resize=1200,717",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "ddfe512dedc9",
+      "title": "The Theragun Sense makes everyday recovery surprisingly easy",
+      "url": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
+      "summary": "The Theragun Sense makes everyday recovery surprisingly easy",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-29T14:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/theragun-sense.png?resize=1200,788",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "619cf37e65ee",
+      "title": "&#8220;We&#8217;re not doing 30 bets a year&#8221;: Vijay Pande on betting small after running $4 billion at a16z",
+      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "summary": "&#8220;We&#8217;re not doing 30 bets a year&#8221;: Vijay Pande on betting small after running $4 bi",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-29T17:36:47.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Vijay-Pande.png?resize=1200,800",
+      "score": 55,
       "tags": []
     }
   ],
   "就业": [
+    {
+      "id": "0dd253370053",
+      "title": "月活突破7000万，BOSS直聘下一步增长看蓝领和AI",
+      "url": "https://news.qq.com/rain/a/20260825A0DBFO00",
+      "summary": "BOSS直聘发布了2026年第二季度财报。财报显示，2026年第二季度，公司实现营收23",
+      "source": "Bing·BOSS直聘",
+      "category": "就业",
+      "published": "2026-08-25T16:03:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/O1IlZzFdvdgL0kh2SJd6ivWbu5bTP08TJdE5_XHPB-NIUAA_640330/0",
+      "score": 65,
+      "tags": []
+    },
     {
       "id": "fe05fae6998a",
       "title": "BOSS直聘Q2营收破23.99亿！AI直聊+蓝领突围，2026招聘赛道杀出‘效率 ...",
@@ -171,21 +180,33 @@
       "image": "//n.sinaimg.cn/default/feedbackpics/transform/116/w550h366/20180326/oOd4-fysqfnf9443669.png",
       "score": 60,
       "tags": []
-    },
-    {
-      "id": "bd717db71b82",
-      "title": "从匹配到交付，BOSS直聘AI招聘打开增长空间",
-      "url": "https://finance.sina.com.cn/stock/t/2026-08-27/doc-inipucsr5314633.shtml",
-      "summary": "雷达财经讯 8月25日，BOSS直聘发布2026年第二季度财报，营收23。99亿元，同比增长14",
-      "source": "Bing·BOSS直聘",
-      "category": "就业",
-      "published": "2026-08-27T12:13:00.000Z",
-      "image": "//n.sinaimg.cn/spider20260827/300/w660h440/20260827/6064-fe5cc804160ab68706c07bc8d9d830e0.jpg",
-      "score": 60,
-      "tags": []
     }
   ],
   "开发": [
+    {
+      "id": "a6b4c379d6e1",
+      "title": "从方案走向运行｜世界人工智能开源大赛（GOAI）复赛作品提交正式开启",
+      "url": "https://www.infoq.cn/article/REPGvBlF661I4hRmvV8J?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/REPGvBlF661I4hRmvV8J",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-28T14:20:17.000Z",
+      "image": "https://static001.infoq.cn/resource/image/1d/7c/1d3508e016618964fab31039a668b47c.png",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "c3f6a0cd5941",
+      "title": "Cloudflare 发布 Kitesurf，一款面向 AI 智能智能体的浏览器引擎",
+      "url": "https://www.infoq.cn/article/JDYKJmiY9vTRSw47t15a?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/JDYKJmiY9vTRSw47t15a",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-08-28T14:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/b2/02/b23c0f0750e34fef7db7eeb0fbc06802.jpg",
+      "score": 60,
+      "tags": []
+    },
     {
       "id": "25c5720f9d76",
       "title": "科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制",
@@ -199,51 +220,27 @@
       "tags": []
     },
     {
-      "id": "e5f4d2a1ab2f",
-      "title": "你的 Agent 已经上线生产环境，下一步怎么办？ | 技术实践",
-      "url": "https://www.infoq.cn/article/mKFB15kPm6Uw8fNG4Y7e?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/mKFB15kPm6Uw8fNG4Y7e",
+      "id": "0187839bbef8",
+      "title": "下一层抽象：从UX角度思考Agentic OS的样貌",
+      "url": "https://www.infoq.cn/article/c4zPz7WHXryL5Erw7xop?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/c4zPz7WHXryL5Erw7xop",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-08-28T11:53:03.000Z",
-      "image": "https://static001.infoq.cn/resource/image/17/b8/17dc918a6e20745b7b8587101ac78ab8.jpg",
+      "published": "2026-08-28T18:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/f0/30/f0ce1b90595e2316d86bbe5f0a85e430.png",
       "score": 55,
       "tags": []
     },
     {
-      "id": "96869cd0d8cd",
-      "title": "1周半写64个PR、完成30%项目重构：一家成熟SaaS公司把Agent塞进研发全流程后",
-      "url": "https://www.infoq.cn/article/0yv69MyNwHiwY3IZXPQt?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/0yv69MyNwHiwY3IZXPQt",
+      "id": "6a1004b3a54b",
+      "title": "腾讯混元 Hy4 preview 开源，参与“训练自己”！WorkBuddy实测：有了小型团队交付实力，但还得有人盯",
+      "url": "https://www.infoq.cn/article/SxrNXURUimQf4hL83ybj?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/SxrNXURUimQf4hL83ybj",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-08-28T11:43:17.000Z",
-      "image": "https://static001.infoq.cn/resource/image/8e/c6/8e89946cfe0d20a4d4c3178a5cae9ac6.png",
+      "published": "2026-08-28T16:09:08.000Z",
+      "image": "https://static001.infoq.cn/resource/image/ee/70/ee8d16dcd4d3690cfd80da6c1ecf3070.jpg",
       "score": 55,
-      "tags": []
-    },
-    {
-      "id": "c68fdd61e2a2",
-      "title": "从云原生数据库到数据基础设施：架构、弹性与智能化演进 | 腾讯云数据库 DBTalk",
-      "url": "https://www.infoq.cn/video/gaAV7GRNCXWITqLRGu0H?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/video/gaAV7GRNCXWITqLRGu0H",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-08-28T12:31:09.000Z",
-      "image": "https://static001.geekbang.org/static/infoq/img/infoq_icon.jpg",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "baf25895df5c",
-      "title": "从数据格式到完整引擎：2026 数据库系统演进趋势与 TDSQL 实践 | 腾讯云数据库 DBTalk",
-      "url": "https://www.infoq.cn/video/7Idl1NaRyb6MPku1W1Vv?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/video/7Idl1NaRyb6MPku1W1Vv",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-08-28T12:07:33.000Z",
-      "image": "https://static001.geekbang.org/static/infoq/img/infoq_icon.jpg",
-      "score": 50,
       "tags": []
     }
   ],
@@ -285,6 +282,18 @@
       "tags": []
     },
     {
+      "id": "8a1385be49a1",
+      "title": "复旦教授曾说：再发达的国家都用不到那么多大学生！发人深省",
+      "url": "https://www.sohu.com/a/1068275584_122483031",
+      "summary": "2025年11月20日，教育部召开2026届全国普通高校毕业生就业创业工作会议，会上公布的一组数字牵动了千家万户的神经：2026届全国高校毕业生规模预计将达到1270万人。这已经是连续第三年站上千万量",
+      "source": "Bing·大学生就业政策",
+      "category": "政策",
+      "published": "2026-08-27T07:11:00.000Z",
+      "image": "//q3.itc.cn/images01/20260827/03c1835dbe114af1a8d9ff00401f4efd.jpeg",
+      "score": 50,
+      "tags": []
+    },
+    {
       "id": "fa12d4ca8c9e",
       "title": "珠三角区域（广州）退役军人就业联盟签约仪式暨退役大学生士兵 ...",
       "url": "http://zw.china.com.cn/2026-08/26/content_118664932.shtml",
@@ -293,18 +302,6 @@
       "category": "政策",
       "published": "2026-08-26T04:13:00.000Z",
       "image": "http://images.china.cn/images1/ch/2022ChinaIdex/img/shareF2023.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "065c3b88c7c6",
-      "title": "理论&#183;学习 | 三维发力，促进高校毕业生高质量充分就业",
-      "url": "https://news.qq.com/rain/a/20260828A05ADM00",
-      "summary": "习近平总书记指出：“促进高质量充分就业，是新时代新征程就业工作的新定位、新使命。”高校毕业生是国家宝贵的人才资源，其就业质量直接关系就业基本盘稳定，关系经济社会持续健康发展",
-      "source": "Bing·高校毕业生就业创业政策",
-      "category": "政策",
-      "published": "2026-08-28T04:28:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/OArOFbVbaA8t6dztDRXNUcr5vOq-3VQLDBXuXcWzQTNR4AA_640330/0",
       "score": 50,
       "tags": []
     }
@@ -373,6 +370,15 @@
   ],
   "财经": [
     {
+      "id": "65c0c05a96c7",
+      "title": "河北工业企业兴起直播热 产品“云上”销全球",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-30/10686947.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-08-30T13:41:29.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
       "id": "f79efce9dba7",
       "title": "巨头们集体来中国练级，然后去全球“降维打击”",
       "url": "https://www.chinanews.com.cn/cj/2026/08-30/10686943.shtml",
@@ -406,15 +412,6 @@
       "source": "中新网财经",
       "category": "财经",
       "published": "2026-08-30T12:40:29.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "5771c04b4b15",
-      "title": "2026数博会闭幕 共发布87项创新成果",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-30/10686909.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-08-30T11:48:26.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
