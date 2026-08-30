@@ -1,66 +1,4 @@
 {
-  "AI": [
-    {
-      "id": "e277e4a4618d",
-      "title": "Nvidia’s AI advantage is moving beyond the GPU",
-      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-      "summary": "Nvidia’s AI advantage is moving beyond the GPU",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-29T13:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/jense-nvidi-chip-GettyImages-2266485392.jpg?resize=1200,800",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "24c26e96ef00",
-      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-      "summary": "An Anthropic researcher just gave us a peek at self-improving AI",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-28T19:30:38.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2287646148.jpg?resize=1200,901",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "698656d72c29",
-      "title": "At TechBBQ, Europe&#8217;s AI conversations kept coming back to: Who&#8217;s actually in control?",
-      "url": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
-      "summary": "At TechBBQ, Europe&#8217;s AI conversations kept coming back to: Who&#8217;s actually in control",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-29T17:51:10.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/TechBBQ.jpg?resize=1200,800",
-      "score": 65,
-      "tags": []
-    },
-    {
-      "id": "93c197c40326",
-      "title": "Is the best way to watch a movie on a pair of sunglasses?",
-      "url": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
-      "summary": "Is the best way to watch a movie on a pair of sunglasses",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-28T22:42:48.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/P1110099.jpg?resize=1200,901",
-      "score": 65,
-      "tags": []
-    },
-    {
-      "id": "0d18d5472b03",
-      "title": "Sony Music, Warner sue Anthropic, alleging a &#8220;brazen campaign&#8221; of intellectual property theft",
-      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-      "summary": "Sony Music, Warner sue Anthropic, alleging a &#8220;brazen campaign&#8221; of intellectual property ",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-29T18:41:59.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=1024",
-      "score": 60,
-      "tags": []
-    }
-  ],
   "科技": [
     {
       "id": "27a4e5c2a23f",
@@ -123,6 +61,68 @@
       "tags": []
     }
   ],
+  "AI": [
+    {
+      "id": "e277e4a4618d",
+      "title": "Nvidia’s AI advantage is moving beyond the GPU",
+      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "summary": "Nvidia’s AI advantage is moving beyond the GPU",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-29T13:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/jense-nvidi-chip-GettyImages-2266485392.jpg?resize=1200,800",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "24c26e96ef00",
+      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "summary": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-28T19:30:38.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2287646148.jpg?resize=1200,901",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "698656d72c29",
+      "title": "At TechBBQ, Europe&#8217;s AI conversations kept coming back to: Who&#8217;s actually in control?",
+      "url": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+      "summary": "At TechBBQ, Europe&#8217;s AI conversations kept coming back to: Who&#8217;s actually in control",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-29T17:51:10.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/TechBBQ.jpg?resize=1200,800",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "93c197c40326",
+      "title": "Is the best way to watch a movie on a pair of sunglasses?",
+      "url": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
+      "summary": "Is the best way to watch a movie on a pair of sunglasses",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-28T22:42:48.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/P1110099.jpg?resize=1200,901",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "0d18d5472b03",
+      "title": "Sony Music, Warner sue Anthropic, alleging a &#8220;brazen campaign&#8221; of intellectual property theft",
+      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "summary": "Sony Music, Warner sue Anthropic, alleging a &#8220;brazen campaign&#8221; of intellectual property ",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-29T18:41:59.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=1024",
+      "score": 60,
+      "tags": []
+    }
+  ],
   "就业": [
     {
       "id": "fe05fae6998a",
@@ -161,6 +161,18 @@
       "tags": []
     },
     {
+      "id": "d0cea0fb8a36",
+      "title": "BOSS直聘第二季度营收23.99亿元，AI应用催化增长模式差异化",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-26/doc-iniprcpy2207053.shtml",
+      "summary": "【TechWeb】8月26日消息，BOSS直聘（NASDAQ: BZ；HKEX: 2076）发布2026年第二季度财报。财报显示，2026年第二季度，公司实现营收23",
+      "source": "Bing·BOSS直聘",
+      "category": "就业",
+      "published": "2026-08-26T03:02:00.000Z",
+      "image": "//n.sinaimg.cn/default/feedbackpics/transform/116/w550h366/20180326/oOd4-fysqfnf9443669.png",
+      "score": 60,
+      "tags": []
+    },
+    {
       "id": "bd717db71b82",
       "title": "从匹配到交付，BOSS直聘AI招聘打开增长空间",
       "url": "https://finance.sina.com.cn/stock/t/2026-08-27/doc-inipucsr5314633.shtml",
@@ -169,18 +181,6 @@
       "category": "就业",
       "published": "2026-08-27T12:13:00.000Z",
       "image": "//n.sinaimg.cn/spider20260827/300/w660h440/20260827/6064-fe5cc804160ab68706c07bc8d9d830e0.jpg",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "8c19f07fe971",
-      "title": "BOSS直聘：第二季度营收23.99亿元，AI助力招聘服务向闭环推进",
-      "url": "https://news.ifeng.com/c/8vvu3KmODdl",
-      "summary": "8月25日美股盘前，BOSS直聘（NASDAQ: BZ；HKEX: 2076）发布2026年第二季度财报。财报显示，2026年第二季度，公司实现营收23",
-      "source": "Bing·BOSS直聘",
-      "category": "就业",
-      "published": "2026-08-27T09:02:00.000Z",
-      "image": "https://x0.ifengimg.com/ucms/2026_35/F36B85368525553727567D9FABAF42A10C858A20_size9_w365_h204.jpg",
       "score": 60,
       "tags": []
     }
@@ -199,40 +199,52 @@
       "tags": []
     },
     {
-      "id": "61c5edf4f0b7",
-      "title": "一句话找图，低清图再增强：HarmonyOS7 视觉 AI 如何走进真实应用",
-      "url": "https://www.infoq.cn/article/3R8f57Bow3B4kEBkPv5J?utm_source=rss&amp;utm_medium=article",
+      "id": "e5f4d2a1ab2f",
+      "title": "你的 Agent 已经上线生产环境，下一步怎么办？ | 技术实践",
+      "url": "https://www.infoq.cn/article/mKFB15kPm6Uw8fNG4Y7e?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/mKFB15kPm6Uw8fNG4Y7e",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-08-29T13:19:17.000Z",
-      "image": "https://static001.infoq.cn/resource/image/b3/a6/b38e1ccc453393bd39e1ba20aa1e29a6.jpg"
+      "published": "2026-08-28T11:53:03.000Z",
+      "image": "https://static001.infoq.cn/resource/image/17/b8/17dc918a6e20745b7b8587101ac78ab8.jpg",
+      "score": 55,
+      "tags": []
     },
     {
-      "id": "754624079332",
-      "title": "Agent 时代，为什么有人开始重新造 Google？",
-      "url": "https://www.infoq.cn/article/KbbHdAQFxQM7AJIYMLqR?utm_source=rss&amp;utm_medium=article",
+      "id": "96869cd0d8cd",
+      "title": "1周半写64个PR、完成30%项目重构：一家成熟SaaS公司把Agent塞进研发全流程后",
+      "url": "https://www.infoq.cn/article/0yv69MyNwHiwY3IZXPQt?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/0yv69MyNwHiwY3IZXPQt",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-08-29T12:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/b2/bb/b21680d84370fe6b895c70232d8826bb.png"
+      "published": "2026-08-28T11:43:17.000Z",
+      "image": "https://static001.infoq.cn/resource/image/8e/c6/8e89946cfe0d20a4d4c3178a5cae9ac6.png",
+      "score": 55,
+      "tags": []
     },
     {
-      "id": "0187839bbef8",
-      "title": "下一层抽象：从UX角度思考Agentic OS的样貌",
-      "url": "https://www.infoq.cn/article/c4zPz7WHXryL5Erw7xop?utm_source=rss&amp;utm_medium=article",
+      "id": "c68fdd61e2a2",
+      "title": "从云原生数据库到数据基础设施：架构、弹性与智能化演进 | 腾讯云数据库 DBTalk",
+      "url": "https://www.infoq.cn/video/gaAV7GRNCXWITqLRGu0H?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/video/gaAV7GRNCXWITqLRGu0H",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-08-28T18:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/f0/30/f0ce1b90595e2316d86bbe5f0a85e430.png"
+      "published": "2026-08-28T12:31:09.000Z",
+      "image": "https://static001.geekbang.org/static/infoq/img/infoq_icon.jpg",
+      "score": 50,
+      "tags": []
     },
     {
-      "id": "7a16fd17a3a7",
-      "title": "DuckDB v2.0 重磅预览：从嵌入式数据库迈向分布式架构",
-      "url": "https://www.infoq.cn/article/9YLW3ZxLvrqxOVzSh9Y1?utm_source=rss&amp;utm_medium=article",
+      "id": "baf25895df5c",
+      "title": "从数据格式到完整引擎：2026 数据库系统演进趋势与 TDSQL 实践 | 腾讯云数据库 DBTalk",
+      "url": "https://www.infoq.cn/video/7Idl1NaRyb6MPku1W1Vv?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/video/7Idl1NaRyb6MPku1W1Vv",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-08-28T17:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/2e/ab/2e9aeb9320eb64cf4068618415f81dab.jpg"
+      "published": "2026-08-28T12:07:33.000Z",
+      "image": "https://static001.geekbang.org/static/infoq/img/infoq_icon.jpg",
+      "score": 50,
+      "tags": []
     }
   ],
   "政策": [
@@ -261,6 +273,30 @@
       "tags": []
     },
     {
+      "id": "2e113bf48a98",
+      "title": "1000万大学生就业难？专家：中国需变贵，服务业是最大就业蓄水池",
+      "url": "https://www.sohu.com/a/1067603960_122407768",
+      "summary": "2026年的毕业季，1270万高校毕业生涌入求职市场，国考热门岗位报录比冲破6000:1， offer获取率不足8%， 三四千元的月薪成了不少人的标配。与此同时，制造业面临3000万技工缺口，家政、养",
+      "source": "Bing·大学生就业政策",
+      "category": "政策",
+      "published": "2026-08-25T22:45:00.000Z",
+      "image": "https://q4.itc.cn/q_70/images03/20260826/42df2fa6dfae4b9996a06c804e4c4508.jpeg",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "fa12d4ca8c9e",
+      "title": "珠三角区域（广州）退役军人就业联盟签约仪式暨退役大学生士兵 ...",
+      "url": "http://zw.china.com.cn/2026-08/26/content_118664932.shtml",
+      "summary": "戎耀新程，就业护航。8月24日，由广州市退役军人事务局主办的珠三角区域（广州）退役军人就业联盟单位签约仪式暨退役大学生士兵专场招聘活动在广州东方宾馆举办",
+      "source": "Bing·大学生就业政策",
+      "category": "政策",
+      "published": "2026-08-26T04:13:00.000Z",
+      "image": "http://images.china.cn/images1/ch/2022ChinaIdex/img/shareF2023.png",
+      "score": 50,
+      "tags": []
+    },
+    {
       "id": "065c3b88c7c6",
       "title": "理论&#183;学习 | 三维发力，促进高校毕业生高质量充分就业",
       "url": "https://news.qq.com/rain/a/20260828A05ADM00",
@@ -271,33 +307,45 @@
       "image": "https://inews.gtimg.com/om_ls/OArOFbVbaA8t6dztDRXNUcr5vOq-3VQLDBXuXcWzQTNR4AA_640330/0",
       "score": 50,
       "tags": []
-    },
-    {
-      "id": "c6e1eae07e31",
-      "title": "大创动态 | 青春启航，梦想落地——走进北京市大学生创业板孵化 ...",
-      "url": "https://www.sohu.com/a/1067946725_121123898",
-      "summary": "在北京昌平的沙河高教园区，一座专为青年创业者打造的孵化基地正在悄然改变着大学生创业的生态。这里不仅有免费的办公空间，更有从注册到上市的完整培育体系——这里就是北京市大学生创业板孵化培育示范基地",
-      "source": "Bing·大学生创业扶持政策",
-      "category": "政策",
-      "published": "2026-08-26T11:42:00.000Z",
-      "image": "https://q4.itc.cn/q_70/images03/20260826/476757c4c6e84c339ec4752cce42c42f.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "efbef99e0d99",
-      "title": "聚焦高校毕业生就业 两部门发文部署五项活动（附支持政策清单）",
-      "url": "https://www.xinhuanet.com/edu//20260424/346df901c5cb47bd9b697a8e623224f5/c.html",
-      "summary": "日前，教育部、人力资源社会保障部联合印发通知，部署在全国范围内开展2026年高校毕业生就业政策宣传活动，帮助高校毕业生和用人单位全面了解、精准享受就业优惠政策，促进高校毕业生高质量充分就业。 2026",
-      "source": "就业创业政策",
-      "category": "政策",
-      "published": "2026-04-24T07:25:00.000Z",
-      "image": "https://www.news.cn/detail2020/images/ewm.png",
-      "score": 50,
-      "tags": []
     }
   ],
   "社会": [
+    {
+      "id": "3629506e2cdf",
+      "title": "教育部：深入推进校园餐教辅校服“三项整治”",
+      "url": "https://www.chinanews.com.cn/edu/2026/08-28/10686102.shtml",
+      "summary": "中新网8月28日电 据教育部网站消息，8月27日，教育部开展全国中小学幼儿园秋季开学工作视频调度，全面落实全国基础教育工作会议精神，系统部署秋季开学重点工作",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-08-28T11:45:43.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "74945e71b66e",
+      "title": "第八届全国高校青年教师教学竞赛决赛在山东大学举办",
+      "url": "https://www.chinanews.com.cn/edu/2026/08-28/10685900.shtml",
+      "summary": "中新网北京8月28日电 (记者 余湛奕)记者从全国总工会获悉，8月24日至28日，由中华全国总工会、教育部联合主办的第八届全国高校青年教师教学竞赛决赛在山东大学成功举办，决赛共设五个组别，各组第一名符",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-08-28T08:43:07.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "e61492646de6",
+      "title": "宁夏银川多举措扩大义务教育学位供给 化解入学供需矛盾",
+      "url": "https://www.chinanews.com.cn/edu/2026/08-28/10685888.shtml",
+      "summary": "中新网银川8月28日电 (记者 李佩珊)记者28日从宁夏银川市教育局获悉，为破解义务教育阶段学位结构性紧张、局部区域学位不足、大班额等问题，保障适龄儿童少年平等接受义务教育权益，今年以来，银川市通过科",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-08-28T08:28:42.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
+    },
     {
       "id": "0fb2d8f0ac2a",
       "title": "教材教辅到位 安全知识进校园 各地多举措护航开学季",
@@ -321,88 +369,52 @@
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 50,
       "tags": []
-    },
-    {
-      "id": "e03fea300998",
-      "title": "暑假“余额”不足，如何助力学生从容迈向新学期",
-      "url": "https://www.chinanews.com.cn/edu/2026/08-26/10684629.shtml",
-      "summary": "暑假“余额”不足，孩子各有困扰",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-08-26T08:26:57.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "bb52a2dccc6d",
-      "title": "外语学科最容易被AI取代吗？",
-      "url": "https://www.chinanews.com.cn/edu/2026/08-26/10684325.shtml",
-      "summary": "外语学科最容易被AI取代吗(杏坛随笔)",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-08-26T02:10:57.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 45,
-      "tags": []
-    },
-    {
-      "id": "4045fe68bac7",
-      "title": "智能时代如何打好底子",
-      "url": "https://www.chinanews.com.cn/edu/2026/08-28/10685723.shtml",
-      "summary": "智能时代如何打好底子(金台随笔)",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-08-28T03:26:05.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 40,
-      "tags": []
     }
   ],
   "财经": [
     {
-      "id": "cdef96b42943",
-      "title": "利润暴增2000%！订单排到2028年！“芯”浪潮，来了",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-30/10686793.shtml",
+      "id": "f79efce9dba7",
+      "title": "巨头们集体来中国练级，然后去全球“降维打击”",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-30/10686943.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-30T06:39:19.000Z",
+      "published": "2026-08-30T13:15:02.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "eac4facc06ed",
-      "title": "参观生产线、购买周边文创……智造工厂逛出新花样",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-30/10686787.shtml",
+      "id": "23903d2d7dc2",
+      "title": "北纬53度结出“金豆子” 塔河县寒地大豆育种实现新突破",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-30/10686937.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-30T06:30:10.000Z",
+      "published": "2026-08-30T13:03:39.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "07cee83dcbdf",
-      "title": "海南封关看变化：国际化营商环境不断优化，让外企外籍人士“一来无忧”",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-30/10686755.shtml",
+      "id": "97a369de8670",
+      "title": "陕西省2026职业技能大赛榆林开幕",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-30/10686922.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-30T06:01:29.000Z",
+      "published": "2026-08-30T12:46:00.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "d6a9501bb21a",
-      "title": "擦亮鱼米之乡“金名片” 江苏“农情四季”激活乡村振兴新动能",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-30/10686754.shtml",
+      "id": "a41a60560dac",
+      "title": "AI驱动提质增效 美年健康上半年营收38.44亿元",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-30/10686918.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-30T06:00:55.000Z",
+      "published": "2026-08-30T12:40:29.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "6706d7e8252b",
-      "title": "海南产经新观察：“全国百强县”助企出海",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-30/10686752.shtml",
+      "id": "5771c04b4b15",
+      "title": "2026数博会闭幕 共发布87项创新成果",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-30/10686909.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-30T05:59:22.000Z",
+      "published": "2026-08-30T11:48:26.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
