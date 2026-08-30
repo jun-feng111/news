@@ -1,18 +1,6 @@
 {
   "AI": [
     {
-      "id": "e4de3653e651",
-      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-      "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
-      "summary": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-30T15:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/01/caterpillar-lidar-booth.jpg?resize=1200,800",
-      "score": 80,
-      "tags": []
-    },
-    {
       "id": "378833979da6",
       "title": "Liux&#8217;s Big microcar bets on sustainability to take on Chinese rivals",
       "url": "https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/",
@@ -21,6 +9,18 @@
       "category": "AI",
       "published": "2026-08-30T18:33:44.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/LIUX-BIG-Factory-001.png?resize=1200,800",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "e4de3653e651",
+      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "summary": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-08-30T15:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/01/caterpillar-lidar-booth.jpg?resize=1200,800",
       "score": 75,
       "tags": []
     },
@@ -71,7 +71,7 @@
       "category": "科技",
       "published": "2026-08-30T16:54:25.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/Elon-Musk.jpg?w=1024",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -83,7 +83,7 @@
       "category": "科技",
       "published": "2026-08-30T16:03:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/waymo-jaguar-ipace.jpg?resize=1200,633",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -173,14 +173,14 @@
       "tags": []
     },
     {
-      "id": "d0cea0fb8a36",
-      "title": "BOSS直聘第二季度营收23.99亿元，AI应用催化增长模式差异化",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-08-26/doc-iniprcpy2207053.shtml",
-      "summary": "【TechWeb】8月26日消息，BOSS直聘（NASDAQ: BZ；HKEX: 2076）发布2026年第二季度财报。财报显示，2026年第二季度，公司实现营收23",
+      "id": "bd717db71b82",
+      "title": "从匹配到交付，BOSS直聘AI招聘打开增长空间",
+      "url": "https://finance.sina.com.cn/stock/t/2026-08-27/doc-inipucsr5314633.shtml",
+      "summary": "雷达财经讯 8月25日，BOSS直聘发布2026年第二季度财报，营收23。99亿元，同比增长14",
       "source": "Bing·BOSS直聘",
       "category": "就业",
-      "published": "2026-08-26T03:02:00.000Z",
-      "image": "//n.sinaimg.cn/default/feedbackpics/transform/116/w550h366/20180326/oOd4-fysqfnf9443669.png",
+      "published": "2026-08-27T12:13:00.000Z",
+      "image": "//n.sinaimg.cn/spider20260827/300/w660h440/20260827/6064-fe5cc804160ab68706c07bc8d9d830e0.jpg",
       "score": 60,
       "tags": []
     }
@@ -373,6 +373,15 @@
   ],
   "财经": [
     {
+      "id": "fa58d2883872",
+      "title": "中国新能源车如何改变南非人的购车选择？",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-31/10686967.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-08-30T22:22:10.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
       "id": "65c0c05a96c7",
       "title": "河北工业企业兴起直播热 产品“云上”销全球",
       "url": "https://www.chinanews.com.cn/cj/2026/08-30/10686947.shtml",
@@ -406,15 +415,6 @@
       "source": "中新网财经",
       "category": "财经",
       "published": "2026-08-30T12:46:00.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "a41a60560dac",
-      "title": "AI驱动提质增效 美年健康上半年营收38.44亿元",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-30/10686918.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-08-30T12:40:29.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
