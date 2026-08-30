@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-30T01:08:02.928Z",
-  "count": 129,
+  "updated": "2026-08-30T07:57:54.840Z",
+  "count": 127,
   "sources": {
-    "V2EX": 10,
+    "V2EX": 8,
     "RemoteOK": 100,
     "Remotive": 19,
     "Arbeitnow": 0,
@@ -10,24 +10,21 @@
   },
   "jobs": [
     {
-      "id": "v2ex-1238027",
-      "title": "remote AI 测试工程师/测试工程师（高级+自动化方向）h c 3 个",
-      "company": "andyxinweimin",
-      "location": "国内",
-      "remote": true,
+      "id": "v2ex-1238158",
+      "title": "SHEIN 技术岗社招合集 后端/数据/算法/测试/SRE/安全 110+岗位",
+      "company": "rowena1225",
+      "location": "深圳/上海/南京/广州/北京",
+      "remote": false,
       "salaryText": "",
       "salaryMin": null,
       "salaryMax": null,
       "salaryCurrency": "CNY",
       "skills": [
-        "python",
-        "go",
-        "node",
-        "flutter"
+        "java"
       ],
-      "category": "算法/AI",
-      "postedDate": "2026-08-29",
-      "url": "https://www.v2ex.com/t/1238027",
+      "category": "后端",
+      "postedDate": "2026-08-30",
+      "url": "https://www.v2ex.com/t/1238158",
       "source": "V2EX",
       "region": "domestic"
     },
@@ -201,55 +198,6 @@
       "region": "domestic"
     },
     {
-      "id": "v2ex-1237589",
-      "title": ".NET 全栈工程师",
-      "company": "laggage",
-      "location": "杭州",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "c#",
-        "typescript",
-        "react",
-        "angular",
-        "docker",
-        "kubernetes",
-        "k8s",
-        "aws",
-        "阿里云",
-        "mysql",
-        "postgresql"
-      ],
-      "category": "全栈",
-      "postedDate": "2026-08-27",
-      "url": "https://www.v2ex.com/t/1237589",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1237578",
-      "title": "招聘： LLM 后训练工程师 (角色扮演对话模型类型)",
-      "company": "yjpeminem0604",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "python",
-        "pytorch"
-      ],
-      "category": "人力/HR",
-      "postedDate": "2026-08-27",
-      "url": "https://www.v2ex.com/t/1237578",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
       "id": "remoteok-1137201",
       "title": "APPLY NOW Send Veritas your Resume DON'T CLOSE WEBSITE",
       "company": "Elements Recruitment Australia",
@@ -266,6 +214,29 @@
       "category": "recruiter",
       "postedDate": "2026-08-28",
       "url": "https://remoteOK.com/remote-jobs/remote-apply-now-send-veritas-your-resume-dont-close-website-elements-recruitment-australia-1137201",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1137214",
+      "title": "Residential Valuer",
+      "company": "Acumentis Group",
+      "location": "Port Macquarie,",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "customer support",
+        "marketing",
+        "exec",
+        "finance",
+        "sales"
+      ],
+      "category": "customer support",
+      "postedDate": "2026-08-28",
+      "url": "https://remoteOK.com/remote-jobs/remote-residential-valuer-acumentis-group-1137214",
       "source": "RemoteOK",
       "region": "foreign"
     },
@@ -2675,33 +2646,6 @@
       "category": "customer support",
       "postedDate": "2026-08-21",
       "url": "https://remoteOK.com/remote-jobs/remote-open-positions-uzeats-1137037",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137039",
-      "title": "Stock Assistant Supre Parramatta",
-      "company": "Cotton On Group",
-      "location": "Parramatta,",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "virtual assistant",
-        "customer support",
-        "marketing",
-        "travel",
-        "speech",
-        "finance",
-        "medical",
-        "recruiter",
-        "non tech"
-      ],
-      "category": "virtual assistant",
-      "postedDate": "2026-08-21",
-      "url": "https://remoteOK.com/remote-jobs/remote-stock-assistant-supre-parramatta-cotton-on-group-1137039",
       "source": "RemoteOK",
       "region": "foreign"
     },
