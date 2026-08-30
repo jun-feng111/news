@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-30T17:58:26.528Z",
-  "count": 125,
+  "updated": "2026-08-30T20:47:12.408Z",
+  "count": 124,
   "sources": {
-    "V2EX": 6,
+    "V2EX": 5,
     "RemoteOK": 100,
     "Remotive": 19,
     "Arbeitnow": 0,
@@ -114,30 +114,6 @@
       "category": "算法/AI",
       "postedDate": "2026-08-28",
       "url": "https://www.v2ex.com/t/1237782",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1237713",
-      "title": "外企银行招 Java",
-      "company": "strainyuu",
-      "location": "广州",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "python",
-        "java",
-        "javascript",
-        "react",
-        "angular",
-        "aws"
-      ],
-      "category": "其他",
-      "postedDate": "2026-08-27",
-      "url": "https://www.v2ex.com/t/1237713",
       "source": "V2EX",
       "region": "domestic"
     },
