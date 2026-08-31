@@ -1,0 +1,7 @@
+{
+  "id": "dba08b084385",
+  "title": "Netflix采用云原生作业队列系统Kueue替代内部解决方案",
+  "url": "https://www.infoq.cn/article/d1qT2acYJodVCcKaBe4u?utm_source=rss&amp;utm_medium=article",
+  "contentZh": "",
+  "contentFull": "Netflix将大部分批处理工作负载迁移到了Kueue，这是一个开源的云原生批处理作业执行系统，并逐步替代了其多年来的内部解决方案。该公司将之前内部创建的功能映射到了 Kueue 的功能上，并从新功能中得到了收益，这些功能如果要并入内部解决方案将会很昂贵。工程师使用了与现有系统兼容的 API 来降低项目风险，并允许进行渐进式且无缝的迁移。多年来，Netflix 为其容器平台Titus创建了一系列定制的解决方案，包括用于在容器化计算之上管理和执行批处理作业的 Compute Managed Batch（CMB）。CMB 使用租户机制层级化地管理容量，并利用 Titus 的控制平面 API，跨多个单元（Kubernetes 集群）联合工作负载。该公司观察到，自从 2018 年 CMB 创建以来，它的许多关键功能已经被并入在 Kubernetes 生态系统中演进的开源项目中。此外，在 CMB 中开发新功能变得更加困难，因为该解决方案与 Kubernetes 的集成不够紧密。最终，工程师决定选择 Kueue 作为 CMB 的替代品，因为它具有广泛的功能和灵活性、广泛的采用率和快速的创新步伐。Kueue是用于批处理作业管理和执行的 Kubernetes 原生解决方案，它提供了一系列功能，包括基于优先级的作业排队和不同的策略、高级资源管理、多集群和拓扑感知调度、多种集成机制、全面的可观测性等。Kueue 的宏观操作（来源：Kueue文档）负责迁移到 Kueue 的团队决定使这个过程对现有 CMB 用户完全透明，并确保新解决方案从一开始就能支持所需的容器启动速率和最大吞吐量。迁移过程进一步受到了租户限制，并在出现问题时实现了轻松回滚。工程师将 CMB 中的内部租户映射到 Kueue 中的 Cohorts，将叶子租户映射到一对 ClusterQueue 和 LocalQueue 资源。资源风格和名义配额用于配置从 CMB 导入的容量需求。从 CMB 到 Kueue 的迁移（来源：Netflix技术博客）Netflix 目前在生产环境中使用 Kueue 管理数百万个批处理工作负载，但迁移仍在进行中。最近，工程师们通过利用基于抢占的公平共享（preemption-based fair sharing）显著提高了平均资源利用率，同时保持了预留语义并将空闲容量借给其他租户。博客文章的作者分享了如下的经验教训：不要等到最后才迁移最复杂的用例。我们早期决定首先迁移我们最大和最复杂的客户。这使我们能够建立信心，即我们稍后可以将其他客户迁移到 Netflix Batch 而不会出现问题，这样生产迁移仅持续了 4 周。工程师们强调，在迁移底层组件的同时保持 API 兼容性大大降低了项目风险，并为最终用户提供了无缝体验。他们还解释说，在非生产环境中运行负载测试帮助他们微调与性能相关的配置选项，以满足平台的吞吐量要求。查看英文原文：Netflix Adopts Cloud-Native Job Queueing System Kueue to Replace an In-House Solution"
+}
