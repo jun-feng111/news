@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T17:57:16.235Z",
+  "updated": "2026-08-31T22:34:27.878Z",
   "count": 121,
   "sources": {
     "V2EX": 2,
@@ -44,6 +44,53 @@
       "url": "https://www.v2ex.com/t/1238158",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "remoteok-1137224",
+      "title": "AI Engineer Data APIs",
+      "company": "Benzinga",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "golang",
+        "video",
+        "engineer"
+      ],
+      "category": "golang",
+      "postedDate": "2026-08-30",
+      "url": "https://remoteOK.com/remote-jobs/remote-ai-engineer-data-apis-benzinga-1137224",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1137225",
+      "title": "GTM",
+      "company": "Wonderful",
+      "location": "Bridgetown,",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "saas",
+        "salesforce",
+        "sys admin",
+        "technical",
+        "marketing",
+        "exec",
+        "senior",
+        "sales"
+      ],
+      "category": "saas",
+      "postedDate": "2026-08-30",
+      "url": "https://remoteOK.com/remote-jobs/remote-gtm-wonderful-1137225",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137235",
@@ -2469,57 +2516,6 @@
       "category": "finance",
       "postedDate": "2026-08-22",
       "url": "https://remoteOK.com/remote-jobs/remote-cdp-east-coast-concepts-1137065",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137063",
-      "title": "Post Office Manager",
-      "company": "Shoppers Drug Mart",
-      "location": "Kitchener,",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "exec",
-        "customer support",
-        "dev",
-        "medical",
-        "digital nomad"
-      ],
-      "category": "exec",
-      "postedDate": "2026-08-21",
-      "url": "https://remoteOK.com/remote-jobs/remote-post-office-manager-shoppers-drug-mart-1137063",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137060",
-      "title": "Estimator",
-      "company": "Linsco Ltd",
-      "location": "Dronfield,",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "design",
-        "dev",
-        "travel",
-        "finance",
-        "scheme",
-        "microsoft",
-        "exec",
-        "excel",
-        "full time",
-        "digital nomad"
-      ],
-      "category": "design",
-      "postedDate": "2026-08-21",
-      "url": "https://remoteOK.com/remote-jobs/remote-estimator-linsco-ltd-1137060",
       "source": "RemoteOK",
       "region": "foreign"
     },
