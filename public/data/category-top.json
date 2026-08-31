@@ -1,18 +1,6 @@
 {
   "AI": [
     {
-      "id": "378833979da6",
-      "title": "Liux&#8217;s Big microcar bets on sustainability to take on Chinese rivals",
-      "url": "https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/",
-      "summary": "Liux&#8217;s Big microcar bets on sustainability to take on Chinese rivals",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-08-30T18:33:44.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/LIUX-BIG-Factory-001.png?resize=1200,800",
-      "score": 75,
-      "tags": []
-    },
-    {
       "id": "e4de3653e651",
       "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
       "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
@@ -25,14 +13,14 @@
       "tags": []
     },
     {
-      "id": "e277e4a4618d",
-      "title": "Nvidia’s AI advantage is moving beyond the GPU",
-      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-      "summary": "Nvidia’s AI advantage is moving beyond the GPU",
+      "id": "378833979da6",
+      "title": "Liux&#8217;s Big microcar bets on sustainability to take on Chinese rivals",
+      "url": "https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/",
+      "summary": "Liux&#8217;s Big microcar bets on sustainability to take on Chinese rivals",
       "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-08-29T13:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/jense-nvidi-chip-GettyImages-2266485392.jpg?resize=1200,800",
+      "published": "2026-08-30T18:33:44.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/LIUX-BIG-Factory-001.png?resize=1200,800",
       "score": 70,
       "tags": []
     },
@@ -59,6 +47,15 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=1024",
       "score": 55,
       "tags": []
+    },
+    {
+      "id": "a3abf9eb1ccd",
+      "title": "A quarter of Nvidia&#8217;s business next year comes from labs it is financing",
+      "url": "https://www.artificialintelligence-news.com/news/nvidia-circular-financing-ai-labs/",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-08-27T10:00:00.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/voyager-exterior-sign-2-scaled.jpg"
     }
   ],
   "科技": [
@@ -87,6 +84,30 @@
       "tags": []
     },
     {
+      "id": "c053743dc5a1",
+      "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+      "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+      "summary": " is building barriers around drones and robots, but China has scale to get around them",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-31T02:34:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2018/03/gettyimages-507054668.jpg?resize=1200,801",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "5e9fce5dde5a",
+      "title": "Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off",
+      "url": "https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/",
+      "summary": "Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull ",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-08-31T02:18:57.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/George-Arison.jpg?resize=800,1200",
+      "score": 65,
+      "tags": []
+    },
+    {
       "id": "27a4e5c2a23f",
       "title": "Hollywood celebs are getting into microdrama apps",
       "url": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/",
@@ -96,30 +117,6 @@
       "published": "2026-08-29T16:10:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2023/12/shutterstock_movie_director.jpg?resize=1200,717",
       "score": 65,
-      "tags": []
-    },
-    {
-      "id": "ddfe512dedc9",
-      "title": "The Theragun Sense makes everyday recovery surprisingly easy",
-      "url": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
-      "summary": "The Theragun Sense makes everyday recovery surprisingly easy",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-29T14:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/theragun-sense.png?resize=1200,788",
-      "score": 65,
-      "tags": []
-    },
-    {
-      "id": "619cf37e65ee",
-      "title": "&#8220;We&#8217;re not doing 30 bets a year&#8221;: Vijay Pande on betting small after running $4 billion at a16z",
-      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
-      "summary": "&#8220;We&#8217;re not doing 30 bets a year&#8221;: Vijay Pande on betting small after running $4 bi",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-08-29T17:36:47.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Vijay-Pande.png?resize=1200,800",
-      "score": 55,
       "tags": []
     }
   ],
@@ -133,18 +130,6 @@
       "category": "就业",
       "published": "2026-08-26T05:27:00.000Z",
       "image": "",
-      "score": 65,
-      "tags": []
-    },
-    {
-      "id": "0dd253370053",
-      "title": "月活突破7000万，BOSS直聘下一步增长看蓝领和AI",
-      "url": "https://news.qq.com/rain/a/20260825A0DBFO00",
-      "summary": "BOSS直聘发布了2026年第二季度财报。财报显示，2026年第二季度，公司实现营收23",
-      "source": "Bing·BOSS直聘",
-      "category": "就业",
-      "published": "2026-08-25T16:03:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/O1IlZzFdvdgL0kh2SJd6ivWbu5bTP08TJdE5_XHPB-NIUAA_640330/0",
       "score": 65,
       "tags": []
     },
@@ -170,6 +155,18 @@
       "published": "2026-07-18T11:05:00.000Z",
       "image": "https://inews.gtimg.com/om_ls/Ows_BB25Bhnf-wlGWgFoIkmLSVd_6MJWCT8-yw6C3HS10AA_640330/0",
       "score": 65,
+      "tags": []
+    },
+    {
+      "id": "8c19f07fe971",
+      "title": "BOSS直聘：第二季度营收23.99亿元，AI助力招聘服务向闭环推进",
+      "url": "https://news.ifeng.com/c/8vvu3KmODdl",
+      "summary": "8月25日美股盘前，BOSS直聘（NASDAQ: BZ；HKEX: 2076）发布2026年第二季度财报。财报显示，2026年第二季度，公司实现营收23",
+      "source": "Bing·BOSS直聘",
+      "category": "就业",
+      "published": "2026-08-27T09:02:00.000Z",
+      "image": "https://x0.ifengimg.com/ucms/2026_35/F36B85368525553727567D9FABAF42A10C858A20_size9_w365_h204.jpg",
+      "score": 60,
       "tags": []
     },
     {
@@ -311,6 +308,30 @@
   ],
   "社会": [
     {
+      "id": "675e32e0372b",
+      "title": "从学位扩容到智慧教学 银川靶向破解教育民生痛点",
+      "url": "https://www.chinanews.com.cn/edu/2026/08-29/10686310.shtml",
+      "summary": "中新网银川8月29日电 (记者 李佩珊)记者28日从宁夏银川市教育局获悉，瞄准学位紧张、教育资源不均衡等群众急难愁盼问题，银川今年通过新增近2万个学位、扩大集团化办学覆盖面、人工智能赋能课堂教学、夯实",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-08-29T02:45:01.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "14cdcf4879e8",
+      "title": "快开学了 如何帮孩子远离“假期综合征”？医生建议",
+      "url": "https://www.chinanews.com.cn/edu/2026/08-29/10686325.shtml",
+      "summary": "朝“问”健康丨快开学了 如何帮孩子远离“假期综合征”",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-08-29T03:33:38.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
+    },
+    {
       "id": "3629506e2cdf",
       "title": "教育部：深入推进校园餐教辅校服“三项整治”",
       "url": "https://www.chinanews.com.cn/edu/2026/08-28/10686102.shtml",
@@ -345,76 +366,52 @@
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 50,
       "tags": []
-    },
-    {
-      "id": "0fb2d8f0ac2a",
-      "title": "教材教辅到位 安全知识进校园 各地多举措护航开学季",
-      "url": "https://www.chinanews.com.cn/edu/2026/08-27/10685495.shtml",
-      "summary": "丰富多彩的暑假马上就要结束了，学校、家长和同学们做足准备，迎接新学期的到来",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-08-27T13:29:49.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "e257a145035c",
-      "title": "开学临近 多地开展校车安全检查、校舍改造工作",
-      "url": "https://www.chinanews.com.cn/edu/2026/08-27/10685075.shtml",
-      "summary": "秋季新学期临近，这几天，山东、江苏多地集中开展校车安全检查，校园校舍改造也加速推进，为开学做好准备",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-08-27T03:25:55.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
     }
   ],
   "财经": [
     {
-      "id": "fa58d2883872",
-      "title": "中国新能源车如何改变南非人的购车选择？",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-31/10686967.shtml",
+      "id": "d108bf93aa10",
+      "title": "7月份全国贸促系统优惠原产地证书签证金额同比增长24.77%",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-31/10687147.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-30T22:22:10.000Z",
+      "published": "2026-08-31T03:51:33.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "65c0c05a96c7",
-      "title": "河北工业企业兴起直播热 产品“云上”销全球",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-30/10686947.shtml",
+      "id": "e4f7bc2c59fd",
+      "title": "沪市半年报披露收官 近八成公司实现盈利",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-31/10687142.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-30T13:41:29.000Z",
+      "published": "2026-08-31T03:51:21.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "f79efce9dba7",
-      "title": "巨头们集体来中国练级，然后去全球“降维打击”",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-30/10686943.shtml",
+      "id": "e95813636043",
+      "title": "新疆克拉玛依市第二届人工智能应用大赛决赛举行",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-31/10687141.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-30T13:15:02.000Z",
+      "published": "2026-08-31T03:50:05.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "23903d2d7dc2",
-      "title": "北纬53度结出“金豆子” 塔河县寒地大豆育种实现新突破",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-30/10686937.shtml",
+      "id": "58ca964733ed",
+      "title": "第十九届欧洽会将于10月在成都举办",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-31/10687146.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-30T13:03:39.000Z",
+      "published": "2026-08-31T03:49:53.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "97a369de8670",
-      "title": "陕西省2026职业技能大赛榆林开幕",
-      "url": "https://www.chinanews.com.cn/cj/2026/08-30/10686922.shtml",
+      "id": "6a15eaaa5d25",
+      "title": "四川大渡河双江口水电站第三台机组投产发电 预计年底实现全容量并网发电",
+      "url": "https://www.chinanews.com.cn/cj/2026/08-31/10687128.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-08-30T12:46:00.000Z",
+      "published": "2026-08-31T03:45:18.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
