@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T20:39:54.489Z",
+  "updated": "2026-09-01T23:07:01.075Z",
   "count": 122,
   "sources": {
     "V2EX": 4,
@@ -80,6 +80,32 @@
       "url": "https://www.v2ex.com/t/1238523",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "remoteok-1137247",
+      "title": "Produce Clerk",
+      "company": "Food Basics",
+      "location": "Waterloo,",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "sys admin",
+        "customer support",
+        "education",
+        "exec",
+        "sales",
+        "golang",
+        "recruiter",
+        "full time"
+      ],
+      "category": "sys admin",
+      "postedDate": "2026-08-31",
+      "url": "https://remoteOK.com/remote-jobs/remote-produce-clerk-food-basics-1137247",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137241",
@@ -2508,23 +2534,6 @@
       "category": "exec",
       "postedDate": "2026-08-24",
       "url": "https://remoteOK.com/remote-jobs/remote-bell-captain-four-seasons-1137107",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137100",
-      "title": "Store person",
-      "company": "Krannich Solar Australia",
-      "location": "Brendale,",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [],
-      "category": "Software",
-      "postedDate": "2026-08-24",
-      "url": "https://remoteOK.com/remote-jobs/remote-store-person-krannich-solar-australia-1137100",
       "source": "RemoteOK",
       "region": "foreign"
     },
