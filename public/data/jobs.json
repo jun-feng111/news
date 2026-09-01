@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T22:34:27.878Z",
+  "updated": "2026-09-01T01:42:56.079Z",
   "count": 121,
   "sources": {
     "V2EX": 2,
@@ -44,6 +44,52 @@
       "url": "https://www.v2ex.com/t/1238158",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "remoteok-1137228",
+      "title": "Commercial Building Estimator",
+      "company": "Complex Co.",
+      "location": "Canberra,",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "technical",
+        "customer support",
+        "microsoft",
+        "exec",
+        "junior",
+        "excel",
+        "recruiter"
+      ],
+      "category": "technical",
+      "postedDate": "2026-08-31",
+      "url": "https://remoteOK.com/remote-jobs/remote-commercial-building-estimator-complex-co-1137228",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1137226",
+      "title": "ENTERPRISE ARCHITECT L0",
+      "company": "Wipro",
+      "location": "Chennai,",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "architecture",
+        "design",
+        "digital nomad"
+      ],
+      "category": "architecture",
+      "postedDate": "2026-08-31",
+      "url": "https://remoteOK.com/remote-jobs/remote-enterprise-architect-l0-wipro-1137226",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137224",
@@ -2465,57 +2511,6 @@
       "category": "full stack",
       "postedDate": "2026-08-22",
       "url": "https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137061",
-      "title": "Senior Governance Risk and Compliance Analyst",
-      "company": "RainFocus",
-      "location": "Orem, UT",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "analyst",
-        "design",
-        "saas",
-        "infosec",
-        "education",
-        "technical",
-        "dev",
-        "cloud",
-        "exec",
-        "senior",
-        "ops",
-        "marketing"
-      ],
-      "category": "analyst",
-      "postedDate": "2026-08-22",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-governance-risk-and-compliance-analyst-rainfocus-1137061",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137065",
-      "title": "CDP",
-      "company": "East Coast Concepts",
-      "location": "Newcastle Upon Tyne,",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "finance",
-        "medical",
-        "non tech"
-      ],
-      "category": "finance",
-      "postedDate": "2026-08-22",
-      "url": "https://remoteOK.com/remote-jobs/remote-cdp-east-coast-concepts-1137065",
       "source": "RemoteOK",
       "region": "foreign"
     },
