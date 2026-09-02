@@ -1,26 +1,64 @@
 {
-  "科技": [
+  "AI": [
     {
-      "id": "965a224d26e8",
-      "title": "X says attackers are targeting user accounts after the launch of X Money",
-      "url": "https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/",
-      "summary": "X says attackers are targeting user accounts after the launch of X Money",
+      "id": "4799c2fe4d23",
+      "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
+      "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
+      "summary": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
       "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-01T20:48:32.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/11/X-and-Threads-GettyImages-1763609384.jpeg?resize=1200,832",
+      "category": "AI",
+      "published": "2026-09-02T12:09:42.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/tim-cook-sam-altman-GettyImages-2233062347.jpg?w=1024",
+      "score": 80,
+      "tags": []
+    },
+    {
+      "id": "e584f4b64ca5",
+      "title": "Adobe is making its tools available in Slack",
+      "url": "https://techcrunch.com/2026/09/02/adobe-is-making-its-tools-available-in-slack/",
+      "summary": "Adobe is making its tools available in Slack",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-02T13:09:27.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Adobe-For-Slack_1.jpg?resize=1200,526",
       "score": 75,
       "tags": []
     },
     {
-      "id": "0b975c1752d0",
-      "title": "Anthropic&#8217;s new Fable release is cheaper, less restrictive",
-      "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
-      "summary": "Anthropic&#8217;s new Fable release is cheaper, less restrictive",
+      "id": "be7c65afeb75",
+      "title": "OpenAI&#8217;s Astra model is on the way — and very good at breaking into computer systems",
+      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "summary": "OpenAI&#8217;s Astra model is on the way — and very good at breaking into computer systems",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-01T21:06:24.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+      "score": 65,
+      "tags": []
+    }
+  ],
+  "科技": [
+    {
+      "id": "660349341cc2",
+      "title": "Norway considers ban on camera-enabled wearable &#8216;pervert glasses&#8217;",
+      "url": "https://techcrunch.com/2026/09/02/norway-considers-ban-on-camera-enabled-wearable-pervert-glasses/",
+      "summary": "Norway considers ban on camera-enabled wearable &#8216;pervert glasses&#8217;",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-09-01T19:39:22.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024",
+      "published": "2026-09-02T13:11:47.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/zuck-glasses-2173579471-e1788354102893.jpg?resize=1200,761",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "229b585082ef",
+      "title": "Uber is laying off 10% of staff, or 3,300 people",
+      "url": "https://techcrunch.com/2026/09/02/uber-is-laying-off-10-of-staff-or-3300-people/",
+      "summary": "Uber is laying off 10% of staff, or 3,300 people",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-02T12:14:35.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2211281388.jpg?resize=1200,800",
       "score": 75,
       "tags": []
     },
@@ -58,20 +96,6 @@
       "published": "2026-09-01T22:13:34.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/apple-maps-lake-america.png?w=1108",
       "score": 70,
-      "tags": []
-    }
-  ],
-  "AI": [
-    {
-      "id": "be7c65afeb75",
-      "title": "OpenAI&#8217;s Astra model is on the way — and very good at breaking into computer systems",
-      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-      "summary": "OpenAI&#8217;s Astra model is on the way — and very good at breaking into computer systems",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-09-01T21:06:24.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-      "score": 65,
       "tags": []
     }
   ],
@@ -113,41 +137,153 @@
       "tags": []
     },
     {
-      "id": "532d1718bc17",
+      "id": "b1dcc0068712",
       "title": "智联招聘：上半年成都AI行业招聘增速达到16.5%",
-      "url": "https://view.inews.qq.com/a/20260829A0COUW00",
+      "url": "https://www.sohu.com/a/1069398905_116237",
       "summary": "近日，由北京大学国家发展研究院（下称“北大国发院”）与智联招聘联合主办的北大国发院成都论坛暨818HR节主题论坛在成都举行。论坛以“经济重塑与AI革命双重挑战下的组织与个体”为主题，汇集学界专家与企业",
       "source": "Bing·智联招聘",
       "category": "就业",
       "published": "2026-08-29T15:52:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/O2SsX4fxK3OeLrfD8rFwnRD7-Zind3h2eqKGSMm6HLm3UAA_640330/0",
+      "image": "https://q2.itc.cn/q_70/images03/20260829/80407dcc27f34b248ddfa5f6be754e23.jpeg",
       "score": 60,
       "tags": []
     },
     {
-      "id": "c0be05ffc2c3",
-      "title": "AI 3D 大模型公司 Tripo 3D 招一位偏基建的增长工程师",
-      "url": "https://www.v2ex.com/t/1238289#reply6",
-      "summary": "AI 3D 大模型公司 Tripo 3D 招一位偏基建的增长工程师",
-      "source": "V2EX·招聘",
+      "id": "bd717db71b82",
+      "title": "从匹配到交付，BOSS直聘AI招聘打开增长空间",
+      "url": "https://finance.sina.com.cn/stock/t/2026-08-27/doc-inipucsr5314633.shtml",
+      "summary": "雷达财经讯 8月25日，BOSS直聘发布2026年第二季度财报，营收23。99亿元，同比增长14",
+      "source": "Bing·BOSS直聘",
       "category": "就业",
-      "published": "2026-08-31T01:50:16.000Z",
-      "image": "https://cdn.v2ex.com/avatar/754c/42a2/336975_xlarge.png?m=1786470731",
+      "published": "2026-08-27T12:13:00.000Z",
+      "image": "//n.sinaimg.cn/spider20260827/300/w660h440/20260827/6064-fe5cc804160ab68706c07bc8d9d830e0.jpg",
       "score": 60,
+      "tags": []
+    }
+  ],
+  "开发": [
+    {
+      "id": "25c5720f9d76",
+      "title": "科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制",
+      "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html",
+      "summary": "这里记录每周值得分享的科技内容，周五发布",
+      "source": "阮一峰",
+      "category": "开发",
+      "published": "2026-08-27T23:56:43.000Z",
+      "image": "",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "c766ad416fc0",
+      "title": "当 AI 开始重写负载，数据库该如何重新设计？",
+      "url": "https://www.infoq.cn/article/rhKVS8RAdp4aVPZD0vZu?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-02T18:07:15.000Z",
+      "image": "https://static001.infoq.cn/resource/image/db/7e/dbyycedf391b2db23805ea437f069a7e.jpg"
+    },
+    {
+      "id": "22aa51c8ef61",
+      "title": "Java 近期新闻：JDK 27-RC1、OpenJDK JEPs、Jakarta EE、BellSoft、Helidon、Micrometer、Tika 4.0",
+      "url": "https://www.infoq.cn/article/el0IBcWagf1hxccJYUUP?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-02T16:06:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/7d/be/7dbef6f13df43d880dcfd23d0cf08cbe.jpg"
+    },
+    {
+      "id": "d3124a2be7d6",
+      "title": "优化平台工程规模，构建组织真正需要的平台",
+      "url": "https://www.infoq.cn/article/PybEXW1fiP1O5vfteYdL?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-02T14:22:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/72/0d/7240b43af4689cde6a9142ef5c53530d.jpg"
+    },
+    {
+      "id": "d9ecc8a409ab",
+      "title": "倒计时21天！GOAI进入决赛月，120强全力冲刺",
+      "url": "https://www.infoq.cn/article/JSgkNf4EBVRL6HPP8D1u?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-02T14:21:17.000Z",
+      "image": "https://static001.infoq.cn/resource/image/38/99/380cc188f3cea9086936ca1d85fb6d99.jpg"
+    }
+  ],
+  "政策": [
+    {
+      "id": "148659117e79",
+      "title": "重庆OPC政策赋能 “大创慧谷”园区企业轻创园发布v4.0方案",
+      "url": "http://www.cq.xinhuanet.com/20260811/a500570295e447fab690118162269b06/c.html",
+      "summary": "活动当天，轻创园正式发布“OPC社区建设方案（v4。聚焦跨境电商、AI短视频、AI设计、AI程序开发四大核心赛道，以自研数字化系统为支撑，打造“实体空间+系统赋能+产业孵化+联营共生”的新型数字创业生",
+      "source": "就业创业政策",
+      "category": "政策",
+      "published": "2026-08-11T11:03:00.000Z",
+      "image": "http://www.news.cn/detail2020/images/ewm.png",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "ed0822808f9b",
+      "title": "温州发布专项政策指南 为残疾人大学生就业创业“撑腰”",
+      "url": "https://news.66wz.com/system/2026/07/16/105805829.shtml",
+      "summary": "市人社局与市残联携手对现行最实用、最优惠的就创业补贴政策进行全面梳理，并形成《温州市残疾人大学生就业创业政策指南》，助力这一特殊群体跨越障碍，实现更加充分、更高质量的就业和创业。 温州网讯 为支持更多",
+      "source": "就业创业政策",
+      "category": "政策",
+      "published": "2026-07-16T01:51:00.000Z",
+      "image": "https://news.66wz.com/pic/003/013/337/00301333742_93765919.gif",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "7530315d4a43",
+      "title": "@丹东企业、高校毕业生、就业困难人员……2026版补贴政策请查收",
+      "url": "https://news.qq.com/rain/a/20260815A06VPO00",
+      "summary": "近日，丹东市人力资源和社会保障局发布《丹东市就业创业政策清单（2026版）》，集中梳理了当前全市就业创业领域的重点扶持政策，方便企业和市民“对号入座”、应享尽享。清单分为“企业类”和“个人类”两大板块",
+      "source": "就业创业政策",
+      "category": "政策",
+      "published": "2026-08-15T05:41:00.000Z",
+      "image": "http://inews.gtimg.com/newsapp_ls/0/192333742_200200/0",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "5d775b24f47a",
+      "title": "政策、指导、岗位一站搞定，中山小榄为应届毕业生送上就业“大 ...",
+      "url": "https://www.sohu.com/a/1068272554_100116740",
+      "summary": "8月26日下午，“菊城乐业&#183;职等你来”小榄镇2026届高校毕业生就业服务专场在小榄镇工人文化宫举行。活动由中山市人力资源和社会保障局小榄分局主办、深圳市一览网络股份有限公司承办，聚焦2026",
+      "source": "Bing·高校毕业生就业创业政策",
+      "category": "政策",
+      "published": "2026-08-27T05:46:00.000Z",
+      "image": "https://q9.itc.cn/q_70/images03/20260827/85ca9c7e663649b3a159e38f0c305b8f.jpeg",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "a679728bb6b3",
+      "title": "大学生创业补贴，何以成了中介的“唐僧肉”?",
+      "url": "https://www.msn.cn/zh-cn/news/other/大学生创业补贴-何以成了中介的-唐僧肉/ar-AA2bf2UN",
+      "summary": "崔绍透露，还有一部分大学生抱着“占便宜”的侥幸心理，本身并没有创业意愿，为了“蹭补贴”与中介签约。崔绍举例，有的中介要求大学生在补贴申请前预付3000元服务费，若申请成功，再按约定支付尾款——获得资助",
+      "source": "Bing·大学生创业扶持政策",
+      "category": "政策",
+      "published": "2026-08-30T17:48:01.000Z",
+      "image": "",
+      "score": 50,
       "tags": []
     }
   ],
   "社会": [
     {
-      "id": "774dcaaa4f6c",
-      "title": "AI相关专业密集“上新”，职业教育迎来哪些“变量”？",
-      "url": "https://www.chinanews.com.cn/edu/2026/08-30/10686768.shtml",
-      "summary": "近日，教育部公布2026年《职业教育专业目录》增补结果。值得注意的是，27个新专业中有多个AI相关专业，包括具身智能计算技术、人形机器人工程技术、商业人工智能应用、智能体通信技术等",
+      "id": "4202b45d11d6",
+      "title": "【开学季】德育“童”行：师生共创护苗剧场，携手共筑成长防线",
+      "url": "https://www.chinanews.com.cn/edu/2026/08-31/10687324.shtml",
+      "summary": "视频：【开学季】德育“童”行：师生共创护苗剧场，携手共筑成长防线来源：光明网",
       "source": "中新网教育",
       "category": "社会",
-      "published": "2026-08-30T05:22:32.000Z",
+      "published": "2026-08-31T09:04:21.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 60,
+      "score": 50,
       "tags": []
     },
     {
@@ -199,162 +335,50 @@
       "tags": []
     }
   ],
-  "开发": [
-    {
-      "id": "25c5720f9d76",
-      "title": "科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制",
-      "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html",
-      "summary": "这里记录每周值得分享的科技内容，周五发布",
-      "source": "阮一峰",
-      "category": "开发",
-      "published": "2026-08-27T23:56:43.000Z",
-      "image": "",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "22aa51c8ef61",
-      "title": "Java 近期新闻：JDK 27-RC1、OpenJDK JEPs、Jakarta EE、BellSoft、Helidon、Micrometer、Tika 4.0",
-      "url": "https://www.infoq.cn/article/el0IBcWagf1hxccJYUUP?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-02T16:06:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/7d/be/7dbef6f13df43d880dcfd23d0cf08cbe.jpg"
-    },
-    {
-      "id": "d3124a2be7d6",
-      "title": "优化平台工程规模，构建组织真正需要的平台",
-      "url": "https://www.infoq.cn/article/PybEXW1fiP1O5vfteYdL?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-02T14:22:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/72/0d/7240b43af4689cde6a9142ef5c53530d.jpg"
-    },
-    {
-      "id": "d9ecc8a409ab",
-      "title": "倒计时21天！GOAI进入决赛月，120强全力冲刺",
-      "url": "https://www.infoq.cn/article/JSgkNf4EBVRL6HPP8D1u?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-02T14:21:17.000Z",
-      "image": "https://static001.infoq.cn/resource/image/38/99/380cc188f3cea9086936ca1d85fb6d99.jpg"
-    },
-    {
-      "id": "7f0ef3108b78",
-      "title": "Cloudflare OS：Cloudflare 基于能力模型构建的开源企业级 AI 平台",
-      "url": "https://www.infoq.cn/article/ztbou1CqjAdzrT6GNSKV?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-02T13:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/b0/87/b023ff1f18f676e76570bdee9e830087.jpg"
-    }
-  ],
-  "政策": [
-    {
-      "id": "148659117e79",
-      "title": "重庆OPC政策赋能 “大创慧谷”园区企业轻创园发布v4.0方案",
-      "url": "http://www.cq.xinhuanet.com/20260811/a500570295e447fab690118162269b06/c.html",
-      "summary": "活动当天，轻创园正式发布“OPC社区建设方案（v4。聚焦跨境电商、AI短视频、AI设计、AI程序开发四大核心赛道，以自研数字化系统为支撑，打造“实体空间+系统赋能+产业孵化+联营共生”的新型数字创业生",
-      "source": "就业创业政策",
-      "category": "政策",
-      "published": "2026-08-11T11:03:00.000Z",
-      "image": "http://www.news.cn/detail2020/images/ewm.png",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "81334988a399",
-      "title": "黑龙江省出台10条政策措施 支持创业带动就业",
-      "url": "https://www.sohu.com/a/1064437903_362042",
-      "summary": "央广网哈尔滨8月18日消息（记者许诺）2026年以来，黑龙江省将创业带动就业工作列入2026年省政府工作报告重点任务，纳入新时代“幸福龙江”建设20件民生实事。在8月18日召开的黑龙江省以创业带动就业",
-      "source": "就业创业政策",
-      "category": "政策",
-      "published": "2026-08-18T09:49:00.000Z",
-      "image": "//q3.itc.cn/q_70/images03/20260818/350b2e83e67e45cb90a404a711ec7090.jpeg",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "7530315d4a43",
-      "title": "@丹东企业、高校毕业生、就业困难人员……2026版补贴政策请查收",
-      "url": "https://news.qq.com/rain/a/20260815A06VPO00",
-      "summary": "近日，丹东市人力资源和社会保障局发布《丹东市就业创业政策清单（2026版）》，集中梳理了当前全市就业创业领域的重点扶持政策，方便企业和市民“对号入座”、应享尽享。清单分为“企业类”和“个人类”两大板块",
-      "source": "就业创业政策",
-      "category": "政策",
-      "published": "2026-08-15T05:41:00.000Z",
-      "image": "http://inews.gtimg.com/newsapp_ls/0/192333742_200200/0",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "ed0822808f9b",
-      "title": "温州发布专项政策指南 为残疾人大学生就业创业“撑腰”",
-      "url": "https://news.66wz.com/system/2026/07/16/105805829.shtml",
-      "summary": "市人社局与市残联携手对现行最实用、最优惠的就创业补贴政策进行全面梳理，并形成《温州市残疾人大学生就业创业政策指南》，助力这一特殊群体跨越障碍，实现更加充分、更高质量的就业和创业。 温州网讯 为支持更多",
-      "source": "就业创业政策",
-      "category": "政策",
-      "published": "2026-07-16T01:51:00.000Z",
-      "image": "https://news.66wz.com/pic/003/013/337/00301333742_93765919.gif",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "5d775b24f47a",
-      "title": "政策、指导、岗位一站搞定，中山小榄为应届毕业生送上就业“大 ...",
-      "url": "https://www.sohu.com/a/1068272554_100116740",
-      "summary": "8月26日下午，“菊城乐业&#183;职等你来”小榄镇2026届高校毕业生就业服务专场在小榄镇工人文化宫举行。活动由中山市人力资源和社会保障局小榄分局主办、深圳市一览网络股份有限公司承办，聚焦2026",
-      "source": "Bing·高校毕业生就业创业政策",
-      "category": "政策",
-      "published": "2026-08-27T05:46:00.000Z",
-      "image": "https://q9.itc.cn/q_70/images03/20260827/85ca9c7e663649b3a159e38f0c305b8f.jpeg",
-      "score": 50,
-      "tags": []
-    }
-  ],
   "财经": [
     {
-      "id": "19547f253a84",
-      "title": "开局起步“十五五”：三亚以更高水平开放赋能高质量发展",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-02/10688813.shtml",
+      "id": "b40c253e3963",
+      "title": "青海柴达木枸杞鲜果销量突破1万吨",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-02/10689054.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-02T08:16:33.000Z",
+      "published": "2026-09-02T13:08:15.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "6013a98ff6bb",
-      "title": "新款未出二手已涨价 手机涨价会成为新常态吗？",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-02/10688816.shtml",
+      "id": "702638b5559e",
+      "title": "开局起步“十五五”：让洋浦港成为链接全球、辐射内陆的航运枢纽",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-02/10689048.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-02T08:16:25.000Z",
+      "published": "2026-09-02T13:02:03.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "41144533a628",
-      "title": "再添全铁直达新线 成都中亚班列激活运贸产融合新动能",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-02/10688796.shtml",
+      "id": "40fd88d836ae",
+      "title": "海南打造旅游诚信消费环境 提升游客安全感与获得感",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-02/10689041.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-02T08:15:37.000Z",
+      "published": "2026-09-02T12:55:18.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "c4582f334857",
-      "title": "埃及水果香飘中国、国产汽车“扬帆出海” 中埃好物双向奔赴",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-02/10688802.shtml",
+      "id": "7de2eb6e88ac",
+      "title": "区块链产业应用竞赛在沪启动  沪滇队伍将同台角逐",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-02/10689038.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-02T08:05:18.000Z",
+      "published": "2026-09-02T12:54:12.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "7136bedd746e",
-      "title": "（乡村行·看振兴）山西屯留：千亩果园硕果飘香 “采摘经济”点亮乡村振兴丰收图景",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-02/10688774.shtml",
+      "id": "cd3a19cb3dc7",
+      "title": "一河贯通铺就“向海路”  平陆运河起点企业抢抓机遇谋出海",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-02/10689033.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-02T07:51:17.000Z",
+      "published": "2026-09-02T12:52:10.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
