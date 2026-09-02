@@ -1,27 +1,15 @@
 {
   "科技": [
     {
-      "id": "965a224d26e8",
-      "title": "X says attackers are targeting user accounts after the launch of X Money",
-      "url": "https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/",
-      "summary": "X says attackers are targeting user accounts after the launch of X Money",
+      "id": "d25f7eface84",
+      "title": "Larry Page&#8217;s flying car company Pivotal loses its CEO",
+      "url": "https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/",
+      "summary": "Larry Page&#8217;s flying car company Pivotal loses its CEO",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-09-01T20:48:32.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/11/X-and-Threads-GettyImages-1763609384.jpeg?resize=1200,832",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "0b975c1752d0",
-      "title": "Anthropic&#8217;s new Fable release is cheaper, less restrictive",
-      "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
-      "summary": "Anthropic&#8217;s new Fable release is cheaper, less restrictive",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-01T19:39:22.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024",
-      "score": 80,
+      "published": "2026-09-01T23:59:59.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/pivotal-helix.jpg?resize=1200,633",
+      "score": 75,
       "tags": []
     },
     {
@@ -49,14 +37,26 @@
       "tags": []
     },
     {
-      "id": "62b6270ed2a9",
-      "title": "Google&#8217;s Android update tackles motion sickness, accessibility, and more",
-      "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
-      "summary": "Google&#8217;s Android update tackles motion sickness, accessibility, and more",
+      "id": "965a224d26e8",
+      "title": "X says attackers are targeting user accounts after the launch of X Money",
+      "url": "https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/",
+      "summary": "X says attackers are targeting user accounts after the launch of X Money",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-09-01T20:53:05.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/MotionAssist-Google.png?w=1200",
+      "published": "2026-09-01T20:48:32.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/11/X-and-Threads-GettyImages-1763609384.jpeg?resize=1200,832",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "0b975c1752d0",
+      "title": "Anthropic&#8217;s new Fable release is cheaper, less restrictive",
+      "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+      "summary": "Anthropic&#8217;s new Fable release is cheaper, less restrictive",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-01T19:39:22.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024",
       "score": 75,
       "tags": []
     }
@@ -64,14 +64,14 @@
   "AI": [
     {
       "id": "be7c65afeb75",
-      "title": "Open AI&#8217;s Astra model is on the way — and very good at breaking into computer systems",
+      "title": "OpenAI&#8217;s Astra model is on the way — and very good at breaking into computer systems",
       "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-      "summary": "Open AI&#8217;s Astra model is on the way — and very good at breaking into computer systems",
+      "summary": "OpenAI&#8217;s Astra model is on the way — and very good at breaking into computer systems",
       "source": "TechCrunch",
       "category": "AI",
       "published": "2026-09-01T21:06:24.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-      "score": 70,
+      "score": 65,
       "tags": []
     }
   ],
@@ -163,6 +163,30 @@
       "tags": []
     },
     {
+      "id": "ee41ce3efcbf",
+      "title": "多地立法禁止学生带手机入校 专家建议采取“疏堵结合”策略",
+      "url": "https://www.chinanews.com.cn/edu/2026/08-31/10687094.shtml",
+      "summary": "明天起，《重庆市预防未成年人犯罪条例》将正式施行，其中明确，学校可以禁止学生携带手机等智能终端产品进入学校或在校园内使用，严控学生校园用网行为。其实不仅是重庆，此前福建、广东、河南等多地也通过地方立法",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-08-31T03:11:49.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "67060dcf4a04",
+      "title": "教育部等七部门启动实施特殊教育发展提升“十五五”行动计划",
+      "url": "https://www.chinanews.com.cn/edu/2026/08-31/10687088.shtml",
+      "summary": "中新网8月31日电 据“微言教育”微信公众号消息，近日，教育部等七部门启动实施特殊教育发展提升“十五五”行动计划，对“十五五”时期推进特殊教育优质融合发展作出部署",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-08-31T03:04:00.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
+    },
+    {
       "id": "e2dcbeac0139",
       "title": "沪港协同创新再深化 香港大学张江基地二期正式启用",
       "url": "https://www.chinanews.com.cn/edu/2026/08-30/10686954.shtml",
@@ -170,30 +194,6 @@
       "source": "中新网教育",
       "category": "社会",
       "published": "2026-08-30T14:25:48.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "8f75bc75e799",
-      "title": "当职业教育进入“智能时代” 浙江如何重塑技能人才？",
-      "url": "https://www.chinanews.com.cn/edu/2026/08-30/10686933.shtml",
-      "summary": "中新网杭州8月30日电 题：当职业教育进入“智能时代” 浙江如何重塑技能人才",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-08-30T13:01:21.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "a56cde349b80",
-      "title": "最新调整！又一地宣布生物地理不计入中考总分",
-      "url": "https://www.chinanews.com.cn/edu/2026/08-30/10686895.shtml",
-      "summary": "据辽宁省教育厅8月28日消息，为优化考试评价，减轻学生课业负担，经调研论证，决定对中考部分事项进行调整",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-08-30T11:23:03.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 50,
       "tags": []
@@ -213,39 +213,39 @@
       "tags": []
     },
     {
+      "id": "9c18884c7914",
+      "title": "Claude越狱后，Anthropic停掉训练、150人紧急转岗",
+      "url": "https://www.infoq.cn/article/EPME6yOoJGusHdGZTGFJ?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-02T09:42:36.000Z",
+      "image": "https://static001.infoq.cn/resource/image/cd/0e/cd768a8ce4ede5bd3301b242a7b6610e.png"
+    },
+    {
+      "id": "96e637dd5596",
+      "title": "如何让数据库更容易暴露 Bug？",
+      "url": "https://www.infoq.cn/video/O8p3IB5iTYxpJ4OKgOQ2?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-02T09:30:00.000Z",
+      "image": "https://static001.geekbang.org/static/infoq/img/infoq_icon.jpg"
+    },
+    {
+      "id": "08c2a2d9da4e",
+      "title": "随着 AI 内存需求推高非 AI 基础设施价格，OVHcloud 将上调服务价格",
+      "url": "https://www.infoq.cn/article/A1CMWgYYvtE64N1s3EHv?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-02T09:10:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/4c/80/4cb05b740f64a247b0201e2379ec5b80.jpg"
+    },
+    {
       "id": "1f2c40bab669",
       "title": "云原生弹性的能力，迁移成为 Agent 时代的数据基座能力之一？",
       "url": "https://www.infoq.cn/video/QflJXpVJK5DqeoOgsY3D?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
       "published": "2026-09-01T21:24:38.000Z",
-      "image": "https://static001.geekbang.org/static/infoq/img/infoq_icon.jpg"
-    },
-    {
-      "id": "63b202a6cc20",
-      "title": "OpenClaw 迎来史上最大更新：933 名贡献者、超 1.6万次 PR 提交！打开浏览器就能用",
-      "url": "https://www.infoq.cn/article/9RS84kmpRvz4IqRUbNoe?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-01T20:03:28.000Z",
-      "image": "https://static001.infoq.cn/resource/image/a5/82/a565552a772848de88f448be6b241882.png"
-    },
-    {
-      "id": "ef0c7493f9bd",
-      "title": "3名开发者做出来的副业项目，半年冲进 4万人！亚马逊云科技把内部 Agent 工作台开源了",
-      "url": "https://www.infoq.cn/article/Um4rVTweSFXAiwdGLFVB?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-01T19:57:24.000Z",
-      "image": "https://static001.infoq.cn/resource/image/3e/a6/3e8049d108e6c6cf5a81a3efe68f46a6.jpg"
-    },
-    {
-      "id": "84b6439f76f4",
-      "title": "压缩不再只是归档：从直接计算到在线更新",
-      "url": "https://www.infoq.cn/video/SjoEujMNOJphYVSMtGCK?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-01T19:54:39.000Z",
       "image": "https://static001.geekbang.org/static/infoq/img/infoq_icon.jpg"
     }
   ],
@@ -260,18 +260,6 @@
       "published": "2026-08-11T11:03:00.000Z",
       "image": "http://www.news.cn/detail2020/images/ewm.png",
       "score": 60,
-      "tags": []
-    },
-    {
-      "id": "4087cd58ddcb",
-      "title": "陕西出了个新规：海归留学生也能享受就业见习补贴，这个信号很重要",
-      "url": "https://www.sohu.com/a/1069419634_139069",
-      "summary": "陕西省人社厅和财政厅联合发布了《就业见习管理办法》，里面有一条：经教育部门学历学位认证且符合条件的海外高校留学回国人员、港澳台高校毕业生，同等享受就业见习政策。 简单说，这是政府搭的一个桥",
-      "source": "Bing·人社部就业创业政策",
-      "category": "政策",
-      "published": "2026-08-29T17:51:00.000Z",
-      "image": "//q9.itc.cn/q_70/images03/20260830/df26fbff9635433981190cc393ce9202.jpeg",
-      "score": 55,
       "tags": []
     },
     {
@@ -299,62 +287,74 @@
       "tags": []
     },
     {
-      "id": "5d775b24f47a",
-      "title": "政策、指导、岗位一站搞定，中山小榄为应届毕业生送上就业“大 ...",
-      "url": "https://www.sohu.com/a/1068272554_100116740",
-      "summary": "8月26日下午，“菊城乐业&#183;职等你来”小榄镇2026届高校毕业生就业服务专场在小榄镇工人文化宫举行。活动由中山市人力资源和社会保障局小榄分局主办、深圳市一览网络股份有限公司承办，聚焦2026",
-      "source": "Bing·高校毕业生就业创业政策",
+      "id": "a679728bb6b3",
+      "title": "大学生创业补贴，何以成了中介的“唐僧肉”?",
+      "url": "https://www.msn.cn/zh-cn/news/other/大学生创业补贴-何以成了中介的-唐僧肉/ar-AA2bf2UN",
+      "summary": "崔绍透露，还有一部分大学生抱着“占便宜”的侥幸心理，本身并没有创业意愿，为了“蹭补贴”与中介签约。崔绍举例，有的中介要求大学生在补贴申请前预付3000元服务费，若申请成功，再按约定支付尾款——获得资助",
+      "source": "Bing·大学生创业扶持政策",
       "category": "政策",
-      "published": "2026-08-27T05:46:00.000Z",
-      "image": "https://q9.itc.cn/q_70/images03/20260827/85ca9c7e663649b3a159e38f0c305b8f.jpeg",
+      "published": "2026-08-30T17:48:01.000Z",
+      "image": "",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "c6e1eae07e31",
+      "title": "大创动态 | 青春启航，梦想落地——走进北京市大学生创业板孵化 ...",
+      "url": "https://www.sohu.com/a/1067946725_121123898",
+      "summary": "在北京昌平的沙河高教园区，一座专为青年创业者打造的孵化基地正在悄然改变着大学生创业的生态。这里不仅有免费的办公空间，更有从注册到上市的完整培育体系——这里就是北京市大学生创业板孵化培育示范基地",
+      "source": "Bing·大学生创业扶持政策",
+      "category": "政策",
+      "published": "2026-08-26T11:42:00.000Z",
+      "image": "https://q4.itc.cn/q_70/images03/20260826/476757c4c6e84c339ec4752cce42c42f.png",
       "score": 50,
       "tags": []
     }
   ],
   "财经": [
     {
-      "id": "eae589e9535f",
-      "title": "暑运期间中国民航累计运送旅客超1.5亿人次",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-01/10688337.shtml",
+      "id": "c6a60928337d",
+      "title": "防范挤压夹伤风险 家用儿童学习桌椅国家标准发布",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-02/10688515.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-01T15:22:49.000Z",
+      "published": "2026-09-02T02:45:48.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "49a55907b5dc",
-      "title": "面对面心贴心 浙江市场监管部门倾听多元主体发展诉求",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-01/10688322.shtml",
+      "id": "f0464e0c0886",
+      "title": "数智赋能黔山田：从“云端”算力到“田间”丰收",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-02/10688475.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-01T14:40:34.000Z",
+      "published": "2026-09-02T02:05:40.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "a73ce4ee1a8d",
-      "title": "听企声解民忧 浙江启动2026年市场监管服务月活动",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-01/10688323.shtml",
+      "id": "ea959885456c",
+      "title": "A股开盘：超4300只个股飘绿，三大指数集体低开",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-02/10688442.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-01T14:40:14.000Z",
+      "published": "2026-09-02T01:45:34.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "28a900435e8d",
-      "title": "APEC嘉宾参访广州 中国人工智能产品受青睐",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-01/10688315.shtml",
+      "id": "09472a27c47e",
+      "title": "央行9月2日7天期逆回购操作量为零",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-02/10688431.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-01T14:38:26.000Z",
+      "published": "2026-09-02T01:37:44.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "4e95b6c17fd2",
-      "title": "开局起步“十五五”：海口发力现代服务业与开放型经济",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-01/10688314.shtml",
+      "id": "f26aca834c93",
+      "title": "9月2日人民币对美元中间价报6.7829 下调20个基点",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-02/10688420.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-01T14:36:14.000Z",
+      "published": "2026-09-02T01:23:05.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]

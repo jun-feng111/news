@@ -1,14 +1,33 @@
 {
-  "updated": "2026-09-01T23:07:01.075Z",
-  "count": 122,
+  "updated": "2026-09-02T03:10:42.127Z",
+  "count": 123,
   "sources": {
-    "V2EX": 4,
+    "V2EX": 5,
     "RemoteOK": 100,
     "Remotive": 18,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1238824",
+      "title": "招聘： 预测市场做市与对冲负责人 **Head of Market Making & Hedging**",
+      "company": "justinX",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "python"
+      ],
+      "category": "市场",
+      "postedDate": "2026-09-02",
+      "url": "https://www.v2ex.com/t/1238824",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1238796",
       "title": "北京，招 develops 工程师 和 Python 数据平台后端",
