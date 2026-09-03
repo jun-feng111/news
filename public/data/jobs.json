@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T16:13:57.951Z",
+  "updated": "2026-09-03T19:41:58.708Z",
   "count": 124,
   "sources": {
     "V2EX": 7,
@@ -139,6 +139,47 @@
       "url": "https://www.v2ex.com/t/1238984",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "remoteok-1137286",
+      "title": "Data Entry Clerk",
+      "company": "Astrek Careers",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "non tech",
+        "data entry",
+        "admin",
+        "ops"
+      ],
+      "category": "non tech",
+      "postedDate": "2026-09-02",
+      "url": "https://remoteOK.com/remote-jobs/remote-data-entry-clerk-astrek-careers-1137286",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1137293",
+      "title": "Grades Person",
+      "company": "Wilco Contractors Northwest Inc.",
+      "location": "Edmonton,",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "math"
+      ],
+      "category": "math",
+      "postedDate": "2026-09-02",
+      "url": "https://remoteOK.com/remote-jobs/remote-grades-person-wilco-contractors-northwest-inc-1137293",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137280",
@@ -2519,50 +2560,6 @@
       "category": "exec",
       "postedDate": "2026-08-26",
       "url": "https://remoteOK.com/remote-jobs/remote-team-manager-newtownards-extra-tesco-1137144",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137249",
-      "title": "Centre Cleaner",
-      "company": "Power FM Bega Bay",
-      "location": "Broulee,",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "full time"
-      ],
-      "category": "full time",
-      "postedDate": "2026-08-26",
-      "url": "https://remoteOK.com/remote-jobs/remote-centre-cleaner-power-fm-bega-bay-1137249",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137166",
-      "title": "General Interest Position",
-      "company": "Coogee Chemicals",
-      "location": "Kwinana Beach,",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "education",
-        "dev",
-        "marketing",
-        "finance",
-        "exec",
-        "ops",
-        "digital nomad"
-      ],
-      "category": "education",
-      "postedDate": "2026-08-26",
-      "url": "https://remoteOK.com/remote-jobs/remote-general-interest-position-coogee-chemicals-1137166",
       "source": "RemoteOK",
       "region": "foreign"
     },

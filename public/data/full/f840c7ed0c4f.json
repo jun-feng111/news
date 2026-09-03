@@ -1,0 +1,7 @@
+{
+  "id": "f840c7ed0c4f",
+  "title": "Nginx cookie登录认证插件 - Akvicor",
+  "url": "https://www.cnblogs.com/akvicor/p/22832429",
+  "contentZh": "",
+  "contentFull": "\n项目仓库: https://github.com/Akvicor/ngx_auth_cookie_module\n已编译源: https://deb.ksyaki.com/nginx/\n博客链接: https://www.ksyaki.com/archives/nginx-cookiedeng-lu-ren-zheng-cha-jian\n\n使用 htpasswd 文件校验用户名和密码。\n登录成功后签发 HMAC-SHA256 签名 Cookie。\n后续请求通过 Cookie 自动认证，无需服务端保存会话。\n支持会话过期、登出、自定义登录页面和登录跳转。\nCookie 与请求域名、用户文件及密码哈希绑定，修改密码后旧会话失效。\n提供 $auth_cookie_user 变量记录当前认证用户。\n支持在 server 或 location 级别启用认证。\n\n核心流程是：未认证请求跳转登录页，登录成功后设置 Cookie并返回原页面，后续验签通过即可访问。\n\n安装\n如果是使用的Debian系统，可以直接使用已经编译好的源通过apt安装\n配置\nserver {\n    listen 443 ssl;\n    server_name app.example.com;\n\n    auth_cookie_user_file /etc/nginx/htpasswd;\n    auth_cookie_page basic;\n\n    # auth_cookie_name auth_cookie;\n    # auth_cookie_secure on;\n    # auth_cookie_secret /etc/nginx/auth_cookie.secret;\n    # auth_cookie_session_ttl 12h;\n    # auth_cookie_title \"Restricted Content\";\n    # auth_cookie_login_uri /_login;\n    # auth_cookie_logout_uri /_logout;\n\n    location / {\n        proxy_pass http://127.0.0.1:3080;\n    }\n}\n\n\n\n"
+}
