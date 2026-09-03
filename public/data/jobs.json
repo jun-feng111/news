@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T01:07:57.695Z",
+  "updated": "2026-09-03T06:56:24.463Z",
   "count": 125,
   "sources": {
     "V2EX": 7,
@@ -9,6 +9,42 @@
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1239203",
+      "title": "杭州滨江急缺有原生安卓经验解决问题（对接汉印打印机）",
+      "company": "curryIsPupil",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [],
+      "category": "其他",
+      "postedDate": "2026-09-03",
+      "url": "https://www.v2ex.com/t/1239203",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1239198",
+      "title": "株式会社 GSD 诚聘英才|东京 IT 技术岗 + 大连/东京营业岗同步热招中！",
+      "company": "GSDgsd",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "java"
+      ],
+      "category": "其他",
+      "postedDate": "2026-09-03",
+      "url": "https://www.v2ex.com/t/1239198",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1239036",
       "title": "招聘熟悉 SillyTavern 酒馆的作品表现层设计工程师（设计/前端方向）",
@@ -108,38 +144,70 @@
       "region": "domestic"
     },
     {
-      "id": "v2ex-1238926",
-      "title": "现在前后端的岗位竞争激烈程度，丝毫不亚于公务员，可能有过之而无不及。",
-      "company": "wobuchiyu",
-      "location": "国内",
+      "id": "remoteok-1137268",
+      "title": "Amazon Specialist",
+      "company": "Volar Fashion",
+      "location": "Agra,",
       "remote": false,
       "salaryText": "",
       "salaryMin": null,
       "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [],
-      "category": "后端",
+      "salaryCurrency": "",
+      "skills": [
+        "amazon"
+      ],
+      "category": "amazon",
       "postedDate": "2026-09-02",
-      "url": "https://www.v2ex.com/t/1238926",
-      "source": "V2EX",
-      "region": "domestic"
+      "url": "https://remoteOK.com/remote-jobs/remote-amazon-specialist-volar-fashion-1137268",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
-      "id": "v2ex-1238914",
-      "title": "27 届校招。",
-      "company": "SoldierL",
-      "location": "拼多多集团-PDD 校园招聘",
+      "id": "remoteok-1137273",
+      "title": "Multi Skilled Maintenance Technician",
+      "company": "Sigma",
+      "location": "Newport,",
       "remote": false,
       "salaryText": "",
       "salaryMin": null,
       "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [],
-      "category": "人力/HR",
+      "salaryCurrency": "",
+      "skills": [
+        "infosec",
+        "education",
+        "customer support",
+        "exec",
+        "finance",
+        "medical",
+        "recruiter"
+      ],
+      "category": "infosec",
       "postedDate": "2026-09-02",
-      "url": "https://www.v2ex.com/t/1238914",
-      "source": "V2EX",
-      "region": "domestic"
+      "url": "https://remoteOK.com/remote-jobs/remote-multi-skilled-maintenance-technician-sigma-1137273",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1137272",
+      "title": "Chief Steward",
+      "company": "W Hotels",
+      "location": "Budapest,",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "infosec",
+        "education",
+        "customer support",
+        "exec"
+      ],
+      "category": "infosec",
+      "postedDate": "2026-09-02",
+      "url": "https://remoteOK.com/remote-jobs/remote-chief-steward-w-hotels-1137272",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137267",
@@ -160,6 +228,27 @@
       "category": "infosec",
       "postedDate": "2026-09-02",
       "url": "https://remoteOK.com/remote-jobs/remote-field-officer-bendigo-department-of-justice-and-community-safety-victoria-1137267",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1137292",
+      "title": "Mapping Test via Sandra",
+      "company": "Ennismore",
+      "location": "Singapore,",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "education",
+        "exec",
+        "testing"
+      ],
+      "category": "education",
+      "postedDate": "2026-09-01",
+      "url": "https://remoteOK.com/remote-jobs/remote-mapping-test-via-sandra-ennismore-1137292",
       "source": "RemoteOK",
       "region": "foreign"
     },
@@ -2470,58 +2559,6 @@
       "region": "foreign"
     },
     {
-      "id": "remoteok-1137154",
-      "title": "Earn more",
-      "company": "Nick Scali Limited",
-      "location": "Hobart,",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "technical",
-        "customer support",
-        "microsoft",
-        "exec",
-        "junior",
-        "excel",
-        "design",
-        "education",
-        "marketing",
-        "travel",
-        "ops",
-        "sales"
-      ],
-      "category": "technical",
-      "postedDate": "2026-08-26",
-      "url": "https://remoteOK.com/remote-jobs/remote-earn-more-nick-scali-limited-1137154",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137184",
-      "title": "Kitchen Porter",
-      "company": "Scotsman Hospitality",
-      "location": "Glasgow,",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "education",
-        "customer support",
-        "finance",
-        "non tech"
-      ],
-      "category": "education",
-      "postedDate": "2026-08-26",
-      "url": "https://remoteOK.com/remote-jobs/remote-kitchen-porter-scotsman-hospitality-1137184",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
       "id": "remotive-2091100",
       "title": "Senior QA Engineer",
       "company": "Lemon.io",
@@ -2549,59 +2586,6 @@
       "postedDate": "2026-08-26",
       "url": "https://remotive.com/remote-jobs/qa/senior-qa-engineer-2091100",
       "source": "Remotive",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137140",
-      "title": "Ramp Attendant",
-      "company": "Swissport",
-      "location": "Piarco,",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "education",
-        "customer support",
-        "marketing",
-        "math",
-        "exec",
-        "ops",
-        "medical"
-      ],
-      "category": "education",
-      "postedDate": "2026-08-25",
-      "url": "https://remoteOK.com/remote-jobs/remote-ramp-attendant-swissport-1137140",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137194",
-      "title": "Renewables Project Scheduler",
-      "company": "Transportation Partners &amp; Logistics",
-      "location": "Black Bess,",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "sys admin",
-        "technical",
-        "customer support",
-        "testing",
-        "travel",
-        "microsoft",
-        "exec",
-        "excel",
-        "stats",
-        "engineer"
-      ],
-      "category": "sys admin",
-      "postedDate": "2026-08-25",
-      "url": "https://remoteOK.com/remote-jobs/remote-renewables-project-scheduler-transportation-partners-amp-logistics-1137194",
-      "source": "RemoteOK",
       "region": "foreign"
     },
     {
