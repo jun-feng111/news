@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T19:41:58.708Z",
+  "updated": "2026-09-03T22:25:24.788Z",
   "count": 124,
   "sources": {
     "V2EX": 7,
@@ -139,6 +139,76 @@
       "url": "https://www.v2ex.com/t/1238984",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "remoteok-1137298",
+      "title": "Irrigation Technician",
+      "company": "MSC Cruises",
+      "location": "Rum Cay,",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "education",
+        "supervisor",
+        "legal",
+        "non tech",
+        "sys admin",
+        "exec",
+        "engineer"
+      ],
+      "category": "education",
+      "postedDate": "2026-09-02",
+      "url": "https://remoteOK.com/remote-jobs/remote-irrigation-technician-msc-cruises-1137298",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1137290",
+      "title": "Job Summary",
+      "company": "WorkaJobs",
+      "location": "Ø¯Ø¨Ù,",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "full time"
+      ],
+      "category": "full time",
+      "postedDate": "2026-09-02",
+      "url": "https://remoteOK.com/remote-jobs/remote-job-summary-workajobs-1137290",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1137289",
+      "title": "Driver",
+      "company": "St. George's University",
+      "location": "St. George's,",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "sys admin",
+        "teaching",
+        "supervisor",
+        "travel",
+        "exec",
+        "c",
+        "admin",
+        "medical"
+      ],
+      "category": "sys admin",
+      "postedDate": "2026-09-02",
+      "url": "https://remoteOK.com/remote-jobs/remote-driver-st-georges-university-1137289",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137286",
@@ -2495,71 +2565,6 @@
       "category": "design",
       "postedDate": "2026-08-26",
       "url": "https://remoteOK.com/remote-jobs/remote-education-designer-ux-ui-and-ai-interaction-design-foundation-1137138",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137136",
-      "title": "Course Writer and Editor UX UI and AI",
-      "company": "Interaction Design Foundation",
-      "location": "Remote",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "design",
-        "content writing"
-      ],
-      "category": "design",
-      "postedDate": "2026-08-26",
-      "url": "https://remoteOK.com/remote-jobs/remote-course-writer-and-editor-ux-ui-and-ai-interaction-design-foundation-1137136",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137285",
-      "title": "Motorista Salvador BA",
-      "company": "GrupoNewChase",
-      "location": "Salvador,",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "c",
-        "exec",
-        "excel"
-      ],
-      "category": "c",
-      "postedDate": "2026-08-26",
-      "url": "https://remoteOK.com/remote-jobs/remote-motorista-salvador-ba-gruponewchase-1137285",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137144",
-      "title": "Team Manager Newtownards Extra",
-      "company": "Tesco",
-      "location": "Newtownards,",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "exec",
-        "customer support",
-        "testing",
-        "finance",
-        "sales",
-        "recruiter"
-      ],
-      "category": "exec",
-      "postedDate": "2026-08-26",
-      "url": "https://remoteOK.com/remote-jobs/remote-team-manager-newtownards-extra-tesco-1137144",
       "source": "RemoteOK",
       "region": "foreign"
     },
