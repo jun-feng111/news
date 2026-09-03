@@ -1,14 +1,73 @@
 {
-  "updated": "2026-09-03T06:56:24.463Z",
-  "count": 125,
+  "updated": "2026-09-03T11:59:28.729Z",
+  "count": 124,
   "sources": {
     "V2EX": 7,
     "RemoteOK": 100,
-    "Remotive": 18,
+    "Remotive": 17,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1239229",
+      "title": "招聘： 1、资深前端工程师 or 前端小 Leader（需要一线做事）， 2、体验产品负责人， 3、BD/Senior BD/Lead BD。",
+      "company": "justinX",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "typescript",
+        "react",
+        "vue"
+      ],
+      "category": "前端",
+      "postedDate": "2026-09-03",
+      "url": "https://www.v2ex.com/t/1239229",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1239227",
+      "title": "FydeOS 燧炻创新 2026 实习岗位：系统工程师",
+      "company": "SharonPan",
+      "location": "北京/青岛",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "go",
+        "c++",
+        "linux"
+      ],
+      "category": "运维/SRE",
+      "postedDate": "2026-09-03",
+      "url": "https://www.v2ex.com/t/1239227",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1239219",
+      "title": "北京 | 上海 全栈， Agent 开发 职位推荐 ，希望资深一点",
+      "company": "cayaxu",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [],
+      "category": "全栈",
+      "postedDate": "2026-09-03",
+      "url": "https://www.v2ex.com/t/1239219",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1239203",
       "title": "杭州滨江急缺有原生安卓经验解决问题（对接汉印打印机）",
@@ -82,68 +141,6 @@
       "region": "domestic"
     },
     {
-      "id": "v2ex-1238962",
-      "title": "remote Java 工程师 紧急",
-      "company": "andyxinweimin",
-      "location": "国内",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "java",
-        "go",
-        "spring",
-        "mysql",
-        "redis",
-        "mongodb"
-      ],
-      "category": "其他",
-      "postedDate": "2026-09-02",
-      "url": "https://www.v2ex.com/t/1238962",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1238961",
-      "title": "北京，招 develops 工程师 和 Python 数据平台后端(后端开发背景即可)；",
-      "company": "3435677954",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "python",
-        "docker",
-        "kubernetes"
-      ],
-      "category": "后端",
-      "postedDate": "2026-09-02",
-      "url": "https://www.v2ex.com/t/1238961",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1238947",
-      "title": "[深圳]双休，不加班，电路工程师（10k-20k）",
-      "company": "CFCL",
-      "location": "莱森光学",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [],
-      "category": "其他",
-      "postedDate": "2026-09-02",
-      "url": "https://www.v2ex.com/t/1238947",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
       "id": "remoteok-1137268",
       "title": "Amazon Specialist",
       "company": "Volar Fashion",
@@ -159,6 +156,32 @@
       "category": "amazon",
       "postedDate": "2026-09-02",
       "url": "https://remoteOK.com/remote-jobs/remote-amazon-specialist-volar-fashion-1137268",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1137295",
+      "title": "Store Manager Port Macquarie",
+      "company": "Ampol",
+      "location": "Port Macquarie,",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "education",
+        "testing",
+        "exec",
+        "full time",
+        "marketing",
+        "finance",
+        "ops",
+        "recruiter"
+      ],
+      "category": "education",
+      "postedDate": "2026-09-02",
+      "url": "https://remoteOK.com/remote-jobs/remote-store-manager-port-macquarie-ampol-1137295",
       "source": "RemoteOK",
       "region": "foreign"
     },
@@ -2542,23 +2565,6 @@
       "region": "foreign"
     },
     {
-      "id": "remoteok-1137128",
-      "title": "GA",
-      "company": "Aimwear",
-      "location": "LaSalle,",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [],
-      "category": "Software",
-      "postedDate": "2026-08-26",
-      "url": "https://remoteOK.com/remote-jobs/remote-ga-aimwear-1137128",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
       "id": "remotive-2091100",
       "title": "Senior QA Engineer",
       "company": "Lemon.io",
@@ -2979,34 +2985,6 @@
       "category": "Writing",
       "postedDate": "2026-08-04",
       "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
-      "source": "Remotive",
-      "region": "foreign"
-    },
-    {
-      "id": "remotive-1749306",
-      "title": "Freelance Copywriter",
-      "company": "Coalition Technologies",
-      "location": "Worldwide",
-      "remote": true,
-      "salaryText": "$20k -$35k",
-      "salaryMin": 20000,
-      "salaryMax": 35000,
-      "salaryCurrency": "USD",
-      "skills": [
-        "accounting",
-        "excel",
-        "research",
-        "data analysis",
-        "bookkeeping",
-        "google sheets",
-        "quickbooks",
-        "data entry",
-        "insurance",
-        "G Suite"
-      ],
-      "category": "Writing",
-      "postedDate": "2026-08-02",
-      "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
       "source": "Remotive",
       "region": "foreign"
     }
