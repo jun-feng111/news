@@ -1,17 +1,5 @@
 [
   {
-    "id": "58675a144907",
-    "title": "ChatGPT Ads passes $1B run rate in 200 days",
-    "url": "https://www.artificialintelligence-news.com/news/chatgpt-ads-passes-1b-run-rate-in-200-days/",
-    "summary": "ChatGPT Ads has hit $1 billion in annualised revenue run rate in under 200 days, and OpenAI is expan",
-    "source": "AI News",
-    "category": "AI",
-    "published": "2026-09-01T16:05:27.000Z",
-    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/openai-chatgpt-ads-digital-marketing-advertising-artificial-intelligence-chat-web-search.jpg",
-    "score": 80,
-    "tags": []
-  },
-  {
     "id": "373be5400612",
     "title": "OpenAI’s new reasoning technique alarms AI safety experts",
     "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
@@ -21,18 +9,6 @@
     "published": "2026-09-02T20:19:14.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
     "score": 80,
-    "tags": []
-  },
-  {
-    "id": "306368423a90",
-    "title": "Motional and MIT AI explains self-driving car decisions",
-    "url": "https://www.artificialintelligence-news.com/news/motional-and-mit-ai-explains-self-driving-car-decisions/",
-    "summary": "Motional and MIT researchers have built a system that lets self-driving cars explain their decisions",
-    "source": "AI News",
-    "category": "AI",
-    "published": "2026-09-02T15:25:12.000Z",
-    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/motional-mit-ai-self-driving-car-autonomous-vehicle-decisions-explainable-artificial-intelligence.jpg",
-    "score": 75,
     "tags": []
   },
   {
@@ -72,18 +48,6 @@
     "tags": []
   },
   {
-    "id": "2c18a48084e1",
-    "title": "Why MCP servers are becoming AI’s newest attack surface",
-    "url": "https://www.artificialintelligence-news.com/news/why-mcp-servers-are-becoming-ais-newest-attack-surface/",
-    "summary": "As AI adoption gathers pace, so does the evolution of the infrastructure that supports it。 New stand",
-    "source": "AI News",
-    "category": "AI",
-    "published": "2026-09-01T07:37:26.000Z",
-    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/scott-rodgerson-PSpf_XgOM5w-unsplash-scaled.jpg",
-    "score": 70,
-    "tags": []
-  },
-  {
     "id": "7ae55826cb10",
     "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
     "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
@@ -93,6 +57,30 @@
     "published": "2026-09-02T22:24:09.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/Real-World-AI-Promo.png?w=1200",
     "score": 70,
+    "tags": []
+  },
+  {
+    "id": "a422fb455c89",
+    "title": "X shifts US creator payouts from Stripe to X Money",
+    "url": "https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/",
+    "summary": "X shifts US creator payouts from Stripe to X Money",
+    "source": "TechCrunch",
+    "category": "科技",
+    "published": "2026-09-02T17:12:27.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-28-at-10.24.40-AM.png?resize=1200,607",
+    "score": 70,
+    "tags": []
+  },
+  {
+    "id": "7bd6a782670d",
+    "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+    "summary": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+    "source": "TechCrunch",
+    "category": "科技",
+    "published": "2026-09-02T23:01:00.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Builders-Stage_ArticleHeader_tc26_V2.png?resize=1200,675",
+    "score": 65,
     "tags": []
   },
   {
@@ -116,6 +104,18 @@
     "category": "科技",
     "published": "2026-09-02T20:12:41.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/mapquest-lake-ontario.jpg?resize=1200,891",
+    "score": 65,
+    "tags": []
+  },
+  {
+    "id": "b567a13a8234",
+    "title": "Pangram&#8217;s Max Spero on why AI detection is harder than &#8216;Real or Fake&#8217;",
+    "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+    "summary": "Pangram&#8217;s Max Spero on why AI detection is harder than &#8216;Real or Fake&#8217;",
+    "source": "TechCrunch",
+    "category": "AI",
+    "published": "2026-09-02T17:18:13.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Pangram-founders.png?resize=1200,675",
     "score": 65,
     "tags": []
   }
