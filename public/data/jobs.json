@@ -1,14 +1,67 @@
 {
-  "updated": "2026-09-04T05:36:03.554Z",
-  "count": 125,
+  "updated": "2026-09-04T10:44:31.448Z",
+  "count": 126,
   "sources": {
-    "V2EX": 7,
+    "V2EX": 9,
     "RemoteOK": 100,
-    "Remotive": 18,
+    "Remotive": 17,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1239558",
+      "title": "PDD 校招内推，欢迎投递",
+      "company": "Anonymous143",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [],
+      "category": "其他",
+      "postedDate": "2026-09-04",
+      "url": "https://www.v2ex.com/t/1239558",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1239531",
+      "title": "远程办公「渠道 BD/BD 实习生」 Crypto 交易所 对接北美/ 欧洲/ 越南 /CIS 市场",
+      "company": "AriaWanax",
+      "location": "国内",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "go"
+      ],
+      "category": "市场",
+      "postedDate": "2026-09-04",
+      "url": "https://www.v2ex.com/t/1239531",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1239502",
+      "title": "远程办公「客服专员」 Crypto 交易所线上工单客服",
+      "company": "AriaWanax",
+      "location": "国内",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [],
+      "category": "其他",
+      "postedDate": "2026-09-04",
+      "url": "https://www.v2ex.com/t/1239502",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1239229",
       "title": "招聘： 1、资深前端工程师 or 前端小 Leader（需要一线做事）， 2、体验产品负责人， 3、BD/Senior BD/Lead BD。",
@@ -118,25 +171,6 @@
       "category": "前端",
       "postedDate": "2026-09-02",
       "url": "https://www.v2ex.com/t/1239036",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1238984",
-      "title": "诚聘资深前端 (2 人) | 5 年 + 经验 | 薪资 HR 面议",
-      "company": "OrdinaryMan",
-      "location": "保定-长城汽车",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "vue"
-      ],
-      "category": "前端",
-      "postedDate": "2026-09-02",
-      "url": "https://www.v2ex.com/t/1238984",
       "source": "V2EX",
       "region": "domestic"
     },
@@ -454,34 +488,6 @@
       "postedDate": "2026-09-02",
       "url": "https://remoteOK.com/remote-jobs/remote-field-officer-bendigo-department-of-justice-and-community-safety-victoria-1137267",
       "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remotive-1749306",
-      "title": "Freelance Copywriter",
-      "company": "Coalition Technologies",
-      "location": "Worldwide",
-      "remote": true,
-      "salaryText": "$20k -$35k",
-      "salaryMin": 20000,
-      "salaryMax": 35000,
-      "salaryCurrency": "USD",
-      "skills": [
-        "accounting",
-        "excel",
-        "research",
-        "data analysis",
-        "bookkeeping",
-        "google sheets",
-        "quickbooks",
-        "data entry",
-        "insurance",
-        "G Suite"
-      ],
-      "category": "Writing",
-      "postedDate": "2026-09-02",
-      "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
-      "source": "Remotive",
       "region": "foreign"
     },
     {
