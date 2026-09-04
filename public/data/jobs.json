@@ -1,14 +1,31 @@
 {
-  "updated": "2026-09-04T14:51:18.344Z",
-  "count": 126,
+  "updated": "2026-09-04T18:11:10.398Z",
+  "count": 127,
   "sources": {
-    "V2EX": 8,
+    "V2EX": 9,
     "RemoteOK": 100,
     "Remotive": 18,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1239597",
+      "title": "技术老登自救群｜数据标注、具身智能视频、技术点评，中年技术人互助群",
+      "company": "dacongm",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [],
+      "category": "数据",
+      "postedDate": "2026-09-04",
+      "url": "https://www.v2ex.com/t/1239597",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1239558",
       "title": "PDD 校招内推，欢迎投递",
@@ -156,6 +173,80 @@
       "url": "https://www.v2ex.com/t/1239198",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "remoteok-1137304",
+      "title": "Roupeiro Muro Alto PE",
+      "company": "GAV Resorts",
+      "location": "Ipojuca,",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "excel",
+        "non tech"
+      ],
+      "category": "excel",
+      "postedDate": "2026-09-03",
+      "url": "https://remoteOK.com/remote-jobs/remote-roupeiro-muro-alto-pe-gav-resorts-1137304",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1137300",
+      "title": "QA Engineer",
+      "company": "SunnyData",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "technical",
+        "dev",
+        "testing",
+        "marketing",
+        "quality assurance",
+        "education",
+        "cloud",
+        "engineer",
+        "digital nomad"
+      ],
+      "category": "technical",
+      "postedDate": "2026-09-03",
+      "url": "https://remoteOK.com/remote-jobs/remote-qa-engineer-sunnydata-1137300",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1137301",
+      "title": "Store Manager BOSS Store Plaza Las Americas",
+      "company": "HUGO BOSS",
+      "location": "San Juan,",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "exec",
+        "react",
+        "education",
+        "consulting",
+        "customer support",
+        "microsoft",
+        "ops",
+        "sales",
+        "medical"
+      ],
+      "category": "exec",
+      "postedDate": "2026-09-03",
+      "url": "https://remoteOK.com/remote-jobs/remote-store-manager-boss-store-plaza-las-americas-hugo-boss-1137301",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137303",
@@ -2535,23 +2626,6 @@
       "region": "foreign"
     },
     {
-      "id": "remoteok-1137252",
-      "title": "Ajudante Geral",
-      "company": "Supermercados Mundial",
-      "location": "Rio de Janeiro e RegiÃ£o,",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [],
-      "category": "Software",
-      "postedDate": "2026-08-27",
-      "url": "https://remoteOK.com/remote-jobs/remote-ajudante-geral-supermercados-mundial-1137252",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
       "id": "remotive-2091101",
       "title": "Senior React Full-stack Developer",
       "company": "Lemon.io",
@@ -2579,44 +2653,6 @@
       "postedDate": "2026-08-27",
       "url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091101",
       "source": "Remotive",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137150",
-      "title": "Don't see a role for you",
-      "company": "Carv",
-      "location": "London,",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [],
-      "category": "Software",
-      "postedDate": "2026-08-26",
-      "url": "https://remoteOK.com/remote-jobs/remote-dont-see-a-role-for-you-carv-1137150",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137151",
-      "title": "Equipment Maintenance",
-      "company": "JD.COM",
-      "location": "Lutterworth,",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "exec",
-        "ops",
-        "sys admin"
-      ],
-      "category": "exec",
-      "postedDate": "2026-08-26",
-      "url": "https://remoteOK.com/remote-jobs/remote-equipment-maintenance-jd-com-1137151",
-      "source": "RemoteOK",
       "region": "foreign"
     },
     {
