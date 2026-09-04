@@ -1,14 +1,38 @@
 [
   {
-    "id": "1a81518cc660",
-    "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-    "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
-    "summary": "OpenAI launches Astra, its powerful (and controversial) new model",
+    "id": "6a6bda6195d8",
+    "title": "OneRail uses Nvidia AI for real-time last-mile delivery optimisation",
+    "url": "https://www.artificialintelligence-news.com/news/ai-last-mile-delivery-optimisation/",
+    "summary": "OneRail has launched an AI-powered delivery platform that uses Nvidia technology to help retailers, ",
+    "source": "AI News",
+    "category": "AI",
+    "published": "2026-09-03T16:07:18.000Z",
+    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/OneRail-uses-Nvidia-AI-for-real-time-last-mile-delivery-optimisation-scaled-e1788451412147.jpg",
+    "score": 80,
+    "tags": []
+  },
+  {
+    "id": "3e1ba23902a5",
+    "title": "The sameness problem behind those unappetizing AI-generated menus",
+    "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+    "summary": "The sameness problem behind those unappetizing AI-generated menus",
     "source": "TechCrunch",
     "category": "AI",
-    "published": "2026-09-03T18:01:45.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2182154299.jpg?w=1024",
+    "published": "2026-09-04T04:21:03.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Cheeseburger-stack.png?resize=1200,800",
     "score": 80,
+    "tags": []
+  },
+  {
+    "id": "93d3506cb2c0",
+    "title": "NVIDIA to acquire Hugging Face for $12.93B",
+    "url": "https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b/",
+    "summary": "NVIDIA has agreed to acquire Hugging Face for $12。93 billion to scale the open-source model reposito",
+    "source": "AI News",
+    "category": "AI",
+    "published": "2026-09-03T15:50:31.000Z",
+    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/nvidia-acquire-hugging-face-open-source-ai-model-repository-platform-infrastructure.jpg",
+    "score": 75,
     "tags": []
   },
   {
@@ -24,6 +48,18 @@
     "tags": []
   },
   {
+    "id": "306368423a90",
+    "title": "Motional and MIT AI explains self-driving car decisions",
+    "url": "https://www.artificialintelligence-news.com/news/motional-and-mit-ai-explains-self-driving-car-decisions/",
+    "summary": "Motional and MIT researchers have built a system that lets self-driving cars explain their decisions",
+    "source": "AI News",
+    "category": "AI",
+    "published": "2026-09-02T15:25:12.000Z",
+    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/motional-mit-ai-self-driving-car-autonomous-vehicle-decisions-explainable-artificial-intelligence.jpg",
+    "score": 70,
+    "tags": []
+  },
+  {
     "id": "28b88b7dea2b",
     "title": "Oura files to go public",
     "url": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/",
@@ -32,7 +68,7 @@
     "category": "科技",
     "published": "2026-09-03T22:35:41.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/oura-ring-5.jpg?resize=1200,900",
-    "score": 75,
+    "score": 70,
     "tags": []
   },
   {
@@ -44,7 +80,7 @@
     "category": "科技",
     "published": "2026-09-03T22:18:30.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/Cybercab_76.jpg?resize=1200,675",
-    "score": 75,
+    "score": 70,
     "tags": []
   },
   {
@@ -56,7 +92,7 @@
     "category": "科技",
     "published": "2026-09-03T20:59:23.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/PM-Images.jpg?resize=1200,855",
-    "score": 75,
+    "score": 70,
     "tags": []
   },
   {
@@ -68,54 +104,18 @@
     "category": "科技",
     "published": "2026-09-03T19:42:48.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-austin-giga-getty.jpg?resize=1200,805",
-    "score": 75,
+    "score": 70,
     "tags": []
   },
   {
-    "id": "f1f94c405560",
-    "title": "Abliteration.ai is making a business out of removing AI guardrails",
-    "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
-    "summary": "Abliteration。ai is making a business out of removing AI guardrails",
-    "source": "TechCrunch",
-    "category": "AI",
-    "published": "2026-09-03T18:37:57.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/09/vpn-privacy-cybersecurity-red-bright.jpg?resize=1200,831",
-    "score": 75,
-    "tags": []
-  },
-  {
-    "id": "939cb98685e5",
-    "title": "Meta is paying to peek at how you use their latest AI model",
-    "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
-    "summary": "Meta is paying to peek at how you use their latest AI model",
-    "source": "TechCrunch",
-    "category": "AI",
-    "published": "2026-09-03T18:19:56.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2173579488.jpg?resize=1200,799",
-    "score": 75,
-    "tags": []
-  },
-  {
-    "id": "28be3fafd1e3",
-    "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-    "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
-    "summary": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-    "source": "TechCrunch",
-    "category": "科技",
-    "published": "2026-09-03T19:36:29.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Mira-Murati-at-Bloomberg.jpg?w=1024",
-    "score": 65,
-    "tags": []
-  },
-  {
-    "id": "8130c45cd6d2",
-    "title": "Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit",
-    "url": "https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/",
-    "summary": "Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit",
-    "source": "TechCrunch",
-    "category": "科技",
-    "published": "2026-09-03T19:29:16.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/05/realta-fusion-device.jpeg?resize=1200,900",
+    "id": "c76b56413d4a",
+    "title": "AI人才缺口超500万！有最新报告称，AI抢人逻辑悄悄变了：架构师新发 ...",
+    "url": "https://news.qq.com/rain/a/20260718A08XHR00",
+    "summary": "人才缺口500万，大厂抢得最凶的不是算法工程师，架构师新发职位同比大涨近八成。懂提示词和人机训练岗位的文科生，平均年薪达到34",
+    "source": "算法工程师·就业分析",
+    "category": "就业",
+    "published": "2026-07-18T11:05:00.000Z",
+    "image": "https://inews.gtimg.com/om_ls/Ows_BB25Bhnf-wlGWgFoIkmLSVd_6MJWCT8-yw6C3HS10AA_640330/0",
     "score": 65,
     "tags": []
   }

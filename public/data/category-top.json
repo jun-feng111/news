@@ -1,15 +1,39 @@
 {
   "AI": [
     {
-      "id": "1a81518cc660",
-      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-      "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
-      "summary": "OpenAI launches Astra, its powerful (and controversial) new model",
+      "id": "6a6bda6195d8",
+      "title": "OneRail uses Nvidia AI for real-time last-mile delivery optimisation",
+      "url": "https://www.artificialintelligence-news.com/news/ai-last-mile-delivery-optimisation/",
+      "summary": "OneRail has launched an AI-powered delivery platform that uses Nvidia technology to help retailers, ",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-09-03T16:07:18.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/OneRail-uses-Nvidia-AI-for-real-time-last-mile-delivery-optimisation-scaled-e1788451412147.jpg",
+      "score": 80,
+      "tags": []
+    },
+    {
+      "id": "3e1ba23902a5",
+      "title": "The sameness problem behind those unappetizing AI-generated menus",
+      "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+      "summary": "The sameness problem behind those unappetizing AI-generated menus",
       "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-09-03T18:01:45.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2182154299.jpg?w=1024",
+      "published": "2026-09-04T04:21:03.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Cheeseburger-stack.png?resize=1200,800",
       "score": 80,
+      "tags": []
+    },
+    {
+      "id": "93d3506cb2c0",
+      "title": "NVIDIA to acquire Hugging Face for $12.93B",
+      "url": "https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b/",
+      "summary": "NVIDIA has agreed to acquire Hugging Face for $12。93 billion to scale the open-source model reposito",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-09-03T15:50:31.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/nvidia-acquire-hugging-face-open-source-ai-model-repository-platform-infrastructure.jpg",
+      "score": 75,
       "tags": []
     },
     {
@@ -25,27 +49,15 @@
       "tags": []
     },
     {
-      "id": "f1f94c405560",
-      "title": "Abliteration.ai is making a business out of removing AI guardrails",
-      "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
-      "summary": "Abliteration。ai is making a business out of removing AI guardrails",
-      "source": "TechCrunch",
+      "id": "306368423a90",
+      "title": "Motional and MIT AI explains self-driving car decisions",
+      "url": "https://www.artificialintelligence-news.com/news/motional-and-mit-ai-explains-self-driving-car-decisions/",
+      "summary": "Motional and MIT researchers have built a system that lets self-driving cars explain their decisions",
+      "source": "AI News",
       "category": "AI",
-      "published": "2026-09-03T18:37:57.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/09/vpn-privacy-cybersecurity-red-bright.jpg?resize=1200,831",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "939cb98685e5",
-      "title": "Meta is paying to peek at how you use their latest AI model",
-      "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
-      "summary": "Meta is paying to peek at how you use their latest AI model",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-09-03T18:19:56.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2173579488.jpg?resize=1200,799",
-      "score": 75,
+      "published": "2026-09-02T15:25:12.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/motional-mit-ai-self-driving-car-autonomous-vehicle-decisions-explainable-artificial-intelligence.jpg",
+      "score": 70,
       "tags": []
     }
   ],
@@ -59,7 +71,7 @@
       "category": "科技",
       "published": "2026-09-03T22:35:41.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/06/oura-ring-5.jpg?resize=1200,900",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -71,7 +83,7 @@
       "category": "科技",
       "published": "2026-09-03T22:18:30.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/Cybercab_76.jpg?resize=1200,675",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -83,7 +95,7 @@
       "category": "科技",
       "published": "2026-09-03T20:59:23.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/07/PM-Images.jpg?resize=1200,855",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -95,7 +107,7 @@
       "category": "科技",
       "published": "2026-09-03T19:42:48.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-austin-giga-getty.jpg?resize=1200,805",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -107,7 +119,7 @@
       "category": "科技",
       "published": "2026-09-03T19:36:29.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/06/Mira-Murati-at-Bloomberg.jpg?w=1024",
-      "score": 65,
+      "score": 60,
       "tags": []
     }
   ],
@@ -137,18 +149,6 @@
       "tags": []
     },
     {
-      "id": "b1dcc0068712",
-      "title": "智联招聘：上半年成都AI行业招聘增速达到16.5%",
-      "url": "https://www.sohu.com/a/1069398905_116237",
-      "summary": "近日，由北京大学国家发展研究院（下称“北大国发院”）与智联招聘联合主办的北大国发院成都论坛暨818HR节主题论坛在成都举行。论坛以“经济重塑与AI革命双重挑战下的组织与个体”为主题，汇集学界专家与企业",
-      "source": "Bing·智联招聘",
-      "category": "就业",
-      "published": "2026-08-29T15:52:00.000Z",
-      "image": "https://q2.itc.cn/q_70/images03/20260829/80407dcc27f34b248ddfa5f6be754e23.jpeg",
-      "score": 60,
-      "tags": []
-    },
-    {
       "id": "2bf51d1addab",
       "title": "AI 售前工程师（RAG   Agent 方向）",
       "url": "https://www.v2ex.com/t/1238523#reply1",
@@ -171,6 +171,18 @@
       "image": "https://cdn.v2ex.com/avatar/754c/42a2/336975_xlarge.png?m=1786470731",
       "score": 60,
       "tags": []
+    },
+    {
+      "id": "e26804a7c659",
+      "title": "《2026年生物医药产业人才发展报告》发布",
+      "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260901_3186029.shtml",
+      "summary": "上半年，在政策引导与科技创新双轮驱动下，我国生物医药产业保持平稳发展态势。智联招聘发布的《2026年生物医药产业人才发展报告》显示，上半年，生物医药产业中创新药研发（含AI制药）、高端医疗器械研发、出",
+      "source": "智联招聘",
+      "category": "就业",
+      "published": "2026-09-01T09:03:00.000Z",
+      "image": "",
+      "score": 60,
+      "tags": []
     }
   ],
   "政策": [
@@ -187,18 +199,6 @@
       "tags": []
     },
     {
-      "id": "315c4b42ff3b",
-      "title": "构建就业友好型发展方式，让大学生更好应对AI挑战",
-      "url": "https://www.yicai.com/news/103341420.html",
-      "summary": "构建就业友好型发展方式，核心在于将高校、企业、政府等纳入同一生态位，通过制度创新与执行到位来缩短“培养端”与“需求端”的距离，从而更好促进AI时代背景下高校毕业生的高质量充分就业。主要有以下几点对策建",
-      "source": "Bing·大学生就业政策",
-      "category": "政策",
-      "published": "2026-08-31T13:24:00.000Z",
-      "image": "data:image/png;base64,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",
-      "score": 55,
-      "tags": []
-    },
-    {
       "id": "4087cd58ddcb",
       "title": "陕西出了个新规：海归留学生也能享受就业见习补贴，这个信号很重要",
       "url": "https://www.sohu.com/a/1069419634_139069",
@@ -207,6 +207,17 @@
       "category": "政策",
       "published": "2026-08-29T17:51:00.000Z",
       "image": "//q9.itc.cn/q_70/images03/20260830/df26fbff9635433981190cc393ce9202.jpeg",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "ed0822808f9b",
+      "title": "温州发布专项政策指南 为残疾人大学生就业创业“撑腰”",
+      "url": "https://news.66wz.com/system/2026/07/16/105805829.shtml",
+      "summary": "市人社局与市残联携手对现行最实用、最优惠的就创业补贴政策进行全面梳理，并形成《温州市残疾人大学生就业创业政策指南》，助力这一特殊群体跨越障碍，实现更加充分、更高质量的就业和创业。 温州网讯 为支持更多",
+      "source": "就业创业政策",
+      "category": "政策",
+      "published": "2026-07-16T01:51:00.000Z",
       "score": 55,
       "tags": []
     },
@@ -299,96 +310,96 @@
   ],
   "财经": [
     {
-      "id": "0ee4caee0e9a",
-      "title": "一块铁皮，能锻造出“中国钢制家具之都”？",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690023.shtml",
+      "id": "53686f0ba11c",
+      "title": "不止看电影：暑期档 “热” 力全开 影院业态多点开花",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690210.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-04T00:20:38.000Z",
+      "published": "2026-09-04T05:20:13.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "991e7f473dc0",
-      "title": "商品房销售走向“所见即所得”，房地产发展新模式加快构建",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690021.shtml",
+      "id": "2311494081ed",
+      "title": "石家庄航空口岸首次设立生鲜类产品指定监管场地",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690183.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-04T00:15:30.000Z",
+      "published": "2026-09-04T04:21:17.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "3d545c6caa2c",
-      "title": "为何越来越多的全球青年创业者扎根中国",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690006.shtml",
+      "id": "ad4dc4922f58",
+      "title": "上半年支持城市更新减税降费及退税4870亿元",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690189.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-03T23:42:23.000Z",
+      "published": "2026-09-04T04:11:19.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "66f00b289236",
-      "title": "人工智能中小企业创业支持计划启动",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10689994.shtml",
+      "id": "10ef49b101c1",
+      "title": "涉及医药、能源等领域！第二批妨碍统一市场卡点堵点案件公布",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690187.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-03T23:22:20.000Z",
+      "published": "2026-09-04T04:09:59.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "a61962320be9",
-      "title": "广东省在香港发行离岸人民币地方政府债券75亿元",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10689976.shtml",
+      "id": "42489c99bd7a",
+      "title": "2026世界制造业大会将聚焦量子科技、具身智能等前沿产业",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690181.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-03T22:32:07.000Z",
+      "published": "2026-09-04T04:08:58.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ],
   "开发": [
     {
-      "id": "dc2ac6ab0b24",
-      "title": "当 Agent 走出 App：WorkBuddy 的朋友圈开始向外生长",
-      "url": "https://www.infoq.cn/article/vogOaCpOeNfe0hjAXfzy?utm_source=rss&amp;utm_medium=article",
+      "id": "f989fa7c78b0",
+      "title": "GPT-6 Astra 正式登场：烧了 10万块 GPU、多项跑分逼近满分，OpenAI 开启“AGI时代”",
+      "url": "https://www.infoq.cn/article/mKGb7ZiPRlAiFDZCWK0v?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-09-03T21:19:20.000Z",
-      "image": "https://static001.infoq.cn/resource/image/d1/40/d17e7230317294b9b250e96305d55f40.jpg"
+      "published": "2026-09-04T13:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/61/a3/6190a3af53c0aca793d4376c0af7c6a3.jpg"
     },
     {
-      "id": "bf12ccee872b",
-      "title": "从内部 Side Project 到 3.9 万开发者使用，Kiro Crew 创造者亲述开发幕后",
-      "url": "https://www.infoq.cn/article/hcQKK8OIfwlMKw2zQSS9?utm_source=rss&amp;utm_medium=article",
+      "id": "614d5d5da783",
+      "title": "让测试更加绿色可持续",
+      "url": "https://www.infoq.cn/article/m9DBSRgv8grSQ9NkY6rS?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-09-03T17:54:55.000Z",
-      "image": "https://static001.infoq.cn/resource/image/c0/8e/c064291070d45529b9dc8c97e692a58e.png"
+      "published": "2026-09-04T13:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/e2/36/e2685f708ab7c7da0364d98f71ec8b36.jpg"
     },
     {
-      "id": "84a3ed702c77",
-      "title": "当Agent开始“吃数据”，传统湖仓不够用了：华为云重构数据基础设施",
-      "url": "https://www.infoq.cn/article/IE4CYYwbLYYKSbg7lXfx?utm_source=rss&amp;utm_medium=article",
+      "id": "65a9413ad90a",
+      "title": "Astro 推出 Sätteri：Rust 驱动的 Markdown 与 MDX 处理器，构建速度最高提升 60%",
+      "url": "https://www.infoq.cn/article/s1MDWGIV7yoxkCXmWJx8?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-09-03T17:19:14.000Z",
-      "image": "https://static001.infoq.cn/resource/image/1c/27/1cf88f86fd29dddeede4b07622f38527.jpg"
+      "published": "2026-09-04T11:20:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/24/e3/24c25dfc6b51baa08cf5e3a70e8f8ee3.jpg"
     },
     {
-      "id": "d087649b7385",
-      "title": "3个月拿下 3000 star，只因我们比 MinerU 多做了这件事",
-      "url": "https://www.infoq.cn/article/SJOBmxzKUJ5kX7TLNVKC?utm_source=rss&amp;utm_medium=article",
+      "id": "0c956523396f",
+      "title": "AI 浪潮里，听见一线的声音｜AICon 深圳 2026 优秀出品人   明星讲师名单揭晓",
+      "url": "https://www.infoq.cn/article/6EYVBX5UD2Cb0PWYsPCq?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-09-03T17:09:32.000Z",
-      "image": "https://static001.infoq.cn/resource/image/50/33/502fb018f82222ec46a42fe011e12a33.jpg"
+      "published": "2026-09-04T11:11:55.000Z",
+      "image": "https://static001.infoq.cn/resource/image/bd/5f/bd641d74f6e3e478349bd733d6c69c5f.jpg"
     },
     {
-      "id": "6d11ed36978f",
-      "title": "李飞飞首个多模态世界模型 Atlas 正式发布：从零开始预训练，几张图就能构建世界",
-      "url": "https://www.infoq.cn/article/9YiEhb3hAFtUlxOpMdGC?utm_source=rss&amp;utm_medium=article",
+      "id": "132c6e52ef20",
+      "title": "人人都能整个“自己的DeepSeek Harness”，那我们为啥还在给Claude Code们充会员？",
+      "url": "https://www.infoq.cn/article/6Jc130IN2OaXqsPDIzmJ?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-09-03T16:49:43.000Z",
-      "image": "https://static001.infoq.cn/resource/image/5f/55/5f6c7069786e603e264c0d3f093d2d55.jpg"
+      "published": "2026-09-04T10:22:50.000Z",
+      "image": "https://static001.infoq.cn/resource/image/6a/9b/6a8f4578f6416251975c0213bd11de9b.png"
     }
   ]
 }

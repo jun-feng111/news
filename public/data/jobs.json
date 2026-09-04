@@ -1,31 +1,14 @@
 {
-  "updated": "2026-09-04T00:59:02.199Z",
-  "count": 124,
+  "updated": "2026-09-04T05:36:03.554Z",
+  "count": 125,
   "sources": {
     "V2EX": 7,
     "RemoteOK": 100,
-    "Remotive": 17,
+    "Remotive": 18,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
   "jobs": [
-    {
-      "id": "v2ex-1239367",
-      "title": "为什么好多人都碰到到了二面或者终面的时候，要么负责人出差了，要么领导出差了",
-      "company": "wobuchiyu",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [],
-      "category": "其他",
-      "postedDate": "2026-09-04",
-      "url": "https://www.v2ex.com/t/1239367",
-      "source": "V2EX",
-      "region": "domestic"
-    },
     {
       "id": "v2ex-1239229",
       "title": "招聘： 1、资深前端工程师 or 前端小 Leader（需要一线做事）， 2、体验产品负责人， 3、BD/Senior BD/Lead BD。",
@@ -137,6 +120,47 @@
       "url": "https://www.v2ex.com/t/1239036",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "v2ex-1238984",
+      "title": "诚聘资深前端 (2 人) | 5 年 + 经验 | 薪资 HR 面议",
+      "company": "OrdinaryMan",
+      "location": "保定-长城汽车",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "vue"
+      ],
+      "category": "前端",
+      "postedDate": "2026-09-02",
+      "url": "https://www.v2ex.com/t/1238984",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "remoteok-1137305",
+      "title": "Police Officer",
+      "company": "Scottish Police Authority",
+      "location": "Kirkwall,",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "education",
+        "customer support",
+        "recruiter",
+        "non tech"
+      ],
+      "category": "education",
+      "postedDate": "2026-09-03",
+      "url": "https://remoteOK.com/remote-jobs/remote-police-officer-scottish-police-authority-1137305",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137297",
@@ -430,6 +454,34 @@
       "postedDate": "2026-09-02",
       "url": "https://remoteOK.com/remote-jobs/remote-field-officer-bendigo-department-of-justice-and-community-safety-victoria-1137267",
       "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remotive-1749306",
+      "title": "Freelance Copywriter",
+      "company": "Coalition Technologies",
+      "location": "Worldwide",
+      "remote": true,
+      "salaryText": "$20k -$35k",
+      "salaryMin": 20000,
+      "salaryMax": 35000,
+      "salaryCurrency": "USD",
+      "skills": [
+        "accounting",
+        "excel",
+        "research",
+        "data analysis",
+        "bookkeeping",
+        "google sheets",
+        "quickbooks",
+        "data entry",
+        "insurance",
+        "G Suite"
+      ],
+      "category": "Writing",
+      "postedDate": "2026-09-02",
+      "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
+      "source": "Remotive",
       "region": "foreign"
     },
     {
@@ -2543,27 +2595,6 @@
       "category": "exec",
       "postedDate": "2026-08-26",
       "url": "https://remoteOK.com/remote-jobs/remote-various-roles-sherborne-schools-group-1137152",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137139",
-      "title": "Course Director UX UI and AI",
-      "company": "Interaction Design Foundation",
-      "location": "Remote",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "education",
-        "design",
-        "content writing"
-      ],
-      "category": "education",
-      "postedDate": "2026-08-26",
-      "url": "https://remoteOK.com/remote-jobs/remote-course-director-ux-ui-and-ai-interaction-design-foundation-1137139",
       "source": "RemoteOK",
       "region": "foreign"
     },
