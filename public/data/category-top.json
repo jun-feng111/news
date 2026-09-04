@@ -1,4 +1,42 @@
 {
+  "AI": [
+    {
+      "id": "e160d21430ae",
+      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+      "summary": "AI compute provider Nscale is looking for $3。5B in pre-IPO financing",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-04T21:12:11.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2266843677.jpg?resize=1200,800",
+      "score": 80,
+      "tags": []
+    },
+    {
+      "id": "718826050bb2",
+      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab&#8217;s knowledge",
+      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+      "summary": "Another swarm of OpenAI agents reached the open internet without the frontier lab&#8217;s knowledge",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-04T16:21:11.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-04-at-8.49.39-AM-e1788537064907.png?w=839",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "8455d4164fce",
+      "title": "Google&#8217;s Gemini Spark can now manage your Google Photos library",
+      "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+      "summary": "Google&#8217;s Gemini Spark can now manage your Google Photos library",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-04T14:47:11.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
+      "score": 70,
+      "tags": []
+    }
+  ],
   "科技": [
     {
       "id": "eb999a1a327a",
@@ -33,7 +71,7 @@
       "category": "科技",
       "published": "2026-09-04T15:00:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/compact-discs-and-headphones.jpg?resize=1200,402",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -45,7 +83,7 @@
       "category": "科技",
       "published": "2026-09-04T14:47:20.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/krafton-india.jpg?resize=1200,800",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -57,32 +95,6 @@
       "category": "科技",
       "published": "2026-09-04T14:00:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2023/06/After-Hours-_-group.png?resize=1200,675",
-      "score": 75,
-      "tags": []
-    }
-  ],
-  "AI": [
-    {
-      "id": "8455d4164fce",
-      "title": "Google&#8217;s Gemini Spark can now manage your Google Photos library",
-      "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
-      "summary": "Google&#8217;s Gemini Spark can now manage your Google Photos library",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-09-04T14:47:11.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "718826050bb2",
-      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab&#8217;s knowledge",
-      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-      "summary": "Another swarm of OpenAI agents reached the open internet without the frontier lab&#8217;s knowledge",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-09-04T16:21:11.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-04-at-8.49.39-AM-e1788537064907.png?w=839",
       "score": 70,
       "tags": []
     }
@@ -113,14 +125,14 @@
       "tags": []
     },
     {
-      "id": "b1dcc0068712",
+      "id": "532d1718bc17",
       "title": "智联招聘：上半年成都AI行业招聘增速达到16.5%",
-      "url": "https://www.sohu.com/a/1069398905_116237",
+      "url": "https://view.inews.qq.com/a/20260829A0COUW00",
       "summary": "近日，由北京大学国家发展研究院（下称“北大国发院”）与智联招聘联合主办的北大国发院成都论坛暨818HR节主题论坛在成都举行。论坛以“经济重塑与AI革命双重挑战下的组织与个体”为主题，汇集学界专家与企业",
       "source": "Bing·智联招聘",
       "category": "就业",
       "published": "2026-08-29T15:52:00.000Z",
-      "image": "https://q2.itc.cn/q_70/images03/20260829/80407dcc27f34b248ddfa5f6be754e23.jpeg",
+      "image": "https://inews.gtimg.com/om_ls/O2SsX4fxK3OeLrfD8rFwnRD7-Zind3h2eqKGSMm6HLm3UAA_640330/0",
       "score": 60,
       "tags": []
     },
@@ -150,18 +162,6 @@
     }
   ],
   "政策": [
-    {
-      "id": "148659117e79",
-      "title": "重庆OPC政策赋能 “大创慧谷”园区企业轻创园发布v4.0方案",
-      "url": "http://www.cq.xinhuanet.com/20260811/a500570295e447fab690118162269b06/c.html",
-      "summary": "活动当天，轻创园正式发布“OPC社区建设方案（v4。聚焦跨境电商、AI短视频、AI设计、AI程序开发四大核心赛道，以自研数字化系统为支撑，打造“实体空间+系统赋能+产业孵化+联营共生”的新型数字创业生",
-      "source": "就业创业政策",
-      "category": "政策",
-      "published": "2026-08-11T11:03:00.000Z",
-      "image": "http://www.news.cn/detail2020/images/ewm.png",
-      "score": 60,
-      "tags": []
-    },
     {
       "id": "315c4b42ff3b",
       "title": "构建就业友好型发展方式，让大学生更好应对AI挑战",
@@ -199,14 +199,27 @@
       "tags": []
     },
     {
-      "id": "ed0822808f9b",
-      "title": "温州发布专项政策指南 为残疾人大学生就业创业“撑腰”",
-      "url": "https://news.66wz.com/system/2026/07/16/105805829.shtml",
-      "summary": "市人社局与市残联携手对现行最实用、最优惠的就创业补贴政策进行全面梳理，并形成《温州市残疾人大学生就业创业政策指南》，助力这一特殊群体跨越障碍，实现更加充分、更高质量的就业和创业。 温州网讯 为支持更多",
-      "source": "就业创业政策",
+      "id": "6e52471bb1a7",
+      "title": "大学生创业补贴，何以成了中介的“唐僧肉”？",
+      "url": "https://www.sohu.com/a/1069774505_122014422",
+      "summary": "创业补贴本是政府为鼓励和支持高校毕业生等群体自主创业而设立的政策性扶持资金，各地标准从几千元到数十万元不等。然而，部分中介机构却盯上了这笔钱：有的以“代办申请”为名，收取服务费和高额抽成；有的甚至通过",
+      "source": "Bing·大学生创业扶持政策",
       "category": "政策",
-      "published": "2026-07-16T01:51:00.000Z",
-      "score": 55,
+      "published": "2026-08-30T22:02:00.000Z",
+      "image": "",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "f5cb39eaf8f6",
+      "title": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
+      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202606/t20260602_1438600.html",
+      "summary": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
+      "source": "教育部",
+      "category": "政策",
+      "published": "2026-06-02T00:00:00.000Z",
+      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+      "score": 50,
       "tags": []
     }
   ],

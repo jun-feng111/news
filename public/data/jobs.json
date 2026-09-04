@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T18:11:10.398Z",
+  "updated": "2026-09-04T21:17:54.400Z",
   "count": 127,
   "sources": {
     "V2EX": 9,
@@ -173,6 +173,25 @@
       "url": "https://www.v2ex.com/t/1239198",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "remoteok-1137302",
+      "title": "Customer Support & Success Specialist",
+      "company": "Warehance",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "customer support"
+      ],
+      "category": "customer support",
+      "postedDate": "2026-09-03",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-success-specialist-warehance-1137302",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137304",
@@ -2592,36 +2611,6 @@
       "category": "design",
       "postedDate": "2026-08-27",
       "url": "https://remoteOK.com/remote-jobs/remote-senior-level-designer-blackbird-interactive-1137156",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137155",
-      "title": "Oracle Fusion Cloud Lead â Logistics & Supply Chain Management",
-      "company": "Tessera Labs",
-      "location": "Remote",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "design",
-        "sys admin",
-        "consulting",
-        "testing",
-        "exec",
-        "cloud",
-        "senior",
-        "ops",
-        "engineer",
-        "ecommerce",
-        "shopify",
-        "full time"
-      ],
-      "category": "design",
-      "postedDate": "2026-08-27",
-      "url": "https://remoteOK.com/remote-jobs/remote-oracle-fusion-cloud-lead-logistics-supply-chain-management-tessera-labs-1137155",
       "source": "RemoteOK",
       "region": "foreign"
     },
