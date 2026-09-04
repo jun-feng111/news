@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T22:25:24.788Z",
+  "updated": "2026-09-04T00:59:02.199Z",
   "count": 124,
   "sources": {
     "V2EX": 7,
@@ -9,6 +9,23 @@
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1239367",
+      "title": "为什么好多人都碰到到了二面或者终面的时候，要么负责人出差了，要么领导出差了",
+      "company": "wobuchiyu",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [],
+      "category": "其他",
+      "postedDate": "2026-09-04",
+      "url": "https://www.v2ex.com/t/1239367",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1239229",
       "title": "招聘： 1、资深前端工程师 or 前端小 Leader（需要一线做事）， 2、体验产品负责人， 3、BD/Senior BD/Lead BD。",
@@ -122,23 +139,26 @@
       "region": "domestic"
     },
     {
-      "id": "v2ex-1238984",
-      "title": "诚聘资深前端 (2 人) | 5 年 + 经验 | 薪资 HR 面议",
-      "company": "OrdinaryMan",
-      "location": "保定-长城汽车",
+      "id": "remoteok-1137297",
+      "title": "Public Area Attendant",
+      "company": "Four Seasons",
+      "location": "Nassau,",
       "remote": false,
       "salaryText": "",
       "salaryMin": null,
       "salaryMax": null,
-      "salaryCurrency": "CNY",
+      "salaryCurrency": "",
       "skills": [
-        "vue"
+        "education",
+        "supervisor",
+        "legal",
+        "non tech"
       ],
-      "category": "前端",
+      "category": "education",
       "postedDate": "2026-09-02",
-      "url": "https://www.v2ex.com/t/1238984",
-      "source": "V2EX",
-      "region": "domestic"
+      "url": "https://remoteOK.com/remote-jobs/remote-public-area-attendant-four-seasons-1137297",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137298",
@@ -2544,27 +2564,6 @@
       "category": "education",
       "postedDate": "2026-08-26",
       "url": "https://remoteOK.com/remote-jobs/remote-course-director-ux-ui-and-ai-interaction-design-foundation-1137139",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137138",
-      "title": "Education Designer UX UI and AI",
-      "company": "Interaction Design Foundation",
-      "location": "Remote",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "design",
-        "content writing",
-        "education"
-      ],
-      "category": "design",
-      "postedDate": "2026-08-26",
-      "url": "https://remoteOK.com/remote-jobs/remote-education-designer-ux-ui-and-ai-interaction-design-foundation-1137138",
       "source": "RemoteOK",
       "region": "foreign"
     },

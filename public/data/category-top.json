@@ -9,7 +9,19 @@
       "category": "AI",
       "published": "2026-09-03T18:01:45.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2182154299.jpg?w=1024",
-      "score": 85,
+      "score": 80,
+      "tags": []
+    },
+    {
+      "id": "5737d6df236a",
+      "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+      "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+      "summary": "Crusoe reportedly raises $3B at a  $30B valuation",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-04T00:48:42.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2245923419.jpg?resize=1200,800",
+      "score": 75,
       "tags": []
     },
     {
@@ -21,7 +33,7 @@
       "category": "AI",
       "published": "2026-09-03T18:37:57.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2024/09/vpn-privacy-cybersecurity-red-bright.jpg?resize=1200,831",
-      "score": 80,
+      "score": 75,
       "tags": []
     },
     {
@@ -33,11 +45,23 @@
       "category": "AI",
       "published": "2026-09-03T18:19:56.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2173579488.jpg?resize=1200,799",
-      "score": 80,
+      "score": 75,
       "tags": []
     }
   ],
   "科技": [
+    {
+      "id": "28b88b7dea2b",
+      "title": "Oura files to go public",
+      "url": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/",
+      "summary": "Oura files to go public",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-03T22:35:41.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/oura-ring-5.jpg?resize=1200,900",
+      "score": 75,
+      "tags": []
+    },
     {
       "id": "5e5df219fecc",
       "title": "Tesla is asking people if they want to buy and run Cybercab fleets",
@@ -83,18 +107,6 @@
       "category": "科技",
       "published": "2026-09-03T19:36:29.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/06/Mira-Murati-at-Bloomberg.jpg?w=1024",
-      "score": 65,
-      "tags": []
-    },
-    {
-      "id": "8130c45cd6d2",
-      "title": "Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit",
-      "url": "https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/",
-      "summary": "Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-03T19:29:16.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/05/realta-fusion-device.jpeg?resize=1200,900",
       "score": 65,
       "tags": []
     }
@@ -161,56 +173,6 @@
       "tags": []
     }
   ],
-  "开发": [
-    {
-      "id": "25c5720f9d76",
-      "title": "科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制",
-      "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html",
-      "summary": "这里记录每周值得分享的科技内容，周五发布",
-      "source": "阮一峰",
-      "category": "开发",
-      "published": "2026-08-27T23:56:43.000Z",
-      "image": "",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "dc2ac6ab0b24",
-      "title": "当 Agent 走出 App：WorkBuddy 的朋友圈开始向外生长",
-      "url": "https://www.infoq.cn/article/vogOaCpOeNfe0hjAXfzy?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-03T21:19:20.000Z",
-      "image": "https://static001.infoq.cn/resource/image/d1/40/d17e7230317294b9b250e96305d55f40.jpg"
-    },
-    {
-      "id": "bf12ccee872b",
-      "title": "从内部 Side Project 到 3.9 万开发者使用，Kiro Crew 创造者亲述开发幕后",
-      "url": "https://www.infoq.cn/article/hcQKK8OIfwlMKw2zQSS9?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-03T17:54:55.000Z",
-      "image": "https://static001.infoq.cn/resource/image/c0/8e/c064291070d45529b9dc8c97e692a58e.png"
-    },
-    {
-      "id": "84a3ed702c77",
-      "title": "当Agent开始“吃数据”，传统湖仓不够用了：华为云重构数据基础设施",
-      "url": "https://www.infoq.cn/article/IE4CYYwbLYYKSbg7lXfx?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-03T17:19:14.000Z",
-      "image": "https://static001.infoq.cn/resource/image/1c/27/1cf88f86fd29dddeede4b07622f38527.jpg"
-    },
-    {
-      "id": "d087649b7385",
-      "title": "3个月拿下 3000 star，只因我们比 MinerU 多做了这件事",
-      "url": "https://www.infoq.cn/article/SJOBmxzKUJ5kX7TLNVKC?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-03T17:09:32.000Z",
-      "image": "https://static001.infoq.cn/resource/image/50/33/502fb018f82222ec46a42fe011e12a33.jpg"
-    }
-  ],
   "政策": [
     {
       "id": "148659117e79",
@@ -261,14 +223,14 @@
       "tags": []
     },
     {
-      "id": "6e52471bb1a7",
-      "title": "大学生创业补贴，何以成了中介的“唐僧肉”？",
-      "url": "https://www.sohu.com/a/1069774505_122014422",
+      "id": "84f17ee0ed42",
+      "title": "媒体：高额抽成、开皮包公司骗补，大学生创业补贴何以成了中介的 ...",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-31/doc-iniqehwv7849018.shtml",
       "summary": "创业补贴本是政府为鼓励和支持高校毕业生等群体自主创业而设立的政策性扶持资金，各地标准从几千元到数十万元不等。然而，部分中介机构却盯上了这笔钱：有的以“代办申请”为名，收取服务费和高额抽成；有的甚至通过",
       "source": "Bing·大学生创业扶持政策",
       "category": "政策",
-      "published": "2026-08-30T22:02:00.000Z",
-      "image": "",
+      "published": "2026-08-30T17:00:00.000Z",
+      "image": "//n.sinaimg.cn/default/feedbackpics/transform/116/w550h366/20180418/ubGb-fzihnep5208613.png",
       "score": 50,
       "tags": []
     }
@@ -284,6 +246,30 @@
       "published": "2026-09-01T03:43:03.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 55,
+      "tags": []
+    },
+    {
+      "id": "b0d799bfdb3c",
+      "title": "全国小学、初中已全部完成新教材替换，这些学科改动大→",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-02/10688409.shtml",
+      "summary": "本周，全国大中小学开启秋季学期，伴随着开学，同学们的校园生活也迎来一系列新举措、新变化。其中，自2024年秋季学期开始陆续投入使用的新教材，到今年秋季学期，全国小学、初中阶段已全部完成替换",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-09-02T00:35:08.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "b90e185e3f5b",
+      "title": "如何将“健康第一”摆上餐桌？记者探访“开学第一餐”",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-02/10688382.shtml",
+      "summary": "开学第一天不仅要让孩子们学得好，也要吃得好。上午10点45分，在工作人员的带领下，记者走进北京市海淀区第二十中学附属实验学校的后厨，一进门烟火气扑面而来",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-09-01T23:39:46.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
       "tags": []
     },
     {
@@ -309,77 +295,100 @@
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 50,
       "tags": []
-    },
-    {
-      "id": "9d45e9f9a839",
-      "title": "2026年《开学第一课》聚焦“我们的长征路”主题",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-01/10687645.shtml",
-      "summary": "新华社北京8月31日电 (记者白瀛)由中央宣传部、教育部、中央广播电视总台联合主办的公益节目2026年《开学第一课》将于9月1日晚在央视综合频道播出",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-09-01T01:26:36.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "4202b45d11d6",
-      "title": "【开学季】德育“童”行：师生共创护苗剧场，携手共筑成长防线",
-      "url": "https://www.chinanews.com.cn/edu/2026/08-31/10687324.shtml",
-      "summary": "视频：【开学季】德育“童”行：师生共创护苗剧场，携手共筑成长防线来源：光明网",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-08-31T09:04:21.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
     }
   ],
   "财经": [
     {
-      "id": "a9b824db89d7",
-      "title": "AI短剧刷来刷去都是同一张脸 是技术难题还是创作取舍？",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-03/10689966.shtml",
+      "id": "0ee4caee0e9a",
+      "title": "一块铁皮，能锻造出“中国钢制家具之都”？",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690023.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-03T14:54:06.000Z",
+      "published": "2026-09-04T00:20:38.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "119234ad8460",
-      "title": "（活力中国调研行）“快餐式”杂粮走俏 中国黑土地农产品端上全球餐桌",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-03/10689957.shtml",
+      "id": "991e7f473dc0",
+      "title": "商品房销售走向“所见即所得”，房地产发展新模式加快构建",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690021.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-03T14:43:36.000Z",
+      "published": "2026-09-04T00:15:30.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "3d4556d16ae9",
-      "title": "中基协举办2026年公募基金首席信息官培训",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-03/10689955.shtml",
+      "id": "3d545c6caa2c",
+      "title": "为何越来越多的全球青年创业者扎根中国",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10690006.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-03T14:40:47.000Z",
+      "published": "2026-09-03T23:42:23.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "000d9cad8fea",
-      "title": "银川出台工业转型升级实施意见 加快构建现代化产业体系",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-03/10689952.shtml",
+      "id": "66f00b289236",
+      "title": "人工智能中小企业创业支持计划启动",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10689994.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-03T14:39:51.000Z",
+      "published": "2026-09-03T23:22:20.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "8e1f9ebe032d",
-      "title": "2026中国航空金融（东疆）国际论坛天津举行 国际参与度创新高",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-03/10689951.shtml",
+      "id": "a61962320be9",
+      "title": "广东省在香港发行离岸人民币地方政府债券75亿元",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-04/10689976.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-03T14:28:39.000Z",
+      "published": "2026-09-03T22:32:07.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    }
+  ],
+  "开发": [
+    {
+      "id": "dc2ac6ab0b24",
+      "title": "当 Agent 走出 App：WorkBuddy 的朋友圈开始向外生长",
+      "url": "https://www.infoq.cn/article/vogOaCpOeNfe0hjAXfzy?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-03T21:19:20.000Z",
+      "image": "https://static001.infoq.cn/resource/image/d1/40/d17e7230317294b9b250e96305d55f40.jpg"
+    },
+    {
+      "id": "bf12ccee872b",
+      "title": "从内部 Side Project 到 3.9 万开发者使用，Kiro Crew 创造者亲述开发幕后",
+      "url": "https://www.infoq.cn/article/hcQKK8OIfwlMKw2zQSS9?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-03T17:54:55.000Z",
+      "image": "https://static001.infoq.cn/resource/image/c0/8e/c064291070d45529b9dc8c97e692a58e.png"
+    },
+    {
+      "id": "84a3ed702c77",
+      "title": "当Agent开始“吃数据”，传统湖仓不够用了：华为云重构数据基础设施",
+      "url": "https://www.infoq.cn/article/IE4CYYwbLYYKSbg7lXfx?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-03T17:19:14.000Z",
+      "image": "https://static001.infoq.cn/resource/image/1c/27/1cf88f86fd29dddeede4b07622f38527.jpg"
+    },
+    {
+      "id": "d087649b7385",
+      "title": "3个月拿下 3000 star，只因我们比 MinerU 多做了这件事",
+      "url": "https://www.infoq.cn/article/SJOBmxzKUJ5kX7TLNVKC?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-03T17:09:32.000Z",
+      "image": "https://static001.infoq.cn/resource/image/50/33/502fb018f82222ec46a42fe011e12a33.jpg"
+    },
+    {
+      "id": "6d11ed36978f",
+      "title": "李飞飞首个多模态世界模型 Atlas 正式发布：从零开始预训练，几张图就能构建世界",
+      "url": "https://www.infoq.cn/article/9YiEhb3hAFtUlxOpMdGC?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-03T16:49:43.000Z",
+      "image": "https://static001.infoq.cn/resource/image/5f/55/5f6c7069786e603e264c0d3f093d2d55.jpg"
     }
   ]
 }
