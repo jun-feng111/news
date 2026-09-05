@@ -1,42 +1,6 @@
 {
   "AI": [
     {
-      "id": "a081a11168ff",
-      "title": "M&#038;T Bank expands enterprise AI after years of technology overhaul",
-      "url": "https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/",
-      "summary": "M&#38;T Bank has deployed AI copilots to more than 15,000 employees as the US regional bank applies ",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-09-04T10:00:00.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/MT-Bank-expands-enterprise-AI-after-years-of-technology-overhaul-scaled-e1788507690256.jpg",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "5a21b6934652",
-      "title": "50.5% of Americans Say AI Romance Can Count as Cheating",
-      "url": "https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/",
-      "summary": "Just over half of American adults, 50。5%, say a partner&#8217;s romantic or sexual relationship with",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-09-04T08:25:12.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/ai-romance-cheating-survey-2026.png",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "6a6bda6195d8",
-      "title": "OneRail uses Nvidia AI for real-time last-mile delivery optimisation",
-      "url": "https://www.artificialintelligence-news.com/news/ai-last-mile-delivery-optimisation/",
-      "summary": "OneRail has launched an AI-powered delivery platform that uses Nvidia technology to help retailers, ",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-09-03T16:07:18.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/OneRail-uses-Nvidia-AI-for-real-time-last-mile-delivery-optimisation-scaled-e1788451412147.jpg",
-      "score": 75,
-      "tags": []
-    },
-    {
       "id": "e160d21430ae",
       "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
       "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
@@ -49,15 +13,39 @@
       "tags": []
     },
     {
-      "id": "93d3506cb2c0",
-      "title": "NVIDIA to acquire Hugging Face for $12.93B",
-      "url": "https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b/",
-      "summary": "NVIDIA has agreed to acquire Hugging Face for $12。93 billion to scale the open-source model reposito",
-      "source": "AI News",
+      "id": "8455d4164fce",
+      "title": "Google&#8217;s Gemini Spark can now manage your Google Photos library",
+      "url": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+      "summary": "Google&#8217;s Gemini Spark can now manage your Google Photos library",
+      "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-09-03T15:50:31.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/nvidia-acquire-hugging-face-open-source-ai-model-repository-platform-infrastructure.jpg",
+      "published": "2026-09-04T14:47:11.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
       "score": 70,
+      "tags": []
+    },
+    {
+      "id": "2180a1fa6f13",
+      "title": "OpenAI&#8217;s rogue agents keep escaping, with no formal process to investigate them",
+      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+      "summary": "OpenAI&#8217;s rogue agents keep escaping, with no formal process to investigate them",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-04T23:15:11.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "718826050bb2",
+      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab&#8217;s knowledge",
+      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+      "summary": "Another swarm of OpenAI agents reached the open internet without the frontier lab&#8217;s knowledge",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-04T16:21:11.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-04-at-8.49.39-AM-e1788537064907.png?w=839",
+      "score": 65,
       "tags": []
     }
   ],
@@ -87,6 +75,30 @@
       "tags": []
     },
     {
+      "id": "bfcd16fb2c0f",
+      "title": "CD sales are making an unexpected comeback amid a retro tech boom",
+      "url": "https://techcrunch.com/2026/09/04/cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom/",
+      "summary": "CD sales are making an unexpected comeback amid a retro tech boom",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-04T15:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/compact-discs-and-headphones.jpg?resize=1200,402",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "0d15f805783d",
+      "title": "Krafton doubles down on India with another $250M bet beyond gaming",
+      "url": "https://techcrunch.com/2026/09/04/krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming/",
+      "summary": "Krafton doubles down on India with another $250M bet beyond gaming",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-04T14:47:20.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/krafton-india.jpg?resize=1200,800",
+      "score": 70,
+      "tags": []
+    },
+    {
       "id": "f48898262d8e",
       "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
       "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
@@ -97,27 +109,6 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/06/DSC_2479.jpg?resize=1200,800",
       "score": 60,
       "tags": []
-    },
-    {
-      "id": "8db57e630a4d",
-      "title": "Judge blocks X rival from using Twitter name, but allows &#8216;Tweet&#8217; for now",
-      "url": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/",
-      "summary": "Judge blocks X rival from using Twitter name, but allows &#8216;Tweet&#8217; for now",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-04T17:52:05.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/07/x-logo-impales-twitter-bird.jpg?resize=1200,675",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "718826050bb2",
-      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab&#8217;s knowledge",
-      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-04T16:21:11.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-04-at-8.49.39-AM-e1788537064907.png?w=839"
     }
   ],
   "就业": [
@@ -146,6 +137,18 @@
       "tags": []
     },
     {
+      "id": "532d1718bc17",
+      "title": "智联招聘：上半年成都AI行业招聘增速达到16.5%",
+      "url": "https://view.inews.qq.com/a/20260829A0COUW00",
+      "summary": "近日，由北京大学国家发展研究院（下称“北大国发院”）与智联招聘联合主办的北大国发院成都论坛暨818HR节主题论坛在成都举行。论坛以“经济重塑与AI革命双重挑战下的组织与个体”为主题，汇集学界专家与企业",
+      "source": "Bing·智联招聘",
+      "category": "就业",
+      "published": "2026-08-29T15:52:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/O2SsX4fxK3OeLrfD8rFwnRD7-Zind3h2eqKGSMm6HLm3UAA_640330/0",
+      "score": 60,
+      "tags": []
+    },
+    {
       "id": "0f21fccc7f0c",
       "title": "高级全栈工程师(C#.NET)-AI / Agent -上海五角场",
       "url": "https://www.v2ex.com/t/1239070#reply0",
@@ -166,18 +169,6 @@
       "category": "就业",
       "published": "2026-08-31T15:34:29.000Z",
       "image": "https://cdn.v2ex.com/avatar/713b/a15e/220284_large.png?m=1788190292",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "c0be05ffc2c3",
-      "title": "AI 3D 大模型公司 Tripo 3D 招一位偏基建的增长工程师",
-      "url": "https://www.v2ex.com/t/1238289#reply6",
-      "summary": "AI 3D 大模型公司 Tripo 3D 招一位偏基建的增长工程师",
-      "source": "V2EX·招聘",
-      "category": "就业",
-      "published": "2026-08-31T01:50:16.000Z",
-      "image": "https://cdn.v2ex.com/avatar/754c/42a2/336975_xlarge.png?m=1786470731",
       "score": 60,
       "tags": []
     }
@@ -270,6 +261,18 @@
       "tags": []
     },
     {
+      "id": "4c4ccc2923d3",
+      "title": "多地开设“大学生技师班”，大学毕业后再进技校补什么？",
+      "url": "https://news.qq.com/rain/a/20260903A095NC00",
+      "summary": "9月是开学季，记者近日采访发现，一批已经取得大专、本科学历的年轻人选择走进技工院校。8月30日，广东省机械技师学院迎来首届大学生技师班学员；此前的8月18日，2026年平湖市重点产业技能人才“双元制”",
+      "source": "Bing·大学生就业政策",
+      "category": "政策",
+      "published": "2026-09-03T09:58:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/O9rFgh-Ytjcxz5zN24PUxFpmomQiiWQT_4wlYB6-eNnD4AA_640330/0",
+      "score": 50,
+      "tags": []
+    },
+    {
       "id": "84f17ee0ed42",
       "title": "媒体：高额抽成、开皮包公司骗补，大学生创业补贴何以成了中介的 ...",
       "url": "https://finance.sina.com.cn/jjxw/2026-08-31/doc-iniqehwv7849018.shtml",
@@ -282,78 +285,75 @@
       "tags": []
     },
     {
-      "id": "6e52471bb1a7",
-      "title": "大学生创业补贴，何以成了中介的“唐僧肉”？",
-      "url": "https://www.sohu.com/a/1069774505_122014422",
-      "summary": "创业补贴本是政府为鼓励和支持高校毕业生等群体自主创业而设立的政策性扶持资金，各地标准从几千元到数十万元不等。然而，部分中介机构却盯上了这笔钱：有的以“代办申请”为名，收取服务费和高额抽成；有的甚至通过",
-      "source": "Bing·大学生创业扶持政策",
+      "id": "f5cb39eaf8f6",
+      "title": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
+      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202606/t20260602_1438600.html",
+      "summary": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
+      "source": "教育部",
       "category": "政策",
-      "published": "2026-08-30T22:02:00.000Z",
-      "image": "",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "4c7657fc91d8",
-      "title": "大学生创业补贴，咋就成了中介的“提款机”？",
-      "url": "https://news.cjn.cn/cjsp/100d/202609/t5335659.htm",
-      "summary": "据工人日报报道，创业补贴本是政府为鼓励和支持高校毕业生等群体自主创业而设立的政策性扶持资金，各地标准从几千元到数十万元不等。然而，部分中介机构却盯上了这笔钱：有的以“代办申请”为名，收取服务费和高额抽",
-      "source": "Bing·大学生创业扶持政策",
-      "category": "政策",
-      "published": "2026-09-02T02:41:00.000Z",
-      "image": "http://img.cjn.cn/2023cjn/page/img/wlcjx.jpg",
+      "published": "2026-06-02T00:00:00.000Z",
+      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
       "score": 50,
       "tags": []
     }
   ],
   "财经": [
     {
-      "id": "91abf6a63f7a",
-      "title": "从“煤海”到“数海” 山西以数智赋能能源高质量发展",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-05/10690922.shtml",
+      "id": "9c2dc9d51903",
+      "title": "岭南万物竞蓬勃——广东涵养经济生态助推高质量发展",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-05/10691090.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-05T07:45:16.000Z",
+      "published": "2026-09-05T12:21:38.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "e4629f233fcf",
-      "title": "贵阳往返吉隆坡航线加密提质",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-05/10690917.shtml",
+      "id": "8f893a91d24a",
+      "title": "佳木斯到哈尔滨“黄金水道”复航",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-05/10691077.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-05T06:28:30.000Z",
+      "published": "2026-09-05T12:18:02.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "3e357317cebe",
-      "title": "扩容升级！读懂消费新政“组合拳”背后的三层深意",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-05/10690901.shtml",
+      "id": "a3c6e633ae55",
+      "title": "十万亿级消费赛道发展提速 商品消费迎来新篇章",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-05/10691085.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-05T05:57:02.000Z",
+      "published": "2026-09-05T12:15:58.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "8a77e0fef330",
-      "title": "“自贡—南宁港—越南芹苴港”铁江海联运班列首发",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-05/10690885.shtml",
+      "id": "204f01505791",
+      "title": "我国商业航天迸发新动能",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-05/10691073.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-05T05:52:31.000Z",
+      "published": "2026-09-05T11:57:14.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "7507ded78cca",
-      "title": "中广核山东招远核电项目2号机组主体工程开工",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-05/10690879.shtml",
+      "id": "1d55565a97ad",
+      "title": "甘肃漳县：一株“苦”药材 种出“甜”日子",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-05/10691071.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-05T05:47:57.000Z",
+      "published": "2026-09-05T11:54:36.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ],
   "开发": [
+    {
+      "id": "d561e138eea9",
+      "title": "RTX 4060 跑 35B 模型，每秒 39 Token？伯克利、MIT 联手开源 FreeToken",
+      "url": "https://www.infoq.cn/article/tij5T0vJ1Yk0s7Uov7SE?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-05T17:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/c3/a0/c3f17d739d6f8a7c8a76946350dabba0.jpg"
+    },
     {
       "id": "1d8737498d3a",
       "title": "Uber GitFarm：面向大规模单体代码库的 Git 即服务平台",
@@ -389,15 +389,6 @@
       "category": "开发",
       "published": "2026-09-04T17:23:00.000Z",
       "image": "https://static001.infoq.cn/resource/image/26/42/26fbb7e60179aa4027626787d577e342.jpg"
-    },
-    {
-      "id": "e09e67ee30f0",
-      "title": "Cloudflare Wallets 迟来入局 x402：支出控制仅能约束单笔支付",
-      "url": "https://www.infoq.cn/article/B5bNUx3GzrUZGvDmBbFi?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-04T15:09:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/b2/30/b294470dcc26c13e8a2a8e3388658430.jpg"
     }
   ]
 }

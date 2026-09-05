@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-05T08:08:06.720Z",
-  "count": 127,
+  "updated": "2026-09-05T12:26:45.861Z",
+  "count": 123,
   "sources": {
-    "V2EX": 9,
+    "V2EX": 8,
     "RemoteOK": 100,
-    "Remotive": 18,
+    "Remotive": 15,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
@@ -46,25 +46,6 @@
       "category": "其他",
       "postedDate": "2026-09-04",
       "url": "https://www.v2ex.com/t/1239558",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1239531",
-      "title": "远程办公「渠道 BD/BD 实习生」 Crypto 交易所 对接北美/ 欧洲/ 越南 /CIS 市场",
-      "company": "AriaWanax",
-      "location": "国内",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "go"
-      ],
-      "category": "市场",
-      "postedDate": "2026-09-04",
-      "url": "https://www.v2ex.com/t/1239531",
       "source": "V2EX",
       "region": "domestic"
     },
@@ -2998,79 +2979,6 @@
       "category": "Information Technology",
       "postedDate": "2026-08-07",
       "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
-      "source": "Remotive",
-      "region": "foreign"
-    },
-    {
-      "id": "remotive-2091088",
-      "title": "Sales Jedi",
-      "company": "Creative Force",
-      "location": "Europe",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "saas",
-        "video",
-        "SOLID",
-        "chat",
-        "saas sales",
-        "mental health"
-      ],
-      "category": "Sales",
-      "postedDate": "2026-08-05",
-      "url": "https://remotive.com/remote-jobs/sales/sales-jedi-2091088",
-      "source": "Remotive",
-      "region": "foreign"
-    },
-    {
-      "id": "remotive-2091087",
-      "title": "SaaS Product Support Jedi",
-      "company": "Creative Force",
-      "location": "Europe, EMEA, UK, Germany, France, European timezones",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "api",
-        "CSS",
-        "go",
-        "html",
-        "javascript",
-        "saas",
-        "onboarding",
-        "chat",
-        "startup",
-        "troubleshooting",
-        "product support",
-        "testing"
-      ],
-      "category": "Customer Service",
-      "postedDate": "2026-08-05",
-      "url": "https://remotive.com/remote-jobs/customer-service/saas-product-support-jedi-2091087",
-      "source": "Remotive",
-      "region": "foreign"
-    },
-    {
-      "id": "remotive-1185979",
-      "title": "Freelance Writer",
-      "company": "IAPWE",
-      "location": "Worldwide",
-      "remote": true,
-      "salaryText": "$50-$75 /hour",
-      "salaryMin": 50,
-      "salaryMax": 75,
-      "salaryCurrency": "USD",
-      "skills": [
-        "REST"
-      ],
-      "category": "Writing",
-      "postedDate": "2026-08-04",
-      "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
       "source": "Remotive",
       "region": "foreign"
     }
