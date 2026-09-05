@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T23:48:08.546Z",
+  "updated": "2026-09-05T03:14:43.143Z",
   "count": 127,
   "sources": {
     "V2EX": 9,
@@ -9,6 +9,29 @@
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1239636",
+      "title": "居家居家岗位： 大数据应用运维工程师，运维助理， AI 应用工程师，高级 Go 后端工程师，浏览器内核工程师（C/C++ · Chromium）， C# 桌面客户端工程师（Avalonia · CEF/OSR）",
+      "company": "Brand001",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "java",
+        "go",
+        "c++",
+        "c#",
+        "flutter"
+      ],
+      "category": "后端",
+      "postedDate": "2026-09-05",
+      "url": "https://www.v2ex.com/t/1239636",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1239597",
       "title": "技术老登自救群｜数据标注、具身智能视频、技术点评，中年技术人互助群",
@@ -152,25 +175,6 @@
       "category": "其他",
       "postedDate": "2026-09-03",
       "url": "https://www.v2ex.com/t/1239203",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1239198",
-      "title": "株式会社 GSD 诚聘英才|东京 IT 技术岗 + 大连/东京营业岗同步热招中！",
-      "company": "GSDgsd",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "java"
-      ],
-      "category": "其他",
-      "postedDate": "2026-09-03",
-      "url": "https://www.v2ex.com/t/1239198",
       "source": "V2EX",
       "region": "domestic"
     },
