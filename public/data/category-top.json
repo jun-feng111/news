@@ -1,4 +1,54 @@
 {
+  "AI": [
+    {
+      "id": "f774e48a95a8",
+      "title": "Hikers rescued after using Google Gemini for planning",
+      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "summary": "Hikers rescued after using Google Gemini for planning",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-05T19:35:24.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2017/11/gettyimages-677147499.jpg?resize=1200,600",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "e160d21430ae",
+      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+      "summary": "AI compute provider Nscale is looking for $3。5B in pre-IPO financing",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-04T21:12:11.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2266843677.jpg?resize=1200,800",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "669fdcb55695",
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "summary": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-05T18:05:27.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "2180a1fa6f13",
+      "title": "OpenAI&#8217;s rogue agents keep escaping, with no formal process to investigate them",
+      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+      "summary": "OpenAI&#8217;s rogue agents keep escaping, with no formal process to investigate them",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-04T23:15:11.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
+      "score": 65,
+      "tags": []
+    }
+  ],
   "科技": [
     {
       "id": "6010f59d56bf",
@@ -61,65 +111,6 @@
       "tags": []
     }
   ],
-  "AI": [
-    {
-      "id": "e160d21430ae",
-      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-      "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
-      "summary": "AI compute provider Nscale is looking for $3。5B in pre-IPO financing",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-09-04T21:12:11.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2266843677.jpg?resize=1200,800",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "a081a11168ff",
-      "title": "M&#038;T Bank expands enterprise AI after years of technology overhaul",
-      "url": "https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/",
-      "summary": "M&#38;T Bank has deployed AI copilots to more than 15,000 employees as the US regional bank applies ",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-09-04T10:00:00.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/MT-Bank-expands-enterprise-AI-after-years-of-technology-overhaul-scaled-e1788507690256.jpg",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "5a21b6934652",
-      "title": "50.5% of Americans Say AI Romance Can Count as Cheating",
-      "url": "https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/",
-      "summary": "Just over half of American adults, 50。5%, say a partner&#8217;s romantic or sexual relationship with",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-09-04T08:25:12.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/ai-romance-cheating-survey-2026.png",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "2180a1fa6f13",
-      "title": "OpenAI&#8217;s rogue agents keep escaping, with no formal process to investigate them",
-      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-      "summary": "OpenAI&#8217;s rogue agents keep escaping, with no formal process to investigate them",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-09-04T23:15:11.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
-      "score": 65,
-      "tags": []
-    },
-    {
-      "id": "6a6bda6195d8",
-      "title": "OneRail uses Nvidia AI for real-time last-mile delivery optimisation",
-      "url": "https://www.artificialintelligence-news.com/news/ai-last-mile-delivery-optimisation/",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-09-03T16:07:18.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/OneRail-uses-Nvidia-AI-for-real-time-last-mile-delivery-optimisation-scaled-e1788451412147.jpg"
-    }
-  ],
   "就业": [
     {
       "id": "c76b56413d4a",
@@ -141,8 +132,18 @@
       "source": "算法工程师·就业分析",
       "category": "就业",
       "published": "2026-08-25T15:56:00.000Z",
-      "image": "",
       "score": 65,
+      "tags": []
+    },
+    {
+      "id": "d7d0ded828dc",
+      "title": "智联招聘818HR节圆满收官，共探AI时代HR价值新坐标",
+      "url": "http://union.china.com.cn/cmdt/txt/2026-09/04/content_43486703.shtml",
+      "summary": "8月24日，智联招聘与北京大学国家发展研究院 (以下简称“北大国发院”)在成都共同举办“北大国发院成都论坛暨818HR节主题论坛”，以“经济重塑与AI革命双重挑战下的组织与人”为主题，围绕如何利用新工",
+      "source": "Bing·智联招聘",
+      "category": "就业",
+      "published": "2026-09-03T17:00:00.000Z",
+      "score": 60,
       "tags": []
     },
     {
@@ -166,18 +167,6 @@
       "category": "就业",
       "published": "2026-08-31T15:34:29.000Z",
       "image": "https://cdn.v2ex.com/avatar/713b/a15e/220284_large.png?m=1788190292",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "c0be05ffc2c3",
-      "title": "AI 3D 大模型公司 Tripo 3D 招一位偏基建的增长工程师",
-      "url": "https://www.v2ex.com/t/1238289#reply6",
-      "summary": "AI 3D 大模型公司 Tripo 3D 招一位偏基建的增长工程师",
-      "source": "V2EX·招聘",
-      "category": "就业",
-      "published": "2026-08-31T01:50:16.000Z",
-      "image": "https://cdn.v2ex.com/avatar/754c/42a2/336975_xlarge.png?m=1786470731",
       "score": 60,
       "tags": []
     }
@@ -308,6 +297,17 @@
   ],
   "政策": [
     {
+      "id": "ed0822808f9b",
+      "title": "温州发布专项政策指南 为残疾人大学生就业创业“撑腰”",
+      "url": "https://news.66wz.com/system/2026/07/16/105805829.shtml",
+      "summary": "市人社局与市残联携手对现行最实用、最优惠的就创业补贴政策进行全面梳理，并形成《温州市残疾人大学生就业创业政策指南》，助力这一特殊群体跨越障碍，实现更加充分、更高质量的就业和创业。 温州网讯 为支持更多",
+      "source": "就业创业政策",
+      "category": "政策",
+      "published": "2026-07-16T01:51:00.000Z",
+      "score": 55,
+      "tags": []
+    },
+    {
       "id": "7530315d4a43",
       "title": "@丹东企业、高校毕业生、就业困难人员……2026版补贴政策请查收",
       "url": "https://news.qq.com/rain/a/20260815A06VPO00",
@@ -317,6 +317,18 @@
       "published": "2026-08-15T05:41:00.000Z",
       "image": "http://inews.gtimg.com/newsapp_ls/0/192333742_200200/0",
       "score": 55,
+      "tags": []
+    },
+    {
+      "id": "84f17ee0ed42",
+      "title": "媒体：高额抽成、开皮包公司骗补，大学生创业补贴何以成了中介的 ...",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-31/doc-iniqehwv7849018.shtml",
+      "summary": "创业补贴本是政府为鼓励和支持高校毕业生等群体自主创业而设立的政策性扶持资金，各地标准从几千元到数十万元不等。然而，部分中介机构却盯上了这笔钱：有的以“代办申请”为名，收取服务费和高额抽成；有的甚至通过",
+      "source": "Bing·大学生创业扶持政策",
+      "category": "政策",
+      "published": "2026-08-30T17:00:00.000Z",
+      "image": "//n.sinaimg.cn/default/feedbackpics/transform/116/w550h366/20180418/ubGb-fzihnep5208613.png",
+      "score": 50,
       "tags": []
     },
     {
@@ -332,38 +344,14 @@
       "tags": []
     },
     {
-      "id": "f5cb39eaf8f6",
-      "title": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
-      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202606/t20260602_1438600.html",
-      "summary": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
-      "source": "教育部",
+      "id": "efbef99e0d99",
+      "title": "聚焦高校毕业生就业 两部门发文部署五项活动（附支持政策清单）",
+      "url": "https://www.xinhuanet.com/edu//20260424/346df901c5cb47bd9b697a8e623224f5/c.html",
+      "summary": "日前，教育部、人力资源社会保障部联合印发通知，部署在全国范围内开展2026年高校毕业生就业政策宣传活动，帮助高校毕业生和用人单位全面了解、精准享受就业优惠政策，促进高校毕业生高质量充分就业。 2026",
+      "source": "就业创业政策",
       "category": "政策",
-      "published": "2026-06-02T00:00:00.000Z",
-      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "a3af074b2b9b",
-      "title": "2026-05-22教育部等八部门办公厅关于联合开展2026年度高校毕业生等重点群体促就业“国聘行动”的通知",
-      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202605/t20260522_1437356.html",
-      "summary": "2026-05-22教育部等八部门办公厅关于联合开展2026年度高校毕业生等重点群体促就业“国聘行动”的通知",
-      "source": "教育部",
-      "category": "政策",
-      "published": "2026-05-22T00:00:00.000Z",
-      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "20eed286abd8",
-      "title": "2026-04-24教育部办公厅 人力资源社会保障部办公厅关于开展2026年高校毕业生就业政策宣传活动的通知",
-      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202604/t20260423_1434600.html",
-      "summary": "2026-04-24教育部办公厅 人力资源社会保障部办公厅关于开展2026年高校毕业生就业政策宣传活动的通知",
-      "source": "教育部",
-      "category": "政策",
-      "published": "2026-04-23T00:00:00.000Z",
-      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+      "published": "2026-04-24T07:25:00.000Z",
+      "image": "https://www.news.cn/detail2020/images/ewm.png",
       "score": 50,
       "tags": []
     }
