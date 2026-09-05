@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T12:26:45.861Z",
+  "updated": "2026-09-05T15:51:08.973Z",
   "count": 123,
   "sources": {
     "V2EX": 8,
@@ -160,6 +160,36 @@
       "url": "https://www.v2ex.com/t/1239198",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "remoteok-1137307",
+      "title": "Junior Crypto Analyst & Trader",
+      "company": "Empire Assets",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "other",
+        "crypto",
+        "remote",
+        "trader",
+        "analyst",
+        "Binance",
+        "web3",
+        "bitcoin",
+        "ethereum",
+        "blockchain",
+        "defi",
+        "part time"
+      ],
+      "category": "other",
+      "postedDate": "2026-09-04",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137307",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137302",
@@ -2570,34 +2600,6 @@
       "category": "exec",
       "postedDate": "2026-08-27",
       "url": "https://remoteOK.com/remote-jobs/remote-assistant-manager-storage-king-group-1137161",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137156",
-      "title": "Senior Level Designer",
-      "company": "Blackbird Interactive",
-      "location": "Vancouver, BC, Canada",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "design",
-        "game dev",
-        "designer",
-        "technical",
-        "customer support",
-        "testing",
-        "content writing",
-        "senior",
-        "engineer",
-        "digital nomad"
-      ],
-      "category": "design",
-      "postedDate": "2026-08-27",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-level-designer-blackbird-interactive-1137156",
       "source": "RemoteOK",
       "region": "foreign"
     },
