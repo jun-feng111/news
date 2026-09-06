@@ -1,30 +1,6 @@
 {
   "AI": [
     {
-      "id": "a081a11168ff",
-      "title": "M&#038;T Bank expands enterprise AI after years of technology overhaul",
-      "url": "https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/",
-      "summary": "M&#38;T Bank has deployed AI copilots to more than 15,000 employees as the US regional bank applies ",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-09-04T10:00:00.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/MT-Bank-expands-enterprise-AI-after-years-of-technology-overhaul-scaled-e1788507690256.jpg",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "5a21b6934652",
-      "title": "50.5% of Americans Say AI Romance Can Count as Cheating",
-      "url": "https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/",
-      "summary": "Just over half of American adults, 50。5%, say a partner&#8217;s romantic or sexual relationship with",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-09-04T08:25:12.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/ai-romance-cheating-survey-2026.png",
-      "score": 70,
-      "tags": []
-    },
-    {
       "id": "f774e48a95a8",
       "title": "Hikers rescued after using Google Gemini for planning",
       "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
@@ -59,6 +35,30 @@
       "image": "https://techcrunch.com/wp-content/uploads/2023/03/artifact-newspaper-icon.jpg?resize=1200,645",
       "score": 65,
       "tags": []
+    },
+    {
+      "id": "669fdcb55695",
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "summary": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-05T18:05:27.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "2180a1fa6f13",
+      "title": "OpenAI&#8217;s rogue agents keep escaping, with no formal process to investigate them",
+      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+      "summary": "OpenAI&#8217;s rogue agents keep escaping, with no formal process to investigate them",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-04T23:15:11.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
+      "score": 60,
+      "tags": []
     }
   ],
   "科技": [
@@ -87,6 +87,18 @@
       "tags": []
     },
     {
+      "id": "eb999a1a327a",
+      "title": "What will Apple&#8217;s John Ternus era look like?",
+      "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+      "summary": "What will Apple&#8217;s John Ternus era look like",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-04T17:18:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2287301688.jpg?resize=1200,800",
+      "score": 65,
+      "tags": []
+    },
+    {
       "id": "f48898262d8e",
       "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
       "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
@@ -102,19 +114,13 @@
       "id": "8db57e630a4d",
       "title": "Judge blocks X rival from using Twitter name, but allows &#8216;Tweet&#8217; for now",
       "url": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/",
+      "summary": "Judge blocks X rival from using Twitter name, but allows &#8216;Tweet&#8217; for now",
       "source": "TechCrunch",
       "category": "科技",
       "published": "2026-09-04T17:52:05.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/07/x-logo-impales-twitter-bird.jpg?resize=1200,675"
-    },
-    {
-      "id": "eb999a1a327a",
-      "title": "What will Apple&#8217;s John Ternus era look like?",
-      "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-04T17:18:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2287301688.jpg?resize=1200,800"
+      "image": "https://techcrunch.com/wp-content/uploads/2023/07/x-logo-impales-twitter-bird.jpg?resize=1200,675",
+      "score": 55,
+      "tags": []
     }
   ],
   "就业": [
@@ -192,6 +198,42 @@
       "tags": []
     },
     {
+      "id": "bd4dca351a29",
+      "title": "坚持以赛促教，截至目前累计近600万青年教师在比赛中磨砺技能",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-04/10690387.shtml",
+      "summary": "中新网9月4日电 教育部9月4日举行新闻发布会。会上，中国教科文卫体工会主席高洁介绍教师关爱与权益维护有关情况",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-09-04T08:32:45.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "e15ec9f37d98",
+      "title": "【青春华章·长征路上山河新】藏在家书里的长征故事",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-04/10690456.shtml",
+      "summary": "视频：【青春华章·长征路上山河新】藏在家书里的长征故事来源：中国青年网",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-09-04T09:28:42.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "de6ba1166b1c",
+      "title": "【职引未来】从校园到果园：这些新农人的青春剧本从田野起笔",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-04/10690292.shtml",
+      "summary": "视频：【职引未来】从校园到果园：这些新农人的青春剧本从田野起笔来源：光明网",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-09-04T06:28:35.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
+    },
+    {
       "id": "a537386b3413",
       "title": "广东亮出基础教育“家底”，支撑教育强省新发展",
       "url": "https://www.chinanews.com.cn/edu/2026/09-04/10690220.shtml",
@@ -202,106 +244,21 @@
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 50,
       "tags": []
-    },
-    {
-      "id": "40498157528e",
-      "title": "孩子写作业先问AI，家长怎么办",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-03/10689179.shtml",
-      "summary": "孩子写作业先问AI，家长怎么办(教育优质均衡发展·四问“人工智能+教育”①)",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-09-02T23:14:41.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "625bf7c4a87b",
-      "title": "新学期，新变化——各地多措并举护航学生成长",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-02/10689151.shtml",
-      "summary": "9月1日，全国各地中小学迎来秋季新学期",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-09-02T14:48:51.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "a5fe0980f0c7",
-      "title": "中新网评：家长提议凑600元请保洁打扫教室，这个钱该不该花？",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-02/10688884.shtml",
-      "summary": "中新网北京9月2日电(记者 袁秀月)开学了，教室卫生，谁来打扫",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-09-02T09:22:15.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
-    }
-  ],
-  "政策": [
-    {
-      "id": "315c4b42ff3b",
-      "title": "构建就业友好型发展方式，让大学生更好应对AI挑战",
-      "url": "https://www.yicai.com/news/103341420.html",
-      "summary": "构建就业友好型发展方式，核心在于将高校、企业、政府等纳入同一生态位，通过制度创新与执行到位来缩短“培养端”与“需求端”的距离，从而更好促进AI时代背景下高校毕业生的高质量充分就业。主要有以下几点对策建",
-      "source": "Bing·大学生就业政策",
-      "category": "政策",
-      "published": "2026-08-31T13:24:00.000Z",
-      "image": "data:image/png;base64,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",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "ed0822808f9b",
-      "title": "温州发布专项政策指南 为残疾人大学生就业创业“撑腰”",
-      "url": "https://news.66wz.com/system/2026/07/16/105805829.shtml",
-      "summary": "市人社局与市残联携手对现行最实用、最优惠的就创业补贴政策进行全面梳理，并形成《温州市残疾人大学生就业创业政策指南》，助力这一特殊群体跨越障碍，实现更加充分、更高质量的就业和创业。 温州网讯 为支持更多",
-      "source": "就业创业政策",
-      "category": "政策",
-      "published": "2026-07-16T01:51:00.000Z",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "7530315d4a43",
-      "title": "@丹东企业、高校毕业生、就业困难人员……2026版补贴政策请查收",
-      "url": "https://news.qq.com/rain/a/20260815A06VPO00",
-      "summary": "近日，丹东市人力资源和社会保障局发布《丹东市就业创业政策清单（2026版）》，集中梳理了当前全市就业创业领域的重点扶持政策，方便企业和市民“对号入座”、应享尽享。清单分为“企业类”和“个人类”两大板块",
-      "source": "就业创业政策",
-      "category": "政策",
-      "published": "2026-08-15T05:41:00.000Z",
-      "image": "http://inews.gtimg.com/newsapp_ls/0/192333742_200200/0",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "4c4ccc2923d3",
-      "title": "多地开设“大学生技师班”，大学毕业后再进技校补什么？",
-      "url": "https://news.qq.com/rain/a/20260903A095NC00",
-      "summary": "9月是开学季，记者近日采访发现，一批已经取得大专、本科学历的年轻人选择走进技工院校。8月30日，广东省机械技师学院迎来首届大学生技师班学员；此前的8月18日，2026年平湖市重点产业技能人才“双元制”",
-      "source": "Bing·大学生就业政策",
-      "category": "政策",
-      "published": "2026-09-03T09:58:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/O9rFgh-Ytjcxz5zN24PUxFpmomQiiWQT_4wlYB6-eNnD4AA_640330/0",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "84f17ee0ed42",
-      "title": "媒体：高额抽成、开皮包公司骗补，大学生创业补贴何以成了中介的 ...",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-31/doc-iniqehwv7849018.shtml",
-      "summary": "创业补贴本是政府为鼓励和支持高校毕业生等群体自主创业而设立的政策性扶持资金，各地标准从几千元到数十万元不等。然而，部分中介机构却盯上了这笔钱：有的以“代办申请”为名，收取服务费和高额抽成；有的甚至通过",
-      "source": "Bing·大学生创业扶持政策",
-      "category": "政策",
-      "published": "2026-08-30T17:00:00.000Z",
-      "image": "//n.sinaimg.cn/default/feedbackpics/transform/116/w550h366/20180418/ubGb-fzihnep5208613.png",
-      "score": 50,
-      "tags": []
     }
   ],
   "开发": [
+    {
+      "id": "63222a7e3c37",
+      "title": "谷歌云发布 AI 智能体，简化数据库生命周期管理",
+      "url": "https://www.infoq.cn/article/iV0rsPyO5XZDJ7797hLJ?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/iV0rsPyO5XZDJ7797hLJ",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-04T09:21:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/89/6e/89db982ebec2c7e2684528d6a22acc6e.jpg",
+      "score": 60,
+      "tags": []
+    },
     {
       "id": "dc2ac6ab0b24",
       "title": "当 Agent 走出 App：WorkBuddy 的朋友圈开始向外生长",
@@ -339,74 +296,124 @@
       "tags": []
     },
     {
-      "id": "bf12ccee872b",
-      "title": "从内部 Side Project 到 3.9 万开发者使用，Kiro Crew 创造者亲述开发幕后",
-      "url": "https://www.infoq.cn/article/hcQKK8OIfwlMKw2zQSS9?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/hcQKK8OIfwlMKw2zQSS9",
+      "id": "132c6e52ef20",
+      "title": "人人都能整个“自己的DeepSeek Harness”，那我们为啥还在给Claude Code们充会员？",
+      "url": "https://www.infoq.cn/article/6Jc130IN2OaXqsPDIzmJ?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/6Jc130IN2OaXqsPDIzmJ",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-09-03T17:54:55.000Z",
-      "image": "https://static001.infoq.cn/resource/image/c0/8e/c064291070d45529b9dc8c97e692a58e.png",
+      "published": "2026-09-04T10:22:50.000Z",
+      "image": "https://static001.infoq.cn/resource/image/6a/9b/6a8f4578f6416251975c0213bd11de9b.png",
+      "score": 50,
+      "tags": []
+    }
+  ],
+  "政策": [
+    {
+      "id": "315c4b42ff3b",
+      "title": "构建就业友好型发展方式，让大学生更好应对AI挑战",
+      "url": "https://www.yicai.com/news/103341420.html",
+      "summary": "构建就业友好型发展方式，核心在于将高校、企业、政府等纳入同一生态位，通过制度创新与执行到位来缩短“培养端”与“需求端”的距离，从而更好促进AI时代背景下高校毕业生的高质量充分就业。主要有以下几点对策建",
+      "source": "Bing·大学生就业政策",
+      "category": "政策",
+      "published": "2026-08-31T13:24:00.000Z",
+      "image": "data:image/png;base64,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",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "be66c6a0ee6d",
+      "title": "银团携手送政策 金融赋能助青创——酒泉团市委开展“启林”贷款 ...",
+      "url": "https://www.sohu.com/a/1071916049_121106869",
+      "summary": "为进一步拓宽扶持大学生青年创业“启林”贷款政策宣传覆盖面，打通青年创业金融服务“最后一公里”，切实帮助广大大学生、返乡创业青年破解融资难题。9月4日，酒泉团市委联合中国农业银行酒泉分行开展“启林”贷款",
+      "source": "Bing·大学生创业扶持政策",
+      "category": "政策",
+      "published": "2026-09-04T10:21:00.000Z",
+      "image": "https://q4.itc.cn/q_70/images03/20260904/61314eec639d4c03a4d7714e5720d9f5.png",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "7530315d4a43",
+      "title": "@丹东企业、高校毕业生、就业困难人员……2026版补贴政策请查收",
+      "url": "https://news.qq.com/rain/a/20260815A06VPO00",
+      "summary": "近日，丹东市人力资源和社会保障局发布《丹东市就业创业政策清单（2026版）》，集中梳理了当前全市就业创业领域的重点扶持政策，方便企业和市民“对号入座”、应享尽享。清单分为“企业类”和“个人类”两大板块",
+      "source": "就业创业政策",
+      "category": "政策",
+      "published": "2026-08-15T05:41:00.000Z",
+      "image": "http://inews.gtimg.com/newsapp_ls/0/192333742_200200/0",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "4c4ccc2923d3",
+      "title": "多地开设“大学生技师班”，大学毕业后再进技校补什么？",
+      "url": "https://news.qq.com/rain/a/20260903A095NC00",
+      "summary": "9月是开学季，记者近日采访发现，一批已经取得大专、本科学历的年轻人选择走进技工院校。8月30日，广东省机械技师学院迎来首届大学生技师班学员；此前的8月18日，2026年平湖市重点产业技能人才“双元制”",
+      "source": "Bing·大学生就业政策",
+      "category": "政策",
+      "published": "2026-09-03T09:58:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/O9rFgh-Ytjcxz5zN24PUxFpmomQiiWQT_4wlYB6-eNnD4AA_640330/0",
       "score": 50,
       "tags": []
     },
     {
-      "id": "d087649b7385",
-      "title": "3个月拿下 3000 star，只因我们比 MinerU 多做了这件事",
-      "url": "https://www.infoq.cn/article/SJOBmxzKUJ5kX7TLNVKC?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/SJOBmxzKUJ5kX7TLNVKC",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-03T17:09:32.000Z",
-      "image": "https://static001.infoq.cn/resource/image/50/33/502fb018f82222ec46a42fe011e12a33.jpg",
+      "id": "8535482c6f05",
+      "title": "赋能青年成长 助力儋洋发展——我市开展高校毕业生等青年就业创业 ...",
+      "url": "https://www.sohu.com/a/1071963120_121106994",
+      "summary": "为扎实推进海南省“1131”就业服务专项行动，切实做好高校毕业生等重点青年就业创业帮扶工作，破解青年求职方向不明、就业技能不足、创业思路不清等现实问题，引导广大青年实现更加充分更高质量就业，2026年",
+      "source": "Bing·高校毕业生就业创业政策",
+      "category": "政策",
+      "published": "2026-09-04T09:24:00.000Z",
+      "image": "https://q3.itc.cn/q_70/images03/20260904/00b682bc330f4f82acdb8128e0758007.jpeg",
       "score": 50,
       "tags": []
     }
   ],
   "财经": [
     {
-      "id": "cc0e84562ee7",
-      "title": "第二届高品质肉牛全产业链发展大会在黑河举行",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-06/10691344.shtml",
+      "id": "21182df1b5d2",
+      "title": "广州五六线项目四线检查库钢构主体安装完成",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-06/10691474.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-06T05:28:39.000Z",
+      "published": "2026-09-06T09:35:44.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "f8c583e59b59",
-      "title": "甘肃漳县一株野草药“串”起乡村致富链",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-06/10691342.shtml",
+      "id": "5fdb1035e1c9",
+      "title": "2026精益数字化创新大会启幕 业界共探AI赋能制造新路径",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-06/10691440.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-06T05:26:41.000Z",
+      "published": "2026-09-06T09:02:32.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "1c17fb358292",
-      "title": "深山里的全球订单如何走向世界餐桌与市场",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-06/10691331.shtml",
+      "id": "10e4e743752c",
+      "title": "中国人保拟募资不超过150亿元用于补充资本金",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-06/10691446.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-06T04:53:56.000Z",
+      "published": "2026-09-06T08:49:07.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "a051cf125617",
-      "title": "福建首条直飞英国客运航线在厦门开通",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-06/10691302.shtml",
+      "id": "a0c752c5a0f1",
+      "title": "首艘海船靠泊广西南宁港六景港区 实现“海船入邕”历史性突破",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-06/10691435.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-06T03:47:58.000Z",
+      "published": "2026-09-06T08:40:41.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "a44301b40eb3",
-      "title": "云南怒江咖啡数字科创技术首次反向落地非洲咖啡核心产区",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-06/10691285.shtml",
+      "id": "d714ed873808",
+      "title": "从华人小店到国际餐桌 湘菜打开国际消费新空间",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-06/10691423.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-06T03:46:14.000Z",
+      "published": "2026-09-06T08:20:46.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
