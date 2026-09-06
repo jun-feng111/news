@@ -1,14 +1,31 @@
 {
-  "updated": "2026-09-06T13:59:25.803Z",
-  "count": 124,
+  "updated": "2026-09-06T16:50:46.791Z",
+  "count": 123,
   "sources": {
-    "V2EX": 6,
+    "V2EX": 5,
     "RemoteOK": 100,
     "Remotive": 18,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1239863",
+      "title": "web3 运营",
+      "company": "moneymaker111",
+      "location": "招聘",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [],
+      "category": "运营",
+      "postedDate": "2026-09-06",
+      "url": "https://www.v2ex.com/t/1239863",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1239793",
       "title": "安克 2027 届校招内推，有想了解的可以来聊聊",
@@ -80,48 +97,6 @@
       "category": "其他",
       "postedDate": "2026-09-04",
       "url": "https://www.v2ex.com/t/1239502",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1239229",
-      "title": "招聘： 1、资深前端工程师 or 前端小 Leader（需要一线做事）， 2、体验产品负责人， 3、BD/Senior BD/Lead BD。",
-      "company": "justinX",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "typescript",
-        "react",
-        "vue"
-      ],
-      "category": "前端",
-      "postedDate": "2026-09-03",
-      "url": "https://www.v2ex.com/t/1239229",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1239227",
-      "title": "FydeOS 燧炻创新 2026 实习岗位：系统工程师",
-      "company": "SharonPan",
-      "location": "北京/青岛",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "go",
-        "c++",
-        "linux"
-      ],
-      "category": "运维/SRE",
-      "postedDate": "2026-09-03",
-      "url": "https://www.v2ex.com/t/1239227",
       "source": "V2EX",
       "region": "domestic"
     },
