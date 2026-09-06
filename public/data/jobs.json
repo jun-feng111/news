@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-06T10:23:44.026Z",
-  "count": 122,
+  "updated": "2026-09-06T13:59:25.803Z",
+  "count": 124,
   "sources": {
-    "V2EX": 7,
+    "V2EX": 6,
     "RemoteOK": 100,
-    "Remotive": 15,
+    "Remotive": 18,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
@@ -126,21 +126,58 @@
       "region": "domestic"
     },
     {
-      "id": "v2ex-1239219",
-      "title": "北京 | 上海 全栈， Agent 开发 职位推荐 ，希望资深一点",
-      "company": "cayaxu",
-      "location": "国内",
-      "remote": false,
+      "id": "remotive-2091088",
+      "title": "Sales Jedi",
+      "company": "Creative Force",
+      "location": "Europe",
+      "remote": true,
       "salaryText": "",
       "salaryMin": null,
       "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [],
-      "category": "全栈",
-      "postedDate": "2026-09-03",
-      "url": "https://www.v2ex.com/t/1239219",
-      "source": "V2EX",
-      "region": "domestic"
+      "salaryCurrency": "",
+      "skills": [
+        "saas",
+        "video",
+        "SOLID",
+        "chat",
+        "saas sales",
+        "mental health"
+      ],
+      "category": "Sales",
+      "postedDate": "2026-09-05",
+      "url": "https://remotive.com/remote-jobs/sales/sales-jedi-2091088",
+      "source": "Remotive",
+      "region": "foreign"
+    },
+    {
+      "id": "remotive-2091087",
+      "title": "SaaS Product Support Jedi",
+      "company": "Creative Force",
+      "location": "Europe, EMEA, UK, Germany, France, European timezones",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "api",
+        "CSS",
+        "go",
+        "html",
+        "javascript",
+        "saas",
+        "onboarding",
+        "chat",
+        "startup",
+        "troubleshooting",
+        "product support",
+        "testing"
+      ],
+      "category": "Customer Service",
+      "postedDate": "2026-09-05",
+      "url": "https://remotive.com/remote-jobs/customer-service/saas-product-support-jedi-2091087",
+      "source": "Remotive",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137307",
@@ -170,6 +207,25 @@
       "postedDate": "2026-09-04",
       "url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137307",
       "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remotive-1185979",
+      "title": "Freelance Writer",
+      "company": "IAPWE",
+      "location": "Worldwide",
+      "remote": true,
+      "salaryText": "$50-$75 /hour",
+      "salaryMin": 50,
+      "salaryMax": 75,
+      "salaryCurrency": "USD",
+      "skills": [
+        "REST"
+      ],
+      "category": "Writing",
+      "postedDate": "2026-09-04",
+      "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
+      "source": "Remotive",
       "region": "foreign"
     },
     {
