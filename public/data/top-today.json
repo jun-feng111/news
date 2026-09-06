@@ -1,11 +1,23 @@
 [
   {
-    "id": "3997b3420fb1",
-    "title": "Authors push back as publishers and agents seek share of Anthropic settlement",
-    "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-    "summary": "Authors push back as publishers and agents seek share of Anthropic settlement",
+    "id": "4d1388743b58",
+    "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
+    "url": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
+    "summary": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
     "source": "TechCrunch",
     "category": "科技",
+    "published": "2026-09-06T21:41:06.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/07/app-store-ios-2022-a.jpg?resize=1200,675",
+    "score": 75,
+    "tags": []
+  },
+  {
+    "id": "3997b3420fb1",
+    "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+    "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+    "summary": "Authors push back as publishers and agents make claims on Anthropic settlement",
+    "source": "TechCrunch",
+    "category": "AI",
     "published": "2026-09-06T20:47:37.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?resize=1200,800",
     "score": 75,
@@ -20,7 +32,7 @@
     "category": "科技",
     "published": "2026-09-06T16:45:00.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/travis-kalanick-fii.jpg?resize=1200,800",
-    "score": 75,
+    "score": 70,
     "tags": []
   },
   {
@@ -32,19 +44,7 @@
     "category": "科技",
     "published": "2026-09-06T16:08:00.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-street-getty.jpg?resize=1200,800",
-    "score": 75,
-    "tags": []
-  },
-  {
-    "id": "8a7e0f31a983",
-    "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-    "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-    "summary": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-    "source": "TechCrunch",
-    "category": "AI",
-    "published": "2026-09-05T22:49:55.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/03/artifact-newspaper-icon.jpg?resize=1200,645",
-    "score": 65,
+    "score": 70,
     "tags": []
   },
   {
@@ -84,6 +84,18 @@
     "tags": []
   },
   {
+    "id": "8b384ca8fe27",
+    "title": "German company becomes first in Europe to launch fully commercial orbital rocket",
+    "url": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/",
+    "summary": "German company becomes first in Europe to launch fully commercial orbital rocket",
+    "source": "Ars Technica",
+    "category": "科技",
+    "published": "2026-09-06T11:55:26.000Z",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Spectrum_mission_Onwards_and_upwards_liftoff_pillars-1152x648.jpg",
+    "score": 65,
+    "tags": []
+  },
+  {
     "id": "c76b56413d4a",
     "title": "AI人才缺口超500万！有最新报告称，AI抢人逻辑悄悄变了：架构师新发 ...",
     "url": "https://news.qq.com/rain/a/20260718A08XHR00",
@@ -105,18 +117,6 @@
     "published": "2026-08-25T15:56:00.000Z",
     "image": "",
     "score": 65,
-    "tags": []
-  },
-  {
-    "id": "669fdcb55695",
-    "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-    "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-    "summary": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-    "source": "TechCrunch",
-    "category": "AI",
-    "published": "2026-09-05T18:05:27.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
-    "score": 60,
     "tags": []
   }
 ]

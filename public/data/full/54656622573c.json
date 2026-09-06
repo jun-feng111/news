@@ -1,0 +1,7 @@
+{
+  "id": "54656622573c",
+  "title": "人工清理问题数据：先查准，再删除 - AlfredZhao",
+  "url": "https://www.cnblogs.com/jyzhao/p/22867827",
+  "contentZh": "",
+  "contentFull": "\n    \n    \n\n    人工清理问题数据：先查准，再删除\n    \n\n\n\n    \n2026-09-07 07:16 \nAlfredZhao \n阅读(0) \n评论() \n \n收藏 \n举报\n\n当发现某条历史数据有误时，人工清理的关键不是直接执行删除，而是先确认条件是否只定位到目标记录。\n例如，需要处理 Alfred 在 W42、D7 的错误历史数据时，应先使用 week、Day 和 username 组合定位记录，再基于完全相同的条件执行删除。\nflowchart TD\n    A[发现历史数据有问题] --> B[按 week、Day、username 查询]\n    B --> C[确认结果为目标记录]\n    C --> D[使用相同条件删除]\n01 | 为什么不能直接删除\n删除语句会按 where 条件移除数据。若条件不准确，可能删除不相关记录。\n因此，人工清理的基本流程应保持一致：\n\n先定位目标数据；\n确认查询结果；\n再使用相同条件执行删除。\n\n02 | 操作步骤\n① 查询并确认目标记录\n先确认 W42、D7 和 Alfred 的组合只定位到需要处理的历史数据：\nselect *\nfrom t_history\nwhere week = 'W42'\n  and Day = 'D7'\n  and username = 'Alfred';\n\n此步骤用于核对处理对象，确认查询结果正是需要删除的那一条数据。\n② 使用相同条件删除错误数据\n确认无误后，建议在可回滚的事务中执行删除，并核对受影响行数和删除后的查询结果；确认无误后再提交，发现异常则回滚：\ndelete\nfrom t_history\nwhere week = 'W42'\n  and Day = 'D7'\n  and username = 'Alfred';\n\n03 | 注意事项\n人工清理时，应保证查询条件与删除条件完全一致：\n\n\n\n条件字段\n本次定位值\n\n\n\n\nweek\nW42\n\n\nDay\nD7\n\n\nusername\nAlfred\n\n\n\nweek、Day 与 username 共同用于定位目标记录。先查询、后删除，可以让清理对象更清晰，也便于核对。\n04 | 总结\n处理历史错误数据时，核心原则是“先查准，再删除”。\n针对 Alfred 的 W42、D7 数据，应先执行查询确认，再使用相同的 where 条件删除目标记录。\n关注我，和AI一起成长~\n\n\n\n    \n        \n    \n"
+}

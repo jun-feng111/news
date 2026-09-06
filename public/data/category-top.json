@@ -1,14 +1,14 @@
 {
   "科技": [
     {
-      "id": "3997b3420fb1",
-      "title": "Authors push back as publishers and agents seek share of Anthropic settlement",
-      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-      "summary": "Authors push back as publishers and agents seek share of Anthropic settlement",
+      "id": "4d1388743b58",
+      "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
+      "url": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
+      "summary": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-09-06T20:47:37.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?resize=1200,800",
+      "published": "2026-09-06T21:41:06.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/07/app-store-ios-2022-a.jpg?resize=1200,675",
       "score": 75,
       "tags": []
     },
@@ -21,7 +21,7 @@
       "category": "科技",
       "published": "2026-09-06T16:45:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/travis-kalanick-fii.jpg?resize=1200,800",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -33,7 +33,7 @@
       "category": "科技",
       "published": "2026-09-06T16:08:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-street-getty.jpg?resize=1200,800",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -63,15 +63,15 @@
   ],
   "AI": [
     {
-      "id": "8a7e0f31a983",
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "summary": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "id": "3997b3420fb1",
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "summary": "Authors push back as publishers and agents make claims on Anthropic settlement",
       "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-09-05T22:49:55.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/03/artifact-newspaper-icon.jpg?resize=1200,645",
-      "score": 65,
+      "published": "2026-09-06T20:47:37.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?resize=1200,800",
+      "score": 75,
       "tags": []
     },
     {
@@ -87,6 +87,18 @@
       "tags": []
     },
     {
+      "id": "8a7e0f31a983",
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "summary": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-05T22:49:55.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/03/artifact-newspaper-icon.jpg?resize=1200,645",
+      "score": 60,
+      "tags": []
+    },
+    {
       "id": "669fdcb55695",
       "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
       "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
@@ -95,18 +107,6 @@
       "category": "AI",
       "published": "2026-09-05T18:05:27.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "2180a1fa6f13",
-      "title": "OpenAI&#8217;s rogue agents keep escaping, with no formal process to investigate them",
-      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-      "summary": "OpenAI&#8217;s rogue agents keep escaping, with no formal process to investigate them",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-09-04T23:15:11.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
       "score": 60,
       "tags": []
     },
@@ -269,6 +269,18 @@
       "tags": []
     },
     {
+      "id": "281e560135a5",
+      "title": "鸿蒙 AI Coding 的研发新范式与工程实践",
+      "url": "https://www.infoq.cn/article/4C4RQUGPhAXgcx8G64ab?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/4C4RQUGPhAXgcx8G64ab",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-04T22:18:30.000Z",
+      "image": "https://static001.infoq.cn/resource/image/c6/84/c677e940a46e313b703b6a518d3b5384.jpg",
+      "score": 55,
+      "tags": []
+    },
+    {
       "id": "0c956523396f",
       "title": "AI 浪潮里，听见一线的声音｜AICon 深圳 2026 优秀出品人   明星讲师名单揭晓",
       "url": "https://www.infoq.cn/article/6EYVBX5UD2Cb0PWYsPCq?utm_source=rss&amp;utm_medium=article",
@@ -289,18 +301,6 @@
       "category": "开发",
       "published": "2026-09-03T21:19:20.000Z",
       "image": "https://static001.infoq.cn/resource/image/d1/40/d17e7230317294b9b250e96305d55f40.jpg",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "84a3ed702c77",
-      "title": "当Agent开始“吃数据”，传统湖仓不够用了：华为云重构数据基础设施",
-      "url": "https://www.infoq.cn/article/IE4CYYwbLYYKSbg7lXfx?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/IE4CYYwbLYYKSbg7lXfx",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-03T17:19:14.000Z",
-      "image": "https://static001.infoq.cn/resource/image/1c/27/1cf88f86fd29dddeede4b07622f38527.jpg",
       "score": 55,
       "tags": []
     }
@@ -343,18 +343,6 @@
       "tags": []
     },
     {
-      "id": "2e4b00a270dd",
-      "title": "以金融之力，托举青春梦想 ——湖南银行支持大学生创业贷款余额 ...",
-      "url": "https://www.sohu.com/a/1071963250_120808812",
-      "summary": "“背上双肩包，来湖南创业。”这句诚挚邀约，因金融活水的注入而更加有力",
-      "source": "Bing·大学生就业政策",
-      "category": "政策",
-      "published": "2026-09-04T12:38:00.000Z",
-      "image": "//q2.itc.cn/images01/20260904/a75327611be647ae8046216bd2530614.jpeg",
-      "score": 50,
-      "tags": []
-    },
-    {
       "id": "8acaccb63dbc",
       "title": "高校毕业生等青年就业服务“八个一”行动正式启动！",
       "url": "https://www.sohu.com/a/1071964450_121106832",
@@ -363,6 +351,18 @@
       "category": "政策",
       "published": "2026-09-04T11:27:00.000Z",
       "image": "https://q4.itc.cn/q_70/images03/20260904/a585f9f70ad649e7a4c0661a555d48a2.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "83bb062df079",
+      "title": "池州市残联持续推进高校残疾人毕业生就业服务工作",
+      "url": "https://www.sohu.com/a/1071852059_121106832",
+      "summary": "为全力做好2026年43名高校残疾人毕业生就业服务工作，池州市残联迅速行动，精密部署，目前已就业24人，升学6人，拟参加公招考试1人，去向落实率达69。 一是高度重视，加强领导 将高校残疾人毕业生就业",
+      "source": "Bing·高校毕业生就业创业政策",
+      "category": "政策",
+      "published": "2026-09-04T08:12:00.000Z",
+      "image": "https://q1.itc.cn/q_70/images03/20260904/d2176c642a8c4661b81f7cc7caadaa90.jpeg",
       "score": 50,
       "tags": []
     }
