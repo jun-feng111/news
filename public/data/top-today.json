@@ -36,18 +36,6 @@
     "tags": []
   },
   {
-    "id": "6010f59d56bf",
-    "title": "Clucky&#8217;s new alarm app wakes you up with a crowing rooster",
-    "url": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/",
-    "summary": "Clucky&#8217;s new alarm app wakes you up with a crowing rooster",
-    "source": "TechCrunch",
-    "category": "科技",
-    "published": "2026-09-05T17:00:00.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Clucky.png?w=1200",
-    "score": 70,
-    "tags": []
-  },
-  {
     "id": "e160d21430ae",
     "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
     "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
@@ -72,14 +60,14 @@
     "tags": []
   },
   {
-    "id": "669fdcb55695",
-    "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-    "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-    "summary": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+    "id": "6010f59d56bf",
+    "title": "Clucky&#8217;s new alarm app wakes you up with a crowing rooster",
+    "url": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/",
+    "summary": "Clucky&#8217;s new alarm app wakes you up with a crowing rooster",
     "source": "TechCrunch",
-    "category": "AI",
-    "published": "2026-09-05T18:05:27.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
+    "category": "科技",
+    "published": "2026-09-05T17:00:00.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Clucky.png?w=1200",
     "score": 65,
     "tags": []
   },
@@ -117,6 +105,18 @@
     "published": "2026-08-25T15:56:00.000Z",
     "image": "",
     "score": 65,
+    "tags": []
+  },
+  {
+    "id": "669fdcb55695",
+    "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+    "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+    "summary": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+    "source": "TechCrunch",
+    "category": "AI",
+    "published": "2026-09-05T18:05:27.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
+    "score": 60,
     "tags": []
   }
 ]
