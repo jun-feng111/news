@@ -1,14 +1,31 @@
 {
-  "updated": "2026-09-06T00:38:35.093Z",
-  "count": 123,
+  "updated": "2026-09-06T05:34:34.371Z",
+  "count": 122,
   "sources": {
-    "V2EX": 8,
+    "V2EX": 7,
     "RemoteOK": 100,
     "Remotive": 15,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1239793",
+      "title": "安克 2027 届校招内推，有想了解的可以来聊聊",
+      "company": "JULY235",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [],
+      "category": "其他",
+      "postedDate": "2026-09-06",
+      "url": "https://www.v2ex.com/t/1239793",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1239636",
       "title": "居家居家岗位： 大数据应用运维工程师，运维助理， AI 应用工程师，高级 Go 后端工程师，浏览器内核工程师（C/C++ · Chromium）， C# 桌面客户端工程师（Avalonia · CEF/OSR）",
@@ -122,42 +139,6 @@
       "category": "全栈",
       "postedDate": "2026-09-03",
       "url": "https://www.v2ex.com/t/1239219",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1239203",
-      "title": "杭州滨江急缺有原生安卓经验解决问题（对接汉印打印机）",
-      "company": "curryIsPupil",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [],
-      "category": "其他",
-      "postedDate": "2026-09-03",
-      "url": "https://www.v2ex.com/t/1239203",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1239198",
-      "title": "株式会社 GSD 诚聘英才|东京 IT 技术岗 + 大连/东京营业岗同步热招中！",
-      "company": "GSDgsd",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "java"
-      ],
-      "category": "其他",
-      "postedDate": "2026-09-03",
-      "url": "https://www.v2ex.com/t/1239198",
       "source": "V2EX",
       "region": "domestic"
     },
