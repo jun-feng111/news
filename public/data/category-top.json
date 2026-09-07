@@ -9,7 +9,7 @@
       "category": "科技",
       "published": "2026-09-06T21:41:06.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2022/07/app-store-ios-2022-a.jpg?resize=1200,675",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -146,17 +146,6 @@
       "tags": []
     },
     {
-      "id": "d7d0ded828dc",
-      "title": "智联招聘818HR节圆满收官，共探AI时代HR价值新坐标",
-      "url": "http://union.china.com.cn/cmdt/txt/2026-09/04/content_43486703.shtml",
-      "summary": "8月24日，智联招聘与北京大学国家发展研究院 (以下简称“北大国发院”)在成都共同举办“北大国发院成都论坛暨818HR节主题论坛”，以“经济重塑与AI革命双重挑战下的组织与人”为主题，围绕如何利用新工",
-      "source": "Bing·智联招聘",
-      "category": "就业",
-      "published": "2026-09-03T17:00:00.000Z",
-      "score": 60,
-      "tags": []
-    },
-    {
       "id": "0f21fccc7f0c",
       "title": "高级全栈工程师(C#.NET)-AI / Agent -上海五角场",
       "url": "https://www.v2ex.com/t/1239070#reply0",
@@ -179,21 +168,83 @@
       "image": "https://cdn.v2ex.com/avatar/713b/a15e/220284_large.png?m=1788190292",
       "score": 60,
       "tags": []
+    },
+    {
+      "id": "e8c2998702ba",
+      "title": "19%的就业落差：AI时代，谁在获益，谁在承压？",
+      "url": "https://www.sohu.com/a/1071897079_115321",
+      "summary": "AI没杀死工作，却重新定义好工作归属。全球招聘低于疫情前，但AI新增130万岗位",
+      "source": "就业报告",
+      "category": "就业",
+      "published": "2026-09-04T09:55:00.000Z",
+      "image": "//q6.itc.cn/images01/20260904/2756719f1ce34843a55fbcd2c2718a5c.jpeg",
+      "score": 60,
+      "tags": []
     }
   ],
-  "社会": [
+  "开发": [
     {
-      "id": "9c7bda8042ed",
-      "title": "逛科技展会 93.9%受访青年曾被“惊艳”",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-03/10689196.shtml",
-      "summary": "看人形机器人跳舞、与AI面对面、体验最新的科技产品……如今，各种主题的科技展会吸引了不少年轻人的目光，去科技展会“打卡”成为年轻人追赶科技潮流的重要方式。近日，中国青年报社社会调查中心联合问卷网(we",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-09-02T23:55:36.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "id": "f989fa7c78b0",
+      "title": "GPT-6 Astra 正式登场：烧了 10万块 GPU、多项跑分逼近满分，OpenAI 开启“AGI时代”",
+      "url": "https://www.infoq.cn/article/mKGb7ZiPRlAiFDZCWK0v?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/mKGb7ZiPRlAiFDZCWK0v",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-04T13:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/61/a3/6190a3af53c0aca793d4376c0af7c6a3.jpg",
       "score": 60,
       "tags": []
     },
+    {
+      "id": "281e560135a5",
+      "title": "鸿蒙 AI Coding 的研发新范式与工程实践",
+      "url": "https://www.infoq.cn/article/4C4RQUGPhAXgcx8G64ab?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/4C4RQUGPhAXgcx8G64ab",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-04T22:18:30.000Z",
+      "image": "https://static001.infoq.cn/resource/image/c6/84/c677e940a46e313b703b6a518d3b5384.jpg",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "b4aad10f5b79",
+      "title": "科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影",
+      "url": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html",
+      "summary": "这里记录每周值得分享的科技内容，周五发布",
+      "source": "阮一峰",
+      "category": "开发",
+      "published": "2026-09-03T23:59:05.000Z",
+      "image": "",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "fa1b25dcb873",
+      "title": "Spring Boot 中的后量子密码学：一个冲刺周期内即可交付的四种模式",
+      "url": "https://www.infoq.cn/article/hWQs9a123hhtDYtk0ADQ?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/hWQs9a123hhtDYtk0ADQ",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-04T17:23:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/26/42/26fbb7e60179aa4027626787d577e342.jpg",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "e09e67ee30f0",
+      "title": "Cloudflare Wallets 迟来入局 x402：支出控制仅能约束单笔支付",
+      "url": "https://www.infoq.cn/article/B5bNUx3GzrUZGvDmBbFi?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/B5bNUx3GzrUZGvDmBbFi",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-04T15:09:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/b2/30/b294470dcc26c13e8a2a8e3388658430.jpg",
+      "score": 50,
+      "tags": []
+    }
+  ],
+  "社会": [
     {
       "id": "8ac20b39b245",
       "title": "青年挑大梁 创新添动能（“十五五”开好局起好步）",
@@ -231,77 +282,27 @@
       "tags": []
     },
     {
-      "id": "45bb712a5541",
-      "title": "北京构建多层次托幼服务体系 今年新增公办园托位1万余个",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-04/10690494.shtml",
-      "summary": "中新网北京9月4日电 (记者 陈杭)记者4日从北京市教委获悉，今年以来，北京进一步聚焦0—6岁婴幼儿家庭对婴幼儿科学照护的刚需和婴幼儿健康成长的刚需，积极构建多层次托幼服务体系，以优质普惠为导向完善基",
+      "id": "75b2b134614c",
+      "title": "陕西：武术、散打冠军走进校园 以武育人激励少年逐梦",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-05/10690938.shtml",
+      "summary": "中新网陕西渭南9月5日电 (记者 张一辰)“所有的高光都要历经磨砺，所有的优秀都来自不懈坚持。只要踏实前行，每个人都能成为自己人生的冠军",
       "source": "中新网教育",
       "category": "社会",
-      "published": "2026-09-04T10:49:13.000Z",
+      "published": "2026-09-05T08:18:33.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 50,
       "tags": []
-    }
-  ],
-  "开发": [
-    {
-      "id": "f989fa7c78b0",
-      "title": "GPT-6 Astra 正式登场：烧了 10万块 GPU、多项跑分逼近满分，OpenAI 开启“AGI时代”",
-      "url": "https://www.infoq.cn/article/mKGb7ZiPRlAiFDZCWK0v?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/mKGb7ZiPRlAiFDZCWK0v",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-04T13:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/61/a3/6190a3af53c0aca793d4376c0af7c6a3.jpg",
-      "score": 60,
-      "tags": []
     },
     {
-      "id": "63222a7e3c37",
-      "title": "谷歌云发布 AI 智能体，简化数据库生命周期管理",
-      "url": "https://www.infoq.cn/article/iV0rsPyO5XZDJ7797hLJ?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/iV0rsPyO5XZDJ7797hLJ",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-04T09:21:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/89/6e/89db982ebec2c7e2684528d6a22acc6e.jpg",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "281e560135a5",
-      "title": "鸿蒙 AI Coding 的研发新范式与工程实践",
-      "url": "https://www.infoq.cn/article/4C4RQUGPhAXgcx8G64ab?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/4C4RQUGPhAXgcx8G64ab",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-04T22:18:30.000Z",
-      "image": "https://static001.infoq.cn/resource/image/c6/84/c677e940a46e313b703b6a518d3b5384.jpg",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "0c956523396f",
-      "title": "AI 浪潮里，听见一线的声音｜AICon 深圳 2026 优秀出品人   明星讲师名单揭晓",
-      "url": "https://www.infoq.cn/article/6EYVBX5UD2Cb0PWYsPCq?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/6EYVBX5UD2Cb0PWYsPCq",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-04T11:11:55.000Z",
-      "image": "https://static001.infoq.cn/resource/image/bd/5f/bd641d74f6e3e478349bd733d6c69c5f.jpg",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "dc2ac6ab0b24",
-      "title": "当 Agent 走出 App：WorkBuddy 的朋友圈开始向外生长",
-      "url": "https://www.infoq.cn/article/vogOaCpOeNfe0hjAXfzy?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/vogOaCpOeNfe0hjAXfzy",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-03T21:19:20.000Z",
-      "image": "https://static001.infoq.cn/resource/image/d1/40/d17e7230317294b9b250e96305d55f40.jpg",
-      "score": 55,
+      "id": "233995d44dd7",
+      "title": "“成功学”类童书为何畅销占据榜单？孩子们能从中获益吗？",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-05/10690894.shtml",
+      "summary": "近段时间，一批带有“成功学”标签的功利性读物，悄悄霸占了孩子们的电子书单。像是《孩子，你要懂点人情世故》《漫画儿童博弈论》《成事之道》……不难看出，这类读物书名直白、目的明确，每一本都像在回应家长的担",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-09-05T05:32:56.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
       "tags": []
     }
   ],
@@ -343,6 +344,18 @@
       "tags": []
     },
     {
+      "id": "8535482c6f05",
+      "title": "赋能青年成长 助力儋洋发展——我市开展高校毕业生等青年就业创业 ...",
+      "url": "https://www.sohu.com/a/1071963120_121106994",
+      "summary": "为扎实推进海南省“1131”就业服务专项行动，切实做好高校毕业生等重点青年就业创业帮扶工作，破解青年求职方向不明、就业技能不足、创业思路不清等现实问题，引导广大青年实现更加充分更高质量就业，2026年",
+      "source": "Bing·高校毕业生就业创业政策",
+      "category": "政策",
+      "published": "2026-09-04T09:24:00.000Z",
+      "image": "https://q3.itc.cn/q_70/images03/20260904/00b682bc330f4f82acdb8128e0758007.jpeg",
+      "score": 50,
+      "tags": []
+    },
+    {
       "id": "8acaccb63dbc",
       "title": "高校毕业生等青年就业服务“八个一”行动正式启动！",
       "url": "https://www.sohu.com/a/1071964450_121106832",
@@ -353,64 +366,52 @@
       "image": "https://q4.itc.cn/q_70/images03/20260904/a585f9f70ad649e7a4c0661a555d48a2.png",
       "score": 50,
       "tags": []
-    },
-    {
-      "id": "83bb062df079",
-      "title": "池州市残联持续推进高校残疾人毕业生就业服务工作",
-      "url": "https://www.sohu.com/a/1071852059_121106832",
-      "summary": "为全力做好2026年43名高校残疾人毕业生就业服务工作，池州市残联迅速行动，精密部署，目前已就业24人，升学6人，拟参加公招考试1人，去向落实率达69。 一是高度重视，加强领导 将高校残疾人毕业生就业",
-      "source": "Bing·高校毕业生就业创业政策",
-      "category": "政策",
-      "published": "2026-09-04T08:12:00.000Z",
-      "image": "https://q1.itc.cn/q_70/images03/20260904/d2176c642a8c4661b81f7cc7caadaa90.jpeg",
-      "score": 50,
-      "tags": []
     }
   ],
   "财经": [
     {
-      "id": "8bd704b3bbf1",
-      "title": "夜间经济热度高涨 文艺新玩法亮相上海街市",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10691781.shtml",
+      "id": "64f20437ceb2",
+      "title": "因地制宜，不是遍地乱开花",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10691987.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-07T03:04:43.000Z",
+      "published": "2026-09-07T08:35:17.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "bfe1dab45194",
-      "title": "从地中海到白龙江：国际油橄榄顶级赛事中国赛点首落甘肃陇南",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10691760.shtml",
+      "id": "2cd6f18f7087",
+      "title": "国家药监局通告37批次药品不符合规定",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10691986.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-07T02:59:34.000Z",
+      "published": "2026-09-07T08:28:27.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "be03647a97ae",
-      "title": "全国秋粮全面进入产量形成关键时期",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10691766.shtml",
+      "id": "e2e4457874eb",
+      "title": "一组数据看我国动力电池产业向新发展多点突破",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10692005.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-07T02:55:16.000Z",
+      "published": "2026-09-07T08:28:23.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "3328935ba52d",
-      "title": "8家中央金融企业迎来增资，有何考量",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10691748.shtml",
+      "id": "5590f1fcbf7c",
+      "title": "2025年我国可数字化交付服务进出口总额达4323.1亿美元",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10691951.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-07T02:38:59.000Z",
+      "published": "2026-09-07T08:08:16.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "95df08182181",
-      "title": "脑机接口正加速从实验室走向临床，前景有多广？",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10691732.shtml",
+      "id": "7f83b6733a14",
+      "title": "市场监管总局发布第一批网络食品销售虚假宣传典型案例",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10691976.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-07T02:17:34.000Z",
+      "published": "2026-09-07T08:05:36.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
