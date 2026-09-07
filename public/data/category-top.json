@@ -1,4 +1,66 @@
 {
+  "AI": [
+    {
+      "id": "f455244d709f",
+      "title": "MG Ship adds AI route optimisation as logistics returns accelerate",
+      "url": "https://www.artificialintelligence-news.com/news/mg-ship-ai-route-optimisation-logistics-returns-accelerate/",
+      "summary": "MG Ship has introduced an AI route optimisation and carrier selection module as logistics deployment",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-09-07T13:01:23.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/mg-ship-ai-route-optimisation-logistics-supply-chain-artificial-intelligence-freight-transport-predictive-analytics.jpg",
+      "score": 80,
+      "tags": []
+    },
+    {
+      "id": "0550e324dd4f",
+      "title": "The complex corporate web behind a $3.2 billion AI data center",
+      "url": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+      "summary": "The complex corporate web behind a $3。2 billion AI data center",
+      "source": "Ars Technica",
+      "category": "AI",
+      "published": "2026-09-07T11:00:03.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/LakeMariner-1152x648.png",
+      "score": 80,
+      "tags": []
+    },
+    {
+      "id": "3997b3420fb1",
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "summary": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-06T20:47:37.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?resize=1200,800",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "f774e48a95a8",
+      "title": "Hikers rescued after using Google Gemini for planning",
+      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "summary": "Hikers rescued after using Google Gemini for planning",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-05T19:35:24.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2017/11/gettyimages-677147499.jpg?resize=1200,600",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "8a7e0f31a983",
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "summary": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-05T22:49:55.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/03/artifact-newspaper-icon.jpg?resize=1200,645",
+      "score": 60,
+      "tags": []
+    }
+  ],
   "科技": [
     {
       "id": "4d1388743b58",
@@ -52,72 +114,10 @@
       "id": "de7e9ba0c659",
       "title": "Oura is going public, but these smart ring companies are coming for its crown",
       "url": "https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/",
-      "summary": "Oura is going public, but these smart ring companies are coming for its crown",
       "source": "TechCrunch",
       "category": "科技",
       "published": "2026-09-05T15:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/Oura_Ring_5_Product-1_Collection.png?resize=1200,800",
-      "score": 65,
-      "tags": []
-    }
-  ],
-  "AI": [
-    {
-      "id": "3997b3420fb1",
-      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-      "summary": "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-09-06T20:47:37.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?resize=1200,800",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "f774e48a95a8",
-      "title": "Hikers rescued after using Google Gemini for planning",
-      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-      "summary": "Hikers rescued after using Google Gemini for planning",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-09-05T19:35:24.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2017/11/gettyimages-677147499.jpg?resize=1200,600",
-      "score": 65,
-      "tags": []
-    },
-    {
-      "id": "8a7e0f31a983",
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "summary": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-09-05T22:49:55.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/03/artifact-newspaper-icon.jpg?resize=1200,645",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "669fdcb55695",
-      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-      "summary": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-09-05T18:05:27.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "a081a11168ff",
-      "title": "M&#038;T Bank expands enterprise AI after years of technology overhaul",
-      "url": "https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-09-04T10:00:00.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/MT-Bank-expands-enterprise-AI-after-years-of-technology-overhaul-scaled-e1788507690256.jpg"
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/Oura_Ring_5_Product-1_Collection.png?resize=1200,800"
     }
   ],
   "就业": [
@@ -146,6 +146,17 @@
       "tags": []
     },
     {
+      "id": "d7d0ded828dc",
+      "title": "智联招聘818HR节圆满收官，共探AI时代HR价值新坐标",
+      "url": "http://union.china.com.cn/cmdt/txt/2026-09/04/content_43486703.shtml",
+      "summary": "8月24日，智联招聘与北京大学国家发展研究院 (以下简称“北大国发院”)在成都共同举办“北大国发院成都论坛暨818HR节主题论坛”，以“经济重塑与AI革命双重挑战下的组织与人”为主题，围绕如何利用新工",
+      "source": "Bing·智联招聘",
+      "category": "就业",
+      "published": "2026-09-03T17:00:00.000Z",
+      "score": 60,
+      "tags": []
+    },
+    {
       "id": "0f21fccc7f0c",
       "title": "高级全栈工程师(C#.NET)-AI / Agent -上海五角场",
       "url": "https://www.v2ex.com/t/1239070#reply0",
@@ -167,80 +178,6 @@
       "published": "2026-08-31T15:34:29.000Z",
       "image": "https://cdn.v2ex.com/avatar/713b/a15e/220284_large.png?m=1788190292",
       "score": 60,
-      "tags": []
-    },
-    {
-      "id": "e8c2998702ba",
-      "title": "19%的就业落差：AI时代，谁在获益，谁在承压？",
-      "url": "https://www.sohu.com/a/1071897079_115321",
-      "summary": "AI没杀死工作，却重新定义好工作归属。全球招聘低于疫情前，但AI新增130万岗位",
-      "source": "就业报告",
-      "category": "就业",
-      "published": "2026-09-04T09:55:00.000Z",
-      "image": "//q6.itc.cn/images01/20260904/2756719f1ce34843a55fbcd2c2718a5c.jpeg",
-      "score": 60,
-      "tags": []
-    }
-  ],
-  "开发": [
-    {
-      "id": "f989fa7c78b0",
-      "title": "GPT-6 Astra 正式登场：烧了 10万块 GPU、多项跑分逼近满分，OpenAI 开启“AGI时代”",
-      "url": "https://www.infoq.cn/article/mKGb7ZiPRlAiFDZCWK0v?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/mKGb7ZiPRlAiFDZCWK0v",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-04T13:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/61/a3/6190a3af53c0aca793d4376c0af7c6a3.jpg",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "281e560135a5",
-      "title": "鸿蒙 AI Coding 的研发新范式与工程实践",
-      "url": "https://www.infoq.cn/article/4C4RQUGPhAXgcx8G64ab?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/4C4RQUGPhAXgcx8G64ab",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-04T22:18:30.000Z",
-      "image": "https://static001.infoq.cn/resource/image/c6/84/c677e940a46e313b703b6a518d3b5384.jpg",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "b4aad10f5b79",
-      "title": "科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影",
-      "url": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html",
-      "summary": "这里记录每周值得分享的科技内容，周五发布",
-      "source": "阮一峰",
-      "category": "开发",
-      "published": "2026-09-03T23:59:05.000Z",
-      "image": "",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "fa1b25dcb873",
-      "title": "Spring Boot 中的后量子密码学：一个冲刺周期内即可交付的四种模式",
-      "url": "https://www.infoq.cn/article/hWQs9a123hhtDYtk0ADQ?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/hWQs9a123hhtDYtk0ADQ",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-04T17:23:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/26/42/26fbb7e60179aa4027626787d577e342.jpg",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "e09e67ee30f0",
-      "title": "Cloudflare Wallets 迟来入局 x402：支出控制仅能约束单笔支付",
-      "url": "https://www.infoq.cn/article/B5bNUx3GzrUZGvDmBbFi?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/B5bNUx3GzrUZGvDmBbFi",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-04T15:09:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/b2/30/b294470dcc26c13e8a2a8e3388658430.jpg",
-      "score": 50,
       "tags": []
     }
   ],
@@ -306,16 +243,75 @@
       "tags": []
     }
   ],
+  "开发": [
+    {
+      "id": "281e560135a5",
+      "title": "鸿蒙 AI Coding 的研发新范式与工程实践",
+      "url": "https://www.infoq.cn/article/4C4RQUGPhAXgcx8G64ab?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/4C4RQUGPhAXgcx8G64ab",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-04T22:18:30.000Z",
+      "image": "https://static001.infoq.cn/resource/image/c6/84/c677e940a46e313b703b6a518d3b5384.jpg",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "b4aad10f5b79",
+      "title": "科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影",
+      "url": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html",
+      "summary": "这里记录每周值得分享的科技内容，周五发布",
+      "source": "阮一峰",
+      "category": "开发",
+      "published": "2026-09-03T23:59:05.000Z",
+      "image": "",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "1d8737498d3a",
+      "title": "Uber GitFarm：面向大规模单体代码库的 Git 即服务平台",
+      "url": "https://www.infoq.cn/article/3M4uYzNDWiLX6BR9RXwy?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/3M4uYzNDWiLX6BR9RXwy",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-05T11:17:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/47/6b/479f017dd8d5726348eeeeyye5386e6b.jpg",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "328eac063f99",
+      "title": "Meta 拓展自研芯片战略：从计算领域延伸至网络领域",
+      "url": "https://www.infoq.cn/article/bSxsIYqjExqDh8eO2kwL?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/bSxsIYqjExqDh8eO2kwL",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-05T09:56:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/cf/44/cf1ec79ab39ddc1d177d525135c2e044.jpg",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "2bc5ad1a6aa4",
+      "title": "HCP Terraform 将自身定位为 AI 驱动基础设施的控制平面",
+      "url": "https://www.infoq.cn/article/dcIyMXGTNE2vY6NiH6tm?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-07T19:33:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/af/8f/af686044180c9c0d1737f05185fyy88f.jpg"
+    }
+  ],
   "政策": [
     {
-      "id": "be66c6a0ee6d",
-      "title": "银团携手送政策 金融赋能助青创——酒泉团市委开展“启林”贷款 ...",
-      "url": "https://www.sohu.com/a/1071916049_121106869",
-      "summary": "为进一步拓宽扶持大学生青年创业“启林”贷款政策宣传覆盖面，打通青年创业金融服务“最后一公里”，切实帮助广大大学生、返乡创业青年破解融资难题。9月4日，酒泉团市委联合中国农业银行酒泉分行开展“启林”贷款",
-      "source": "Bing·大学生创业扶持政策",
+      "id": "ed0822808f9b",
+      "title": "温州发布专项政策指南 为残疾人大学生就业创业“撑腰”",
+      "url": "https://news.66wz.com/system/2026/07/16/105805829.shtml",
+      "summary": "市人社局与市残联携手对现行最实用、最优惠的就创业补贴政策进行全面梳理，并形成《温州市残疾人大学生就业创业政策指南》，助力这一特殊群体跨越障碍，实现更加充分、更高质量的就业和创业。 温州网讯 为支持更多",
+      "source": "就业创业政策",
       "category": "政策",
-      "published": "2026-09-04T10:21:00.000Z",
-      "image": "https://q4.itc.cn/q_70/images03/20260904/61314eec639d4c03a4d7714e5720d9f5.png",
+      "published": "2026-07-16T01:51:00.000Z",
+      "image": "https://news.66wz.com/pic/003/013/337/00301333742_93765919.gif",
       "score": 55,
       "tags": []
     },
@@ -332,26 +328,26 @@
       "tags": []
     },
     {
-      "id": "ed0822808f9b",
-      "title": "温州发布专项政策指南 为残疾人大学生就业创业“撑腰”",
-      "url": "https://news.66wz.com/system/2026/07/16/105805829.shtml",
-      "summary": "市人社局与市残联携手对现行最实用、最优惠的就创业补贴政策进行全面梳理，并形成《温州市残疾人大学生就业创业政策指南》，助力这一特殊群体跨越障碍，实现更加充分、更高质量的就业和创业。 温州网讯 为支持更多",
-      "source": "就业创业政策",
+      "id": "0f365bce9cd1",
+      "title": "大学生就业困难问题怎么办？毛主席在55年前就给出了答案。",
+      "url": "https://www.sohu.com/a/1072174505_121714871",
+      "summary": "疫情的阴影还未完全散去，国内市场便如风中残烛，摇摇欲坠。外贸遭受重创，社会发展也承受了巨大的冲击",
+      "source": "Bing·大学生就业政策",
       "category": "政策",
-      "published": "2026-07-16T01:51:00.000Z",
-      "image": "https://news.66wz.com/pic/003/013/337/00301333742_93765919.gif",
-      "score": 55,
+      "published": "2026-09-05T06:07:00.000Z",
+      "image": "//q0.itc.cn/images01/20260905/3a3bde44175142fe8decf52676b00129.jpeg",
+      "score": 50,
       "tags": []
     },
     {
-      "id": "8535482c6f05",
-      "title": "赋能青年成长 助力儋洋发展——我市开展高校毕业生等青年就业创业 ...",
-      "url": "https://www.sohu.com/a/1071963120_121106994",
-      "summary": "为扎实推进海南省“1131”就业服务专项行动，切实做好高校毕业生等重点青年就业创业帮扶工作，破解青年求职方向不明、就业技能不足、创业思路不清等现实问题，引导广大青年实现更加充分更高质量就业，2026年",
-      "source": "Bing·高校毕业生就业创业政策",
+      "id": "4c4ccc2923d3",
+      "title": "多地开设“大学生技师班”，大学毕业后再进技校补什么？",
+      "url": "https://news.qq.com/rain/a/20260903A095NC00",
+      "summary": "9月是开学季，记者近日采访发现，一批已经取得大专、本科学历的年轻人选择走进技工院校。8月30日，广东省机械技师学院迎来首届大学生技师班学员；此前的8月18日，2026年平湖市重点产业技能人才“双元制”",
+      "source": "Bing·大学生就业政策",
       "category": "政策",
-      "published": "2026-09-04T09:24:00.000Z",
-      "image": "https://q3.itc.cn/q_70/images03/20260904/00b682bc330f4f82acdb8128e0758007.jpeg",
+      "published": "2026-09-03T09:58:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/O9rFgh-Ytjcxz5zN24PUxFpmomQiiWQT_4wlYB6-eNnD4AA_640330/0",
       "score": 50,
       "tags": []
     },
@@ -370,48 +366,48 @@
   ],
   "财经": [
     {
-      "id": "64f20437ceb2",
-      "title": "因地制宜，不是遍地乱开花",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10691987.shtml",
+      "id": "3baee4ab67a8",
+      "title": "中国央行连续22个月增持黄金 储备规模升至7673万盎司",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10692283.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-07T08:35:17.000Z",
+      "published": "2026-09-07T14:26:59.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "2cd6f18f7087",
-      "title": "国家药监局通告37批次药品不符合规定",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10691986.shtml",
+      "id": "e3b17fc906a3",
+      "title": "中国提出到2030年全面建成覆盖完善、性能领先的新一代通信网",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10692282.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-07T08:28:27.000Z",
+      "published": "2026-09-07T14:26:07.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "e2e4457874eb",
-      "title": "一组数据看我国动力电池产业向新发展多点突破",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10692005.shtml",
+      "id": "7501ca9d4273",
+      "title": "聚焦前沿科技与智能制造 台商台企在渝感受产业新动能",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10692265.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-07T08:28:23.000Z",
+      "published": "2026-09-07T14:07:38.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "5590f1fcbf7c",
-      "title": "2025年我国可数字化交付服务进出口总额达4323.1亿美元",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10691951.shtml",
+      "id": "2f27b94061ff",
+      "title": "吉林省第三届职业技能大赛聚焦新业态赋能人才振兴",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10692254.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-07T08:08:16.000Z",
+      "published": "2026-09-07T14:00:12.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "7f83b6733a14",
-      "title": "市场监管总局发布第一批网络食品销售虚假宣传典型案例",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10691976.shtml",
+      "id": "2d7b49484abf",
+      "title": "第八届中国粮食交易大会成交额878.71亿元",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-07/10692246.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-07T08:05:36.000Z",
+      "published": "2026-09-07T13:52:11.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
