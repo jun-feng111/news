@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T23:33:20.517Z",
+  "updated": "2026-09-07T03:11:30.586Z",
   "count": 123,
   "sources": {
     "V2EX": 5,
@@ -9,6 +9,27 @@
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1239935",
+      "title": "外企银行招自动化测试",
+      "company": "strainyuu",
+      "location": "广州",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "python",
+        "java",
+        "javascript"
+      ],
+      "category": "测试",
+      "postedDate": "2026-09-07",
+      "url": "https://www.v2ex.com/t/1239935",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1239863",
       "title": "web3 运营",
@@ -80,23 +101,6 @@
       "category": "其他",
       "postedDate": "2026-09-04",
       "url": "https://www.v2ex.com/t/1239558",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1239502",
-      "title": "远程办公「客服专员」 Crypto 交易所线上工单客服",
-      "company": "AriaWanax",
-      "location": "国内",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [],
-      "category": "其他",
-      "postedDate": "2026-09-04",
-      "url": "https://www.v2ex.com/t/1239502",
       "source": "V2EX",
       "region": "domestic"
     },
