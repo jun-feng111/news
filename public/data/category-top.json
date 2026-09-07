@@ -1,17 +1,55 @@
 {
-  "科技": [
+  "AI": [
     {
-      "id": "f4f95dccedd7",
-      "title": "What we expect from the upcoming Apple launch",
-      "url": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
-      "summary": "What we expect from the upcoming Apple launch",
+      "id": "a91b380c0f01",
+      "title": "Opaque recurrence, and other AI terms that you should probably know",
+      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "summary": "Opaque recurrence, and other AI terms that you should probably know",
       "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-07T15:58:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1182217069.jpg?resize=1200,800",
+      "category": "AI",
+      "published": "2026-09-07T19:24:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Chain-of-thought-picture.png?resize=1200,800",
       "score": 80,
       "tags": []
     },
+    {
+      "id": "e2dfaa2c905c",
+      "title": "The complex corporate web behind a $3.2 billion AI data center",
+      "url": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+      "summary": "The complex corporate web behind a $3。2 billion AI data center",
+      "source": "Ars Technica",
+      "category": "AI",
+      "published": "2026-09-07T11:00:03.000Z",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/LakeMariner-1152x648.png",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "3997b3420fb1",
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "summary": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-06T20:47:37.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?resize=1200,800",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "8a7e0f31a983",
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "summary": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-05T22:49:55.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/03/artifact-newspaper-icon.jpg?resize=1200,645",
+      "score": 60,
+      "tags": []
+    }
+  ],
+  "科技": [
     {
       "id": "6de323e41c10",
       "title": "A secret new Elizabeth Holmes documentary stuns Telluride",
@@ -25,6 +63,18 @@
       "tags": []
     },
     {
+      "id": "f4f95dccedd7",
+      "title": "What we expect from the upcoming Apple launch",
+      "url": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
+      "summary": "What we expect from the upcoming Apple launch",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-07T15:58:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1182217069.jpg?resize=1200,800",
+      "score": 75,
+      "tags": []
+    },
+    {
       "id": "4d1388743b58",
       "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
       "url": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
@@ -33,7 +83,7 @@
       "category": "科技",
       "published": "2026-09-06T21:41:06.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2022/07/app-store-ios-2022-a.jpg?resize=1200,675",
-      "score": 70,
+      "score": 65,
       "tags": []
     },
     {
@@ -58,56 +108,6 @@
       "published": "2026-09-06T16:08:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-street-getty.jpg?resize=1200,800",
       "score": 65,
-      "tags": []
-    }
-  ],
-  "AI": [
-    {
-      "id": "e2dfaa2c905c",
-      "title": "The complex corporate web behind a $3.2 billion AI data center",
-      "url": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
-      "summary": "The complex corporate web behind a $3。2 billion AI data center",
-      "source": "Ars Technica",
-      "category": "AI",
-      "published": "2026-09-07T11:00:03.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/LakeMariner-1152x648.png",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "3997b3420fb1",
-      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-      "summary": "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-09-06T20:47:37.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?resize=1200,800",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "f774e48a95a8",
-      "title": "Hikers rescued after using Google Gemini for planning",
-      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-      "summary": "Hikers rescued after using Google Gemini for planning",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-09-05T19:35:24.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2017/11/gettyimages-677147499.jpg?resize=1200,600",
-      "score": 65,
-      "tags": []
-    },
-    {
-      "id": "8a7e0f31a983",
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "summary": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-09-05T22:49:55.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/03/artifact-newspaper-icon.jpg?resize=1200,645",
-      "score": 60,
       "tags": []
     }
   ],
@@ -298,18 +298,6 @@
   ],
   "政策": [
     {
-      "id": "ed0822808f9b",
-      "title": "温州发布专项政策指南 为残疾人大学生就业创业“撑腰”",
-      "url": "https://news.66wz.com/system/2026/07/16/105805829.shtml",
-      "summary": "市人社局与市残联携手对现行最实用、最优惠的就创业补贴政策进行全面梳理，并形成《温州市残疾人大学生就业创业政策指南》，助力这一特殊群体跨越障碍，实现更加充分、更高质量的就业和创业。 温州网讯 为支持更多",
-      "source": "就业创业政策",
-      "category": "政策",
-      "published": "2026-07-16T01:51:00.000Z",
-      "image": "https://news.66wz.com/pic/003/013/337/00301333742_93765919.gif",
-      "score": 55,
-      "tags": []
-    },
-    {
       "id": "7530315d4a43",
       "title": "@丹东企业、高校毕业生、就业困难人员……2026版补贴政策请查收",
       "url": "https://news.qq.com/rain/a/20260815A06VPO00",
@@ -318,6 +306,18 @@
       "category": "政策",
       "published": "2026-08-15T05:41:00.000Z",
       "image": "http://inews.gtimg.com/newsapp_ls/0/192333742_200200/0",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "ed0822808f9b",
+      "title": "温州发布专项政策指南 为残疾人大学生就业创业“撑腰”",
+      "url": "https://news.66wz.com/system/2026/07/16/105805829.shtml",
+      "summary": "市人社局与市残联携手对现行最实用、最优惠的就创业补贴政策进行全面梳理，并形成《温州市残疾人大学生就业创业政策指南》，助力这一特殊群体跨越障碍，实现更加充分、更高质量的就业和创业。 温州网讯 为支持更多",
+      "source": "就业创业政策",
+      "category": "政策",
+      "published": "2026-07-16T01:51:00.000Z",
+      "image": "https://news.66wz.com/pic/003/013/337/00301333742_93765919.gif",
       "score": 55,
       "tags": []
     },

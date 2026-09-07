@@ -1,0 +1,7 @@
+{
+  "id": "df91ebebb23f",
+  "title": "美国创业公司招大模型数据工程师（可远程）",
+  "url": "https://www.v2ex.com/t/1240233#reply0",
+  "contentZh": "",
+  "contentFull": "美国创业公司招大模型数据工程师，具体要求如下\n职位描述:\n你将端到端负责从 RL 数据的任务与环境设计、轨迹生成、rubric/verifier/reward 构建，到质量管理、eval 分析和客户交付。 \n岗位职责：\n\n\n设计 coding / agentic 场景的 SFT 与 RL 训练数据：任务构造、难度分层、轨迹采集、评分标准与奖励设计\n\n\n深度使用 Claude Code / Codex 等 coding agent ，系统性拆解其能力边界与失败模式，转化为数据任务设计\n\n\n搭建可复现的执行环境：依赖安装、容器隔离、自动化测试、超时与资源限制、批量 rollout ，人工抽检，去重等等\n\n\n围绕主流 coding benchmark （ Terminal-Bench, NL2Repo, DeepSWE, long horizon coding benchmark 等）做分析设计；识别数据污染和验证器被钻空子的情况\n\n\n搭建数据质量体系：自动化校验、可执行验证、去重、人工抽检流程\n\n\n直接对接客户，把模糊的能力目标翻译成任务规范和验收标准\n\n\n任职要求：\n\n\n熟练使用至少一种 coding agent ，有大量实操而非浅尝（面试会聊你踩过的具体坑）\n\n\n扎实的基本代码工程能力，能独立搭建容器化 / sandbox 执行与评测环境\n\n\n理解 SFT / RLHF / RLVR / rejection sampling / reward model 基本原理\n\n\n英语可作为工作语言，能直接参会和写技术文档\n\n\n加分项：\n\n\nLLM research 方向在读或已毕业博士\n\n\n有 benchmark 建设、agent 评测、合成数据 pipeline 落地经验\n\n\n有相关开源贡献或论文\n\n\n每月薪资：40k~60k,能力强可以更多，额外给期权\n职位福利：五险一金，可远程工作，支持参加顶会等\n工作时间地点自由，可远程办公\n简历： [email protected]\n"
+}
