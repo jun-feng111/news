@@ -1,0 +1,7 @@
+{
+  "id": "48f001a6cea6",
+  "title": "弘连系列CLI+Skills接入Agent的自动化取证配置教程 - Serendipity的小屋",
+  "url": "https://www.cnblogs.com/lyydbk/p/22844537",
+  "contentZh": "",
+  "contentFull": "\n前情提要\n\n超级取证大师mcp教程搞完了，具体可看https://mp.weixin.qq.com/s/8BsAh0MoB8t_vGw7EUU15g\n那么接下来就该弘连系列skills的配置了，为什么要配置skills+cli呢？因为更方便我们自动化取证，省去了我们启动软件，创建案例，添加镜像等好多步骤，直接提交附件来做到ai全自动化分析，所以相对于mcp来讲，skills+cli的方式对我们进行自动化分析更方便，真正做到了全自动来进行取证分析\n这里有几种使用方法，话不多说，直接开搞\n配置教程\n首先得拥有的软件是取证桌面·苍穹AI与WorkBuddy(依旧是因为他可以白嫖)\n取证桌面·苍穹AI下载链接为https://www.forensix.cn/forensicdesktop/，在下载好软件之后，我们启动之后登录账号（没有账号的话点击申请账号创建一个账号）\n\n然后点击应用，我的许可，打400电话或者联系销售，即可获取授权\n\n获取授权之后，我们把所需软件下载一下，主要用到的软件有：\n火眼证据分析，火眼仿真取证，雷电APP智能分析（后续还会有其他软件）\n之后就可以使用苍穹ai（也就是用户边上的小圆圈）来调用cil和skills\n\n\n当然，也可以将skills和cli一同复制到自己想用的agent的skills目录下（这里以WorkBuddy为例）\n我们可以打开上述安装软件的安装目录，即仿真的\\BootMagixV4\\skills，证据分析的\\GoldenEyesV4\\skills，雷电app的\\APPAnalysis\\skills以及取证桌面的ForensicDesktop\\resources\\skills\\，我们可以看到前三个软件的skills是自带cli的，所以我们把这几个目录下的skills全部复制到C:\\用户\\用户名\\.workbuddy\\skills中，就可以在WorkBuddy中使用了\n\n这里有个小技巧，可以直接在WorkBuddy中输入：\n帮我把\\BootMagixV4\\skills，\\GoldenEyesV4\\skills，\\APPAnalysis\\skills，ForensicDesktop\\resources\\skills\\，加到skills目录中\n这样ai就会自己干活了\n\n测试\n先测试苍穹AI\n可以看到，我将计算机镜像丢给他之后，他会自动进行分析，如果证据分析中没有这个案例，他会自己创建案例并加载镜像\n\n\n很快就得到了答案\n\n再试试仿真\n\n\n\n这......太强了w(ﾟДﾟ)w\n\n接下来看看WorkBuddy（我这里skills比较多，所以我就先选中所需skills了）\n\n可以看到还是苍穹速度快一点，配置教程就写到这里了，如果后续有其他的授权还会继续更新\n\n\n"
+}
