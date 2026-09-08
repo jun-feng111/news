@@ -1,6 +1,18 @@
 {
   "AI": [
     {
+      "id": "3fa6fdbf00ff",
+      "title": "Coca-Cola uses AI to improve retailer ordering in Malaysia",
+      "url": "https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/",
+      "summary": "Coca-Cola is using AI to recommend which products Malaysian retailers should order and in what quant",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-09-08T10:00:00.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/Coca-Cola-uses-AI-to-improve-retailer-ordering-in-Malaysia-scaled-e1788839929431.jpg",
+      "score": 80,
+      "tags": []
+    },
+    {
       "id": "f455244d709f",
       "title": "MG Ship adds AI route optimisation as logistics returns accelerate",
       "url": "https://www.artificialintelligence-news.com/news/mg-ship-ai-route-optimisation-logistics-returns-accelerate/",
@@ -25,37 +37,28 @@
       "tags": []
     },
     {
-      "id": "e2dfaa2c905c",
-      "title": "The complex corporate web behind a $3.2 billion AI data center",
-      "url": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
-      "summary": "The complex corporate web behind a $3。2 billion AI data center",
-      "source": "Ars Technica",
-      "category": "AI",
-      "published": "2026-09-07T11:00:03.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/LakeMariner-1152x648.png",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "3997b3420fb1",
-      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-      "summary": "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-09-06T20:47:37.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?resize=1200,800",
-      "score": 65,
-      "tags": []
-    },
-    {
-      "id": "a081a11168ff",
-      "title": "M&#038;T Bank expands enterprise AI after years of technology overhaul",
-      "url": "https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/",
+      "id": "55c707ee458e",
+      "title": "AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3",
+      "url": "https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/",
+      "summary": "Google&#8217;s newest AI weather forecasting model predicts wind speed at 100 metres above the groun",
       "source": "AI News",
       "category": "AI",
-      "published": "2026-09-04T10:00:00.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/MT-Bank-expands-enterprise-AI-after-years-of-technology-overhaul-scaled-e1788507690256.jpg"
+      "published": "2026-09-08T09:00:00.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/Screenshot-2026-09-07-at-10.59.24-AM.png",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "655f1d047cf3",
+      "title": "YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches",
+      "url": "https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/",
+      "summary": "YouTube was the most frequently cited website in Google AI Overviews across a panel of vitamin and s",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-09-08T08:50:39.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/raimond-klavins-n-7HTOiJPso-unsplash-scaled.jpg",
+      "score": 70,
+      "tags": []
     }
   ],
   "科技": [
@@ -84,18 +87,6 @@
       "tags": []
     },
     {
-      "id": "60ae3820004d",
-      "title": "Eric Wu&#8217;s newest company, out of stealth since May, is going after construction&#8217;s labor crunch",
-      "url": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
-      "summary": "Eric Wu&#8217;s newest company, out of stealth since May, is going after construction&#8217;s labor ",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-08T02:16:39.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Construction-worker-Ray-Bans.png?resize=1200,800",
-      "score": 65,
-      "tags": []
-    },
-    {
       "id": "4d1388743b58",
       "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
       "url": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
@@ -108,16 +99,25 @@
       "tags": []
     },
     {
+      "id": "60ae3820004d",
+      "title": "Eric Wu&#8217;s newest company, out of stealth since May, is going after construction&#8217;s labor crunch",
+      "url": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
+      "summary": "Eric Wu&#8217;s newest company, out of stealth since May, is going after construction&#8217;s labor ",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-08T02:16:39.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Construction-worker-Ray-Bans.png?resize=1200,800",
+      "score": 60,
+      "tags": []
+    },
+    {
       "id": "f33b1fcaa623",
       "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
       "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-      "summary": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
       "source": "TechCrunch",
       "category": "科技",
       "published": "2026-09-06T16:45:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/travis-kalanick-fii.jpg?resize=1200,800",
-      "score": 65,
-      "tags": []
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/travis-kalanick-fii.jpg?resize=1200,800"
     }
   ],
   "就业": [
@@ -146,18 +146,6 @@
       "tags": []
     },
     {
-      "id": "1a9f5ec81514",
-      "title": "AI人才市场迎来新机遇：大模型算法岗月薪超27329元！",
-      "url": "https://www.sohu.com/a/1067548845_121956425",
-      "summary": "近日，人力资源服务商前程无忧（51job）发布了《2027届校招AI人才市场洞察》，引发了广泛关注。这份报告基于超过8000份企业和个人的调研数据，揭示了当前AI人才市场的趋势和变化",
-      "source": "算法工程师·就业分析",
-      "category": "就业",
-      "published": "2026-08-25T15:56:00.000Z",
-      "image": "",
-      "score": 65,
-      "tags": []
-    },
-    {
       "id": "d7d0ded828dc",
       "title": "智联招聘818HR节圆满收官，共探AI时代HR价值新坐标",
       "url": "http://union.china.com.cn/cmdt/txt/2026-09/04/content_43486703.shtml",
@@ -179,67 +167,17 @@
       "image": "https://cdn.v2ex.com/avatar/4c83/08d4/221578_xlarge.png?m=1762788791",
       "score": 60,
       "tags": []
-    }
-  ],
-  "社会": [
-    {
-      "id": "04e86741d923",
-      "title": "与AI对话 向未来发问——“未来讲堂”全国科普月专场活动在北京举行",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-05/10691176.shtml",
-      "summary": "中新网北京9月5日电 (记者 李百加)由中国宋庆龄基金会、科大讯飞主办的“未来讲堂——与AI对话·向未来发问”全国科普月专场活动4日在北京举行，60余名北京市中学生受邀参加",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-09-05T15:21:17.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 55,
-      "tags": []
     },
     {
-      "id": "8ac20b39b245",
-      "title": "青年挑大梁 创新添动能（“十五五”开好局起好步）",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-05/10690788.shtml",
-      "summary": "智能体手机化身“数字管家”自动执行指令，机器人以多元形态走进工厂与家庭，算力设施转向系统协同……近段时间，多地举行以人工智能为主题的科创实践展示活动，吸引众多年轻人参与。人工智能领域新技术、新场景、新",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-09-05T01:49:44.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "75b2b134614c",
-      "title": "陕西：武术、散打冠军走进校园 以武育人激励少年逐梦",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-05/10690938.shtml",
-      "summary": "中新网陕西渭南9月5日电 (记者 张一辰)“所有的高光都要历经磨砺，所有的优秀都来自不懈坚持。只要踏实前行，每个人都能成为自己人生的冠军",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-09-05T08:18:33.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "233995d44dd7",
-      "title": "“成功学”类童书为何畅销占据榜单？孩子们能从中获益吗？",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-05/10690894.shtml",
-      "summary": "近段时间，一批带有“成功学”标签的功利性读物，悄悄霸占了孩子们的电子书单。像是《孩子，你要懂点人情世故》《漫画儿童博弈论》《成事之道》……不难看出，这类读物书名直白、目的明确，每一本都像在回应家长的担",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-09-05T05:32:56.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "d2e01116585c",
-      "title": "首批长三角一体化科普研学线路在沪发布",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-05/10691056.shtml",
-      "summary": "中新网上海9月5日电 (记者 郑莹莹)由上海市科协和上海市科委共同主办的2026年上海市“全国科普月”活动5日在上海科学会堂启动",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-09-05T11:52:04.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 45,
+      "id": "e26804a7c659",
+      "title": "《2026年生物医药产业人才发展报告》发布",
+      "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260901_3186029.shtml",
+      "summary": "上半年，在政策引导与科技创新双轮驱动下，我国生物医药产业保持平稳发展态势。智联招聘发布的《2026年生物医药产业人才发展报告》显示，上半年，生物医药产业中创新药研发（含AI制药）、高端医疗器械研发、出",
+      "source": "智联招聘",
+      "category": "就业",
+      "published": "2026-09-01T09:03:00.000Z",
+      "image": "",
+      "score": 60,
       "tags": []
     }
   ],
@@ -269,38 +207,38 @@
       "tags": []
     },
     {
-      "id": "7530315d4a43",
-      "title": "@丹东企业、高校毕业生、就业困难人员……2026版补贴政策请查收",
-      "url": "https://news.qq.com/rain/a/20260815A06VPO00",
-      "summary": "近日，丹东市人力资源和社会保障局发布《丹东市就业创业政策清单（2026版）》，集中梳理了当前全市就业创业领域的重点扶持政策，方便企业和市民“对号入座”、应享尽享。清单分为“企业类”和“个人类”两大板块",
-      "source": "就业创业政策",
+      "id": "f5cb39eaf8f6",
+      "title": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
+      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202606/t20260602_1438600.html",
+      "summary": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
+      "source": "教育部",
       "category": "政策",
-      "published": "2026-08-15T05:41:00.000Z",
-      "image": "http://inews.gtimg.com/newsapp_ls/0/192333742_200200/0",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "0f365bce9cd1",
-      "title": "大学生就业困难问题怎么办？毛主席在55年前就给出了答案。",
-      "url": "https://www.sohu.com/a/1072174505_121714871",
-      "summary": "疫情的阴影还未完全散去，国内市场便如风中残烛，摇摇欲坠。外贸遭受重创，社会发展也承受了巨大的冲击",
-      "source": "Bing·大学生就业政策",
-      "category": "政策",
-      "published": "2026-09-05T06:07:00.000Z",
-      "image": "//q0.itc.cn/images01/20260905/3a3bde44175142fe8decf52676b00129.jpeg",
+      "published": "2026-06-02T00:00:00.000Z",
+      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
       "score": 50,
       "tags": []
     },
     {
-      "id": "8acaccb63dbc",
-      "title": "高校毕业生等青年就业服务“八个一”行动正式启动！",
-      "url": "https://www.sohu.com/a/1071964450_121106832",
-      "summary": "为全力促进高校毕业生等青年高质量充分就业，近日，嘉兴市正式启动高校毕业生等青年就业服务“八个一”行动，将在2026年9月至2027年8月期间，靠前服务、主动发力，在做好离校未就业毕业生等青年帮扶的基础",
-      "source": "Bing·高校毕业生就业创业政策",
+      "id": "a3af074b2b9b",
+      "title": "2026-05-22教育部等八部门办公厅关于联合开展2026年度高校毕业生等重点群体促就业“国聘行动”的通知",
+      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202605/t20260522_1437356.html",
+      "summary": "2026-05-22教育部等八部门办公厅关于联合开展2026年度高校毕业生等重点群体促就业“国聘行动”的通知",
+      "source": "教育部",
       "category": "政策",
-      "published": "2026-09-04T11:27:00.000Z",
-      "image": "https://q4.itc.cn/q_70/images03/20260904/a585f9f70ad649e7a4c0661a555d48a2.png",
+      "published": "2026-05-22T00:00:00.000Z",
+      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "20eed286abd8",
+      "title": "2026-04-24教育部办公厅 人力资源社会保障部办公厅关于开展2026年高校毕业生就业政策宣传活动的通知",
+      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202604/t20260423_1434600.html",
+      "summary": "2026-04-24教育部办公厅 人力资源社会保障部办公厅关于开展2026年高校毕业生就业政策宣传活动的通知",
+      "source": "教育部",
+      "category": "政策",
+      "published": "2026-04-23T00:00:00.000Z",
+      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
       "score": 50,
       "tags": []
     }
@@ -319,86 +257,136 @@
       "tags": []
     },
     {
-      "id": "6f6a67ff7769",
-      "title": "OpenAI 详解 GPT-Live 架构如何实现了连续的有状态语音交互",
-      "url": "https://www.infoq.cn/article/rdESg5icYIZ71J7xb69K?utm_source=rss&amp;utm_medium=article",
+      "id": "f37fd4aac5f4",
+      "title": "Cohere 发布 Parse 5，可以从复杂的文档中高效地提取多模态信息",
+      "url": "https://www.infoq.cn/article/C8WbrpalJEjLfSh2xJJj?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-09-08T13:32:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/67/46/672d3a3e76720d378463ffd9b6cb5546.jpg"
+      "published": "2026-09-08T17:06:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/45/e5/458a75426d2bfaefce3dd625b67b81e5.jpg"
     },
     {
-      "id": "392244c85f2c",
-      "title": "AI Coding 在大型客户端工程中的落地实践——从通才模型到专才 Agent｜QCon上海",
-      "url": "https://www.infoq.cn/article/zmiQaFpdA993WFozmTt3?utm_source=rss&amp;utm_medium=article",
+      "id": "0aa950e4624b",
+      "title": "Karmada 正式从 CNCF 毕业，已用于多集群 AI 训练与 GPU 调度",
+      "url": "https://www.infoq.cn/article/yfQdTa8cRxjJB0rzZMJR?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-09-08T11:10:18.000Z",
-      "image": "https://static001.infoq.cn/resource/image/06/fe/06a806a2affeyy98d3d276d0e7f679fe.jpg"
+      "published": "2026-09-08T16:31:12.000Z",
+      "image": "https://static001.infoq.cn/resource/image/40/ee/4060421faf2454baa0136d6ed1ec89ee.png"
     },
     {
-      "id": "65e37e0ffa6f",
-      "title": "Cloudflare 新增可选 OAuth 权限范围，允许开发者标注用户可能拒绝的权限",
-      "url": "https://www.infoq.cn/article/pbOsBzL0FljTYdZouj8r?utm_source=rss&amp;utm_medium=article",
+      "id": "7f4dbbe40854",
+      "title": "华为乾崑，守护200万份信任",
+      "url": "https://www.infoq.cn/article/TzHCuwlw0ftVmMe4EfXv?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-09-08T11:05:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/7d/2b/7d3e97a121676585cc04bdc02b15502b.jpg"
+      "published": "2026-09-08T15:39:02.000Z",
+      "image": "https://static001.infoq.cn/resource/image/36/fe/36066701a86b60b3e34de4f121c74cfe.png"
     },
     {
-      "id": "5221286ccf76",
-      "title": "OpenClaw 2.0 发布：简化配置，支持智能体协作",
-      "url": "https://www.infoq.cn/article/hOJ5r8sQvQsGvm0KNHTd?utm_source=rss&amp;utm_medium=article",
+      "id": "aad8beec805f",
+      "title": "Swiggy 基于 350 多个特征与多任务 MLP 实现客户终身价值预测",
+      "url": "https://www.infoq.cn/article/9yQHZ7fZeIBMidz6pjPC?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-09-08T09:11:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/0a/c0/0af37yy0026808c8824201e14a5985c0.jpg"
+      "published": "2026-09-08T15:06:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/72/80/72092829bcc446fc7b96d928a9959c80.jpg"
+    }
+  ],
+  "社会": [
+    {
+      "id": "ee24d5c9bfd9",
+      "title": "教学竞赛热度日高 高校教师“赛课”为什么这么卷",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-06/10691357.shtml",
+      "summary": "教学竞赛热度日高，有人收获成长、有人拿到奖杯就辞职，也有教师吐槽“这是以赛促教还是被赛绑架”",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-09-06T05:53:04.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "d0ae86c8d37d",
+      "title": "上海非遗“东氏针灸”广西传承基地揭牌",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-08/10692757.shtml",
+      "source": "中新网社会",
+      "category": "社会",
+      "published": "2026-09-08T10:33:51.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "e1ce54330175",
+      "title": "手绘地图里的空板凳：特岗教师张杰“不让一个孩子掉队”",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-08/10692750.shtml",
+      "source": "中新网社会",
+      "category": "社会",
+      "published": "2026-09-08T10:30:07.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "1771d16bf1b5",
+      "title": "众多前政要和智库学者应邀参加，第十三届北京香山论坛举行在即",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-08/10692739.shtml",
+      "source": "中新网社会",
+      "category": "社会",
+      "published": "2026-09-08T10:13:16.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "73cd06a325e1",
+      "title": "武夷山救助放归中华穿山甲",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-08/10692721.shtml",
+      "source": "中新网社会",
+      "category": "社会",
+      "published": "2026-09-08T09:47:42.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ],
   "财经": [
     {
-      "id": "57bf7e54a714",
-      "title": "警惕非法互联网贷款陷阱！北京金融监管局发文提示",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692518.shtml",
+      "id": "2b6af032b310",
+      "title": "“投集美 赢未来” 厦门集美全力打造中国企业出海“始发站”",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692763.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-08T05:34:32.000Z",
+      "published": "2026-09-08T10:36:33.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "82864e1b1f45",
-      "title": "8月中国进出口总值同比增长19.8%",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692501.shtml",
+      "id": "e20f225ca60f",
+      "title": "物理AI受关注 专家建言向上生长跨越“断层”",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692761.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-08T05:02:27.000Z",
+      "published": "2026-09-08T10:36:03.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "4f2ffb0ddf18",
-      "title": "湖北打通高端服装消费品水运进口新通道",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692499.shtml",
+      "id": "1dd5b0cdefdd",
+      "title": "8月中国乘用车出口量同比增长77.8%",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692760.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-08T04:42:49.000Z",
+      "published": "2026-09-08T10:34:47.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "4aa8e4477d43",
-      "title": "茶饮品牌按下减速键，奶茶生意不香了?",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692498.shtml",
+      "id": "ac6443bb3ff4",
+      "title": "广州激活百亿村集体资产 赋能“百千万工程”",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692756.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-08T04:38:43.000Z",
+      "published": "2026-09-08T10:33:17.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "8c77285dcc06",
-      "title": "A股午评：超3400只个股飘红，沪指、深指收涨，创业板指收跌",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692493.shtml",
+      "id": "e0df5be9f5dd",
+      "title": "“丝路海运”国际合作论坛在厦门开幕 航线增至160条",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692753.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-08T04:02:13.000Z",
+      "published": "2026-09-08T10:31:55.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
