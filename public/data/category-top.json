@@ -9,7 +9,31 @@
       "category": "AI",
       "published": "2026-09-08T11:44:10.000Z",
       "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/arm-total-design-physical-ai-robotics-framework-automation-artificial-intelligence.jpg",
-      "score": 85,
+      "score": 80,
+      "tags": []
+    },
+    {
+      "id": "2372e1e4c414",
+      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+      "summary": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-08T17:32:15.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1219382595.jpg?resize=1200,750",
+      "score": 80,
+      "tags": []
+    },
+    {
+      "id": "d081e58264cf",
+      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+      "summary": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-08T16:20:31.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2266466589.jpg?w=1024",
+      "score": 80,
       "tags": []
     },
     {
@@ -21,19 +45,7 @@
       "category": "AI",
       "published": "2026-09-08T10:00:00.000Z",
       "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/Coca-Cola-uses-AI-to-improve-retailer-ordering-in-Malaysia-scaled-e1788839929431.jpg",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "f37bc5517ee7",
-      "title": "Mistral raises €3B as sovereign AI becomes big business",
-      "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
-      "summary": "Mistral raises €3B as sovereign AI becomes big business",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-09-08T14:17:48.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2264771189.jpg?resize=1200,800",
-      "score": 80,
+      "score": 75,
       "tags": []
     },
     {
@@ -47,71 +59,59 @@
       "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/mg-ship-ai-route-optimisation-logistics-supply-chain-artificial-intelligence-freight-transport-predictive-analytics.jpg",
       "score": 70,
       "tags": []
+    }
+  ],
+  "科技": [
+    {
+      "id": "a2ebb8dfb799",
+      "title": "How to watch Apple&#8217;s foldable iPhone announcement",
+      "url": "https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/",
+      "summary": "How to watch Apple&#8217;s foldable iPhone announcement",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-08T17:46:53.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/surprise-and-shine.webp?resize=1200,927",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "7b2aff3cc54b",
+      "title": "Google’s revived nuclear power plant gets $1.9B loan from US government",
+      "url": "https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/",
+      "summary": "Google’s revived nuclear power plant gets $1。9B loan from US government",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-08T15:25:35.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-129268875.jpg?resize=1200,900",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "f37bc5517ee7",
+      "title": "Mistral raises €3B as sovereign AI becomes big business",
+      "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-08T14:17:48.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2264771189.jpg?resize=1200,800"
+    },
+    {
+      "id": "acb2e6d16304",
+      "title": "A hacker stole $340M in a crypto heist, then returned most of it",
+      "url": "https://techcrunch.com/2026/09/08/a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of-it/",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-08T14:11:29.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/10/ransomware-red-Samuil_Levich-getty.jpeg?resize=1200,798"
     },
     {
       "id": "cfa74d9f25f5",
       "title": "Nuclear startup Bluecore Energy raises $50M seed round, just two months after launch",
       "url": "https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/",
-      "summary": "Nuclear startup Bluecore Energy raises $50M seed round, just two months after launch",
       "source": "TechCrunch",
-      "category": "AI",
+      "category": "科技",
       "published": "2026-09-08T14:10:17.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Kofi-Asante.jpg?resize=1200,800",
-      "score": 70,
-      "tags": []
-    }
-  ],
-  "科技": [
-    {
-      "id": "acb2e6d16304",
-      "title": "A hacker stole $340M in a crypto heist, then returned most of it",
-      "url": "https://techcrunch.com/2026/09/08/a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of-it/",
-      "summary": "A hacker stole $340M in a crypto heist, then returned most of it",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-08T14:11:29.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/10/ransomware-red-Samuil_Levich-getty.jpeg?resize=1200,798",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "f998dbfddcb8",
-      "title": "Poseidon Aerospace lands $60M ahead of first pilotless test flight",
-      "url": "https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/",
-      "summary": "Poseidon Aerospace lands $60M ahead of first pilotless test flight",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-08T13:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/poseidon-aero-egret.jpg?resize=1200,800",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "60ae3820004d",
-      "title": "Eric Wu&#8217;s newest company, out of stealth since May, is going after construction&#8217;s labor crunch",
-      "url": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-08T02:16:39.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Construction-worker-Ray-Bans.png?resize=1200,800"
-    },
-    {
-      "id": "a91b380c0f01",
-      "title": "Opaque recurrence, and other AI terms that you should probably know",
-      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-07T19:24:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Chain-of-thought-picture.png?resize=1200,800"
-    },
-    {
-      "id": "6de323e41c10",
-      "title": "A secret new Elizabeth Holmes documentary stuns Telluride",
-      "url": "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-07T18:02:29.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2018/11/GettyImages-491583120.jpg?resize=1200,838"
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Kofi-Asante.jpg?resize=1200,800"
     }
   ],
   "就业": [
@@ -163,14 +163,14 @@
       "tags": []
     },
     {
-      "id": "e8c2998702ba",
-      "title": "19%的就业落差：AI时代，谁在获益，谁在承压？",
-      "url": "https://www.sohu.com/a/1071897079_115321",
-      "summary": "AI没杀死工作，却重新定义好工作归属。全球招聘低于疫情前，但AI新增130万岗位",
-      "source": "就业报告",
+      "id": "e26804a7c659",
+      "title": "《2026年生物医药产业人才发展报告》发布",
+      "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260901_3186029.shtml",
+      "summary": "上半年，在政策引导与科技创新双轮驱动下，我国生物医药产业保持平稳发展态势。智联招聘发布的《2026年生物医药产业人才发展报告》显示，上半年，生物医药产业中创新药研发（含AI制药）、高端医疗器械研发、出",
+      "source": "智联招聘",
       "category": "就业",
-      "published": "2026-09-04T09:55:00.000Z",
-      "image": "//q6.itc.cn/images01/20260904/2756719f1ce34843a55fbcd2c2718a5c.jpeg",
+      "published": "2026-09-01T09:03:00.000Z",
+      "image": "",
       "score": 60,
       "tags": []
     }
@@ -239,6 +239,18 @@
       "tags": []
     },
     {
+      "id": "ed0822808f9b",
+      "title": "温州发布专项政策指南 为残疾人大学生就业创业“撑腰”",
+      "url": "https://news.66wz.com/system/2026/07/16/105805829.shtml",
+      "summary": "市人社局与市残联携手对现行最实用、最优惠的就创业补贴政策进行全面梳理，并形成《温州市残疾人大学生就业创业政策指南》，助力这一特殊群体跨越障碍，实现更加充分、更高质量的就业和创业。 温州网讯 为支持更多",
+      "source": "就业创业政策",
+      "category": "政策",
+      "published": "2026-07-16T01:51:00.000Z",
+      "image": "https://news.66wz.com/pic/003/013/337/00301333742_93765919.gif",
+      "score": 55,
+      "tags": []
+    },
+    {
       "id": "bc7e41754453",
       "title": "1.16亿与102个创业样本：湖南银行如何拆解大学生“首贷难”",
       "url": "https://www.sohu.com/a/1072478729_244322",
@@ -263,26 +275,14 @@
       "tags": []
     },
     {
-      "id": "7ebbe79f9a3f",
-      "title": "充电蓄能强本领 以学促干稳就业——全市人社业务专题培训班圆满举办",
-      "url": "https://www.sohu.com/a/1072015661_121106875",
-      "summary": "民生为本，就业为先。为深入落实自治区就业工作部署，推动北海高质量充分就业提质增效，9月4日，北海市人力资源和社会保障局举办全市人社业务专题培训班，特邀广西壮族自治区人力资源和社会保障厅党组成员、副厅长",
-      "source": "Bing·人社部就业创业政策",
+      "id": "8acaccb63dbc",
+      "title": "高校毕业生等青年就业服务“八个一”行动正式启动！",
+      "url": "https://www.sohu.com/a/1071964450_121106832",
+      "summary": "为全力促进高校毕业生等青年高质量充分就业，近日，嘉兴市正式启动高校毕业生等青年就业服务“八个一”行动，将在2026年9月至2027年8月期间，靠前服务、主动发力，在做好离校未就业毕业生等青年帮扶的基础",
+      "source": "Bing·高校毕业生就业创业政策",
       "category": "政策",
-      "published": "2026-09-04T16:55:00.000Z",
-      "image": "https://q9.itc.cn/q_70/images03/20260904/f6c092fc732e4ed2a260fbe2f95dda2a.jpeg",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "f5cb39eaf8f6",
-      "title": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
-      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202606/t20260602_1438600.html",
-      "summary": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
-      "source": "教育部",
-      "category": "政策",
-      "published": "2026-06-02T00:00:00.000Z",
-      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+      "published": "2026-09-04T11:27:00.000Z",
+      "image": "https://q4.itc.cn/q_70/images03/20260904/a585f9f70ad649e7a4c0661a555d48a2.png",
       "score": 50,
       "tags": []
     }
@@ -342,6 +342,15 @@
   ],
   "财经": [
     {
+      "id": "d38067058c6b",
+      "title": "报告称，中国工业数据治理“领跑者”企业呈现四大新特征",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692963.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-09-08T15:24:33.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
       "id": "29e75ff2b8cb",
       "title": "（活力中国调研行）无人驾驶拖拉机能在耕地上“绣花”",
       "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692961.shtml",
@@ -375,15 +384,6 @@
       "source": "中新网财经",
       "category": "财经",
       "published": "2026-09-08T14:01:06.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "aecb2d54122e",
-      "title": "第四届中国工业高质量发展论坛在沈阳举办",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-08/10692938.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-09-08T14:00:52.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T14:57:19.560Z",
+  "updated": "2026-09-08T18:23:14.468Z",
   "count": 126,
   "sources": {
     "V2EX": 8,
@@ -9,6 +9,34 @@
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1240522",
+      "title": "类 Fomo 社交应用项目，已获 BN 融资 招聘： Go 后端/DevOps Engineer",
+      "company": "amberGuo",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "python",
+        "go",
+        "docker",
+        "kubernetes",
+        "aws",
+        "阿里云",
+        "腾讯云",
+        "linux",
+        "mysql",
+        "redis"
+      ],
+      "category": "后端",
+      "postedDate": "2026-09-08",
+      "url": "https://www.v2ex.com/t/1240522",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1240509",
       "title": "remote AI 产品经理",
@@ -153,23 +181,6 @@
       "category": "其他",
       "postedDate": "2026-09-08",
       "url": "https://www.v2ex.com/t/1240453",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1240434",
-      "title": "失业了。调研下还有多少人从事互联网呢？",
-      "company": "fcyoungwink",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [],
-      "category": "其他",
-      "postedDate": "2026-09-08",
-      "url": "https://www.v2ex.com/t/1240434",
       "source": "V2EX",
       "region": "domestic"
     },
@@ -577,28 +588,6 @@
       "category": "sys admin",
       "postedDate": "2026-09-02",
       "url": "https://remoteOK.com/remote-jobs/remote-driver-st-georges-university-1137289",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137286",
-      "title": "Data Entry Clerk",
-      "company": "Astrek Careers",
-      "location": "Remote",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "non tech",
-        "data entry",
-        "admin",
-        "ops"
-      ],
-      "category": "non tech",
-      "postedDate": "2026-09-02",
-      "url": "https://remoteOK.com/remote-jobs/remote-data-entry-clerk-astrek-careers-1137286",
       "source": "RemoteOK",
       "region": "foreign"
     },
@@ -2748,6 +2737,23 @@
       "postedDate": "2026-08-27",
       "url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091101",
       "source": "Remotive",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1137150",
+      "title": "Don't see a role for you",
+      "company": "Carv",
+      "location": "London,",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [],
+      "category": "Software",
+      "postedDate": "2026-08-26",
+      "url": "https://remoteOK.com/remote-jobs/remote-dont-see-a-role-for-you-carv-1137150",
+      "source": "RemoteOK",
       "region": "foreign"
     },
     {
