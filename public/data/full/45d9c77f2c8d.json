@@ -1,0 +1,7 @@
+{
+  "id": "45d9c77f2c8d",
+  "title": "由于买不起navicat，我就搓了个navicat - gui.h",
+  "url": "https://www.cnblogs.com/springhgui/p/22910363",
+  "contentZh": "",
+  "contentFull": "\n关于daro\nFlutter 构建的轻量级桌面数据库管理工具\n本项目创建之初致敬了navicat界面和操作习惯，后续将按照社区反馈进行迭代完善；本项目为完全免费使用，仅作为学习和分享Flutter技术探索，不提供任何技术支持和售后行为。\n\n\n\n\n\n\n🗄️ 支持的数据库\n\n\n\n引擎\n状态\n驱动方式\n\n\n\n\nMySQL\n✅ 已支持\nmysql_client\n\n\nMariaDB\n✅ 已支持\nmysql_client\n\n\nPostgreSQL\n✅ 已支持\npostgres\n\n\nSQL Server\n✅ 已支持\n原生协议驱动\n\n\nSQLite\n✅ 已支持\nsqlite3（FFI，文件型）\n\n\nAccess\n✅ 已支持\ndart_odbc（ODBC，文件型）\n\n\nOracle\n⏳ 规划中\n—\n\n\nMongoDB\n⏳ 规划中\n—\n\n\nRedis\n⏳ 规划中\n—\n\n\nSnowflake\n⏳ 规划中\n—\n\n\n\n\n各引擎能力（是否支持模式层、函数 / 过程、角色管理、实体化视图等）由\nlib/data/drivers/db_driver.dart 中的能力集合常量声明，界面据此动态显隐。\n\n\n🚀 快速开始\n环境要求\n\nFlutter SDK（stable 渠道，Dart ≥ 3.0）\n桌面构建工具链（Windows：Visual Studio 2022 + 「使用 C++ 的桌面开发」工作负载）\n访问 Access 需系统安装对应 ODBC 驱动\n\n拉取代码（含子模块）\n本项目的 base-ui-flutter 以 git submodule 引入，克隆时需一并拉取：\n# 方式一：克隆时递归拉取子模块\ngit clone --recursive https://github.com/SpringHgui/daro.git\n\n# 方式二：已克隆后补拉子模块\ngit submodule update --init --recursive\n\n运行\nflutter pub get\nflutter run -d windows\n\n\nSQLite 依赖 sqlite3_flutter_libs，已锁定 0.5.42\n（0.6.0+ 为 EOL 占位包、不再捆绑 sqlite3.dll，请勿升级）。\n\n\n🔗 相关链接\n\n组件库：base-ui-flutter\n\n开源地址\nhttps://github.com/SpringHgui/daro\n\n\n"
+}

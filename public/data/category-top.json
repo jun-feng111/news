@@ -1,6 +1,42 @@
 {
   "AI": [
     {
+      "id": "489fd9472b6b",
+      "title": "Instacart launches an AI grocery shopping assistant called Clementine",
+      "url": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
+      "summary": "Instacart launches an AI grocery shopping assistant called Clementine",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-09T13:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/09/instacart-logo.jpg?resize=1200,800",
+      "score": 85,
+      "tags": []
+    },
+    {
+      "id": "05461b739ef1",
+      "title": "CloudNC aims to accelerate AI supply chain machining",
+      "url": "https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/",
+      "summary": "CloudNC has secured $20 million in new capital to scale its AI precision machining technology across",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-09-09T10:34:20.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/cloudnc-ai-supply-chain-precision-machining-smart-manufacturing-funding-artificial-intelligence.jpg",
+      "score": 80,
+      "tags": []
+    },
+    {
+      "id": "16e366b20d99",
+      "title": "Samsung taps Mistral AI models for semiconductor manufacturing",
+      "url": "https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/",
+      "summary": "Samsung has partnered with Mistral AI to deploy on-premises models across its semiconductor manufact",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-09-09T08:52:19.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/samsung-mistral-ai-models-semiconductor-manufacturing-supply-chain-artificial-intelligence.jpg",
+      "score": 80,
+      "tags": []
+    },
+    {
       "id": "508387c74ccf",
       "title": "Arm launches Total Design for Physical AI and robotics framework",
       "url": "https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/",
@@ -9,7 +45,7 @@
       "category": "AI",
       "published": "2026-09-08T11:44:10.000Z",
       "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/arm-total-design-physical-ai-robotics-framework-automation-artificial-intelligence.jpg",
-      "score": 80,
+      "score": 75,
       "tags": []
     },
     {
@@ -21,94 +57,61 @@
       "category": "AI",
       "published": "2026-09-08T10:00:00.000Z",
       "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/Coca-Cola-uses-AI-to-improve-retailer-ordering-in-Malaysia-scaled-e1788839929431.jpg",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "3fee4ac4d036",
-      "title": "CloudNC raises $20M to automate manufacturing&#8217;s most pressing bottlenecks",
-      "url": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
-      "summary": "CloudNC raises $20M to automate manufacturing&#8217;s most pressing bottlenecks",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-09-09T04:01:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Theo-Saville-CloudNC.jpg?resize=1200,675",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "f455244d709f",
-      "title": "MG Ship adds AI route optimisation as logistics returns accelerate",
-      "url": "https://www.artificialintelligence-news.com/news/mg-ship-ai-route-optimisation-logistics-returns-accelerate/",
-      "summary": "MG Ship has introduced an AI route optimisation and carrier selection module as logistics deployment",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-09-07T13:01:23.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/mg-ship-ai-route-optimisation-logistics-supply-chain-artificial-intelligence-freight-transport-predictive-analytics.jpg",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "baf4c2ebabc9",
-      "title": "Hackers are stealing Claude tokens from subscribers",
-      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-      "summary": "Hackers are stealing Claude tokens from subscribers",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-09-08T21:10:27.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
       "score": 70,
       "tags": []
     }
   ],
   "科技": [
     {
-      "id": "6301e1fc8fcb",
-      "title": "Google DeepMind alumni are building tools to accelerate fusion power for the grid",
-      "url": "https://techcrunch.com/2026/09/08/google-deepmind-alumni-are-building-tools-to-accelerate-fusion-power-for-the-grid/",
-      "summary": "Google DeepMind alumni are building tools to accelerate fusion power for the grid",
+      "id": "964a854426d9",
+      "title": "Autonomy pivots to gas vehicles to keep the dream of car subscriptions alive",
+      "url": "https://techcrunch.com/2026/09/09/autonomy-pivots-to-gas-vehicles-to-keep-the-dream-of-car-subscriptions-alive/",
+      "summary": "Autonomy pivots to gas vehicles to keep the dream of car subscriptions alive",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-09-09T06:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Fusionality_Founders_3.jpeg?resize=1200,800",
+      "published": "2026-09-09T13:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/autonomy-app-bronco-square-white-ver-2.jpg?resize=1200,1200",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "3bdf38ad948f",
+      "title": "Group of bipartisan lawmakers ask US government to ban several hack-for-hire firms",
+      "url": "https://techcrunch.com/2026/09/09/group-of-bipartisan-lawmakers-ask-us-government-to-ban-several-hack-for-hire-firms/",
+      "summary": "Group of bipartisan lawmakers ask US government to ban several hack-for-hire firms",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-09T13:01:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/07/hacking-surveillance1.png?resize=1200,674",
       "score": 65,
       "tags": []
     },
     {
-      "id": "6344f8ea6647",
-      "title": "The Exploration Company nabs $450 million to challenge SpaceX",
-      "url": "https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/",
+      "id": "cc18d25d9dc6",
+      "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
+      "url": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-09-08T20:47:34.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1794387622.jpg?resize=1200,800"
+      "published": "2026-09-09T12:30:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Besxar-Team.jpg?resize=1200,900"
     },
     {
-      "id": "20d984cb02eb",
-      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
-      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+      "id": "04755a5637fd",
+      "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
+      "url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-09-08T19:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Muse-Neswsroom-Banner.jpg?resize=1200,675"
+      "published": "2026-09-09T12:05:34.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Suno_Logo1.jpeg?resize=1200,600"
     },
     {
-      "id": "a2ebb8dfb799",
-      "title": "How to watch Apple&#8217;s foldable iPhone announcement",
-      "url": "https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/",
+      "id": "6301e1fc8fcb",
+      "title": "Google DeepMind alumni are building tools to accelerate fusion power for the grid",
+      "url": "https://techcrunch.com/2026/09/08/google-deepmind-alumni-are-building-tools-to-accelerate-fusion-power-for-the-grid/",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-09-08T17:46:53.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/surprise-and-shine.webp?resize=1200,927"
-    },
-    {
-      "id": "2372e1e4c414",
-      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-08T17:32:15.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1219382595.jpg?resize=1200,750"
+      "published": "2026-09-09T06:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Fusionality_Founders_3.jpeg?resize=1200,800"
     }
   ],
   "就业": [
@@ -137,6 +140,18 @@
       "tags": []
     },
     {
+      "id": "92eb99fe70a4",
+      "title": "秋招企业看过来！海归人才齐聚黄浦，企业免费参展，先到先得！",
+      "url": "https://news.qq.com/rain/a/20260906A0BJVT00",
+      "summary": "当前，中国企业正处于全球化布局与产业转型升级的关键阶段。无论是先进制造出海、人工智能产业化落地，还是生物医药创新突破，企业对具备国际视野、专业技能与跨文化沟通能力的复合型青年人才需求持续攀升",
+      "source": "Bing·秋招",
+      "category": "就业",
+      "published": "2026-09-06T13:24:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/OQM7gJ3EzYpcHH3pCEIQjFcE1KgmppHsgwwpz5NoSAcngAA_640330/0",
+      "score": 60,
+      "tags": []
+    },
+    {
       "id": "0f21fccc7f0c",
       "title": "高级全栈工程师(C#.NET)-AI / Agent -上海五角场",
       "url": "https://www.v2ex.com/t/1239070#reply0",
@@ -159,18 +174,6 @@
       "image": "data:image/png;base64,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",
       "score": 60,
       "tags": []
-    },
-    {
-      "id": "af8ee80ad7c4",
-      "title": "2026年大学生就业前景研判报告：人工智能、数据工程师以三成招聘 ...",
-      "url": "https://news.qq.com/rain/a/20260621A08K1J00",
-      "summary": "哪些行业发展增速位居前列。哪些专业毕业后薪资领先",
-      "source": "智联招聘",
-      "category": "就业",
-      "published": "2026-06-21T11:28:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/OWCs-Tp6UekhhmAEcGla04vVA8bxCbpJz6i1bDub3KFkwAA_640330/0",
-      "score": 60,
-      "tags": []
     }
   ],
   "开发": [
@@ -187,40 +190,40 @@
       "tags": []
     },
     {
-      "id": "3bc085951436",
-      "title": "Shopify 推出 Gisting 新技术：将大模型系统提示词压缩为主旨词元",
-      "url": "https://www.infoq.cn/article/WlJkEfJxMgaK9o91ow2Z?utm_source=rss&amp;utm_medium=article",
+      "id": "dfdff40a38a4",
+      "title": "技术已经够了，企业为什么还是落不了地？｜9.20 FDE 现场解码",
+      "url": "https://www.infoq.cn/article/QIIYxNtMINFNh4sCM3vu?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-09-09T16:30:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/ce/e0/ce60e36b6818ee3996214129bd5b94e0.jpg"
+      "published": "2026-09-09T18:39:47.000Z",
+      "image": "https://static001.infoq.cn/resource/image/1f/a2/1f1de00d76f31fc7ee447591d7f15ba2.png"
     },
     {
-      "id": "9839d2681cd1",
-      "title": "百度把Agent推进家庭：百度搭子接入小度，从“管家”走向“办事”和“创造”",
-      "url": "https://www.infoq.cn/article/B2trh9hRTevk90IxzLXx?utm_source=rss&amp;utm_medium=article",
+      "id": "8a18c04d10ad",
+      "title": "Kubernetes 推广 KYAML，将其作为一种更安全、更一致的配置清单处理方式",
+      "url": "https://www.infoq.cn/article/klMJ7wvdgqiYK6BmBI5u?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-09-09T15:44:01.000Z",
-      "image": "https://static001.infoq.cn/resource/image/e0/c0/e0a074d5103dc71df41b0feb483513c0.jpg"
+      "published": "2026-09-09T18:34:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/0d/f4/0d37yy8854d2ebfa91f317ba032990f4.jpg"
     },
     {
-      "id": "d4cdeb45bd76",
-      "title": "“超脑+狼族”最新全阵容亮相！京东物流打造供应链应用场景最多、规模最大的AI具身机器人军团",
-      "url": "https://www.infoq.cn/article/ZebW8Yc4QTzrbdJxagCc?utm_source=rss&amp;utm_medium=article",
+      "id": "5caeb2e7ae48",
+      "title": "当 Agent 开始写应用，数据库也得换一套打法",
+      "url": "https://www.infoq.cn/article/TxjbzYQUeBtvESSHrRFh?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-09-09T15:38:04.000Z",
-      "image": "https://static001.infoq.cn/resource/image/18/d0/1843cf3f0878b2dcfdbbfe6c2b8842d0.png"
+      "published": "2026-09-09T18:27:41.000Z",
+      "image": "https://static001.infoq.cn/resource/image/db/7e/dbyycedf391b2db23805ea437f069a7e.jpg"
     },
     {
-      "id": "b1c896aeec6e",
-      "title": "火山引擎 AI MediaKit X 懂车帝，探索汽车内容智能创作新方式",
-      "url": "https://www.infoq.cn/article/xvtZXyhSgTlfB5y3NCFm?utm_source=rss&amp;utm_medium=article",
+      "id": "29bea53068c8",
+      "title": "面向 Agent 开发的数据库新范式 | 腾讯云数据库 DBTalk",
+      "url": "https://www.infoq.cn/video/xXRz8UJAdS3S51AqOchf?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-09-09T15:27:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/b2/b9/b299b2d4b816c6ac6666e11787fdc2b9.jpeg"
+      "published": "2026-09-09T18:17:24.000Z",
+      "image": "https://static001.geekbang.org/static/infoq/img/infoq_icon.jpg"
     }
   ],
   "政策": [
@@ -232,19 +235,30 @@
       "source": "就业创业政策",
       "category": "政策",
       "published": "2026-07-16T01:51:00.000Z",
-      "image": "https://news.66wz.com/pic/003/013/337/00301333742_93765919.gif",
       "score": 55,
       "tags": []
     },
     {
-      "id": "0f365bce9cd1",
-      "title": "大学生就业困难问题怎么办？毛主席在55年前就给出了答案。",
-      "url": "https://www.sohu.com/a/1072174505_121714871",
-      "summary": "疫情的阴影还未完全散去，国内市场便如风中残烛，摇摇欲坠。外贸遭受重创，社会发展也承受了巨大的冲击",
-      "source": "Bing·大学生就业政策",
+      "id": "8535482c6f05",
+      "title": "赋能青年成长 助力儋洋发展——我市开展高校毕业生等青年就业创业 ...",
+      "url": "https://www.sohu.com/a/1071963120_121106994",
+      "summary": "为扎实推进海南省“1131”就业服务专项行动，切实做好高校毕业生等重点青年就业创业帮扶工作，破解青年求职方向不明、就业技能不足、创业思路不清等现实问题，引导广大青年实现更加充分更高质量就业，2026年",
+      "source": "Bing·高校毕业生就业创业政策",
       "category": "政策",
-      "published": "2026-09-05T06:07:00.000Z",
-      "image": "//q0.itc.cn/images01/20260905/3a3bde44175142fe8decf52676b00129.jpeg",
+      "published": "2026-09-04T09:24:00.000Z",
+      "image": "https://q3.itc.cn/q_70/images03/20260904/00b682bc330f4f82acdb8128e0758007.jpeg",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "99e475825ebb",
+      "title": "市就业中心成功举办驻佳院校大学生“创业体验日”资源对接活动",
+      "url": "https://www.sohu.com/a/1072948825_121106822",
+      "summary": "为深入落实我省“源来好创业”资源对接服务季部署，进一步激发高校学生创业兴趣、提升创业能力，9月4日，佳木斯市就业创业服务中心在市创业孵化基地组织开展了驻佳院校大学生“创业体验日”资源对接专场活动。活动",
+      "source": "Bing·大学生创业扶持政策",
+      "category": "政策",
+      "published": "2026-09-07T12:00:00.000Z",
+      "image": "https://q7.itc.cn/q_70/images03/20260907/57f921faa081424a82d29ab98196dd83.jpeg",
       "score": 50,
       "tags": []
     },
@@ -271,111 +285,105 @@
       "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
       "score": 50,
       "tags": []
-    },
-    {
-      "id": "20eed286abd8",
-      "title": "2026-04-24教育部办公厅 人力资源社会保障部办公厅关于开展2026年高校毕业生就业政策宣传活动的通知",
-      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202604/t20260423_1434600.html",
-      "summary": "2026-04-24教育部办公厅 人力资源社会保障部办公厅关于开展2026年高校毕业生就业政策宣传活动的通知",
-      "source": "教育部",
-      "category": "政策",
-      "published": "2026-04-23T00:00:00.000Z",
-      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
-      "score": 50,
-      "tags": []
     }
   ],
   "社会": [
     {
-      "id": "b9b10d3aa332",
-      "title": "中国首家科学家IP脑科学体验馆开馆一周年",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-09/10693311.shtml",
+      "id": "ff555035c069",
+      "title": "中国人民大学首次在通州校区举办本硕博学生开学典礼",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-07/10691992.shtml",
+      "summary": "中新网北京9月7日电 (记者 曾玥)中国人民大学2026—2027学年开学典礼6日在该校通州校区田径场举行。这是中国人民大学首次在通州校区举办本硕博学生开学典礼",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-09-07T09:18:06.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "2ae084e91cbc",
+      "title": "好评中国｜传承“两弹一星”精神，中国科大这间实验室正在攻关",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-07/10692054.shtml",
+      "summary": "视频：好评中国丨传承“两弹一星”精神，中国科大这间实验室正在攻关来源：中国青年网",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-09-07T09:01:41.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "25c1b4e788cd",
+      "title": "老师们辛苦了，请收下这份健康指南（服务窗·关注教师健康）",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-09/10693547.shtml",
       "source": "中新网社会",
       "category": "社会",
-      "published": "2026-09-09T08:33:54.000Z",
+      "published": "2026-09-09T12:56:08.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "e1e505b19bcd",
-      "title": "“AI上天津”高校创作者成长计划启动 以青春赋能津派文化传播",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-09/10693297.shtml",
+      "id": "66561c0d81fe",
+      "title": "一颗核桃的增值之路：看云南永平如何做深富民产业",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-09/10693545.shtml",
       "source": "中新网社会",
       "category": "社会",
-      "published": "2026-09-09T08:18:17.000Z",
+      "published": "2026-09-09T12:55:10.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "568140fece7a",
-      "title": "江西遂川泥石流灾害转移安置点见闻",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-09/10693286.shtml",
+      "id": "0a03ef7f8176",
+      "title": "杭州为网约车司机设2000个司机停车如厕泊位",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-09/10693521.shtml",
       "source": "中新网社会",
       "category": "社会",
-      "published": "2026-09-09T07:38:23.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "feaa40c6b308",
-      "title": "四川都江堰监测记录到大熊猫罕见“同框”画面 一颗“美人痣”区分两只个体",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-09/10693243.shtml",
-      "source": "中新网社会",
-      "category": "社会",
-      "published": "2026-09-09T07:25:58.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "d380509b9218",
-      "title": "旅博会首设新兴文化产业专场 《新兴文化产业生态联动倡议》在津发布",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-09/10693246.shtml",
-      "source": "中新网社会",
-      "category": "社会",
-      "published": "2026-09-09T07:25:14.000Z",
+      "published": "2026-09-09T12:32:47.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ],
   "财经": [
     {
-      "id": "26e6c1c74b02",
-      "title": "中国自主设计建造的首艘超大型液化气运输船在江苏命名",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693302.shtml",
+      "id": "dbc6786a5074",
+      "title": "中国（福建）—芬兰经贸合作交流会在厦门举办",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693551.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-09T08:35:58.000Z",
+      "published": "2026-09-09T13:24:12.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "25d7581a7bb5",
-      "title": "“惊喜石景山”文旅品牌在京发布 新首钢大桥等入选十大惊喜文旅地标",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693304.shtml",
+      "id": "b331aba525fb",
+      "title": "62岁董事长离婚辞职，我武生物股价大跌",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693553.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-09T08:34:18.000Z",
+      "published": "2026-09-09T13:23:48.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "4b7f2d15ccc3",
-      "title": "聚焦AI定义下一代智能座舱 专家共话全域交互新生态",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693310.shtml",
+      "id": "7e85f4cd58c6",
+      "title": "长三角铁路今年中秋国庆假期预计发送旅客5400万人次",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693550.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-09T08:33:02.000Z",
+      "published": "2026-09-09T13:11:44.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "05f459fb25f2",
-      "title": "全国工商联联合18家商会发布商会团体标准工作提质升级倡议",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693309.shtml",
+      "id": "74fa781c35ff",
+      "title": "江西锂电新能源产业“向智”“向绿”发展",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693537.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-09T08:32:30.000Z",
+      "published": "2026-09-09T12:59:41.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "c1b2ee5bd458",
-      "title": "“长江新链号”启用 长江干线5G+迈入新阶段",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693298.shtml",
+      "id": "0a18a1a6afd2",
+      "title": "央行：存款保险无需储户承担保费",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693534.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-09T08:17:59.000Z",
+      "published": "2026-09-09T12:59:09.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
