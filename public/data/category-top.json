@@ -1,15 +1,71 @@
 {
+  "科技": [
+    {
+      "id": "048ef16923d0",
+      "title": "Apple launches iPhone 18 Pro with upgraded camera",
+      "url": "https://techcrunch.com/2026/09/09/apple-launches-iphone-18-pro-with-upgraded-camera/",
+      "summary": "Apple launches iPhone 18 Pro with upgraded camera",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-09T17:26:05.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/HRymOiMbQAAozT9.jpeg?resize=1200,675",
+      "score": 80,
+      "tags": []
+    },
+    {
+      "id": "8d46cc5a0f61",
+      "title": "DOJ wants more answers on Fox’s $22B Roku deal",
+      "url": "https://techcrunch.com/2026/09/09/doj-wants-more-answers-on-foxs-22b-roku-deal/",
+      "summary": "DOJ wants more answers on Fox’s $22B Roku deal",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-09T16:44:21.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/04/roku-logo.jpg?resize=1200,800",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "21c2a27323ca",
+      "title": "Superintelligence is coming. Should we let it?",
+      "url": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
+      "summary": "Superintelligence is coming。 Should we let it",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-09T16:05:35.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2021258442.jpg?resize=1200,800",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "e180ac9c13e1",
+      "title": "Uber rival inDrive scales beyond ride-hailing to capture more consumer spending",
+      "url": "https://techcrunch.com/2026/09/09/uber-rival-indrive-scales-beyond-ride-hailing-to-capture-more-consumer-spending/",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-09T15:10:41.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/11/81752CC3-0EA6-4B02-A8FB-D98234DEFDA5.jpeg?w=1170"
+    },
+    {
+      "id": "46698576bf59",
+      "title": "&#8216;Gambling with our lives&#8217;: Anthropic researcher quits, warns against self-improving AI",
+      "url": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-09T15:02:47.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2063425288.jpg?resize=1200,818"
+    }
+  ],
   "AI": [
     {
-      "id": "489fd9472b6b",
-      "title": "Instacart launches an AI grocery shopping assistant called Clementine",
-      "url": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
-      "summary": "Instacart launches an AI grocery shopping assistant called Clementine",
+      "id": "aea2bcdb83b5",
+      "title": "Viral AI assistant Instinct now has its own email address",
+      "url": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
+      "summary": "Viral AI assistant Instinct now has its own email address",
       "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-09-09T13:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/09/instacart-logo.jpg?resize=1200,800",
-      "score": 85,
+      "published": "2026-09-09T15:13:12.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/instinct-email.jpeg?w=1200",
+      "score": 80,
       "tags": []
     },
     {
@@ -21,7 +77,7 @@
       "category": "AI",
       "published": "2026-09-09T10:34:20.000Z",
       "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/cloudnc-ai-supply-chain-precision-machining-smart-manufacturing-funding-artificial-intelligence.jpg",
-      "score": 80,
+      "score": 75,
       "tags": []
     },
     {
@@ -33,7 +89,7 @@
       "category": "AI",
       "published": "2026-09-09T08:52:19.000Z",
       "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/samsung-mistral-ai-models-semiconductor-manufacturing-supply-chain-artificial-intelligence.jpg",
-      "score": 80,
+      "score": 75,
       "tags": []
     },
     {
@@ -59,59 +115,6 @@
       "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/Coca-Cola-uses-AI-to-improve-retailer-ordering-in-Malaysia-scaled-e1788839929431.jpg",
       "score": 70,
       "tags": []
-    }
-  ],
-  "科技": [
-    {
-      "id": "964a854426d9",
-      "title": "Autonomy pivots to gas vehicles to keep the dream of car subscriptions alive",
-      "url": "https://techcrunch.com/2026/09/09/autonomy-pivots-to-gas-vehicles-to-keep-the-dream-of-car-subscriptions-alive/",
-      "summary": "Autonomy pivots to gas vehicles to keep the dream of car subscriptions alive",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-09T13:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/autonomy-app-bronco-square-white-ver-2.jpg?resize=1200,1200",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "3bdf38ad948f",
-      "title": "Group of bipartisan lawmakers ask US government to ban several hack-for-hire firms",
-      "url": "https://techcrunch.com/2026/09/09/group-of-bipartisan-lawmakers-ask-us-government-to-ban-several-hack-for-hire-firms/",
-      "summary": "Group of bipartisan lawmakers ask US government to ban several hack-for-hire firms",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-09T13:01:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2019/07/hacking-surveillance1.png?resize=1200,674",
-      "score": 65,
-      "tags": []
-    },
-    {
-      "id": "cc18d25d9dc6",
-      "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
-      "url": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-09T12:30:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Besxar-Team.jpg?resize=1200,900"
-    },
-    {
-      "id": "04755a5637fd",
-      "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
-      "url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-09T12:05:34.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Suno_Logo1.jpeg?resize=1200,600"
-    },
-    {
-      "id": "6301e1fc8fcb",
-      "title": "Google DeepMind alumni are building tools to accelerate fusion power for the grid",
-      "url": "https://techcrunch.com/2026/09/08/google-deepmind-alumni-are-building-tools-to-accelerate-fusion-power-for-the-grid/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-09T06:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Fusionality_Founders_3.jpeg?resize=1200,800"
     }
   ],
   "就业": [
@@ -176,6 +179,68 @@
       "tags": []
     }
   ],
+  "政策": [
+    {
+      "id": "772bf813def2",
+      "title": "102个创业样本背后的金融逻辑，湖南银行“大学生创业贷”余额突破1亿",
+      "url": "https://finance.sina.com.cn/wm/2026-09-07/doc-iniqznpn9534565.shtml",
+      "summary": "一个大学生创业项目，从递交申请到拿到贷款，最快需要多久。湖南银行的答案是：7个工作日以内",
+      "source": "Bing·大学生就业政策",
+      "category": "政策",
+      "published": "2026-09-07T08:30:00.000Z",
+      "image": "//n.sinaimg.cn/front20260907ac/32/w816h816/20260907/3f23-ee4f2f044b3f369dce968f3a1778ff0f.jpg",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "7530315d4a43",
+      "title": "@丹东企业、高校毕业生、就业困难人员……2026版补贴政策请查收",
+      "url": "https://news.qq.com/rain/a/20260815A06VPO00",
+      "summary": "近日，丹东市人力资源和社会保障局发布《丹东市就业创业政策清单（2026版）》，集中梳理了当前全市就业创业领域的重点扶持政策，方便企业和市民“对号入座”、应享尽享。清单分为“企业类”和“个人类”两大板块",
+      "source": "就业创业政策",
+      "category": "政策",
+      "published": "2026-08-15T05:41:00.000Z",
+      "image": "http://inews.gtimg.com/newsapp_ls/0/192333742_200200/0",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "0f365bce9cd1",
+      "title": "大学生就业困难问题怎么办？毛主席在55年前就给出了答案。",
+      "url": "https://www.sohu.com/a/1072174505_121714871",
+      "summary": "疫情的阴影还未完全散去，国内市场便如风中残烛，摇摇欲坠。外贸遭受重创，社会发展也承受了巨大的冲击",
+      "source": "Bing·大学生就业政策",
+      "category": "政策",
+      "published": "2026-09-05T06:07:00.000Z",
+      "image": "//q0.itc.cn/images01/20260905/3a3bde44175142fe8decf52676b00129.jpeg",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "8535482c6f05",
+      "title": "赋能青年成长 助力儋洋发展——我市开展高校毕业生等青年就业创业 ...",
+      "url": "https://www.sohu.com/a/1071963120_121106994",
+      "summary": "为扎实推进海南省“1131”就业服务专项行动，切实做好高校毕业生等重点青年就业创业帮扶工作，破解青年求职方向不明、就业技能不足、创业思路不清等现实问题，引导广大青年实现更加充分更高质量就业，2026年",
+      "source": "Bing·高校毕业生就业创业政策",
+      "category": "政策",
+      "published": "2026-09-04T09:24:00.000Z",
+      "image": "https://q3.itc.cn/q_70/images03/20260904/00b682bc330f4f82acdb8128e0758007.jpeg",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "99e475825ebb",
+      "title": "市就业中心成功举办驻佳院校大学生“创业体验日”资源对接活动",
+      "url": "https://www.sohu.com/a/1072948825_121106822",
+      "summary": "为深入落实我省“源来好创业”资源对接服务季部署，进一步激发高校学生创业兴趣、提升创业能力，9月4日，佳木斯市就业创业服务中心在市创业孵化基地组织开展了驻佳院校大学生“创业体验日”资源对接专场活动。活动",
+      "source": "Bing·大学生创业扶持政策",
+      "category": "政策",
+      "published": "2026-09-07T12:00:00.000Z",
+      "image": "https://q7.itc.cn/q_70/images03/20260907/57f921faa081424a82d29ab98196dd83.jpeg",
+      "score": 50,
+      "tags": []
+    }
+  ],
   "开发": [
     {
       "id": "b4aad10f5b79",
@@ -188,6 +253,15 @@
       "image": "",
       "score": 55,
       "tags": []
+    },
+    {
+      "id": "315799cc8723",
+      "title": "从 Harness 到 Loop 的持续进化",
+      "url": "https://www.infoq.cn/video/52550fXfrMaZhMqwrsC5?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-10T01:04:35.000Z",
+      "image": "https://static001.geekbang.org/static/infoq/img/infoq_icon.jpg"
     },
     {
       "id": "dfdff40a38a4",
@@ -215,79 +289,21 @@
       "category": "开发",
       "published": "2026-09-09T18:27:41.000Z",
       "image": "https://static001.infoq.cn/resource/image/db/7e/dbyycedf391b2db23805ea437f069a7e.jpg"
-    },
-    {
-      "id": "29bea53068c8",
-      "title": "面向 Agent 开发的数据库新范式 | 腾讯云数据库 DBTalk",
-      "url": "https://www.infoq.cn/video/xXRz8UJAdS3S51AqOchf?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-09T18:17:24.000Z",
-      "image": "https://static001.geekbang.org/static/infoq/img/infoq_icon.jpg"
-    }
-  ],
-  "政策": [
-    {
-      "id": "ed0822808f9b",
-      "title": "温州发布专项政策指南 为残疾人大学生就业创业“撑腰”",
-      "url": "https://news.66wz.com/system/2026/07/16/105805829.shtml",
-      "summary": "市人社局与市残联携手对现行最实用、最优惠的就创业补贴政策进行全面梳理，并形成《温州市残疾人大学生就业创业政策指南》，助力这一特殊群体跨越障碍，实现更加充分、更高质量的就业和创业。 温州网讯 为支持更多",
-      "source": "就业创业政策",
-      "category": "政策",
-      "published": "2026-07-16T01:51:00.000Z",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "8535482c6f05",
-      "title": "赋能青年成长 助力儋洋发展——我市开展高校毕业生等青年就业创业 ...",
-      "url": "https://www.sohu.com/a/1071963120_121106994",
-      "summary": "为扎实推进海南省“1131”就业服务专项行动，切实做好高校毕业生等重点青年就业创业帮扶工作，破解青年求职方向不明、就业技能不足、创业思路不清等现实问题，引导广大青年实现更加充分更高质量就业，2026年",
-      "source": "Bing·高校毕业生就业创业政策",
-      "category": "政策",
-      "published": "2026-09-04T09:24:00.000Z",
-      "image": "https://q3.itc.cn/q_70/images03/20260904/00b682bc330f4f82acdb8128e0758007.jpeg",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "99e475825ebb",
-      "title": "市就业中心成功举办驻佳院校大学生“创业体验日”资源对接活动",
-      "url": "https://www.sohu.com/a/1072948825_121106822",
-      "summary": "为深入落实我省“源来好创业”资源对接服务季部署，进一步激发高校学生创业兴趣、提升创业能力，9月4日，佳木斯市就业创业服务中心在市创业孵化基地组织开展了驻佳院校大学生“创业体验日”资源对接专场活动。活动",
-      "source": "Bing·大学生创业扶持政策",
-      "category": "政策",
-      "published": "2026-09-07T12:00:00.000Z",
-      "image": "https://q7.itc.cn/q_70/images03/20260907/57f921faa081424a82d29ab98196dd83.jpeg",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "f5cb39eaf8f6",
-      "title": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
-      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202606/t20260602_1438600.html",
-      "summary": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
-      "source": "教育部",
-      "category": "政策",
-      "published": "2026-06-02T00:00:00.000Z",
-      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "a3af074b2b9b",
-      "title": "2026-05-22教育部等八部门办公厅关于联合开展2026年度高校毕业生等重点群体促就业“国聘行动”的通知",
-      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202605/t20260522_1437356.html",
-      "summary": "2026-05-22教育部等八部门办公厅关于联合开展2026年度高校毕业生等重点群体促就业“国聘行动”的通知",
-      "source": "教育部",
-      "category": "政策",
-      "published": "2026-05-22T00:00:00.000Z",
-      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
-      "score": 50,
-      "tags": []
     }
   ],
   "社会": [
+    {
+      "id": "0d740f077f3f",
+      "title": "讲授“法治第一课” 首席大法官提到这些关键词",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-07/10692253.shtml",
+      "summary": "中新网北京9月7日电 (记者 张素)9月7日，身兼北京市第二中学法治副校长的最高人民法院院长、首席大法官张军第9次走进二中校园，为师生和家长们讲授“法治第一课”",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-09-07T13:58:31.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
+    },
     {
       "id": "ff555035c069",
       "title": "中国人民大学首次在通州校区举办本硕博学生开学典礼",
@@ -313,77 +329,68 @@
       "tags": []
     },
     {
-      "id": "25c1b4e788cd",
-      "title": "老师们辛苦了，请收下这份健康指南（服务窗·关注教师健康）",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-09/10693547.shtml",
+      "id": "763be1d827b6",
+      "title": "下套、吓人、下药环环相扣！揭开“健康顾问”诈骗套路",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-09/10693652.shtml",
       "source": "中新网社会",
       "category": "社会",
-      "published": "2026-09-09T12:56:08.000Z",
+      "published": "2026-09-09T15:27:48.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "66561c0d81fe",
-      "title": "一颗核桃的增值之路：看云南永平如何做深富民产业",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-09/10693545.shtml",
+      "id": "935f88b2939e",
+      "title": "15元买两斤蛤蜊吃出3颗珍珠！专家：正常现象 不耽误食用",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-09/10693650.shtml",
       "source": "中新网社会",
       "category": "社会",
-      "published": "2026-09-09T12:55:10.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "0a03ef7f8176",
-      "title": "杭州为网约车司机设2000个司机停车如厕泊位",
-      "url": "https://www.chinanews.com.cn/sh/2026/09-09/10693521.shtml",
-      "source": "中新网社会",
-      "category": "社会",
-      "published": "2026-09-09T12:32:47.000Z",
+      "published": "2026-09-09T15:23:10.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ],
   "财经": [
     {
-      "id": "dbc6786a5074",
-      "title": "中国（福建）—芬兰经贸合作交流会在厦门举办",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693551.shtml",
+      "id": "ebddc9ef1ce0",
+      "title": "商务部：中方反对美方在人工智能领域推行科技霸权、搞算力垄断",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-10/10693656.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-09T13:24:12.000Z",
+      "published": "2026-09-09T17:26:34.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "b331aba525fb",
-      "title": "62岁董事长离婚辞职，我武生物股价大跌",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693553.shtml",
+      "id": "cbb5f207d599",
+      "title": "报告：北京、上海、香港位列世界旅游城市综合排名前十",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693654.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-09T13:23:48.000Z",
+      "published": "2026-09-09T15:59:14.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "7e85f4cd58c6",
-      "title": "长三角铁路今年中秋国庆假期预计发送旅客5400万人次",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693550.shtml",
+      "id": "8b091a65ecf3",
+      "title": "2026年服贸会开幕 新科技点亮趣味生活",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693653.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-09T13:11:44.000Z",
+      "published": "2026-09-09T15:43:11.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "74fa781c35ff",
-      "title": "江西锂电新能源产业“向智”“向绿”发展",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693537.shtml",
+      "id": "6c594b959373",
+      "title": "免费飞机餐是否取消？多家航司回应",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693640.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-09T12:59:41.000Z",
+      "published": "2026-09-09T14:17:10.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "0a18a1a6afd2",
-      "title": "央行：存款保险无需储户承担保费",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693534.shtml",
+      "id": "9e49db895568",
+      "title": "全国首款干细胞药品落地宁夏 西北患者就近用上国产创新药",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-09/10693605.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-09T12:59:09.000Z",
+      "published": "2026-09-09T14:09:01.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
