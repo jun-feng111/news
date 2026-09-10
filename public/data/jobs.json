@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T14:55:18.011Z",
+  "updated": "2026-09-10T18:10:35.849Z",
   "count": 126,
   "sources": {
     "V2EX": 9,
@@ -455,33 +455,6 @@
       "category": "customer support",
       "postedDate": "2026-09-03",
       "url": "https://remoteOK.com/remote-jobs/remote-customer-support-success-specialist-warehance-1137302",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137300",
-      "title": "QA Engineer",
-      "company": "SunnyData",
-      "location": "Remote",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "technical",
-        "dev",
-        "testing",
-        "marketing",
-        "quality assurance",
-        "education",
-        "cloud",
-        "engineer",
-        "digital nomad"
-      ],
-      "category": "technical",
-      "postedDate": "2026-09-03",
-      "url": "https://remoteOK.com/remote-jobs/remote-qa-engineer-sunnydata-1137300",
       "source": "RemoteOK",
       "region": "foreign"
     },
@@ -3379,6 +3352,36 @@
       "category": "design",
       "postedDate": "2026-07-30",
       "url": "https://remoteOK.com/remote-jobs/remote-machine-operator-amp-labourers-total-environmental-concepts-pty-ltd-1136001",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1135675",
+      "title": "Human Resources Specialist",
+      "company": "Harvey Nash",
+      "location": "California, California, United States",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "testing",
+        "education",
+        "exec",
+        "content writing",
+        "marketing",
+        "part time",
+        "design",
+        "technical",
+        "coordinator",
+        "customer support",
+        "travel",
+        "microsoft"
+      ],
+      "category": "testing",
+      "postedDate": "2026-07-30",
+      "url": "https://remoteOK.com/remote-jobs/remote-human-resources-specialist-harvey-nash-1135675",
       "source": "RemoteOK",
       "region": "foreign"
     }
