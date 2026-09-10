@@ -1,14 +1,50 @@
 {
-  "updated": "2026-09-10T10:46:19.223Z",
-  "count": 125,
+  "updated": "2026-09-10T14:55:18.011Z",
+  "count": 126,
   "sources": {
     "V2EX": 9,
     "RemoteOK": 99,
-    "Remotive": 17,
+    "Remotive": 18,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1241165",
+      "title": "大龄程序员只配去外包了吗？",
+      "company": "kpub54",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [],
+      "category": "其他",
+      "postedDate": "2026-09-10",
+      "url": "https://www.v2ex.com/t/1241165",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1241157",
+      "title": "remote 项目经理（Go 后端方向）",
+      "company": "andyxinweimin",
+      "location": "国内",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "go"
+      ],
+      "category": "后端",
+      "postedDate": "2026-09-10",
+      "url": "https://www.v2ex.com/t/1241157",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1241115",
       "title": "remote 浏览器内核工程师（C/C++ · Chromium）/C# 桌面客户端工程师（Avalonia · CEF/OSR）",
@@ -152,42 +188,55 @@
       "region": "domestic"
     },
     {
-      "id": "v2ex-1240778",
-      "title": "来个 ios， base 杭州，薪资 open 邮箱： ZmVpZmVpY2hlbjE5OTlAZ21haWwuY29t",
-      "company": "feifeichen",
-      "location": "国内",
+      "id": "remoteok-1137373",
+      "title": "Business Development Manager",
+      "company": "Libertex Group",
+      "location": "ÙØ³ÙØ·, ÙØ³ÙØ· ÙØ³ÙØ· Ø¹ÙØ§Ù",
       "remote": false,
       "salaryText": "",
       "salaryMin": null,
       "salaryMax": null,
-      "salaryCurrency": "CNY",
+      "salaryCurrency": "",
       "skills": [
-        "react",
-        "flutter",
-        "swift"
+        "product manager",
+        "exec",
+        "design",
+        "crypto",
+        "marketing",
+        "finance",
+        "bus dev",
+        "recruiter",
+        "digital nomad"
       ],
-      "category": "其他",
-      "postedDate": "2026-09-09",
-      "url": "https://www.v2ex.com/t/1240778",
-      "source": "V2EX",
-      "region": "domestic"
+      "category": "product manager",
+      "postedDate": "2026-09-08",
+      "url": "https://remoteOK.com/remote-jobs/remote-business-development-manager-libertex-group-1137373",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
-      "id": "v2ex-1240774",
-      "title": "深圳安全运营招聘",
-      "company": "jiangmuAlvin",
-      "location": "国内",
+      "id": "remoteok-1137374",
+      "title": "Quality Dispense Technician North",
+      "company": "Thatchers Cider",
+      "location": "Greater Newcastle Area,",
       "remote": false,
       "salaryText": "",
       "salaryMin": null,
       "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [],
-      "category": "运营",
-      "postedDate": "2026-09-09",
-      "url": "https://www.v2ex.com/t/1240774",
-      "source": "V2EX",
-      "region": "domestic"
+      "salaryCurrency": "",
+      "skills": [
+        "education",
+        "marketing",
+        "finance",
+        "exec",
+        "excel",
+        "golang"
+      ],
+      "category": "education",
+      "postedDate": "2026-09-08",
+      "url": "https://remoteOK.com/remote-jobs/remote-quality-dispense-technician-north-thatchers-cider-1137374",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137314",
@@ -212,6 +261,28 @@
       "postedDate": "2026-09-08",
       "url": "https://remoteOK.com/remote-jobs/remote-social-comms-nope-1137314",
       "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remotive-2086540",
+      "title": "Inside Sales Contractor",
+      "company": "Credit Wellness, LLC",
+      "location": "Worldwide",
+      "remote": true,
+      "salaryText": "OTE $25k - $35k",
+      "salaryMin": 25000,
+      "salaryMax": 35000,
+      "salaryCurrency": "USD",
+      "skills": [
+        "CRM",
+        "google sheets",
+        "financial services",
+        "Inside Sales"
+      ],
+      "category": "Sales",
+      "postedDate": "2026-09-08",
+      "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
+      "source": "Remotive",
       "region": "foreign"
     },
     {
@@ -3308,62 +3379,6 @@
       "category": "design",
       "postedDate": "2026-07-30",
       "url": "https://remoteOK.com/remote-jobs/remote-machine-operator-amp-labourers-total-environmental-concepts-pty-ltd-1136001",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1135675",
-      "title": "Human Resources Specialist",
-      "company": "Harvey Nash",
-      "location": "California, California, United States",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "testing",
-        "education",
-        "exec",
-        "content writing",
-        "marketing",
-        "part time",
-        "design",
-        "technical",
-        "coordinator",
-        "customer support",
-        "travel",
-        "microsoft"
-      ],
-      "category": "testing",
-      "postedDate": "2026-07-30",
-      "url": "https://remoteOK.com/remote-jobs/remote-human-resources-specialist-harvey-nash-1135675",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1135634",
-      "title": "Software Engineer GO",
-      "company": "Wakacje.pl",
-      "location": "Remote",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "golang",
-        "dev",
-        "travel",
-        "api",
-        "golang",
-        "engineer",
-        "backend",
-        "digital nomad"
-      ],
-      "category": "golang",
-      "postedDate": "2026-07-29",
-      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-go-wakacje-pl-1135634",
       "source": "RemoteOK",
       "region": "foreign"
     }
