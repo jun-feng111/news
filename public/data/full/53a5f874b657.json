@@ -1,0 +1,7 @@
+{
+  "id": "53a5f874b657",
+  "title": "吐槽下 reasonix 太费 Token",
+  "url": "https://www.v2ex.com/t/1241020#reply2",
+  "contentZh": "",
+  "contentFull": "本来觉得 reasonix 可以很省 token ，一直用下来感觉确实不错。刚中午要去吃饭，正好部署的 openclaw 容器需要更新，就用了 auto 模式。\n搞完发现不支持数据挂载持久化了，就追问了这个问题。他说不信的话给我做个实验，结果吃完回来傻眼了，还没结束已经消耗了 2000 多万 token 。\n所以有时候还是不能太信工具，最优解往往是局部解🤔"
+}
