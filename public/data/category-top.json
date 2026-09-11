@@ -1,14 +1,14 @@
 {
   "AI": [
     {
-      "id": "5afd7f981df5",
-      "title": "Palantir Foundry and cuOpt drive NVIDIA supply chain allocation",
-      "url": "https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/",
-      "summary": "NVIDIA is using Palantir Foundry and cuOpt to automate its hardware supply chain allocation decision",
-      "source": "AI News",
+      "id": "b3b5bc18a7be",
+      "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+      "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+      "summary": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+      "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-09-11T12:00:18.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/palantir-foundry-cuopt-nvidia-supply-chain-allocation-hardware-nemotron-lightning-ai-model.jpg",
+      "published": "2026-09-11T19:35:54.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2286500505.jpg?resize=1200,800",
       "score": 80,
       "tags": []
     },
@@ -25,6 +25,18 @@
       "tags": []
     },
     {
+      "id": "5afd7f981df5",
+      "title": "Palantir Foundry and cuOpt drive NVIDIA supply chain allocation",
+      "url": "https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/",
+      "summary": "NVIDIA is using Palantir Foundry and cuOpt to automate its hardware supply chain allocation decision",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-09-11T12:00:18.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/palantir-foundry-cuopt-nvidia-supply-chain-allocation-hardware-nemotron-lightning-ai-model.jpg",
+      "score": 75,
+      "tags": []
+    },
+    {
       "id": "96d0a041a360",
       "title": "JD.com expands physical AI in logistics with 3 million robots",
       "url": "https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/",
@@ -33,18 +45,6 @@
       "category": "AI",
       "published": "2026-09-10T10:00:00.000Z",
       "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/JD.com-expands-physical-AI-in-logistics-with-3-million-robots.png",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "5a7a028d73b1",
-      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
-      "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
-      "summary": "OpenAI puts Pro subscriptions on hold due to Astra demand",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-09-10T20:59:51.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
       "score": 75,
       "tags": []
     },
@@ -63,6 +63,18 @@
   ],
   "科技": [
     {
+      "id": "8bb8b268e44e",
+      "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+      "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
+      "summary": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-11T20:30:17.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/12/Disrupt-2024-Investor-Reception.jpg?resize=1200,800",
+      "score": 75,
+      "tags": []
+    },
+    {
       "id": "4a2554520923",
       "title": "Matt Mullenweg tells (trolls?) Automattic staff, saying he&#8217;s back in control after CEO ouster",
       "url": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
@@ -75,43 +87,31 @@
       "tags": []
     },
     {
+      "id": "fc18cc73f121",
+      "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
+      "url": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-10T22:30:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/DC-United.jpg?resize=1200,800"
+    },
+    {
+      "id": "3f1b7e6d6a10",
+      "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+      "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-10T21:51:59.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-getty.jpg?resize=1200,781"
+    },
+    {
       "id": "96e78022ceca",
       "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
       "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-      "summary": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
       "source": "TechCrunch",
       "category": "科技",
       "published": "2026-09-10T21:35:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Wahlberg-Lee-16x9-Dark.png?resize=1200,675",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "999f113dc0b6",
-      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-10T20:57:30.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2287646148.jpg?resize=1200,901"
-    },
-    {
-      "id": "eba93220bae8",
-      "title": "Furo&#8217;s founders left Silicon Valley — and it&#8217;s paying off",
-      "url": "https://techcrunch.com/2026/09/10/furos-founders-left-silicon-valley-and-its-paying-off/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-10T20:48:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/furo-cofounders.jpg?resize=1200,900"
-    },
-    {
-      "id": "4780951de096",
-      "title": "Meta&#8217;s AI agent Muse is now the No. 2 app in the US",
-      "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-10T19:50:04.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024"
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Wahlberg-Lee-16x9-Dark.png?resize=1200,675"
     }
   ],
   "就业": [
@@ -174,56 +174,6 @@
       "image": "https://inews.gtimg.com/om_ls/OWCs-Tp6UekhhmAEcGla04vVA8bxCbpJz6i1bDub3KFkwAA_640330/0",
       "score": 60,
       "tags": []
-    }
-  ],
-  "开发": [
-    {
-      "id": "fc18cc73f121",
-      "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
-      "url": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
-      "summary": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
-      "source": "TechCrunch",
-      "category": "开发",
-      "published": "2026-09-10T22:30:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/DC-United.jpg?resize=1200,800",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "03fecbb131a2",
-      "title": "AI Coding 提速之后，如何补上稳定性“最后一公里”？快手柯南 AI 实践",
-      "url": "https://www.infoq.cn/article/rlXYaPUjVR0fffbQK3Iz?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-11T21:06:08.000Z",
-      "image": "https://static001.infoq.cn/resource/image/33/fe/33dbafaf5f539a7396cc6471f3d06cfe.jpg"
-    },
-    {
-      "id": "bcf2155cb6c8",
-      "title": "怒斥加密货币是旁氏骗局、放弃80%就业机会也不用 AI 写代码！Kotlin“J神”：AI 会让工程师变成可替换的齿轮",
-      "url": "https://www.infoq.cn/article/QPRcUdPGic5r8Ws8R1gM?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-11T21:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/49/d4/490d43f6a834e7bb06c2e524e39db1d4.png"
-    },
-    {
-      "id": "5008bce8353f",
-      "title": "“我们在拿生命做赌注”：造AI的人为何开始密集预警？",
-      "url": "https://www.infoq.cn/article/FA80wgNMOwCRrXsSIAwX?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-11T19:08:42.000Z",
-      "image": "https://static001.infoq.cn/resource/image/46/81/466e32d445e15b89ac5f064d0f0f0281.png"
-    },
-    {
-      "id": "9b323c9cc7c3",
-      "title": "AI Coding 的下一步不是写得更快，而是可验收：蚂蚁数科 Harness 工程实践",
-      "url": "https://www.infoq.cn/article/A2IFuW8yiYhRqXizT5Uu?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-11T18:15:19.000Z",
-      "image": "https://static001.infoq.cn/resource/image/45/0a/452875bf3174dac27f2d77ca33b1970a.jpg"
     }
   ],
   "社会": [
@@ -314,18 +264,6 @@
       "tags": []
     },
     {
-      "id": "8a0b84484311",
-      "title": "山西举行“开局起步‘十五五’”系列主题第十场新闻发布会（省人 ...",
-      "url": "https://www.sohu.com/a/1073828173_121106854",
-      "summary": "9月9日上午，中共山西省委宣传部、山西省人民政府新闻办公室举行“开局起步‘十五五’”系列主题第十场新闻发布会（省人社厅专场）。省人社厅党组书记、厅长雷健坤，厅党组成员、副厅长刘大宇，厅党组成员、省社会",
-      "source": "Bing·人社部就业创业政策",
-      "category": "政策",
-      "published": "2026-09-09T08:09:00.000Z",
-      "image": "https://q2.itc.cn/q_70/images03/20260909/5a2609c286484f86ab4967ec866df1c6.png",
-      "score": 55,
-      "tags": []
-    },
-    {
       "id": "1e3c076fe426",
       "title": "人社部部署开展2026年就业政策宣传月活动",
       "url": "https://edu.sina.com.cn/l/2026-09-08/doc-inircews9234669.shtml?tj=cxvertical_pc_hp&tr=12",
@@ -346,6 +284,18 @@
       "category": "政策",
       "published": "2026-09-07T12:00:00.000Z",
       "image": "https://q7.itc.cn/q_70/images03/20260907/57f921faa081424a82d29ab98196dd83.jpeg",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "f5cb39eaf8f6",
+      "title": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
+      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202606/t20260602_1438600.html",
+      "summary": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
+      "source": "教育部",
+      "category": "政策",
+      "published": "2026-06-02T00:00:00.000Z",
+      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
       "score": 50,
       "tags": []
     }
@@ -395,6 +345,53 @@
       "category": "财经",
       "published": "2026-09-11T14:05:16.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    }
+  ],
+  "开发": [
+    {
+      "id": "03fecbb131a2",
+      "title": "AI Coding 提速之后，如何补上稳定性“最后一公里”？快手柯南 AI 实践",
+      "url": "https://www.infoq.cn/article/rlXYaPUjVR0fffbQK3Iz?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-11T21:06:08.000Z",
+      "image": "https://static001.infoq.cn/resource/image/33/fe/33dbafaf5f539a7396cc6471f3d06cfe.jpg"
+    },
+    {
+      "id": "bcf2155cb6c8",
+      "title": "怒斥加密货币是旁氏骗局、放弃80%就业机会也不用 AI 写代码！Kotlin“J神”：AI 会让工程师变成可替换的齿轮",
+      "url": "https://www.infoq.cn/article/QPRcUdPGic5r8Ws8R1gM?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-11T21:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/49/d4/490d43f6a834e7bb06c2e524e39db1d4.png"
+    },
+    {
+      "id": "5008bce8353f",
+      "title": "“我们在拿生命做赌注”：造AI的人为何开始密集预警？",
+      "url": "https://www.infoq.cn/article/FA80wgNMOwCRrXsSIAwX?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-11T19:08:42.000Z",
+      "image": "https://static001.infoq.cn/resource/image/46/81/466e32d445e15b89ac5f064d0f0f0281.png"
+    },
+    {
+      "id": "9b323c9cc7c3",
+      "title": "AI Coding 的下一步不是写得更快，而是可验收：蚂蚁数科 Harness 工程实践",
+      "url": "https://www.infoq.cn/article/A2IFuW8yiYhRqXizT5Uu?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-11T18:15:19.000Z",
+      "image": "https://static001.infoq.cn/resource/image/45/0a/452875bf3174dac27f2d77ca33b1970a.jpg"
+    },
+    {
+      "id": "1c81a21893ec",
+      "title": "“数据比模型重要”成了共识，接下来拼什么？",
+      "url": "https://www.infoq.cn/article/sT7izVmjw1YVxh3FQyK8?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-11T17:29:19.000Z",
+      "image": "https://static001.infoq.cn/resource/image/99/yy/995cfabc14a94258345fed6b7f09d7yy.jpg"
     }
   ]
 }
