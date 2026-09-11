@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T20:34:20.392Z",
+  "updated": "2026-09-11T23:02:54.045Z",
   "count": 124,
   "sources": {
     "V2EX": 9,
@@ -193,6 +193,26 @@
       "url": "https://www.v2ex.com/t/1240774",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "remoteok-1137378",
+      "title": "Senior People & Talent Operations Partner",
+      "company": "TestGorilla",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "hr",
+        "non tech"
+      ],
+      "category": "hr",
+      "postedDate": "2026-09-10",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-people-talent-operations-partner-testgorilla-1137378",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137375",
@@ -3291,36 +3311,6 @@
       "category": "design",
       "postedDate": "2026-07-28",
       "url": "https://remoteOK.com/remote-jobs/remote-regional-support-coordinator-myintegra-1135990",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1135738",
-      "title": "Program Administration Manager",
-      "company": "Greenlight Action",
-      "location": "Petropavl Public Administration,",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "python",
-        "hr",
-        "exec",
-        "sys admin",
-        "education",
-        "customer support",
-        "dev",
-        "admin",
-        "sales",
-        "medical",
-        "recruiter",
-        "digital nomad"
-      ],
-      "category": "python",
-      "postedDate": "2026-07-28",
-      "url": "https://remoteOK.com/remote-jobs/remote-program-administration-manager-greenlight-action-1135738",
       "source": "RemoteOK",
       "region": "foreign"
     }
