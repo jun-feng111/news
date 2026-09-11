@@ -1,14 +1,14 @@
 {
   "AI": [
     {
-      "id": "96d0a041a360",
-      "title": "JD.com expands physical AI in logistics with 3 million robots",
-      "url": "https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/",
-      "summary": "com is expanding AI and robotics across its logistics network under a new Physical AI Acceleration P",
+      "id": "5afd7f981df5",
+      "title": "Palantir Foundry and cuOpt drive NVIDIA supply chain allocation",
+      "url": "https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/",
+      "summary": "NVIDIA is using Palantir Foundry and cuOpt to automate its hardware supply chain allocation decision",
       "source": "AI News",
       "category": "AI",
-      "published": "2026-09-10T10:00:00.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/JD.com-expands-physical-AI-in-logistics-with-3-million-robots.png",
+      "published": "2026-09-11T12:00:18.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/palantir-foundry-cuopt-nvidia-supply-chain-allocation-hardware-nemotron-lightning-ai-model.jpg",
       "score": 80,
       "tags": []
     },
@@ -25,6 +25,18 @@
       "tags": []
     },
     {
+      "id": "96d0a041a360",
+      "title": "JD.com expands physical AI in logistics with 3 million robots",
+      "url": "https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/",
+      "summary": "com is expanding AI and robotics across its logistics network under a new Physical AI Acceleration P",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-09-10T10:00:00.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/JD.com-expands-physical-AI-in-logistics-with-3-million-robots.png",
+      "score": 75,
+      "tags": []
+    },
+    {
       "id": "5a7a028d73b1",
       "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
       "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
@@ -37,27 +49,15 @@
       "tags": []
     },
     {
-      "id": "05461b739ef1",
-      "title": "CloudNC aims to accelerate AI supply chain machining",
-      "url": "https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/",
-      "summary": "CloudNC has secured $20 million in new capital to scale its AI precision machining technology across",
-      "source": "AI News",
+      "id": "4780951de096",
+      "title": "Meta&#8217;s AI agent Muse is now the No. 2 app in the US",
+      "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+      "summary": "Meta&#8217;s AI agent Muse is now the No。 2 app in the US",
+      "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-09-09T10:34:20.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/cloudnc-ai-supply-chain-precision-machining-smart-manufacturing-funding-artificial-intelligence.jpg",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "16e366b20d99",
-      "title": "Samsung taps Mistral AI models for semiconductor manufacturing",
-      "url": "https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/",
-      "summary": "Samsung has partnered with Mistral AI to deploy on-premises models across its semiconductor manufact",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-09-09T08:52:19.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/samsung-mistral-ai-models-semiconductor-manufacturing-supply-chain-artificial-intelligence.jpg",
-      "score": 70,
+      "published": "2026-09-10T19:50:04.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024",
+      "score": 75,
       "tags": []
     }
   ],
@@ -87,15 +87,6 @@
       "tags": []
     },
     {
-      "id": "4780951de096",
-      "title": "Meta&#8217;s AI agent Muse is now the No. 2 app in the US",
-      "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-10T19:50:04.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024"
-    },
-    {
       "id": "00d16abf81e5",
       "title": "Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers",
       "url": "https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers/",
@@ -112,6 +103,15 @@
       "category": "科技",
       "published": "2026-09-10T18:10:36.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/3.-X-Ray-Shop-Tab.png?resize=1200,675"
+    },
+    {
+      "id": "9abc7cfd055a",
+      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-10T17:54:44.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1356934365-e1695303681636.jpg?resize=1200,676"
     }
   ],
   "就业": [
@@ -190,40 +190,40 @@
       "tags": []
     },
     {
-      "id": "4e8c92d38c17",
-      "title": "当 AI 写出更多代码，企业为什么没有跑得更快？| JDD 大会现场观察",
-      "url": "https://www.infoq.cn/article/Y02WwW92ZqjLXQQvIWWi?utm_source=rss&amp;utm_medium=article",
+      "id": "03fecbb131a2",
+      "title": "AI Coding 提速之后，如何补上稳定性“最后一公里”？快手柯南 AI 实践",
+      "url": "https://www.infoq.cn/article/rlXYaPUjVR0fffbQK3Iz?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-09-11T16:10:31.000Z",
+      "published": "2026-09-11T21:06:08.000Z",
+      "image": "https://static001.infoq.cn/resource/image/33/fe/33dbafaf5f539a7396cc6471f3d06cfe.jpg"
+    },
+    {
+      "id": "bcf2155cb6c8",
+      "title": "怒斥加密货币是旁氏骗局、放弃80%就业机会也不用 AI 写代码！Kotlin“J神”：AI 会让工程师变成可替换的齿轮",
+      "url": "https://www.infoq.cn/article/QPRcUdPGic5r8Ws8R1gM?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-11T21:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/49/d4/490d43f6a834e7bb06c2e524e39db1d4.png"
+    },
+    {
+      "id": "5008bce8353f",
+      "title": "“我们在拿生命做赌注”：造AI的人为何开始密集预警？",
+      "url": "https://www.infoq.cn/article/FA80wgNMOwCRrXsSIAwX?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-11T19:08:42.000Z",
+      "image": "https://static001.infoq.cn/resource/image/46/81/466e32d445e15b89ac5f064d0f0f0281.png"
+    },
+    {
+      "id": "9b323c9cc7c3",
+      "title": "AI Coding 的下一步不是写得更快，而是可验收：蚂蚁数科 Harness 工程实践",
+      "url": "https://www.infoq.cn/article/A2IFuW8yiYhRqXizT5Uu?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-11T18:15:19.000Z",
       "image": "https://static001.infoq.cn/resource/image/45/0a/452875bf3174dac27f2d77ca33b1970a.jpg"
-    },
-    {
-      "id": "a0fdf4813240",
-      "title": "Netflix 采用开源 Flink Autoscaler，支撑超 3 万个流式作业",
-      "url": "https://www.infoq.cn/article/8JZ9IdSIxo18dcz6pZG6?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-11T14:40:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/20/9e/205419cea28a610ec04983f27d44c09e.jpg"
-    },
-    {
-      "id": "37c9ad735f06",
-      "title": "AI 有了“工号”，数据平台长出了手：我在 Snowflake World Tour 看到的三个变化",
-      "url": "https://www.infoq.cn/article/RLdCKyW7YNb8ybDKlQ5d?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-11T13:36:27.000Z",
-      "image": "https://static001.infoq.cn/resource/image/09/7a/098618f71b1918724eb170c25e0f347a.jpeg"
-    },
-    {
-      "id": "55638e9c59f2",
-      "title": "vlt 1.0 发布：无缝替代 npm，新增分阶段安装、图谱查询与恶意包防护",
-      "url": "https://www.infoq.cn/article/TWR5dBbabM48ZzP7zEwm?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-11T13:05:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/e3/e4/e34d287039355f394a3bfc89af3f7ee4.jpg"
     }
   ],
   "社会": [
@@ -290,30 +290,6 @@
   ],
   "政策": [
     {
-      "id": "772bf813def2",
-      "title": "102个创业样本背后的金融逻辑，湖南银行“大学生创业贷”余额突破1亿",
-      "url": "https://finance.sina.com.cn/wm/2026-09-07/doc-iniqznpn9534565.shtml",
-      "summary": "一个大学生创业项目，从递交申请到拿到贷款，最快需要多久。湖南银行的答案是：7个工作日以内",
-      "source": "Bing·大学生就业政策",
-      "category": "政策",
-      "published": "2026-09-07T08:30:00.000Z",
-      "image": "//n.sinaimg.cn/front20260907ac/32/w816h816/20260907/3f23-ee4f2f044b3f369dce968f3a1778ff0f.jpg",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "413160a44d17",
-      "title": "政策直通车 | @高校毕业生：到城乡社区就业，有这些支持保障",
-      "url": "https://www.sohu.com/a/1073458137_121106842",
-      "summary": "日前，人力资源社会保障部、中央社会工作部、民政部联合印发《关于优化城乡社区岗位吸纳高校毕业生就业工作的通知》，提出系列政策举措，全力促进更多高校毕业生到城乡社区就业，为加强基层治理体系和治理能力现代化",
-      "source": "Bing·高校毕业生就业创业政策",
-      "category": "政策",
-      "published": "2026-09-08T12:30:00.000Z",
-      "image": "https://q9.itc.cn/q_70/images03/20260908/1601f3385341408e8517d7e2db909533.jpeg",
-      "score": 55,
-      "tags": []
-    },
-    {
       "id": "ed0822808f9b",
       "title": "温州发布专项政策指南 为残疾人大学生就业创业“撑腰”",
       "url": "https://news.66wz.com/system/2026/07/16/105805829.shtml",
@@ -325,74 +301,96 @@
       "tags": []
     },
     {
-      "id": "8535482c6f05",
-      "title": "赋能青年成长 助力儋洋发展——我市开展高校毕业生等青年就业创业 ...",
-      "url": "https://www.sohu.com/a/1071963120_121106994",
-      "summary": "为扎实推进海南省“1131”就业服务专项行动，切实做好高校毕业生等重点青年就业创业帮扶工作，破解青年求职方向不明、就业技能不足、创业思路不清等现实问题，引导广大青年实现更加充分更高质量就业，2026年",
-      "source": "Bing·高校毕业生就业创业政策",
+      "id": "99e475825ebb",
+      "title": "市就业中心成功举办驻佳院校大学生“创业体验日”资源对接活动",
+      "url": "https://www.sohu.com/a/1072948825_121106822",
+      "summary": "为深入落实我省“源来好创业”资源对接服务季部署，进一步激发高校学生创业兴趣、提升创业能力，9月4日，佳木斯市就业创业服务中心在市创业孵化基地组织开展了驻佳院校大学生“创业体验日”资源对接专场活动。活动",
+      "source": "Bing·大学生创业扶持政策",
       "category": "政策",
-      "published": "2026-09-04T09:24:00.000Z",
-      "image": "https://q3.itc.cn/q_70/images03/20260904/00b682bc330f4f82acdb8128e0758007.jpeg",
+      "published": "2026-09-07T12:00:00.000Z",
+      "image": "https://q7.itc.cn/q_70/images03/20260907/57f921faa081424a82d29ab98196dd83.jpeg",
       "score": 50,
       "tags": []
     },
     {
-      "id": "1e3c076fe426",
-      "title": "人社部部署开展2026年就业政策宣传月活动",
-      "url": "https://edu.sina.com.cn/l/2026-09-08/doc-inircews9234669.shtml?tj=cxvertical_pc_hp&tr=12",
-      "summary": "中新网北京9月8日电 （记者 谢雁冰）近日，人力资源和社会保障部办公厅印发通知，定于9月在全国开展就业政策宣传月活动。 活动以“政策到身边 就业暖心间”为主题，坚持“政策找人、服务上门”导向，突出宣传",
-      "source": "Bing·人社部就业创业政策",
+      "id": "f5cb39eaf8f6",
+      "title": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
+      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202606/t20260602_1438600.html",
+      "summary": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
+      "source": "教育部",
       "category": "政策",
-      "published": "2026-09-08T09:37:00.000Z",
-      "image": "https://n.sinaimg.cn/edu/transform/500/w300h200/20260908/31c1-db122931624e43ddece7526e90bff6a7.jpg",
+      "published": "2026-06-02T00:00:00.000Z",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "20eed286abd8",
+      "title": "2026-04-24教育部办公厅 人力资源社会保障部办公厅关于开展2026年高校毕业生就业政策宣传活动的通知",
+      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202604/t20260423_1434600.html",
+      "summary": "2026-04-24教育部办公厅 人力资源社会保障部办公厅关于开展2026年高校毕业生就业政策宣传活动的通知",
+      "source": "教育部",
+      "category": "政策",
+      "published": "2026-04-23T00:00:00.000Z",
+      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "4a7d237a17a2",
+      "title": "2026-01-16教育部办公厅等四部门关于开展高校毕业生异地求职“双惠”行动的通知",
+      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202601/t20260115_1426697.html",
+      "summary": "2026-01-16教育部办公厅等四部门关于开展高校毕业生异地求职“双惠”行动的通知",
+      "source": "教育部",
+      "category": "政策",
+      "published": "2026-01-15T00:00:00.000Z",
       "score": 50,
       "tags": []
     }
   ],
   "财经": [
     {
-      "id": "370b96759c44",
-      "title": "A股收评：超4800只个股飘绿，三大指数集体收跌",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694730.shtml",
+      "id": "82bbf8f6fd6a",
+      "title": "中国六起地方政府隐性债务追责问责典型案例被公开通报",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694973.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-11T08:27:03.000Z",
+      "published": "2026-09-11T13:08:19.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "3e02742fc42d",
-      "title": "（活力中国调研行）漯河：“小猫粮”背后藏着“大生意”",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694645.shtml",
+      "id": "53f3e7e3a2ff",
+      "title": "深航新开深圳&#x21cc;悉尼直飞航线 加密墨尔本航班",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694970.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-11T08:18:57.000Z",
+      "published": "2026-09-11T13:07:37.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "f2facbca2c8e",
-      "title": "中国稀土、钨等14种矿产储量居世界第一位",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694700.shtml",
+      "id": "298acc92b229",
+      "title": "河北与上合组织其他成员国贸易额24年间增长近20倍",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694969.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-11T07:58:21.000Z",
+      "published": "2026-09-11T13:07:27.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "b0978029a27d",
-      "title": "市场监管总局公布一批打击劣质低价典型案例",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694686.shtml",
+      "id": "5599a9104039",
+      "title": "前8个月江苏省外贸进出口近5万亿元人民币",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694977.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-11T07:55:47.000Z",
+      "published": "2026-09-11T13:05:19.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "85688223986a",
-      "title": "佳木斯至同江铁路扩能改造工程佳富线实现双线开通运营",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694682.shtml",
+      "id": "cb66ff319556",
+      "title": "证监会严肃查处*ST卓然严重财务造假案件",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-11/10694972.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-11T07:55:21.000Z",
+      "published": "2026-09-11T13:04:11.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
