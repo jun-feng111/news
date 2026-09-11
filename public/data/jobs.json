@@ -1,14 +1,43 @@
 {
-  "updated": "2026-09-10T23:47:27.141Z",
-  "count": 126,
+  "updated": "2026-09-11T03:18:24.414Z",
+  "count": 127,
   "sources": {
-    "V2EX": 9,
+    "V2EX": 10,
     "RemoteOK": 99,
     "Remotive": 18,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1241268",
+      "title": "remote 后端技术经理",
+      "company": "andyxinweimin",
+      "location": "国内",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "java",
+        "go",
+        "golang",
+        "docker",
+        "kubernetes",
+        "mysql",
+        "redis",
+        "mongodb",
+        "elasticsearch",
+        "grpc",
+        "php"
+      ],
+      "category": "后端",
+      "postedDate": "2026-09-11",
+      "url": "https://www.v2ex.com/t/1241268",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1241165",
       "title": "大龄程序员只配去外包了吗？",
@@ -1982,36 +2011,6 @@
       "region": "foreign"
     },
     {
-      "id": "remoteok-1136378",
-      "title": "Senior Software QA Engineer",
-      "company": "CoverGo",
-      "location": "Remote",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "dev",
-        "customer support",
-        "testing",
-        "quality assurance",
-        "video",
-        "finance",
-        "c",
-        "api",
-        "exec",
-        "content writing",
-        "senior",
-        "medical"
-      ],
-      "category": "dev",
-      "postedDate": "2026-08-11",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-qa-engineer-covergo-1136378",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
       "id": "remotive-1680495",
       "title": "Remote Office Assistant",
       "company": "Coalition Technologies",
@@ -3377,6 +3376,36 @@
       "category": "python",
       "postedDate": "2026-07-28",
       "url": "https://remoteOK.com/remote-jobs/remote-program-administration-manager-greenlight-action-1135738",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1135555",
+      "title": "AI Intern",
+      "company": "CertifyOS",
+      "location": "Pune",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "design",
+        "sys admin",
+        "python",
+        "technical",
+        "dev",
+        "testing",
+        "java",
+        "cloud",
+        "git",
+        "api",
+        "ops",
+        "medical"
+      ],
+      "category": "design",
+      "postedDate": "2026-07-28",
+      "url": "https://remoteOK.com/remote-jobs/remote-ai-intern-certifyos-1135555",
       "source": "RemoteOK",
       "region": "foreign"
     }
