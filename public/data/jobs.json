@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T13:19:09.321Z",
+  "updated": "2026-09-11T17:35:33.911Z",
   "count": 124,
   "sources": {
     "V2EX": 9,
@@ -193,6 +193,27 @@
       "url": "https://www.v2ex.com/t/1240774",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "remoteok-1137375",
+      "title": "External Data Specialist",
+      "company": "eClinical Solutions",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "cloud",
+        "exec",
+        "stats"
+      ],
+      "category": "cloud",
+      "postedDate": "2026-09-10",
+      "url": "https://remoteOK.com/remote-jobs/remote-external-data-specialist-eclinical-solutions-1137375",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137373",
@@ -3300,36 +3321,6 @@
       "category": "python",
       "postedDate": "2026-07-28",
       "url": "https://remoteOK.com/remote-jobs/remote-program-administration-manager-greenlight-action-1135738",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1135555",
-      "title": "AI Intern",
-      "company": "CertifyOS",
-      "location": "Pune",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "design",
-        "sys admin",
-        "python",
-        "technical",
-        "dev",
-        "testing",
-        "java",
-        "cloud",
-        "git",
-        "api",
-        "ops",
-        "medical"
-      ],
-      "category": "design",
-      "postedDate": "2026-07-28",
-      "url": "https://remoteOK.com/remote-jobs/remote-ai-intern-certifyos-1135555",
       "source": "RemoteOK",
       "region": "foreign"
     }
