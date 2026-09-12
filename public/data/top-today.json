@@ -1,29 +1,5 @@
 [
   {
-    "id": "d4514d27691b",
-    "title": "OpenAI&#8217;s feud with mathematicians is only escalating",
-    "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-    "summary": "OpenAI&#8217;s feud with mathematicians is only escalating",
-    "source": "TechCrunch",
-    "category": "AI",
-    "published": "2026-09-11T20:57:36.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-    "score": 80,
-    "tags": []
-  },
-  {
-    "id": "b3b5bc18a7be",
-    "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
-    "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
-    "summary": "Kimi-maker Moonshot AI targets $2B in annual revenue",
-    "source": "TechCrunch",
-    "category": "AI",
-    "published": "2026-09-11T19:35:54.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2286500505.jpg?resize=1200,800",
-    "score": 80,
-    "tags": []
-  },
-  {
     "id": "5afd7f981df5",
     "title": "Palantir Foundry and cuOpt drive NVIDIA supply chain allocation",
     "url": "https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/",
@@ -48,26 +24,26 @@
     "tags": []
   },
   {
-    "id": "74a75f709b78",
-    "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-    "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
-    "summary": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+    "id": "d4514d27691b",
+    "title": "OpenAI&#8217;s feud with mathematicians is only escalating",
+    "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+    "summary": "OpenAI&#8217;s feud with mathematicians is only escalating",
     "source": "TechCrunch",
-    "category": "科技",
-    "published": "2026-09-11T20:33:18.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/01/Exhibit-Early-Stage.jpg?resize=1200,800",
+    "category": "AI",
+    "published": "2026-09-11T20:57:36.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
     "score": 75,
     "tags": []
   },
   {
-    "id": "8bb8b268e44e",
-    "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
-    "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
-    "summary": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+    "id": "b3b5bc18a7be",
+    "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+    "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+    "summary": "Kimi-maker Moonshot AI targets $2B in annual revenue",
     "source": "TechCrunch",
-    "category": "科技",
-    "published": "2026-09-11T20:30:17.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/12/Disrupt-2024-Investor-Reception.jpg?resize=1200,800",
+    "category": "AI",
+    "published": "2026-09-11T19:35:54.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2286500505.jpg?resize=1200,800",
     "score": 75,
     "tags": []
   },
@@ -84,6 +60,30 @@
     "tags": []
   },
   {
+    "id": "74a75f709b78",
+    "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
+    "summary": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+    "source": "TechCrunch",
+    "category": "科技",
+    "published": "2026-09-11T20:33:18.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/Exhibit-Early-Stage.jpg?resize=1200,800",
+    "score": 70,
+    "tags": []
+  },
+  {
+    "id": "8bb8b268e44e",
+    "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+    "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
+    "summary": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+    "source": "TechCrunch",
+    "category": "科技",
+    "published": "2026-09-11T20:30:17.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/12/Disrupt-2024-Investor-Reception.jpg?resize=1200,800",
+    "score": 70,
+    "tags": []
+  },
+  {
     "id": "c923ead07513",
     "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
     "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
@@ -92,7 +92,7 @@
     "category": "AI",
     "published": "2026-09-11T22:58:17.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857",
-    "score": 70,
+    "score": 65,
     "tags": []
   },
   {
@@ -104,18 +104,18 @@
     "category": "AI",
     "published": "2026-09-11T20:59:47.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801",
-    "score": 70,
+    "score": 65,
     "tags": []
   },
   {
-    "id": "383ef265234e",
-    "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
-    "url": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
-    "summary": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
-    "source": "TechCrunch",
-    "category": "科技",
-    "published": "2026-09-11T21:19:05.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Keith-Rabois.jpg?resize=1200,896",
+    "id": "ce31ef286175",
+    "title": "150个HC全是后端工程师！DeepSeek扩招背后：模型内卷结束，Agent基建开战",
+    "url": "https://www.sohu.com/a/1074104457_99966569",
+    "summary": "9月7日，DeepSeek Harness团队负责人崔添翼公开放出约150个招聘HC，迅速在AI圈引发讨论。 这场扩招最颠覆行业直觉的一点：全部岗位为服务端开发、Agent 弹性计算研发工程师，没有任",
+    "source": "就业报告",
+    "category": "就业",
+    "published": "2026-09-10T02:05:00.000Z",
+    "image": "//q8.itc.cn/q_70/images03/20260910/c7c760bb4d7b4e7494659ca019bed72f.jpeg",
     "score": 65,
     "tags": []
   }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T01:05:22.023Z",
+  "updated": "2026-09-12T06:57:08.361Z",
   "count": 124,
   "sources": {
     "V2EX": 9,
@@ -9,6 +9,31 @@
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1241518",
+      "title": "LLM 应用研发工程师， AI 应用后端工程师（AI Agent 方向）， AI 模型训练师 / AIGC 模型工程师",
+      "company": "Brand001",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "python",
+        "flask",
+        "docker",
+        "linux",
+        "mysql",
+        "postgresql",
+        "redis"
+      ],
+      "category": "后端",
+      "postedDate": "2026-09-12",
+      "url": "https://www.v2ex.com/t/1241518",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1241436",
       "title": "remote 高级 Flutter 开发（安卓）/Flutter 高级研发工程师 (AI 赋能/高能效方向)/Flutter 前端开发",
@@ -167,31 +192,6 @@
       "category": "运营",
       "postedDate": "2026-09-09",
       "url": "https://www.v2ex.com/t/1240774",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1240770",
-      "title": "AI 创业公司招一名运维开发工程师",
-      "company": "Masterlxj",
-      "location": "深圳",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "go",
-        "docker",
-        "kubernetes",
-        "k8s",
-        "aws",
-        "阿里云",
-        "腾讯云"
-      ],
-      "category": "算法/AI",
-      "postedDate": "2026-09-09",
-      "url": "https://www.v2ex.com/t/1240770",
       "source": "V2EX",
       "region": "domestic"
     },
