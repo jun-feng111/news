@@ -1,6 +1,18 @@
 {
   "科技": [
     {
+      "id": "82c98d9b6abf",
+      "title": "Anthropic CEO outlines plan to ‘pace the frontier’",
+      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "summary": "Anthropic CEO outlines plan to ‘pace the frontier’",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-12T15:52:11.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=1024",
+      "score": 75,
+      "tags": []
+    },
+    {
       "id": "8ea9af46d419",
       "title": "Revolut confirms customer data breach through fake government requests",
       "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
@@ -47,15 +59,6 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/Keith-Rabois.jpg?resize=1200,896",
       "score": 60,
       "tags": []
-    },
-    {
-      "id": "d1716c9e5b97",
-      "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
-      "url": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-11T19:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Build_Flow_16x9-EN.jpeg?resize=1200,675"
     }
   ],
   "AI": [
@@ -84,30 +87,6 @@
       "tags": []
     },
     {
-      "id": "5afd7f981df5",
-      "title": "Palantir Foundry and cuOpt drive NVIDIA supply chain allocation",
-      "url": "https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/",
-      "summary": "NVIDIA is using Palantir Foundry and cuOpt to automate its hardware supply chain allocation decision",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-09-11T12:00:18.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/palantir-foundry-cuopt-nvidia-supply-chain-allocation-hardware-nemotron-lightning-ai-model.jpg",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "342718fec928",
-      "title": "Supply chains detect fast, act slow: How AI agents fix it",
-      "url": "https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/",
-      "summary": "Supply chain disruption cost businesses about $184 billion in 2025, according to the J。 Held Global ",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-09-10T16:34:43.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/supply-chains-detect-fast-act-slow-ai-agents-fix-agentic-artificial-intelligence-logistics-risk-management-predictive-analytics.jpg",
-      "score": 70,
-      "tags": []
-    },
-    {
       "id": "c923ead07513",
       "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
       "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
@@ -116,6 +95,30 @@
       "category": "AI",
       "published": "2026-09-11T22:58:17.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "e2480aa4c979",
+      "title": "Y Combinator&#8217;s Garry Tan wants US open-weight AI labs to &#8216;distill&#8217; frontier models, too",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "summary": "Y Combinator&#8217;s Garry Tan wants US open-weight AI labs to &#8216;distill&#8217; frontier models",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-11T20:59:47.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "d1716c9e5b97",
+      "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
+      "url": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
+      "summary": "Roblox is making it easier to build games with AI — and play them outside Roblox",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-11T19:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Build_Flow_16x9-EN.jpeg?resize=1200,675",
       "score": 65,
       "tags": []
     }
@@ -158,18 +161,6 @@
       "tags": []
     },
     {
-      "id": "6a54d80aa0a2",
-      "title": "2026沈阳应届生央国企求职全景：吃透本地考情，突破求职信息壁垒",
-      "url": "https://www.sohu.com/a/1074154309_122662554",
-      "summary": "2026年沈阳及辽宁地区央国企求职赛道持续升温，装备制造、能源石化、电力通信、地方金融等优质岗位，常年保持数十人乃至上百人竞争一席的激烈态势。对于应届毕业生而言，多数人求职失利，并非个人专业能力不足，",
-      "source": "Bing·应届生求职",
-      "category": "就业",
-      "published": "2026-09-10T03:38:00.000Z",
-      "image": "//q5.itc.cn/images01/20260910/6433e3887b2d4f68a032607b79021bac.jpeg",
-      "score": 60,
-      "tags": []
-    },
-    {
       "id": "5902579be89e",
       "title": "[上海 9.9 岗位更新] SHEIN 内推：算法/前端/ Java /AI Agent/安全/测试/iOS/数据/数据库， 18-90k",
       "url": "https://www.v2ex.com/t/1240565#reply0",
@@ -178,6 +169,18 @@
       "category": "就业",
       "published": "2026-09-09T01:37:50.000Z",
       "image": "https://cdn.v2ex.com/avatar/75c4/8976/45253_xlarge.png?m=1785748830",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "af8ee80ad7c4",
+      "title": "2026年大学生就业前景研判报告：人工智能、数据工程师以三成招聘 ...",
+      "url": "https://news.qq.com/rain/a/20260621A08K1J00",
+      "summary": "哪些行业发展增速位居前列。哪些专业毕业后薪资领先",
+      "source": "智联招聘",
+      "category": "就业",
+      "published": "2026-06-21T11:28:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/OWCs-Tp6UekhhmAEcGla04vVA8bxCbpJz6i1bDub3KFkwAA_640330/0",
       "score": 60,
       "tags": []
     }
@@ -196,30 +199,6 @@
       "tags": []
     },
     {
-      "id": "af723b228b52",
-      "title": "湖南出台“1+5”财政金融协同新政 全周期赋能大学生创新创业",
-      "url": "https://hunan.ifeng.com/c/8wJCZZSFTKU",
-      "summary": "2024年9月以来，湖南围绕支持大学生创业“七个一”行动，系统构建了全链条创业生态。数据显示，省大学生创业投资基金已投项目448个、金额约2",
-      "source": "Bing·大学生就业政策",
-      "category": "政策",
-      "published": "2026-09-10T10:15:00.000Z",
-      "image": "https://x0.ifengimg.com/ucms/2026_37/050FC999DEB4A77A1203866ED89FBEBFB064E76A_size132_w1706_h965.jpg",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "772bf813def2",
-      "title": "102个创业样本背后的金融逻辑，湖南银行“大学生创业贷”余额突破1亿",
-      "url": "https://finance.sina.com.cn/wm/2026-09-07/doc-iniqznpn9534565.shtml",
-      "summary": "一个大学生创业项目，从递交申请到拿到贷款，最快需要多久。湖南银行的答案是：7个工作日以内",
-      "source": "Bing·大学生就业政策",
-      "category": "政策",
-      "published": "2026-09-07T08:30:00.000Z",
-      "image": "//n.sinaimg.cn/front20260907ac/32/w816h816/20260907/3f23-ee4f2f044b3f369dce968f3a1778ff0f.jpg",
-      "score": 55,
-      "tags": []
-    },
-    {
       "id": "bef063791f8c",
       "title": "结构化面试热点丨人社部发布 11 个新职业、23 个新工种",
       "url": "https://www.sohu.com/a/1073850924_122637679",
@@ -232,15 +211,39 @@
       "tags": []
     },
     {
-      "id": "a074a5fb12ce",
-      "title": "内江市2026年秋季“送指导”进校园暨大学生就业启航“开学第一课 ...",
-      "url": "https://www.sohu.com/a/1074199798_121106884",
-      "summary": "——2026年秋季“送指导”进校园暨内江市大学生就业启航“开学第一课”火热开讲 金秋九月，新学年如约启幕，内江就业服务同步“扬帆起航”。2026年秋季学期伊始，由内江市人力资源和社会保障局主办，内江市",
-      "source": "Bing·大学生就业政策",
+      "id": "e13066dd3166",
+      "title": "【红网】图文实录丨湖南省财政金融协同支持大学生创业政策解读 ...",
+      "url": "https://www.sohu.com/a/1074490576_121106908",
+      "summary": "9月10日，湖南省人民政府新闻办公室在长沙召开湖南省财政金融协同支持大学生创业政策解读新闻发布会。湖南省财政厅党组成员、副厅长欧涛作主发布",
+      "source": "Bing·大学生创业扶持政策",
       "category": "政策",
-      "published": "2026-09-10T04:54:00.000Z",
-      "image": "https://q2.itc.cn/q_70/images03/20260910/c2033dbcc74844d3845fb0c3b426254b.png",
-      "score": 50,
+      "published": "2026-09-10T17:03:00.000Z",
+      "image": "//q2.itc.cn/q_70/images03/20260911/db46a33b1072419d85eee02d3ebbcf6e.png",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "af723b228b52",
+      "title": "湖南出台“1+5”财政金融协同新政 全周期赋能大学生创新创业",
+      "url": "https://hunan.ifeng.com/c/8wJCZZSFTKU",
+      "summary": "2024年9月以来，湖南围绕支持大学生创业“七个一”行动，系统构建了全链条创业生态。数据显示，省大学生创业投资基金已投项目448个、金额约2",
+      "source": "Bing·大学生创业扶持政策",
+      "category": "政策",
+      "published": "2026-09-10T10:15:00.000Z",
+      "image": "https://x0.ifengimg.com/ucms/2026_37/050FC999DEB4A77A1203866ED89FBEBFB064E76A_size132_w1706_h965.jpg",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "ed0822808f9b",
+      "title": "温州发布专项政策指南 为残疾人大学生就业创业“撑腰”",
+      "url": "https://news.66wz.com/system/2026/07/16/105805829.shtml",
+      "summary": "市人社局与市残联携手对现行最实用、最优惠的就创业补贴政策进行全面梳理，并形成《温州市残疾人大学生就业创业政策指南》，助力这一特殊群体跨越障碍，实现更加充分、更高质量的就业和创业。 温州网讯 为支持更多",
+      "source": "就业创业政策",
+      "category": "政策",
+      "published": "2026-07-16T01:51:00.000Z",
+      "image": "https://news.66wz.com/pic/003/013/337/00301333742_93765919.gif",
+      "score": 55,
       "tags": []
     }
   ],
@@ -358,6 +361,15 @@
   ],
   "财经": [
     {
+      "id": "108175317941",
+      "title": "当物流装上“AI引擎” 如何跑出新速度？",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-13/10695500.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-09-12T17:03:56.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
       "id": "e10729cc7fe4",
       "title": "第48届世界技能大赛将在上海启幕 创多项历届之最",
       "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695482.shtml",
@@ -391,15 +403,6 @@
       "source": "中新网财经",
       "category": "财经",
       "published": "2026-09-12T13:15:02.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "134267375e69",
-      "title": "服贸会期间北京石景山具身智能训练中心升级亮相",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695436.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-09-12T13:14:10.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
