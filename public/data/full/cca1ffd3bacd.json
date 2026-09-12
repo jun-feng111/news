@@ -1,0 +1,7 @@
+{
+  "id": "cca1ffd3bacd",
+  "title": "20260911-Etherfi AtomicQueue 攻击事件：订单校验逻辑未实现，用户授权被滥用 - ACai_sec",
+  "url": "https://www.cnblogs.com/ACaiGarden/p/22949179",
+  "contentZh": "",
+  "contentFull": "\n背景\n20260911，Etherfi AtomicQueue 合约被黑客利用，窃取了一名用户 14.44 枚 liquidETH 代币（价值约 38k）。本次攻击产生的原因是订单检查逻辑被绕过，导致用户的代币授权权限被攻击者盗用。\n\n攻击交易：https://app.blocksec.com/phalcon/explorer/tx/eth/0x7cbe0b4349513fed6d03ba8bf9ed708e10e07a501d10b5f344a25ae10595599b\n\nTrace 分析\n\n\n\n攻击者首先创建了一个无价值的假代币（0xd9b5）。\n\n\n调用 AtomicQueue.updateAtomicRequest() 设置交易订单，订单内容是用假代币换取 0x1226 用户的 liquidETH 代币。\n\n\n调用 AtomicQueue.solve() 完成该订单。\n\n\n反复执行步骤 2-3 完成获利。\n\n\n代码分析\n调用 slover 的 finishSolve 函数来验证这笔交易是否满足 solver 的要求，如果该函数执行通过，则表明这笔订单符合 solver 的要求， AtomicQueue 合约可以继续完成这笔代币兑换的交易。\n\n跟进 Trace 进行分析，该函数 delegate 调用了 CoinbaseSmartWallet.finishSolve() 函数。\n\n按照代码中的注释，该合约应该是作为一个专门为 AtomicQueue 合约服务的 solver 合约。\n\n但实际上他是一个 CoinbaseSmartWallet 合约，一个通用的 SmartWallet 类型合约，并没有实现任何 finishSolve() 函数相关的内容。所以 AtomicQueue 合约对 CoinbaseSmartWallet.finishSolve() 函数的调用会走到 fallback 函数中去。由于  fallback 函数中并没有实现相关的处理逻辑，这个调用会静默成功。以达到了“solver 同意” 的假象。\n\n最终 AtomicQueue 合约会调用 transferFrom 函数将受害合约的 liquidETH 代币发送给攻击者。\n\n当然，这次的攻击要成功的前提是 CoinbaseSmartWallet 合约需要向 AtomicQueue 合约授权liquidETH 代币。经过查找，它确实执行过两次授权操作：\n\n\n2024-07-05：https://etherscan.io/tx/0x9ebef40fd57729c7b660fcc7a983171b2178487be989bd9850ec590229ee10bb\n\n\n2025-07-14：https://etherscan.io/tx/0xaaf9161f02a189d75d7084a25a417a10971d2481ac702e7c8da1dcaf084335d5\n\n\n同时也提醒各位，在没有实现相关的检测逻辑前，不要向 AtomicQueue 合约进行任何代币的授权操作。\n\n\n"
+}

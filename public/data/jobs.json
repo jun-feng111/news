@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T06:57:08.361Z",
+  "updated": "2026-09-12T11:31:39.834Z",
   "count": 124,
   "sources": {
     "V2EX": 9,
@@ -196,6 +196,34 @@
       "region": "domestic"
     },
     {
+      "id": "remoteok-1137381",
+      "title": "Marketing Student Assistant",
+      "company": "Copenhagen Optimization",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "virtual assistant",
+        "strategy",
+        "customer support",
+        "dev",
+        "marketing",
+        "exec",
+        "content writing",
+        "ops",
+        "golang",
+        "digital nomad"
+      ],
+      "category": "virtual assistant",
+      "postedDate": "2026-09-11",
+      "url": "https://remoteOK.com/remote-jobs/remote-marketing-student-assistant-copenhagen-optimization-1137381",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
       "id": "remoteok-1137380",
       "title": "Engineering Manager TLM Platform",
       "company": "Harper",
@@ -244,6 +272,27 @@
       "postedDate": "2026-09-11",
       "url": "https://remoteOK.com/remote-jobs/remote-senior-communications-officer-strategic-communications-givewell-1137379",
       "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remotive-2091126",
+      "title": "AI Response Evaluator",
+      "company": "iMerit Technology",
+      "location": "France, Japan, Turkey, Vietnam, Mexico, Norway",
+      "remote": true,
+      "salaryText": "$10K-$20K",
+      "salaryMin": 10000,
+      "salaryMax": 20000,
+      "salaryCurrency": "USD",
+      "skills": [
+        "AI/ML",
+        "research",
+        "SOLID"
+      ],
+      "category": "Artificial Intelligence",
+      "postedDate": "2026-09-11",
+      "url": "https://remotive.com/remote-jobs/artificial-intelligence/ai-response-evaluator-2091126",
+      "source": "Remotive",
       "region": "foreign"
     },
     {
@@ -2028,36 +2077,6 @@
       "region": "foreign"
     },
     {
-      "id": "remotive-1680495",
-      "title": "Remote Office Assistant",
-      "company": "Coalition Technologies",
-      "location": "Worldwide",
-      "remote": true,
-      "salaryText": "$31,2k- $52k",
-      "salaryMin": 52000,
-      "salaryMax": 312000,
-      "salaryCurrency": "USD",
-      "skills": [
-        "CSS",
-        "excel",
-        "frontend",
-        "git",
-        "html",
-        "illustrator",
-        "magento",
-        "photoshop",
-        "php",
-        "shopify",
-        "wordpress",
-        "MySQL"
-      ],
-      "category": "Marketing",
-      "postedDate": "2026-08-11",
-      "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
-      "source": "Remotive",
-      "region": "foreign"
-    },
-    {
       "id": "remoteok-1136188",
       "title": "Java Developer",
       "company": "Clera",
@@ -3273,36 +3292,6 @@
       "category": "salesforce",
       "postedDate": "2026-07-28",
       "url": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-outbound-promogeneration-1135746",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1135685",
-      "title": "Virtual Assistant",
-      "company": "RippedBoxStation",
-      "location": "Manila, Manila, National Capital Region, Philippines",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "virtual assistant",
-        "coordinator",
-        "customer support",
-        "marketing",
-        "ops",
-        "medical",
-        "non tech",
-        "dev",
-        "video",
-        "cloud",
-        "microsoft",
-        "exec"
-      ],
-      "category": "virtual assistant",
-      "postedDate": "2026-07-28",
-      "url": "https://remoteOK.com/remote-jobs/remote-virtual-assistant-rippedboxstation-1135685",
       "source": "RemoteOK",
       "region": "foreign"
     }
