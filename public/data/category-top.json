@@ -1,67 +1,17 @@
 {
-  "AI": [
-    {
-      "id": "5afd7f981df5",
-      "title": "Palantir Foundry and cuOpt drive NVIDIA supply chain allocation",
-      "url": "https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/",
-      "summary": "NVIDIA is using Palantir Foundry and cuOpt to automate its hardware supply chain allocation decision",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-09-11T12:00:18.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/palantir-foundry-cuopt-nvidia-supply-chain-allocation-hardware-nemotron-lightning-ai-model.jpg",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "d4514d27691b",
-      "title": "OpenAI&#8217;s feud with mathematicians is only escalating",
-      "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-      "summary": "OpenAI&#8217;s feud with mathematicians is only escalating",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-09-11T20:57:36.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "b3b5bc18a7be",
-      "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
-      "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
-      "summary": "Kimi-maker Moonshot AI targets $2B in annual revenue",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-09-11T19:35:54.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2286500505.jpg?resize=1200,800",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "342718fec928",
-      "title": "Supply chains detect fast, act slow: How AI agents fix it",
-      "url": "https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/",
-      "summary": "Supply chain disruption cost businesses about $184 billion in 2025, according to the J。 Held Global ",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-09-10T16:34:43.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/supply-chains-detect-fast-act-slow-ai-agents-fix-agentic-artificial-intelligence-logistics-risk-management-predictive-analytics.jpg",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "c923ead07513",
-      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-      "summary": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-09-11T22:58:17.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857",
-      "score": 65,
-      "tags": []
-    }
-  ],
   "科技": [
+    {
+      "id": "8ea9af46d419",
+      "title": "Revolut confirms customer data breach through fake government requests",
+      "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+      "summary": "Revolut confirms customer data breach through fake government requests",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-12T14:40:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/11/revolut.png?resize=1200,629",
+      "score": 75,
+      "tags": []
+    },
     {
       "id": "74a75f709b78",
       "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
@@ -99,22 +49,75 @@
       "tags": []
     },
     {
-      "id": "1b22bca4ba56",
-      "title": "Central Eurasia names its 2026 Road to Battlefield winners: Cerberus, WeGlobal AI, and LOOQ",
-      "url": "https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/",
+      "id": "d1716c9e5b97",
+      "title": "Roblox is making it easier to build games with AI — and play them outside Roblox",
+      "url": "https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-09-11T18:58:01.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Regional-Final-R2B-2026-2.png?resize=1200,675"
+      "published": "2026-09-11T19:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Build_Flow_16x9-EN.jpeg?resize=1200,675"
+    }
+  ],
+  "AI": [
+    {
+      "id": "d4514d27691b",
+      "title": "OpenAI&#8217;s feud with mathematicians is only escalating",
+      "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+      "summary": "OpenAI&#8217;s feud with mathematicians is only escalating",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-11T20:57:36.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+      "score": 75,
+      "tags": []
     },
     {
-      "id": "3eb10fd44cbe",
-      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-      "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+      "id": "b3b5bc18a7be",
+      "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+      "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+      "summary": "Kimi-maker Moonshot AI targets $2B in annual revenue",
       "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-11T16:46:25.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/Fidji-Simo.jpg?w=1024"
+      "category": "AI",
+      "published": "2026-09-11T19:35:54.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2286500505.jpg?resize=1200,800",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "5afd7f981df5",
+      "title": "Palantir Foundry and cuOpt drive NVIDIA supply chain allocation",
+      "url": "https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/",
+      "summary": "NVIDIA is using Palantir Foundry and cuOpt to automate its hardware supply chain allocation decision",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-09-11T12:00:18.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/palantir-foundry-cuopt-nvidia-supply-chain-allocation-hardware-nemotron-lightning-ai-model.jpg",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "342718fec928",
+      "title": "Supply chains detect fast, act slow: How AI agents fix it",
+      "url": "https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/",
+      "summary": "Supply chain disruption cost businesses about $184 billion in 2025, according to the J。 Held Global ",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-09-10T16:34:43.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/supply-chains-detect-fast-act-slow-ai-agents-fix-agentic-artificial-intelligence-logistics-risk-management-predictive-analytics.jpg",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "c923ead07513",
+      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "summary": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-11T22:58:17.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857",
+      "score": 65,
+      "tags": []
     }
   ],
   "就业": [
@@ -179,6 +182,118 @@
       "tags": []
     }
   ],
+  "政策": [
+    {
+      "id": "65e237922c09",
+      "title": "破解融资难、创业有兜底 湖南升级大学生创业扶持体系",
+      "url": "https://news.qq.com/rain/a/20260910A0B5C100",
+      "summary": "中新网长沙9月10日电(记者 唐小晴)打造“创投咖啡馆”，为大学生创业项目资本对接搭建实体平台；企业遭遇注销、破产等创业失败情形，且满足社保缴纳要求的，最高可获2万元创业基础补偿、4万元带动就业补偿…",
+      "source": "Bing·大学生创业扶持政策",
+      "category": "政策",
+      "published": "2026-09-10T12:04:00.000Z",
+      "image": "",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "af723b228b52",
+      "title": "湖南出台“1+5”财政金融协同新政 全周期赋能大学生创新创业",
+      "url": "https://hunan.ifeng.com/c/8wJCZZSFTKU",
+      "summary": "2024年9月以来，湖南围绕支持大学生创业“七个一”行动，系统构建了全链条创业生态。数据显示，省大学生创业投资基金已投项目448个、金额约2",
+      "source": "Bing·大学生就业政策",
+      "category": "政策",
+      "published": "2026-09-10T10:15:00.000Z",
+      "image": "https://x0.ifengimg.com/ucms/2026_37/050FC999DEB4A77A1203866ED89FBEBFB064E76A_size132_w1706_h965.jpg",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "772bf813def2",
+      "title": "102个创业样本背后的金融逻辑，湖南银行“大学生创业贷”余额突破1亿",
+      "url": "https://finance.sina.com.cn/wm/2026-09-07/doc-iniqznpn9534565.shtml",
+      "summary": "一个大学生创业项目，从递交申请到拿到贷款，最快需要多久。湖南银行的答案是：7个工作日以内",
+      "source": "Bing·大学生就业政策",
+      "category": "政策",
+      "published": "2026-09-07T08:30:00.000Z",
+      "image": "//n.sinaimg.cn/front20260907ac/32/w816h816/20260907/3f23-ee4f2f044b3f369dce968f3a1778ff0f.jpg",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "bef063791f8c",
+      "title": "结构化面试热点丨人社部发布 11 个新职业、23 个新工种",
+      "url": "https://www.sohu.com/a/1073850924_122637679",
+      "summary": "9 月初，人社部联合相关部门发布一批新职业信息，新增船舶岸基管理工程技术人员、数据安全工程技术人员等 11 个新职业，同时新增 23 个新工种，还对部分传统职业名称、定义进行调整更新。这批新职业集中在",
+      "source": "Bing·人社部就业创业政策",
+      "category": "政策",
+      "published": "2026-09-09T08:59:00.000Z",
+      "image": "//q0.itc.cn/images01/20260909/47a0cc00ec274fde9f710696aa2be515.png",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "a074a5fb12ce",
+      "title": "内江市2026年秋季“送指导”进校园暨大学生就业启航“开学第一课 ...",
+      "url": "https://www.sohu.com/a/1074199798_121106884",
+      "summary": "——2026年秋季“送指导”进校园暨内江市大学生就业启航“开学第一课”火热开讲 金秋九月，新学年如约启幕，内江就业服务同步“扬帆起航”。2026年秋季学期伊始，由内江市人力资源和社会保障局主办，内江市",
+      "source": "Bing·大学生就业政策",
+      "category": "政策",
+      "published": "2026-09-10T04:54:00.000Z",
+      "image": "https://q2.itc.cn/q_70/images03/20260910/c2033dbcc74844d3845fb0c3b426254b.png",
+      "score": 50,
+      "tags": []
+    }
+  ],
+  "开发": [
+    {
+      "id": "a0080f2fb316",
+      "title": "写给 C++ 工程师的 OpenClaw.NET 上手指南：用你熟悉的 C++ 思维，跑起一个生产级 AI Agent - 张善友",
+      "url": "https://www.cnblogs.com/shanyou/p/22851086",
+      "summary": "它像一个「基于 boost。asio + REST 端点的常驻服务」——对外是 HTTP / WebSocket / 各 IM 的 webhook，对内跑着一个能调工具、读写记忆、跨渠道对话的 AI ",
+      "source": "博客园",
+      "category": "开发",
+      "published": "2026-09-10T13:38:00.000Z",
+      "image": "https://img2024.cnblogs.com/blog/510/202609/510-20260905070811424-1837144874.jpg",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "acfd869068b6",
+      "title": "AI的新用法，被这群 Builder 带到了外滩大会开发者日",
+      "url": "https://www.infoq.cn/article/i1FJsYNhNM4wwV78ANhL?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-12T20:35:26.000Z",
+      "image": "https://static001.infoq.cn/resource/image/5c/9c/5c6e4c72a67e622b4bddce88c818f79c.png"
+    },
+    {
+      "id": "e445438dd471",
+      "title": "Google Mantis：一款旨在减少误报的基于智能代理的漏洞扫描框架",
+      "url": "https://www.infoq.cn/article/mF8WwkbQRUS7ZKprE3Ku?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-12T16:06:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/54/80/54cd4fd521888yy47c38589efe475a80.jpg"
+    },
+    {
+      "id": "2a4c5851737a",
+      "title": "两个 Token 就让 Kimi“变成”Claude？前Google DeepMind研究员意外撞上大模型的蒸馏疑云",
+      "url": "https://www.infoq.cn/article/GhA2VWxo6JTGyKIb7KdT?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-12T10:19:25.000Z",
+      "image": "https://static001.infoq.cn/resource/image/b0/56/b0c1cbe46242e640695147e034895356.png"
+    },
+    {
+      "id": "c771c3acbb39",
+      "title": "模型一模一样，Token 却相差 70 倍？三项实测揭开 AI 编程工具的成本黑洞",
+      "url": "https://www.infoq.cn/article/oPSaLpULlAxGxTbYXlXO?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-12T10:13:44.000Z",
+      "image": "https://static001.infoq.cn/resource/image/d2/2f/d2575c604427ef51a5f7362902fb6e2f.png"
+    }
+  ],
   "社会": [
     {
       "id": "cdbd440c25e9",
@@ -241,160 +356,51 @@
       "tags": []
     }
   ],
-  "政策": [
-    {
-      "id": "af723b228b52",
-      "title": "湖南出台“1+5”财政金融协同新政 全周期赋能大学生创新创业",
-      "url": "https://hunan.ifeng.com/c/8wJCZZSFTKU",
-      "summary": "2024年9月以来，湖南围绕支持大学生创业“七个一”行动，系统构建了全链条创业生态。数据显示，省大学生创业投资基金已投项目448个、金额约2",
-      "source": "Bing·大学生就业政策",
-      "category": "政策",
-      "published": "2026-09-10T10:15:00.000Z",
-      "image": "https://x0.ifengimg.com/ucms/2026_37/050FC999DEB4A77A1203866ED89FBEBFB064E76A_size132_w1706_h965.jpg",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "772bf813def2",
-      "title": "102个创业样本背后的金融逻辑，湖南银行“大学生创业贷”余额突破1亿",
-      "url": "https://finance.sina.com.cn/wm/2026-09-07/doc-iniqznpn9534565.shtml",
-      "summary": "一个大学生创业项目，从递交申请到拿到贷款，最快需要多久。湖南银行的答案是：7个工作日以内",
-      "source": "Bing·大学生就业政策",
-      "category": "政策",
-      "published": "2026-09-07T08:30:00.000Z",
-      "image": "//n.sinaimg.cn/front20260907ac/32/w816h816/20260907/3f23-ee4f2f044b3f369dce968f3a1778ff0f.jpg",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "a074a5fb12ce",
-      "title": "内江市2026年秋季“送指导”进校园暨大学生就业启航“开学第一课 ...",
-      "url": "https://www.sohu.com/a/1074199798_121106884",
-      "summary": "——2026年秋季“送指导”进校园暨内江市大学生就业启航“开学第一课”火热开讲 金秋九月，新学年如约启幕，内江就业服务同步“扬帆起航”。2026年秋季学期伊始，由内江市人力资源和社会保障局主办，内江市",
-      "source": "Bing·大学生就业政策",
-      "category": "政策",
-      "published": "2026-09-10T04:54:00.000Z",
-      "image": "https://q2.itc.cn/q_70/images03/20260910/c2033dbcc74844d3845fb0c3b426254b.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "e6fcc779c3a9",
-      "title": "新增25966户！湖南成大学生创业“优选地”",
-      "url": "https://finance.sina.com.cn/wm/2026-09-10/doc-iniritau7707551.shtml",
-      "summary": "两年前，湖南省委书记沈晓明在互联网岳麓峰会上提出支持大学生创业“七个一”行动。 从顶层设计的构想，到覆盖政策、资本、孵化、教育、服务、宣传的全链条生态，湖南用两年时间，把大学生创业从“单点扶持”推向“",
-      "source": "Bing·大学生创业扶持政策",
-      "category": "政策",
-      "published": "2026-09-10T02:35:00.000Z",
-      "image": "//n.sinaimg.cn/front20260910ac/155/w1231h524/20260910/2844-9b08d2105f21ddd464b97e368ee02000.jpg",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "99e475825ebb",
-      "title": "市就业中心成功举办驻佳院校大学生“创业体验日”资源对接活动",
-      "url": "https://www.sohu.com/a/1072948825_121106822",
-      "summary": "为深入落实我省“源来好创业”资源对接服务季部署，进一步激发高校学生创业兴趣、提升创业能力，9月4日，佳木斯市就业创业服务中心在市创业孵化基地组织开展了驻佳院校大学生“创业体验日”资源对接专场活动。活动",
-      "source": "Bing·大学生创业扶持政策",
-      "category": "政策",
-      "published": "2026-09-07T12:00:00.000Z",
-      "image": "https://q7.itc.cn/q_70/images03/20260907/57f921faa081424a82d29ab98196dd83.jpeg",
-      "score": 50,
-      "tags": []
-    }
-  ],
   "财经": [
     {
-      "id": "5aba5e2e27a0",
-      "title": "2026总部经济大会暨（第六届）楼宇经济与城市高质量发展论坛在京举办",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695322.shtml",
+      "id": "e10729cc7fe4",
+      "title": "第48届世界技能大赛将在上海启幕 创多项历届之最",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695482.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-12T11:27:35.000Z",
+      "published": "2026-09-12T14:28:24.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "a3a9cee0292a",
-      "title": "前8月广州海关关区对其他金砖国家进出口超3600亿元",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695320.shtml",
+      "id": "55d726000417",
+      "title": "多国好物跨越疆界 服贸会联通中外互惠共享",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695445.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-12T11:20:20.000Z",
+      "published": "2026-09-12T13:22:14.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "821ae926ac98",
-      "title": "从赛场走向市场 南京新消费环境促“商文旅农融合”提速",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695314.shtml",
+      "id": "9300728dde8c",
+      "title": "广西首个“用机器人造机器人”工厂投产",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695446.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-12T11:17:28.000Z",
+      "published": "2026-09-12T13:19:28.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "17604362aeb4",
-      "title": "云南龙陵：石斛电商激活边疆乡村“她力量”",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695369.shtml",
+      "id": "48152dda0b60",
+      "title": "服贸会期间多项法商服务成果在北京发布",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695450.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-12T11:15:38.000Z",
+      "published": "2026-09-12T13:15:02.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "8275e1320f64",
-      "title": "（经济观察）中国金融业界稳步推进跨境服务",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695308.shtml",
+      "id": "134267375e69",
+      "title": "服贸会期间北京石景山具身智能训练中心升级亮相",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695436.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-12T11:08:20.000Z",
+      "published": "2026-09-12T13:14:10.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    }
-  ],
-  "开发": [
-    {
-      "id": "e445438dd471",
-      "title": "Google Mantis：一款旨在减少误报的基于智能代理的漏洞扫描框架",
-      "url": "https://www.infoq.cn/article/mF8WwkbQRUS7ZKprE3Ku?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-12T16:06:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/54/80/54cd4fd521888yy47c38589efe475a80.jpg"
-    },
-    {
-      "id": "2a4c5851737a",
-      "title": "两个 Token 就让 Kimi“变成”Claude？前Google DeepMind研究员意外撞上大模型的蒸馏疑云",
-      "url": "https://www.infoq.cn/article/GhA2VWxo6JTGyKIb7KdT?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-12T10:19:25.000Z",
-      "image": "https://static001.infoq.cn/resource/image/b0/56/b0c1cbe46242e640695147e034895356.png"
-    },
-    {
-      "id": "c771c3acbb39",
-      "title": "模型一模一样，Token 却相差 70 倍？三项实测揭开 AI 编程工具的成本黑洞",
-      "url": "https://www.infoq.cn/article/oPSaLpULlAxGxTbYXlXO?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-12T10:13:44.000Z",
-      "image": "https://static001.infoq.cn/resource/image/d2/2f/d2575c604427ef51a5f7362902fb6e2f.png"
-    },
-    {
-      "id": "82053550f328",
-      "title": "V4.1 Flash全面超越，开发者为何还在喷 DeepSeek：缺的不是能力，是软件工程思维",
-      "url": "https://www.infoq.cn/article/G7cublzVyXFOUX3vpz1t?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-12T10:08:50.000Z",
-      "image": "https://static001.infoq.cn/resource/image/9e/a0/9e7d7d0c7b69219a7251ed8b4f3973a0.png"
-    },
-    {
-      "id": "995450bf7cda",
-      "title": "从沙箱到执行边界：蚂蚁 AI Agent 的大规模企业级实践｜QCon上海",
-      "url": "https://www.infoq.cn/article/hk3WB50fAOMDg55YVaaW?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-12T10:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/33/83/339d2678cbddedfd308288b080984783.jpg"
     }
   ]
 }
