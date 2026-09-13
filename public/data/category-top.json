@@ -1,4 +1,66 @@
 {
+  "科技": [
+    {
+      "id": "1a165b0e5d6d",
+      "title": "Fusion power startups find new partners in the defense world",
+      "url": "https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/",
+      "summary": "Fusion power startups find new partners in the defense world",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-13T13:15:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/pacific-fusion-pulser-prototype-side.jpeg?resize=1200,800",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "5b418801f451",
+      "title": "Tesla says it will finally unveil the second generation Roadster on October 1",
+      "url": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/",
+      "summary": "Tesla says it will finally unveil the second generation Roadster on October 1",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-12T19:21:19.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/11/tesla-roadster-2.jpg?resize=1200,822",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "8ea9af46d419",
+      "title": "Revolut confirms customer data breach through fake government requests",
+      "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+      "summary": "Revolut confirms customer data breach through fake government requests",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-12T14:40:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/11/revolut.png?resize=1200,629",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "c017b7f57586",
+      "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
+      "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+      "summary": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-12T23:25:38.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/10/matt-mullenweg.jpg?resize=1200,799",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "383ef265234e",
+      "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
+      "url": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
+      "summary": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-11T21:19:05.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Keith-Rabois.jpg?resize=1200,896",
+      "score": 55,
+      "tags": []
+    }
+  ],
   "AI": [
     {
       "id": "82c98d9b6abf",
@@ -61,78 +123,16 @@
       "tags": []
     }
   ],
-  "科技": [
-    {
-      "id": "5b418801f451",
-      "title": "Tesla says it will finally unveil the second generation Roadster on October 1",
-      "url": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/",
-      "summary": "Tesla says it will finally unveil the second generation Roadster on October 1",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-12T19:21:19.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/11/tesla-roadster-2.jpg?resize=1200,822",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "8ea9af46d419",
-      "title": "Revolut confirms customer data breach through fake government requests",
-      "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
-      "summary": "Revolut confirms customer data breach through fake government requests",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-12T14:40:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/11/revolut.png?resize=1200,629",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "c017b7f57586",
-      "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
-      "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
-      "summary": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-12T23:25:38.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/10/matt-mullenweg.jpg?resize=1200,799",
-      "score": 65,
-      "tags": []
-    },
-    {
-      "id": "74a75f709b78",
-      "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
-      "summary": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-11T20:33:18.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/01/Exhibit-Early-Stage.jpg?resize=1200,800",
-      "score": 65,
-      "tags": []
-    },
-    {
-      "id": "383ef265234e",
-      "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
-      "url": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
-      "summary": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-11T21:19:05.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Keith-Rabois.jpg?resize=1200,896",
-      "score": 55,
-      "tags": []
-    }
-  ],
   "就业": [
     {
-      "id": "ce31ef286175",
-      "title": "150个HC全是后端工程师！DeepSeek扩招背后：模型内卷结束，Agent基建开战",
-      "url": "https://www.sohu.com/a/1074104457_99966569",
-      "summary": "9月7日，DeepSeek Harness团队负责人崔添翼公开放出约150个招聘HC，迅速在AI圈引发讨论。 这场扩招最颠覆行业直觉的一点：全部岗位为服务端开发、Agent 弹性计算研发工程师，没有任",
-      "source": "就业报告",
+      "id": "1ab67ba51268",
+      "title": "银行秋招“抢人大战”来了！四大行校招计划超6万，人工智能还是香 ...",
+      "url": "https://news.qq.com/rain/a/20260908A0CZV100",
+      "summary": "金秋时节，银行一年一度的“抢人大战”正式启动。近日，工商银行、农业银行、中国银行、建设银行、招商银行、浦发银行等多家银行已陆续发布2027年度校园招聘计划",
+      "source": "Bing·秋招",
       "category": "就业",
-      "published": "2026-09-10T02:05:00.000Z",
-      "image": "//q8.itc.cn/q_70/images03/20260910/c7c760bb4d7b4e7494659ca019bed72f.jpeg",
+      "published": "2026-09-08T12:52:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/OSVqMRQrD_4P9mtqVcDrPojBSMJyecR4oN2UvVcGACX9kAA_640330/0",
       "score": 65,
       "tags": []
     },
@@ -194,7 +194,7 @@
       "source": "Bing·大学生创业扶持政策",
       "category": "政策",
       "published": "2026-09-10T12:04:00.000Z",
-      "image": "",
+      "image": "http://inews.gtimg.com/newsapp_ls/0/1114444286_200200/0",
       "score": 60,
       "tags": []
     },
@@ -235,14 +235,14 @@
       "tags": []
     },
     {
-      "id": "bef063791f8c",
-      "title": "结构化面试热点丨人社部发布 11 个新职业、23 个新工种",
-      "url": "https://www.sohu.com/a/1073850924_122637679",
-      "summary": "9 月初，人社部联合相关部门发布一批新职业信息，新增船舶岸基管理工程技术人员、数据安全工程技术人员等 11 个新职业，同时新增 23 个新工种，还对部分传统职业名称、定义进行调整更新。这批新职业集中在",
-      "source": "Bing·人社部就业创业政策",
+      "id": "e13066dd3166",
+      "title": "【红网】图文实录丨湖南省财政金融协同支持大学生创业政策解读 ...",
+      "url": "https://www.sohu.com/a/1074490576_121106908",
+      "summary": "9月10日，湖南省人民政府新闻办公室在长沙召开湖南省财政金融协同支持大学生创业政策解读新闻发布会。湖南省财政厅党组成员、副厅长欧涛作主发布",
+      "source": "Bing·大学生创业扶持政策",
       "category": "政策",
-      "published": "2026-09-09T08:59:00.000Z",
-      "image": "//q0.itc.cn/images01/20260909/47a0cc00ec274fde9f710696aa2be515.png",
+      "published": "2026-09-10T17:03:00.000Z",
+      "image": "//q2.itc.cn/q_70/images03/20260911/db46a33b1072419d85eee02d3ebbcf6e.png",
       "score": 55,
       "tags": []
     }
@@ -285,25 +285,25 @@
       "tags": []
     },
     {
-      "id": "4e54b71d06c8",
-      "title": "2026年“最美教师” | 从普通技工到“最美教师” 他让技能有了色彩",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-11/10694478.shtml",
-      "summary": "央视网消息：下面，我们来认识其中一位最美教师——90后职教教师王庆。他来自贵州大山深处，却站上了国家级职业技能竞赛的赛场；他手中的喷枪不仅能修补划痕，更能喷绘出绚丽的艺术图案",
+      "id": "4314e7db42e0",
+      "title": "好评中国｜同上“大思政课”，共谱青春与时代交响曲",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-11/10694666.shtml",
+      "summary": "近日，2026“把青春华章写在祖国大地上”大思政课网络主题宣传和互动引导活动在中国科学技术大学举行。活动紧扣青春爱国奋斗主题，结合新时代科技创新取得新的历史性成就、高水平科技自立自强加快实现，通过主题",
       "source": "中新网教育",
       "category": "社会",
-      "published": "2026-09-11T02:34:15.000Z",
+      "published": "2026-09-11T07:28:39.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 50,
       "tags": []
     },
     {
-      "id": "81cbc3cc14b9",
-      "title": "广西特教夫妻档：用画笔为特殊儿童打开世界的窗",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-10/10693906.shtml",
-      "summary": "中新网柳州9月10日电 题：广西特教夫妻档：用画笔为特殊儿童打开世界的窗",
+      "id": "cbf985491278",
+      "title": "【青春华章·强国少年】1870万束微光，照亮教育强国的未来",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-11/10694667.shtml",
+      "summary": "在第四十二个教师节到来之际，中共中央总书记、国家主席、中央军委主席习近平代表党中央，向全国广大教师和教育工作者致以节日祝贺和诚挚问候。三尺讲台系国运",
       "source": "中新网教育",
       "category": "社会",
-      "published": "2026-09-10T06:16:04.000Z",
+      "published": "2026-09-11T07:27:31.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 50,
       "tags": []
@@ -311,26 +311,26 @@
   ],
   "开发": [
     {
-      "id": "998658234f2d",
-      "title": "基于 vLLM+Nginx 构建负载均衡推理集群 - lyshark",
-      "url": "https://www.cnblogs.com/LyShark/p/22904364",
-      "summary": "企业内部私有环境部署大模型推理集群时，很容易遇到流量调度混乱、节点负载失衡、会话上下文丢失、接口缺少鉴权防护等一系列问题，单 vLLM 推理节点难以支撑并发请求。本文基于 Ubuntu 22",
-      "source": "博客园",
+      "id": "37c9ad735f06",
+      "title": "AI 有了“工号”，数据平台长出了手：我在 Snowflake World Tour 看到的三个变化",
+      "url": "https://www.infoq.cn/article/RLdCKyW7YNb8ybDKlQ5d?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/RLdCKyW7YNb8ybDKlQ5d",
+      "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-09-11T02:56:00.000Z",
-      "image": "https://img2024.cnblogs.com/blog/1379525/202609/1379525-20260910165534385-2022408098.png",
+      "published": "2026-09-11T13:36:27.000Z",
+      "image": "https://static001.infoq.cn/resource/image/09/7a/098618f71b1918724eb170c25e0f347a.jpeg",
       "score": 55,
       "tags": []
     },
     {
-      "id": "888176329b2f",
-      "title": "2026年AI编程工具大全，33个主流工具一次看懂 - 狂师",
-      "url": "https://www.cnblogs.com/jinjiangongzuoshi/p/22929704",
-      "summary": "事情是这样的，前两天看到一张图，是某个社区官网的「支持的工具」清单，我数了数，整整31个AI编程工具。 两年前这份清单撑死5个，现在直接31个，而且我居然每一个都认识",
-      "source": "博客园",
+      "id": "55638e9c59f2",
+      "title": "vlt 1.0 发布：无缝替代 npm，新增分阶段安装、图谱查询与恶意包防护",
+      "url": "https://www.infoq.cn/article/TWR5dBbabM48ZzP7zEwm?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/TWR5dBbabM48ZzP7zEwm",
+      "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-09-11T00:43:00.000Z",
-      "image": "https://assets.cnblogs.com/images/wechat-share.jpg",
+      "published": "2026-09-11T13:05:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/e3/e4/e34d287039355f394a3bfc89af3f7ee4.jpg",
       "score": 55,
       "tags": []
     },
@@ -347,6 +347,15 @@
       "tags": []
     },
     {
+      "id": "3672454f0156",
+      "title": "‌FreeCORE：TrueNAS 衍生分支，在 FreeBSD 系统上维护与之深度整合的虚拟化、Jails 容器与 OpenZFS 文件系统‌",
+      "url": "https://www.infoq.cn/article/TDav5ojS854dZKyfJmhI?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-13T16:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/79/09/792f5243a3de1789529bdea79519a209.jpg"
+    },
+    {
       "id": "30ea683e1aeb",
       "title": "Figma 如何利用 AI 代理提升安全性",
       "url": "https://www.infoq.cn/article/eS4M9XEPmLbkxksCyAye?utm_source=rss&amp;utm_medium=article",
@@ -354,61 +363,52 @@
       "category": "开发",
       "published": "2026-09-13T10:00:00.000Z",
       "image": "https://static001.infoq.cn/resource/image/3a/25/3a583f683e67b39c0da07f968c3ff025.jpg"
-    },
-    {
-      "id": "812621e39038",
-      "title": "Read, Don #39;t Write: 重塑大模型评价体系，构建全自动、可进化的“探测式”评测管线｜QCon上海",
-      "url": "https://www.infoq.cn/article/0kYhxXxhOXhxGATe64ec?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-13T10:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/e6/39/e6b32c512168d5ea82b21aa3881e0f39.jpg"
     }
   ],
   "财经": [
     {
-      "id": "0997451c4941",
-      "title": "新大众文艺，如何走进“猜你喜欢”",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-13/10695510.shtml",
+      "id": "7d75bf27f567",
+      "title": "中国超级稻三十年暨种业高质量发展大会在沈阳举办",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-13/10695822.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-12T23:24:48.000Z",
+      "published": "2026-09-13T12:59:47.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "ed74f46a45b9",
-      "title": "明星扎堆“入职”景区NPC，如何跳出短期引流噱头？",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-13/10695507.shtml",
+      "id": "3e875f902cec",
+      "title": "数智赋能金融开放 服贸会搭建全球金融合作平台",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-13/10695820.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-12T22:44:07.000Z",
+      "published": "2026-09-13T12:58:53.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "108175317941",
-      "title": "当物流装上“AI引擎” 如何跑出新速度？",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-13/10695500.shtml",
+      "id": "fd131eae5dee",
+      "title": "广西平南三桥入选中国土木工程詹天佑奖",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-13/10695810.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-12T17:03:56.000Z",
+      "published": "2026-09-13T12:46:48.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "e10729cc7fe4",
-      "title": "第48届世界技能大赛将在上海启幕 创多项历届之最",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695482.shtml",
+      "id": "4297ae51e5fe",
+      "title": "宁夏供销系统启动农业社会化服务提质增效行动",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-13/10695797.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-12T14:28:24.000Z",
+      "published": "2026-09-13T12:38:48.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "55d726000417",
-      "title": "多国好物跨越疆界 服贸会联通中外互惠共享",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695445.shtml",
+      "id": "6cf3edeb7abc",
+      "title": "贵州酒商加速转型破圈 年轻化赛道激活酒业新消费",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-13/10695788.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-12T13:22:14.000Z",
+      "published": "2026-09-13T12:18:09.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
