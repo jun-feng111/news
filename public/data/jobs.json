@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T23:49:43.967Z",
+  "updated": "2026-09-13T03:29:27.721Z",
   "count": 124,
   "sources": {
     "V2EX": 9,
@@ -194,6 +194,36 @@
       "url": "https://www.v2ex.com/t/1240774",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "remoteok-1137386",
+      "title": "HR Operations Specialist",
+      "company": "Law Offices of Sabrina Li",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "hr",
+        "education",
+        "customer support",
+        "marketing",
+        "finance",
+        "c",
+        "exec",
+        "content writing",
+        "ops",
+        "legal",
+        "recruiter",
+        "full time"
+      ],
+      "category": "hr",
+      "postedDate": "2026-09-12",
+      "url": "https://remoteOK.com/remote-jobs/remote-hr-operations-specialist-law-offices-of-sabrina-li-1137386",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137381",
@@ -1786,34 +1816,6 @@
       "category": "dev",
       "postedDate": "2026-08-13",
       "url": "https://remoteOK.com/remote-jobs/remote-senior-data-engineer-lemon-io-1136594",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1136579",
-      "title": "Product Manager",
-      "company": "Resourceful Talent Group",
-      "location": "Remote",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "product manager",
-        "exec",
-        "saas",
-        "technical",
-        "dev",
-        "finance",
-        "ops",
-        "engineer",
-        "full time",
-        "digital nomad"
-      ],
-      "category": "product manager",
-      "postedDate": "2026-08-13",
-      "url": "https://remoteOK.com/remote-jobs/remote-product-manager-resourceful-talent-group-1136579",
       "source": "RemoteOK",
       "region": "foreign"
     },
