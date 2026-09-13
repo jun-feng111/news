@@ -57,7 +57,7 @@
       "category": "AI",
       "published": "2026-09-11T22:58:17.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857",
-      "score": 65,
+      "score": 60,
       "tags": []
     }
   ],
@@ -87,14 +87,14 @@
       "tags": []
     },
     {
-      "id": "74a75f709b78",
-      "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
-      "summary": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+      "id": "c017b7f57586",
+      "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
+      "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+      "summary": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-09-11T20:33:18.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/01/Exhibit-Early-Stage.jpg?resize=1200,800",
+      "published": "2026-09-12T23:25:38.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/10/matt-mullenweg.jpg?resize=1200,799",
       "score": 65,
       "tags": []
     },
@@ -111,13 +111,13 @@
       "tags": []
     },
     {
-      "id": "8bb8b268e44e",
-      "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
-      "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
+      "id": "74a75f709b78",
+      "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-09-11T20:30:17.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/12/Disrupt-2024-Investor-Reception.jpg?resize=1200,800"
+      "published": "2026-09-11T20:33:18.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/01/Exhibit-Early-Stage.jpg?resize=1200,800"
     }
   ],
   "就业": [
@@ -220,18 +220,6 @@
       "tags": []
     },
     {
-      "id": "772bf813def2",
-      "title": "102个创业样本背后的金融逻辑，湖南银行“大学生创业贷”余额突破1亿",
-      "url": "https://finance.sina.com.cn/wm/2026-09-07/doc-iniqznpn9534565.shtml",
-      "summary": "一个大学生创业项目，从递交申请到拿到贷款，最快需要多久。湖南银行的答案是：7个工作日以内",
-      "source": "Bing·大学生就业政策",
-      "category": "政策",
-      "published": "2026-09-07T08:30:00.000Z",
-      "image": "//n.sinaimg.cn/front20260907ac/32/w816h816/20260907/3f23-ee4f2f044b3f369dce968f3a1778ff0f.jpg",
-      "score": 55,
-      "tags": []
-    },
-    {
       "id": "e13066dd3166",
       "title": "【红网】图文实录丨湖南省财政金融协同支持大学生创业政策解读 ...",
       "url": "https://www.sohu.com/a/1074490576_121106908",
@@ -240,6 +228,18 @@
       "category": "政策",
       "published": "2026-09-10T17:03:00.000Z",
       "image": "//q2.itc.cn/q_70/images03/20260911/db46a33b1072419d85eee02d3ebbcf6e.png",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "ed0822808f9b",
+      "title": "温州发布专项政策指南 为残疾人大学生就业创业“撑腰”",
+      "url": "https://news.66wz.com/system/2026/07/16/105805829.shtml",
+      "summary": "市人社局与市残联携手对现行最实用、最优惠的就创业补贴政策进行全面梳理，并形成《温州市残疾人大学生就业创业政策指南》，助力这一特殊群体跨越障碍，实现更加充分、更高质量的就业和创业。 温州网讯 为支持更多",
+      "source": "就业创业政策",
+      "category": "政策",
+      "published": "2026-07-16T01:51:00.000Z",
+      "image": "https://news.66wz.com/pic/003/013/337/00301333742_93765919.gif",
       "score": 55,
       "tags": []
     }
@@ -255,6 +255,18 @@
       "published": "2026-09-10T13:38:00.000Z",
       "image": "https://img2024.cnblogs.com/blog/510/202609/510-20260905070811424-1837144874.jpg",
       "score": 60,
+      "tags": []
+    },
+    {
+      "id": "6700e493a86f",
+      "title": "SH 中文化样例数据使用手册 - AlfredZhao",
+      "url": "https://www.cnblogs.com/jyzhao/p/22929303",
+      "summary": "在数据库演示与 PoC 场景中，Oracle 自带的 SH 示例模式虽然经典，但英文维度数据往往让国内演示效果打折扣。笔者整理了一套方案：保留 SH 标准英文对象名，同时装载中文化维度数据，并按参数生",
+      "source": "博客园",
+      "category": "开发",
+      "published": "2026-09-10T23:06:00.000Z",
+      "image": "https://assets.cnblogs.com/images/wechat-share.jpg",
+      "score": 50,
       "tags": []
     },
     {
@@ -283,15 +295,6 @@
       "category": "开发",
       "published": "2026-09-12T10:19:25.000Z",
       "image": "https://static001.infoq.cn/resource/image/b0/56/b0c1cbe46242e640695147e034895356.png"
-    },
-    {
-      "id": "c771c3acbb39",
-      "title": "模型一模一样，Token 却相差 70 倍？三项实测揭开 AI 编程工具的成本黑洞",
-      "url": "https://www.infoq.cn/article/oPSaLpULlAxGxTbYXlXO?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-12T10:13:44.000Z",
-      "image": "https://static001.infoq.cn/resource/image/d2/2f/d2575c604427ef51a5f7362902fb6e2f.png"
     }
   ],
   "社会": [
@@ -358,6 +361,24 @@
   ],
   "财经": [
     {
+      "id": "0997451c4941",
+      "title": "新大众文艺，如何走进“猜你喜欢”",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-13/10695510.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-09-12T23:24:48.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "ed74f46a45b9",
+      "title": "明星扎堆“入职”景区NPC，如何跳出短期引流噱头？",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-13/10695507.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-09-12T22:44:07.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
       "id": "108175317941",
       "title": "当物流装上“AI引擎” 如何跑出新速度？",
       "url": "https://www.chinanews.com.cn/cj/2026/09-13/10695500.shtml",
@@ -382,24 +403,6 @@
       "source": "中新网财经",
       "category": "财经",
       "published": "2026-09-12T13:22:14.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "9300728dde8c",
-      "title": "广西首个“用机器人造机器人”工厂投产",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695446.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-09-12T13:19:28.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "48152dda0b60",
-      "title": "服贸会期间多项法商服务成果在北京发布",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-12/10695450.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-09-12T13:15:02.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
