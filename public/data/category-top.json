@@ -1,6 +1,18 @@
 {
   "AI": [
     {
+      "id": "cb9c9c35cbd4",
+      "title": "Microsoft AI opens review on Humanist AI Code of Conduct",
+      "url": "https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/",
+      "summary": "Microsoft AI has published a draft Humanist AI Code of Conduct, opening a six-week public consultati",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-09-14T15:30:41.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/microsoft-ai-mai-humanist-code-of-conduct-governance-security-agents-mustafa-suleyman-responsible.jpg",
+      "score": 80,
+      "tags": []
+    },
+    {
       "id": "1f726ce1f96d",
       "title": "Why Most Enterprise Agent Pilots Never Reach Deployment",
       "url": "https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/",
@@ -9,7 +21,19 @@
       "category": "AI",
       "published": "2026-09-14T08:04:35.000Z",
       "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/mohamed-nohassi-0xMiYQmk8g-unsplash-scaled.jpg",
-      "score": 85,
+      "score": 80,
+      "tags": []
+    },
+    {
+      "id": "04fb7c790640",
+      "title": "macOS 27: new Siri takes on AI productivity apps",
+      "url": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/",
+      "summary": "macOS 27: new Siri takes on AI productivity apps",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-14T17:10:09.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/MacOS-27.jpg?resize=1200,648",
+      "score": 80,
       "tags": []
     },
     {
@@ -21,150 +45,76 @@
       "category": "AI",
       "published": "2026-09-14T07:56:45.000Z",
       "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/sam-mcghee-KieCLNzKoBo-unsplash-scaled.jpg",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "423bcba40c75",
-      "title": "What&#8217;s behind the AI industry’s latest warnings of doom?",
-      "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-      "summary": "What&#8217;s behind the AI industry’s latest warnings of doom",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-09-13T19:40:15.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2233466982.jpg?resize=1200,821",
       "score": 75,
       "tags": []
     },
     {
-      "id": "6b54256d4afb",
-      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
-      "summary": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+      "id": "6b89f6f497d7",
+      "title": "With iOS 27, I&#8217;m actually using Siri again",
+      "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+      "summary": "With iOS 27, I&#8217;m actually using Siri again",
       "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-09-13T16:30:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2282234557.jpg?w=1024",
+      "published": "2026-09-14T17:10:30.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Siri-feat-iOS-27.jpg?resize=1200,648",
       "score": 75,
       "tags": []
-    },
-    {
-      "id": "c1ca0d068389",
-      "title": "How Vox Group&#8217;s AI-Powered Technology Is Solving Real-Time Translation for Group Travel",
-      "url": "https://www.artificialintelligence-news.com/news/how-vox-groups-ai-powered-technology-is-solving-real-time-translation-for-group-travel/",
-      "summary": "Live translation has long been one of travel&#8217;s hardest unsolved problems: a single guide speak",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-09-14T07:39:28.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/Techforge-Header-banner-1200x600-v2.jpg",
-      "score": 70,
-      "tags": []
-    }
-  ],
-  "财经": [
-    {
-      "id": "535029db48f0",
-      "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
-      "url": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
-      "summary": "Larry Ellison cancels $7。5 billion sale of Oracle stock",
-      "source": "TechCrunch",
-      "category": "财经",
-      "published": "2026-09-13T20:49:38.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-528022874.jpg?w=1024",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "d64ac58bbaf5",
-      "title": "广东汕头推出“词元出海贷”打通适配新业态融资通道",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-14/10696293.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-09-14T11:53:40.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "7bcef49c348e",
-      "title": "8月中国快递发展指数同比提升1.5%",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-14/10696291.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-09-14T11:51:52.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "39e3de4080ea",
-      "title": "市场监管总局通报47批次食品抽检不合格情况",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-14/10696326.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-09-14T11:42:49.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "a1a759d61534",
-      "title": "可感知、可量化：《饮用水健康与感官品质研究报告》发布会在京举行",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-14/10696285.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-09-14T11:40:39.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ],
   "科技": [
     {
-      "id": "ddc287c6ed34",
-      "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
-      "url": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
-      "summary": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
+      "id": "c342e560b3ad",
+      "title": "Volkswagen&#8217;s crazy-efficient EV borrows an idea from Slate",
+      "url": "https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/",
+      "summary": "Volkswagen&#8217;s crazy-efficient EV borrows an idea from Slate",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-09-13T20:28:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/06/shrinking-yc.jpg?resize=1200,675",
-      "score": 70,
+      "published": "2026-09-14T17:41:20.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/volkswagen-mission-efficiency-side.jpeg?resize=1200,800",
+      "score": 75,
       "tags": []
     },
     {
-      "id": "9ccd192da0c0",
-      "title": "TechCrunch Mobility: Lyft has entered the robotaxi chat",
-      "url": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/",
-      "summary": "TechCrunch Mobility: Lyft has entered the robotaxi chat",
+      "id": "58a010456e89",
+      "title": "Waymo opens robotaxi service in Las Vegas",
+      "url": "https://techcrunch.com/2026/09/14/waymo-opens-robotaxi-service-in-las-vegas/",
+      "summary": "Waymo opens robotaxi service in Las Vegas",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-09-13T16:04:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/waymo-lyft-nashville.jpeg?resize=1200,675",
-      "score": 70,
+      "published": "2026-09-14T16:04:16.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/waymo-ojai-street.jpg?resize=1200,801",
+      "score": 75,
       "tags": []
     },
     {
-      "id": "1a165b0e5d6d",
-      "title": "Fusion power startups find new partners in the defense world",
-      "url": "https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/",
-      "summary": "Fusion power startups find new partners in the defense world",
+      "id": "a047fb9f02fd",
+      "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+      "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
+      "summary": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-09-13T13:15:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/pacific-fusion-pulser-prototype-side.jpeg?resize=1200,800",
-      "score": 70,
+      "published": "2026-09-14T17:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Frame-10.png?resize=1200,900",
+      "score": 65,
       "tags": []
     },
     {
-      "id": "c017b7f57586",
-      "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
-      "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+      "id": "55478c46f5b5",
+      "title": "Sources say Automattic&#8217;s board is out after failed attempt to oust CEO Matt Mullenweg",
+      "url": "https://techcrunch.com/2026/09/14/sources-say-automattics-board-is-out-after-failed-attempt-to-oust-ceo-matt-mullenweg/",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-09-12T23:25:38.000Z",
+      "published": "2026-09-14T15:34:31.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2024/10/matt-mullenweg.jpg?resize=1200,799"
     },
     {
-      "id": "22280ff70f06",
-      "title": "OpenAI’s Sam Altman says it would be &#8216;ill-advised&#8217; to go public in 2026",
-      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "id": "2f204386282f",
+      "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+      "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-09-12T20:19:16.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2198353376.jpg?resize=1200,800"
+      "published": "2026-09-14T15:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_3-Speaker-Tong-Toews-Tricot_16x9-Dark.png?resize=1200,675"
     }
   ],
   "就业": [
@@ -329,31 +279,43 @@
       "tags": []
     },
     {
-      "id": "03fecbb131a2",
-      "title": "AI Coding 提速之后，如何补上稳定性“最后一公里”？快手柯南 AI 实践",
-      "url": "https://www.infoq.cn/article/rlXYaPUjVR0fffbQK3Iz?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/rlXYaPUjVR0fffbQK3Iz",
-      "source": "InfoQ中文",
+      "id": "b674a5158ce9",
+      "title": "科技爱好者周刊（第 412 期）：禁止 issue，只用 PR",
+      "url": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html",
+      "summary": "这里记录每周值得分享的科技内容，周五发布",
+      "source": "阮一峰",
       "category": "开发",
-      "published": "2026-09-11T21:06:08.000Z",
-      "image": "https://static001.infoq.cn/resource/image/33/fe/33dbafaf5f539a7396cc6471f3d06cfe.jpg",
+      "published": "2026-09-11T00:11:50.000Z",
+      "image": "",
       "score": 55,
       "tags": []
     },
     {
-      "id": "bcf2155cb6c8",
-      "title": "怒斥加密货币是旁氏骗局、放弃80%就业机会也不用 AI 写代码！Kotlin“J神”：AI 会让工程师变成可替换的齿轮",
-      "url": "https://www.infoq.cn/article/QPRcUdPGic5r8Ws8R1gM?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/QPRcUdPGic5r8Ws8R1gM",
+      "id": "e445438dd471",
+      "title": "Google Mantis：一款旨在减少误报的基于智能代理的漏洞扫描框架",
+      "url": "https://www.infoq.cn/article/mF8WwkbQRUS7ZKprE3Ku?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/mF8WwkbQRUS7ZKprE3Ku",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-09-11T21:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/49/d4/490d43f6a834e7bb06c2e524e39db1d4.png",
-      "score": 55,
+      "published": "2026-09-12T16:06:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/54/80/54cd4fd521888yy47c38589efe475a80.jpg",
+      "score": 50,
       "tags": []
     }
   ],
   "社会": [
+    {
+      "id": "31075cbc0367",
+      "title": "不与AI赛跑 业界冀职业教育转向培育人类独有核心素养",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-12/10695484.shtml",
+      "summary": "中新社上海9月12日电 (范宇斌)由上海中华职业教育社主办的2026职业教育海上对话创享会12日至13日在上海举行。来自德国等国家驻华机构代表，以及长三角、粤港澳等地区教育界、科技界、产业界代表共50",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-09-12T14:28:20.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 55,
+      "tags": []
+    },
     {
       "id": "cdbd440c25e9",
       "title": "25人入选！2026年“最美教师”名单公布",
@@ -401,18 +363,53 @@
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 50,
       "tags": []
+    }
+  ],
+  "财经": [
+    {
+      "id": "c06bd72750b7",
+      "title": "从原创突破到产业应用 青年专家共话基础研究与未来产业",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-14/10696470.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-09-14T15:14:47.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "438c74065b3d",
-      "title": "我们的“十五五”丨未来五年，讲台上下都在变",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-11/10694658.shtml",
-      "summary": "“十五五”开局之年，国务院印发《教育发展“十五五”规划》，明确了“十五五”时期建设教育强国的思路目标、重点任务和政策举措。未来五年，讲台上下会有什么新变化",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-09-11T07:24:25.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
+      "id": "c54e32adb2fc",
+      "title": "广州规划至2030年海洋生产总值突破7300亿元",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-14/10696430.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-09-14T14:06:44.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "0e9666275ab6",
+      "title": "香港二季度本地居民总收入同比增长7.9%",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-14/10696431.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-09-14T14:05:14.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "98436c092678",
+      "title": "经济观察：一穗鲜食玉米 “种”出增收新路",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-14/10696425.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-09-14T13:53:29.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "526abd2b86da",
+      "title": "国家超算互联网日均作业数突破30万个",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-14/10696397.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-09-14T13:50:57.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
 }
