@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T00:49:39.381Z",
+  "updated": "2026-09-14T05:52:39.752Z",
   "count": 124,
   "sources": {
     "V2EX": 9,
@@ -9,6 +9,31 @@
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1241837",
+      "title": "remote 高级 Java 架构师（互联网方向 · 搜索系统）",
+      "company": "andyxinweimin",
+      "location": "国内",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "java",
+        "spring",
+        "docker",
+        "kubernetes",
+        "mysql",
+        "redis",
+        "elasticsearch"
+      ],
+      "category": "其他",
+      "postedDate": "2026-09-14",
+      "url": "https://www.v2ex.com/t/1241837",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1241696",
       "title": "深圳年薪 50 万和香港年薪 100 万港币选哪个？",
@@ -171,27 +196,6 @@
       "category": "数据",
       "postedDate": "2026-09-10",
       "url": "https://www.v2ex.com/t/1240909",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1240778",
-      "title": "来个 ios， base 杭州，薪资 open 邮箱： ZmVpZmVpY2hlbjE5OTlAZ21haWwuY29t",
-      "company": "feifeichen",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "react",
-        "flutter",
-        "swift"
-      ],
-      "category": "其他",
-      "postedDate": "2026-09-09",
-      "url": "https://www.v2ex.com/t/1240778",
       "source": "V2EX",
       "region": "domestic"
     },
