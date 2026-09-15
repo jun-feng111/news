@@ -1,42 +1,6 @@
 {
   "AI": [
     {
-      "id": "1f726ce1f96d",
-      "title": "Why Most Enterprise Agent Pilots Never Reach Deployment",
-      "url": "https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/",
-      "summary": "Deloitte&#8217;s 2026 technology trends research puts the pilot-to-production failure rate for AI ag",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-09-14T08:04:35.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/mohamed-nohassi-0xMiYQmk8g-unsplash-scaled.jpg",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "cb9c9c35cbd4",
-      "title": "Microsoft AI opens review on Humanist AI Code of Conduct",
-      "url": "https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/",
-      "summary": "Microsoft AI has published a draft Humanist AI Code of Conduct, opening a six-week public consultati",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-09-14T15:30:41.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/microsoft-ai-mai-humanist-code-of-conduct-governance-security-agents-mustafa-suleyman-responsible.jpg",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "9547ccc309de",
-      "title": "From Video to Data: How AI Is Transforming Multimedia Content Processing",
-      "url": "https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/",
-      "summary": "A video looks simple when you press play。 There is a picture, some dialogue, perhaps music in the ba",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-09-14T07:56:45.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/sam-mcghee-KieCLNzKoBo-unsplash-scaled.jpg",
-      "score": 75,
-      "tags": []
-    },
-    {
       "id": "4dd932ed2d93",
       "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
       "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
@@ -49,14 +13,50 @@
       "tags": []
     },
     {
-      "id": "c1ca0d068389",
-      "title": "How Vox Group&#8217;s AI-Powered Technology Is Solving Real-Time Translation for Group Travel",
-      "url": "https://www.artificialintelligence-news.com/news/how-vox-groups-ai-powered-technology-is-solving-real-time-translation-for-group-travel/",
-      "summary": "Live translation has long been one of travel&#8217;s hardest unsolved problems: a single guide speak",
-      "source": "AI News",
+      "id": "04fb7c790640",
+      "title": "macOS 27: new Siri takes on AI productivity apps",
+      "url": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/",
+      "summary": "macOS 27: new Siri takes on AI productivity apps",
+      "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-09-14T07:39:28.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/Techforge-Header-banner-1200x600-v2.jpg",
+      "published": "2026-09-14T17:10:09.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/MacOS-27.jpg?resize=1200,648",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "6b89f6f497d7",
+      "title": "With iOS 27, I&#8217;m actually using Siri again",
+      "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+      "summary": "With iOS 27, I&#8217;m actually using Siri again",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-14T17:10:30.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Siri-feat-iOS-27.jpg?resize=1200,648",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "71b2c4f295f2",
+      "title": "Nvidia CEO Jensen Huang tells Trump &#8216;we&#8217;re not going to let [an AI slowdown] happen&#8217;",
+      "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "summary": "Nvidia CEO Jensen Huang tells Trump &#8216;we&#8217;re not going to let [an AI slowdown] happen&#821",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-14T21:51:02.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "dbf09df0faf8",
+      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia&#8217;s dominance",
+      "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
+      "summary": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia&#8217;s dominance",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-14T20:07:37.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2236865789.jpg?resize=1200,600",
       "score": 65,
       "tags": []
     }
@@ -71,7 +71,7 @@
       "category": "科技",
       "published": "2026-09-15T01:50:48.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -102,22 +102,40 @@
       "id": "c342e560b3ad",
       "title": "Volkswagen&#8217;s crazy-efficient EV borrows an idea from Slate",
       "url": "https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/",
+      "summary": "Volkswagen&#8217;s crazy-efficient EV borrows an idea from Slate",
       "source": "TechCrunch",
       "category": "科技",
       "published": "2026-09-14T17:41:20.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/volkswagen-mission-efficiency-side.jpeg?resize=1200,800"
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/volkswagen-mission-efficiency-side.jpeg?resize=1200,800",
+      "score": 70,
+      "tags": []
     },
     {
-      "id": "6b89f6f497d7",
-      "title": "With iOS 27, I&#8217;m actually using Siri again",
-      "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+      "id": "a047fb9f02fd",
+      "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+      "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
+      "summary": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-09-14T17:10:30.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Siri-feat-iOS-27.jpg?resize=1200,648"
+      "published": "2026-09-14T17:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Frame-10.png?resize=1200,900",
+      "score": 60,
+      "tags": []
     }
   ],
   "就业": [
+    {
+      "id": "ce31ef286175",
+      "title": "150个HC全是后端工程师！DeepSeek扩招背后：模型内卷结束，Agent基建开战",
+      "url": "https://www.sohu.com/a/1074104457_99966569",
+      "summary": "9月7日，DeepSeek Harness团队负责人崔添翼公开放出约150个招聘HC，迅速在AI圈引发讨论。 这场扩招最颠覆行业直觉的一点：全部岗位为服务端开发、Agent 弹性计算研发工程师，没有任",
+      "source": "就业报告",
+      "category": "就业",
+      "published": "2026-09-10T02:05:00.000Z",
+      "image": "//q8.itc.cn/q_70/images03/20260910/c7c760bb4d7b4e7494659ca019bed72f.jpeg",
+      "score": 65,
+      "tags": []
+    },
     {
       "id": "c76b56413d4a",
       "title": "AI人才缺口超500万！有最新报告称，AI抢人逻辑悄悄变了：架构师新发 ...",
@@ -143,6 +161,18 @@
       "tags": []
     },
     {
+      "id": "ec7a556a0d4d",
+      "title": "险企秋招抢人，AI与医养人才成香饽饽！平安放出700余个科技岗位 ...",
+      "url": "https://news.qq.com/rain/a/20260911A0DA6M00",
+      "summary": "保险行业新一年的秋招拉开序幕。 近期，中国平安（601318",
+      "source": "Bing·秋招",
+      "category": "就业",
+      "published": "2026-09-11T10:48:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/Oxkpxr7TJjLmMkX4VtyiIJK3CwL8f0eLHwC-l10Tb6aDwAA_640330/0",
+      "score": 60,
+      "tags": []
+    },
+    {
       "id": "6a54d80aa0a2",
       "title": "2026沈阳应届生央国企求职全景：吃透本地考情，突破求职信息壁垒",
       "url": "https://www.sohu.com/a/1074154309_122662554",
@@ -153,42 +183,18 @@
       "image": "//q5.itc.cn/images01/20260910/6433e3887b2d4f68a032607b79021bac.jpeg",
       "score": 60,
       "tags": []
-    },
-    {
-      "id": "0d4d19cc7ba6",
-      "title": "LLM 应用研发工程师， AI 应用后端工程师（AI Agent 方向），\r\nAI 模型训练师 / AIGC 模型工程师",
-      "url": "https://www.v2ex.com/t/1241518#reply0",
-      "summary": "LLM 应用研发工程师， AI 应用后端工程师（AI Agent 方向），\r\nAI 模型训练师 / AIGC 模型工程师",
-      "source": "V2EX·招聘",
-      "category": "就业",
-      "published": "2026-09-12T04:29:00.000Z",
-      "image": "https://cdn.v2ex.com/avatar/4750/26af/669784_xlarge.png?m=1709200187",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "5902579be89e",
-      "title": "[上海 9.9 岗位更新] SHEIN 内推：算法/前端/ Java /AI Agent/安全/测试/iOS/数据/数据库， 18-90k",
-      "url": "https://www.v2ex.com/t/1240565#reply0",
-      "summary": "9 岗位更新] SHEIN 内推：算法/前端/ Java /AI Agent/安全/测试/iOS/数据/数据库， 18-90k",
-      "source": "V2EX·招聘",
-      "category": "就业",
-      "published": "2026-09-09T01:37:50.000Z",
-      "image": "https://cdn.v2ex.com/avatar/75c4/8976/45253_xlarge.png?m=1785748830",
-      "score": 60,
-      "tags": []
     }
   ],
   "政策": [
     {
-      "id": "65e237922c09",
+      "id": "029057c3bc72",
       "title": "破解融资难、创业有兜底 湖南升级大学生创业扶持体系",
-      "url": "https://news.qq.com/rain/a/20260910A0B5C100",
-      "summary": "中新网长沙9月10日电(记者 唐小晴)打造“创投咖啡馆”，为大学生创业项目资本对接搭建实体平台；企业遭遇注销、破产等创业失败情形，且满足社保缴纳要求的，最高可获2万元创业基础补偿、4万元带动就业补偿…",
+      "url": "https://www.chinanews.com/sh/2026/09-10/10694161.shtml",
+      "summary": "中新网 长沙9月10日电 (记者 唐小晴)打造“创投咖啡馆”，为大学生创业项目资本对接搭建实体平台；企业遭遇注销、破产等创业失败情形，且满足社保缴纳要求的，最高可获2万元创业基础补偿、4万元带动就业补",
       "source": "Bing·大学生创业扶持政策",
       "category": "政策",
       "published": "2026-09-10T12:04:00.000Z",
-      "image": "http://inews.gtimg.com/newsapp_ls/0/1114444286_200200/0",
+      "image": "https://www.chinanews.com/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 60,
       "tags": []
     },
@@ -201,18 +207,6 @@
       "category": "政策",
       "published": "2026-09-10T16:38:00.000Z",
       "image": "https://inews.gtimg.com/om_ls/OlTsqcn0mJqFOCzdkV_KfemdWNK3wG8VqQODGhIpM8Ka0AA_640330/0",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "8441da21581d",
-      "title": "创业失败最高补6万！湖南支持大学生创业政策再升级",
-      "url": "https://www.sohu.com/a/1074435831_119717",
-      "summary": "华声在线9月10日讯（文/图/视频 全媒体记者 胡锐）大学生创业可领不低于1万元的创业补贴；打造“创投咖啡馆”，为创业项目搭建面对面的资本对接实体平台；财政掏钱为大学生创业投保，创业失败最高可获6万元",
-      "source": "Bing·大学生就业政策",
-      "category": "政策",
-      "published": "2026-09-10T14:26:00.000Z",
-      "image": "//q6.itc.cn/q_70/images03/20260910/057596e5985b4e3288586d21767302ac.png",
       "score": 55,
       "tags": []
     },
@@ -239,6 +233,17 @@
       "image": "//q2.itc.cn/q_70/images03/20260911/db46a33b1072419d85eee02d3ebbcf6e.png",
       "score": 55,
       "tags": []
+    },
+    {
+      "id": "e70040853eba",
+      "title": "湖南出台“1+5”系列政策 全方位保障大学生创新创业",
+      "url": "https://hn.people.com.cn/n2/2026/0911/c336521-41693322.html",
+      "summary": "人民网长沙9月11日电 9月10日下午，湖南省财政金融协同支持大学生创业政策解读新闻发布会在长沙召开。会上宣布，湖南省财政厅联合省委金融办、省人力资源社会保障厅等部门，近期推出财政金融协同支持大学生创",
+      "source": "Bing·大学生创业扶持政策",
+      "category": "政策",
+      "published": "2026-09-10T17:00:00.000Z",
+      "score": 55,
+      "tags": []
     }
   ],
   "社会": [
@@ -255,27 +260,15 @@
       "tags": []
     },
     {
-      "id": "cdbd440c25e9",
-      "title": "25人入选！2026年“最美教师”名单公布",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-10/10693977.shtml",
-      "summary": "为深入学习贯彻习近平总书记关于教育的重要论述，大力弘扬教育家精神，营造尊师重教社会风尚，加快建设教育强国，办好人民满意的教育，在第42个教师节到来之际，中央宣传部、教育部向全社会发布“最美教师”先进事",
+      "id": "e2d20176a258",
+      "title": "江苏扬州百名学子着汉服巡游古城：在青砖黛瓦间对话历史",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-13/10695699.shtml",
+      "summary": "中新网扬州9月13日电 (徐珊珊 崔佳明)9月13日下午，“青衿广陵行·衣冠载风华”广陵区首届百名大学生游古城暨汉服文化展示季在扬州时代广场启动。百名学子身着汉服巡游古城，在青砖黛瓦间对话历史，以青春",
       "source": "中新网教育",
       "category": "社会",
-      "published": "2026-09-10T07:04:39.000Z",
+      "published": "2026-09-13T09:08:37.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "e928bb760bb4",
-      "title": "浙江省“最美教师”发布 尊师重教再添“惠师”实招",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-10/10693858.shtml",
-      "summary": "中新网杭州9月10日电(孙琳茹)9月9日晚，浙江省庆祝第42个教师节音乐会在浙江杭州举行。活动现场，十位来自浙江全省高校、中小学校的优秀教师获评2026年浙江省“最美教师”",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-09-10T04:46:14.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 55,
+      "score": 50,
       "tags": []
     },
     {
@@ -301,21 +294,21 @@
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 50,
       "tags": []
+    },
+    {
+      "id": "cbf985491278",
+      "title": "【青春华章·强国少年】1870万束微光，照亮教育强国的未来",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-11/10694667.shtml",
+      "summary": "在第四十二个教师节到来之际，中共中央总书记、国家主席、中央军委主席习近平代表党中央，向全国广大教师和教育工作者致以节日祝贺和诚挚问候。三尺讲台系国运",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-09-11T07:27:31.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
     }
   ],
   "开发": [
-    {
-      "id": "acfd869068b6",
-      "title": "AI的新用法，被这群 Builder 带到了外滩大会开发者日",
-      "url": "https://www.infoq.cn/article/i1FJsYNhNM4wwV78ANhL?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/i1FJsYNhNM4wwV78ANhL",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-12T20:35:26.000Z",
-      "image": "https://static001.infoq.cn/resource/image/5c/9c/5c6e4c72a67e622b4bddce88c818f79c.png",
-      "score": 55,
-      "tags": []
-    },
     {
       "id": "b674a5158ce9",
       "title": "科技爱好者周刊（第 412 期）：禁止 issue，只用 PR",
@@ -329,80 +322,86 @@
       "tags": []
     },
     {
-      "id": "e445438dd471",
-      "title": "Google Mantis：一款旨在减少误报的基于智能代理的漏洞扫描框架",
-      "url": "https://www.infoq.cn/article/mF8WwkbQRUS7ZKprE3Ku?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/mF8WwkbQRUS7ZKprE3Ku",
+      "id": "a34b0ea28f15",
+      "title": "飞书与豆包工作合体后首亮相：Agent 能进群，还能帮你写周报、做PPT",
+      "url": "https://www.infoq.cn/article/aCRVupdyEAHtENIiIDwq?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-09-12T16:06:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/54/80/54cd4fd521888yy47c38589efe475a80.jpg",
-      "score": 50,
-      "tags": []
+      "published": "2026-09-15T18:37:10.000Z",
+      "image": "https://static001.infoq.cn/resource/image/87/48/876894cf8dce75c9023d1b2123513348.jpg"
     },
     {
-      "id": "c0e1c184000b",
-      "title": "HTTP 新增 QUERY 方法：有人叫好，也有人质疑“这不就是 GET？”",
-      "url": "https://www.infoq.cn/article/BmJh0DzGPYBEl1zlyO0C?utm_source=rss&amp;utm_medium=article",
+      "id": "9e04a04893fe",
+      "title": "支付宝 xUI -- “阿宝”背后的 Agentic 终端交互引擎",
+      "url": "https://www.infoq.cn/article/at1UIEMQbHewc34wvFQ8?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-09-15T13:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/dc/80/dcfb8e47e1d98d56e25yy28417e43280.jpg"
+      "published": "2026-09-15T18:27:44.000Z",
+      "image": ""
     },
     {
-      "id": "7c06cf91a172",
-      "title": "Meta 打造“组织第二大脑”智能体的设计思路",
-      "url": "https://www.infoq.cn/article/4OXJdfB36TpMRdvrVgIc?utm_source=rss&amp;utm_medium=article",
+      "id": "38740c57f245",
+      "title": "QQ 飞车 Agentic 研发转型过程中的Loop Engineering",
+      "url": "https://www.infoq.cn/article/ifpS7rhLq24FjWYM6IqW?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-09-15T11:21:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/34/a6/34b979dc0d18eb2cb130a555d27f9ba6.jpg"
+      "published": "2026-09-15T17:24:16.000Z",
+      "image": "https://static001.infoq.cn/resource/image/4c/71/4c4e1cd0f67319ecc640955e7bb80e71.jpg"
+    },
+    {
+      "id": "014d0c5224d0",
+      "title": "OpenAI 发布适用于编程和计算机应用的 GPT-6 Astra",
+      "url": "https://www.infoq.cn/article/IfxYoy1PPkFQUpjWVBVr?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-15T16:52:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/98/5e/9878855011b6752823798d2yy3c3ff5e.jpg"
     }
   ],
   "财经": [
     {
-      "id": "e754ab8fb92a",
-      "title": "郑美翠：一句“服务一辈子”，她守了四代人",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696716.shtml",
+      "id": "6f2da18f7302",
+      "title": "三峡水库生态调度成效显著 鱼类产卵量创新高",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696966.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-15T05:44:29.000Z",
+      "published": "2026-09-15T11:08:20.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "e211a41aad42",
-      "title": "报告：中国碳市场快速发展  国际影响力扩大",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696711.shtml",
+      "id": "feae54781c57",
+      "title": "智能之上，什么才是管理的新答案？",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696964.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-15T05:36:53.000Z",
+      "published": "2026-09-15T11:05:12.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "62e3a66eaeca",
-      "title": "国家统计局：我国人形机器人出货量全球占比提升到97%",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696699.shtml",
+      "id": "8a28b4ecc0a3",
+      "title": "抢抓自贸港机遇，海南陵水加速“蜕变”",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696961.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-15T05:32:41.000Z",
+      "published": "2026-09-15T11:01:08.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "28900bfb9821",
-      "title": "中秋、国庆假期旅客出行意愿高涨 太原铁路部分热门方向车票紧俏",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696702.shtml",
+      "id": "b82a8c5a7edc",
+      "title": "浙江丽水：奋力走好高质量发展共富特色路",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696960.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-15T05:24:50.000Z",
+      "published": "2026-09-15T10:59:35.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "d34d96d6b406",
-      "title": "国家统计局：1—8月我国高技术产品出口额同比增长37.1%",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696680.shtml",
+      "id": "f1dd983cda7c",
+      "title": "8月中国原油生产稳定增长 天然气生产由降转增",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696954.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-15T04:13:06.000Z",
+      "published": "2026-09-15T10:52:21.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
