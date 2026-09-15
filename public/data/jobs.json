@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T00:22:24.566Z",
+  "updated": "2026-09-15T05:55:29.830Z",
   "count": 124,
   "sources": {
     "V2EX": 9,
@@ -10,25 +10,8 @@
   },
   "jobs": [
     {
-      "id": "v2ex-1241995",
-      "title": "APP 逆向需求：野鸡聊天软件，抢红包必须抢到手气最佳的一个",
-      "company": "rocketman13",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [],
-      "category": "其他",
-      "postedDate": "2026-09-14",
-      "url": "https://www.v2ex.com/t/1241995",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1241993",
-      "title": "remote AI 短剧制作/二次元动漫原画师（AI 生成方向）/AI 内容生成（魔改/二创/视频制作）/AI 模型训练师 / AIGC 模型工程师/AI 短剧导演",
+      "id": "v2ex-1242117",
+      "title": "remote 高级 Go 后端工程师 / 后端架构师//代码审计工程师 （Go 后端 安全与 AI 方向）//高级技术架构师（Go 方向）",
       "company": "andyxinweimin",
       "location": "国内",
       "remote": true,
@@ -37,15 +20,20 @@
       "salaryMax": null,
       "salaryCurrency": "CNY",
       "skills": [
-        "python",
+        "java",
+        "go",
         "docker",
         "kubernetes",
         "linux",
-        "pytorch"
+        "mysql",
+        "postgresql",
+        "redis",
+        "elasticsearch",
+        "php"
       ],
-      "category": "算法/AI",
-      "postedDate": "2026-09-14",
-      "url": "https://www.v2ex.com/t/1241993",
+      "category": "后端",
+      "postedDate": "2026-09-15",
+      "url": "https://www.v2ex.com/t/1242117",
       "source": "V2EX",
       "region": "domestic"
     },
@@ -97,31 +85,6 @@
       "category": "其他",
       "postedDate": "2026-09-14",
       "url": "https://www.v2ex.com/t/1241872",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1241837",
-      "title": "remote 高级 Java 架构师（互联网方向 · 搜索系统）",
-      "company": "andyxinweimin",
-      "location": "国内",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "java",
-        "spring",
-        "docker",
-        "kubernetes",
-        "mysql",
-        "redis",
-        "elasticsearch"
-      ],
-      "category": "其他",
-      "postedDate": "2026-09-14",
-      "url": "https://www.v2ex.com/t/1241837",
       "source": "V2EX",
       "region": "domestic"
     },
@@ -185,6 +148,42 @@
       "category": "前端",
       "postedDate": "2026-09-11",
       "url": "https://www.v2ex.com/t/1241436",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1241367",
+      "title": "坐标：北京-鸟巢附近 招聘安卓/ios/产品各一人",
+      "company": "wangzhi",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [],
+      "category": "产品",
+      "postedDate": "2026-09-11",
+      "url": "https://www.v2ex.com/t/1241367",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1241300",
+      "title": "招聘前端工程师兼设计师（跨境支付行业）",
+      "company": "hjiang",
+      "location": "上海",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "typescript"
+      ],
+      "category": "前端",
+      "postedDate": "2026-09-11",
+      "url": "https://www.v2ex.com/t/1241300",
       "source": "V2EX",
       "region": "domestic"
     },
