@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-15T20:04:25.726Z",
-  "count": 121,
+  "updated": "2026-09-15T23:27:45.338Z",
+  "count": 120,
   "sources": {
-    "V2EX": 7,
+    "V2EX": 6,
     "RemoteOK": 99,
     "Remotive": 15,
     "Arbeitnow": 0,
@@ -146,23 +146,6 @@
       "category": "其他",
       "postedDate": "2026-09-14",
       "url": "https://www.v2ex.com/t/1241978",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1241903",
-      "title": "上市新零售公司 AI 战略级产品招产品负责人和工程师",
-      "company": "kid7st",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [],
-      "category": "算法/AI",
-      "postedDate": "2026-09-14",
-      "url": "https://www.v2ex.com/t/1241903",
       "source": "V2EX",
       "region": "domestic"
     },
