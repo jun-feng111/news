@@ -1,6 +1,18 @@
 {
   "AI": [
     {
+      "id": "1f726ce1f96d",
+      "title": "Why Most Enterprise Agent Pilots Never Reach Deployment",
+      "url": "https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/",
+      "summary": "Deloitte&#8217;s 2026 technology trends research puts the pilot-to-production failure rate for AI ag",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-09-14T08:04:35.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/mohamed-nohassi-0xMiYQmk8g-unsplash-scaled.jpg",
+      "score": 80,
+      "tags": []
+    },
+    {
       "id": "4dd932ed2d93",
       "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
       "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
@@ -13,50 +25,38 @@
       "tags": []
     },
     {
-      "id": "04fb7c790640",
-      "title": "macOS 27: new Siri takes on AI productivity apps",
-      "url": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/",
-      "summary": "macOS 27: new Siri takes on AI productivity apps",
-      "source": "TechCrunch",
+      "id": "cb9c9c35cbd4",
+      "title": "Microsoft AI opens review on Humanist AI Code of Conduct",
+      "url": "https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/",
+      "summary": "Microsoft AI has published a draft Humanist AI Code of Conduct, opening a six-week public consultati",
+      "source": "AI News",
       "category": "AI",
-      "published": "2026-09-14T17:10:09.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/MacOS-27.jpg?resize=1200,648",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "6b89f6f497d7",
-      "title": "With iOS 27, I&#8217;m actually using Siri again",
-      "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
-      "summary": "With iOS 27, I&#8217;m actually using Siri again",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-09-14T17:10:30.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Siri-feat-iOS-27.jpg?resize=1200,648",
+      "published": "2026-09-14T15:30:41.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/microsoft-ai-mai-humanist-code-of-conduct-governance-security-agents-mustafa-suleyman-responsible.jpg",
       "score": 75,
       "tags": []
     },
     {
-      "id": "dbf09df0faf8",
-      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia&#8217;s dominance",
-      "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
-      "summary": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia&#8217;s dominance",
-      "source": "TechCrunch",
+      "id": "9547ccc309de",
+      "title": "From Video to Data: How AI Is Transforming Multimedia Content Processing",
+      "url": "https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/",
+      "summary": "A video looks simple when you press play。 There is a picture, some dialogue, perhaps music in the ba",
+      "source": "AI News",
       "category": "AI",
-      "published": "2026-09-14T20:07:37.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2236865789.jpg?resize=1200,600",
-      "score": 70,
+      "published": "2026-09-14T07:56:45.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/sam-mcghee-KieCLNzKoBo-unsplash-scaled.jpg",
+      "score": 75,
       "tags": []
     },
     {
-      "id": "c2be321fdeec",
-      "title": "Microsoft&#8217;s new AI &#8216;code of conduct&#8217; tells models not to hack systems or trick humans",
-      "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
-      "summary": "Microsoft&#8217;s new AI &#8216;code of conduct&#8217; tells models not to hack systems or trick hum",
+      "id": "71b2c4f295f2",
+      "title": "Nvidia CEO Jensen Huang tells Trump &#8216;we&#8217;re not going to let [an AI slowdown] happen&#8217;",
+      "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "summary": "Nvidia CEO Jensen Huang tells Trump &#8216;we&#8217;re not going to let [an AI slowdown] happen&#821",
       "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-09-14T16:27:53.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1244789707.jpg?resize=1200,800",
+      "published": "2026-09-14T21:51:02.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
       "score": 70,
       "tags": []
     }
@@ -71,7 +71,7 @@
       "category": "科技",
       "published": "2026-09-14T18:14:29.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1242123707.jpg?resize=1200,767",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -83,7 +83,7 @@
       "category": "科技",
       "published": "2026-09-14T18:08:43.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/hbo-max-screenshot-clickfix.jpg?resize=1200,843",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -95,47 +95,29 @@
       "category": "科技",
       "published": "2026-09-14T17:41:20.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/volkswagen-mission-efficiency-side.jpeg?resize=1200,800",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
-      "id": "58a010456e89",
-      "title": "Waymo opens robotaxi service in Las Vegas",
-      "url": "https://techcrunch.com/2026/09/14/waymo-opens-robotaxi-service-in-las-vegas/",
-      "summary": "Waymo opens robotaxi service in Las Vegas",
+      "id": "6b89f6f497d7",
+      "title": "With iOS 27, I&#8217;m actually using Siri again",
+      "url": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-09-14T16:04:16.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/waymo-ojai-street.jpg?resize=1200,801",
-      "score": 75,
-      "tags": []
+      "published": "2026-09-14T17:10:30.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Siri-feat-iOS-27.jpg?resize=1200,648"
     },
     {
-      "id": "a047fb9f02fd",
-      "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
-      "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
-      "summary": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+      "id": "04fb7c790640",
+      "title": "macOS 27: new Siri takes on AI productivity apps",
+      "url": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-09-14T17:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Frame-10.png?resize=1200,900",
-      "score": 65,
-      "tags": []
+      "published": "2026-09-14T17:10:09.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/MacOS-27.jpg?resize=1200,648"
     }
   ],
   "就业": [
-    {
-      "id": "ce31ef286175",
-      "title": "150个HC全是后端工程师！DeepSeek扩招背后：模型内卷结束，Agent基建开战",
-      "url": "https://www.sohu.com/a/1074104457_99966569",
-      "summary": "9月7日，DeepSeek Harness团队负责人崔添翼公开放出约150个招聘HC，迅速在AI圈引发讨论。 这场扩招最颠覆行业直觉的一点：全部岗位为服务端开发、Agent 弹性计算研发工程师，没有任",
-      "source": "就业报告",
-      "category": "就业",
-      "published": "2026-09-10T02:05:00.000Z",
-      "image": "//q8.itc.cn/q_70/images03/20260910/c7c760bb4d7b4e7494659ca019bed72f.jpeg",
-      "score": 65,
-      "tags": []
-    },
     {
       "id": "c76b56413d4a",
       "title": "AI人才缺口超500万！有最新报告称，AI抢人逻辑悄悄变了：架构师新发 ...",
@@ -183,6 +165,18 @@
       "image": "//q5.itc.cn/images01/20260910/6433e3887b2d4f68a032607b79021bac.jpeg",
       "score": 60,
       "tags": []
+    },
+    {
+      "id": "0d4d19cc7ba6",
+      "title": "LLM 应用研发工程师， AI 应用后端工程师（AI Agent 方向），\r\nAI 模型训练师 / AIGC 模型工程师",
+      "url": "https://www.v2ex.com/t/1241518#reply0",
+      "summary": "LLM 应用研发工程师， AI 应用后端工程师（AI Agent 方向），\r\nAI 模型训练师 / AIGC 模型工程师",
+      "source": "V2EX·招聘",
+      "category": "就业",
+      "published": "2026-09-12T04:29:00.000Z",
+      "image": "https://cdn.v2ex.com/avatar/4750/26af/669784_xlarge.png?m=1709200187",
+      "score": 60,
+      "tags": []
     }
   ],
   "政策": [
@@ -211,18 +205,6 @@
       "tags": []
     },
     {
-      "id": "2332ab3bb6d0",
-      "title": "【人民网】湖南出台“1+5”系列政策 全方位保障大学生创新创业",
-      "url": "https://www.sohu.com/a/1075074876_121106908",
-      "summary": "9月10日下午，湖南省财政金融协同支持大学生创业政策解读新闻发布会在长沙召开。会上宣布，湖南省财政厅联合省委金融办、省人力资源社会保障厅等部门，近期推出财政金融协同支持大学生创业“1+5”系列政策，以",
-      "source": "Bing·大学生就业政策",
-      "category": "政策",
-      "published": "2026-09-12T02:00:00.000Z",
-      "image": "//q6.itc.cn/q_70/images03/20260912/4c4d28854bb44168b61f7f0cf6db30bf.jpeg",
-      "score": 55,
-      "tags": []
-    },
-    {
       "id": "af723b228b52",
       "title": "湖南出台“1+5”财政金融协同新政 全周期赋能大学生创新创业",
       "url": "https://hunan.ifeng.com/c/8wJCZZSFTKU",
@@ -231,6 +213,18 @@
       "category": "政策",
       "published": "2026-09-10T10:15:00.000Z",
       "image": "https://x0.ifengimg.com/ucms/2026_37/050FC999DEB4A77A1203866ED89FBEBFB064E76A_size132_w1706_h965.jpg",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "2332ab3bb6d0",
+      "title": "【人民网】湖南出台“1+5”系列政策 全方位保障大学生创新创业",
+      "url": "https://www.sohu.com/a/1075074876_121106908",
+      "summary": "9月10日下午，湖南省财政金融协同支持大学生创业政策解读新闻发布会在长沙召开。会上宣布，湖南省财政厅联合省委金融办、省人力资源社会保障厅等部门，近期推出财政金融协同支持大学生创业“1+5”系列政策，以",
+      "source": "Bing·大学生就业政策",
+      "category": "政策",
+      "published": "2026-09-12T02:00:00.000Z",
+      "image": "//q6.itc.cn/q_70/images03/20260912/4c4d28854bb44168b61f7f0cf6db30bf.jpeg",
       "score": 55,
       "tags": []
     },
@@ -373,6 +367,15 @@
   ],
   "财经": [
     {
+      "id": "ddf1291016ca",
+      "title": "站在“十字路口”的摩天大楼何以“向上”生长",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-15/10696503.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-09-14T23:40:36.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
       "id": "c06bd72750b7",
       "title": "从原创突破到产业应用 青年专家共话基础研究与未来产业",
       "url": "https://www.chinanews.com.cn/cj/2026/09-14/10696470.shtml",
@@ -406,15 +409,6 @@
       "source": "中新网财经",
       "category": "财经",
       "published": "2026-09-14T13:53:29.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "526abd2b86da",
-      "title": "国家超算互联网日均作业数突破30万个",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-14/10696397.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-09-14T13:50:57.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
