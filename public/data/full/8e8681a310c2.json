@@ -1,0 +1,7 @@
+{
+  "id": "8e8681a310c2",
+  "title": "Git 提交代码：从报错到 SSH 免密推送 - AlfredZhao",
+  "url": "https://www.cnblogs.com/jyzhao/p/22990250",
+  "contentZh": "",
+  "contentFull": "\n    \n    \n2026-09-16 07:26 \nAlfredZhao \n阅读(90) \n评论() \n \n收藏 \n举报\n\n笔者在把本地项目推送到 GitHub 时，踩了几个很典型的坑：没有仓库、没有远程、推送还要密码。这篇文章把整个过程整理出来，给刚接触 Git 的读者一个可复用的路径。\n01 | 先让目录变成 Git 仓库\n执行提交脚本时，终端直接报错：\nfatal: not a git repository (or any of the parent directories): .git\n\n原因很简单：当前目录还不是 Git 仓库。执行初始化即可：\ngit init\n\n初始化后，Git 会提示默认分支名是 master，并说明这个默认名之后可能变化，也给出了改名方式。此时仓库已经建好。\n02 | 补上远程仓库地址\n再次运行脚本，又出现新报错：\nerror: No such remote 'origin'\n\n说明本地仓库还没有关联远程地址。先添加 origin：\ngit remote add origin https://github.com/AlfredZhao/macssh.git\n\n同时配置提交身份：\ngit config user.name \"AlfredZhao\"\ngit config user.email \"jingyuzhao@sina.cn\"\n\n03 | 改用 SSH 免密连接\n用 HTTPS 地址推送时，每次都要输入密码，比较麻烦。笔者最终改成 SSH 方式：\ngit remote set-url origin git@github.com:AlfredZhao/macssh.git\n\n然后验证 SSH 是否配置成功：\nssh -T git@github.com\n\n返回结果说明认证已经通过：\nHi AlfredZhao! You've successfully authenticated, but GitHub does not provide shell access.\n\n再次运行提交脚本，提示 No changes to commit.，说明本地没有新改动可提交。\n04 | 推送并新建远程仓库\n在终端执行下面的命令，把本地 master 分支推送到远程：\ngit push -u origin master\n\n如果远程还没有对应仓库，需要先去 GitHub，点击右上角 +，选择 New repository，新建一个名为 macssh 的仓库。注意不要勾选 Add a README file，保持空仓库，避免推送时产生冲突。\n05 | 小结\n整个流程可以归纳为四步：git init 初始化仓库、git remote add 关联远程、git remote set-url 换成 SSH 地址、git push -u 完成首次推送。最终推送成功，不再需要输入密码，SSH 方式确实更方便。\n关注我，和AI一起成长~\n\n\n\n    \n        \n    \n"
+}
