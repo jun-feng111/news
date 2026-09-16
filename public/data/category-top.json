@@ -1,18 +1,6 @@
 {
   "AI": [
     {
-      "id": "f5e80ecad197",
-      "title": "The AI data center boom is colliding with cities scarred by big industry",
-      "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
-      "summary": "The AI data center boom is colliding with cities scarred by big industry",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-09-15T21:47:38.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/3-DSCF1625.jpg?resize=1200,800",
-      "score": 80,
-      "tags": []
-    },
-    {
       "id": "4c7331160914",
       "title": "Pony.ai unveils autonomous electric truck for logistics fleets",
       "url": "https://www.artificialintelligence-news.com/news/pony-ai-autonomous-electric-truck-for-logistics-fleets/",
@@ -25,26 +13,14 @@
       "tags": []
     },
     {
-      "id": "ea3c695fe745",
-      "title": "The AI Talent Britain Fought to Hire May Be Recalculating Its Future",
-      "url": "https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/",
-      "summary": "A proposed overhaul of UK settlement rules would double the wait for permanent residence, and it rea",
-      "source": "AI News",
+      "id": "f5e80ecad197",
+      "title": "The AI data center boom is colliding with cities scarred by big industry",
+      "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+      "summary": "The AI data center boom is colliding with cities scarred by big industry",
+      "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-09-15T07:14:47.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/thisisengineering-ZPeXrWxOjRQ-unsplash-scaled.jpg",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "1f726ce1f96d",
-      "title": "Why Most Enterprise Agent Pilots Never Reach Deployment",
-      "url": "https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/",
-      "summary": "Deloitte&#8217;s 2026 technology trends research puts the pilot-to-production failure rate for AI ag",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-09-14T08:04:35.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/mohamed-nohassi-0xMiYQmk8g-unsplash-scaled.jpg",
+      "published": "2026-09-15T21:47:38.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/3-DSCF1625.jpg?resize=1200,800",
       "score": 75,
       "tags": []
     },
@@ -59,6 +35,83 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/02/whatsapp-iphone-icon.jpg?resize=1200,800",
       "score": 75,
       "tags": []
+    },
+    {
+      "id": "1e9eb8a1b0c0",
+      "title": "AI agents now have a place to snitch",
+      "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+      "summary": "AI agents now have a place to snitch",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-15T17:42:59.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1609818039.jpg?resize=1200,814",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "ea3c695fe745",
+      "title": "The AI Talent Britain Fought to Hire May Be Recalculating Its Future",
+      "url": "https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/",
+      "summary": "A proposed overhaul of UK settlement rules would double the wait for permanent residence, and it rea",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-09-15T07:14:47.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/thisisengineering-ZPeXrWxOjRQ-unsplash-scaled.jpg",
+      "score": 70,
+      "tags": []
+    }
+  ],
+  "科技": [
+    {
+      "id": "9ab3bf14d7fc",
+      "title": "SpaceX will try to put Starship in orbit for the first time on September 22",
+      "url": "https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/",
+      "summary": "SpaceX will try to put Starship in orbit for the first time on September 22",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-15T18:16:07.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2240506392.jpg?resize=1200,800",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "837180ecd6ea",
+      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+      "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+      "summary": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-15T18:29:20.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-462843546.jpg?resize=1200,800",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "3df8c7773b16",
+      "title": "US military says it has launched weapons into space",
+      "url": "https://techcrunch.com/2026/09/15/us-military-confirms-it-launched-space-weapons-into-earths-orbit/",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-15T17:09:06.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/space-classified-weapon-2229121882.jpg?w=1024"
+    },
+    {
+      "id": "5e497c447da8",
+      "title": "Meta expands subscription push with new AI-focused plans",
+      "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-15T17:05:24.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024"
+    },
+    {
+      "id": "116783ddbd4a",
+      "title": "Health benefits platform Thatch reaches $1B valuation as healthcare costs surge",
+      "url": "https://techcrunch.com/2026/09/15/health-benefits-platform-thatch-reaches-1b-valuation-as-healthcare-costs-surge/",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-15T17:02:04.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/02/Thatch-founders.jpg?resize=1200,801"
     }
   ],
   "就业": [
@@ -99,18 +152,6 @@
       "tags": []
     },
     {
-      "id": "ec7a556a0d4d",
-      "title": "险企秋招抢人，AI与医养人才成香饽饽！平安放出700余个科技岗位 ...",
-      "url": "https://news.qq.com/rain/a/20260911A0DA6M00",
-      "summary": "保险行业新一年的秋招拉开序幕。 近期，中国平安（601318",
-      "source": "Bing·秋招",
-      "category": "就业",
-      "published": "2026-09-11T10:48:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/Oxkpxr7TJjLmMkX4VtyiIJK3CwL8f0eLHwC-l10Tb6aDwAA_640330/0",
-      "score": 60,
-      "tags": []
-    },
-    {
       "id": "6a54d80aa0a2",
       "title": "2026沈阳应届生央国企求职全景：吃透本地考情，突破求职信息壁垒",
       "url": "https://www.sohu.com/a/1074154309_122662554",
@@ -121,66 +162,17 @@
       "image": "//q5.itc.cn/images01/20260910/6433e3887b2d4f68a032607b79021bac.jpeg",
       "score": 60,
       "tags": []
-    }
-  ],
-  "政策": [
+    },
     {
-      "id": "029057c3bc72",
-      "title": "破解融资难、创业有兜底 湖南升级大学生创业扶持体系",
-      "url": "https://www.chinanews.com/sh/2026/09-10/10694161.shtml",
-      "summary": "中新网 长沙9月10日电 (记者 唐小晴)打造“创投咖啡馆”，为大学生创业项目资本对接搭建实体平台；企业遭遇注销、破产等创业失败情形，且满足社保缴纳要求的，最高可获2万元创业基础补偿、4万元带动就业补",
-      "source": "Bing·大学生创业扶持政策",
-      "category": "政策",
-      "published": "2026-09-10T12:04:00.000Z",
-      "image": "https://www.chinanews.com/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "id": "0d4d19cc7ba6",
+      "title": "LLM 应用研发工程师， AI 应用后端工程师（AI Agent 方向），\r\nAI 模型训练师 / AIGC 模型工程师",
+      "url": "https://www.v2ex.com/t/1241518#reply0",
+      "summary": "LLM 应用研发工程师， AI 应用后端工程师（AI Agent 方向），\r\nAI 模型训练师 / AIGC 模型工程师",
+      "source": "V2EX·招聘",
+      "category": "就业",
+      "published": "2026-09-12T04:29:00.000Z",
+      "image": "https://cdn.v2ex.com/avatar/4750/26af/669784_xlarge.png?m=1709200187",
       "score": 60,
-      "tags": []
-    },
-    {
-      "id": "3e1f77053a02",
-      "title": "图文实录丨湖南省财政金融协同支持大学生创业政策解读新闻发布会",
-      "url": "https://news.qq.com/rain/a/20260910A0CNAG00",
-      "summary": "新闻发布会现场。9月10日，湖南省政府新闻办在长沙召开湖南省财政金融协同支持大学生创业政策解读新闻发布会",
-      "source": "Bing·大学生就业政策",
-      "category": "政策",
-      "published": "2026-09-10T16:38:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/OlTsqcn0mJqFOCzdkV_KfemdWNK3wG8VqQODGhIpM8Ka0AA_640330/0",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "af723b228b52",
-      "title": "湖南出台“1+5”财政金融协同新政 全周期赋能大学生创新创业",
-      "url": "https://hunan.ifeng.com/c/8wJCZZSFTKU",
-      "summary": "2024年9月以来，湖南围绕支持大学生创业“七个一”行动，系统构建了全链条创业生态。数据显示，省大学生创业投资基金已投项目448个、金额约2",
-      "source": "Bing·大学生就业政策",
-      "category": "政策",
-      "published": "2026-09-10T10:15:00.000Z",
-      "image": "https://x0.ifengimg.com/ucms/2026_37/050FC999DEB4A77A1203866ED89FBEBFB064E76A_size132_w1706_h965.jpg",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "e70040853eba",
-      "title": "湖南出台“1+5”系列政策 全方位保障大学生创新创业",
-      "url": "https://hn.people.com.cn/n2/2026/0911/c336521-41693322.html",
-      "summary": "人民网长沙9月11日电 9月10日下午，湖南省财政金融协同支持大学生创业政策解读新闻发布会在长沙召开。会上宣布，湖南省财政厅联合省委金融办、省人力资源社会保障厅等部门，近期推出财政金融协同支持大学生创",
-      "source": "Bing·大学生创业扶持政策",
-      "category": "政策",
-      "published": "2026-09-10T17:00:00.000Z",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "701d7fbb8274",
-      "title": "掷地有声 | 湖南省财政金融协同支持大学生创业政策解读新闻发布会",
-      "url": "https://news.qq.com/rain/a/20260912A00PH100",
-      "summary": "权威发声，掷地有声。9月10日下午，省政府新闻办举行湖南省财政金融协同支持大学生创业政策解读新闻发布会",
-      "source": "Bing·大学生创业扶持政策",
-      "category": "政策",
-      "published": "2026-09-11T18:07:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/O_FjwFj_jv28_9jO_7__alpoRY3caITVnHSowfU8SBA-4AA_640330/0",
-      "score": 55,
       "tags": []
     }
   ],
@@ -246,6 +238,67 @@
       "tags": []
     }
   ],
+  "政策": [
+    {
+      "id": "e70040853eba",
+      "title": "湖南出台“1+5”系列政策 全方位保障大学生创新创业",
+      "url": "https://hn.people.com.cn/n2/2026/0911/c336521-41693322.html",
+      "summary": "人民网长沙9月11日电 9月10日下午，湖南省财政金融协同支持大学生创业政策解读新闻发布会在长沙召开。会上宣布，湖南省财政厅联合省委金融办、省人力资源社会保障厅等部门，近期推出财政金融协同支持大学生创",
+      "source": "Bing·大学生就业政策",
+      "category": "政策",
+      "published": "2026-09-10T17:00:00.000Z",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "e13066dd3166",
+      "title": "【红网】图文实录丨湖南省财政金融协同支持大学生创业政策解读 ...",
+      "url": "https://www.sohu.com/a/1074490576_121106908",
+      "summary": "9月10日，湖南省人民政府新闻办公室在长沙召开湖南省财政金融协同支持大学生创业政策解读新闻发布会。湖南省财政厅党组成员、副厅长欧涛作主发布",
+      "source": "Bing·大学生创业扶持政策",
+      "category": "政策",
+      "published": "2026-09-10T17:03:00.000Z",
+      "image": "//q2.itc.cn/q_70/images03/20260911/db46a33b1072419d85eee02d3ebbcf6e.png",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "af723b228b52",
+      "title": "湖南出台“1+5”财政金融协同新政 全周期赋能大学生创新创业",
+      "url": "https://hunan.ifeng.com/c/8wJCZZSFTKU",
+      "summary": "2024年9月以来，湖南围绕支持大学生创业“七个一”行动，系统构建了全链条创业生态。数据显示，省大学生创业投资基金已投项目448个、金额约2",
+      "source": "Bing·大学生创业扶持政策",
+      "category": "政策",
+      "published": "2026-09-10T10:15:00.000Z",
+      "image": "https://x0.ifengimg.com/ucms/2026_37/050FC999DEB4A77A1203866ED89FBEBFB064E76A_size132_w1706_h965.jpg",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "10a5ca208475",
+      "title": "甘肃人社系统奋斗者讲述实干故事 赋能民生保障与就业创业",
+      "url": "https://finance.sina.com.cn/wm/2026-09-11/doc-inirmruc2126956.shtml",
+      "summary": "家政领域创业带头人杨济璠深耕家政行业规范化、职业化发展，创新推出青年创业“陪跑计划”，构建全周期孵化帮扶体系，积极开展跨境家政技能培训，以标准化建设、品牌化运营带动家政服务行业提质扩容、规范发展，目前",
+      "source": "Bing·人社部就业创业政策",
+      "category": "政策",
+      "published": "2026-09-11T05:28:00.000Z",
+      "image": "//n.sinaimg.cn/sinakd20260911s/626/w1000h426/20260911/b3af-ff952dcd8e44b738981e43ac7bda324b.jpg",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "e6fcc779c3a9",
+      "title": "新增25966户！湖南成大学生创业“优选地”",
+      "url": "https://finance.sina.com.cn/wm/2026-09-10/doc-iniritau7707551.shtml",
+      "summary": "两年前，湖南省委书记沈晓明在互联网岳麓峰会上提出支持大学生创业“七个一”行动。 从顶层设计的构想，到覆盖政策、资本、孵化、教育、服务、宣传的全链条生态，湖南用两年时间，把大学生创业从“单点扶持”推向“",
+      "source": "Bing·大学生创业扶持政策",
+      "category": "政策",
+      "published": "2026-09-10T02:35:00.000Z",
+      "image": "//n.sinaimg.cn/front20260910ac/155/w1231h524/20260910/2844-9b08d2105f21ddd464b97e368ee02000.jpg",
+      "score": 50,
+      "tags": []
+    }
+  ],
   "开发": [
     {
       "id": "b674a5158ce9",
@@ -260,6 +313,33 @@
       "tags": []
     },
     {
+      "id": "29f0b681607d",
+      "title": "Go 要从服务器杀进单片机？TinyGo 同时押注 UEFI、Wasm 和无线通信",
+      "url": "https://www.infoq.cn/article/d4hdvQuOU1sbCZESvw4j?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-16T15:32:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/71/cb/71d25ff7bec5c8fa1db603ab0d7eb1cb.jpg"
+    },
+    {
+      "id": "747fe00d05cd",
+      "title": "模型再强，为什么 Demo 还是进不了生产？",
+      "url": "https://www.infoq.cn/article/j2kBZR1JiZxATpU7gjtS?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-16T14:45:55.000Z",
+      "image": "https://static001.infoq.cn/resource/image/0d/f5/0d16def8ffaf3ab1ebc61f657c662df5.jpg"
+    },
+    {
+      "id": "a9333041f3b4",
+      "title": "自主团队被捧过头了？Simon Rohrer 直言：你们交付的根本不是产品",
+      "url": "https://www.infoq.cn/article/zZ1VxUIIPts70RtVpGhB?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-16T13:23:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/ff/29/ff48beeb9f71ee3f147075dacbcc8e29.jpg"
+    },
+    {
       "id": "8f5da214617e",
       "title": "Java新闻汇总：Simple JSON API、GlassFish、Jakarta EE、JNoSQL和Open Liberty、LangChain4j",
       "url": "https://www.infoq.cn/article/BAafGhU4GTtbxrRrSEPW?utm_source=rss&amp;utm_medium=article",
@@ -267,126 +347,52 @@
       "category": "开发",
       "published": "2026-09-16T11:06:00.000Z",
       "image": "https://static001.infoq.cn/resource/image/26/19/262ec84fa95e70e780964807d6yy5719.jpg"
-    },
-    {
-      "id": "7e27f4b0b244",
-      "title": "从接住告警到自我进化：快手智能运维助手实践｜QCon上海",
-      "url": "https://www.infoq.cn/article/keHKo56wrachdtEhekUD?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-16T10:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/ee/e3/ee5ff7082419a663f6a74771f08a47e3.jpg"
-    },
-    {
-      "id": "ec0e34ee1938",
-      "title": "Cloudflare将每天90亿次请求的JavaScript CDN迁移到其开发者平台",
-      "url": "https://www.infoq.cn/article/J5iJdjq6bIeRZHZF8fXO?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-16T09:10:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/db/ba/dbdb671dc3c8eea93d66e26bda1540ba.jpg"
-    },
-    {
-      "id": "f0db0ccc0292",
-      "title": "129亿美元卖身英伟达之后，是时候重新理解Hugging Face了",
-      "url": "https://www.infoq.cn/article/foEzSr8xfG0STQ1wgbti?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-16T08:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/c9/de/c9eb01bd4b6492e67529c73f2e489ede.png"
-    }
-  ],
-  "科技": [
-    {
-      "id": "837180ecd6ea",
-      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
-      "url": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-15T18:29:20.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-462843546.jpg?resize=1200,800"
-    },
-    {
-      "id": "9ab3bf14d7fc",
-      "title": "SpaceX will try to put Starship in orbit for the first time on September 22",
-      "url": "https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-15T18:16:07.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2240506392.jpg?resize=1200,800"
-    },
-    {
-      "id": "1e9eb8a1b0c0",
-      "title": "AI agents now have a place to snitch",
-      "url": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-15T17:42:59.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1609818039.jpg?resize=1200,814"
-    },
-    {
-      "id": "3df8c7773b16",
-      "title": "US military says it has launched weapons into space",
-      "url": "https://techcrunch.com/2026/09/15/us-military-confirms-it-launched-space-weapons-into-earths-orbit/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-15T17:09:06.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/space-classified-weapon-2229121882.jpg?w=1024"
-    },
-    {
-      "id": "5e497c447da8",
-      "title": "Meta expands subscription push with new AI-focused plans",
-      "url": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-15T17:05:24.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024"
     }
   ],
   "财经": [
     {
-      "id": "9cf18b101f37",
-      "title": "1至8月全国铁路完成固定资产投资5118亿元",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-16/10697322.shtml",
+      "id": "ee61c17fcaad",
+      "title": "中国是全球“隐形冠军”的增量引擎（读懂中国·读懂中国式现代化）",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-16/10697616.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-16T03:28:50.000Z",
+      "published": "2026-09-16T08:43:01.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "6d1c7c133dee",
-      "title": "1至8月我国乡村建设已落实项目资金超1300亿元",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-16/10697352.shtml",
+      "id": "138b2003704e",
+      "title": "从8月数据看中国经济四个转变",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-16/10697602.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-16T03:28:28.000Z",
+      "published": "2026-09-16T08:26:58.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "57a2a556ab66",
-      "title": "（经济观察）两种“打法”撑起中国“算力第一县”",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-16/10697345.shtml",
+      "id": "b2618953a1bb",
+      "title": "四川打出“加减乘除”组合拳促内需 已惠及市场主体超340万户次",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-16/10697576.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-16T03:27:35.000Z",
+      "published": "2026-09-16T08:16:32.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "11e9da3eb6a3",
-      "title": "中国经济圆桌会丨专家：多方发力保障新就业群体合法权益",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-16/10697346.shtml",
+      "id": "c236b8ee056f",
+      "title": "A股收评：超4100只个股飘红，三大指数集体收涨，科创50涨超4%",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-16/10697581.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-16T03:26:03.000Z",
+      "published": "2026-09-16T08:11:36.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "0d742af1500c",
-      "title": "中国经济圆桌会丨骑手：我感到被看见、被尊重、被认可",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-16/10697342.shtml",
+      "id": "56496ed0c89c",
+      "title": "先进制造业向强突围",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-16/10697580.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-16T03:24:27.000Z",
+      "published": "2026-09-16T08:11:24.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
