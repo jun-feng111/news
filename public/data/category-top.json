@@ -1,114 +1,117 @@
 {
   "AI": [
     {
-      "id": "766bd696566c",
-      "title": "Former Infosys chief&#8217;s AI startup nabs another $53M",
-      "url": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
-      "summary": "Former Infosys chief&#8217;s AI startup nabs another $53M",
-      "source": "TechCrunch",
+      "id": "827397d1d260",
+      "title": "ChatGPT pioneer launches Jev model for programmatic logic",
+      "url": "https://www.artificialintelligence-news.com/news/chatgpt-pioneer-launches-jev-model-for-programmatic-logic/",
+      "summary": "TypeSafe, founded by a ChatGPT co-inventor, has left stealth and is launching its Jev model to autom",
+      "source": "AI News",
       "category": "AI",
-      "published": "2026-09-16T13:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/vishal-sikka.jpg?resize=1200,800",
+      "published": "2026-09-16T10:31:09.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/diogo-almeida-typesafe-ai-jev-model-chatgpt-openai-parallel-sampling-programmatic-logic.jpg",
+      "score": 90,
+      "tags": []
+    },
+    {
+      "id": "2bd2b9c337d2",
+      "title": "Microsoft AI CEO criticises Anthropic over model ‘rights’",
+      "url": "https://www.artificialintelligence-news.com/news/microsoft-ai-ceo-criticises-anthropic-over-model-rights/",
+      "summary": "Microsoft AI CEO Mustafa Suleyman warned that Anthropic risks AI alignment failures by training Clau",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-09-16T14:47:32.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/microsoft-AI-CEO-mustafa-suleyman-Anthropic-model-rights-artificial-intelligence.jpg",
       "score": 80,
       "tags": []
     },
     {
-      "id": "7fcaf18dd68b",
-      "title": "Amazon gives its workers a raise of $1 per hour",
-      "url": "https://techcrunch.com/2026/09/16/amazon-gives-its-workers-a-raise-of-1-per-hour/",
-      "summary": "Amazon gives its workers a raise of $1 per hour",
+      "id": "eb823604160e",
+      "title": "Your AI agents can now control your Google Home devices",
+      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+      "summary": "Your AI agents can now control your Google Home devices",
       "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-09-16T14:32:08.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2248802889.jpg?resize=1200,800",
-      "score": 75,
+      "published": "2026-09-16T17:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Google-Home-Speaker-Multi.png?resize=1200,755",
+      "score": 80,
       "tags": []
     },
     {
-      "id": "f5e80ecad197",
-      "title": "The AI data center boom is colliding with cities scarred by big industry",
-      "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
-      "summary": "The AI data center boom is colliding with cities scarred by big industry",
+      "id": "0cc4dbe3a576",
+      "title": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly",
+      "url": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/",
+      "summary": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly",
       "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-09-15T21:47:38.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/3-DSCF1625.jpg?resize=1200,800",
-      "score": 75,
+      "published": "2026-09-16T16:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Fortell-Cofounders-Window2-Landscape-6000x3375-1.png?resize=1200,675",
+      "score": 80,
       "tags": []
     },
     {
-      "id": "6a5d552d9722",
-      "title": "We don&#8217;t need AI regulation — leave safety to us, Nvidia&#8217;s Jensen Huang says",
-      "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-      "summary": "We don&#8217;t need AI regulation — leave safety to us, Nvidia&#8217;s Jensen Huang says",
+      "id": "b4b0475ed0c8",
+      "title": "Anthropic merges Claude chat and Cowork in one interface",
+      "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+      "summary": "Anthropic merges Claude chat and Cowork in one interface",
       "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-09-16T00:20:39.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
-      "score": 65,
+      "published": "2026-09-16T16:30:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Claude-1920x1080-1.jpeg?resize=1200,675",
+      "score": 75,
       "tags": []
     }
   ],
   "科技": [
     {
-      "id": "5960227fd9e8",
-      "title": "Amazon launches Alexa+ in India with Hindi support",
-      "url": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
-      "summary": "Amazon launches Alexa+ in India with Hindi support",
+      "id": "9d31ec9945b7",
+      "title": "Hackers publish thousands of drivers&#8217; data after breaching Florida motor vehicle database",
+      "url": "https://techcrunch.com/2026/09/16/hackers-publish-thousands-of-drivers-data-after-breaching-florida-motor-vehicle-database/",
+      "summary": "Hackers publish thousands of drivers&#8217; data after breaching Florida motor vehicle database",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-09-16T10:34:47.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/08/alexa-logo-1600x900-1.jpg?resize=1200,675",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "aaf419178d57",
-      "title": "Threads&#8217; new features let podcasters promote shows and reach listeners",
-      "url": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
-      "summary": "Threads&#8217; new features let podcasters promote shows and reach listeners",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-16T14:24:58.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Threads-podcast-feat.jpg?resize=1200,675",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "a99bbac1fc26",
-      "title": "SK Hynix reportedly in talks with Intel to build memory chips in US",
-      "url": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
-      "summary": "SK Hynix reportedly in talks with Intel to build memory chips in US",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-16T13:23:02.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/SK-Hynix.jpg?resize=1200,675",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "ceaecec61f43",
-      "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
-      "url": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/",
-      "summary": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-16T14:15:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
+      "published": "2026-09-16T18:00:54.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2159359986.jpg?resize=1200,800",
       "score": 65,
       "tags": []
     },
     {
-      "id": "6f2fab3648b1",
-      "title": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
-      "summary": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 20",
+      "id": "e61548758e35",
+      "title": "Hear why Neuralink co-founder Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/16/hear-why-neuralink-co-founder-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/",
+      "summary": "Hear why Neuralink co-founder Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-09-16T14:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2016/10/23584287926_9ad6b13311_k.jpg?resize=1200,800",
+      "published": "2026-09-16T16:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Max-Hodak_1-Speaker-16x9-Dark.png?resize=1200,675",
       "score": 65,
       "tags": []
+    },
+    {
+      "id": "f3ae6baa1f76",
+      "title": "May Mobility is going public in a $1.4B SPAC deal",
+      "url": "https://techcrunch.com/2026/09/16/may-mobility-is-going-public-in-a-1-4b-spac-deal/",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-16T15:27:13.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/05/May_Uber-copy.jpg?resize=1200,800"
+    },
+    {
+      "id": "79a042e1b1c0",
+      "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-16T15:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-AI-Stage.jpg?resize=1200,800"
+    },
+    {
+      "id": "5ad7c1bded64",
+      "title": "Google says some Pixel phone owners were hacked in zero-day attacks",
+      "url": "https://techcrunch.com/2026/09/16/google-says-some-pixel-phone-owners-were-hacked-in-zero-day-attacks/",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-16T14:47:07.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/08/IMG_3163.jpg?resize=1200,684"
     }
   ],
   "就业": [
@@ -222,15 +225,15 @@
       "tags": []
     },
     {
-      "id": "b492272f7793",
-      "title": "送政策、优服务、促就业！就业政策宣传活动全面开展",
-      "url": "https://news.qq.com/rain/a/20260914A0B23K00",
-      "summary": "近日，人力资源社会保障部办公厅印发通知，定于2026年9月在全国开展就业政策宣传月活动。活动内容有哪些",
-      "source": "Bing·人社部就业创业政策",
+      "id": "ed0822808f9b",
+      "title": "温州发布专项政策指南 为残疾人大学生就业创业“撑腰”",
+      "url": "https://news.66wz.com/system/2026/07/16/105805829.shtml",
+      "summary": "市人社局与市残联携手对现行最实用、最优惠的就创业补贴政策进行全面梳理，并形成《温州市残疾人大学生就业创业政策指南》，助力这一特殊群体跨越障碍，实现更加充分、更高质量的就业和创业。 温州网讯 为支持更多",
+      "source": "就业创业政策",
       "category": "政策",
-      "published": "2026-09-14T10:01:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/OTokwYVn3bstR-Ecgs_p0WCFhSrHToBXslFRM33Qmp_MUAA_640330/0",
-      "score": 50,
+      "published": "2026-07-16T01:51:00.000Z",
+      "image": "https://news.66wz.com/pic/003/013/337/00301333742_93765919.gif",
+      "score": 55,
       "tags": []
     }
   ],
@@ -348,6 +351,24 @@
   ],
   "财经": [
     {
+      "id": "45a42079ce53",
+      "title": "中国四部门：2030年农业保险体系总体达到国际先进水平",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-16/10697945.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-09-16T15:55:18.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "99072eba4988",
+      "title": "中方在世贸组织公共论坛深入探讨产业政策作用与影响",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-16/10697944.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-09-16T15:41:50.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
       "id": "3249880a27e2",
       "title": "专家称，平陆运河通航将提升中国铝产业国际竞争力",
       "url": "https://www.chinanews.com.cn/cj/2026/09-16/10697923.shtml",
@@ -372,24 +393,6 @@
       "source": "中新网财经",
       "category": "财经",
       "published": "2026-09-16T13:35:26.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "02bb3c0d86b7",
-      "title": "“2026投资中国·选择陕西”临港产业合作交流会举办",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-16/10697904.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-09-16T13:34:34.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "9a83f8ae643a",
-      "title": "“状元+杏花鸡”IP赋能 广佛肇封开服务区焕新启用",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-16/10697899.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-09-16T13:31:32.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
