@@ -1,18 +1,18 @@
 {
-  "updated": "2026-09-16T09:08:53.132Z",
-  "count": 122,
+  "updated": "2026-09-16T14:40:42.592Z",
+  "count": 119,
   "sources": {
-    "V2EX": 8,
+    "V2EX": 7,
     "RemoteOK": 99,
-    "Remotive": 15,
+    "Remotive": 13,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
   "jobs": [
     {
-      "id": "v2ex-1242437",
-      "title": "昨天面试了一家公司，刷新了我的认知。",
-      "company": "wobuchiyu",
+      "id": "v2ex-1242528",
+      "title": "诚意找熟悉 excl access 开发一个工厂流程进销存，兼职，不是全职。价格好商量。 微小型的企业. 绿泡泡： MTg2MDMxOTk4NjU=",
+      "company": "laogoulucky",
       "location": "国内",
       "remote": false,
       "salaryText": "",
@@ -22,7 +22,52 @@
       "skills": [],
       "category": "其他",
       "postedDate": "2026-09-16",
-      "url": "https://www.v2ex.com/t/1242437",
+      "url": "https://www.v2ex.com/t/1242528",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1242525",
+      "title": "高级安全攻防工程师（管理经验优先）-Remote/35k-70k",
+      "company": "wangluowangwang",
+      "location": "国内",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "java",
+        "go",
+        "linux",
+        "redis",
+        "mongodb",
+        "php"
+      ],
+      "category": "其他",
+      "postedDate": "2026-09-16",
+      "url": "https://www.v2ex.com/t/1242525",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1242493",
+      "title": "remote 前端工程师 20-40k",
+      "company": "andyxinweimin",
+      "location": "国内",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "java",
+        "flutter",
+        "kotlin"
+      ],
+      "category": "前端",
+      "postedDate": "2026-09-16",
+      "url": "https://www.v2ex.com/t/1242493",
       "source": "V2EX",
       "region": "domestic"
     },
@@ -121,67 +166,6 @@
       "region": "domestic"
     },
     {
-      "id": "v2ex-1242352",
-      "title": "各位老哥 Gap 了 3 年目前前端面试大概问什么，还问 box 闭包 vue 的 mvvm 原理吗？",
-      "company": "lowfrontend",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "vue"
-      ],
-      "category": "前端",
-      "postedDate": "2026-09-16",
-      "url": "https://www.v2ex.com/t/1242352",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1242340",
-      "title": "继续招聘，欢迎投递~ [社招-深圳、北京] 交易结算系统研发工程师",
-      "company": "taoeaten",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "TOP1 券商",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "skills": [
-        "java",
-        "mysql",
-        "redis",
-        "elasticsearch"
-      ],
-      "category": "人力/HR",
-      "postedDate": "2026-09-16",
-      "url": "https://www.v2ex.com/t/1242340",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1242310",
-      "title": "坐标：北京-鸟巢附近 招聘 Java 后端/安卓/ios/产品各一人",
-      "company": "wangzhi",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "java",
-        "spring"
-      ],
-      "category": "后端",
-      "postedDate": "2026-09-16",
-      "url": "https://www.v2ex.com/t/1242310",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
       "id": "remoteok-1137394",
       "title": "Sr Solutions Architect",
       "company": "ExtraHop",
@@ -268,6 +252,36 @@
       "postedDate": "2026-09-14",
       "url": "https://remoteOK.com/remote-jobs/remote-customer-experience-representative-prop-firm-match-global-fzco-1137390",
       "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remotive-2069746",
+      "title": "Tech Lead Full-Stack Rails Engineer",
+      "company": "Mitre Media",
+      "location": "USA, Canada, USA timezones",
+      "remote": true,
+      "salaryText": "$170k - $200k",
+      "salaryMin": 170000,
+      "salaryMax": 200000,
+      "salaryCurrency": "USD",
+      "skills": [
+        "api",
+        "CSS",
+        "docker",
+        "elasticsearch",
+        "fullstack",
+        "html",
+        "javascript",
+        "kubernetes",
+        "postgresql",
+        "react",
+        "ror",
+        "ruby/rails"
+      ],
+      "category": "Software Development",
+      "postedDate": "2026-09-14",
+      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+      "source": "Remotive",
       "region": "foreign"
     },
     {
@@ -1707,55 +1721,6 @@
       "region": "foreign"
     },
     {
-      "id": "remotive-1919266",
-      "title": "Senior Independent AI Engineer / Architect",
-      "company": "A.Team",
-      "location": "Americas, Europe, Israel",
-      "remote": true,
-      "salaryText": "$120 - $170 /hour",
-      "salaryMin": 120,
-      "salaryMax": 170,
-      "salaryCurrency": "USD",
-      "skills": [
-        "go",
-        "UI/UX",
-        "wordpress",
-        "chat",
-        "apple",
-        "testing",
-        "catalyst"
-      ],
-      "category": "Software Development",
-      "postedDate": "2026-08-16",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
-      "source": "Remotive",
-      "region": "foreign"
-    },
-    {
-      "id": "remotive-1919265",
-      "title": "Senior Independent Software Developer",
-      "company": "A.Team",
-      "location": "Americas, Europe, Israel",
-      "remote": true,
-      "salaryText": "$90 - $150 /hour",
-      "salaryMin": 90,
-      "salaryMax": 150,
-      "salaryCurrency": "USD",
-      "skills": [
-        "go",
-        "wordpress",
-        "chat",
-        "apple",
-        "testing",
-        "catalyst"
-      ],
-      "category": "Software Development",
-      "postedDate": "2026-08-16",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-independent-software-developer-1919265",
-      "source": "Remotive",
-      "region": "foreign"
-    },
-    {
       "id": "remoteok-1136701",
       "title": "QA Tester Entry Level",
       "company": "Ace IT Careers",
@@ -1776,35 +1741,6 @@
       "postedDate": "2026-08-15",
       "url": "https://remoteOK.com/remote-jobs/remote-qa-tester-entry-level-ace-it-careers-1136701",
       "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remotive-2091068",
-      "title": "Head of Marketing & Communications",
-      "company": "garden3d",
-      "location": "Worldwide",
-      "remote": true,
-      "salaryText": "$150k - $230k",
-      "salaryMin": 150000,
-      "salaryMax": 230000,
-      "salaryCurrency": "USD",
-      "skills": [
-        "C",
-        "video",
-        "open source",
-        "AI/ML",
-        "Figma",
-        "project management",
-        "editing",
-        "IoT",
-        "testing",
-        "themes",
-        "mobile development"
-      ],
-      "category": "Marketing",
-      "postedDate": "2026-08-15",
-      "url": "https://remotive.com/remote-jobs/marketing/head-of-marketing-communications-2091068",
-      "source": "Remotive",
       "region": "foreign"
     },
     {
