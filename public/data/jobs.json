@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T16:25:07.818Z",
+  "updated": "2026-09-17T20:03:39.108Z",
   "count": 122,
   "sources": {
     "V2EX": 8,
@@ -162,6 +162,27 @@
       "url": "https://www.v2ex.com/t/1242493",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "remoteok-1137400",
+      "title": "Golang Kubernetes Engineer",
+      "company": "Arango",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "golang",
+        "golang",
+        "engineer"
+      ],
+      "category": "golang",
+      "postedDate": "2026-09-16",
+      "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137399",
@@ -3208,36 +3229,6 @@
       "category": "testing",
       "postedDate": "2026-07-28",
       "url": "https://remoteOK.com/remote-jobs/remote-product-manager-new-york-chicago-charlotte-oula-1135672",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1135673",
-      "title": "Junior Data Analyst",
-      "company": "HiredBuddy",
-      "location": "California, California, United States",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "testing",
-        "education",
-        "exec",
-        "content writing",
-        "marketing",
-        "part time",
-        "design",
-        "technical",
-        "coordinator",
-        "customer support",
-        "travel",
-        "microsoft"
-      ],
-      "category": "testing",
-      "postedDate": "2026-07-28",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-data-analyst-hiredbuddy-1135673",
       "source": "RemoteOK",
       "region": "foreign"
     }
