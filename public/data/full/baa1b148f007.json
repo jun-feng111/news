@@ -1,0 +1,7 @@
+{
+  "id": "baa1b148f007",
+  "title": "图论：LCA、树的直径、树的重心、二分图与 Tarjan 缩点 - lvwangshu",
+  "url": "https://www.cnblogs.com/lvwangshuOI/p/23017314",
+  "contentZh": "",
+  "contentFull": "图论：LCA、树的直径、树的重心、二分图与 Tarjan 缩点 一、最近公共祖先（LCA） 给定一棵有根树，若节点 \\(z\\) 既是节点 \\(x\\) 的祖先，也是节点 \\(y\\) 的祖先，则称 \\(z\\) 是 \\(x, y\\) 的公共祖先。在 \\(x, y\\) 的所有公共祖先中，深度最大的一个称为"
+}
