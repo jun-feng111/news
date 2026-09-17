@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T21:58:25.882Z",
+  "updated": "2026-09-17T00:10:36.716Z",
   "count": 119,
   "sources": {
     "V2EX": 7,
@@ -164,6 +164,36 @@
       "url": "https://www.v2ex.com/t/1242381",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "remoteok-1137396",
+      "title": "Principal Product Manager",
+      "company": "DomainTools",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "product manager",
+        "exec",
+        "infosec",
+        "marketing",
+        "design",
+        "web dev",
+        "scrum",
+        "cloud",
+        "api",
+        "stats",
+        "sales",
+        "engineer"
+      ],
+      "category": "product manager",
+      "postedDate": "2026-09-16",
+      "url": "https://remoteOK.com/remote-jobs/remote-principal-product-manager-domaintools-1137396",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137394",
@@ -3171,36 +3201,6 @@
       "category": "testing",
       "postedDate": "2026-07-28",
       "url": "https://remoteOK.com/remote-jobs/remote-product-manager-new-york-chicago-charlotte-oula-1135672",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1135673",
-      "title": "Junior Data Analyst",
-      "company": "HiredBuddy",
-      "location": "California, California, United States",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "testing",
-        "education",
-        "exec",
-        "content writing",
-        "marketing",
-        "part time",
-        "design",
-        "technical",
-        "coordinator",
-        "customer support",
-        "travel",
-        "microsoft"
-      ],
-      "category": "testing",
-      "postedDate": "2026-07-28",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-data-analyst-hiredbuddy-1135673",
       "source": "RemoteOK",
       "region": "foreign"
     }
