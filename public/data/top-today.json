@@ -1,5 +1,17 @@
 [
   {
+    "id": "4215f02f410f",
+    "title": "Adecco Group rolls out Agentforce Coworker to 27,000 staff in 40-plus countries",
+    "url": "https://www.artificialintelligence-news.com/news/agentforce-coworker-adecco-group-rollout/",
+    "summary": "The Adecco Group is rolling out Salesforce&#8217;s Agentforce Coworker across more than 40 countries",
+    "source": "AI News",
+    "category": "AI",
+    "published": "2026-09-17T11:00:00.000Z",
+    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/Screenshot-2026-09-17-at-4.41.42-PM-1024x568.png",
+    "score": 85,
+    "tags": []
+  },
+  {
     "id": "827397d1d260",
     "title": "ChatGPT pioneer launches Jev model for programmatic logic",
     "url": "https://www.artificialintelligence-news.com/news/chatgpt-pioneer-launches-jev-model-for-programmatic-logic/",
@@ -8,7 +20,31 @@
     "category": "AI",
     "published": "2026-09-16T10:31:09.000Z",
     "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/diogo-almeida-typesafe-ai-jev-model-chatgpt-openai-parallel-sampling-programmatic-logic.jpg",
-    "score": 90,
+    "score": 85,
+    "tags": []
+  },
+  {
+    "id": "e8218a81558e",
+    "title": "Lidl deploys driverless truck for store deliveries in Germany",
+    "url": "https://www.artificialintelligence-news.com/news/lidl-autonomous-truck-germany/",
+    "summary": "Lidl has started using a cab-less autonomous electric truck for regular store deliveries in Germany,",
+    "source": "AI News",
+    "category": "AI",
+    "published": "2026-09-17T10:00:00.000Z",
+    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/Lidl-deploys-driverless-truck-for-store-deliveries-in-Germany-scaled-e1789600851208.jpg",
+    "score": 80,
+    "tags": []
+  },
+  {
+    "id": "3177aa668ffd",
+    "title": "Comp AI sets eyes on a continuously agentic future for security and compliance",
+    "url": "https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/",
+    "summary": "Comp AI sets eyes on a continuously agentic future for security and compliance",
+    "source": "TechCrunch",
+    "category": "AI",
+    "published": "2026-09-17T11:00:00.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Comp-AI-Team-Photo.jpeg?resize=1200,656",
+    "score": 80,
     "tags": []
   },
   {
@@ -20,30 +56,6 @@
     "category": "AI",
     "published": "2026-09-16T14:47:32.000Z",
     "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/microsoft-AI-CEO-mustafa-suleyman-Anthropic-model-rights-artificial-intelligence.jpg",
-    "score": 75,
-    "tags": []
-  },
-  {
-    "id": "4f879da66298",
-    "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
-    "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
-    "summary": "Iceland-based Treble raises $18 million for its voice simulation platform",
-    "source": "TechCrunch",
-    "category": "AI",
-    "published": "2026-09-17T05:00:00.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Treble-Physical-AI-PR-image_no-brand-1.jpeg?resize=1200,670",
-    "score": 75,
-    "tags": []
-  },
-  {
-    "id": "92088bb9d257",
-    "title": "Snap tries to make the case again for its $2,200 smart glasses",
-    "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
-    "summary": "Snap tries to make the case again for its $2,200 smart glasses",
-    "source": "TechCrunch",
-    "category": "AI",
-    "published": "2026-09-17T00:58:49.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/SPECS26_Home-Menu.png?resize=1200,675",
     "score": 75,
     "tags": []
   },
@@ -60,38 +72,26 @@
     "tags": []
   },
   {
-    "id": "4c7331160914",
-    "title": "Pony.ai unveils autonomous electric truck for logistics fleets",
-    "url": "https://www.artificialintelligence-news.com/news/pony-ai-autonomous-electric-truck-for-logistics-fleets/",
-    "summary": "ai has unveiled an autonomous electric truck for logistics fleets, developed with GAC Commercial Veh",
-    "source": "AI News",
-    "category": "AI",
-    "published": "2026-09-15T11:15:57.000Z",
-    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/pony.ai-autonomous-electric-truck-for-logistics-fleets-supply-chains-ai-self-driving-vehicles.jpg",
-    "score": 70,
-    "tags": []
-  },
-  {
-    "id": "ea3c695fe745",
-    "title": "The AI Talent Britain Fought to Hire May Be Recalculating Its Future",
-    "url": "https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/",
-    "summary": "A proposed overhaul of UK settlement rules would double the wait for permanent residence, and it rea",
-    "source": "AI News",
-    "category": "AI",
-    "published": "2026-09-15T07:14:47.000Z",
-    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/thisisengineering-ZPeXrWxOjRQ-unsplash-scaled.jpg",
-    "score": 70,
-    "tags": []
-  },
-  {
-    "id": "b7c7d891caa0",
-    "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-    "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
-    "summary": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what ",
+    "id": "4f879da66298",
+    "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+    "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+    "summary": "Iceland-based Treble raises $18 million for its voice simulation platform",
     "source": "TechCrunch",
     "category": "AI",
-    "published": "2026-09-17T03:30:00.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Disrupt-2025-Builders-Stage-Crowd.png?resize=1200,800",
+    "published": "2026-09-17T05:00:00.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Treble-Physical-AI-PR-image_no-brand-1.jpeg?resize=1200,670",
+    "score": 70,
+    "tags": []
+  },
+  {
+    "id": "92088bb9d257",
+    "title": "Snap tries to make the case again for its $2,200 smart glasses",
+    "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+    "summary": "Snap tries to make the case again for its $2,200 smart glasses",
+    "source": "TechCrunch",
+    "category": "AI",
+    "published": "2026-09-17T00:58:49.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/SPECS26_Home-Menu.png?resize=1200,675",
     "score": 70,
     "tags": []
   },
@@ -108,15 +108,15 @@
     "tags": []
   },
   {
-    "id": "2fbe7b1e3941",
-    "title": "US automakers could soon be forced to include AM radio for free",
-    "url": "https://techcrunch.com/2026/09/16/us-automakers-could-soon-be-forced-to-include-am-radio-for-free/",
-    "summary": "US automakers could soon be forced to include AM radio for free",
+    "id": "b7c7d891caa0",
+    "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+    "summary": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what ",
     "source": "TechCrunch",
-    "category": "科技",
-    "published": "2026-09-16T22:37:08.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/am-radio-getty.jpg?resize=1200,801",
-    "score": 70,
+    "category": "AI",
+    "published": "2026-09-17T03:30:00.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Disrupt-2025-Builders-Stage-Crowd.png?resize=1200,800",
+    "score": 65,
     "tags": []
   }
 ]

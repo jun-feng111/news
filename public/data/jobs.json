@@ -1,14 +1,75 @@
 {
-  "updated": "2026-09-17T05:49:56.396Z",
-  "count": 119,
+  "updated": "2026-09-17T11:06:42.570Z",
+  "count": 120,
   "sources": {
-    "V2EX": 7,
+    "V2EX": 8,
     "RemoteOK": 99,
     "Remotive": 13,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1242765",
+      "title": "深庭纪 Sentigent 热招： AI 部署工具链 / 强化算法 / 机器人控制 / 移动端 / 工业设计",
+      "company": "dongliangnerd",
+      "location": "苏州",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [],
+      "category": "算法/AI",
+      "postedDate": "2026-09-17",
+      "url": "https://www.v2ex.com/t/1242765",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1242751",
+      "title": "搜狐大模型算法工程师招聘",
+      "company": "gongfuxiongmao",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "python",
+        "go",
+        "c++",
+        "pytorch"
+      ],
+      "category": "算法/AI",
+      "postedDate": "2026-09-17",
+      "url": "https://www.v2ex.com/t/1242751",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1242732",
+      "title": "remote 测试工程师 15K-22K",
+      "company": "andyxinweimin",
+      "location": "国内",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "python",
+        "linux",
+        "mysql",
+        "redis"
+      ],
+      "category": "测试",
+      "postedDate": "2026-09-17",
+      "url": "https://www.v2ex.com/t/1242732",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1242664",
       "title": "做广告联盟的看过来，脚本怎么写？",
@@ -103,46 +164,25 @@
       "region": "domestic"
     },
     {
-      "id": "v2ex-1242340",
-      "title": "继续招聘，欢迎投递~ [社招-深圳、北京] 交易结算系统研发工程师",
-      "company": "taoeaten",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "TOP1 券商",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "USD",
-      "skills": [
-        "java",
-        "mysql",
-        "redis",
-        "elasticsearch"
-      ],
-      "category": "人力/HR",
-      "postedDate": "2026-09-16",
-      "url": "https://www.v2ex.com/t/1242340",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1242310",
-      "title": "坐标：北京-鸟巢附近 招聘 Java 后端/安卓/ios/产品各一人",
-      "company": "wangzhi",
-      "location": "国内",
-      "remote": false,
+      "id": "remoteok-1137398",
+      "title": "AI Trainer Image QA Evaluator",
+      "company": "iMerit Technology",
+      "location": "Remote",
+      "remote": true,
       "salaryText": "",
       "salaryMin": null,
       "salaryMax": null,
-      "salaryCurrency": "CNY",
+      "salaryCurrency": "",
       "skills": [
-        "java",
-        "spring"
+        "ai",
+        "data annotation",
+        "quality assurance"
       ],
-      "category": "后端",
+      "category": "ai",
       "postedDate": "2026-09-16",
-      "url": "https://www.v2ex.com/t/1242310",
-      "source": "V2EX",
-      "region": "domestic"
+      "url": "https://remoteOK.com/remote-jobs/remote-ai-trainer-image-qa-evaluator-imerit-technology-1137398",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137396",
@@ -3152,36 +3192,6 @@
       "category": "virtual assistant",
       "postedDate": "2026-07-28",
       "url": "https://remoteOK.com/remote-jobs/remote-healthcare-virtual-assistant-registered-nurse-snapscale-1135684",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1135611",
-      "title": "Area Sales Manager",
-      "company": "ROAR Organic",
-      "location": "New York City Metropolitan Area",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "design",
-        "music",
-        "technical",
-        "travel",
-        "speech",
-        "video",
-        "exec",
-        "content writing",
-        "medical",
-        "engineer",
-        "digital nomad",
-        "sys admin"
-      ],
-      "category": "design",
-      "postedDate": "2026-07-28",
-      "url": "https://remoteOK.com/remote-jobs/remote-area-sales-manager-roar-organic-1135611",
       "source": "RemoteOK",
       "region": "foreign"
     }
