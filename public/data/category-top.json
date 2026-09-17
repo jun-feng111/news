@@ -1,67 +1,29 @@
 {
-  "AI": [
+  "科技": [
     {
-      "id": "827397d1d260",
-      "title": "ChatGPT pioneer launches Jev model for programmatic logic",
-      "url": "https://www.artificialintelligence-news.com/news/chatgpt-pioneer-launches-jev-model-for-programmatic-logic/",
-      "summary": "TypeSafe, founded by a ChatGPT co-inventor, has left stealth and is launching its Jev model to autom",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-09-16T10:31:09.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/diogo-almeida-typesafe-ai-jev-model-chatgpt-openai-parallel-sampling-programmatic-logic.jpg",
-      "score": 85,
-      "tags": []
-    },
-    {
-      "id": "4215f02f410f",
-      "title": "Adecco Group rolls out Agentforce Coworker to 27,000 staff in 40-plus countries",
-      "url": "https://www.artificialintelligence-news.com/news/agentforce-coworker-adecco-group-rollout/",
-      "summary": "The Adecco Group is rolling out Salesforce&#8217;s Agentforce Coworker across more than 40 countries",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-09-17T11:00:00.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/Screenshot-2026-09-17-at-4.41.42-PM-1024x568.png",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "22b6bd9b8747",
-      "title": "UN turns to Google to make its global data ready for AI agents",
-      "url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
-      "summary": "UN turns to Google to make its global data ready for AI agents",
+      "id": "456afd7f4d6d",
+      "title": "Google DeepMind launches institute to widen the AGI debate",
+      "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+      "summary": "Google DeepMind launches institute to widen the AGI debate",
       "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-09-17T20:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2196352264.jpg?w=1024",
+      "category": "科技",
+      "published": "2026-09-17T23:21:17.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1481927442.jpg?resize=1200,800",
       "score": 80,
       "tags": []
     },
     {
-      "id": "47bfcf058a61",
-      "title": "Even the king of England has his hesitations about AI",
-      "url": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
-      "summary": "Even the king of England has his hesitations about AI",
+      "id": "891f3d397f81",
+      "title": "Amazon-owned Zoox&#8217;s 100-robotaxi limit in Nevada is about to disappear",
+      "url": "https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/",
+      "summary": "Amazon-owned Zoox&#8217;s 100-robotaxi limit in Nevada is about to disappear",
       "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-09-17T17:26:25.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/JONATHAN-BRADY.jpg?w=1024",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "e8218a81558e",
-      "title": "Lidl deploys driverless truck for store deliveries in Germany",
-      "url": "https://www.artificialintelligence-news.com/news/lidl-autonomous-truck-germany/",
-      "summary": "Lidl has started using a cab-less autonomous electric truck for regular store deliveries in Germany,",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-09-17T10:00:00.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/Lidl-deploys-driverless-truck-for-store-deliveries-in-Germany-scaled-e1789600851208.jpg",
+      "category": "科技",
+      "published": "2026-09-17T23:08:24.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Zoox-Robotaxi-Vegas-traffic.jpg?resize=1200,676",
       "score": 75,
       "tags": []
-    }
-  ],
-  "科技": [
+    },
     {
       "id": "06c5bed23460",
       "title": "Waymo restarts San Antonio service 5 months after flooding troubles",
@@ -75,55 +37,87 @@
       "tags": []
     },
     {
-      "id": "2d35233687c7",
-      "title": "TechCrunch Disrupt 2026 Side Events schedule: NMI, Backblaze, PeakXV Partners, Augment, and more to host",
-      "url": "https://techcrunch.com/2026/09/17/techcrunch-disrupt-2026-side-events-schedule-nmi-backblaze-peakxv-partners-augment-and-more-to-host/",
+      "id": "47bfcf058a61",
+      "title": "Even the king of England has his hesitations about AI",
+      "url": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-09-17T16:34:36.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/54901701957_d1611118cd_c-e1789663445605.jpg?w=599"
+      "published": "2026-09-17T17:26:25.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/JONATHAN-BRADY.jpg?w=1024"
     },
     {
-      "id": "bf2925b8859c",
-      "title": "Apple will let EU apps use less-alarming tracking-consent screens",
-      "url": "https://techcrunch.com/2026/09/17/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/",
+      "id": "80716b9be355",
+      "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+      "url": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-09-17T16:09:58.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/07/app-store-ios-2022.jpg?resize=1200,675"
+      "published": "2026-09-17T17:15:59.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/hugging-face-logo-smartphone.jpg?resize=1200,800"
+    }
+  ],
+  "AI": [
+    {
+      "id": "1f172f85d3ea",
+      "title": "PrismML hopes its tiny LLM will change how we all use AI",
+      "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+      "summary": "PrismML hopes its tiny LLM will change how we all use AI",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-17T22:34:09.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/LLMs-on-smartphones.png?resize=1200,600",
+      "score": 80,
+      "tags": []
     },
     {
-      "id": "1d2925c5ea3b",
-      "title": "Roku&#8217;s new Labs hub brings experimental apps to the big screen",
-      "url": "https://techcrunch.com/2026/09/17/rokus-new-labs-hub-brings-experimental-apps-to-the-big-screen/",
+      "id": "787bbd73daf7",
+      "title": "The FAA&#8217;s plan to fix air traffic? $875M worth of AI",
+      "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+      "summary": "The FAA&#8217;s plan to fix air traffic。 $875M worth of AI",
       "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-17T15:50:29.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Roku-Labs_High-Res.png?resize=1200,772"
+      "category": "AI",
+      "published": "2026-09-17T22:14:59.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/NYC_Archer_United_3.png?resize=1200,802",
+      "score": 80,
+      "tags": []
     },
     {
-      "id": "7b91ab145518",
-      "title": "Last call: Disrupt volunteer application closes soon",
-      "url": "https://techcrunch.com/2026/09/17/last-call-disrupt-volunteer-application-closes-soon/",
+      "id": "5e7cc4bf41d7",
+      "title": "The fix for rogue AI agents could be more AI",
+      "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+      "summary": "The fix for rogue AI agents could be more AI",
       "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-17T15:02:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/TechCrunch-Disrupt-Volunteers.jpg?resize=1200,800"
+      "category": "AI",
+      "published": "2026-09-17T20:34:47.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/ai-bots-agents-GettyImages-2230799616.jpg?resize=1200,800",
+      "score": 80,
+      "tags": []
+    },
+    {
+      "id": "41da7ed56ef0",
+      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+      "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+      "summary": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-17T20:34:24.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1014496212.jpg?resize=1200,600",
+      "score": 80,
+      "tags": []
+    },
+    {
+      "id": "9d61eb9bd1c6",
+      "title": "Is the AI safety debate about safety or control?",
+      "url": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
+      "summary": "Is the AI safety debate about safety or control",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-17T20:19:37.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2282033342.jpg?w=1024",
+      "score": 80,
+      "tags": []
     }
   ],
   "就业": [
-    {
-      "id": "ce31ef286175",
-      "title": "150个HC全是后端工程师！DeepSeek扩招背后：模型内卷结束，Agent基建开战",
-      "url": "https://www.sohu.com/a/1074104457_99966569",
-      "summary": "9月7日，DeepSeek Harness团队负责人崔添翼公开放出约150个招聘HC，迅速在AI圈引发讨论。 这场扩招最颠覆行业直觉的一点：全部岗位为服务端开发、Agent 弹性计算研发工程师，没有任",
-      "source": "就业报告",
-      "category": "就业",
-      "published": "2026-09-10T02:05:00.000Z",
-      "image": "//q8.itc.cn/q_70/images03/20260910/c7c760bb4d7b4e7494659ca019bed72f.jpeg",
-      "score": 65,
-      "tags": []
-    },
     {
       "id": "c76b56413d4a",
       "title": "AI人才缺口超500万！有最新报告称，AI抢人逻辑悄悄变了：架构师新发 ...",
@@ -169,6 +163,18 @@
       "category": "就业",
       "published": "2026-06-25T10:34:00.000Z",
       "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAQCAYAAAAiYZ4HAAAACXBIWXMAAAsTAAALEwEAmpwYAAAKTWlDQ1BQaG90b3Nob3AgSUNDIHByb2ZpbGUAAHjanVN3WJP3Fj7f92UPVkLY8LGXbIEAIiOsCMgQWaIQkgBhhBASQMWFiApWFBURnEhVxILVCkidiOKgKLhnQYqIWotVXDjuH9yntX167+3t+9f7vOec5/zOec8PgBESJpHmomoAOVKFPDrYH49PSMTJvYACFUjgBCAQ5svCZwXFAADwA3l4fnSwP/wBr28AAgBw1S4kEsfh/4O6UCZXACCRAOAiEucLAZBSAMguVMgUAMgYALBTs2QKAJQAAGx5fEIiAKoNAOz0ST4FANipk9wXANiiHKkIAI0BAJkoRyQCQLsAYFWBUiwCwMIAoKxAIi4EwK4BgFm2MkcCgL0FAHaOWJAPQGAAgJlCLMwAIDgCAEMeE80DIEwDoDDSv+CpX3CFuEgBAMDLlc2XS9IzFLiV0Bp38vDg4iHiwmyxQmEXKRBmCeQinJebIxNI5wNMzgwAABr50cH+OD+Q5+bk4eZm52zv9MWi/mvwbyI+IfHf/ryMAgQAEE7P79pf5eXWA3DHAbB1v2upWwDaVgBo3/ldM9sJoFoK0Hr5i3k4/EAenqFQyDwdHAoLC+0lYqG9MOOLPv8z4W/gi372/EAe/tt68ABxmkCZrcCjg/1xYW52rlKO58sEQjFu9+cj/seFf/2OKdHiNLFcLBWK8ViJuFAiTcd5uVKRRCHJleIS6X8y8R+W/QmTdw0ArIZPwE62B7XLbMB+7gECiw5Y0nYAQH7zLYwaC5EAEGc0Mnn3AACTv/mPQCsBAM2XpOMAALzoGFyolBdMxggAAESggSqwQQcMwRSswA6cwR28wBcCYQZEQAwkwDwQQgbkgBwKoRiWQRlUwDrYBLWwAxqgEZrhELTBMTgN5+ASXIHrcBcGYBiewhi8hgkEQcgIE2EhOogRYo7YIs4IF5mOBCJhSDSSgKQg6YgUUSLFyHKkAqlCapFdSCPyLXIUOY1cQPqQ28ggMor8irxHMZSBslED1AJ1QLmoHxqKxqBz0XQ0D12AlqJr0Rq0Hj2AtqKn0UvodXQAfYqOY4DRMQ5mjNlhXIyHRWCJWBomxxZj5Vg1Vo81Yx1YN3YVG8CeYe8IJAKLgBPsCF6EEMJsgpCQR1hMWEOoJewjtBK6CFcJg4Qxwicik6hPtCV6EvnEeGI6sZBYRqwm7iEeIZ4lXicOE1+TSCQOyZLkTgohJZAySQtJa0jbSC2kU6Q+0hBpnEwm65Btyd7kCLKArCCXkbeQD5BPkvvJw+S3FDrFiOJMCaIkUqSUEko1ZT/lBKWfMkKZoKpRzame1AiqiDqfWkltoHZQL1OHqRM0dZolzZsWQ8ukLaPV0JppZ2n3aC/pdLoJ3YMeRZfQl9Jr6Afp5+mD9HcMDYYNg8dIYigZaxl7GacYtxkvmUymBdOXmchUMNcyG5lnmA+Yb1VYKvYqfBWRyhKVOpVWlX6V56pUVXNVP9V5qgtUq1UPq15WfaZGVbNQ46kJ1Bar1akdVbupNq7OUndSj1DPUV+jvl/9gvpjDbKGhUaghkijVGO3xhmNIRbGMmXxWELWclYD6yxrmE1iW7L57Ex2Bfsbdi97TFNDc6pmrGaRZp3mcc0BDsax4PA52ZxKziHODc57LQMtPy2x1mqtZq1+rTfaetq+2mLtcu0W7eva73VwnUCdLJ31Om0693UJuja6UbqFutt1z+o+02PreekJ9cr1Dund0Uf1bfSj9Rfq79bv0R83MDQINpAZbDE4Y/DMkGPoa5hpuNHwhOGoEctoupHEaKPRSaMnuCbuh2fjNXgXPmasbxxirDTeZdxrPGFiaTLbpMSkxeS+Kc2Ua5pmutG003TMzMgs3KzYrMnsjjnVnGueYb7ZvNv8jYWlRZzFSos2i8eW2pZ8ywWWTZb3rJhWPlZ5VvVW16xJ1lzrLOtt1ldsUBtXmwybOpvLtqitm63Edptt3xTiFI8p0in1U27aMez87ArsmuwG7Tn2YfYl9m32zx3MHBId1jt0O3xydHXMdmxwvOuk4TTDqcSpw+lXZxtnoXOd8zUXpkuQyxKXdpcXU22niqdun3rLleUa7rrStdP1o5u7m9yt2W3U3cw9xX2r+00umxvJXcM970H08PdY4nHM452nm6fC85DnL152Xlle+70eT7OcJp7WMG3I28Rb4L3Le2A6Pj1l+s7pAz7GPgKfep+Hvqa+It89viN+1n6Zfgf8nvs7+sv9j/i/4XnyFvFOBWABwQHlAb2BGoGzA2sDHwSZBKUHNQWNBbsGLww+FUIMCQ1ZH3KTb8AX8hv5YzPcZyya0RXKCJ0VWhv6MMwmTB7WEY6GzwjfEH5vpvlM6cy2CIjgR2yIuB9pGZkX+X0UKSoyqi7qUbRTdHF09yzWrORZ+2e9jvGPqYy5O9tqtnJ2Z6xqbFJsY+ybuIC4qriBeIf4RfGXEnQTJAntieTE2MQ9ieNzAudsmjOc5JpUlnRjruXcorkX5unOy553PFk1WZB8OIWYEpeyP+WDIEJQLxhP5aduTR0T8oSbhU9FvqKNolGxt7hKPJLmnVaV9jjdO31D+miGT0Z1xjMJT1IreZEZkrkj801WRNberM/ZcdktOZSclJyjUg1plrQr1zC3KLdPZisrkw3keeZtyhuTh8r35CP5c/PbFWyFTNGjtFKuUA4WTC+oK3hbGFt4uEi9SFrUM99m/ur5IwuCFny9kLBQuLCz2Lh4WfHgIr9FuxYji1MXdy4xXVK6ZHhp8NJ9y2jLspb9UOJYUlXyannc8o5Sg9KlpUMrglc0lamUycturvRauWMVYZVkVe9ql9VbVn8qF5VfrHCsqK74sEa45uJXTl/VfPV5bdra3kq3yu3rSOuk626s91m/r0q9akHV0IbwDa0b8Y3lG19tSt50oXpq9Y7NtM3KzQM1YTXtW8y2rNvyoTaj9nqdf13LVv2tq7e+2Sba1r/dd3vzDoMdFTve75TsvLUreFdrvUV99W7S7oLdjxpiG7q/5n7duEd3T8Wej3ulewf2Re/ranRvbNyvv7+yCW1SNo0eSDpw5ZuAb9qb7Zp3tXBaKg7CQeXBJ9+mfHvjUOihzsPcw83fmX+39QjrSHkr0jq/dawto22gPaG97+iMo50dXh1Hvrf/fu8x42N1xzWPV56gnSg98fnkgpPjp2Snnp1OPz3Umdx590z8mWtdUV29Z0PPnj8XdO5Mt1/3yfPe549d8Lxw9CL3Ytslt0utPa49R35w/eFIr1tv62X3y+1XPK509E3rO9Hv03/6asDVc9f41y5dn3m978bsG7duJt0cuCW69fh29u0XdwruTNxdeo94r/y+2v3qB/oP6n+0/rFlwG3g+GDAYM/DWQ/vDgmHnv6U/9OH4dJHzEfVI0YjjY+dHx8bDRq98mTOk+GnsqcTz8p+Vv9563Or59/94vtLz1j82PAL+YvPv655qfNy76uprzrHI8cfvM55PfGm/K3O233vuO+638e9H5ko/ED+UPPR+mPHp9BP9z7nfP78L/eE8/sl0p8zAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAELSURBVHjahJIxTsNAEEUfVnrcrTRVcoKYaltzApwThBsknCBwAh8hcAPnBEA5VcwNTLPSVPgINGMkojV8aZudmf+/Zj5kIGqVqH2JWn1ZKzLNS+CVGRSZvyPwDPROUIrafipeZdjPwApogU8vbVMMq5xCA3QphhF4AXb+SlGrcgNr4AMgxfDm1kagA+qfAVF7FLUSWE7efegBuAVOrsTCfR+A69xWUgwDMIhaK2pN4b574H6SncETcCiA0iVvgI17z6EDqsWl9Bx9imEUNQpvWvMPRK0BhmJa2bTnP7Dz24Co7T1s1Qz7UdTOv6LheWn9WCc/WA1s3fYmxTDmstQAd/7VA+8phm7q+R4A0vBklFq9ofwAAAAASUVORK5CYII=",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "29a1533bca86",
+      "title": "FDE工程师薪资走高，亚马逊投入10亿美元加入“抢人大战”",
+      "url": "https://www.stcn.com/article/detail/3993522.html",
+      "summary": "当地时间6月30日，亚马逊宣布投入10亿美元打造FDE（前沿部署工程师）团队，让AI工程师与客户直接合作，并且协助客户构建和部署人工智能系统。 亚马逊表示，FDE嵌入式团队将与客户的业务、工程和安全团",
+      "source": "就业报告",
+      "category": "就业",
+      "published": "2026-07-01T23:44:00.000Z",
+      "image": "https://static-web.stcn.com/static/images/zqsb.png",
       "score": 60,
       "tags": []
     }
@@ -287,14 +293,14 @@
   ],
   "政策": [
     {
-      "id": "5c4e19d02250",
-      "title": "2026年高校毕业生等青年就业服务攻坚行动专场招聘会举行",
-      "url": "https://finance.sina.com.cn/roll/2026-09-15/doc-inirxpiq6916979.shtml",
-      "summary": "为推动公共就业服务向前延伸、提质增效，促进高校毕业生等青年高质量就业，9月15日，由内蒙古自治区人力资源和社会保障厅主办，内蒙古自治区就业服务中心、兴安职业技术大学、兴安盟人力资源和社会保障局承办，兴",
-      "source": "Bing·高校毕业生就业创业政策",
+      "id": "87f69df9d32b",
+      "title": "创响青春&#183;筑梦永州 | 2026年湖南省大学生创业就业法律知识宣讲活动 ...",
+      "url": "https://www.sohu.com/a/1076440302_121106908",
+      "summary": "9月15日，由共青团湖南省委主办，永州市委人才办、共青团永州市委、永州市人力资源社会保障局、永州市律师协会、永州市学生联合会承办，湖南科技学院团委、永州市青年创业就业法律援助中心协办的2026年湖南省",
+      "source": "Bing·大学生就业政策",
       "category": "政策",
-      "published": "2026-09-15T08:00:00.000Z",
-      "image": "//n.sinaimg.cn/sinakd20260915s/300/w720h380/20260915/8ffd-4d0207c98d1234afb460fb9f3df123b2.jpg",
+      "published": "2026-09-15T12:15:00.000Z",
+      "image": "https://q1.itc.cn/q_70/images03/20260915/fb443cda7bcd430690a5f2d96d8a017d.jpeg",
       "score": 50,
       "tags": []
     },
