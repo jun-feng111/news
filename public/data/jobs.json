@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T13:29:06.447Z",
+  "updated": "2026-09-18T17:34:23.070Z",
   "count": 122,
   "sources": {
     "V2EX": 7,
@@ -9,6 +9,23 @@
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1243072",
+      "title": "朋友们，现在前端还能找到工作吗",
+      "company": "CaveShao",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [],
+      "category": "前端",
+      "postedDate": "2026-09-18",
+      "url": "https://www.v2ex.com/t/1243072",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1242992",
       "title": "日本 IT 岗位（PM・PL／开发工程师）｜东京",
@@ -122,27 +139,6 @@
       "category": "其他",
       "postedDate": "2026-09-16",
       "url": "https://www.v2ex.com/t/1242528",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1242493",
-      "title": "remote 前端工程师 20-40k",
-      "company": "andyxinweimin",
-      "location": "国内",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "java",
-        "flutter",
-        "kotlin"
-      ],
-      "category": "前端",
-      "postedDate": "2026-09-16",
-      "url": "https://www.v2ex.com/t/1242493",
       "source": "V2EX",
       "region": "domestic"
     },
