@@ -1,14 +1,31 @@
 {
-  "updated": "2026-09-17T23:27:04.282Z",
-  "count": 122,
+  "updated": "2026-09-18T03:30:05.975Z",
+  "count": 120,
   "sources": {
-    "V2EX": 8,
+    "V2EX": 6,
     "RemoteOK": 99,
     "Remotive": 15,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1242899",
+      "title": "青岛民营大学招博士,可以推荐",
+      "company": "jingcoco",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [],
+      "category": "其他",
+      "postedDate": "2026-09-18",
+      "url": "https://www.v2ex.com/t/1242899",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1242765",
       "title": "深庭纪 Sentigent 热招： AI 部署工具链 / 强化算法 / 机器人控制 / 移动端 / 工业设计",
@@ -49,45 +66,6 @@
       "region": "domestic"
     },
     {
-      "id": "v2ex-1242732",
-      "title": "remote 测试工程师 15K-22K",
-      "company": "andyxinweimin",
-      "location": "国内",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "python",
-        "linux",
-        "mysql",
-        "redis"
-      ],
-      "category": "测试",
-      "postedDate": "2026-09-17",
-      "url": "https://www.v2ex.com/t/1242732",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1242664",
-      "title": "做广告联盟的看过来，脚本怎么写？",
-      "company": "sotiery996006",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [],
-      "category": "其他",
-      "postedDate": "2026-09-17",
-      "url": "https://www.v2ex.com/t/1242664",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
       "id": "v2ex-1242609",
       "title": "Crypto CEX 诚聘 量化策略研究员 薪水 30K-50K RMB 纯远程办公",
       "company": "AriaWanax",
@@ -105,23 +83,6 @@
       "category": "其他",
       "postedDate": "2026-09-17",
       "url": "https://www.v2ex.com/t/1242609",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1242580",
-      "title": "这年头访客忠诚度很难，不像以前",
-      "company": "zackkk",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [],
-      "category": "其他",
-      "postedDate": "2026-09-17",
-      "url": "https://www.v2ex.com/t/1242580",
       "source": "V2EX",
       "region": "domestic"
     },

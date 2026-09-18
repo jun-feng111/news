@@ -25,16 +25,22 @@
       "tags": []
     },
     {
+      "id": "2c509c3d0d19",
+      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,&#8217; new unredacted filings reveal",
+      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-17T19:46:08.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778706504.jpg?resize=1200,783"
+    },
+    {
       "id": "06c5bed23460",
       "title": "Waymo restarts San Antonio service 5 months after flooding troubles",
       "url": "https://techcrunch.com/2026/09/17/waymo-restarts-san-antonio-service-five-months-after-flooding-troubles/",
-      "summary": "Waymo restarts San Antonio service 5 months after flooding troubles",
       "source": "TechCrunch",
       "category": "科技",
       "published": "2026-09-17T18:30:30.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/Waymo-parking-charging-getty.jpg?resize=1200,800",
-      "score": 75,
-      "tags": []
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/Waymo-parking-charging-getty.jpg?resize=1200,800"
     },
     {
       "id": "47bfcf058a61",
@@ -44,15 +50,6 @@
       "category": "科技",
       "published": "2026-09-17T17:26:25.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/JONATHAN-BRADY.jpg?w=1024"
-    },
-    {
-      "id": "80716b9be355",
-      "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
-      "url": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-17T17:15:59.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/hugging-face-logo-smartphone.jpg?resize=1200,800"
     }
   ],
   "AI": [
@@ -89,7 +86,7 @@
       "category": "AI",
       "published": "2026-09-17T20:34:47.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/03/ai-bots-agents-GettyImages-2230799616.jpg?resize=1200,800",
-      "score": 80,
+      "score": 75,
       "tags": []
     },
     {
@@ -101,7 +98,7 @@
       "category": "AI",
       "published": "2026-09-17T20:34:24.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1014496212.jpg?resize=1200,600",
-      "score": 80,
+      "score": 75,
       "tags": []
     },
     {
@@ -113,20 +110,20 @@
       "category": "AI",
       "published": "2026-09-17T20:19:37.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2282033342.jpg?w=1024",
-      "score": 80,
+      "score": 75,
       "tags": []
     }
   ],
   "就业": [
     {
-      "id": "c76b56413d4a",
-      "title": "AI人才缺口超500万！有最新报告称，AI抢人逻辑悄悄变了：架构师新发 ...",
-      "url": "https://news.qq.com/rain/a/20260718A08XHR00",
-      "summary": "人才缺口500万，大厂抢得最凶的不是算法工程师，架构师新发职位同比大涨近八成。懂提示词和人机训练岗位的文科生，平均年薪达到34",
-      "source": "算法工程师·就业分析",
+      "id": "ce31ef286175",
+      "title": "150个HC全是后端工程师！DeepSeek扩招背后：模型内卷结束，Agent基建开战",
+      "url": "https://www.sohu.com/a/1074104457_99966569",
+      "summary": "9月7日，DeepSeek Harness团队负责人崔添翼公开放出约150个招聘HC，迅速在AI圈引发讨论。 这场扩招最颠覆行业直觉的一点：全部岗位为服务端开发、Agent 弹性计算研发工程师，没有任",
+      "source": "就业报告",
       "category": "就业",
-      "published": "2026-07-18T11:05:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/Ows_BB25Bhnf-wlGWgFoIkmLSVd_6MJWCT8-yw6C3HS10AA_640330/0",
+      "published": "2026-09-10T02:05:00.000Z",
+      "image": "//q8.itc.cn/q_70/images03/20260910/c7c760bb4d7b4e7494659ca019bed72f.jpeg",
       "score": 65,
       "tags": []
     },
@@ -177,56 +174,6 @@
       "image": "https://static-web.stcn.com/static/images/zqsb.png",
       "score": 60,
       "tags": []
-    }
-  ],
-  "开发": [
-    {
-      "id": "b674a5158ce9",
-      "title": "科技爱好者周刊（第 412 期）：禁止 issue，只用 PR",
-      "url": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html",
-      "summary": "这里记录每周值得分享的科技内容，周五发布",
-      "source": "阮一峰",
-      "category": "开发",
-      "published": "2026-09-11T00:11:50.000Z",
-      "image": "",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "991b94a2c441",
-      "title": "神秘模型 Union Alpha 突袭！上线首日跑掉20亿Token，部分网友实测称性能直逼 Astra",
-      "url": "https://www.infoq.cn/article/EsH2bUAoMNQx6Nt7vytC?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-17T21:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/6a/28/6a898d555da5cd022fd4f0b439957028.png"
-    },
-    {
-      "id": "8310b9cabf3f",
-      "title": "百度智能云首发产业智能体操作系统，要实现 AI 的商业和技术飞轮",
-      "url": "https://www.infoq.cn/article/jXliIdDVTYDAtm73EoSU?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-17T19:29:09.000Z",
-      "image": "https://static001.infoq.cn/resource/image/5c/ab/5c97557f677fb21db74142b73da13fab.png"
-    },
-    {
-      "id": "5e2e203b4826",
-      "title": "硬件调试进入 Web 时代：浏览器成了新的工程师工作台",
-      "url": "https://www.infoq.cn/article/t5xEQSTQCB0glKSrppNT?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-17T17:21:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/0d/87/0df6fbfe6359a22b6855efc68b4f0487.jpg"
-    },
-    {
-      "id": "a7bbb0df33e3",
-      "title": "9 月 20 日杭州｜FDE 在现场：从 AI 组织进化到客户现场，企业 AI 到底卡在哪里？",
-      "url": "https://www.infoq.cn/article/Yz8Ad81rFlGEYMKVsKRJ?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-17T16:00:18.000Z",
-      "image": "https://static001.infoq.cn/resource/image/55/1f/559dd727cd81b5d888c1c692d30c371f.jpeg"
     }
   ],
   "社会": [
@@ -293,26 +240,14 @@
   ],
   "政策": [
     {
-      "id": "87f69df9d32b",
-      "title": "创响青春&#183;筑梦永州 | 2026年湖南省大学生创业就业法律知识宣讲活动 ...",
-      "url": "https://www.sohu.com/a/1076440302_121106908",
-      "summary": "9月15日，由共青团湖南省委主办，永州市委人才办、共青团永州市委、永州市人力资源社会保障局、永州市律师协会、永州市学生联合会承办，湖南科技学院团委、永州市青年创业就业法律援助中心协办的2026年湖南省",
-      "source": "Bing·大学生就业政策",
+      "id": "5378516f69f4",
+      "title": "省委书记与“白帽黑客”罗清篮等大学生创业代表座谈",
+      "url": "https://www.sohu.com/a/1076606971_121443915",
+      "summary": "据湖南日报报道，9月13日，湖南省委书记沈晓明在上海与上海市大学生创业代表座谈，面对面听取大家的创业心得，以及对湖南推动大学生创业工作的意见建议。 沈晓明指出，“希望在座的企业家积极参与湖南支持大学生",
+      "source": "Bing·大学生创业扶持政策",
       "category": "政策",
-      "published": "2026-09-15T12:15:00.000Z",
-      "image": "https://q1.itc.cn/q_70/images03/20260915/fb443cda7bcd430690a5f2d96d8a017d.jpeg",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "b492272f7793",
-      "title": "送政策、优服务、促就业！就业政策宣传活动全面开展",
-      "url": "https://news.qq.com/rain/a/20260914A0B23K00",
-      "summary": "近日，人力资源社会保障部办公厅印发通知，定于2026年9月在全国开展就业政策宣传月活动。活动内容有哪些",
-      "source": "Bing·人社部就业创业政策",
-      "category": "政策",
-      "published": "2026-09-14T10:01:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/OTokwYVn3bstR-Ecgs_p0WCFhSrHToBXslFRM33Qmp_MUAA_640330/0",
+      "published": "2026-09-16T00:47:00.000Z",
+      "image": "//q2.itc.cn/q_70/images03/20260916/83aa0d0bca6c42b7b976fe9a184a11f4.jpeg",
       "score": 50,
       "tags": []
     },
@@ -351,53 +286,112 @@
       "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
       "score": 50,
       "tags": []
+    },
+    {
+      "id": "a3af074b2b9b",
+      "title": "2026-05-22教育部等八部门办公厅关于联合开展2026年度高校毕业生等重点群体促就业“国聘行动”的通知",
+      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202605/t20260522_1437356.html",
+      "summary": "2026-05-22教育部等八部门办公厅关于联合开展2026年度高校毕业生等重点群体促就业“国聘行动”的通知",
+      "source": "教育部",
+      "category": "政策",
+      "published": "2026-05-22T00:00:00.000Z",
+      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+      "score": 50,
+      "tags": []
     }
   ],
   "财经": [
     {
-      "id": "4b98b32e0f88",
-      "title": "上合组织绿色产业发展合作区6个项目签约超29亿元",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-17/10698591.shtml",
+      "id": "7dda769a6d28",
+      "title": "（活力中国）“千湖之省”湖北特色淡水产品经济独占鳌头",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-18/10698756.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-17T15:26:56.000Z",
+      "published": "2026-09-18T03:21:10.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "dc540f34f870",
-      "title": "2026北京民营企业百强系列榜单发布",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-17/10698600.shtml",
+      "id": "5c08965700fe",
+      "title": "三亚：打造黄金珠宝产业集群和珠宝旅游消费目的地",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-18/10698795.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-17T15:20:05.000Z",
+      "published": "2026-09-18T03:10:46.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "8cee13323720",
-      "title": "第四届中国航协（CATA）航空大会在北京开幕",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-17/10698584.shtml",
+      "id": "7c6a8a782f36",
+      "title": "住房和城乡建设部：我国房地产进入存量时代",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-18/10698770.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-17T15:13:13.000Z",
+      "published": "2026-09-18T03:07:34.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "fdca42afa1b1",
-      "title": "浙江省涉外营商环境评价报告在杭州发布",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-17/10698582.shtml",
+      "id": "d7bdd67377c7",
+      "title": "美联储加息落地，黄金为何不跌反涨？",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-18/10698789.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-17T15:01:28.000Z",
+      "published": "2026-09-18T02:57:23.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "fd3c17d3db2a",
-      "title": "2026第五届山东跨境电商交易会开幕 AI赋能外贸新业态",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-17/10698578.shtml",
+      "id": "27a34d6d97f1",
+      "title": "十部门：推动京津冀、长三角、粤港澳大湾区等区域形成世界级医药产业集群",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-18/10698711.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-17T14:35:14.000Z",
+      "published": "2026-09-18T02:36:57.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    }
+  ],
+  "开发": [
+    {
+      "id": "d8e4f071c975",
+      "title": "Agoda 用 DragonflyDB 替换 SQL Server：真正难的不是性能，而是平稳切换",
+      "url": "https://www.infoq.cn/article/2kGlAwpJrK9I5kdDHLGz?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-18T11:20:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/a6/ed/a6f6f2e82fa6fb0d13513c7ace3193ed.jpg"
+    },
+    {
+      "id": "36b2858639c5",
+      "title": "让 Agent 越用越强：AReaL 2.0 构建 Agent 在线强化学习闭环｜QCon上海",
+      "url": "https://www.infoq.cn/article/x2FmIeCkeDYUV66BNj3g?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-18T10:00:00.000Z",
+      "image": ""
+    },
+    {
+      "id": "7247015798dc",
+      "title": "700 个 AI 智能体本应彼此隔离，却建起留言板联手攻击，独立调查还原 Hugging Face 事件",
+      "url": "https://www.infoq.cn/article/W3tOIQhV5pKhsXP6mgWw?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-18T09:04:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/63/b0/63428d622768034649692522f63067b0.jpg"
+    },
+    {
+      "id": "991b94a2c441",
+      "title": "神秘模型 Union Alpha 突袭！上线首日跑掉20亿Token，部分网友实测称性能直逼 Astra",
+      "url": "https://www.infoq.cn/article/EsH2bUAoMNQx6Nt7vytC?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-17T21:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/6a/28/6a898d555da5cd022fd4f0b439957028.png"
+    },
+    {
+      "id": "8310b9cabf3f",
+      "title": "百度智能云首发产业智能体操作系统，要实现 AI 的商业和技术飞轮",
+      "url": "https://www.infoq.cn/article/jXliIdDVTYDAtm73EoSU?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-17T19:29:09.000Z",
+      "image": "https://static001.infoq.cn/resource/image/5c/ab/5c97557f677fb21db74142b73da13fab.png"
     }
   ]
 }
