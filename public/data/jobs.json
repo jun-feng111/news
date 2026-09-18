@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T20:31:10.909Z",
+  "updated": "2026-09-18T23:04:40.231Z",
   "count": 123,
   "sources": {
     "V2EX": 8,
@@ -9,6 +9,23 @@
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1243100",
+      "title": "招项目管理兼职",
+      "company": "ilcn",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [],
+      "category": "其他",
+      "postedDate": "2026-09-18",
+      "url": "https://www.v2ex.com/t/1243100",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1243096",
       "title": "后端开发 gap 了快半年还是找不到工作",
@@ -139,23 +156,6 @@
       "category": "其他",
       "postedDate": "2026-09-17",
       "url": "https://www.v2ex.com/t/1242609",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1242528",
-      "title": "诚意找熟悉 excl access 开发一个工厂流程进销存，兼职，不是全职。价格好商量。 微小型的企业. 绿泡泡： MTg2MDMxOTk4NjU=",
-      "company": "laogoulucky",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [],
-      "category": "其他",
-      "postedDate": "2026-09-16",
-      "url": "https://www.v2ex.com/t/1242528",
       "source": "V2EX",
       "region": "domestic"
     },

@@ -13,55 +13,67 @@
       "tags": []
     },
     {
-      "id": "57fff132ac55",
-      "title": "Gartner outlines four AI tiers in warehouse automation",
-      "url": "https://www.artificialintelligence-news.com/news/gartner-outlines-four-ai-tiers-in-warehouse-automation/",
-      "summary": "Gartner reports that warehouse automation now spans four operational AI tiers as logistics operators",
-      "source": "AI News",
+      "id": "f5578060dc95",
+      "title": "Disney&#8217;s first CTO led an AI startup it once accused of copying its characters",
+      "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+      "summary": "Disney&#8217;s first CTO led an AI startup it once accused of copying its characters",
+      "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-09-18T12:49:34.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/gartner-ai-tiers-warehouse-automation-supply-chain-logistics-robotics-agentic-agents-physical-strategy.jpg",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "7d668c3275e2",
-      "title": "Fulcra Brings Universal Multiplayer to Any Agents You Choose",
-      "url": "https://www.artificialintelligence-news.com/news/fulcra-brings-universal-multiplayer-to-any-agents-you-choose/",
-      "summary": "The Instinct-to-Instinct model that is the talk of Silicon Valley presents too small a future for pe",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-09-18T09:15:15.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/zach-m-7F9PhBM1gFM-unsplash-scaled.jpg",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "4215f02f410f",
-      "title": "Adecco Group rolls out Agentforce Coworker to 27,000 staff in 40-plus countries",
-      "url": "https://www.artificialintelligence-news.com/news/agentforce-coworker-adecco-group-rollout/",
-      "summary": "The Adecco Group is rolling out Salesforce&#8217;s Agentforce Coworker across more than 40 countries",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-09-17T11:00:00.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/Screenshot-2026-09-17-at-4.41.42-PM-1024x568.png",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "e8218a81558e",
-      "title": "Lidl deploys driverless truck for store deliveries in Germany",
-      "url": "https://www.artificialintelligence-news.com/news/lidl-autonomous-truck-germany/",
-      "summary": "Lidl has started using a cab-less autonomous electric truck for regular store deliveries in Germany,",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-09-17T10:00:00.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/Lidl-deploys-driverless-truck-for-store-deliveries-in-Germany-scaled-e1789600851208.jpg",
+      "published": "2026-09-18T17:59:53.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1387623215.jpg?resize=1200,900",
       "score": 70,
+      "tags": []
+    },
+    {
+      "id": "37655c8141e2",
+      "title": "Google&#8217;s new &#8216;CC&#8217; is an AI agent that helps families run their households",
+      "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+      "summary": "Google&#8217;s new &#8216;CC&#8217; is an AI agent that helps families run their households",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-18T17:33:50.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/CC_hero.width-2200.format-webp.webp?resize=1200,675",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "705069fd3407",
+      "title": "Joby Aviation&#8217;s 3,100-mile autonomous flight signals its push beyond electric air taxis",
+      "url": "https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis/",
+      "summary": "Joby Aviation&#8217;s 3,100-mile autonomous flight signals its push beyond electric air taxis",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-18T17:26:41.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Joby-autonomy-Tour.jpg?resize=1200,633",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "a7c7509da18b",
+      "title": "Dario Amodei and other AI leaders want to &#8216;Pace the Frontier&#8217; but…how?",
+      "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
+      "summary": "Dario Amodei and other AI leaders want to &#8216;Pace the Frontier&#8217; but…how",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-18T17:09:56.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294935494.jpg?resize=1200,800",
+      "score": 65,
       "tags": []
     }
   ],
   "科技": [
+    {
+      "id": "49776e1c52dc",
+      "title": "Anthropic&#8217;s first embedded evaluator is &#8230; Accenture?",
+      "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+      "summary": "Anthropic&#8217;s first embedded evaluator is &#8230; Accenture",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-18T21:44:33.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2194795244.jpg?w=1024",
+      "score": 75,
+      "tags": []
+    },
     {
       "id": "c9073c10ba1f",
       "title": "Automattic names interim CFO after exec departures",
@@ -109,18 +121,21 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/iphone-18-pro-quick-commerce-india.jpg?resize=1200,800",
       "score": 75,
       "tags": []
-    },
-    {
-      "id": "37655c8141e2",
-      "title": "Google&#8217;s new &#8216;CC&#8217; is an AI agent that helps families run their households",
-      "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-18T17:33:50.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/CC_hero.width-2200.format-webp.webp?resize=1200,675"
     }
   ],
   "就业": [
+    {
+      "id": "10451a0e7004",
+      "title": "72%雇主难招AI人才：RLHF、全球短缺与五类新岗位的共振",
+      "url": "https://www.sohu.com/a/1076877275_115321",
+      "summary": "Burtch Works报告显示，RLHF需求增34%、供应仅增7%，AI招聘从提示工程师转向应用LLM、检索、Agent编排、解决方案架构与AI产品工程。全球72%雇主难填AI岗位，技能溢价62%",
+      "source": "就业报告",
+      "category": "就业",
+      "published": "2026-09-16T10:11:00.000Z",
+      "image": "//q4.itc.cn/images01/20260916/26e7b6a42115489a8680b3d849a77d4a.jpeg",
+      "score": 65,
+      "tags": []
+    },
     {
       "id": "ce31ef286175",
       "title": "150个HC全是后端工程师！DeepSeek扩招背后：模型内卷结束，Agent基建开战",
@@ -158,26 +173,14 @@
       "tags": []
     },
     {
-      "id": "9713d2b814eb",
-      "title": "AI 产品总监-上海，（企业级 AI / Agent）",
-      "url": "https://www.v2ex.com/t/1242422#reply0",
-      "summary": "AI 产品总监-上海，（企业级 AI / Agent）",
-      "source": "V2EX·招聘",
+      "id": "4b696529f7b3",
+      "title": "应届生、职场人、灵活就业者都别错过！9月19日双城招聘会“职”等 ...",
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-17/doc-inisckrz4061565.shtml",
+      "summary": "京津冀蒙四地工会联手，现场汇聚百余家优质企业，涵盖电力能源、人工智能、现代服务、文化创意等众多热门行业。无论你想留在内蒙古，还是去京津冀闯荡，这里都有你心仪的岗位",
+      "source": "Bing·应届生求职",
       "category": "就业",
-      "published": "2026-09-16T06:22:47.000Z",
-      "image": "https://cdn.v2ex.com/avatar/4c83/08d4/221578_xlarge.png?m=1762788791",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "0d4d19cc7ba6",
-      "title": "LLM 应用研发工程师， AI 应用后端工程师（AI Agent 方向），\r\nAI 模型训练师 / AIGC 模型工程师",
-      "url": "https://www.v2ex.com/t/1241518#reply0",
-      "summary": "LLM 应用研发工程师， AI 应用后端工程师（AI Agent 方向），\r\nAI 模型训练师 / AIGC 模型工程师",
-      "source": "V2EX·招聘",
-      "category": "就业",
-      "published": "2026-09-12T04:29:00.000Z",
-      "image": "https://cdn.v2ex.com/avatar/4750/26af/669784_xlarge.png?m=1709200187",
+      "published": "2026-09-16T17:00:00.000Z",
+      "image": "//n.sinaimg.cn/front20260917ac/740/w1080h460/20260917/dfaf-eadab24c38ff28fb20bd9adb3b1e7fe2.jpg",
       "score": 60,
       "tags": []
     }
@@ -196,50 +199,50 @@
       "tags": []
     },
     {
-      "id": "5378516f69f4",
-      "title": "省委书记与“白帽黑客”罗清篮等大学生创业代表座谈",
-      "url": "https://www.sohu.com/a/1076606971_121443915",
-      "summary": "据湖南日报报道，9月13日，湖南省委书记沈晓明在上海与上海市大学生创业代表座谈，面对面听取大家的创业心得，以及对湖南推动大学生创业工作的意见建议。 沈晓明指出，“希望在座的企业家积极参与湖南支持大学生",
+      "id": "861e5abff31a",
+      "title": "2027届高校毕业生就业服务季首场双选会暨京津冀专场双选会成功举办",
+      "url": "https://www.sohu.com/a/1076405003_121124309",
+      "summary": "针为深入贯彻落实党中央、国务院关于做好高校毕业生就业工作的决策部署，落实京津冀协同发展国家战略，促进2027届高校毕业生高质量充分就业，在北京市教育委员会指导下，9月15日，“2027届高校毕业生就业",
+      "source": "Bing·高校毕业生就业创业政策",
+      "category": "政策",
+      "published": "2026-09-15T10:40:00.000Z",
+      "image": "https://q5.itc.cn/q_70/images03/20260915/0089207eae3345dca98c0479024d7439.jpeg",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "04eb4016f64a",
+      "title": "兴安职业技术大学举办高校毕业生就业政策宣讲会",
+      "url": "https://www.sohu.com/a/1076982404_121124209",
+      "summary": "为全面落实自治区党委“1571”工作部署，扎实推进人社部、教育部“就业公共服务进校园百日行动”，精准推送高校毕业生就业创业政策，切实为高校毕业生等青年求职就业解惑、畅通就业成长通道，9月15日，兴安职",
+      "source": "Bing·高校毕业生就业创业政策",
+      "category": "政策",
+      "published": "2026-09-16T14:50:00.000Z",
+      "image": "https://q9.itc.cn/q_70/images03/20260916/fc2f8b123be84a8fab85c84a80e90fb1.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "5c4e19d02250",
+      "title": "2026年高校毕业生等青年就业服务攻坚行动专场招聘会举行",
+      "url": "https://finance.sina.com.cn/roll/2026-09-15/doc-inirxpiq6916979.shtml",
+      "summary": "为推动公共就业服务向前延伸、提质增效，促进高校毕业生等青年高质量就业，9月15日，由内蒙古自治区人力资源和社会保障厅主办，内蒙古自治区就业服务中心、兴安职业技术大学、兴安盟人力资源和社会保障局承办，兴",
+      "source": "Bing·高校毕业生就业创业政策",
+      "category": "政策",
+      "published": "2026-09-15T08:00:00.000Z",
+      "image": "//n.sinaimg.cn/sinakd20260915s/300/w720h380/20260915/8ffd-4d0207c98d1234afb460fb9f3df123b2.jpg",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "87f69df9d32b",
+      "title": "创响青春&#183;筑梦永州 | 2026年湖南省大学生创业就业法律知识宣讲活动 ...",
+      "url": "https://www.sohu.com/a/1076440302_121106908",
+      "summary": "9月15日，由共青团湖南省委主办，永州市委人才办、共青团永州市委、永州市人力资源社会保障局、永州市律师协会、永州市学生联合会承办，湖南科技学院团委、永州市青年创业就业法律援助中心协办的2026年湖南省",
       "source": "Bing·大学生创业扶持政策",
       "category": "政策",
-      "published": "2026-09-16T00:47:00.000Z",
-      "image": "//q2.itc.cn/q_70/images03/20260916/83aa0d0bca6c42b7b976fe9a184a11f4.jpeg",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "950945be4c95",
-      "title": "破解起步难、资金缺、场地紧 一站式扶持“组合拳”助力青年创新创业",
-      "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260913_3209707.shtml",
-      "summary": "央视网消息：起步难、资金缺、场地紧是不少小微创业者的普遍痛点。在湖北黄石，为精准破解初创群体的发展难题，2026年以来，当地推出“千店万户”创业扶持计划，落实低成本入驻、免费设备租赁、低门槛贷款、一站",
-      "source": "Bing·大学生创业扶持政策",
-      "category": "政策",
-      "published": "2026-09-13T00:44:00.000Z",
-      "image": "",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "f5cb39eaf8f6",
-      "title": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
-      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202606/t20260602_1438600.html",
-      "summary": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
-      "source": "教育部",
-      "category": "政策",
-      "published": "2026-06-02T00:00:00.000Z",
-      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "a3af074b2b9b",
-      "title": "2026-05-22教育部等八部门办公厅关于联合开展2026年度高校毕业生等重点群体促就业“国聘行动”的通知",
-      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202605/t20260522_1437356.html",
-      "summary": "2026-05-22教育部等八部门办公厅关于联合开展2026年度高校毕业生等重点群体促就业“国聘行动”的通知",
-      "source": "教育部",
-      "category": "政策",
-      "published": "2026-05-22T00:00:00.000Z",
-      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+      "published": "2026-09-15T12:15:00.000Z",
+      "image": "https://q1.itc.cn/q_70/images03/20260915/fb443cda7bcd430690a5f2d96d8a017d.jpeg",
       "score": 50,
       "tags": []
     }
