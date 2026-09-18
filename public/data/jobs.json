@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-18T08:52:16.427Z",
-  "count": 121,
+  "updated": "2026-09-18T13:29:06.447Z",
+  "count": 122,
   "sources": {
     "V2EX": 7,
     "RemoteOK": 99,
-    "Remotive": 15,
+    "Remotive": 16,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
@@ -238,6 +238,36 @@
       "postedDate": "2026-09-16",
       "url": "https://remoteOK.com/remote-jobs/remote-principal-product-manager-domaintools-1137396",
       "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remotive-2091129",
+      "title": "Senior Data Scientist",
+      "company": "Lemon.io",
+      "location": "Northern America, LATAM, Europe, APAC",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        ".Net",
+        "android",
+        "C",
+        "C#",
+        "C++",
+        "golang",
+        "ios",
+        "java",
+        "javascript",
+        "node.js",
+        "php",
+        "python"
+      ],
+      "category": "Data and Analytics",
+      "postedDate": "2026-09-16",
+      "url": "https://remotive.com/remote-jobs/data/senior-data-scientist-2091129",
+      "source": "Remotive",
       "region": "foreign"
     },
     {
