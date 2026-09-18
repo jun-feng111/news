@@ -1,14 +1,36 @@
 {
-  "updated": "2026-09-18T03:30:05.975Z",
-  "count": 120,
+  "updated": "2026-09-18T08:52:16.427Z",
+  "count": 121,
   "sources": {
-    "V2EX": 6,
+    "V2EX": 7,
     "RemoteOK": 99,
     "Remotive": 15,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1242992",
+      "title": "日本 IT 岗位（PM・PL／开发工程师）｜东京",
+      "company": "GSDgsd",
+      "location": "募集",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "python",
+        "java",
+        "c++",
+        "php"
+      ],
+      "category": "产品",
+      "postedDate": "2026-09-18",
+      "url": "https://www.v2ex.com/t/1242992",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1242899",
       "title": "青岛民营大学招博士,可以推荐",

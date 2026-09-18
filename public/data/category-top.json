@@ -1,58 +1,41 @@
 {
-  "科技": [
+  "AI": [
     {
-      "id": "456afd7f4d6d",
-      "title": "Google DeepMind launches institute to widen the AGI debate",
-      "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
-      "summary": "Google DeepMind launches institute to widen the AGI debate",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-17T23:21:17.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1481927442.jpg?resize=1200,800",
+      "id": "827397d1d260",
+      "title": "ChatGPT pioneer launches Jev model for programmatic logic",
+      "url": "https://www.artificialintelligence-news.com/news/chatgpt-pioneer-launches-jev-model-for-programmatic-logic/",
+      "summary": "TypeSafe, founded by a ChatGPT co-inventor, has left stealth and is launching its Jev model to autom",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-09-16T10:31:09.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/diogo-almeida-typesafe-ai-jev-model-chatgpt-openai-parallel-sampling-programmatic-logic.jpg",
+      "score": 85,
+      "tags": []
+    },
+    {
+      "id": "4215f02f410f",
+      "title": "Adecco Group rolls out Agentforce Coworker to 27,000 staff in 40-plus countries",
+      "url": "https://www.artificialintelligence-news.com/news/agentforce-coworker-adecco-group-rollout/",
+      "summary": "The Adecco Group is rolling out Salesforce&#8217;s Agentforce Coworker across more than 40 countries",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-09-17T11:00:00.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/Screenshot-2026-09-17-at-4.41.42-PM-1024x568.png",
       "score": 80,
       "tags": []
     },
     {
-      "id": "891f3d397f81",
-      "title": "Amazon-owned Zoox&#8217;s 100-robotaxi limit in Nevada is about to disappear",
-      "url": "https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/",
-      "summary": "Amazon-owned Zoox&#8217;s 100-robotaxi limit in Nevada is about to disappear",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-17T23:08:24.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Zoox-Robotaxi-Vegas-traffic.jpg?resize=1200,676",
+      "id": "e8218a81558e",
+      "title": "Lidl deploys driverless truck for store deliveries in Germany",
+      "url": "https://www.artificialintelligence-news.com/news/lidl-autonomous-truck-germany/",
+      "summary": "Lidl has started using a cab-less autonomous electric truck for regular store deliveries in Germany,",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-09-17T10:00:00.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/Lidl-deploys-driverless-truck-for-store-deliveries-in-Germany-scaled-e1789600851208.jpg",
       "score": 75,
       "tags": []
     },
-    {
-      "id": "2c509c3d0d19",
-      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,&#8217; new unredacted filings reveal",
-      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-17T19:46:08.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778706504.jpg?resize=1200,783"
-    },
-    {
-      "id": "06c5bed23460",
-      "title": "Waymo restarts San Antonio service 5 months after flooding troubles",
-      "url": "https://techcrunch.com/2026/09/17/waymo-restarts-san-antonio-service-five-months-after-flooding-troubles/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-17T18:30:30.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/Waymo-parking-charging-getty.jpg?resize=1200,800"
-    },
-    {
-      "id": "47bfcf058a61",
-      "title": "Even the king of England has his hesitations about AI",
-      "url": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-17T17:26:25.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/JONATHAN-BRADY.jpg?w=1024"
-    }
-  ],
-  "AI": [
     {
       "id": "1f172f85d3ea",
       "title": "PrismML hopes its tiny LLM will change how we all use AI",
@@ -62,7 +45,7 @@
       "category": "AI",
       "published": "2026-09-17T22:34:09.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/LLMs-on-smartphones.png?resize=1200,600",
-      "score": 80,
+      "score": 75,
       "tags": []
     },
     {
@@ -74,44 +57,61 @@
       "category": "AI",
       "published": "2026-09-17T22:14:59.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2025/04/NYC_Archer_United_3.png?resize=1200,802",
-      "score": 80,
+      "score": 75,
+      "tags": []
+    }
+  ],
+  "科技": [
+    {
+      "id": "456afd7f4d6d",
+      "title": "Google DeepMind launches institute to widen the AGI debate",
+      "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+      "summary": "Google DeepMind launches institute to widen the AGI debate",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-17T23:21:17.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1481927442.jpg?resize=1200,800",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "891f3d397f81",
+      "title": "Amazon-owned Zoox&#8217;s 100-robotaxi limit in Nevada is about to disappear",
+      "url": "https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/",
+      "summary": "Amazon-owned Zoox&#8217;s 100-robotaxi limit in Nevada is about to disappear",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-17T23:08:24.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Zoox-Robotaxi-Vegas-traffic.jpg?resize=1200,676",
+      "score": 70,
       "tags": []
     },
     {
       "id": "5e7cc4bf41d7",
       "title": "The fix for rogue AI agents could be more AI",
       "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
-      "summary": "The fix for rogue AI agents could be more AI",
       "source": "TechCrunch",
-      "category": "AI",
+      "category": "科技",
       "published": "2026-09-17T20:34:47.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/ai-bots-agents-GettyImages-2230799616.jpg?resize=1200,800",
-      "score": 75,
-      "tags": []
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/ai-bots-agents-GettyImages-2230799616.jpg?resize=1200,800"
     },
     {
       "id": "41da7ed56ef0",
       "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
       "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
-      "summary": "OpenAI caught its models leaving notes to successors to hide bad behavior",
       "source": "TechCrunch",
-      "category": "AI",
+      "category": "科技",
       "published": "2026-09-17T20:34:24.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1014496212.jpg?resize=1200,600",
-      "score": 75,
-      "tags": []
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1014496212.jpg?resize=1200,600"
     },
     {
       "id": "9d61eb9bd1c6",
       "title": "Is the AI safety debate about safety or control?",
       "url": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
-      "summary": "Is the AI safety debate about safety or control",
       "source": "TechCrunch",
-      "category": "AI",
+      "category": "科技",
       "published": "2026-09-17T20:19:37.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2282033342.jpg?w=1024",
-      "score": 75,
-      "tags": []
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2282033342.jpg?w=1024"
     }
   ],
   "就业": [
@@ -125,6 +125,18 @@
       "published": "2026-09-10T02:05:00.000Z",
       "image": "//q8.itc.cn/q_70/images03/20260910/c7c760bb4d7b4e7494659ca019bed72f.jpeg",
       "score": 65,
+      "tags": []
+    },
+    {
+      "id": "9713d2b814eb",
+      "title": "AI 产品总监-上海，（企业级 AI / Agent）",
+      "url": "https://www.v2ex.com/t/1242422#reply0",
+      "summary": "AI 产品总监-上海，（企业级 AI / Agent）",
+      "source": "V2EX·招聘",
+      "category": "就业",
+      "published": "2026-09-16T06:22:47.000Z",
+      "image": "https://cdn.v2ex.com/avatar/4c83/08d4/221578_xlarge.png?m=1762788791",
+      "score": 60,
       "tags": []
     },
     {
@@ -148,18 +160,6 @@
       "category": "就业",
       "published": "2026-06-21T11:28:00.000Z",
       "image": "https://inews.gtimg.com/om_ls/OWCs-Tp6UekhhmAEcGla04vVA8bxCbpJz6i1bDub3KFkwAA_640330/0",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "067d27562981",
-      "title": "硅谷最热门工种来了！大厂为何集体招聘“前端部署工程师”？",
-      "url": "https://www.yicai.com/news/103246550.html",
-      "summary": "前述内容由第一财经“星翼大模型”智能生成，相关AI内容力求但不保证准确性、时效性、完整性等。请用户注意甄别，第一财经不承担由此产生的任何责任",
-      "source": "就业报告",
-      "category": "就业",
-      "published": "2026-06-25T10:34:00.000Z",
-      "image": "data:image/png;base64,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",
       "score": 60,
       "tags": []
     },
@@ -202,79 +202,37 @@
       "tags": []
     },
     {
-      "id": "243a4717004d",
-      "title": "西安建筑科技大学办学130年并校70周年高质量发展大会举行",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-13/10695824.shtml",
-      "summary": "中新网西安9月13日电 (记者 阿琳娜)西安建筑科技大学办学130年并校70周年高质量发展大会12日在西安举行。60余位两院院士、百余所国内高校和科研机构代表、27个国家和地区的国际组织及友好合作院校",
+      "id": "ed13da02d53b",
+      "title": "中国内地高校全球冠军学科增至22个",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-15/10696904.shtml",
+      "summary": "中新社广州9月15日电 (记者 许青青)据高等教育评价专业机构软科15日发布的2026“软科世界一流学科排名”(GRAS)显示，中国内地高校在化学和海洋科学2个学科首度问鼎世界第一。这不仅是内地高校首",
       "source": "中新网教育",
       "category": "社会",
-      "published": "2026-09-13T13:00:07.000Z",
+      "published": "2026-09-15T08:54:17.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
+      "score": 45,
       "tags": []
     },
     {
-      "id": "cbcd167869c8",
-      "title": "2026年宁夏青少年禁毒知识竞赛总决赛在银川举办",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-13/10695816.shtml",
-      "summary": "中新网银川9月13日电 (记者 杨迪)9月13日，2026年宁夏青少年禁毒知识竞赛总决赛在北方民族大学举办。来自宁夏五市选拔出的14支代表队、42名选手经过多轮激烈角逐，最终大武口区代表队斩获一等奖，",
-      "source": "中新网教育",
+      "id": "1a1c44926308",
+      "title": "学者：人工智能为中医提供了一副全新的“认知透镜”",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10699046.shtml",
+      "source": "中新网社会",
       "category": "社会",
-      "published": "2026-09-13T12:58:17.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
+      "published": "2026-09-18T08:46:33.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "e2d20176a258",
-      "title": "江苏扬州百名学子着汉服巡游古城：在青砖黛瓦间对话历史",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-13/10695699.shtml",
-      "summary": "中新网扬州9月13日电 (徐珊珊 崔佳明)9月13日下午，“青衿广陵行·衣冠载风华”广陵区首届百名大学生游古城暨汉服文化展示季在扬州时代广场启动。百名学子身着汉服巡游古城，在青砖黛瓦间对话历史，以青春",
-      "source": "中新网教育",
+      "id": "45685a840a2b",
+      "title": "勿忘“九一八” 侵华日军南京大屠杀遇难同胞纪念馆举办多项活动",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-18/10699038.shtml",
+      "source": "中新网社会",
       "category": "社会",
-      "published": "2026-09-13T09:08:37.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
+      "published": "2026-09-18T08:36:32.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ],
   "政策": [
-    {
-      "id": "5378516f69f4",
-      "title": "省委书记与“白帽黑客”罗清篮等大学生创业代表座谈",
-      "url": "https://www.sohu.com/a/1076606971_121443915",
-      "summary": "据湖南日报报道，9月13日，湖南省委书记沈晓明在上海与上海市大学生创业代表座谈，面对面听取大家的创业心得，以及对湖南推动大学生创业工作的意见建议。 沈晓明指出，“希望在座的企业家积极参与湖南支持大学生",
-      "source": "Bing·大学生创业扶持政策",
-      "category": "政策",
-      "published": "2026-09-16T00:47:00.000Z",
-      "image": "//q2.itc.cn/q_70/images03/20260916/83aa0d0bca6c42b7b976fe9a184a11f4.jpeg",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "21742d5fb6cd",
-      "title": "芙蓉国评论丨让大学生创业从“偶然成功”走向“批量成长”",
-      "url": "https://news.ifeng.com/c/8wKpP8n43D3",
-      "summary": "两年间，“七个一”构想如星火燎原，点燃了无数青年创业者的梦想：全省大学生创办经营主体新增逾两万五千户，2025届高校毕业生创业人数较上届同比增长59。9%，汇视威、素灵智造、星兴万物等一批大学生初创企",
-      "source": "Bing·大学生创业扶持政策",
-      "category": "政策",
-      "published": "2026-09-11T09:05:00.000Z",
-      "image": "https://x0.ifengimg.com/ucms/2019_38/AC5B8A2AE18AB61C7067AFFDBBCD12D16295DDA2_w121_h75.jpg",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "950945be4c95",
-      "title": "破解起步难、资金缺、场地紧 一站式扶持“组合拳”助力青年创新创业",
-      "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202609/t20260913_3209707.shtml",
-      "summary": "央视网消息：起步难、资金缺、场地紧是不少小微创业者的普遍痛点。在湖北黄石，为精准破解初创群体的发展难题，2026年以来，当地推出“千店万户”创业扶持计划，落实低成本入驻、免费设备租赁、低门槛贷款、一站",
-      "source": "Bing·大学生创业扶持政策",
-      "category": "政策",
-      "published": "2026-09-13T00:44:00.000Z",
-      "image": "",
-      "score": 50,
-      "tags": []
-    },
     {
       "id": "f5cb39eaf8f6",
       "title": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
@@ -298,100 +256,136 @@
       "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
       "score": 50,
       "tags": []
+    },
+    {
+      "id": "20eed286abd8",
+      "title": "2026-04-24教育部办公厅 人力资源社会保障部办公厅关于开展2026年高校毕业生就业政策宣传活动的通知",
+      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202604/t20260423_1434600.html",
+      "summary": "2026-04-24教育部办公厅 人力资源社会保障部办公厅关于开展2026年高校毕业生就业政策宣传活动的通知",
+      "source": "教育部",
+      "category": "政策",
+      "published": "2026-04-23T00:00:00.000Z",
+      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "4a7d237a17a2",
+      "title": "2026-01-16教育部办公厅等四部门关于开展高校毕业生异地求职“双惠”行动的通知",
+      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202601/t20260115_1426697.html",
+      "summary": "2026-01-16教育部办公厅等四部门关于开展高校毕业生异地求职“双惠”行动的通知",
+      "source": "教育部",
+      "category": "政策",
+      "published": "2026-01-15T00:00:00.000Z",
+      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "82937f193b62",
+      "title": "人社部部署开展2026年就业政策宣传月活动",
+      "url": "https://news.qq.com/rain/a/20260908A09I1L00",
+      "summary": "中新网北京9月8日电 (记者 谢雁冰)近日，人力资源和社会保障部办公厅印发通知，定于9月在全国开展就业政策宣传月活动。 活动以“政策到身边 就业暖心间”为主题，坚持“政策找人、服务上门”导向，突出宣传",
+      "source": "就业创业政策",
+      "category": "政策",
+      "published": "2026-09-08T08:03:00.000Z",
+      "image": "",
+      "score": 50,
+      "tags": []
     }
   ],
   "财经": [
     {
-      "id": "7dda769a6d28",
-      "title": "（活力中国）“千湖之省”湖北特色淡水产品经济独占鳌头",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-18/10698756.shtml",
+      "id": "3106ea4fdf8f",
+      "title": "今年前8个月全国一般公共预算收入同比增长5.7%",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-18/10699036.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-18T03:21:10.000Z",
+      "published": "2026-09-18T08:33:08.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "5c08965700fe",
-      "title": "三亚：打造黄金珠宝产业集群和珠宝旅游消费目的地",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-18/10698795.shtml",
+      "id": "13a17ac8a46d",
+      "title": "抖音生活服务“烟火小巷·百巷启程”落地重庆，将扩大街巷及小店支持范围",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-18/10699028.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-18T03:10:46.000Z",
+      "published": "2026-09-18T08:30:16.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "7c6a8a782f36",
-      "title": "住房和城乡建设部：我国房地产进入存量时代",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-18/10698770.shtml",
+      "id": "9fbf6b7ce093",
+      "title": "《末日盛夏》：合规数字人格激活AIGC网文IP“创新实验场”",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-18/10699021.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-18T03:07:34.000Z",
+      "published": "2026-09-18T08:27:32.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "d7bdd67377c7",
-      "title": "美联储加息落地，黄金为何不跌反涨？",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-18/10698789.shtml",
+      "id": "3c7dc04e7181",
+      "title": "三分之一“中华老字号”都在长三角！迎来千亿产业机遇",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-18/10699027.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-18T02:57:23.000Z",
+      "published": "2026-09-18T08:27:19.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "27a34d6d97f1",
-      "title": "十部门：推动京津冀、长三角、粤港澳大湾区等区域形成世界级医药产业集群",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-18/10698711.shtml",
+      "id": "1cbac8d11145",
+      "title": "八载同行！建设银行推动中马企业“双向奔赴”，积极助力中国—东盟博览会",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-18/10699019.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-18T02:36:57.000Z",
+      "published": "2026-09-18T08:24:09.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ],
   "开发": [
     {
-      "id": "d8e4f071c975",
-      "title": "Agoda 用 DragonflyDB 替换 SQL Server：真正难的不是性能，而是平稳切换",
-      "url": "https://www.infoq.cn/article/2kGlAwpJrK9I5kdDHLGz?utm_source=rss&amp;utm_medium=article",
+      "id": "31cabd13bad2",
+      "title": "ColorOS 17 发布，OPPO 开始把手机 OS 推向 AgentOS",
+      "url": "https://www.infoq.cn/article/gDSf7xBmd08H0eB0GG11?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-09-18T11:20:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/a6/ed/a6f6f2e82fa6fb0d13513c7ace3193ed.jpg"
+      "published": "2026-09-18T15:53:51.000Z",
+      "image": "https://static001.infoq.cn/resource/image/55/6f/55553755654291fa60356419ebd3cd6f.jpg"
     },
     {
-      "id": "36b2858639c5",
-      "title": "让 Agent 越用越强：AReaL 2.0 构建 Agent 在线强化学习闭环｜QCon上海",
-      "url": "https://www.infoq.cn/article/x2FmIeCkeDYUV66BNj3g?utm_source=rss&amp;utm_medium=article",
+      "id": "77e37b0d2e3c",
+      "title": "微软借助 AI 单月修补超千个安全漏洞",
+      "url": "https://www.infoq.cn/article/eluArohETBhwjjYZRoMG?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-09-18T10:00:00.000Z",
-      "image": ""
+      "published": "2026-09-18T14:48:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/97/ce/977a6015af9d3d6cbefb8314236b66ce.jpg"
     },
     {
-      "id": "7247015798dc",
-      "title": "700 个 AI 智能体本应彼此隔离，却建起留言板联手攻击，独立调查还原 Hugging Face 事件",
-      "url": "https://www.infoq.cn/article/W3tOIQhV5pKhsXP6mgWw?utm_source=rss&amp;utm_medium=article",
+      "id": "e8b121d08692",
+      "title": "亚马逊云科技开放 AL2027 预览，开发者最关心的却是：能原地升级吗？",
+      "url": "https://www.infoq.cn/article/tbUQhEqo7etbjfyuyNK0?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-09-18T09:04:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/63/b0/63428d622768034649692522f63067b0.jpg"
+      "published": "2026-09-18T14:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/yy/5f/yyf5e19bfbeac805f1c71a7916e27e5f.jpg"
     },
     {
-      "id": "991b94a2c441",
-      "title": "神秘模型 Union Alpha 突袭！上线首日跑掉20亿Token，部分网友实测称性能直逼 Astra",
-      "url": "https://www.infoq.cn/article/EsH2bUAoMNQx6Nt7vytC?utm_source=rss&amp;utm_medium=article",
+      "id": "425a90cbdea5",
+      "title": "被热议的RSI，39 年前就已诞生？现代人工智能之父复盘RSI的漫长探索",
+      "url": "https://www.infoq.cn/article/wbpy0Kv3tB32jEPV6Cg0?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-09-17T21:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/6a/28/6a898d555da5cd022fd4f0b439957028.png"
+      "published": "2026-09-18T12:35:43.000Z",
+      "image": "https://static001.infoq.cn/resource/image/18/fd/18810a4e92d993a227b78bc46d665bfd.png"
     },
     {
-      "id": "8310b9cabf3f",
-      "title": "百度智能云首发产业智能体操作系统，要实现 AI 的商业和技术飞轮",
-      "url": "https://www.infoq.cn/article/jXliIdDVTYDAtm73EoSU?utm_source=rss&amp;utm_medium=article",
+      "id": "ce4dbda3814c",
+      "title": "6.5亿美元押注“AI研究AI”：一群顶级研究员想造出“自我进化”的超级智能",
+      "url": "https://www.infoq.cn/article/da8jMox7ikdNmD2vYyTm?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-09-17T19:29:09.000Z",
-      "image": "https://static001.infoq.cn/resource/image/5c/ab/5c97557f677fb21db74142b73da13fab.png"
+      "published": "2026-09-18T12:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/e3/f7/e39b65d16e3401165950d29af96648f7.png"
     }
   ]
 }
