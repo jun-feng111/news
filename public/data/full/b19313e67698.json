@@ -1,0 +1,7 @@
+{
+  "id": "b19313e67698",
+  "title": "微信和 VS Code 强强联合！WeChat AHP 来了 - formulahendry",
+  "url": "https://www.cnblogs.com/formulahendry/p/23036505",
+  "contentZh": "",
+  "contentFull": "\n大家好！我是韩老师。\n大家应该知道，差不多半年前，我发布了 WeChat ACP：\n深夜发布！微信可以连上 Claude、Codex、Copilot、Qwen、Gemini、OpenCode 等各类 Agent！\n如今，已经有超过 14K 的下载量了：\n\n\n\n在之前的文章中（六天小长假，开始！），我提到了我领导的项目 Agent Rosetta: AHP x ACP - Universal Agent Host 获得了第一届 CoreAI China hackathon 的 People's Choice Award 大奖！\n那么，AHP 又是个什么东西？\n9/5 我在 PyCon 的分享中，我帮大家问了：\n\n不过，不要慌，AHP 和 ACP 是强强联合的关系：\n\n\n\n然后，铺垫了这么多，我们就可以回到主题了：微信和 VS Code 的强强联合！\n\n今天，我很高兴和大家分享：\n我发布了 VS Code 的 WeChat AHP extension。\nWeChat AHP - Visual Studio Marketplace\nhttps://open-vsx.org/extension/formulahendry/wechat-ahp\n\n\n它可以让你的微信和 VS Code 的 Agent session 双向实时同步，在何时何地，都能通过微信远程操控你的 VS Code Agent！\nVS Code 的 session：\n\n\n微信的 session：\n\n\n通过 AHP，他们的 read-write 操作，都是毫秒级实时同步的！\n\n\n想一下这个场景：\n你先在 VS Code 启动了一个 agent session。然后累了，躺在床上，拿出手机微信，因为 session 是实时同步到微信的，你又能无缝继续肝。接下来，你又坐到电脑前，VS Code 的 agent session 是同步更新到最新的，你又可以在电脑前无缝继续肝。\n\nACP 解决了连接任何 Agent Harness 的问题，\nAHP 解决了多 Client 实时同步 Agent Session 的问题。\n\n其实，我们的需求，很简单：\n随时随地，用任何 Client，操控任何 Agent；再随时随地，无缝切换到其他 Client，继续操控任何 Agent。\n\n代码完全开源：\nhttps://github.com/formulahendry/vscode-wechat-ahp\n欢迎围观。\n\n也可以通过命令行一键安装：\n\ncode --install-extension formulahendry.wechat-ahp\n\n\n"
+}
