@@ -1,0 +1,7 @@
+{
+  "id": "78a1dde8ebd2",
+  "title": "Docker推出完全重构的虚拟化层以提升性能并改善开发体验",
+  "url": "https://www.infoq.cn/article/AXtfCFx09aNmpWgLkqhN?utm_source=rss&amp;utm_medium=article",
+  "contentZh": "",
+  "contentFull": "Docker VMM（虚拟机监视器，virtual machine monitor）是 Docker 为 Docker Desktop 推出的自研虚拟化层，用以替代第三方的虚拟化组件，使 Docker 能够直接控制并针对容器工作负载进行优化。公开测试版随Docker Desktop 4.86已经在 Mac 和 Windows 上发布。Docker 表示，开发者通常不会注意虚拟机监视器（VMM），直到遇到问题，例如，“它很慢、不稳定，或占用了本应释放的机器内存”。Docker Desktop 一直依赖第三方 VMM。现在它运行于我们从零构建的 Docker VMM 之上。这意味着我们拥有了完整技术栈，并能针对容器工作负载调优引擎的各个部分。这直接带来对开发者的收益：引擎能够持续改进，响应开发者的反馈，并按我们自己的节奏发布。据 Docker 称，这一新虚拟化层在最新的 Docker Desktop 版本中带来了多项性能、稳定性与治理方面的改进。容器启动现在“在各方面都有可量化的加速”，包括首次启动、在项目间切换以及重启恢复时。容器与宿主之间的文件共享也得到改进，在编辑-编译-测试工作流中效果尤为明显。新 VMM 还通过在容器空闲时将未使用的内存返还给宿主来提升内存效率。另一项收益是 Windows 上的体验更好。Docker 现在在 Windows 上拥有虚拟化层，目标是在提供接近 Hyper-V 级别隔离的同时，带来更接近 WSL2 的性能。Docker 指出，新 VMM 不仅是一次性能升级，更是其跨产品运行时架构的新基础。相同的虚拟化引擎为 Docker Sandboxes 提供支持，这意味着底层引擎的改进可同时惠及传统的 Docker 工作负载与用于 AI 智能体的隔离环境。Docker 称，长期目标是实现跨笔记本、云端和本地的统一运行时，使容器、Compose 应用与 AI 智能体共享同一基础。目前，新 VMM 已经包含在Docker Desktop 4.86中，它在 macOS 上会自动启用，在 Windows 上则是可选择性地开启。对 Linux 支持则计划于十月底的 GA（General Availability）版本中加入。查看英文原文：Docker Launches Fully Rebuilt Virtualization Layer to Boost Performance and Improve Dev Experience"
+}
