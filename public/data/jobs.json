@@ -1,14 +1,42 @@
 {
-  "updated": "2026-09-19T12:56:08.395Z",
-  "count": 123,
+  "updated": "2026-09-19T16:17:34.806Z",
+  "count": 124,
   "sources": {
-    "V2EX": 7,
+    "V2EX": 8,
     "RemoteOK": 99,
     "Remotive": 17,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1243214",
+      "title": "杭州/可远程： Web 安全与风控工程师",
+      "company": "mike2016",
+      "location": "国内",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "python",
+        "java",
+        "go",
+        "c++",
+        "javascript",
+        "node",
+        "flask",
+        "mysql",
+        "redis",
+        "mongodb"
+      ],
+      "category": "其他",
+      "postedDate": "2026-09-19",
+      "url": "https://www.v2ex.com/t/1243214",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1243100",
       "title": "招项目管理兼职",
@@ -141,6 +169,29 @@
       "url": "https://www.v2ex.com/t/1242528",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "remoteok-1137405",
+      "title": "Senior Shopify Developer",
+      "company": "Sanctuary Computer",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "dev",
+        "engineer",
+        "senior",
+        "front end",
+        "shopify"
+      ],
+      "category": "dev",
+      "postedDate": "2026-09-18",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-shopify-developer-sanctuary-computer-1137405",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remotive-2091130",
@@ -3239,36 +3290,6 @@
       "category": "testing",
       "postedDate": "2026-07-28",
       "url": "https://remoteOK.com/remote-jobs/remote-product-manager-new-york-chicago-charlotte-oula-1135672",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1135673",
-      "title": "Junior Data Analyst",
-      "company": "HiredBuddy",
-      "location": "California, California, United States",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "testing",
-        "education",
-        "exec",
-        "content writing",
-        "marketing",
-        "part time",
-        "design",
-        "technical",
-        "coordinator",
-        "customer support",
-        "travel",
-        "microsoft"
-      ],
-      "category": "testing",
-      "postedDate": "2026-07-28",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-data-analyst-hiredbuddy-1135673",
       "source": "RemoteOK",
       "region": "foreign"
     }
