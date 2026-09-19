@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-19T08:36:35.767Z",
-  "count": 122,
+  "updated": "2026-09-19T12:56:08.395Z",
+  "count": 123,
   "sources": {
     "V2EX": 7,
     "RemoteOK": 99,
-    "Remotive": 16,
+    "Remotive": 17,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
@@ -141,6 +141,36 @@
       "url": "https://www.v2ex.com/t/1242528",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "remotive-2091130",
+      "title": "Senior .NET Full-stack Developer",
+      "company": "Lemon.io",
+      "location": "Northern America, LATAM, Europe, APAC",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        ".Net",
+        "android",
+        "C",
+        "C#",
+        "C++",
+        "data science",
+        "fullstack",
+        "golang",
+        "ios",
+        "java",
+        "javascript",
+        "node.js"
+      ],
+      "category": "Software Development",
+      "postedDate": "2026-09-17",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-net-full-stack-developer-2091130",
+      "source": "Remotive",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137400",
