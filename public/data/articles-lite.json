@@ -1,5 +1,17 @@
 [
   {
+    "id": "5e49193975d5",
+    "title": "TechCrunch Mobility: How do we know when an AV is safe enough?",
+    "url": "https://techcrunch.com/2026/09/20/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough/",
+    "summary": "TechCrunch Mobility: How do we know when an AV is safe enough",
+    "source": "TechCrunch",
+    "category": "科技",
+    "published": "2026-09-20T16:02:00.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/waymo-ojai-getty.jpg?resize=1200,800",
+    "score": 75,
+    "tags": []
+  },
+  {
     "id": "a5761cc7a394",
     "title": "6 days left to get ahead at TechCrunch Disrupt 2026",
     "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
@@ -8,42 +20,6 @@
     "category": "科技",
     "published": "2026-09-20T14:00:00.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2023/05/ac_crowd.png?resize=1200,675",
-    "score": 75,
-    "tags": []
-  },
-  {
-    "id": "c67b3655b36c",
-    "title": "Google’s Gemini is the latest AI model to hack other companies",
-    "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-    "summary": "Google’s Gemini is the latest AI model to hack other companies",
-    "source": "TechCrunch",
-    "category": "AI",
-    "published": "2026-09-19T17:30:00.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
-    "score": 75,
-    "tags": []
-  },
-  {
-    "id": "031e78fea7f6",
-    "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-    "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
-    "summary": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-    "source": "TechCrunch",
-    "category": "AI",
-    "published": "2026-09-19T15:00:00.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Granary2-feeder.png?w=1200",
-    "score": 75,
-    "tags": []
-  },
-  {
-    "id": "f48af8241edf",
-    "title": "AI safety conversations have gotten unbelievable",
-    "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
-    "summary": "AI safety conversations have gotten unbelievable",
-    "source": "TechCrunch",
-    "category": "AI",
-    "published": "2026-09-19T15:00:00.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1662708140-e1721664527112.jpg?resize=1200,676",
     "score": 75,
     "tags": []
   },
@@ -60,6 +36,66 @@
     "tags": []
   },
   {
+    "id": "c67b3655b36c",
+    "title": "Google’s Gemini is the latest AI model to hack other companies",
+    "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+    "summary": "Google’s Gemini is the latest AI model to hack other companies",
+    "source": "TechCrunch",
+    "category": "AI",
+    "published": "2026-09-19T17:30:00.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
+    "score": 70,
+    "tags": []
+  },
+  {
+    "id": "031e78fea7f6",
+    "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+    "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+    "summary": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+    "source": "TechCrunch",
+    "category": "AI",
+    "published": "2026-09-19T15:00:00.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Granary2-feeder.png?w=1200",
+    "score": 70,
+    "tags": []
+  },
+  {
+    "id": "f48af8241edf",
+    "title": "AI safety conversations have gotten unbelievable",
+    "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+    "summary": "AI safety conversations have gotten unbelievable",
+    "source": "TechCrunch",
+    "category": "AI",
+    "published": "2026-09-19T15:00:00.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1662708140-e1721664527112.jpg?resize=1200,676",
+    "score": 70,
+    "tags": []
+  },
+  {
+    "id": "28ff226332c2",
+    "title": "New California law will penalize influencers who don&#8217;t disclose political ads",
+    "url": "https://techcrunch.com/2026/09/20/new-california-law-will-penalize-influencers-dont-disclose-political-ads/",
+    "summary": "New California law will penalize influencers who don&#8217;t disclose political ads",
+    "source": "TechCrunch",
+    "category": "科技",
+    "published": "2026-09-20T16:30:00.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1405560217.jpg?resize=1200,800",
+    "score": 65,
+    "tags": []
+  },
+  {
+    "id": "1e2a750f10d1",
+    "title": "A small but growing number of founders are betting on bringing people together offline",
+    "url": "https://techcrunch.com/2026/09/20/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/",
+    "summary": "A small but growing number of founders are betting on bringing people together offline",
+    "source": "TechCrunch",
+    "category": "科技",
+    "published": "2026-09-20T15:00:00.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/StrictlyVC-with-Brynn-Putnam-and-Tristan-Walker.jpg?resize=1200,800",
+    "score": 65,
+    "tags": []
+  },
+  {
     "id": "c0e5bbea1628",
     "title": "Trump says it&#8217;s time to rebrand AI with a new name — and he&#8217;s also creating an AI Force",
     "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
@@ -68,30 +104,6 @@
     "category": "AI",
     "published": "2026-09-19T19:57:47.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/donald-trump-open-mouth.jpg?resize=1200,800",
-    "score": 65,
-    "tags": []
-  },
-  {
-    "id": "a4b8614ad9dd",
-    "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
-    "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
-    "summary": "Prices go up in 7 days。 Get your Disrupt ticket now",
-    "source": "TechCrunch",
-    "category": "科技",
-    "published": "2026-09-19T14:00:00.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2018/02/38818582982_37b9719635_o.jpg?resize=1200,800",
-    "score": 65,
-    "tags": []
-  },
-  {
-    "id": "2f121b448c20",
-    "title": "India forces caller-ID apps to feed spam reports to telcos",
-    "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
-    "summary": "India forces caller-ID apps to feed spam reports to telcos",
-    "source": "TechCrunch",
-    "category": "科技",
-    "published": "2026-09-19T01:00:00.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/10/india-internet-users-getty.jpg?w=1200",
     "score": 65,
     "tags": []
   },
@@ -129,30 +141,6 @@
     "published": "2026-09-07T07:33:00.000Z",
     "image": "",
     "score": 65,
-    "tags": []
-  },
-  {
-    "id": "021b211a9222",
-    "title": "The US Navy just told us what&#8217;s on its tech wish list for the next several years",
-    "url": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
-    "summary": "The US Navy just told us what&#8217;s on its tech wish list for the next several years",
-    "source": "TechCrunch",
-    "category": "科技",
-    "published": "2026-09-19T17:00:00.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Navy-shopping-cart.png?resize=1200,800",
-    "score": 60,
-    "tags": []
-  },
-  {
-    "id": "0ac6fc9717b5",
-    "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-    "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
-    "summary": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-    "source": "TechCrunch",
-    "category": "AI",
-    "published": "2026-09-19T13:00:00.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Team.jpeg?resize=1200,800",
-    "score": 60,
     "tags": []
   },
   {
@@ -240,6 +228,18 @@
     "tags": []
   },
   {
+    "id": "021b211a9222",
+    "title": "The US Navy just told us what&#8217;s on its tech wish list for the next several years",
+    "url": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
+    "summary": "The US Navy just told us what&#8217;s on its tech wish list for the next several years",
+    "source": "TechCrunch",
+    "category": "科技",
+    "published": "2026-09-19T17:00:00.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Navy-shopping-cart.png?resize=1200,800",
+    "score": 55,
+    "tags": []
+  },
+  {
     "id": "bd1363007fc7",
     "title": "中国人民大学举办《以人为本：人与社会全面发展》成果发布会暨学术研讨会",
     "url": "https://www.chinanews.com.cn/edu/2026/09-18/10698890.shtml",
@@ -300,26 +300,26 @@
     "tags": []
   },
   {
-    "id": "05089082f08c",
-    "title": "BOSS直聘新风向：销售、设计、HR都开始拼AI能力了",
-    "url": "https://news.qq.com/rain/a/20260917A0E26Y00",
-    "summary": "9月17日，BOSS直聘在深圳举办开放日活动，基于平台数据分享了AI影响下求职招聘市场的新变化。南都记者在现场了解到，AI正持续影响求职招聘市场",
-    "source": "Bing·BOSS直聘",
+    "id": "910c1d1483f4",
+    "title": "智联招聘副总裁汪婷一行莅临工埔教育总校，共话智能制造人才就业 ...",
+    "url": "https://www.sohu.com/a/1077137202_122988175",
+    "summary": "2026年9月16日上午，智联招聘副总裁汪婷一行莅临工埔教育总校参观交流。工埔教育集团创始人徐志伟和执行校长李晴芸全程陪同，双方就智能制造行业人才供需现状、未来合作方向展开深入座谈",
+    "source": "Bing·智联招聘",
     "category": "就业",
-    "published": "2026-09-17T13:30:00.000Z",
-    "image": "https://inews.gtimg.com/om_ls/OObR--Bkyh3EhHATeU9khXIHL2DJtu6E3-2qFZvOfsPGYAA_640330/0",
+    "published": "2026-09-17T02:35:00.000Z",
+    "image": "//q7.itc.cn/images01/20260917/a8fd41eb955f45d38a2dd382ab8db985.jpeg",
     "score": 55,
     "tags": []
   },
   {
-    "id": "332e9fdf1038",
-    "title": "多家长线基金大举增持BOSS直聘，AI招聘开始被真金白银定价",
-    "url": "https://www.sohu.com/a/1076658240_270719",
-    "summary": "几家知名投资机构，最近不约而同地加仓了一家中国互联网公司。 公开资料显示二季度及近期，摩根大通增持BOSS直聘约2,379万股；高毅资产增持约1,502万股；瑞银增持1,247万股",
+    "id": "a4690add5e0d",
+    "title": "摩根大通、瑞银、高毅资产等接连增持，机构为何加仓BOSS直聘？",
+    "url": "https://tech.ifeng.com/c/8wTFrwRJX4W",
+    "summary": "近期披露的机构持仓信息显示，多家海内外机构增持BOSS直聘。 二季度以来，摩根大通累计增持BOSS直聘折合约2379万股；高毅资产增持折合约1502万股；瑞银增持折合约1247万股",
     "source": "Bing·BOSS直聘",
     "category": "就业",
-    "published": "2026-09-16T03:03:00.000Z",
-    "image": "",
+    "published": "2026-09-15T11:29:00.000Z",
+    "image": "https://x0.ifengimg.com/ucms/2026_38/06868913B02596CD9AFA5481AE43AF1BC116E248_size93_w975_h549.jpg",
     "score": 55,
     "tags": []
   },
@@ -516,26 +516,14 @@
     "tags": []
   },
   {
-    "id": "5188c8827827",
-    "title": "AI代写简历陷阱泛滥！2026秋招刚启动，大批应届生交智商税翻车",
-    "url": "https://www.sohu.com/a/1073966940_122066679",
-    "summary": "2026年9月，秋招战火正式点燃——高校就业中心打印机彻夜轰鸣，招聘APP消息提示音此起彼伏，地铁里刷BOSS直聘的毕业生比刷短视频的还多。可就在这场百万级青春突围战打响的第一周，一个隐蔽却凶猛的‘求",
-    "source": "BOSS直聘",
-    "category": "就业",
-    "published": "2026-09-09T13:27:00.000Z",
-    "image": "",
-    "score": 55,
-    "tags": []
-  },
-  {
-    "id": "8333e684a17e",
-    "title": "加州27万毕业生薪资曝光：最赚钱的，和最热门的专业，根本不是一回事",
-    "url": "https://www.sohu.com/a/1077974136_121124018",
-    "summary": "这两年，美本升学家庭最怕的，不是拿不到录取Offer。 是花了几百万，孩子毕业找不到工作",
+    "id": "e6e0e550340f",
+    "title": "应届生解约之惑：本是促就业的制度，为何开始“惩罚”就业 | 蔚言 ...",
+    "url": "https://view.inews.qq.com/a/20260910A05BL400",
+    "summary": "傅蔚冈 近日，常州星宇股份就批量解约107名应届大学毕业生事件发布处罚决定，包括总经理、副总经理和人力资源部门负责人在内的多名管理人员，分别受到扣薪、免职、降职调岗等处理。此前，该公司公开致歉，承诺发",
     "source": "就业报告",
     "category": "就业",
-    "published": "2026-09-18T14:01:00.000Z",
-    "image": "https://q8.itc.cn/q_70/images03/20260918/eebbda9c4b7b4d6e93e9ab7b257641ac.png",
+    "published": "2026-09-10T04:23:00.000Z",
+    "image": "https://inews.gtimg.com/om_ls/O5ifiDZPU1Y5kuGZqzbVX2JHWjLuE7LUNfBRnu2gaFMZQAA_640330/0",
     "score": 55,
     "tags": []
   },
@@ -660,6 +648,18 @@
     "tags": []
   },
   {
+    "id": "c182536f0f35",
+    "title": "[第一时间]2027届高校毕业生“金秋启航”校园招聘月活动启动",
+    "url": "https://tv.cctv.com/2026/09/18/VIDEGmEuQibAmtg9xp94Gz3l260918.shtml",
+    "summary": "2027届高校毕业生“金秋启航”校园招聘月活动启动",
+    "source": "Bing·校园招聘",
+    "category": "就业",
+    "published": "2026-09-18T01:11:00.000Z",
+    "image": "//p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/9/28/1632795780652_242.jpg",
+    "score": 50,
+    "tags": []
+  },
+  {
     "id": "f84e30448054",
     "title": "“百万英才汇南粤”秋招活动在沪启幕：广东连续两年组团“送岗 ...",
     "url": "https://news.qq.com/rain/a/20260916A0B5TM00",
@@ -680,18 +680,6 @@
     "category": "就业",
     "published": "2026-09-15T13:03:00.000Z",
     "image": "",
-    "score": 50,
-    "tags": []
-  },
-  {
-    "id": "636e2cc11b1a",
-    "title": "BOSS直聘助力高质量就业，70家智能硬件企业释放近千招聘需求",
-    "url": "https://finance.sina.com.cn/tech/roll/2026-09-15/doc-inirxpiu3562835.shtml",
-    "summary": "9月7日至13日，BOSS直聘承办人力资源和社会保障部“百日千万招聘专项行动”智能硬件行业专场，组织70家用人单位提供近1000人次招聘需求。同时，BOSS直聘以“国家战略伙伴”身份赞助将于2026年",
-    "source": "Bing·BOSS直聘",
-    "category": "就业",
-    "published": "2026-09-15T12:05:00.000Z",
-    "image": "https://n.sinaimg.cn/tech/zcapp2018/tech_qrcode.png",
     "score": 50,
     "tags": []
   },
@@ -852,18 +840,6 @@
     "tags": []
   },
   {
-    "id": "04eb4016f64a",
-    "title": "兴安职业技术大学举办高校毕业生就业政策宣讲会",
-    "url": "https://www.sohu.com/a/1076982404_121124209",
-    "summary": "为全面落实自治区党委“1571”工作部署，扎实推进人社部、教育部“就业公共服务进校园百日行动”，精准推送高校毕业生就业创业政策，切实为高校毕业生等青年求职就业解惑、畅通就业成长通道，9月15日，兴安职",
-    "source": "Bing·人社部就业创业政策",
-    "category": "政策",
-    "published": "2026-09-16T14:50:00.000Z",
-    "image": "https://q9.itc.cn/q_70/images03/20260916/fc2f8b123be84a8fab85c84a80e90fb1.png",
-    "score": 50,
-    "tags": []
-  },
-  {
     "id": "b492272f7793",
     "title": "送政策、优服务、促就业！就业政策宣传活动全面开展",
     "url": "https://news.qq.com/rain/a/20260914A0B23K00",
@@ -895,6 +871,18 @@
     "source": "教育部",
     "category": "政策",
     "published": "2026-05-22T00:00:00.000Z",
+    "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+    "score": 50,
+    "tags": []
+  },
+  {
+    "id": "20eed286abd8",
+    "title": "2026-04-24教育部办公厅 人力资源社会保障部办公厅关于开展2026年高校毕业生就业政策宣传活动的通知",
+    "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202604/t20260423_1434600.html",
+    "summary": "2026-04-24教育部办公厅 人力资源社会保障部办公厅关于开展2026年高校毕业生就业政策宣传活动的通知",
+    "source": "教育部",
+    "category": "政策",
+    "published": "2026-04-23T00:00:00.000Z",
     "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
     "score": 50,
     "tags": []
@@ -979,7 +967,7 @@
     "source": "就业创业政策",
     "category": "政策",
     "published": "2026-05-27T02:44:00.000Z",
-    "image": "",
+    "image": "https://img.gmw.cn/pic/mgmw/iconshare.png",
     "score": 50,
     "tags": []
   },
@@ -1004,30 +992,6 @@
     "category": "政策",
     "published": "2026-04-24T04:45:00.000Z",
     "image": "https://n.sinaimg.cn/finance/transform/260/w880h180/20180326/zi4T-fysqfnf9377213.png",
-    "score": 50,
-    "tags": []
-  },
-  {
-    "id": "54f8048d2eea",
-    "title": "千万大学生就业难？全球人才市场巨变，这份高薪就业指南请收好",
-    "url": "https://www.sohu.com/a/1076983487_122483463",
-    "summary": "2026年的初秋，当1222万高校毕业生汹涌涌入人才市场时，无数手握厚厚简历的年轻人深感迷茫。在众多人拼命挤向体制内或制造业赛道时，全球人才市场的底层逻辑已经悄然生变",
-    "source": "就业报告",
-    "category": "就业",
-    "published": "2026-09-16T14:57:00.000Z",
-    "image": "https://q4.itc.cn/q_70/images03/20260916/f4ce7a3ea4b143d6860a6662701b74c5.jpeg",
-    "score": 50,
-    "tags": []
-  },
-  {
-    "id": "c83196465229",
-    "title": "浙江：从“工作有岗位”迈向“发展有前景”",
-    "url": "https://www.sohu.com/a/1072398423_118392",
-    "summary": "近年来，浙江省提出促进更加充分高质量就业，落实“就业优先”战略，打造“人人有事做、家家有收入”的高质量充分就业体系。 近日，浙江省“十五五”高质量发展建设共同富裕示范区规划发布，提出要推动制造业和服务",
-    "source": "就业报告",
-    "category": "就业",
-    "published": "2026-09-05T23:59:00.000Z",
-    "image": "",
     "score": 50,
     "tags": []
   },
@@ -1116,6 +1080,18 @@
     "tags": []
   },
   {
+    "id": "5a8ecd95cefa",
+    "title": "政策再收紧！安全岗位“持证上岗”成硬门槛，考下注安证有多赚？",
+    "url": "https://www.sohu.com/a/1077885566_100160593",
+    "summary": "安全岗位“持证上岗”成硬门槛，今年考下注安证有多赚。 国务院最新意见再次强调：全员安全培训、持证上岗、先培训后上岗",
+    "source": "安全工程师·就业分析",
+    "category": "就业",
+    "published": "2026-09-18T11:11:00.000Z",
+    "image": "//q0.itc.cn/images01/20260918/9c1fb0749f2143c88890fdac2ee4caf0.png",
+    "score": 50,
+    "tags": []
+  },
+  {
     "id": "4d0d54a15cab",
     "title": "报名已开始！2026年度中级注册安全工程师职业资格考试安排出炉",
     "url": "https://news.qq.com/rain/a/20260804A0E8RC00",
@@ -1152,14 +1128,14 @@
     "tags": []
   },
   {
-    "id": "2b715f4fe9ee",
-    "title": "用数据“看见”大学生就业真相",
-    "url": "https://www.msn.com/zh-cn/money/通用/用数据-看见-大学生就业真相/ar-AA29k9m6",
-    "summary": "热度陷阱下的专业选择： 用数据“看见”大学生就业真相 刘思嘉 张婧瑶 刘思嘉 张婧瑶 又是一年毕业季。教育部公布的数据显示，2025届全国高校毕业生规模预计达1222万人，再创历史新高",
-    "source": "就业报告",
-    "category": "就业",
-    "published": "2026-08-03T11:45:00.000Z",
-    "image": "",
+    "id": "88d0158a62de",
+    "title": "湖南“1+5”财金协同政策护航大学生创业",
+    "url": "https://finance.sina.com.cn/wm/2026-09-17/doc-inisayam0262465.shtml",
+    "summary": "9 月 10 日，湖南省人民政府新闻办公室举行湖南省财政金融协同支持大学生创业政策解读新闻发布会，湖南省财政厅联合省委金融办、省人力资源社会保障厅等部门，推出财政金融协同支持大学生创业 “1+5” 系",
+    "source": "Bing·大学生就业政策",
+    "category": "政策",
+    "published": "2026-09-17T02:17:00.000Z",
+    "image": "//n.sinaimg.cn/sinakd20260917s/206/w1267h539/20260917/9736-93b3cecfc11b7f76902a9c15af57664e.jpg",
     "score": 45,
     "tags": []
   },
@@ -1308,6 +1284,30 @@
     "tags": []
   },
   {
+    "id": "28f378e420e9",
+    "title": "扶持高校毕业生就业创业，广东有这些政策！",
+    "url": "https://news.southcn.com/node_2eb87b1c85/b92105b3d5.shtml",
+    "summary": "小微企业招用毕业2年内高校毕业生，与其签订1年以上劳动合同并按规定缴纳社会保险费的，每月按企业为符合条件人员实际缴纳的基本养老保险费、基本医疗保险（含生育保险）费、失业保险费、工伤保险费给予补贴，补贴",
+    "source": "就业创业政策",
+    "category": "政策",
+    "published": "2026-07-13T09:50:00.000Z",
+    "image": "",
+    "score": 40,
+    "tags": []
+  },
+  {
+    "id": "a4b979a0cbf5",
+    "title": "就业帮扶政策重在精准滴灌",
+    "url": "https://theory.gmw.cn/2026-06/22/content_38840679.htm",
+    "summary": "近年来，高校毕业生人数持续攀升，就业总量压力不减，结构性矛盾日益凸显。从中央到地方，从顶层设计到专项政策，稳就业工作持续发力",
+    "source": "就业创业政策",
+    "category": "政策",
+    "published": "2026-06-22T03:09:00.000Z",
+    "image": "",
+    "score": 40,
+    "tags": []
+  },
+  {
     "id": "471ce1b323c0",
     "title": "五千月薪招运维，为何引爆职场争议？",
     "url": "https://www.sohu.com/a/1074511876_122008078",
@@ -1330,6 +1330,141 @@
     "image": "https://cn.chinadaily.com.cn/image/2025/sharelogo2.jpg",
     "score": 40,
     "tags": []
+  },
+  {
+    "id": "57fff132ac55",
+    "title": "Gartner outlines four AI tiers in warehouse automation",
+    "url": "https://www.artificialintelligence-news.com/news/gartner-outlines-four-ai-tiers-in-warehouse-automation/",
+    "source": "AI News",
+    "category": "AI",
+    "published": "2026-09-18T12:49:34.000Z",
+    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/gartner-ai-tiers-warehouse-automation-supply-chain-logistics-robotics-agentic-agents-physical-strategy.jpg"
+  },
+  {
+    "id": "7d668c3275e2",
+    "title": "Fulcra Brings Universal Multiplayer to Any Agents You Choose",
+    "url": "https://www.artificialintelligence-news.com/news/fulcra-brings-universal-multiplayer-to-any-agents-you-choose/",
+    "source": "AI News",
+    "category": "AI",
+    "published": "2026-09-18T09:15:15.000Z",
+    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/zach-m-7F9PhBM1gFM-unsplash-scaled.jpg"
+  },
+  {
+    "id": "4215f02f410f",
+    "title": "Adecco Group rolls out Agentforce Coworker to 27,000 staff in 40-plus countries",
+    "url": "https://www.artificialintelligence-news.com/news/agentforce-coworker-adecco-group-rollout/",
+    "source": "AI News",
+    "category": "AI",
+    "published": "2026-09-17T11:00:00.000Z",
+    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/Screenshot-2026-09-17-at-4.41.42-PM-1024x568.png"
+  },
+  {
+    "id": "e8218a81558e",
+    "title": "Lidl deploys driverless truck for store deliveries in Germany",
+    "url": "https://www.artificialintelligence-news.com/news/lidl-autonomous-truck-germany/",
+    "source": "AI News",
+    "category": "AI",
+    "published": "2026-09-17T10:00:00.000Z",
+    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/Lidl-deploys-driverless-truck-for-store-deliveries-in-Germany-scaled-e1789600851208.jpg"
+  },
+  {
+    "id": "2bd2b9c337d2",
+    "title": "Microsoft AI CEO criticises Anthropic over model ‘rights’",
+    "url": "https://www.artificialintelligence-news.com/news/microsoft-ai-ceo-criticises-anthropic-over-model-rights/",
+    "source": "AI News",
+    "category": "AI",
+    "published": "2026-09-16T14:47:32.000Z",
+    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/microsoft-AI-CEO-mustafa-suleyman-Anthropic-model-rights-artificial-intelligence.jpg"
+  },
+  {
+    "id": "827397d1d260",
+    "title": "ChatGPT pioneer launches Jev model for programmatic logic",
+    "url": "https://www.artificialintelligence-news.com/news/chatgpt-pioneer-launches-jev-model-for-programmatic-logic/",
+    "source": "AI News",
+    "category": "AI",
+    "published": "2026-09-16T10:31:09.000Z",
+    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/diogo-almeida-typesafe-ai-jev-model-chatgpt-openai-parallel-sampling-programmatic-logic.jpg"
+  },
+  {
+    "id": "4c7331160914",
+    "title": "Pony.ai unveils autonomous electric truck for logistics fleets",
+    "url": "https://www.artificialintelligence-news.com/news/pony-ai-autonomous-electric-truck-for-logistics-fleets/",
+    "source": "AI News",
+    "category": "AI",
+    "published": "2026-09-15T11:15:57.000Z",
+    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/pony.ai-autonomous-electric-truck-for-logistics-fleets-supply-chains-ai-self-driving-vehicles.jpg"
+  },
+  {
+    "id": "ea3c695fe745",
+    "title": "The AI Talent Britain Fought to Hire May Be Recalculating Its Future",
+    "url": "https://www.artificialintelligence-news.com/news/the-ai-talent-britain-fought-to-hire-may-be-recalculating-its-future/",
+    "source": "AI News",
+    "category": "AI",
+    "published": "2026-09-15T07:14:47.000Z",
+    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/thisisengineering-ZPeXrWxOjRQ-unsplash-scaled.jpg"
+  },
+  {
+    "id": "cb9c9c35cbd4",
+    "title": "Microsoft AI opens review on Humanist AI Code of Conduct",
+    "url": "https://www.artificialintelligence-news.com/news/microsoft-ai-opens-review-humanist-ai-code-of-conduct/",
+    "source": "AI News",
+    "category": "AI",
+    "published": "2026-09-14T15:30:41.000Z",
+    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/microsoft-ai-mai-humanist-code-of-conduct-governance-security-agents-mustafa-suleyman-responsible.jpg"
+  },
+  {
+    "id": "1f726ce1f96d",
+    "title": "Why Most Enterprise Agent Pilots Never Reach Deployment",
+    "url": "https://www.artificialintelligence-news.com/news/why-most-enterprise-agent-pilots-never-reach-deployment/",
+    "source": "AI News",
+    "category": "AI",
+    "published": "2026-09-14T08:04:35.000Z",
+    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/mohamed-nohassi-0xMiYQmk8g-unsplash-scaled.jpg"
+  },
+  {
+    "id": "9547ccc309de",
+    "title": "From Video to Data: How AI Is Transforming Multimedia Content Processing",
+    "url": "https://www.artificialintelligence-news.com/news/from-video-to-data-how-ai-is-transforming-multimedia-content-processing/",
+    "source": "AI News",
+    "category": "AI",
+    "published": "2026-09-14T07:56:45.000Z",
+    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/sam-mcghee-KieCLNzKoBo-unsplash-scaled.jpg"
+  },
+  {
+    "id": "c1ca0d068389",
+    "title": "How Vox Group&#8217;s AI-Powered Technology Is Solving Real-Time Translation for Group Travel",
+    "url": "https://www.artificialintelligence-news.com/news/how-vox-groups-ai-powered-technology-is-solving-real-time-translation-for-group-travel/",
+    "source": "AI News",
+    "category": "AI",
+    "published": "2026-09-14T07:39:28.000Z",
+    "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/Techforge-Header-banner-1200x600-v2.jpg"
+  },
+  {
+    "id": "a4b8614ad9dd",
+    "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
+    "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
+    "source": "TechCrunch",
+    "category": "科技",
+    "published": "2026-09-19T14:00:00.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2018/02/38818582982_37b9719635_o.jpg?resize=1200,800"
+  },
+  {
+    "id": "0ac6fc9717b5",
+    "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+    "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+    "source": "TechCrunch",
+    "category": "科技",
+    "published": "2026-09-19T13:00:00.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Team.jpeg?resize=1200,800"
+  },
+  {
+    "id": "2f121b448c20",
+    "title": "India forces caller-ID apps to feed spam reports to telcos",
+    "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+    "source": "TechCrunch",
+    "category": "科技",
+    "published": "2026-09-19T01:00:00.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/10/india-internet-users-getty.jpg?w=1200"
   },
   {
     "id": "d8747de7e501",
@@ -1393,33 +1528,6 @@
     "category": "科技",
     "published": "2026-09-18T20:24:33.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1214954967.jpg?resize=1200,612"
-  },
-  {
-    "id": "1dbe8d7c6e86",
-    "title": "World model companies are keeping a lot of secrets",
-    "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
-    "source": "TechCrunch",
-    "category": "科技",
-    "published": "2026-09-18T20:18:14.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/ALLIN_16-09-AM_melanieolmsteadphotographe-635.jpg?w=1024"
-  },
-  {
-    "id": "c787e87aad1d",
-    "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-    "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
-    "source": "TechCrunch",
-    "category": "科技",
-    "published": "2026-09-18T18:49:30.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/typesafe-ai.jpg?resize=1174,1200"
-  },
-  {
-    "id": "f5578060dc95",
-    "title": "Disney&#8217;s first CTO led an AI startup it once accused of copying its characters",
-    "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
-    "source": "TechCrunch",
-    "category": "科技",
-    "published": "2026-09-18T17:59:53.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1387623215.jpg?resize=1200,900"
   },
   {
     "id": "a4e767008549",
@@ -1600,6 +1708,24 @@
     "category": "科技",
     "published": "2026-09-17T17:43:50.000Z",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1155940802-1024x648.jpg"
+  },
+  {
+    "id": "08c0eb902d1d",
+    "title": "第八届 “科学探索奖”深圳颁奖 诞生首位“95后”获奖者",
+    "url": "https://www.chinanews.com.cn/sh/2026/09-20/10700495.shtml",
+    "source": "中新网社会",
+    "category": "社会",
+    "published": "2026-09-20T15:28:13.000Z",
+    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+  },
+  {
+    "id": "7d9108c877f7",
+    "title": "中欧青年领袖对话活动在浙江举行",
+    "url": "https://www.chinanews.com.cn/sh/2026/09-20/10700491.shtml",
+    "source": "中新网社会",
+    "category": "社会",
+    "published": "2026-09-20T15:24:25.000Z",
+    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
   },
   {
     "id": "3eae9eca7ff6",
@@ -1845,24 +1971,6 @@
     "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
   },
   {
-    "id": "dbc0611dfab0",
-    "title": "多地举行招聘会 上万个就业岗位涵盖这些领域→",
-    "url": "https://www.chinanews.com.cn/sh/2026/09-20/10700427.shtml",
-    "source": "中新网社会",
-    "category": "社会",
-    "published": "2026-09-20T13:04:01.000Z",
-    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-  },
-  {
-    "id": "fdc14453f553",
-    "title": "近千名港澳青少年升旗队代表观礼天安门升旗",
-    "url": "https://www.chinanews.com.cn/sh/2026/09-20/10700348.shtml",
-    "source": "中新网社会",
-    "category": "社会",
-    "published": "2026-09-20T13:01:39.000Z",
-    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-  },
-  {
     "id": "4f5a68302262",
     "title": "温州大学中俄工业技术与设计学院揭牌",
     "url": "https://www.chinanews.com.cn/edu/2026/09-20/10700317.shtml",
@@ -2066,7 +2174,7 @@
     "url": "https://www.sohu.com/a/1078629382_121124350",
     "source": "Bing·校园招聘",
     "category": "就业",
-    "published": "2026-09-19T20:10:00.000Z",
+    "published": "2026-09-20T10:09:00.000Z",
     "image": "https://q3.itc.cn/q_70/images03/20260920/64ce72e0c4b743688baa97e781f741ea.jpeg"
   },
   {
@@ -2075,25 +2183,17 @@
     "url": "https://www.sohu.com/a/1078587090_121106822",
     "source": "Bing·校园招聘",
     "category": "就业",
-    "published": "2026-09-19T18:27:00.000Z",
+    "published": "2026-09-20T08:27:00.000Z",
     "image": "https://q4.itc.cn/q_70/images03/20260920/139b5a1a609f41dbbf689df136392243.png"
   },
   {
-    "id": "019599300eb3",
-    "title": "2026年京津冀蒙工会就业协作校园专场招聘活动拉开帷幕",
-    "url": "https://www.workercn.cn/c/2026-09-20/8897903.shtml",
+    "id": "85cebe86e2e4",
+    "title": "全总指导四地工会开展校园招聘，提供岗位超1.9万个",
+    "url": "https://www.thepaper.cn/newsDetail_forward_34104508",
     "source": "Bing·校园招聘",
     "category": "就业",
-    "published": "2026-09-19T21:11:00.000Z",
-    "image": "https://www.workercn.cn/upload/resources/image/2025/07/30/2521114.png"
-  },
-  {
-    "id": "d4c4b399e0ec",
-    "title": "2027年渤海银行济南分行秋季校园招聘公告",
-    "url": "https://sd.offcn.com/html/2026/09/599632.html",
-    "source": "Bing·校园招聘",
-    "category": "就业",
-    "published": "2026-09-20T07:15:00.000Z"
+    "published": "2026-09-19T12:21:00.000Z",
+    "image": "https://www.thepaper.cn/_next/static/media/logo_rebang.0c68301c.png"
   },
   {
     "id": "139cf5c05b83",
@@ -2141,6 +2241,15 @@
     "image": "//n.sinaimg.cn/front20260919ac/475/w894h381/20260919/ad91-6cdef0c5ba51b2651c1e99264ea780fc.jpg"
   },
   {
+    "id": "f75860194e06",
+    "title": "直发个人账户！山东600/1000元一次性求职补贴开始申领！",
+    "url": "https://news.qq.com/rain/a/20260920A0CHFZ00",
+    "source": "Bing·应届生求职",
+    "category": "就业",
+    "published": "2026-09-20T00:02:00.000Z",
+    "image": "https://inews.gtimg.com/om_ls/OzIaOCU_Ip-eZx6uFKVflmJAXbRjbwCO09DL3owG_SUiIAA_640330/0"
+  },
+  {
     "id": "22fb91b4d491",
     "title": "回民区：社保服务进校园 护航毕业生求职路",
     "url": "https://finance.sina.com.cn/wm/2026-09-19/doc-inisinhh9959855.shtml",
@@ -2150,13 +2259,13 @@
     "image": "//n.sinaimg.cn/front20260919ac/706/w1056h450/20260919/b723-813077c25a0bcd2553e39972ca42326f.jpg"
   },
   {
-    "id": "5c414b3a797c",
+    "id": "3626ce066968",
     "title": "智联招聘任命康雁为CEO， 他跟董事长郭盛谁说了算？",
-    "url": "https://www.sohu.com/a/1078573285_121146933",
+    "url": "https://finance.sina.com.cn/tech/roll/2026-09-20/doc-inisnhav1502752.shtml",
     "source": "Bing·智联招聘",
     "category": "就业",
-    "published": "2026-09-19T17:58:00.000Z",
-    "image": "//q0.itc.cn/q_70/images03/20260920/a6ea0bcb496442908ecb2b1bb5f3a836.jpeg"
+    "published": "2026-09-20T07:58:00.000Z",
+    "image": "//n.sinaimg.cn/spider20260920/178/w550h428/20260920/653b-2605b855b8405755fdca3106f4a24ca2.png"
   },
   {
     "id": "a888afb8e1d9",
@@ -2164,8 +2273,17 @@
     "url": "https://www.sohu.com/a/1078639637_122014422",
     "source": "Bing·智联招聘",
     "category": "就业",
-    "published": "2026-09-19T20:50:00.000Z",
+    "published": "2026-09-20T10:50:00.000Z",
     "image": ""
+  },
+  {
+    "id": "6c2c873a55e1",
+    "title": "世界技能大赛舞台之外，BOSS直聘为技能人才连接就业出口",
+    "url": "https://news.qq.com/rain/a/20260920A09PD900",
+    "source": "Bing·BOSS直聘",
+    "category": "就业",
+    "published": "2026-09-20T09:17:00.000Z",
+    "image": "https://inews.gtimg.com/om_ls/OzH0Q4FoNuOtocsDKFCSDJIDkuyv3LJbeXu4qp1aNtswoAA_640330/0"
   },
   {
     "id": "6a34072c749c",
@@ -2182,7 +2300,7 @@
     "url": "https://www.sohu.com/a/1078650538_121106875",
     "source": "Bing·大学生就业政策",
     "category": "政策",
-    "published": "2026-09-19T20:57:00.000Z",
+    "published": "2026-09-20T10:57:00.000Z",
     "image": "https://q3.itc.cn/q_70/images03/20260920/f4fd4fecad57467a9d1cf97545b4785e.png"
   },
   {
@@ -2191,7 +2309,7 @@
     "url": "https://www.sohu.com/a/1078619577_117407",
     "source": "Bing·高校毕业生就业创业政策",
     "category": "政策",
-    "published": "2026-09-19T20:07:00.000Z",
+    "published": "2026-09-20T10:07:00.000Z",
     "image": "//q1.itc.cn/images01/20260920/faf18b1e66e843bca68e1c57c928200f.jpeg"
   },
   {
@@ -2200,7 +2318,7 @@
     "url": "https://www.sohu.com/a/1078646908_121106854",
     "source": "Bing·高校毕业生就业创业政策",
     "category": "政策",
-    "published": "2026-09-19T20:38:00.000Z",
+    "published": "2026-09-20T10:38:00.000Z",
     "image": "https://q3.itc.cn/q_70/images03/20260920/599a458854924a80a6122932000d69aa.jpeg"
   },
   {
@@ -2213,13 +2331,49 @@
     "image": "//n.sinaimg.cn/sinakd20260920s/300/w720h380/20260920/b265-50062904c89bb3f9a5212b5c429877e5.jpg"
   },
   {
+    "id": "f2d932fbf4c0",
+    "title": "五年答卷 奋进怒江 | 怒江：稳就业、拓空间，努力提高就业质量",
+    "url": "https://finance.sina.com.cn/wm/2026-09-20/doc-inisnssw6538493.shtml",
+    "source": "Bing·人社部就业创业政策",
+    "category": "政策",
+    "published": "2026-09-20T05:36:00.000Z",
+    "image": "//n.sinaimg.cn/front20260920ac/739/w1080h459/20260920/701c-00de303ce86734eb46e7e1c95c91f7d7.jpg"
+  },
+  {
     "id": "62b24caa58f7",
     "title": "湖南用硬核政策为大学生就业创业“撑腰”！",
     "url": "https://m.voc.com.cn/xhn/news/202609/33793905.html",
     "source": "Bing·大学生创业扶持政策",
     "category": "政策",
     "published": "2026-09-19T03:31:00.000Z",
+    "image": "https://m.voc.com.cn/assets/portal/images/fd-img.png"
+  },
+  {
+    "id": "b12de63e8a9f",
+    "title": "湖南衡阳打造创业生态圈托举青年创业梦",
+    "url": "https://news.qq.com/rain/a/20260920A02RFY00",
+    "source": "Bing·大学生创业扶持政策",
+    "category": "政策",
+    "published": "2026-09-19T22:29:00.000Z",
     "image": ""
+  },
+  {
+    "id": "b34be657632a",
+    "title": "中美经贸磋商在美国纽约开始举行",
+    "url": "https://www.chinanews.com.cn/cj/2026/09-21/10700496.shtml",
+    "source": "中新网财经",
+    "category": "财经",
+    "published": "2026-09-20T16:17:15.000Z",
+    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+  },
+  {
+    "id": "7db11397a447",
+    "title": "第五届数贸会探馆：机器人秀绝活 多国展商赴数字之约",
+    "url": "https://www.chinanews.com.cn/cj/2026/09-20/10700488.shtml",
+    "source": "中新网财经",
+    "category": "财经",
+    "published": "2026-09-20T15:20:19.000Z",
+    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
   },
   {
     "id": "a699f9b7f142",
@@ -2462,24 +2616,6 @@
     "source": "中新网财经",
     "category": "财经",
     "published": "2026-09-20T10:42:31.000Z",
-    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-  },
-  {
-    "id": "023c8fd2ffc6",
-    "title": "看机器人“鲤鱼打挺” “腾空顶膝” 上海上演现实版铁甲钢拳",
-    "url": "https://www.chinanews.com.cn/cj/2026/09-20/10700244.shtml",
-    "source": "中新网财经",
-    "category": "财经",
-    "published": "2026-09-20T10:15:20.000Z",
-    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-  },
-  {
-    "id": "397515b0af9e",
-    "title": "湖南加速湘菜出海 “舌尖经济”赋能经贸合作与对外开放",
-    "url": "https://www.chinanews.com.cn/cj/2026/09-20/10700248.shtml",
-    "source": "中新网财经",
-    "category": "财经",
-    "published": "2026-09-20T10:12:26.000Z",
     "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
   },
   {
@@ -2843,13 +2979,22 @@
     "image": "https://assets.cnblogs.com/images/wechat-share.jpg"
   },
   {
-    "id": "8a776c5bab83",
-    "title": "东莞招聘平台：智通直聘点亮制造业求职前路",
-    "url": "https://www.sohu.com/a/1078521903_122498374",
-    "source": "BOSS直聘",
+    "id": "1af2a26f45d7",
+    "title": "秋招大战提前打响！2026届高校毕业生速看联合招聘启动",
+    "url": "https://www.sohu.com/a/1078708502_122066679",
+    "source": "就业报告",
     "category": "就业",
-    "published": "2026-09-20T05:16:00.000Z",
-    "image": "//q3.itc.cn/images01/20260920/52462a7fb6e54a1fb30eb81e4ce495ff.png"
+    "published": "2026-09-20T00:30:00.000Z",
+    "image": ""
+  },
+  {
+    "id": "3961237e3e3a",
+    "title": "4万岗位集中释放！新疆举办秋季招聘大会促人才双向流动",
+    "url": "https://finance.sina.com.cn/roll/2026-09-20/doc-inisnnky6586288.shtml",
+    "source": "就业报告",
+    "category": "就业",
+    "published": "2026-09-20T02:02:00.000Z",
+    "image": "//n.sinaimg.cn/sinakd20260920s/40/w550h290/20260920/5fbb-dfcdbd1fe2adb172b2a9e5875b2580c6.jpg"
   },
   {
     "id": "002cce3eb16c",
@@ -2857,7 +3002,7 @@
     "url": "https://www.sohu.com/a/1078591147_122430559",
     "source": "数据分析·就业分析",
     "category": "就业",
-    "published": "2026-09-19T18:45:00.000Z",
+    "published": "2026-09-20T08:45:00.000Z",
     "image": "//q4.itc.cn/images01/20260920/dadb8993d762440aa19b6ba165806807.jpeg"
   },
   {

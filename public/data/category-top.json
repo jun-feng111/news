@@ -1,6 +1,18 @@
 {
   "科技": [
     {
+      "id": "5e49193975d5",
+      "title": "TechCrunch Mobility: How do we know when an AV is safe enough?",
+      "url": "https://techcrunch.com/2026/09/20/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough/",
+      "summary": "TechCrunch Mobility: How do we know when an AV is safe enough",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-20T16:02:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/waymo-ojai-getty.jpg?resize=1200,800",
+      "score": 75,
+      "tags": []
+    },
+    {
       "id": "a5761cc7a394",
       "title": "6 days left to get ahead at TechCrunch Disrupt 2026",
       "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
@@ -25,39 +37,27 @@
       "tags": []
     },
     {
-      "id": "a4b8614ad9dd",
-      "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
-      "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
-      "summary": "Prices go up in 7 days。 Get your Disrupt ticket now",
+      "id": "28ff226332c2",
+      "title": "New California law will penalize influencers who don&#8217;t disclose political ads",
+      "url": "https://techcrunch.com/2026/09/20/new-california-law-will-penalize-influencers-dont-disclose-political-ads/",
+      "summary": "New California law will penalize influencers who don&#8217;t disclose political ads",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-09-19T14:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2018/02/38818582982_37b9719635_o.jpg?resize=1200,800",
+      "published": "2026-09-20T16:30:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1405560217.jpg?resize=1200,800",
       "score": 65,
       "tags": []
     },
     {
-      "id": "2f121b448c20",
-      "title": "India forces caller-ID apps to feed spam reports to telcos",
-      "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
-      "summary": "India forces caller-ID apps to feed spam reports to telcos",
+      "id": "1e2a750f10d1",
+      "title": "A small but growing number of founders are betting on bringing people together offline",
+      "url": "https://techcrunch.com/2026/09/20/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/",
+      "summary": "A small but growing number of founders are betting on bringing people together offline",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-09-19T01:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/10/india-internet-users-getty.jpg?w=1200",
+      "published": "2026-09-20T15:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/StrictlyVC-with-Brynn-Putnam-and-Tristan-Walker.jpg?resize=1200,800",
       "score": 65,
-      "tags": []
-    },
-    {
-      "id": "021b211a9222",
-      "title": "The US Navy just told us what&#8217;s on its tech wish list for the next several years",
-      "url": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
-      "summary": "The US Navy just told us what&#8217;s on its tech wish list for the next several years",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-19T17:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Navy-shopping-cart.png?resize=1200,800",
-      "score": 60,
       "tags": []
     }
   ],
@@ -71,7 +71,7 @@
       "category": "AI",
       "published": "2026-09-19T17:30:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -83,7 +83,7 @@
       "category": "AI",
       "published": "2026-09-19T15:00:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/Granary2-feeder.png?w=1200",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -95,7 +95,7 @@
       "category": "AI",
       "published": "2026-09-19T15:00:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1662708140-e1721664527112.jpg?resize=1200,676",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -111,16 +111,13 @@
       "tags": []
     },
     {
-      "id": "0ac6fc9717b5",
-      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-      "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
-      "summary": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-      "source": "TechCrunch",
+      "id": "57fff132ac55",
+      "title": "Gartner outlines four AI tiers in warehouse automation",
+      "url": "https://www.artificialintelligence-news.com/news/gartner-outlines-four-ai-tiers-in-warehouse-automation/",
+      "source": "AI News",
       "category": "AI",
-      "published": "2026-09-19T13:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Team.jpeg?resize=1200,800",
-      "score": 60,
-      "tags": []
+      "published": "2026-09-18T12:49:34.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/gartner-ai-tiers-warehouse-automation-supply-chain-logistics-robotics-agentic-agents-physical-strategy.jpg"
     }
   ],
   "就业": [
@@ -361,6 +358,24 @@
   ],
   "财经": [
     {
+      "id": "b34be657632a",
+      "title": "中美经贸磋商在美国纽约开始举行",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-21/10700496.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-09-20T16:17:15.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "7db11397a447",
+      "title": "第五届数贸会探馆：机器人秀绝活 多国展商赴数字之约",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-20/10700488.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-09-20T15:20:19.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
       "id": "a699f9b7f142",
       "title": "广西钦州造纸产业扩容 25个项目集中签约",
       "url": "https://www.chinanews.com.cn/cj/2026/09-20/10700422.shtml",
@@ -385,24 +400,6 @@
       "source": "中新网财经",
       "category": "财经",
       "published": "2026-09-20T14:14:51.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "2c4e2c6032dd",
-      "title": "四川眉山：校地共建实验室 发布超高镍全固态电池成果",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-20/10700448.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-09-20T14:11:47.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "e6863e3f9476",
-      "title": "机器人唱黄梅戏、宣纸屏显丹青：科技与文化融合出新",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-20/10700461.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-09-20T14:09:59.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
