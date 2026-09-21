@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T03:38:32.814Z",
+  "updated": "2026-09-21T09:42:16.921Z",
   "count": 127,
   "sources": {
     "V2EX": 8,
@@ -9,6 +9,23 @@
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1243596",
+      "title": "上海景区兼职招募｜ AI 产品体验推广员（中秋+国庆）",
+      "company": "rich1e",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [],
+      "category": "算法/AI",
+      "postedDate": "2026-09-21",
+      "url": "https://www.v2ex.com/t/1243596",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1243505",
       "title": "AI 出海业务产品负责人",
@@ -137,28 +154,6 @@
       "category": "算法/AI",
       "postedDate": "2026-09-17",
       "url": "https://www.v2ex.com/t/1242765",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1242751",
-      "title": "搜狐大模型算法工程师招聘",
-      "company": "gongfuxiongmao",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "python",
-        "go",
-        "c++",
-        "pytorch"
-      ],
-      "category": "算法/AI",
-      "postedDate": "2026-09-17",
-      "url": "https://www.v2ex.com/t/1242751",
       "source": "V2EX",
       "region": "domestic"
     },

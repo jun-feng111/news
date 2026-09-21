@@ -1,0 +1,7 @@
+{
+  "id": "856d8412bff1",
+  "title": "geo-toolbox 插件算法解析：RUSLE 与 MUSLE 的工程化落地 - mikuyyds",
+  "url": "https://www.cnblogs.com/miku196/p/23064342",
+  "contentZh": "",
+  "contentFull": "基于 geo-toolbox 分层结构的 RUSLE / MUSLE 参考实现 本文以 Miku196/geo-toolbox 的分层架构为背景，讨论如何在 geo-plugin-ecology 这一层实现 RUSLE / MUSLE 土壤侵蚀模型，并给出可复现的参考实现。 代码性质说明：文中 Ru"
+}
