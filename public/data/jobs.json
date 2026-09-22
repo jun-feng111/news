@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T14:26:05.453Z",
+  "updated": "2026-09-22T18:33:50.817Z",
   "count": 124,
   "sources": {
     "V2EX": 7,
@@ -143,6 +143,34 @@
       "url": "https://www.v2ex.com/t/1243473",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "remoteok-1137412",
+      "title": "People Operations Coordinator",
+      "company": "Ashby",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "saas",
+        "recruiter",
+        "coordinator",
+        "customer support",
+        "dev",
+        "exec",
+        "education",
+        "ops",
+        "medical",
+        "digital nomad"
+      ],
+      "category": "saas",
+      "postedDate": "2026-09-21",
+      "url": "https://remoteOK.com/remote-jobs/remote-people-operations-coordinator-ashby-1137412",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137411",
@@ -3256,32 +3284,6 @@
       "category": "testing",
       "postedDate": "2026-07-30",
       "url": "https://remoteOK.com/remote-jobs/remote-human-resources-specialist-harvey-nash-1135675",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1135634",
-      "title": "Software Engineer GO",
-      "company": "Wakacje.pl",
-      "location": "Remote",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "golang",
-        "dev",
-        "travel",
-        "api",
-        "golang",
-        "engineer",
-        "backend",
-        "digital nomad"
-      ],
-      "category": "golang",
-      "postedDate": "2026-07-29",
-      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-go-wakacje-pl-1135634",
       "source": "RemoteOK",
       "region": "foreign"
     }
