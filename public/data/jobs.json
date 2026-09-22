@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-22T09:06:02.450Z",
-  "count": 125,
+  "updated": "2026-09-22T14:26:05.453Z",
+  "count": 124,
   "sources": {
-    "V2EX": 8,
+    "V2EX": 7,
     "RemoteOK": 99,
     "Remotive": 18,
     "Arbeitnow": 0,
@@ -10,9 +10,9 @@
   },
   "jobs": [
     {
-      "id": "v2ex-1243996",
-      "title": "最近看到一个前同事上岸了很羡慕，哪里去找这种工作机会呢",
-      "company": "xiudongxu",
+      "id": "v2ex-1244010",
+      "title": "我现在的工作内容是，把产品给我的需求，用不准确的语言发给 Claude Code，然后一路回车确认、按照你的建议来等，请问我怎么才能不被 AI 取代，我接下来应该做什么，让我不至于没有工作呢",
+      "company": "qwzhang01",
       "location": "国内",
       "remote": false,
       "salaryText": "",
@@ -20,9 +20,9 @@
       "salaryMax": null,
       "salaryCurrency": "CNY",
       "skills": [],
-      "category": "其他",
+      "category": "算法/AI",
       "postedDate": "2026-09-22",
-      "url": "https://www.v2ex.com/t/1243996",
+      "url": "https://www.v2ex.com/t/1244010",
       "source": "V2EX",
       "region": "domestic"
     },
@@ -141,23 +141,6 @@
       "category": "算法/AI",
       "postedDate": "2026-09-20",
       "url": "https://www.v2ex.com/t/1243473",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1243377",
-      "title": "阶跃星辰内推",
-      "company": "pluto666",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [],
-      "category": "其他",
-      "postedDate": "2026-09-20",
-      "url": "https://www.v2ex.com/t/1243377",
       "source": "V2EX",
       "region": "domestic"
     },
@@ -923,9 +906,9 @@
       "company": "Coalition Technologies",
       "location": "Worldwide",
       "remote": true,
-      "salaryText": "$31,2k- $52k",
+      "salaryText": "$35,3k- $52k",
       "salaryMin": 52000,
-      "salaryMax": 312000,
+      "salaryMax": 353000,
       "salaryCurrency": "USD",
       "skills": [
         "CSS",
