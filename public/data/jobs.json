@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T23:52:57.113Z",
+  "updated": "2026-09-22T03:35:54.952Z",
   "count": 125,
   "sources": {
     "V2EX": 8,
@@ -1666,36 +1666,6 @@
       "region": "foreign"
     },
     {
-      "id": "remoteok-1137061",
-      "title": "Senior Governance Risk and Compliance Analyst",
-      "company": "RainFocus",
-      "location": "Orem, UT",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "analyst",
-        "design",
-        "saas",
-        "infosec",
-        "education",
-        "technical",
-        "dev",
-        "cloud",
-        "exec",
-        "senior",
-        "ops",
-        "marketing"
-      ],
-      "category": "analyst",
-      "postedDate": "2026-08-22",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-governance-risk-and-compliance-analyst-rainfocus-1137061",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
       "id": "remoteok-1136987",
       "title": "Consultant Implementation Engineer",
       "company": "Harbor",
@@ -3301,6 +3271,32 @@
       "category": "testing",
       "postedDate": "2026-07-30",
       "url": "https://remoteOK.com/remote-jobs/remote-human-resources-specialist-harvey-nash-1135675",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1135634",
+      "title": "Software Engineer GO",
+      "company": "Wakacje.pl",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "golang",
+        "dev",
+        "travel",
+        "api",
+        "golang",
+        "engineer",
+        "backend",
+        "digital nomad"
+      ],
+      "category": "golang",
+      "postedDate": "2026-07-29",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-go-wakacje-pl-1135634",
       "source": "RemoteOK",
       "region": "foreign"
     }

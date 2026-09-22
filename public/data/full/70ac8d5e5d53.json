@@ -1,0 +1,7 @@
+{
+  "id": "70ac8d5e5d53",
+  "title": "RuoYi-Cloud-Plus一些坑 - 没有烦恼的猫猫",
+  "url": "https://www.cnblogs.com/maomao777/p/23074288",
+  "contentZh": "",
+  "contentFull": "\n1、RedisUtils工具类\n在 RuoYi-Cloud-Plus 的多租户模式下，RedisUtils.getClient().set 和 RedisUtils.setCacheObject 对 key 的处理确实不一样，前者不会自动拼接租户 ID。\n🔍 两者的区别\nRedisUtils.getClient().set(key, value)\n\n这是直接使用底层的 RedissonClient 操作 Redis。\n它不经过框架的 TenantKeyPrefixHandler 处理，所以 key 不会被拼接租户前缀。\n适合存储全局共享数据，比如系统级配置��跨租户的计数等。\n\nRedisUtils.setCacheObject(key, value)\n\n这是框架封装的方法，会走 TenantKeyPrefixHandler。\n它会自动检查当前上下文有没有租户 ID。如果有，就会把 key 变成 tenantId:原始key 的形式存储。\n适合存储租户隔离数据，比如每个租户自己的配置、用户会话等。\n\n💡 框架的全局 key 机制\nRuoYi-Cloud-Plus 也考虑到了存全局数据的需求，所以如果你希望用 setCacheObject 存全局数据，可以在 key 里加上 GlobalConstants.GLOBAL_REDIS_KEY 前缀。这样 TenantKeyPrefixHandler 会识别并跳过租户拼接。\n🎯 怎么选\n\n需要租户隔离（比如天气接口缓存，每个租户查自己的）：用 RedisUtils.setCacheObject()，让它自动拼租户前缀。\n需要全局共享（比如系统配置、全站统计）：用 RedisUtils.getClient().set()，这样就不会有租户前缀了。\n\n如果想设置全局的缓存？\n原理：TenantKeyPrefixHandler.map() 检测到 key 包含 \"global:\" 时直���跳过租户前缀拼接：\nif (StringUtils.contains(name, GlobalConstants.GLOBAL_REDIS_KEY)) {\n    return super.map(name);  // 不加租户前缀\n}\n\n例：\nkey 从 \"uas:detected:icao24\" 改为 \"global:uas:detected:icao24\" 后，无论有无租户上下文，Redis 中实际 key 始终是 global:uas:detected:icao24，三个访问点天然一致，不需要 TenantHelper.dynamic 包裹。\n\n\n"
+}
