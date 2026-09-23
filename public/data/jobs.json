@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-23T05:35:33.851Z",
-  "count": 123,
+  "updated": "2026-09-23T10:54:21.979Z",
+  "count": 122,
   "sources": {
-    "V2EX": 6,
+    "V2EX": 5,
     "RemoteOK": 99,
     "Remotive": 18,
     "Arbeitnow": 0,
@@ -112,23 +112,28 @@
       "region": "domestic"
     },
     {
-      "id": "v2ex-1243697",
-      "title": "高级研发工程师（AI 应用方向）",
-      "company": "w4kevin",
-      "location": "国内",
-      "remote": false,
+      "id": "remoteok-1137417",
+      "title": "Software Developer Security Analytics",
+      "company": "RedMimicry",
+      "location": "Remote",
+      "remote": true,
       "salaryText": "",
       "salaryMin": null,
       "salaryMax": null,
-      "salaryCurrency": "CNY",
+      "salaryCurrency": "",
       "skills": [
-        "rust"
+        "golang",
+        "infosec",
+        "dev",
+        "stats",
+        "full time",
+        "digital nomad"
       ],
-      "category": "算法/AI",
-      "postedDate": "2026-09-21",
-      "url": "https://www.v2ex.com/t/1243697",
-      "source": "V2EX",
-      "region": "domestic"
+      "category": "golang",
+      "postedDate": "2026-09-22",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-developer-security-analytics-redmimicry-1137417",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137415",
@@ -3230,36 +3235,6 @@
       "category": "design",
       "postedDate": "2026-07-30",
       "url": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-viable-medical-solutions-1135697",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1135767",
-      "title": "Graphic Designer",
-      "company": "Uchromatic",
-      "location": "Time,",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "dev",
-        "speech",
-        "finance",
-        "exec",
-        "ops",
-        "golang",
-        "digital nomad",
-        "illustrator",
-        "customer support",
-        "video",
-        "content writing",
-        "product manager"
-      ],
-      "category": "dev",
-      "postedDate": "2026-07-30",
-      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-uchromatic-1135767",
       "source": "RemoteOK",
       "region": "foreign"
     }
