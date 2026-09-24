@@ -1,6 +1,54 @@
 {
   "AI": [
     {
+      "id": "aaae293f0825",
+      "title": "AI Agents Are Becoming a New Malware Distribution Channel",
+      "url": "https://www.artificialintelligence-news.com/news/ai-agents-are-becoming-a-new-malware-distribution-channel/",
+      "summary": "By Farukh Rakhimov, Head of Compliance, Data Protection and Information Security at AdTech Holding R",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-09-23T07:44:17.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/zulfugar-karimov-nBClEqKKVM-unsplash-scaled.jpg",
+      "score": 80,
+      "tags": []
+    },
+    {
+      "id": "d97cb0c0478d",
+      "title": "U.S. TRANSCOM deploys randomised AI to secure military logistics",
+      "url": "https://www.artificialintelligence-news.com/news/us-transcom-deploys-randomised-ai-to-secure-military-logistics/",
+      "summary": "Deploying randomised AI logistics offers military planners a viable defence against adversarial trac",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-09-23T13:13:15.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/u.s.-TRANSCOM-deploys-randomised-AI-secure-military-logistics-supply-chain-transportation-command.jpg",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "5816bd24a98c",
+      "title": "AutoScheduler launches warehouse app builder for logistics teams",
+      "url": "https://www.artificialintelligence-news.com/news/autoscheduler-warehouse-app-builder-for-logistics-teams/",
+      "summary": "AutoScheduler has launched its warehouse app builder to let logistics teams build custom tools direc",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-09-22T11:34:39.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/autoScheduler-warehouse-app-builder-logistics-ai-supply-chain-warehousing.jpg",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "a58dd3909ca1",
+      "title": "Everything new coming to Meta&#8217;s AI agent Muse",
+      "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "summary": "Everything new coming to Meta&#8217;s AI agent Muse",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-24T01:13:32.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-meta-connect.jpg?resize=1200,799",
+      "score": 75,
+      "tags": []
+    },
+    {
       "id": "b3b054f1bbc7",
       "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
       "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
@@ -8,55 +56,7 @@
       "source": "TechCrunch",
       "category": "AI",
       "published": "2026-09-24T00:46:17.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-charm.png?resize=1200,667",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "abe26ab67059",
-      "title": "Meta introduces camera-free AI glasses",
-      "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
-      "summary": "Meta introduces camera-free AI glasses",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-09-23T23:39:44.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/ray-ban-audio.png?resize=1200,635",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "d12dfdfa3f04",
-      "title": "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
-      "url": "https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/",
-      "summary": "VC firm Bessemer now has another $5。75B to invest in (what else",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-09-23T20:35:17.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "237e7ef9dd42",
-      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
-      "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
-      "summary": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-09-23T19:31:28.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/06/220509-Enveda-1038.jpg?resize=1200,800",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "62a053943ff8",
-      "title": "Meta is trying VR glasses (again), this time with more IMAX",
-      "url": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/",
-      "summary": "Meta is trying VR glasses (again), this time with more IMAX",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-09-23T23:47:35.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Meta_VR_Glasses_ProductShot_DarkBackground_16x9.png?resize=1200,677",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
       "score": 75,
       "tags": []
     }
@@ -71,7 +71,7 @@
       "category": "科技",
       "published": "2026-09-23T23:33:22.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2296638825.jpg?w=1024",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -83,59 +83,38 @@
       "category": "科技",
       "published": "2026-09-23T22:17:39.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2025/02/Claude_3-7_illustration.jpg?resize=1200,675",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
       "id": "dd317601d2ce",
       "title": "If Amazon doesn’t know how to eliminate carbon emissions, then who does?",
       "url": "https://techcrunch.com/2026/09/23/if-amazon-doesnt-know-how-to-eliminate-carbon-emissions-then-who-does/",
-      "summary": "If Amazon doesn’t know how to eliminate carbon emissions, then who does",
       "source": "TechCrunch",
       "category": "科技",
       "published": "2026-09-23T21:21:33.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1209591548.jpeg?resize=1200,800",
-      "score": 75,
-      "tags": []
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1209591548.jpeg?resize=1200,800"
     },
     {
-      "id": "f91f8ee2094f",
-      "title": "Modal Motors is trying to cut China out of electric motors entirely",
-      "url": "https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/",
-      "summary": "Modal Motors is trying to cut China out of electric motors entirely",
+      "id": "d12dfdfa3f04",
+      "title": "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
+      "url": "https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-09-23T19:05:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-23-at-11.23.50-AM.png?w=1194",
-      "score": 70,
-      "tags": []
+      "published": "2026-09-23T20:35:17.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024"
     },
     {
-      "id": "a268a04db9b2",
-      "title": "Disney+ and Hulu add to the growing trend of streaming inflation",
-      "url": "https://techcrunch.com/2026/09/23/disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation/",
-      "summary": "Disney+ and Hulu add to the growing trend of streaming inflation",
+      "id": "237e7ef9dd42",
+      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+      "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-09-23T18:06:27.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/07/money-firehose.jpg?resize=1200,675",
-      "score": 70,
-      "tags": []
+      "published": "2026-09-23T19:31:28.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/06/220509-Enveda-1038.jpg?resize=1200,800"
     }
   ],
   "就业": [
-    {
-      "id": "f122e7fde8f3",
-      "title": "BOSS直聘：有招聘者以“旅游顾问”“导游”等职位吸引求职者，后续 ...",
-      "url": "https://www.stnn.cc/detail/6ab0c445158f681db40d119b.html",
-      "summary": "9月21日，BOSS直聘发布假期求职安全提示，提醒警惕旅游岗位暗藏不当陪伴服务要求。 国庆假期临近，部分求职者开始关注旅游、服务类兼职机会",
-      "source": "Bing·BOSS直聘",
-      "category": "就业",
-      "published": "2026-09-21T06:45:00.000Z",
-      "image": "https://www.stnn.cc/assets/theme/image/add.png",
-      "score": 65,
-      "tags": []
-    },
     {
       "id": "ce31ef286175",
       "title": "150个HC全是后端工程师！DeepSeek扩招背后：模型内卷结束，Agent基建开战",
@@ -144,24 +123,14 @@
       "source": "就业报告",
       "category": "就业",
       "published": "2026-09-10T02:05:00.000Z",
+      "image": "//q8.itc.cn/q_70/images03/20260910/c7c760bb4d7b4e7494659ca019bed72f.jpeg",
       "score": 65,
       "tags": []
     },
     {
-      "id": "c76b56413d4a",
-      "title": "AI人才缺口超500万！有最新报告称，AI抢人逻辑悄悄变了：架构师新发 ...",
-      "url": "https://news.qq.com/rain/a/20260718A08XHR00",
-      "summary": "人才缺口500万，大厂抢得最凶的不是算法工程师，架构师新发职位同比大涨近八成。懂提示词和人机训练岗位的文科生，平均年薪达到34",
-      "source": "算法工程师·就业分析",
-      "category": "就业",
-      "published": "2026-07-18T11:05:00.000Z",
-      "score": 65,
-      "tags": []
-    },
-    {
-      "id": "016b052ee080",
+      "id": "4c81971e4721",
       "title": "前程无忧发布2027届毕业生秋招提示：AI反向背调成趋势 补招常态化",
-      "url": "https://www.msn.cn/zh-cn/news/other/前程无忧发布2027届毕业生秋招提示-ai反向背调成趋势-补招常态化/ar-AA2cEvwD",
+      "url": "https://www.msn.cn/zh-cn/money/经济/前程无忧发布2027届毕业生秋招提示-ai反向背调成趋势-补招常态化/ar-AA2cEvwD",
       "summary": "前程无忧9月21日发布《2027届毕业生秋招提示》，提出毕业生投递简历前向AI助手询问企业情况成标准动作；截至2026年3月，60。0%企业未完成原定校招计划且正在或计划补招，仅27",
       "source": "Bing·秋招",
       "category": "就业",
@@ -181,9 +150,45 @@
       "image": "https://cdn.v2ex.com/avatar/a9cd/f8f5/564367_large.png?m=1774343667",
       "score": 60,
       "tags": []
+    },
+    {
+      "id": "6a34072c749c",
+      "title": "[北/上/深] 顶级 vc+AI 独角兽高薪招聘 大模型/agent 算法、infra、评测",
+      "url": "https://www.v2ex.com/t/1243473#reply0",
+      "summary": "[北/上/深] 顶级 vc+AI 独角兽高薪招聘 大模型/agent 算法、infra、评测",
+      "source": "V2EX·招聘",
+      "category": "就业",
+      "published": "2026-09-20T14:07:08.000Z",
+      "image": "https://cdn.v2ex.com/gravatar/783f564892a79b5274e5aed9cc4efc39?s=73&d=retro",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "9098abd45060",
+      "title": "全栈工程师平均月薪1.9万、3个后端撑起产品线：后端全栈化比全员全 ...",
+      "url": "https://www.sohu.com/a/1077175656_120959233",
+      "summary": "2026年，「全栈工程师」成为行业热词。猎聘数据显示全栈工程师平均月薪约1",
+      "source": "就业报告",
+      "category": "就业",
+      "published": "2026-09-17T05:01:00.000Z",
+      "image": "//q9.itc.cn/images01/20260917/0670b1b12756419891f69c3b3f9ac858.png",
+      "score": 60,
+      "tags": []
     }
   ],
   "社会": [
+    {
+      "id": "a97aaade638f",
+      "title": "国家发改委：推动超30个“双一流”高校新校区进入大规模建设阶段",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-22/10701424.shtml",
+      "summary": "中新网9月22日电 国家发展改革委9月22日召开9月份新闻发布会。会上，国家发展改革委政策研究室副主任、新闻发言人李超指出，“双一流”高校新校区建设是很多家庭都高度关注的问题",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-09-22T06:16:40.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 55,
+      "tags": []
+    },
     {
       "id": "b77fe24e754e",
       "title": "报告：北京在全球城市人才黏性指数中排名第五",
@@ -194,6 +199,18 @@
       "published": "2026-09-21T15:09:23.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 55,
+      "tags": []
+    },
+    {
+      "id": "97ce763f388e",
+      "title": "校馆弦歌｜浙江大学图书馆：典籍可触 资源无界",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-22/10701294.shtml",
+      "summary": "视频：校馆弦歌｜浙江大学图书馆：典籍可触 资源无界来源：新华社",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-09-22T02:30:54.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
       "tags": []
     },
     {
@@ -219,54 +236,18 @@
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 50,
       "tags": []
-    },
-    {
-      "id": "81a0f971d560",
-      "title": "125支队伍齐聚宁夏比拼新闻传播“硬实力”",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-21/10701105.shtml",
-      "summary": "中新网银川9月21日电 (记者 于晶)9月21日，2026年世界职业院校技能大赛总决赛争夺赛新闻传播赛道(高职组)在宁夏工商职业技术大学启幕。来自全国30个省(自治区、直辖市)和新疆生产建设兵团的12",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-09-21T14:09:23.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "d07d427d10a6",
-      "title": "中国人民大学举行中共党史党建学学科专业建设70周年研讨会",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-21/10701108.shtml",
-      "summary": "中新网北京9月21日电 (记者 曾玥)记者从中国人民大学获悉，“继往开来：中国人民大学中共党史党建学学科专业建设70周年”研讨会近日在该校举行",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-09-21T14:07:03.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
     }
   ],
   "政策": [
     {
-      "id": "305387d163cc",
+      "id": "3fc50ec8f766",
       "title": "最高可贷50万元，湖南优化政策为大学生创业送上金融“活水”",
-      "url": "https://news.qq.com/rain/a/20260918A057B200",
-      "summary": "近日，湖南省出台《关于进一步优化创业担保贷款政策全力支持大学生等重点群体创业的通知》，扩大创业担保贷款覆盖范围、提高贷款额度、降低融资成本，拿出实打实举措，助力青年创新创业。按照新政策，创业担保贷款借",
+      "url": "https://finance.sina.com.cn/wm/2026-09-18/doc-inisfiic3415786.shtml",
+      "summary": "近日，湖南省出台《关于进一步优化创业担保贷款政策全力支持大学生等重点群体创业的通知》，扩大创业担保贷款覆盖范围、提高贷款额度、降低融资成本，拿出实打实举措，助力青年创新创业。 按照新政策，创业担保贷款",
       "source": "Bing·大学生就业政策",
       "category": "政策",
-      "published": "2026-09-18T04:59:00.000Z",
-      "image": "",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "e343c4bb65dd",
-      "title": "构筑全方位就业支持体系促进高校毕业生高质量就业",
-      "url": "https://news.ifeng.com/c/8wUktbWN9L9",
-      "summary": "高校毕业生规模的增加与市场需求的紧缩，导致我国高校毕业生在未来几年就业形势严峻，当前急需构建全方位的就业支持体系，其中高校为促进就业的核心行动者，以提升就业服务能力为主；政府为就业支持体系政策的制定者",
-      "source": "Bing·高校毕业生就业创业政策",
-      "category": "政策",
-      "published": "2026-09-17T06:57:00.000Z",
-      "image": "https://x0.ifengimg.com/ucms/2019_38/AC5B8A2AE18AB61C7067AFFDBBCD12D16295DDA2_w121_h75.jpg",
+      "published": "2026-09-17T19:46:00.000Z",
+      "image": "//n.sinaimg.cn/front20260918ac/321/w961h960/20260918/b45d-9077f9b446cb4a50da39c9d0f0633902.jpg",
       "score": 55,
       "tags": []
     },
@@ -283,14 +264,26 @@
       "tags": []
     },
     {
-      "id": "87bd10f0da5f",
-      "title": "2026就业新趋势：大学生“回炉”技校，是就业观的理性重生",
-      "url": "https://www.sohu.com/a/1077190598_122760254",
-      "summary": "2026年秋季开学季，当千万新生迈入高校殿堂追逐学历进阶时，一幕截然不同的教育图景正在全国多地上演。江苏、安徽、山东、北京、四川等多地技工院校的大学生技师班陆续开班，大批本专科毕业生甚至少数硕士研究生",
+      "id": "57d54045ae78",
+      "title": "【兴政公考】2026年湾沚区机关事业单位就业见习人员招募9人公告",
+      "url": "https://www.sohu.com/a/1077229885_120100009",
+      "summary": "安徽兴政公考根据 芜湖市湾沚区人民政府 发布，转载 2026年湾沚区机关事业单位就业见习人员招募公告 ，详情请关注www。cn，政策咨询及备考指导请加13695518079（栋老师微信）了解",
+      "source": "就业创业政策",
+      "category": "政策",
+      "published": "2026-09-17T04:59:00.000Z",
+      "image": "//q3.itc.cn/images01/20260917/d18419c9c2824bef9f078168c427bfd0.png",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "13fae6cd3886",
+      "title": "山东省大学生就业指导“就业第一课”巡回宣讲启动仪式在齐鲁师范 ...",
+      "url": "https://edu.dzwww.com/rcjy/qzgl/202609/t20260923_18148684.htm",
+      "summary": "本次活动由山东省人力资源和社会保障厅、山东省教育厅主办，山东省公共就业和人才服务中心、齐鲁师范学院承办，宣讲兼具政策高度与实践温度，政策解读、榜样分享、实务指导融为一体，为师生送上一堂干货满满的就业育",
       "source": "Bing·大学生就业政策",
       "category": "政策",
-      "published": "2026-09-17T03:44:00.000Z",
-      "image": "//q5.itc.cn/images01/20260917/3db6a3a3390148e2ac5d34eb6f44fe27.png",
+      "published": "2026-09-22T04:40:00.000Z",
+      "image": "https://www.dzwww.com/tpl/v2022/erjiye/images/logo.png",
       "score": 50,
       "tags": []
     },
@@ -321,86 +314,86 @@
       "tags": []
     },
     {
-      "id": "a2def37facac",
-      "title": "从“单目感知”到“多视角立体对齐”：PrismAlign 重新定义文档结构化提取的精度上限",
-      "url": "https://www.infoq.cn/article/ytHwXAq6vHzUm23RNYhk?utm_source=rss&amp;utm_medium=article",
+      "id": "a3df113e24b1",
+      "title": "GPU负责算，CPU负责干活：英特尔开始重新出牌",
+      "url": "https://www.infoq.cn/article/Zh6Xo7f31MJdQtbUTUk5?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-09-23T22:51:41.000Z",
-      "image": "https://static001.infoq.cn/resource/image/8f/92/8f586b5b2d2bb4b46090ffceea6b4d92.jpg"
+      "published": "2026-09-24T14:52:42.000Z",
+      "image": "https://static001.infoq.cn/resource/image/16/2e/16cc1ec2a1fc39628ba5fd809159642e.jpg"
     },
     {
-      "id": "695a2cf53c04",
-      "title": "Claude Opus 5.5 发布：一天内迁移 68 万行代码，单任务成本比 GPT-6 Astra 便宜 80%",
-      "url": "https://www.infoq.cn/article/jG9ksSRvpkfP20Qif8Ov?utm_source=rss&amp;utm_medium=article",
+      "id": "52194c9c3cc2",
+      "title": "GPT-6猛砍价，Opus 5.5忙“变好用”：模型价格战，已经不能只看API定价",
+      "url": "https://www.infoq.cn/article/VSIsPFiO2hrjBi30wDfE?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-09-23T22:41:27.000Z",
-      "image": "https://static001.infoq.cn/resource/image/d7/5e/d7cffc9d3209d44978f17308bba2335e.jpg"
+      "published": "2026-09-24T13:44:32.000Z",
+      "image": "https://static001.infoq.cn/resource/image/51/4c/51acbf33ffec8058b781c64336e12c4c.jpg"
     },
     {
-      "id": "7d18c58369ef",
-      "title": "人人都在造世界模型，HappyWorld‑Bench 试着给出一张统一考卷",
-      "url": "https://www.infoq.cn/article/3rXojuNPmJANFv8iWqI8?utm_source=rss&amp;utm_medium=article",
+      "id": "6622c2d8b792",
+      "title": "显存不够、内存太贵，KV Cache越堆越大：华为给出自己的新解法",
+      "url": "https://www.infoq.cn/article/LtHFz94fa1W1DQjNvHVb?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-09-23T22:09:09.000Z",
-      "image": "https://static001.infoq.cn/resource/image/d3/b9/d3bac4f93e9c8f099d72226c87f8b1b9.png"
+      "published": "2026-09-24T13:40:34.000Z",
+      "image": "https://static001.infoq.cn/resource/image/0f/78/0fb8f8f43c3505bc3db0f2ef40149878.jpg"
     },
     {
-      "id": "0ab6774c1114",
-      "title": "4096 张卡如何成为“一台计算机”？读懂华为的超节点布局",
-      "url": "https://www.infoq.cn/article/uG1Um83JFgz2BVxWRYC9?utm_source=rss&amp;utm_medium=article",
+      "id": "abcb9f970ed2",
+      "title": "OpenAI 推出分级处理框架及案例研究，用于报告模型失调问题",
+      "url": "https://www.infoq.cn/article/sFUUaaIQZH3ecXb14WVs?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-09-23T21:57:13.000Z",
-      "image": "https://static001.infoq.cn/resource/image/7a/aa/7aa2f03e0ed23c6c03d5d12c8c07eeaa.png"
+      "published": "2026-09-24T11:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/ef/f8/efdcd3be9669561ba7e13ba6aa110cf8.jpg"
     }
   ],
   "财经": [
     {
-      "id": "20b73718d0a3",
-      "title": "收获、烘干、储运、加工……秋收来了AI助手",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10702746.shtml",
+      "id": "1470a172eb98",
+      "title": "文化点睛、烟火提鲜、服务暖心 县域“文化+消费”的睢宁实践",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10702962.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-24T00:34:46.000Z",
+      "published": "2026-09-24T06:32:30.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "8cefc09cfc89",
-      "title": "2026年“中国农民丰收节”新疆主场活动在阿克苏开幕",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10702726.shtml",
+      "id": "514892bbb343",
+      "title": "报告发现，移动源治理加速从末端控制向结构优化转变",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10702951.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-24T00:34:24.000Z",
+      "published": "2026-09-24T06:25:58.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "60b8ab6aa4ce",
-      "title": "2026年中国农民丰收节西藏主场活动在阿里启幕",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10702733.shtml",
+      "id": "ad0f81c36e5c",
+      "title": "平漯周高铁超万吨“巨梁”成功跨越京广高铁",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10702948.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-24T00:27:22.000Z",
+      "published": "2026-09-24T06:24:42.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "b8fbbb671da8",
-      "title": "2026云南民企百强榜揭晓 规模有进效益回升",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10702730.shtml",
+      "id": "50186ddcecf2",
+      "title": "优势特色产业赋能，共绘发展新图景",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10702911.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-24T00:26:35.000Z",
+      "published": "2026-09-24T06:15:59.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "0617f7249056",
-      "title": "秘鲁驻华大使：自由贸易是实现经济社会发展的重要“引擎”",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10702735.shtml",
+      "id": "d90398e78576",
+      "title": "新质生产力成为发展重要引擎",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10702937.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-24T00:23:17.000Z",
+      "published": "2026-09-24T05:34:39.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
