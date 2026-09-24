@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T18:17:37.266Z",
+  "updated": "2026-09-24T22:03:16.892Z",
   "count": 125,
   "sources": {
     "V2EX": 7,
@@ -147,6 +147,27 @@
       "url": "https://www.v2ex.com/t/1244352",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "remoteok-1137428",
+      "title": "Video Data Annotator",
+      "company": "iMerit Technology",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "quality assurance",
+        "ai",
+        "data annotation"
+      ],
+      "category": "quality assurance",
+      "postedDate": "2026-09-23",
+      "url": "https://remoteOK.com/remote-jobs/remote-video-data-annotator-imerit-technology-1137428",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137427",
@@ -3257,35 +3278,6 @@
       "category": "hr",
       "postedDate": "2026-07-31",
       "url": "https://remoteOK.com/remote-jobs/remote-human-resources-coordinator-pacific-health-group-1135783",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1135765",
-      "title": "Voice Over Artist",
-      "company": "Bored Panda",
-      "location": "Vilnius, Vilnius, Vilniaus, Lithuania",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "dev",
-        "speech",
-        "finance",
-        "exec",
-        "ops",
-        "golang",
-        "digital nomad",
-        "illustrator",
-        "customer support",
-        "video",
-        "content writing"
-      ],
-      "category": "dev",
-      "postedDate": "2026-07-31",
-      "url": "https://remoteOK.com/remote-jobs/remote-voice-over-artist-bored-panda-1135765",
       "source": "RemoteOK",
       "region": "foreign"
     }
