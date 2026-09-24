@@ -1,14 +1,26 @@
 {
   "AI": [
     {
-      "id": "aaae293f0825",
-      "title": "AI Agents Are Becoming a New Malware Distribution Channel",
-      "url": "https://www.artificialintelligence-news.com/news/ai-agents-are-becoming-a-new-malware-distribution-channel/",
-      "summary": "By Farukh Rakhimov, Head of Compliance, Data Protection and Information Security at AdTech Holding R",
-      "source": "AI News",
+      "id": "b3b054f1bbc7",
+      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+      "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+      "summary": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+      "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-09-23T07:44:17.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/zulfugar-karimov-nBClEqKKVM-unsplash-scaled.jpg",
+      "published": "2026-09-24T00:46:17.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-charm.png?resize=1200,667",
+      "score": 80,
+      "tags": []
+    },
+    {
+      "id": "abe26ab67059",
+      "title": "Meta introduces camera-free AI glasses",
+      "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+      "summary": "Meta introduces camera-free AI glasses",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-23T23:39:44.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/ray-ban-audio.png?resize=1200,635",
       "score": 80,
       "tags": []
     },
@@ -37,31 +49,31 @@
       "tags": []
     },
     {
-      "id": "d97cb0c0478d",
-      "title": "U.S. TRANSCOM deploys randomised AI to secure military logistics",
-      "url": "https://www.artificialintelligence-news.com/news/us-transcom-deploys-randomised-ai-to-secure-military-logistics/",
-      "summary": "Deploying randomised AI logistics offers military planners a viable defence against adversarial trac",
-      "source": "AI News",
+      "id": "62a053943ff8",
+      "title": "Meta is trying VR glasses (again), this time with more IMAX",
+      "url": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/",
+      "summary": "Meta is trying VR glasses (again), this time with more IMAX",
+      "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-09-23T13:13:15.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/u.s.-TRANSCOM-deploys-randomised-AI-secure-military-logistics-supply-chain-transportation-command.jpg",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "5816bd24a98c",
-      "title": "AutoScheduler launches warehouse app builder for logistics teams",
-      "url": "https://www.artificialintelligence-news.com/news/autoscheduler-warehouse-app-builder-for-logistics-teams/",
-      "summary": "AutoScheduler has launched its warehouse app builder to let logistics teams build custom tools direc",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-09-22T11:34:39.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/autoScheduler-warehouse-app-builder-logistics-ai-supply-chain-warehousing.jpg",
+      "published": "2026-09-23T23:47:35.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Meta_VR_Glasses_ProductShot_DarkBackground_16x9.png?resize=1200,677",
       "score": 75,
       "tags": []
     }
   ],
   "科技": [
+    {
+      "id": "35cde0e51661",
+      "title": "Vogue sent robots down the runway at Vogue World, and people were not impressed",
+      "url": "https://techcrunch.com/2026/09/23/vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-impressed/",
+      "summary": "Vogue sent robots down the runway at Vogue World, and people were not impressed",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-23T23:33:22.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2296638825.jpg?w=1024",
+      "score": 75,
+      "tags": []
+    },
     {
       "id": "a9bbbe61b4b3",
       "title": "Anthropic says its biology lab has already found something big",
@@ -95,7 +107,7 @@
       "category": "科技",
       "published": "2026-09-23T19:05:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-23-at-11.23.50-AM.png?w=1194",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -107,20 +119,23 @@
       "category": "科技",
       "published": "2026-09-23T18:06:27.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2024/07/money-firehose.jpg?resize=1200,675",
-      "score": 75,
+      "score": 70,
       "tags": []
-    },
-    {
-      "id": "542b7322fe0c",
-      "title": "The old cybersecurity model is breaking",
-      "url": "https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-23T17:44:02.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2233776792.jpg?resize=1200,750"
     }
   ],
   "就业": [
+    {
+      "id": "f122e7fde8f3",
+      "title": "BOSS直聘：有招聘者以“旅游顾问”“导游”等职位吸引求职者，后续 ...",
+      "url": "https://www.stnn.cc/detail/6ab0c445158f681db40d119b.html",
+      "summary": "9月21日，BOSS直聘发布假期求职安全提示，提醒警惕旅游岗位暗藏不当陪伴服务要求。 国庆假期临近，部分求职者开始关注旅游、服务类兼职机会",
+      "source": "Bing·BOSS直聘",
+      "category": "就业",
+      "published": "2026-09-21T06:45:00.000Z",
+      "image": "https://www.stnn.cc/assets/theme/image/add.png",
+      "score": 65,
+      "tags": []
+    },
     {
       "id": "ce31ef286175",
       "title": "150个HC全是后端工程师！DeepSeek扩招背后：模型内卷结束，Agent基建开战",
@@ -129,7 +144,6 @@
       "source": "就业报告",
       "category": "就业",
       "published": "2026-09-10T02:05:00.000Z",
-      "image": "//q8.itc.cn/q_70/images03/20260910/c7c760bb4d7b4e7494659ca019bed72f.jpeg",
       "score": 65,
       "tags": []
     },
@@ -141,7 +155,6 @@
       "source": "算法工程师·就业分析",
       "category": "就业",
       "published": "2026-07-18T11:05:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/Ows_BB25Bhnf-wlGWgFoIkmLSVd_6MJWCT8-yw6C3HS10AA_640330/0",
       "score": 65,
       "tags": []
     },
@@ -168,18 +181,6 @@
       "image": "https://cdn.v2ex.com/avatar/a9cd/f8f5/564367_large.png?m=1774343667",
       "score": 60,
       "tags": []
-    },
-    {
-      "id": "6a34072c749c",
-      "title": "[北/上/深] 顶级 vc+AI 独角兽高薪招聘 大模型/agent 算法、infra、评测",
-      "url": "https://www.v2ex.com/t/1243473#reply0",
-      "summary": "[北/上/深] 顶级 vc+AI 独角兽高薪招聘 大模型/agent 算法、infra、评测",
-      "source": "V2EX·招聘",
-      "category": "就业",
-      "published": "2026-09-20T14:07:08.000Z",
-      "image": "https://cdn.v2ex.com/gravatar/783f564892a79b5274e5aed9cc4efc39?s=73&d=retro",
-      "score": 60,
-      "tags": []
     }
   ],
   "社会": [
@@ -193,6 +194,18 @@
       "published": "2026-09-21T15:09:23.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 55,
+      "tags": []
+    },
+    {
+      "id": "8fb4719dfe75",
+      "title": "招生季多所高校推出转专业新政 高校转专业，该如何“松绑”",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-22/10701213.shtml",
+      "summary": "高校转专业，该如何“松绑”",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-09-21T23:54:12.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
       "tags": []
     },
     {
@@ -230,18 +243,6 @@
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 50,
       "tags": []
-    },
-    {
-      "id": "57a322714a16",
-      "title": "“宝研聚势”中国人民大学宝安现代化产业发展调研团启动",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-21/10701046.shtml",
-      "summary": "中新网深圳9月21日电 (记者 王坚)据中国人民大学深圳研究院21日消息，“宝研聚势”中国人民大学宝安现代化产业发展调研团近日在深圳宝安区启动，以“人大所长”切实服务“宝安所需”，推动校地协同进一步走",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-09-21T12:40:31.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
     }
   ],
   "政策": [
@@ -254,6 +255,18 @@
       "category": "政策",
       "published": "2026-09-18T04:59:00.000Z",
       "image": "",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "e343c4bb65dd",
+      "title": "构筑全方位就业支持体系促进高校毕业生高质量就业",
+      "url": "https://news.ifeng.com/c/8wUktbWN9L9",
+      "summary": "高校毕业生规模的增加与市场需求的紧缩，导致我国高校毕业生在未来几年就业形势严峻，当前急需构建全方位的就业支持体系，其中高校为促进就业的核心行动者，以提升就业服务能力为主；政府为就业支持体系政策的制定者",
+      "source": "Bing·高校毕业生就业创业政策",
+      "category": "政策",
+      "published": "2026-09-17T06:57:00.000Z",
+      "image": "https://x0.ifengimg.com/ucms/2019_38/AC5B8A2AE18AB61C7067AFFDBBCD12D16295DDA2_w121_h75.jpg",
       "score": 55,
       "tags": []
     },
@@ -282,26 +295,14 @@
       "tags": []
     },
     {
-      "id": "f5cb39eaf8f6",
-      "title": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
-      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202606/t20260602_1438600.html",
-      "summary": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
-      "source": "教育部",
+      "id": "bbe91c3d06ad",
+      "title": "好岗进校园！2026年高校毕业生等青年就业服务攻坚行动专场招聘会举办",
+      "url": "https://www.sohu.com/a/1078646908_121106854",
+      "summary": "9月15日，以“服务不断线 攻坚促就业”为主题的2026年高校毕业生等青年就业服务攻坚行动专场招聘会在兴安职业技术大学举办。 活动现场学生们了解就业创业相关政策 本次活动由内蒙古自治区人力资源和社会保",
+      "source": "Bing·高校毕业生就业创业政策",
       "category": "政策",
-      "published": "2026-06-02T00:00:00.000Z",
-      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "a3af074b2b9b",
-      "title": "2026-05-22教育部等八部门办公厅关于联合开展2026年度高校毕业生等重点群体促就业“国聘行动”的通知",
-      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202605/t20260522_1437356.html",
-      "summary": "2026-05-22教育部等八部门办公厅关于联合开展2026年度高校毕业生等重点群体促就业“国聘行动”的通知",
-      "source": "教育部",
-      "category": "政策",
-      "published": "2026-05-22T00:00:00.000Z",
-      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+      "published": "2026-09-20T10:38:00.000Z",
+      "image": "https://q3.itc.cn/q_70/images03/20260920/599a458854924a80a6122932000d69aa.jpeg",
       "score": 50,
       "tags": []
     }
@@ -358,48 +359,48 @@
   ],
   "财经": [
     {
-      "id": "e99b96a746d4",
-      "title": "全球数字贸易博览会国际物流供应链活动浙江嘉兴举行",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10702692.shtml",
+      "id": "20b73718d0a3",
+      "title": "收获、烘干、储运、加工……秋收来了AI助手",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10702746.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-23T22:28:42.000Z",
+      "published": "2026-09-24T00:34:46.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "7ebaef11cc5f",
-      "title": "长期护理保险支付新规落地 专家解读",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10702679.shtml",
+      "id": "8cefc09cfc89",
+      "title": "2026年“中国农民丰收节”新疆主场活动在阿克苏开幕",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10702726.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-23T21:20:38.000Z",
+      "published": "2026-09-24T00:34:24.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "ce67a0b86f70",
-      "title": "辽宁搭建农产品展示推介平台 激发城乡消费潜力",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-23/10702588.shtml",
+      "id": "60b8ab6aa4ce",
+      "title": "2026年中国农民丰收节西藏主场活动在阿里启幕",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10702733.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-23T14:23:41.000Z",
+      "published": "2026-09-24T00:27:22.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "21f47bfbbe41",
-      "title": "环鄱赛如何促进江西商农文旅体健融合发展？",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-23/10702601.shtml",
+      "id": "b8fbbb671da8",
+      "title": "2026云南民企百强榜揭晓 规模有进效益回升",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10702730.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-23T14:22:31.000Z",
+      "published": "2026-09-24T00:26:35.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "649ae7158737",
-      "title": "2026碳达峰碳中和论坛暨深圳国家低碳城论坛举办",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-23/10702598.shtml",
+      "id": "0617f7249056",
+      "title": "秘鲁驻华大使：自由贸易是实现经济社会发展的重要“引擎”",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10702735.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-23T14:20:23.000Z",
+      "published": "2026-09-24T00:23:17.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]

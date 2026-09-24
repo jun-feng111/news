@@ -1,0 +1,7 @@
+{
+  "id": "8a269a623260",
+  "title": "开源一个基于 Rust 和 egui 开发的跨平台 SSH 客户端应用ssh-client - shiningrise",
+  "url": "https://www.cnblogs.com/shiningrise/p/23104560",
+  "contentZh": "",
+  "contentFull": "\nSSH Client\n一个基于 Rust 和 egui 开发的跨平台 SSH 客户端应用。\n项目开源网址\n\nhttps://gitee.com/shiningrise/ssh-client\n\n程序界面\n\n\n功能特性\n\n多会话管理：支持同时打开多个 SSH 会话标签页\n终端模拟：完整的 VT100/ANSI 终端模拟，支持256色\nSFTP 文件传输：支持文件上传、下载、目录浏览\n内置编辑器：支持语法高亮的文本编辑器\n端口转发：支持本地、远程和 SOCKS5 代理端口转发\n主密码保护：支持使用主密码加密存储服务器凭据\nsudo 提权：支持通过 sudo 执行特权操作\n\n支持平台\n\nWindows\nLinux\nARM64 (如 Raspberry Pi)\n\n构建依赖\n\nRust 1.70+\nCargo\n\n编译构建\nLinux\ncargo build --release\n\nWindows\ncargo build --release --target x86_64-pc-windows-gnu\n\nARM64 Linux\n./build_arm64.sh\n\n配置说明\n配置文件默认为 servers.json，可通配命令行参数指定：\nssh-client --config /path/to/config.json\n\n服务器配置格式\n{\n  \"servers\": [\n    {\n      \"name\": \"服务器名称\",\n      \"host\": \"192.168.1.1\",\n      \"port\": 22,\n      \"user\": \"username\",\n      \"password\": \"password\",\n      \"key\": \"/path/to/private/key\"\n    }\n  ]\n}\n\n使用说明\n基本操作\n\n连接服务器：点击顶部工具栏的\"+\"按钮添加新服务器\n文件传输：连接后右侧面板显示 SFTP 文件浏览器\n端口转发：通过\"转发\"菜单配置端口转发规则\n\n快捷键\n\nCtrl+Shift+T：新建标签页\nCtrl+W：关闭当前标签页\nCtrl+Tab：切换标签页\n\n项目结构\nsrc/\n├── main.rs       # 程序入口\n├── app.rs        # 主应用逻辑和 UI\n├── ssh.rs        # SSH 连接和会话管理\n├── term.rs       # 终端模拟器\n├── termwin.rs    # 终端渲染\n├── editor.rs     # 内置编辑器\n├── config.rs     # 配置管理\n├── crypto.rs     # 加密和凭据保护\n├── portfw.rs     # 端口转发\n└── worker.rs     # 后台任务处理\n\n许可证\nMIT License\n\n\n"
+}
