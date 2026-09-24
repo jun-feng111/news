@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T13:19:54.276Z",
+  "updated": "2026-09-24T18:17:37.266Z",
   "count": 125,
   "sources": {
     "V2EX": 7,
@@ -9,6 +9,23 @@
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1244678",
+      "title": "岗位正在整理！",
+      "company": "jiangmuAlvin",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [],
+      "category": "其他",
+      "postedDate": "2026-09-24",
+      "url": "https://www.v2ex.com/t/1244678",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1244637",
       "title": "深圳雷鸟创新｜重点招运维/SRE，也欢迎关注其他岗位",
@@ -46,23 +63,6 @@
       "category": "人力/HR",
       "postedDate": "2026-09-24",
       "url": "https://www.v2ex.com/t/1244608",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1244564",
-      "title": "当司机都 10-15k 了，做程序员干啥",
-      "company": "myluke",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [],
-      "category": "其他",
-      "postedDate": "2026-09-24",
-      "url": "https://www.v2ex.com/t/1244564",
       "source": "V2EX",
       "region": "domestic"
     },
@@ -147,6 +147,28 @@
       "url": "https://www.v2ex.com/t/1244352",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "remoteok-1137427",
+      "title": "Software Engineer",
+      "company": "Prenosis",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "golang",
+        "dev",
+        "engineer",
+        "digital nomad"
+      ],
+      "category": "golang",
+      "postedDate": "2026-09-23",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-prenosis-1137427",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137421",
@@ -3264,36 +3286,6 @@
       "category": "dev",
       "postedDate": "2026-07-31",
       "url": "https://remoteOK.com/remote-jobs/remote-voice-over-artist-bored-panda-1135765",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1135997",
-      "title": "BMS Service Technician",
-      "company": "Johnson Controls",
-      "location": "Warana,",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "design",
-        "technical",
-        "customer support",
-        "dev",
-        "microsoft",
-        "senior",
-        "ops",
-        "engineer",
-        "digital nomad",
-        "sys admin",
-        "education",
-        "testing"
-      ],
-      "category": "design",
-      "postedDate": "2026-07-31",
-      "url": "https://remoteOK.com/remote-jobs/remote-bms-service-technician-johnson-controls-1135997",
       "source": "RemoteOK",
       "region": "foreign"
     }
