@@ -9,30 +9,6 @@
       "category": "AI",
       "published": "2026-09-23T07:44:17.000Z",
       "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/zulfugar-karimov-nBClEqKKVM-unsplash-scaled.jpg",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "d97cb0c0478d",
-      "title": "U.S. TRANSCOM deploys randomised AI to secure military logistics",
-      "url": "https://www.artificialintelligence-news.com/news/us-transcom-deploys-randomised-ai-to-secure-military-logistics/",
-      "summary": "Deploying randomised AI logistics offers military planners a viable defence against adversarial trac",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-09-23T13:13:15.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/u.s.-TRANSCOM-deploys-randomised-AI-secure-military-logistics-supply-chain-transportation-command.jpg",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "5816bd24a98c",
-      "title": "AutoScheduler launches warehouse app builder for logistics teams",
-      "url": "https://www.artificialintelligence-news.com/news/autoscheduler-warehouse-app-builder-for-logistics-teams/",
-      "summary": "AutoScheduler has launched its warehouse app builder to let logistics teams build custom tools direc",
-      "source": "AI News",
-      "category": "AI",
-      "published": "2026-09-22T11:34:39.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/autoScheduler-warehouse-app-builder-logistics-ai-supply-chain-warehousing.jpg",
       "score": 75,
       "tags": []
     },
@@ -58,6 +34,30 @@
       "published": "2026-09-24T00:46:17.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
       "score": 75,
+      "tags": []
+    },
+    {
+      "id": "abe26ab67059",
+      "title": "Meta introduces camera-free AI glasses",
+      "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+      "summary": "Meta introduces camera-free AI glasses",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-23T23:39:44.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/ray-ban-audio.png?resize=1200,635",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "d97cb0c0478d",
+      "title": "U.S. TRANSCOM deploys randomised AI to secure military logistics",
+      "url": "https://www.artificialintelligence-news.com/news/us-transcom-deploys-randomised-ai-to-secure-military-logistics/",
+      "summary": "Deploying randomised AI logistics offers military planners a viable defence against adversarial trac",
+      "source": "AI News",
+      "category": "AI",
+      "published": "2026-09-23T13:13:15.000Z",
+      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/u.s.-TRANSCOM-deploys-randomised-AI-secure-military-logistics-supply-chain-transportation-command.jpg",
+      "score": 70,
       "tags": []
     }
   ],
@@ -90,10 +90,13 @@
       "id": "dd317601d2ce",
       "title": "If Amazon doesn’t know how to eliminate carbon emissions, then who does?",
       "url": "https://techcrunch.com/2026/09/23/if-amazon-doesnt-know-how-to-eliminate-carbon-emissions-then-who-does/",
+      "summary": "If Amazon doesn’t know how to eliminate carbon emissions, then who does",
       "source": "TechCrunch",
       "category": "科技",
       "published": "2026-09-23T21:21:33.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1209591548.jpeg?resize=1200,800"
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1209591548.jpeg?resize=1200,800",
+      "score": 70,
+      "tags": []
     },
     {
       "id": "d12dfdfa3f04",
@@ -116,26 +119,14 @@
   ],
   "就业": [
     {
-      "id": "ce31ef286175",
-      "title": "150个HC全是后端工程师！DeepSeek扩招背后：模型内卷结束，Agent基建开战",
-      "url": "https://www.sohu.com/a/1074104457_99966569",
-      "summary": "9月7日，DeepSeek Harness团队负责人崔添翼公开放出约150个招聘HC，迅速在AI圈引发讨论。 这场扩招最颠覆行业直觉的一点：全部岗位为服务端开发、Agent 弹性计算研发工程师，没有任",
-      "source": "就业报告",
-      "category": "就业",
-      "published": "2026-09-10T02:05:00.000Z",
-      "image": "//q8.itc.cn/q_70/images03/20260910/c7c760bb4d7b4e7494659ca019bed72f.jpeg",
-      "score": 65,
-      "tags": []
-    },
-    {
-      "id": "4c81971e4721",
-      "title": "前程无忧发布2027届毕业生秋招提示：AI反向背调成趋势 补招常态化",
-      "url": "https://www.msn.cn/zh-cn/money/经济/前程无忧发布2027届毕业生秋招提示-ai反向背调成趋势-补招常态化/ar-AA2cEvwD",
-      "summary": "前程无忧9月21日发布《2027届毕业生秋招提示》，提出毕业生投递简历前向AI助手询问企业情况成标准动作；截至2026年3月，60。0%企业未完成原定校招计划且正在或计划补招，仅27",
+      "id": "bebbf19fcd21",
+      "title": "前程无忧发布2027届毕业生秋招提示：AI反向背调、补招常态化成求职 ...",
+      "url": "https://news.ifeng.com/c/8wcwx6hTNvq",
+      "summary": "随着2027届毕业生秋季校园招聘拉开帷幕，就业市场的“游戏规则”仍在持续演进。近期，国内领先的人力资源服务商前程无忧51job基于《2026校园招聘白皮书》（以下简称《白皮书》）最新调研数据及平台治理",
       "source": "Bing·秋招",
       "category": "就业",
-      "published": "2026-09-20T23:32:33.000Z",
-      "image": "",
+      "published": "2026-09-22T07:39:00.000Z",
+      "image": "https://x0.ifengimg.com/res/2026/C31AF8093EF5F7CACAECD6405375EE800B9E3846_size252_w800_h559.png",
       "score": 60,
       "tags": []
     },
@@ -171,7 +162,18 @@
       "source": "就业报告",
       "category": "就业",
       "published": "2026-09-17T05:01:00.000Z",
-      "image": "//q9.itc.cn/images01/20260917/0670b1b12756419891f69c3b3f9ac858.png",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "29a1533bca86",
+      "title": "FDE工程师薪资走高，亚马逊投入10亿美元加入“抢人大战”",
+      "url": "https://www.stcn.com/article/detail/3993522.html",
+      "summary": "当地时间6月30日，亚马逊宣布投入10亿美元打造FDE（前沿部署工程师）团队，让AI工程师与客户直接合作，并且协助客户构建和部署人工智能系统。 亚马逊表示，FDE嵌入式团队将与客户的业务、工程和安全团",
+      "source": "就业报告",
+      "category": "就业",
+      "published": "2026-07-01T23:44:00.000Z",
+      "image": "https://static-web.stcn.com/static/images/zqsb.png",
       "score": 60,
       "tags": []
     }
@@ -202,37 +204,37 @@
       "tags": []
     },
     {
-      "id": "97ce763f388e",
-      "title": "校馆弦歌｜浙江大学图书馆：典籍可触 资源无界",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-22/10701294.shtml",
-      "summary": "视频：校馆弦歌｜浙江大学图书馆：典籍可触 资源无界来源：新华社",
+      "id": "8e14d27a5236",
+      "title": "从实验室到生产线 山东高校以应用型科研对接产业升级",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-22/10701721.shtml",
+      "summary": "中新网济南9月22日电 (记者 赵晓)山东交通学院交通土建工程学院的实验室内，一台机器人正附着在碗口粗细的钢管上移动，操作员通过显示屏可以查看钢管表面状态。这是由学院副教授崔凤坤领衔的“缆索体系桥梁服",
       "source": "中新网教育",
       "category": "社会",
-      "published": "2026-09-22T02:30:54.000Z",
+      "published": "2026-09-22T13:01:04.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 50,
       "tags": []
     },
     {
-      "id": "8fb4719dfe75",
-      "title": "招生季多所高校推出转专业新政 高校转专业，该如何“松绑”",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-22/10701213.shtml",
-      "summary": "高校转专业，该如何“松绑”",
+      "id": "5d9d699db0a9",
+      "title": "福耀科大·诺瓦核聚变创新研究院在福州揭牌成立",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-22/10701711.shtml",
+      "summary": "中新网福州9月22日电 (叶秋云)22日，福耀科大·诺瓦核聚变创新研究院及福耀科技大学·诺瓦核聚变创新实验室在福建福耀科技大学正式揭牌成立。福建福耀科技大学常务副校长张福利主持仪式",
       "source": "中新网教育",
       "category": "社会",
-      "published": "2026-09-21T23:54:12.000Z",
+      "published": "2026-09-22T12:31:08.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 50,
       "tags": []
     },
     {
-      "id": "0c4731260752",
-      "title": "武汉理工大学数字学院/数字出版研究院揭牌成立",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-21/10701097.shtml",
-      "summary": "中新网武汉9月21日电 武汉理工大学数字学院/数字出版研究院日前正式揭牌成立",
+      "id": "6d572c163744",
+      "title": "【理响中国】社科青年开讲啦@“典”亮文明⑦霓裳汇流处：丝绸之路与文明对话",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-22/10701535.shtml",
+      "summary": "【理响中国】社科青年开讲啦@“典”亮文明⑦霓裳汇流处：丝绸之路与文明对话",
       "source": "中新网教育",
       "category": "社会",
-      "published": "2026-09-21T14:12:45.000Z",
+      "published": "2026-09-22T08:23:40.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 50,
       "tags": []
@@ -259,20 +261,19 @@
       "source": "Bing·大学生创业扶持政策",
       "category": "政策",
       "published": "2026-09-18T01:05:00.000Z",
-      "image": "",
       "score": 55,
       "tags": []
     },
     {
-      "id": "57d54045ae78",
-      "title": "【兴政公考】2026年湾沚区机关事业单位就业见习人员招募9人公告",
-      "url": "https://www.sohu.com/a/1077229885_120100009",
-      "summary": "安徽兴政公考根据 芜湖市湾沚区人民政府 发布，转载 2026年湾沚区机关事业单位就业见习人员招募公告 ，详情请关注www。cn，政策咨询及备考指导请加13695518079（栋老师微信）了解",
-      "source": "就业创业政策",
+      "id": "da8f3271f03d",
+      "title": "第二期“大学生就业指导教练”培训班在哈尔滨开班",
+      "url": "https://www.sohu.com/a/1079457786_120705293",
+      "summary": "为深入贯彻“十五五”就业优先战略部署，加强专业化就业指导人才队伍建设，助力高校毕业生高质量充分就业，9月16—18日，由人力资源和社会保障部社会保障能力建设中心（以下简称 “人社部能建中心”）主办的第",
+      "source": "Bing·大学生就业政策",
       "category": "政策",
-      "published": "2026-09-17T04:59:00.000Z",
-      "image": "//q3.itc.cn/images01/20260917/d18419c9c2824bef9f078168c427bfd0.png",
-      "score": 55,
+      "published": "2026-09-22T08:00:00.000Z",
+      "image": "//q1.itc.cn/images01/20260922/198538ce1eff4fb5aa29dd8f9aa32c00.jpeg",
+      "score": 50,
       "tags": []
     },
     {
@@ -288,14 +289,14 @@
       "tags": []
     },
     {
-      "id": "bbe91c3d06ad",
-      "title": "好岗进校园！2026年高校毕业生等青年就业服务攻坚行动专场招聘会举办",
-      "url": "https://www.sohu.com/a/1078646908_121106854",
-      "summary": "9月15日，以“服务不断线 攻坚促就业”为主题的2026年高校毕业生等青年就业服务攻坚行动专场招聘会在兴安职业技术大学举办。 活动现场学生们了解就业创业相关政策 本次活动由内蒙古自治区人力资源和社会保",
-      "source": "Bing·高校毕业生就业创业政策",
+      "id": "530db8dc8468",
+      "title": "439套！北京朝阳区毕业大学生及青年人才租赁住房来了！",
+      "url": "https://news.qq.com/rain/a/20260922A05D3Y00",
+      "summary": "本次大学生对接租赁住房的房源，根据登记时个人状态，享受相应优惠政策，活动期内同种优惠不能重复享受。已通过大学生批次入住人员，不得参与本次选房",
+      "source": "Bing·大学生就业政策",
       "category": "政策",
-      "published": "2026-09-20T10:38:00.000Z",
-      "image": "https://q3.itc.cn/q_70/images03/20260920/599a458854924a80a6122932000d69aa.jpeg",
+      "published": "2026-09-22T05:21:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/OWOhp_T5zxa2UlCHrXDhy5YLg2KN0KlUeud_J_kn6svj4AA_640330/0",
       "score": 50,
       "tags": []
     }
@@ -314,86 +315,86 @@
       "tags": []
     },
     {
-      "id": "a3df113e24b1",
-      "title": "GPU负责算，CPU负责干活：英特尔开始重新出牌",
-      "url": "https://www.infoq.cn/article/Zh6Xo7f31MJdQtbUTUk5?utm_source=rss&amp;utm_medium=article",
+      "id": "ad61538695f6",
+      "title": "云栖之后，10+阿里AI实战派将亮相QCon上海站",
+      "url": "https://www.infoq.cn/article/lh6Z5E9Zkr33bOeHQGky?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-09-24T14:52:42.000Z",
-      "image": "https://static001.infoq.cn/resource/image/16/2e/16cc1ec2a1fc39628ba5fd809159642e.jpg"
+      "published": "2026-09-24T18:38:59.000Z",
+      "image": "https://static001.infoq.cn/resource/image/9f/d6/9f72e0e8f7d072798c937863c245c6d6.jpg"
     },
     {
-      "id": "52194c9c3cc2",
-      "title": "GPT-6猛砍价，Opus 5.5忙“变好用”：模型价格战，已经不能只看API定价",
-      "url": "https://www.infoq.cn/article/VSIsPFiO2hrjBi30wDfE?utm_source=rss&amp;utm_medium=article",
+      "id": "cee7a0e73260",
+      "title": "世界人工智能开源大赛（GOAI）总决赛暨颁奖盛典在杭州举行",
+      "url": "https://www.infoq.cn/article/hrmb2p18iKEwl24OMvcv?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-09-24T13:44:32.000Z",
-      "image": "https://static001.infoq.cn/resource/image/51/4c/51acbf33ffec8058b781c64336e12c4c.jpg"
+      "published": "2026-09-24T18:11:27.000Z",
+      "image": "https://static001.infoq.cn/resource/image/da/3e/dab7ecf8bdd6d11142dc6a222b034d3e.jpg"
     },
     {
-      "id": "6622c2d8b792",
-      "title": "显存不够、内存太贵，KV Cache越堆越大：华为给出自己的新解法",
-      "url": "https://www.infoq.cn/article/LtHFz94fa1W1DQjNvHVb?utm_source=rss&amp;utm_medium=article",
+      "id": "c74d932f4979",
+      "title": "WSO2 发布 Agent Manager，企业寻求应对日益严重的 AI Agent 泛滥问题",
+      "url": "https://www.infoq.cn/article/4gr5Zt9GZoyIwF2f6LvR?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-09-24T13:40:34.000Z",
-      "image": "https://static001.infoq.cn/resource/image/0f/78/0fb8f8f43c3505bc3db0f2ef40149878.jpg"
+      "published": "2026-09-24T17:25:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/ec/9c/ec9f7ce11123d4f052ef53b38f88409c.jpg"
     },
     {
-      "id": "abcb9f970ed2",
-      "title": "OpenAI 推出分级处理框架及案例研究，用于报告模型失调问题",
-      "url": "https://www.infoq.cn/article/sFUUaaIQZH3ecXb14WVs?utm_source=rss&amp;utm_medium=article",
+      "id": "f758811b54cc",
+      "title": "数据、模型、算力越来越难分开，Data+AI 基础设施怎么进化？",
+      "url": "https://www.infoq.cn/article/amffXXMpr23rX3eoJDhv?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-09-24T11:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/ef/f8/efdcd3be9669561ba7e13ba6aa110cf8.jpg"
+      "published": "2026-09-24T16:34:30.000Z",
+      "image": "https://static001.infoq.cn/resource/image/35/8b/351a8173b8c8568a87d4362f8223d18b.jpeg"
     }
   ],
   "财经": [
     {
-      "id": "1470a172eb98",
-      "title": "文化点睛、烟火提鲜、服务暖心 县域“文化+消费”的睢宁实践",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10702962.shtml",
+      "id": "84b7121780fe",
+      "title": "8月中国发行新增地方政府债券6440亿元",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10703395.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-24T06:32:30.000Z",
+      "published": "2026-09-24T13:14:48.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "514892bbb343",
-      "title": "报告发现，移动源治理加速从末端控制向结构优化转变",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10702951.shtml",
+      "id": "b74737b4d387",
+      "title": "上半年四川入境旅游增长强劲 东南亚市场最活跃",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10703389.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-24T06:25:58.000Z",
+      "published": "2026-09-24T13:10:18.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "ad0f81c36e5c",
-      "title": "平漯周高铁超万吨“巨梁”成功跨越京广高铁",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10702948.shtml",
+      "id": "e07ee9a9e593",
+      "title": "北京出台商品住房销售新政 新项目优先现房",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10703388.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-24T06:24:42.000Z",
+      "published": "2026-09-24T13:08:59.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "50186ddcecf2",
-      "title": "优势特色产业赋能，共绘发展新图景",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10702911.shtml",
+      "id": "d39399e766cf",
+      "title": "大型汽车运输船在江苏交付启航 可装载9800辆车",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10703372.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-24T06:15:59.000Z",
+      "published": "2026-09-24T12:47:14.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "d90398e78576",
-      "title": "新质生产力成为发展重要引擎",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10702937.shtml",
+      "id": "aed78bf6de02",
+      "title": "江苏启动社会组织助力高校毕业生就业行动 6200余岗位现场揽才",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10703367.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-24T05:34:39.000Z",
+      "published": "2026-09-24T12:44:26.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]

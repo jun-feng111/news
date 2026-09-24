@@ -1,0 +1,7 @@
+{
+  "id": "548e58a58ebd",
+  "title": "人大金仓V9系统表名字冲突，设置search_path不起作用 - 小鱼，",
+  "url": "https://www.cnblogs.com/xiaoyu01/p/23111651",
+  "contentZh": "",
+  "contentFull": "\nMySql迁移人大金仓问题\n1.数据及结构迁移后，Navicat能查到表和数据，但是启动程序一直报错table xxx not exists 或者column not exists，\n一般都是表名和系统表冲突导致的，Kingbase内置了sys_user，sys_config等表\n如果业务表跟它同名的话会冲突，默认是去查系统表了，\nKingbase跟MySQL相比多了一层模式的概念，查询一个表时，如果未指定模式，首先会查询跟账号名称同名的模式，\n如果不存在，则根据search_path进行搜索\n-- 1.未指定模式，先搜索当前用户名相同的模式，如当前账号为test_user，则搜索test_user.sys_user\n--   然后根据search_path依次搜索\nselect * from sys_user\n\n-- 2.直接指定模式查询\nselect * from 模式.sys_user\n\n2.查看当前search_path\nshow search_path\n\n3.修改数据库的默认search_path\n-- 修改search_path\nALTER DATABASE 数据库 SET search_path TO \"$user\", 模式, public, sys, sys_catalog, pg_catalog;\n\n-- 重载当前会话配置\nSELECT sys_reload_conf();\n\n-- 断开会话连接后验证\nSHOW search_path\n\n4.修改模式后仍然启动报错\n一般是由于程序中连接参数指定currentSchema导致的，去除即可\n\n业务程序中不建议指定模式，具体原因如下\n当使用?currentSchema=模式名时, 会覆盖search_path的配置，\n同时sys_catalog模式是系统的基础模式，存放了数据库的一些元数据，为了保证所有的对象，脚本，视图，存储过程等都能正常运行，\nKingbase的默认策略，当用户指定的模式不包含sys_catalog时，kingbase会默认将sys_catalog添加到搜索的��一位，\n所以最终search_path就变成了sys_catalog, 模式名， 我们在数据库层面配置的search_path就不管用了\n\n\n"
+}

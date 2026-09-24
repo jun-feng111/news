@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T07:18:10.337Z",
+  "updated": "2026-09-24T13:19:54.276Z",
   "count": 125,
   "sources": {
     "V2EX": 7,
@@ -9,6 +9,46 @@
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1244637",
+      "title": "深圳雷鸟创新｜重点招运维/SRE，也欢迎关注其他岗位",
+      "company": "ounxnpz",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "python",
+        "go",
+        "kubernetes",
+        "k8s",
+        "linux"
+      ],
+      "category": "运维/SRE",
+      "postedDate": "2026-09-24",
+      "url": "https://www.v2ex.com/t/1244637",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1244608",
+      "title": "还有合伙人式招聘，这风险也不小",
+      "company": "myluke",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [],
+      "category": "人力/HR",
+      "postedDate": "2026-09-24",
+      "url": "https://www.v2ex.com/t/1244608",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1244564",
       "title": "当司机都 10-15k 了，做程序员干啥",
@@ -105,46 +145,6 @@
       "category": "算法/AI",
       "postedDate": "2026-09-23",
       "url": "https://www.v2ex.com/t/1244352",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1244216",
-      "title": "初级 Java 开发工程师 · 深圳南山",
-      "company": "FriedRiceNoodles",
-      "location": "内推",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "java",
-        "vue",
-        "spring",
-        "docker",
-        "redis"
-      ],
-      "category": "其他",
-      "postedDate": "2026-09-23",
-      "url": "https://www.v2ex.com/t/1244216",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1244200",
-      "title": "滴滴出行—云平台部门招聘 开发，涵盖 存储/网络/运维/ServiceMesh/数据/算法 等职位，地点北京/杭州",
-      "company": "xinshoushanglu",
-      "location": "招聘帖",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [],
-      "category": "算法/AI",
-      "postedDate": "2026-09-23",
-      "url": "https://www.v2ex.com/t/1244200",
       "source": "V2EX",
       "region": "domestic"
     },
