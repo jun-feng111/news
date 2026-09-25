@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T11:18:37.915Z",
+  "updated": "2026-09-25T16:42:49.425Z",
   "count": 123,
   "sources": {
     "V2EX": 5,
@@ -123,6 +123,33 @@
       "url": "https://www.v2ex.com/t/1244352",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "remoteok-1137431",
+      "title": "Danish Speaking Solutions Consultant Work Sofia Bulgaria",
+      "company": "Mercier Consultancy Group",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "consulting",
+        "education",
+        "technical",
+        "customer support",
+        "marketing",
+        "travel",
+        "excel",
+        "medical",
+        "recruiter"
+      ],
+      "category": "consulting",
+      "postedDate": "2026-09-24",
+      "url": "https://remoteOK.com/remote-jobs/remote-danish-speaking-solutions-consultant-work-sofia-bulgaria-mercier-consultancy-group-1137431",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137429",
@@ -3211,36 +3238,6 @@
       "category": "exec",
       "postedDate": "2026-08-01",
       "url": "https://remoteOK.com/remote-jobs/remote-managing-director-berni-and-mick-ireland-1135908",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1135901",
-      "title": "Freelance Creative Director",
-      "company": "BMWL",
-      "location": "California, California, United States",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "design",
-        "amazon",
-        "designer",
-        "customer support",
-        "video",
-        "exec",
-        "junior",
-        "marketing",
-        "ecommerce",
-        "digital nomad",
-        "art direction",
-        "consulting"
-      ],
-      "category": "design",
-      "postedDate": "2026-07-31",
-      "url": "https://remoteOK.com/remote-jobs/remote-freelance-creative-director-bmwl-1135901",
       "source": "RemoteOK",
       "region": "foreign"
     }
