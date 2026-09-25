@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T22:03:16.892Z",
+  "updated": "2026-09-25T00:30:13.546Z",
   "count": 125,
   "sources": {
     "V2EX": 7,
@@ -147,6 +147,23 @@
       "url": "https://www.v2ex.com/t/1244352",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "remoteok-1137429",
+      "title": "MecÃ¡nico Automotriz DiagnÃ³stico y Presupuestos",
+      "company": "Workana",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [],
+      "category": "Software",
+      "postedDate": "2026-09-24",
+      "url": "https://remoteOK.com/remote-jobs/remote-mecanico-automotriz-diagnostico-y-presupuestos-workana-1137429",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137428",
@@ -3248,36 +3265,6 @@
       "category": "design",
       "postedDate": "2026-07-31",
       "url": "https://remoteOK.com/remote-jobs/remote-freelance-creative-director-bmwl-1135901",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1135783",
-      "title": "Human Resources Coordinator",
-      "company": "Pacific Health Group",
-      "location": "San Diego, San Diego, California, United States",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "hr",
-        "sys admin",
-        "education",
-        "recruiter",
-        "coordinator",
-        "customer support",
-        "marketing",
-        "exec",
-        "payroll",
-        "finance",
-        "ops",
-        "medical"
-      ],
-      "category": "hr",
-      "postedDate": "2026-07-31",
-      "url": "https://remoteOK.com/remote-jobs/remote-human-resources-coordinator-pacific-health-group-1135783",
       "source": "RemoteOK",
       "region": "foreign"
     }

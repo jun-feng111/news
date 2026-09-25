@@ -60,6 +60,18 @@
   ],
   "科技": [
     {
+      "id": "06dbc1d0a57c",
+      "title": "Waymo is scaling fast. Here’s what the fleet data shows.",
+      "url": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
+      "summary": "Waymo is scaling fast。 Here’s what the fleet data shows",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-24T23:24:33.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/Waymo-parking-charging-getty.jpg?resize=1200,800",
+      "score": 75,
+      "tags": []
+    },
+    {
       "id": "a39715447b67",
       "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
       "url": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
@@ -80,19 +92,7 @@
       "category": "科技",
       "published": "2026-09-24T18:11:44.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-528022874.jpg?w=1024",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "ec8182929aab",
-      "title": "Databricks buys Row Zero and is scouting for more startups to acquire",
-      "url": "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/",
-      "summary": "Databricks buys Row Zero and is scouting for more startups to acquire",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-24T17:07:55.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Navy-shopping-cart-e1790268797534.png?w=735",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -116,7 +116,7 @@
       "category": "科技",
       "published": "2026-09-24T17:39:24.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
-      "score": 65,
+      "score": 60,
       "tags": []
     }
   ],
@@ -134,18 +134,6 @@
       "tags": []
     },
     {
-      "id": "ed644ccafbb1",
-      "title": "科技爱好者周刊（第 413 期）：再见了，React Native",
-      "url": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html",
-      "summary": "这里记录每周值得分享的科技内容，周五发布。（[通知] 下周五开始的中秋和十一假期，周刊休息",
-      "source": "阮一峰",
-      "category": "开发",
-      "published": "2026-09-18T00:03:02.000Z",
-      "image": "",
-      "score": 55,
-      "tags": []
-    },
-    {
       "id": "ad61538695f6",
       "title": "云栖之后，10+阿里AI实战派将亮相QCon上海站",
       "url": "https://www.infoq.cn/article/lh6Z5E9Zkr33bOeHQGky?utm_source=rss&amp;utm_medium=article",
@@ -160,7 +148,8 @@
       "url": "https://www.infoq.cn/article/hrmb2p18iKEwl24OMvcv?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-09-24T18:11:27.000Z"
+      "published": "2026-09-24T18:11:27.000Z",
+      "image": "https://static001.infoq.cn/resource/image/da/3e/dab7ecf8bdd6d11142dc6a222b034d3e.jpg"
     },
     {
       "id": "c74d932f4979",
@@ -168,11 +157,30 @@
       "url": "https://www.infoq.cn/article/4gr5Zt9GZoyIwF2f6LvR?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-09-24T17:25:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/ec/9c/ec9f7ce11123d4f052ef53b38f88409c.jpg"
+      "published": "2026-09-24T17:25:00.000Z"
+    },
+    {
+      "id": "f758811b54cc",
+      "title": "数据、模型、算力越来越难分开，Data+AI 基础设施怎么进化？",
+      "url": "https://www.infoq.cn/article/amffXXMpr23rX3eoJDhv?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-24T16:34:30.000Z",
+      "image": "https://static001.infoq.cn/resource/image/35/8b/351a8173b8c8568a87d4362f8223d18b.jpeg"
     }
   ],
   "就业": [
+    {
+      "id": "c76b56413d4a",
+      "title": "AI人才缺口超500万！有最新报告称，AI抢人逻辑悄悄变了：架构师新发 ...",
+      "url": "https://news.qq.com/rain/a/20260718A08XHR00",
+      "summary": "人才缺口500万，大厂抢得最凶的不是算法工程师，架构师新发职位同比大涨近八成。懂提示词和人机训练岗位的文科生，平均年薪达到34",
+      "source": "算法工程师·就业分析",
+      "category": "就业",
+      "published": "2026-07-18T11:05:00.000Z",
+      "score": 65,
+      "tags": []
+    },
     {
       "id": "bebbf19fcd21",
       "title": "前程无忧发布2027届毕业生秋招提示：AI反向背调、补招常态化成求职 ...",
@@ -210,24 +218,14 @@
       "tags": []
     },
     {
-      "id": "29a1533bca86",
-      "title": "FDE工程师薪资走高，亚马逊投入10亿美元加入“抢人大战”",
-      "url": "https://www.stcn.com/article/detail/3993522.html",
-      "summary": "当地时间6月30日，亚马逊宣布投入10亿美元打造FDE（前沿部署工程师）团队，让AI工程师与客户直接合作，并且协助客户构建和部署人工智能系统。 亚马逊表示，FDE嵌入式团队将与客户的业务、工程和安全团",
+      "id": "9098abd45060",
+      "title": "全栈工程师平均月薪1.9万、3个后端撑起产品线：后端全栈化比全员全 ...",
+      "url": "https://www.sohu.com/a/1077175656_120959233",
+      "summary": "2026年，「全栈工程师」成为行业热词。猎聘数据显示全栈工程师平均月薪约1",
       "source": "就业报告",
       "category": "就业",
-      "published": "2026-07-01T23:44:00.000Z",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "75f5eb857622",
-      "title": "AI技能写进销售、设计和HR：BOSS直聘看到一场岗位重写",
-      "url": "https://news.qq.com/rain/a/20260918A065V500",
-      "summary": "9月17日，BOSS直聘在深圳开放日释放出一个很有意思的信号：AI招聘的边界正在迅速外扩。企业争抢的对象依然包括算法工程师和大模型人才，但销售、设计、人力资源等传统岗位，也开始把AI能力写进招聘要求",
-      "source": "算法工程师·就业分析",
-      "category": "就业",
-      "published": "2026-09-18T06:55:00.000Z",
+      "published": "2026-09-17T05:01:00.000Z",
+      "image": "//q9.itc.cn/images01/20260917/0670b1b12756419891f69c3b3f9ac858.png",
       "score": 60,
       "tags": []
     }
@@ -320,15 +318,15 @@
       "tags": []
     },
     {
-      "id": "da8f3271f03d",
-      "title": "第二期“大学生就业指导教练”培训班在哈尔滨开班",
-      "url": "https://www.sohu.com/a/1079457786_120705293",
-      "summary": "为深入贯彻“十五五”就业优先战略部署，加强专业化就业指导人才队伍建设，助力高校毕业生高质量充分就业，9月16—18日，由人力资源和社会保障部社会保障能力建设中心（以下简称 “人社部能建中心”）主办的第",
-      "source": "Bing·大学生就业政策",
+      "id": "57d54045ae78",
+      "title": "【兴政公考】2026年湾沚区机关事业单位就业见习人员招募9人公告",
+      "url": "https://www.sohu.com/a/1077229885_120100009",
+      "summary": "安徽兴政公考根据 芜湖市湾沚区人民政府 发布，转载 2026年湾沚区机关事业单位就业见习人员招募公告 ，详情请关注www。cn，政策咨询及备考指导请加13695518079（栋老师微信）了解",
+      "source": "就业创业政策",
       "category": "政策",
-      "published": "2026-09-22T08:00:00.000Z",
-      "image": "//q1.itc.cn/images01/20260922/198538ce1eff4fb5aa29dd8f9aa32c00.jpeg",
-      "score": 50,
+      "published": "2026-09-17T04:59:00.000Z",
+      "image": "//q3.itc.cn/images01/20260917/d18419c9c2824bef9f078168c427bfd0.png",
+      "score": 55,
       "tags": []
     },
     {
@@ -344,14 +342,14 @@
       "tags": []
     },
     {
-      "id": "f5cb39eaf8f6",
-      "title": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
-      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202606/t20260602_1438600.html",
-      "summary": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
-      "source": "教育部",
+      "id": "da8f3271f03d",
+      "title": "第二期“大学生就业指导教练”培训班在哈尔滨开班",
+      "url": "https://www.sohu.com/a/1079457786_120705293",
+      "summary": "为深入贯彻“十五五”就业优先战略部署，加强专业化就业指导人才队伍建设，助力高校毕业生高质量充分就业，9月16—18日，由人力资源和社会保障部社会保障能力建设中心（以下简称 “人社部能建中心”）主办的第",
+      "source": "Bing·大学生就业政策",
       "category": "政策",
-      "published": "2026-06-02T00:00:00.000Z",
-      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+      "published": "2026-09-22T08:00:00.000Z",
+      "image": "//q1.itc.cn/images01/20260922/198538ce1eff4fb5aa29dd8f9aa32c00.jpeg",
       "score": 50,
       "tags": []
     }
