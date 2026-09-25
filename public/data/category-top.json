@@ -13,6 +13,18 @@
       "tags": []
     },
     {
+      "id": "bb5c1e3c8a7d",
+      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+      "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+      "summary": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-25T05:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/06/india-ai.jpg?w=1200",
+      "score": 80,
+      "tags": []
+    },
+    {
       "id": "aaae293f0825",
       "title": "AI Agents Are Becoming a New Malware Distribution Channel",
       "url": "https://www.artificialintelligence-news.com/news/ai-agents-are-becoming-a-new-malware-distribution-channel/",
@@ -21,18 +33,6 @@
       "category": "AI",
       "published": "2026-09-23T07:44:17.000Z",
       "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/zulfugar-karimov-nBClEqKKVM-unsplash-scaled.jpg",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "401fbf3dbcdc",
-      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-      "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
-      "summary": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-09-24T19:00:42.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/PrismML-Snapdragon-smartglasses.png?w=612",
       "score": 75,
       "tags": []
     },
@@ -49,26 +49,29 @@
       "tags": []
     },
     {
-      "id": "5816bd24a98c",
-      "title": "AutoScheduler launches warehouse app builder for logistics teams",
-      "url": "https://www.artificialintelligence-news.com/news/autoscheduler-warehouse-app-builder-for-logistics-teams/",
-      "source": "AI News",
+      "id": "401fbf3dbcdc",
+      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+      "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+      "summary": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+      "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-09-22T11:34:39.000Z",
-      "image": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/autoScheduler-warehouse-app-builder-logistics-ai-supply-chain-warehousing.jpg"
+      "published": "2026-09-24T19:00:42.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/PrismML-Snapdragon-smartglasses.png?w=612",
+      "score": 70,
+      "tags": []
     }
   ],
   "科技": [
     {
       "id": "06dbc1d0a57c",
-      "title": "Waymo is scaling fast. Here’s what the fleet data shows.",
+      "title": "Waymo is scaling fast: Here’s what the fleet data shows",
       "url": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
-      "summary": "Waymo is scaling fast。 Here’s what the fleet data shows",
+      "summary": "Waymo is scaling fast: Here’s what the fleet data shows",
       "source": "TechCrunch",
       "category": "科技",
       "published": "2026-09-24T23:24:33.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/01/Waymo-parking-charging-getty.jpg?resize=1200,800",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -80,7 +83,7 @@
       "category": "科技",
       "published": "2026-09-24T20:45:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/IMG_0951-rotated.jpeg?resize=900,1200",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -104,72 +107,44 @@
       "category": "科技",
       "published": "2026-09-24T19:15:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2023/07/expo_hall.png?resize=1200,675",
-      "score": 65,
+      "score": 60,
       "tags": []
     },
     {
       "id": "72339274d890",
       "title": "Meta&#8217;s Muse Charm looks like a Tamagotchi, but it&#8217;s tapping into a much newer trend",
       "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
-      "summary": "Meta&#8217;s Muse Charm looks like a Tamagotchi, but it&#8217;s tapping into a much newer trend",
       "source": "TechCrunch",
       "category": "科技",
       "published": "2026-09-24T17:39:24.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
-      "score": 60,
-      "tags": []
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800"
     }
   ],
-  "开发": [
+  "就业": [
     {
-      "id": "8cf69f0bdc07",
-      "title": "Meet Feather, the startup building the &#8216;Android of robotics&#8217; for developers",
-      "url": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
-      "summary": "Meet Feather, the startup building the &#8216;Android of robotics&#8217; for developers",
-      "source": "TechCrunch",
-      "category": "开发",
-      "published": "2026-09-24T18:52:38.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Feather-cropped.jpg?resize=1200,829",
+      "id": "b52a61b7a1e7",
+      "title": "公募秋招掀起AI人才争夺战；多只FOF接连申报",
+      "url": "https://news.qq.com/rain/a/20260923A03C3T00",
+      "summary": "2027届秋季校园招聘季拉开帷幕，公募行业对人工智能人才的争夺热度较高。多家头部基金公司通过设立AI人才专项、金融科技专场或AI方向岗位等方式，系统性扩大AI人才招聘规模，岗位设置涉及底层算法研究、大",
+      "source": "Bing·秋招",
+      "category": "就业",
+      "published": "2026-09-23T01:19:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/ODTn0FJhIamLkHmVEBiEkkMHM0ooszEVaSO50L1rus2S8AA_640330/0",
       "score": 65,
       "tags": []
     },
     {
-      "id": "ad61538695f6",
-      "title": "云栖之后，10+阿里AI实战派将亮相QCon上海站",
-      "url": "https://www.infoq.cn/article/lh6Z5E9Zkr33bOeHQGky?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-24T18:38:59.000Z",
-      "image": "https://static001.infoq.cn/resource/image/9f/d6/9f72e0e8f7d072798c937863c245c6d6.jpg"
+      "id": "5c442ae016a2",
+      "title": "前程无忧：AI岗位平均月薪2.5万元 算法岗招聘近八成 多数要求5-10年 ...",
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-07-14/doc-inihuhka8550670.shtml",
+      "summary": "格隆汇7月14日｜前程无忧51job基于平台近一年招聘与求职数据发布《2026人工智能人才洞察》。数据显示，民营企业贡献近六成岗位，头部企业人才需求量居于前列，超千人规模的大型企业职位发布量增速位居第",
+      "source": "算法工程师·就业分析",
+      "category": "就业",
+      "published": "2026-07-14T09:55:00.000Z",
+      "image": "https://n.sinaimg.cn/finance/cece9e13/20240627/655959900_20240627.png",
+      "score": 65,
+      "tags": []
     },
-    {
-      "id": "cee7a0e73260",
-      "title": "世界人工智能开源大赛（GOAI）总决赛暨颁奖盛典在杭州举行",
-      "url": "https://www.infoq.cn/article/hrmb2p18iKEwl24OMvcv?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-24T18:11:27.000Z",
-      "image": "https://static001.infoq.cn/resource/image/da/3e/dab7ecf8bdd6d11142dc6a222b034d3e.jpg"
-    },
-    {
-      "id": "c74d932f4979",
-      "title": "WSO2 发布 Agent Manager，企业寻求应对日益严重的 AI Agent 泛滥问题",
-      "url": "https://www.infoq.cn/article/4gr5Zt9GZoyIwF2f6LvR?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-24T17:25:00.000Z"
-    },
-    {
-      "id": "f758811b54cc",
-      "title": "数据、模型、算力越来越难分开，Data+AI 基础设施怎么进化？",
-      "url": "https://www.infoq.cn/article/amffXXMpr23rX3eoJDhv?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-24T16:34:30.000Z",
-      "image": "https://static001.infoq.cn/resource/image/35/8b/351a8173b8c8568a87d4362f8223d18b.jpeg"
-    }
-  ],
-  "就业": [
     {
       "id": "c76b56413d4a",
       "title": "AI人才缺口超500万！有最新报告称，AI抢人逻辑悄悄变了：架构师新发 ...",
@@ -178,18 +153,19 @@
       "source": "算法工程师·就业分析",
       "category": "就业",
       "published": "2026-07-18T11:05:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/Ows_BB25Bhnf-wlGWgFoIkmLSVd_6MJWCT8-yw6C3HS10AA_640330/0",
       "score": 65,
       "tags": []
     },
     {
-      "id": "bebbf19fcd21",
+      "id": "ded1e43d5c4e",
       "title": "前程无忧发布2027届毕业生秋招提示：AI反向背调、补招常态化成求职 ...",
-      "url": "https://news.ifeng.com/c/8wcwx6hTNvq",
+      "url": "https://news.qq.com/rain/a/20260922A06PH000",
       "summary": "随着2027届毕业生秋季校园招聘拉开帷幕，就业市场的“游戏规则”仍在持续演进。近期，国内领先的人力资源服务商前程无忧51job基于《2026校园招聘白皮书》（以下简称《白皮书》）最新调研数据及平台治理",
       "source": "Bing·秋招",
       "category": "就业",
-      "published": "2026-09-22T07:39:00.000Z",
-      "image": "https://x0.ifengimg.com/res/2026/C31AF8093EF5F7CACAECD6405375EE800B9E3846_size252_w800_h559.png",
+      "published": "2026-09-22T07:46:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/O3O5XsrIF_5tQVkt6zw9wvkHvKcUuer0cILRNds25qnVMAA_640330/0",
       "score": 60,
       "tags": []
     },
@@ -204,33 +180,106 @@
       "image": "https://cdn.v2ex.com/avatar/a9cd/f8f5/564367_large.png?m=1774343667",
       "score": 60,
       "tags": []
-    },
+    }
+  ],
+  "开发": [
     {
-      "id": "6a34072c749c",
-      "title": "[北/上/深] 顶级 vc+AI 独角兽高薪招聘 大模型/agent 算法、infra、评测",
-      "url": "https://www.v2ex.com/t/1243473#reply0",
-      "summary": "[北/上/深] 顶级 vc+AI 独角兽高薪招聘 大模型/agent 算法、infra、评测",
-      "source": "V2EX·招聘",
-      "category": "就业",
-      "published": "2026-09-20T14:07:08.000Z",
-      "image": "https://cdn.v2ex.com/gravatar/783f564892a79b5274e5aed9cc4efc39?s=73&d=retro",
+      "id": "8cf69f0bdc07",
+      "title": "Meet Feather, the startup building the &#8216;Android of robotics&#8217; for developers",
+      "url": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
+      "summary": "Meet Feather, the startup building the &#8216;Android of robotics&#8217; for developers",
+      "source": "TechCrunch",
+      "category": "开发",
+      "published": "2026-09-24T18:52:38.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Feather-cropped.jpg?resize=1200,829",
       "score": 60,
       "tags": []
     },
     {
-      "id": "9098abd45060",
-      "title": "全栈工程师平均月薪1.9万、3个后端撑起产品线：后端全栈化比全员全 ...",
-      "url": "https://www.sohu.com/a/1077175656_120959233",
-      "summary": "2026年，「全栈工程师」成为行业热词。猎聘数据显示全栈工程师平均月薪约1",
-      "source": "就业报告",
-      "category": "就业",
-      "published": "2026-09-17T05:01:00.000Z",
-      "image": "//q9.itc.cn/images01/20260917/0670b1b12756419891f69c3b3f9ac858.png",
-      "score": 60,
-      "tags": []
+      "id": "21cafe0c14de",
+      "title": "每周下载量约 16 万，仍处 Alpha 的 TanStack Charts 为什么火了？",
+      "url": "https://www.infoq.cn/article/OUcL9autU0dg1BIt6bib?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-25T10:10:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/87/a8/87da43d9af7c7a37e8d78fd0c1604ba8.jpg"
+    },
+    {
+      "id": "9fa53ec37a84",
+      "title": "当 Vibe Coding 撞上企业级现实：真实工程中的 AI 效能之路｜QCon上海",
+      "url": "https://www.infoq.cn/article/QQk3wiolU1VScH3u0P7T?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-25T10:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/61/e3/61c80a5fddec4b7yybc67a88e62245e3.jpg"
+    },
+    {
+      "id": "ad61538695f6",
+      "title": "云栖之后，10+阿里AI实战派将亮相QCon上海站",
+      "url": "https://www.infoq.cn/article/lh6Z5E9Zkr33bOeHQGky?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-24T18:38:59.000Z"
+    },
+    {
+      "id": "cee7a0e73260",
+      "title": "世界人工智能开源大赛（GOAI）总决赛暨颁奖盛典在杭州举行",
+      "url": "https://www.infoq.cn/article/hrmb2p18iKEwl24OMvcv?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-24T18:11:27.000Z",
+      "image": "https://static001.infoq.cn/resource/image/da/3e/dab7ecf8bdd6d11142dc6a222b034d3e.jpg"
     }
   ],
   "社会": [
+    {
+      "id": "e782b916cbbb",
+      "title": "教育部：每周至少半天校外实践教学将在全国推行",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-23/10702170.shtml",
+      "summary": "中新网9月23日电 9月23日，国新办就贯彻落实“十五五”规划，加快推进教育强国建设有关情况举行新闻发布会。会上，教育部基础教育司司长田祖荫介绍，将在全国推行每周至少半天校外实践教学，指导各地各校因地",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-09-23T05:44:41.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "2f23f412eb5e",
+      "title": "未来四年“双一流”高校本科招生数还将扩容7.6万人",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-23/10702163.shtml",
+      "summary": "中新网9月23日电 9月23日，国新办就贯彻落实“十五五”规划，加快推进教育强国建设有关情况举行新闻发布会。教育部发展规划司司长郭鹏在会上透露，2027年至2030年，“双一流”高校本科招生数还要扩容",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-09-23T05:37:00.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "a4e3b92efc7d",
+      "title": "教育部：建立分类评价机制 推进各类高校特色发展",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-23/10702110.shtml",
+      "summary": "中新网9月23日电 9月23日，国新办就贯彻落实“十五五”规划，加快推进教育强国建设有关情况举行新闻发布会。教育部发展规划司司长郭鹏在会上介绍，2025年，我国高等教育毛入学率达到61",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-09-23T04:03:03.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "58025317033e",
+      "title": "教育部：我国接受过高等教育的人口达2.7亿",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-23/10702097.shtml",
+      "summary": "中新网9月23日电 9月23日，国新办就贯彻落实“十五五”规划，加快推进教育强国建设有关情况举行新闻发布会。教育部新闻发言人、副部长王光彦在会上介绍，目前，我国已建成世界上规模最大且有质量的教育体系，",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-09-23T03:37:13.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 55,
+      "tags": []
+    },
     {
       "id": "a97aaade638f",
       "title": "国家发改委：推动超30个“双一流”高校新校区进入大规模建设阶段",
@@ -242,69 +291,9 @@
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 55,
       "tags": []
-    },
-    {
-      "id": "b77fe24e754e",
-      "title": "报告：北京在全球城市人才黏性指数中排名第五",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-21/10701178.shtml",
-      "summary": "中新社北京9月21日电 (记者 陈杭)2026中欧人才论坛21日在北京举办。论坛上发布的《全球城市人才黏性指数报告2026》显示，纽约、伦敦、旧金山、巴黎、北京、波士顿、芝加哥、东京、上海、新加坡位居",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-09-21T15:09:23.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "8e14d27a5236",
-      "title": "从实验室到生产线 山东高校以应用型科研对接产业升级",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-22/10701721.shtml",
-      "summary": "中新网济南9月22日电 (记者 赵晓)山东交通学院交通土建工程学院的实验室内，一台机器人正附着在碗口粗细的钢管上移动，操作员通过显示屏可以查看钢管表面状态。这是由学院副教授崔凤坤领衔的“缆索体系桥梁服",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-09-22T13:01:04.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "5d9d699db0a9",
-      "title": "福耀科大·诺瓦核聚变创新研究院在福州揭牌成立",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-22/10701711.shtml",
-      "summary": "中新网福州9月22日电 (叶秋云)22日，福耀科大·诺瓦核聚变创新研究院及福耀科技大学·诺瓦核聚变创新实验室在福建福耀科技大学正式揭牌成立。福建福耀科技大学常务副校长张福利主持仪式",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-09-22T12:31:08.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "6d572c163744",
-      "title": "【理响中国】社科青年开讲啦@“典”亮文明⑦霓裳汇流处：丝绸之路与文明对话",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-22/10701535.shtml",
-      "summary": "【理响中国】社科青年开讲啦@“典”亮文明⑦霓裳汇流处：丝绸之路与文明对话",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-09-22T08:23:40.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
     }
   ],
   "政策": [
-    {
-      "id": "7fe42e3a7ebf",
-      "title": "@大学生 湖南新政策！最高可贷50万元，50%财政贴息",
-      "url": "https://i.ifeng.com/c/8wWPjS4YjCn",
-      "summary": "近日，湖南省出台《关于进一步优化创业担保贷款政策 全力支持大学生等重点群体创业的通知》，扩大创业担保贷款覆盖范围、提高贷款额度、降低融资成本，拿出实打实举措，强化在湘创业大学生金融支撑，助力青年创新创",
-      "source": "Bing·大学生创业扶持政策",
-      "category": "政策",
-      "published": "2026-09-18T01:05:00.000Z",
-      "image": "",
-      "score": 55,
-      "tags": []
-    },
     {
       "id": "3fc50ec8f766",
       "title": "最高可贷50万元，湖南优化政策为大学生创业送上金融“活水”",
@@ -318,14 +307,14 @@
       "tags": []
     },
     {
-      "id": "57d54045ae78",
-      "title": "【兴政公考】2026年湾沚区机关事业单位就业见习人员招募9人公告",
-      "url": "https://www.sohu.com/a/1077229885_120100009",
-      "summary": "安徽兴政公考根据 芜湖市湾沚区人民政府 发布，转载 2026年湾沚区机关事业单位就业见习人员招募公告 ，详情请关注www。cn，政策咨询及备考指导请加13695518079（栋老师微信）了解",
+      "id": "7fe42e3a7ebf",
+      "title": "@大学生 湖南新政策！最高可贷50万元，50%财政贴息",
+      "url": "https://i.ifeng.com/c/8wWPjS4YjCn",
+      "summary": "近日，湖南省出台《关于进一步优化创业担保贷款政策 全力支持大学生等重点群体创业的通知》，扩大创业担保贷款覆盖范围、提高贷款额度、降低融资成本，拿出实打实举措，强化在湘创业大学生金融支撑，助力青年创新创",
       "source": "就业创业政策",
       "category": "政策",
-      "published": "2026-09-17T04:59:00.000Z",
-      "image": "//q3.itc.cn/images01/20260917/d18419c9c2824bef9f078168c427bfd0.png",
+      "published": "2026-09-18T01:05:00.000Z",
+      "image": "",
       "score": 55,
       "tags": []
     },
@@ -352,52 +341,64 @@
       "image": "//q1.itc.cn/images01/20260922/198538ce1eff4fb5aa29dd8f9aa32c00.jpeg",
       "score": 50,
       "tags": []
+    },
+    {
+      "id": "355266560722",
+      "title": "【鸿雁归巢】呼伦贝尔籍在校大学生家乡行——陈巴尔虎旗籍在校大 ...",
+      "url": "https://www.sohu.com/a/1079843212_121106854",
+      "summary": "为全面落实党中央、国务院关于做好高校毕业生等青年就业创业服务工作的决策部署和市政府工作要求，呼伦贝尔市就业服务中心在全市范围内组织开展“呼伦贝尔籍在校大学生家乡行”实践活动，旨在引导在校生毕业后返乡就",
+      "source": "Bing·大学生创业扶持政策",
+      "category": "政策",
+      "published": "2026-09-23T04:01:00.000Z",
+      "image": "https://q0.itc.cn/q_70/images03/20260923/cf9706858b1142d6949cd3d132b1d95d.png",
+      "score": 50,
+      "tags": []
     }
   ],
   "财经": [
     {
-      "id": "22410d7ef08f",
-      "title": "宁夏银川发布消费“三新”试点建设成果 数字化消费地图正式上线",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10703460.shtml",
+      "id": "444753425d62",
+      "title": "打造康养产业集聚区 海南夯实政策制度底座",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-25/10703649.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-24T15:12:03.000Z",
+      "published": "2026-09-25T05:43:44.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "461198099504",
-      "title": "南京出台50条政策举措 加力推动经济向新向优向好发展",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10703462.shtml",
+      "id": "e82a7f8b457b",
+      "title": "沈阳加大全链条综合整治力度守护好节日“菜篮子”",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-25/10703637.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-24T15:10:41.000Z",
+      "published": "2026-09-25T05:37:23.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "f96ce9f630a5",
-      "title": "海南离岛免税品电子标签新政落地两年 通关免税品超150万件",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10703456.shtml",
+      "id": "5f707a6f4668",
+      "title": "有限空间孕育无限可能：浙江山区县的“产业突围路”",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-25/10703674.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-24T15:05:33.000Z",
+      "published": "2026-09-25T05:28:45.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "35c3f3258c0d",
-      "title": "2026岳麓大会开幕 湖南“人工智能+”赋能产业向新而行",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10703455.shtml",
+      "id": "db431b6f08cb",
+      "title": "第六届燃气行业职业技能竞赛在沈阳举办",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-25/10703617.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-24T15:02:17.000Z",
+      "published": "2026-09-25T04:18:24.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "5b1628d94108",
-      "title": "锚定“长三角陆海开放智造强市” 浙江台州发挥“三大优势”",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-24/10703486.shtml",
+      "id": "ebae11ba432d",
+      "title": "中秋假期首日国铁北京局预计发送旅客180万人次",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-25/10703599.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-24T14:58:04.000Z",
+      "published": "2026-09-25T03:39:06.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
