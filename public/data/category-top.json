@@ -1,4 +1,66 @@
 {
+  "科技": [
+    {
+      "id": "974092efe5bb",
+      "title": "I created an interactive digital avatar of myself — and you can talk to it",
+      "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+      "summary": "I created an interactive digital avatar of myself — and you can talk to it",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-26T14:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Digital-dom.png?resize=1200,667",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "e0c16d6f1c1d",
+      "title": "At Meta Connect, the company&#8217;s smart glasses were everywhere",
+      "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+      "summary": "At Meta Connect, the company&#8217;s smart glasses were everywhere",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-26T01:08:57.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/P1110274-rotated.jpg?resize=901,1200",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "8de38d355790",
+      "title": "Meta opens early access program for new Muse features",
+      "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+      "summary": "Meta opens early access program for new Muse features",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-25T20:34:53.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "41845a3718a2",
+      "title": "The hottest new hangout for middle schoolers is NPR&#8217;s comment section?",
+      "url": "https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/",
+      "summary": "The hottest new hangout for middle schoolers is NPR&#8217;s comment section",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-25T20:33:58.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Microphone.jpg?resize=1200,800",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "49ebd97751d4",
+      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+      "url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+      "summary": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-25T18:48:33.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Wahlberg-Lee-16x9-Dark.png?resize=1200,675",
+      "score": 60,
+      "tags": []
+    }
+  ],
   "AI": [
     {
       "id": "4dc5a9b388b9",
@@ -61,69 +123,19 @@
       "tags": []
     }
   ],
-  "科技": [
-    {
-      "id": "e0c16d6f1c1d",
-      "title": "At Meta Connect, the company&#8217;s smart glasses were everywhere",
-      "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
-      "summary": "At Meta Connect, the company&#8217;s smart glasses were everywhere",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-26T01:08:57.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/P1110274-rotated.jpg?resize=901,1200",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "8de38d355790",
-      "title": "Meta opens early access program for new Muse features",
-      "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
-      "summary": "Meta opens early access program for new Muse features",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-25T20:34:53.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "41845a3718a2",
-      "title": "The hottest new hangout for middle schoolers is NPR&#8217;s comment section?",
-      "url": "https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/",
-      "summary": "The hottest new hangout for middle schoolers is NPR&#8217;s comment section",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-25T20:33:58.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Microphone.jpg?resize=1200,800",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "49ebd97751d4",
-      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-      "url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-      "summary": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-25T18:48:33.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Wahlberg-Lee-16x9-Dark.png?resize=1200,675",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "6a4a022337e1",
-      "title": "The Aeropod automates soil aeration without robotics — see it at TechCrunch Disrupt",
-      "url": "https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/",
-      "summary": "The Aeropod automates soil aeration without robotics — see it at TechCrunch Disrupt",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-25T17:30:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/aeropdsnew.jpg?resize=1200,800",
-      "score": 60,
-      "tags": []
-    }
-  ],
   "就业": [
+    {
+      "id": "5c442ae016a2",
+      "title": "前程无忧：AI岗位平均月薪2.5万元 算法岗招聘近八成 多数要求5-10年 ...",
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-07-14/doc-inihuhka8550670.shtml",
+      "summary": "格隆汇7月14日｜前程无忧51job基于平台近一年招聘与求职数据发布《2026人工智能人才洞察》。数据显示，民营企业贡献近六成岗位，头部企业人才需求量居于前列，超千人规模的大型企业职位发布量增速位居第",
+      "source": "算法工程师·就业分析",
+      "category": "就业",
+      "published": "2026-07-14T09:55:00.000Z",
+      "image": "https://n.sinaimg.cn/finance/cece9e13/20240627/655959900_20240627.png",
+      "score": 65,
+      "tags": []
+    },
     {
       "id": "c76b56413d4a",
       "title": "AI人才缺口超500万！有最新报告称，AI抢人逻辑悄悄变了：架构师新发 ...",
@@ -132,6 +144,7 @@
       "source": "算法工程师·就业分析",
       "category": "就业",
       "published": "2026-07-18T11:05:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/Ows_BB25Bhnf-wlGWgFoIkmLSVd_6MJWCT8-yw6C3HS10AA_640330/0",
       "score": 65,
       "tags": []
     },
@@ -168,18 +181,6 @@
       "category": "就业",
       "published": "2026-09-21T06:41:40.000Z",
       "image": "https://cdn.v2ex.com/avatar/a9cd/f8f5/564367_large.png?m=1774343667",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "6a34072c749c",
-      "title": "[北/上/深] 顶级 vc+AI 独角兽高薪招聘 大模型/agent 算法、infra、评测",
-      "url": "https://www.v2ex.com/t/1243473#reply0",
-      "summary": "[北/上/深] 顶级 vc+AI 独角兽高薪招聘 大模型/agent 算法、infra、评测",
-      "source": "V2EX·招聘",
-      "category": "就业",
-      "published": "2026-09-20T14:07:08.000Z",
-      "image": "https://cdn.v2ex.com/gravatar/783f564892a79b5274e5aed9cc4efc39?s=73&d=retro",
       "score": 60,
       "tags": []
     }
@@ -284,18 +285,6 @@
       "tags": []
     },
     {
-      "id": "57d54045ae78",
-      "title": "【兴政公考】2026年湾沚区机关事业单位就业见习人员招募9人公告",
-      "url": "https://www.sohu.com/a/1077229885_120100009",
-      "summary": "安徽兴政公考根据 芜湖市湾沚区人民政府 发布，转载 2026年湾沚区机关事业单位就业见习人员招募公告 ，详情请关注www。cn，政策咨询及备考指导请加13695518079（栋老师微信）了解",
-      "source": "就业创业政策",
-      "category": "政策",
-      "published": "2026-09-17T04:59:00.000Z",
-      "image": "//q3.itc.cn/images01/20260917/d18419c9c2824bef9f078168c427bfd0.png",
-      "score": 55,
-      "tags": []
-    },
-    {
       "id": "da8f3271f03d",
       "title": "第二期“大学生就业指导教练”培训班在哈尔滨开班",
       "url": "https://www.sohu.com/a/1079457786_120705293",
@@ -306,9 +295,69 @@
       "image": "//q1.itc.cn/images01/20260922/198538ce1eff4fb5aa29dd8f9aa32c00.jpeg",
       "score": 50,
       "tags": []
+    },
+    {
+      "id": "13fae6cd3886",
+      "title": "山东省大学生就业指导“就业第一课”巡回宣讲启动仪式在齐鲁师范 ...",
+      "url": "https://edu.dzwww.com/rcjy/qzgl/202609/t20260923_18148684.htm",
+      "summary": "本次活动由山东省人力资源和社会保障厅、山东省教育厅主办，山东省公共就业和人才服务中心、齐鲁师范学院承办，宣讲兼具政策高度与实践温度，政策解读、榜样分享、实务指导融为一体，为师生送上一堂干货满满的就业育",
+      "source": "Bing·大学生就业政策",
+      "category": "政策",
+      "published": "2026-09-22T04:40:00.000Z",
+      "image": "https://www.dzwww.com/tpl/v2022/erjiye/images/logo.png",
+      "score": 50,
+      "tags": []
     }
   ],
   "开发": [
+    {
+      "id": "52194c9c3cc2",
+      "title": "GPT-6猛砍价，Opus 5.5忙“变好用”：模型价格战，已经不能只看API定价",
+      "url": "https://www.infoq.cn/article/VSIsPFiO2hrjBi30wDfE?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/VSIsPFiO2hrjBi30wDfE",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-24T13:44:32.000Z",
+      "image": "https://static001.infoq.cn/resource/image/51/4c/51acbf33ffec8058b781c64336e12c4c.jpg",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "abcb9f970ed2",
+      "title": "OpenAI 推出分级处理框架及案例研究，用于报告模型失调问题",
+      "url": "https://www.infoq.cn/article/sFUUaaIQZH3ecXb14WVs?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/sFUUaaIQZH3ecXb14WVs",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-24T11:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/ef/f8/efdcd3be9669561ba7e13ba6aa110cf8.jpg",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "2629e6ebcc9b",
+      "title": "60 万行巨石应用 AI 重构的可验证交付工程｜QCon上海",
+      "url": "https://www.infoq.cn/article/06y8rRvgxgyBxOpr7L5r?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/06y8rRvgxgyBxOpr7L5r",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-24T10:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/79/e6/79ea0b4cd9a549ef3e47885bff76a9e6.jpg",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "6622c2d8b792",
+      "title": "显存不够、内存太贵，KV Cache越堆越大：华为给出自己的新解法",
+      "url": "https://www.infoq.cn/article/LtHFz94fa1W1DQjNvHVb?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/LtHFz94fa1W1DQjNvHVb",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-24T13:40:34.000Z",
+      "image": "https://static001.infoq.cn/resource/image/0f/78/0fb8f8f43c3505bc3db0f2ef40149878.jpg",
+      "score": 50,
+      "tags": []
+    },
     {
       "id": "a2def37facac",
       "title": "从“单目感知”到“多视角立体对齐”：PrismAlign 重新定义文档结构化提取的精度上限",
@@ -320,91 +369,52 @@
       "image": "https://static001.infoq.cn/resource/image/8f/92/8f586b5b2d2bb4b46090ffceea6b4d92.jpg",
       "score": 50,
       "tags": []
-    },
-    {
-      "id": "a5ab6fe700ac",
-      "title": "利用 AI 搭建内部开发者平台",
-      "url": "https://www.infoq.cn/article/su9aJV7kiibMfxwzLpOJ?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/su9aJV7kiibMfxwzLpOJ",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-24T09:05:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/ce/4d/ced0c530010d5ed591yy089aa7f6194d.jpg",
-      "score": 45,
-      "tags": []
-    },
-    {
-      "id": "8d5f4a61c8d5",
-      "title": "阿里巴巴开源 AI 辅助代码评审工具 OpenCodeReview",
-      "url": "https://www.infoq.cn/article/jJIXCaLHUvPgswTOZ1uQ?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-26T17:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/1a/c7/1a7672fe29e3a4811534fbc4b31fc7c7.jpg"
-    },
-    {
-      "id": "0085a00b8c8e",
-      "title": "AI 时代，技术人靠什么赢？｜QCon上海",
-      "url": "https://www.infoq.cn/article/C1Vuzh9fUmUL9i5wmDZf?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-26T10:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/0d/87/0df6fbfe6359a22b6855efc68b4f0487.jpg"
-    },
-    {
-      "id": "d218f654286e",
-      "title": "DoorDash 借助多 Agent LLM 系统清理 6 万个 Feature Flag",
-      "url": "https://www.infoq.cn/article/gk4rWsQg09PWTFTZlJE3?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-26T09:20:21.000Z",
-      "image": "https://static001.infoq.cn/resource/image/60/7c/603322ced95ce18e4e8b74e5e89f657c.jpg"
     }
   ],
   "财经": [
     {
-      "id": "c7efa85891f0",
-      "title": "广东惠州在建最高桥塔全桥合龙",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-26/10704142.shtml",
+      "id": "16a643a27154",
+      "title": "各地商圈新场景新业态加快“上新” 特色服务让消费“品味”加速升级",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-26/10704275.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-26T08:18:20.000Z",
+      "published": "2026-09-26T13:36:34.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "c8292f5b1ad3",
-      "title": "（经济观察）民企推动中国消费市场新活力",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-26/10704148.shtml",
+      "id": "05a04113dabb",
+      "title": "“金贸全球”助浙江五金产业出海 达成意向订单超1亿元",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-26/10704268.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-26T08:17:14.000Z",
+      "published": "2026-09-26T13:20:03.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "0a5e36bc0c6a",
-      "title": "从“卖原料”到“卖品牌” 海南保亭建设热带特色高效农业示范区",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-26/10704112.shtml",
+      "id": "aa0cc722e793",
+      "title": "非洲安哥拉凯凯水电站欢度“跨国中秋节”",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-26/10704200.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-26T06:51:50.000Z",
+      "published": "2026-09-26T11:00:55.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "04ec44c3def9",
-      "title": "逛展数贸会：硬科技圈粉全球 耐心资本长期陪跑",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-26/10704102.shtml",
+      "id": "615b0ecc485b",
+      "title": "万亿度用电账单里藏着经济新动能",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-26/10704201.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-26T06:35:34.000Z",
+      "published": "2026-09-26T10:55:32.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "61f5fb79d786",
-      "title": "数贸会“朋友圈”扩容  海外客商盼加速拥抱中国市场",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-26/10704100.shtml",
+      "id": "79b5ad3e7495",
+      "title": "优化营商环境 海南保亭促进民营经济发展",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-26/10704183.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-26T06:32:57.000Z",
+      "published": "2026-09-26T10:50:47.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
