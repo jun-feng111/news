@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-26T14:11:54.301Z",
-  "count": 26,
+  "generatedAt": "2026-09-26T18:24:16.935Z",
+  "count": 27,
   "positions": [
     "产品经理",
     "全栈工程师",
@@ -231,6 +231,26 @@
       ]
     },
     {
+      "id": "fbb028daafa7",
+      "title": "【嵌入式软件】行业市场发展现状：告别“功能实现”，迈向“智能 ...",
+      "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-09-11/doc-inirmmnf2143582.shtml",
+      "source": "嵌入式开发·就业分析",
+      "brand": "",
+      "published": "2026-09-11T03:22:00.000Z",
+      "summary": "内容概况：中国嵌入式软件行业正处于规模扩张与价值升级的关键窗口期，2025年，中国嵌入式软件行业市场规模约为18295亿元 ...",
+      "position": "嵌入式开发",
+      "positions": [
+        "嵌入式开发"
+      ],
+      "dimensions": [
+        "就业前景"
+      ],
+      "tags": [
+        "嵌入式开发",
+        "就业前景"
+      ]
+    },
+    {
       "id": "062feade2a01",
       "title": "中级注册安全工程师好就业吗？岗位、行业、待遇详细盘点",
       "url": "https://www.eol.cn/kaoshi/jg/zjzcaqgcs/202608/t20260825_2767674.shtml",
@@ -395,26 +415,6 @@
       ]
     },
     {
-      "id": "2bfed594740c",
-      "title": "agent Ma--你的全栈开发工程师，即将亮相WAIC2026上海世博主馆",
-      "url": "https://finance.ifeng.com/c/8uXkWt0kBpX",
-      "source": "全栈工程师·就业分析",
-      "brand": "",
-      "published": "2026-07-06T11:07:00.000Z",
-      "summary": "2026 世界人工智能大会(WAIC2026)开幕在即, agent Ma--“全栈开发工程师” AI开发平台(AI软件工厂) 将于上海世博主馆正式亮相。不同于市场上主流的代码辅助工具,agent Ma 实现从自然语言需求到线上交付的端到端闭环执行,打通需求理解、架构设计、代码编写、编译部署 ...",
-      "position": "全栈工程师",
-      "positions": [
-        "全栈工程师"
-      ],
-      "dimensions": [
-        "就业前景"
-      ],
-      "tags": [
-        "全栈工程师",
-        "就业前景"
-      ]
-    },
-    {
       "id": "fff53dbc1de7",
       "title": "报告：人工智能、数据工程师以三成招聘增速领跑高增长职业",
       "url": "https://news.qq.com/rain/a/20260617A05FN300",
@@ -472,6 +472,26 @@
       "tags": [
         "前端开发",
         "技能要求"
+      ]
+    },
+    {
+      "id": "a22ac643fa8d",
+      "title": "嵌入式的就业市场跌爆了。。",
+      "url": "https://www.eet-china.com/mp/a497434.html",
+      "source": "嵌入式开发·就业分析",
+      "brand": "",
+      "published": "2026-05-25T02:01:00.000Z",
+      "summary": "这一切只说明一件事：大模型竞争，已从技术储备进入“应用落地”阶段了！如果你还只停留在“调API、写Prompt”，很快会被 ...",
+      "position": "嵌入式开发",
+      "positions": [
+        "嵌入式开发"
+      ],
+      "dimensions": [
+        "就业前景"
+      ],
+      "tags": [
+        "嵌入式开发",
+        "就业前景"
       ]
     },
     {
