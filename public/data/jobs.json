@@ -1,14 +1,35 @@
 {
-  "updated": "2026-09-26T03:49:46.621Z",
-  "count": 123,
+  "updated": "2026-09-26T09:12:18.493Z",
+  "count": 124,
   "sources": {
-    "V2EX": 5,
+    "V2EX": 6,
     "RemoteOK": 99,
     "Remotive": 19,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1244881",
+      "title": "香港公司，招聘链上数据工程师（Go）、业务后端工程师（Go）、内部系统工程师（Go）、全栈工程师（React + Go） 非 web3 经验优先，可带新人",
+      "company": "LaunchPro",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "go",
+        "react",
+        "mysql"
+      ],
+      "category": "后端",
+      "postedDate": "2026-09-26",
+      "url": "https://www.v2ex.com/t/1244881",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1244740",
       "title": "6 年+前端/全栈开发，求深圳机会或内推，小程序、Web、Node.js 方向",
