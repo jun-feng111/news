@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T12:49:51.941Z",
+  "updated": "2026-09-27T17:34:17.782Z",
   "count": 123,
   "sources": {
     "V2EX": 7,
@@ -161,6 +161,36 @@
       "url": "https://www.v2ex.com/t/1244352",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "remoteok-1137434",
+      "title": "Director Payment Integrity",
+      "company": "SIHO Insurance Services",
+      "location": "SIHO - Columbus, IN",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "exec",
+        "sys admin",
+        "education",
+        "supervisor",
+        "customer support",
+        "quality assurance",
+        "c",
+        "microsoft",
+        "ops",
+        "excel",
+        "legal",
+        "medical"
+      ],
+      "category": "exec",
+      "postedDate": "2026-09-26",
+      "url": "https://remoteOK.com/remote-jobs/remote-director-payment-integrity-siho-insurance-services-1137434",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137431",
@@ -3215,36 +3245,6 @@
       "category": "dev",
       "postedDate": "2026-07-31",
       "url": "https://remoteOK.com/remote-jobs/remote-voice-over-artist-bored-panda-1135765",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1135997",
-      "title": "BMS Service Technician",
-      "company": "Johnson Controls",
-      "location": "Warana,",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "design",
-        "technical",
-        "customer support",
-        "dev",
-        "microsoft",
-        "senior",
-        "ops",
-        "engineer",
-        "digital nomad",
-        "sys admin",
-        "education",
-        "testing"
-      ],
-      "category": "design",
-      "postedDate": "2026-07-31",
-      "url": "https://remoteOK.com/remote-jobs/remote-bms-service-technician-johnson-controls-1135997",
       "source": "RemoteOK",
       "region": "foreign"
     }
