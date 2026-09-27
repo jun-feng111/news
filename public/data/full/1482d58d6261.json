@@ -1,0 +1,7 @@
+{
+  "id": "1482d58d6261",
+  "title": "Java中不容拒绝的一种优雅的写法 - 编程一生",
+  "url": "https://www.cnblogs.com/xiexj/p/23137129",
+  "contentZh": "",
+  "contentFull": "\n期末考试成绩公布了，一学生气愤地找老师评理。学生：“老师，我认为这门课我不应该得零分。”老师：“是啊，我也这么认为，可学校规定，最低只能打零分。”\n做CodeReview的时候，评价一段代码的好坏通常是仁者见仁。还好有一种无法拒绝的理由叫做【规定】。\n下面讲一种通过规定以理服人的例子：\n观点\n不要用xx != null && xx.length()>0 来判空，可以使用apache的commons包。例如使用：\nStringUtils.isNotEmpty\nCollectionUtils.isEmpty\n不容拒绝理由\n使用xx != null && xx.length()>0 来判空，公司里的静态代码检查会检查让你覆盖这两个条件，你需要写两个单测来完成任务。而使用apache的commons只需要写一个单测。你的条件覆盖率达标了吗？\n深层原因\n【编程一生】的文章怎么可能只给一个不容拒绝的理由这么浅。建议这样使用毕竟有背后深层的优势，拿StringUtils.isNotEmpty举例看看apache的代码优雅在哪里。\nStringUtils类的源码：\n}\npublic static boolean isEmpty(String str) {\n    return str == null || str.length() == 0;\n}\n\n咦，好像和自己实现的差不多嘛！str == null || str.length() == 0 取个反，还多个一个反运算。效率一点也不高嘛！\n请注意这两个方法是静态的！静态方法在类加载时候初始化，常驻在内存中只存一份。而自己写的判断语句，只能这个方法使用，其他方法同样的语句要复制一份。静态方法更加方便快捷。\n当然，apache的commons最根本的优势是语义更加清晰，更易读。\n往期推荐\nJava&Spring过时的经典语录\nJava线程池总结\nJava的强引用、软引用、弱引用、虚引用\nhystrix线程池隔离的原理与验证\n\n\n"
+}
