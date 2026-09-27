@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T00:19:24.827Z",
+  "updated": "2026-09-27T06:19:43.969Z",
   "count": 123,
   "sources": {
     "V2EX": 6,
@@ -1581,34 +1581,6 @@
       "category": "golang",
       "postedDate": "2026-08-30",
       "url": "https://remoteOK.com/remote-jobs/remote-ai-engineer-data-apis-benzinga-1137224",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137169",
-      "title": "Programmatic Campaign Operations Specialist Trader",
-      "company": "VirtuHire",
-      "location": "Remote",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "amazon",
-        "technical",
-        "customer support",
-        "quality assurance",
-        "video",
-        "exec",
-        "senior",
-        "ops",
-        "excel",
-        "full time"
-      ],
-      "category": "amazon",
-      "postedDate": "2026-08-27",
-      "url": "https://remoteOK.com/remote-jobs/remote-programmatic-campaign-operations-specialist-trader-virtuhire-1137169",
       "source": "RemoteOK",
       "region": "foreign"
     },
@@ -3256,6 +3228,36 @@
       "category": "dev",
       "postedDate": "2026-07-31",
       "url": "https://remoteOK.com/remote-jobs/remote-voice-over-artist-bored-panda-1135765",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1135997",
+      "title": "BMS Service Technician",
+      "company": "Johnson Controls",
+      "location": "Warana,",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "design",
+        "technical",
+        "customer support",
+        "dev",
+        "microsoft",
+        "senior",
+        "ops",
+        "engineer",
+        "digital nomad",
+        "sys admin",
+        "education",
+        "testing"
+      ],
+      "category": "design",
+      "postedDate": "2026-07-31",
+      "url": "https://remoteOK.com/remote-jobs/remote-bms-service-technician-johnson-controls-1135997",
       "source": "RemoteOK",
       "region": "foreign"
     }
