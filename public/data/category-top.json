@@ -1,79 +1,126 @@
 {
+  "AI": [
+    {
+      "id": "2d794519f8a7",
+      "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+      "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
+      "summary": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-28T16:52:38.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=1024",
+      "score": 85,
+      "tags": []
+    },
+    {
+      "id": "4535a6c6fda1",
+      "title": "Physical AI chip developer SiMa AI hits $1.45B valuation",
+      "url": "https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/",
+      "summary": "Physical AI chip developer SiMa AI hits $1。45B valuation",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-28T15:29:21.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1370479417.jpg?resize=1200,806",
+      "score": 80,
+      "tags": []
+    },
+    {
+      "id": "c3eb429f2826",
+      "title": "MAVI bets on the AI boom creating demand for a new kind of accountant",
+      "url": "https://techcrunch.com/2026/09/28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant/",
+      "summary": "MAVI bets on the AI boom creating demand for a new kind of accountant",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-28T15:26:46.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Mavi.jpg?resize=1200,800",
+      "score": 80,
+      "tags": []
+    },
+    {
+      "id": "fc22beaf1f7b",
+      "title": "Google is killing off Gemini&#8217;s Gems in favor of &#8216;skills&#8217;",
+      "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+      "summary": "Google is killing off Gemini&#8217;s Gems in favor of &#8216;skills&#8217;",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-28T17:29:50.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "f53aca4c59c8",
+      "title": "OpenAI still doesn&#8217;t seem to have a handle on all of its rogue AI activity",
+      "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+      "summary": "OpenAI still doesn&#8217;t seem to have a handle on all of its rogue AI activity",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-28T17:09:02.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
+      "score": 70,
+      "tags": []
+    }
+  ],
   "科技": [
     {
-      "id": "920676792664",
-      "title": "Anthropic’s CEO is about to have dinner with President Trump",
-      "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-      "summary": "Anthropic’s CEO is about to have dinner with President Trump",
+      "id": "7fa6fe787251",
+      "title": "The iPhone Duo may already have its first killer app: a virtual Walkman",
+      "url": "https://techcrunch.com/2026/09/28/the-iphone-duo-may-already-have-its-first-killer-app-a-virtual-walkman/",
+      "summary": "The iPhone Duo may already have its first killer app: a virtual Walkman",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-09-27T20:34:28.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261854833.jpg?resize=1200,800",
+      "published": "2026-09-28T16:47:49.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/duo-man2.jpg?resize=1200,768",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "35a5abb5bb7a",
+      "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
+      "url": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
+      "summary": "After a deepfake voice fooled her grandfather, this founder sprang into action",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-28T15:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-call.png?resize=1200,800",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "342eef48a635",
+      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+      "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+      "summary": "Anthropic releases Sonnet 5。5, which it calls a significantly cheaper, faster work partner",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-28T18:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=1024",
       "score": 70,
       "tags": []
     },
     {
-      "id": "62faa8b88a01",
-      "title": "Anthropic&#8217;s Dario Amodei gets the SNL treatment",
-      "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-      "summary": "Anthropic&#8217;s Dario Amodei gets the SNL treatment",
+      "id": "d1ddcdbcf38e",
+      "title": "Commonwealth Fusion Systems’ Brandon Sorbom and Helion’s David Kirtley on bringing fusion to the grid at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/28/commonwealth-fusion-systems-brandon-sorbom-and-helions-david-kirtley-on-bringing-fusion-to-the-grid-at-techcrunch-disrupt-2026/",
+      "summary": "Commonwealth Fusion Systems’ Brandon Sorbom and Helion’s David Kirtley on bringing fusion to the gri",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-09-27T16:30:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/saturday-night-live.jpg?resize=1200,603",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "94a11600420c",
-      "title": "TechCrunch Mobility: AV companies pick their lanes",
-      "url": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/",
-      "summary": "TechCrunch Mobility: AV companies pick their lanes",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-27T16:02:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/wayve-getty.jpg?resize=1200,801",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "4406bcba8c88",
-      "title": "TikTok agrees to pay at least $100M in Alabama settlement",
-      "url": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/",
-      "summary": "TikTok agrees to pay at least $100M in Alabama settlement",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-26T20:24:45.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/tiktok-icon-badged-GettyImages-2246518404.jpg?resize=1200,795",
+      "published": "2026-09-28T15:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Sorbom-Kirtley-16x9-Dark.png?resize=1200,675",
       "score": 65,
       "tags": []
     },
     {
-      "id": "73aba0ce5fee",
-      "title": "Truecaller takes its scam intelligence to the open web as it looks beyond caller ID",
-      "url": "https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/",
-      "summary": "Truecaller takes its scam intelligence to the open web as it looks beyond caller ID",
+      "id": "a3cf01a0d312",
+      "title": "FBI reportedly declares &#8216;cyber security incident&#8217; after hackers steal agents&#8217; personal data",
+      "url": "https://techcrunch.com/2026/09/28/fbi-reportedly-declares-cyber-security-incident-after-hackers-steal-agents-personal-data/",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-09-28T04:30:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/truecaller-scam-checker-image-feature.jpg?resize=1200,800",
-      "score": 60,
-      "tags": []
+      "published": "2026-09-28T14:50:30.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/fbi-edgar-hoover-building-2288940613.jpg?resize=1200,800"
     }
   ],
   "开发": [
-    {
-      "id": "ee2957dde3ef",
-      "title": "Can Muse overcome Meta’s trust issues?",
-      "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
-      "summary": "Can Muse overcome Meta’s trust issues",
-      "source": "TechCrunch",
-      "category": "开发",
-      "published": "2026-09-27T19:57:30.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2296215726.jpg?resize=1200,799",
-      "score": 70,
-      "tags": []
-    },
     {
       "id": "cee7a0e73260",
       "title": "世界人工智能开源大赛（GOAI）总决赛暨颁奖盛典在杭州举行",
@@ -96,6 +143,18 @@
       "published": "2026-09-24T17:25:00.000Z",
       "image": "https://static001.infoq.cn/resource/image/ec/9c/ec9f7ce11123d4f052ef53b38f88409c.jpg",
       "score": 65,
+      "tags": []
+    },
+    {
+      "id": "8d5f4a61c8d5",
+      "title": "阿里巴巴开源 AI 辅助代码评审工具 OpenCodeReview",
+      "url": "https://www.infoq.cn/article/jJIXCaLHUvPgswTOZ1uQ?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/jJIXCaLHUvPgswTOZ1uQ",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-26T17:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/1a/c7/1a7672fe29e3a4811534fbc4b31fc7c7.jpg",
+      "score": 60,
       "tags": []
     },
     {
@@ -123,56 +182,7 @@
       "tags": []
     }
   ],
-  "AI": [
-    {
-      "id": "db474621d18a",
-      "title": "Insurers claim AI is already increasing healthcare costs",
-      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-      "summary": "Insurers claim AI is already increasing healthcare costs",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-09-26T21:02:06.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1214954967.jpg?resize=1200,612",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "7fbf00bb0a9a",
-      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-      "summary": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-09-27T01:30:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1235830811-1.jpg?resize=1200,800",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "e4d19eb73cb3",
-      "title": "PNOE&#8217;s new face mask wants to make lab-grade breath testing a self-serve affair",
-      "url": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/",
-      "summary": "PNOE&#8217;s new face mask wants to make lab-grade breath testing a self-serve affair",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-09-27T01:40:30.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/PNOE-2.0.png?resize=1200,675",
-      "score": 55,
-      "tags": []
-    }
-  ],
   "就业": [
-    {
-      "id": "def7481c13df",
-      "title": "现在哪些技术岗位好就业、缺口大，入行门槛不算太高？",
-      "url": "https://www.sohu.com/a/1080723066_122565426",
-      "summary": "找工作这件事，最怕的是“一窝蜂”。大家都说人工智能好，但纯算法岗的门槛已经卷到了博士起步；都说程序员高薪，但初级程序员的需求正在肉眼可见地收缩",
-      "source": "算法工程师·就业分析",
-      "category": "就业",
-      "published": "2026-09-25T02:48:00.000Z",
-      "score": 65,
-      "tags": []
-    },
     {
       "id": "5c442ae016a2",
       "title": "前程无忧：AI岗位平均月薪2.5万元 算法岗招聘近八成 多数要求5-10年 ...",
@@ -181,6 +191,7 @@
       "source": "算法工程师·就业分析",
       "category": "就业",
       "published": "2026-07-14T09:55:00.000Z",
+      "image": "https://n.sinaimg.cn/finance/cece9e13/20240627/655959900_20240627.png",
       "score": 65,
       "tags": []
     },
@@ -192,6 +203,7 @@
       "source": "算法工程师·就业分析",
       "category": "就业",
       "published": "2026-07-18T11:05:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/Ows_BB25Bhnf-wlGWgFoIkmLSVd_6MJWCT8-yw6C3HS10AA_640330/0",
       "score": 65,
       "tags": []
     },
@@ -218,83 +230,21 @@
       "image": "https://cdn.v2ex.com/gravatar/f75916750503da7d55885d7f7d198931?s=73&d=retro",
       "score": 60,
       "tags": []
-    }
-  ],
-  "社会": [
+    },
     {
-      "id": "f349bd6a5035",
-      "title": "湖南祁阳AI进课堂“数智校园”赋能乡村教育",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-23/10702500.shtml",
-      "summary": "中新网永州9月23日电(何艳飞 伍克飞 李新春)课堂上，AI助教实时抓取学生答题数据，快速生成学情分析；课后，智能系统为不同层次学生推送个性化习题；备课室里，教师借助人工智能工具整理课件、打磨教学设计",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-09-23T12:44:15.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "id": "9098abd45060",
+      "title": "全栈工程师平均月薪1.9万、3个后端撑起产品线：后端全栈化比全员全 ...",
+      "url": "https://www.sohu.com/a/1077175656_120959233",
+      "summary": "2026年，「全栈工程师」成为行业热词。猎聘数据显示全栈工程师平均月薪约1",
+      "source": "就业报告",
+      "category": "就业",
+      "published": "2026-09-17T05:01:00.000Z",
+      "image": "//q9.itc.cn/images01/20260917/0670b1b12756419891f69c3b3f9ac858.png",
       "score": 60,
-      "tags": []
-    },
-    {
-      "id": "c06a25863501",
-      "title": "学科知识更新周期缩短 如何适应新变化？教育部详解",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-23/10702180.shtml",
-      "summary": "中新网9月23日电 9月23日，国新办就贯彻落实“十五五”规划，加快推进教育强国建设有关情况举行新闻发布会。教育部副部长杜江峰在会上介绍，面向“十五五”，将深入实施高等教育学科专业设置调整优化行动，推",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-09-23T06:09:26.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "e782b916cbbb",
-      "title": "教育部：每周至少半天校外实践教学将在全国推行",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-23/10702170.shtml",
-      "summary": "中新网9月23日电 9月23日，国新办就贯彻落实“十五五”规划，加快推进教育强国建设有关情况举行新闻发布会。会上，教育部基础教育司司长田祖荫介绍，将在全国推行每周至少半天校外实践教学，指导各地各校因地",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-09-23T05:44:41.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "2f23f412eb5e",
-      "title": "未来四年“双一流”高校本科招生数还将扩容7.6万人",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-23/10702163.shtml",
-      "summary": "中新网9月23日电 9月23日，国新办就贯彻落实“十五五”规划，加快推进教育强国建设有关情况举行新闻发布会。教育部发展规划司司长郭鹏在会上透露，2027年至2030年，“双一流”高校本科招生数还要扩容",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-09-23T05:37:00.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "a4e3b92efc7d",
-      "title": "教育部：建立分类评价机制 推进各类高校特色发展",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-23/10702110.shtml",
-      "summary": "中新网9月23日电 9月23日，国新办就贯彻落实“十五五”规划，加快推进教育强国建设有关情况举行新闻发布会。教育部发展规划司司长郭鹏在会上介绍，2025年，我国高等教育毛入学率达到61",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-09-23T04:03:03.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 55,
       "tags": []
     }
   ],
   "政策": [
-    {
-      "id": "c9a864e129c5",
-      "title": "数博会观察：AI催生“一人公司” 打开就业创业新空间",
-      "url": "https://finance.sina.com.cn/wm/2026-09-26/doc-initcyze4123237.shtml",
-      "summary": "中新社石家庄9月24日电 (赵丹媚 王夏菲 谌诗雨)2026中国国际数字经济博览会(简称“数博会”)23日至25日在河北石家庄举行，“一人公司”成为展会热词。 “一人公司”(One Person Co",
-      "source": "Bing·人社部就业创业政策",
-      "category": "政策",
-      "published": "2026-09-26T02:31:00.000Z",
-      "image": "//n.sinaimg.cn/front20260926ac/249/w524h525/20260926/793a-0836bb4895613795231407ff47598c9a.jpg",
-      "score": 55,
-      "tags": []
-    },
     {
       "id": "51cb338f0d6f",
       "title": "“新湖南”迸发“新活力” 全球青年湘商发展暨大学生创新创业推进 ...",
@@ -342,52 +292,126 @@
       "image": "https://www.dzwww.com/tpl/v2022/erjiye/images/logo.png",
       "score": 50,
       "tags": []
+    },
+    {
+      "id": "8740a880f2c9",
+      "title": "招聘总规模近8000人，南财“就业大集”揽英才",
+      "url": "https://news.qq.com/rain/a/20260924A0CN6100",
+      "summary": "9月23日，“七秩南财育英才 ‘才’来江苏‘就’有为”建校70周年暨2027届毕业生留苏就业专场招聘会在南京财经大学仙林校区体育馆火热举行。招聘会整合政府、行业、企业、学校多方资源，把优质岗位送到学生",
+      "source": "Bing·大学生就业政策",
+      "category": "政策",
+      "published": "2026-09-24T10:49:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/O8kKlb5k3VxyQZV3YHr6-RHkEMVEZd2PwyiNvbAt64_ZwAA_640330/0",
+      "score": 50,
+      "tags": []
+    }
+  ],
+  "社会": [
+    {
+      "id": "2fb4a76a3ab4",
+      "title": "广西“桂姐姐”大宣讲进高校 六位宣讲员分享奋斗故事",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-24/10703459.shtml",
+      "summary": "中新网南宁9月24日电(张广权 肖景凤)“实干开新局 巾帼建新功”2026年广西建设铸牢中华民族共同体意识示范区“桂姐姐”大宣讲进高校(南宁专场)活动23日在广西南宁举行",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-09-24T15:10:47.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "598eb9353aa7",
+      "title": "北京拟到2035年成为具有全球影响力的教育先进城市",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-24/10703415.shtml",
+      "summary": "中新网北京9月24日电 (记者 陈杭)北京市教育委员会24日印发《北京市“十五五”时期教育改革和发展规划》(以下简称规划)。规划提出，到2030年，教育强国首善之区基本建成，率先实现高水平教育现代化",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-09-24T14:28:40.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "05920b02f9fa",
+      "title": "北京高校毕业生就业创业先进典型百场宣讲活动启动",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-24/10702956.shtml",
+      "summary": "中新网北京9月24日电 (记者 陈杭)“永远跟党走，到祖国需要的地方建功立业”2026年北京高校毕业生就业创业先进典型百场宣讲活动启动仪式暨首场宣讲活动23日在北京交通大学举办",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-09-24T06:57:44.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "f74dd9b6621e",
+      "title": "教育部关于印发《2027年全国硕士研究生招生工作管理规定》的通知",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-24/10702787.shtml",
+      "summary": "教育部关于印发《2027年全国硕士研究生",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-09-24T01:50:49.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "c42668f8151e",
+      "title": "教育部部署2027年全国硕士研究生考试招生工作",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-24/10702767.shtml",
+      "summary": "中新网9月23日电 据教育部网站消息，教育部近日印发《2027年全国硕士研究生招生工作管理规定》(以下简称《规定》)，部署各地各研究生招生单位做好2027年全国硕士研究生考试招生工作",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-09-24T01:40:06.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
     }
   ],
   "财经": [
     {
-      "id": "444b1689b480",
-      "title": "游戏里的微光照进现实，数字文化产品拓展社会价值新空间",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-28/10705004.shtml",
+      "id": "3caa445e6909",
+      "title": "巴西市场上调2026年通胀预期至4.99%",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-28/10705180.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-28T10:27:10.000Z",
+      "published": "2026-09-28T15:20:30.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "4ddda37d4840",
-      "title": "A股汽车相关板块周一逆势上涨",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-28/10704976.shtml",
+      "id": "4ff947614988",
+      "title": "2026世界设计之都大会：AI赋能，设计无界",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-28/10705168.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-28T10:00:24.000Z",
+      "published": "2026-09-28T14:46:16.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "6187f2634382",
-      "title": "名家看经济｜厚植循环经济发展根基 培育绿色增长新动能",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-28/10704984.shtml",
+      "id": "cca1320d0947",
+      "title": "上海出台楼市新政：加强预售管理 有序实施现房销售",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-28/10705167.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-28T09:38:27.000Z",
+      "published": "2026-09-28T14:45:12.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "a854b48a1f09",
-      "title": "中国人寿推出“国寿康医保易享”互联网专属医疗保险",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-28/10704974.shtml",
+      "id": "644273abb5d0",
+      "title": "打造“五个引领区” 浙江深化嘉善县域高质量发展建设",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-28/10705165.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-28T09:28:24.000Z",
+      "published": "2026-09-28T14:38:58.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "00ad5ae040ee",
-      "title": "外媒关注中国先进制造业高质量发展——中国制造业争“先”惠及世界（国际论道）",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-28/10704980.shtml",
+      "id": "57862660dd9d",
+      "title": "瑞幸全球门店超38000家，新加坡百店验证体系化出海能力",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-28/10705158.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-28T09:25:28.000Z",
+      "published": "2026-09-28T14:20:25.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
