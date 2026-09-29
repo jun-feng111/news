@@ -1,67 +1,17 @@
 {
-  "AI": [
-    {
-      "id": "df051edc9234",
-      "title": "OpenAI reportedly ditches model over safety concerns",
-      "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
-      "summary": "OpenAI reportedly ditches model over safety concerns",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-09-28T23:39:20.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "d578c7a80779",
-      "title": "Nvidia launches new platform for reining in rogue AI agents",
-      "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
-      "summary": "Nvidia launches new platform for reining in rogue AI agents",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-09-28T18:31:23.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "99c674f70f3c",
-      "title": "Shopify opens checkout to browser-based AI agents",
-      "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
-      "summary": "Shopify opens checkout to browser-based AI agents",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-09-28T19:33:57.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1238591177.jpg?resize=1200,800",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "19b5c695e972",
-      "title": "The AI boom took over Climate Week and not everyone is happy about it",
-      "url": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
-      "summary": "The AI boom took over Climate Week and not everyone is happy about it",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-09-28T19:21:59.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1126706015.jpg?resize=1200,856",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "822fdbef3582",
-      "title": "Tesla delays Roadster 2 event again due to bad weather",
-      "url": "https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/",
-      "summary": "Tesla delays Roadster 2 event again due to bad weather",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-09-28T19:27:27.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/11/tesla-roadster-2.jpg?resize=1200,822",
-      "score": 70,
-      "tags": []
-    }
-  ],
   "科技": [
+    {
+      "id": "1968ba055eb0",
+      "title": "Protego Ventures closes debut $125 million fund for Israeli defense tech",
+      "url": "https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/",
+      "summary": "Protego Ventures closes debut $125 million fund for Israeli defense tech",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-09-29T10:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/PROTEGO-VENTURES.jpg?resize=1200,801",
+      "score": 75,
+      "tags": []
+    },
     {
       "id": "71c7b9385ab3",
       "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
@@ -71,7 +21,7 @@
       "category": "科技",
       "published": "2026-09-29T00:30:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/rajan-anandan.jpg?resize=1200,800",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -95,19 +45,7 @@
       "category": "科技",
       "published": "2026-09-28T22:58:35.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2025/05/Aurora-Launch-6-e1746107306339.jpg?resize=1200,886",
-      "score": 65,
-      "tags": []
-    },
-    {
-      "id": "342eef48a635",
-      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-      "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
-      "summary": "Anthropic releases Sonnet 5。5, which it calls a significantly cheaper, faster work partner",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-28T18:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=1024",
-      "score": 65,
+      "score": 60,
       "tags": []
     },
     {
@@ -123,6 +61,68 @@
       "tags": []
     }
   ],
+  "AI": [
+    {
+      "id": "8c8e0b75fd41",
+      "title": "Ex-Tesla team raises $12.5M to put supply chains on autopilot",
+      "url": "https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot/",
+      "summary": "Ex-Tesla team raises $12。5M to put supply chains on autopilot",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-29T09:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/atomic-founders.jpg?resize=1200,900",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "df051edc9234",
+      "title": "OpenAI reportedly ditches model over safety concerns",
+      "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+      "summary": "OpenAI reportedly ditches model over safety concerns",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-28T23:39:20.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "99c674f70f3c",
+      "title": "Shopify opens checkout to browser-based AI agents",
+      "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+      "summary": "Shopify opens checkout to browser-based AI agents",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-28T19:33:57.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1238591177.jpg?resize=1200,800",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "822fdbef3582",
+      "title": "Tesla delays Roadster 2 event again due to bad weather",
+      "url": "https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/",
+      "summary": "Tesla delays Roadster 2 event again due to bad weather",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-28T19:27:27.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/11/tesla-roadster-2.jpg?resize=1200,822",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "f5aa58f3c193",
+      "title": "Anthropic&#8217;s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+      "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+      "summary": "Anthropic&#8217;s prospectus details losses, growth, and, yes, a warning that its AI could end human",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-09-29T05:13:43.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-1399936043.jpg?resize=1200,675",
+      "score": 65,
+      "tags": []
+    }
+  ],
   "就业": [
     {
       "id": "def7481c13df",
@@ -132,6 +132,7 @@
       "source": "算法工程师·就业分析",
       "category": "就业",
       "published": "2026-09-25T02:48:00.000Z",
+      "image": "//q9.itc.cn/images01/20260925/aff639bee0754f2999b4be7130b409fe.jpeg",
       "score": 65,
       "tags": []
     },
@@ -143,6 +144,7 @@
       "source": "算法工程师·就业分析",
       "category": "就业",
       "published": "2026-07-14T09:55:00.000Z",
+      "image": "https://n.sinaimg.cn/finance/cece9e13/20240627/655959900_20240627.png",
       "score": 65,
       "tags": []
     },
@@ -154,25 +156,14 @@
       "source": "算法工程师·就业分析",
       "category": "就业",
       "published": "2026-07-18T11:05:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/Ows_BB25Bhnf-wlGWgFoIkmLSVd_6MJWCT8-yw6C3HS10AA_640330/0",
       "score": 65,
       "tags": []
     },
     {
-      "id": "ded1e43d5c4e",
-      "title": "前程无忧发布2027届毕业生秋招提示：AI反向背调、补招常态化成求职 ...",
-      "url": "https://news.qq.com/rain/a/20260922A06PH000",
-      "summary": "随着2027届毕业生秋季校园招聘拉开帷幕，就业市场的“游戏规则”仍在持续演进。近期，国内领先的人力资源服务商前程无忧51job基于《2026校园招聘白皮书》（以下简称《白皮书》）最新调研数据及平台治理",
-      "source": "Bing·秋招",
-      "category": "就业",
-      "published": "2026-09-22T07:46:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/O3O5XsrIF_5tQVkt6zw9wvkHvKcUuer0cILRNds25qnVMAA_640330/0",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "23c1aef21cf0",
+      "id": "c5bd1a30b6cd",
       "title": "[北京/上海/杭州/深圳] 30-75k AI 独角兽 Agentic 平台应用热招 Agentic Harness 研究员、产品经理岗位,可内推",
-      "url": "https://www.v2ex.com/t/1244352#reply0",
+      "url": "https://www.v2ex.com/t/1244352#reply1",
       "summary": "[北京/上海/杭州/深圳] 30-75k AI 独角兽 Agentic 平台应用热招 Agentic Harness 研究员、产品经理岗位,可内推",
       "source": "V2EX·招聘",
       "category": "就业",
@@ -180,71 +171,33 @@
       "image": "https://cdn.v2ex.com/gravatar/f75916750503da7d55885d7f7d198931?s=73&d=retro",
       "score": 60,
       "tags": []
-    }
-  ],
-  "开发": [
+    },
     {
-      "id": "8d5f4a61c8d5",
-      "title": "阿里巴巴开源 AI 辅助代码评审工具 OpenCodeReview",
-      "url": "https://www.infoq.cn/article/jJIXCaLHUvPgswTOZ1uQ?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/jJIXCaLHUvPgswTOZ1uQ",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-26T17:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/1a/c7/1a7672fe29e3a4811534fbc4b31fc7c7.jpg",
+      "id": "9098abd45060",
+      "title": "全栈工程师平均月薪1.9万、3个后端撑起产品线：后端全栈化比全员全 ...",
+      "url": "https://www.sohu.com/a/1077175656_120959233",
+      "summary": "2026年，「全栈工程师」成为行业热词。猎聘数据显示全栈工程师平均月薪约1",
+      "source": "就业报告",
+      "category": "就业",
+      "published": "2026-09-17T05:01:00.000Z",
+      "image": "//q9.itc.cn/images01/20260917/0670b1b12756419891f69c3b3f9ac858.png",
       "score": 60,
-      "tags": []
-    },
-    {
-      "id": "0085a00b8c8e",
-      "title": "AI 时代，技术人靠什么赢？｜QCon上海",
-      "url": "https://www.infoq.cn/article/C1Vuzh9fUmUL9i5wmDZf?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/C1Vuzh9fUmUL9i5wmDZf",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-26T10:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/0d/87/0df6fbfe6359a22b6855efc68b4f0487.jpg",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "d218f654286e",
-      "title": "DoorDash 借助多 Agent LLM 系统清理 6 万个 Feature Flag",
-      "url": "https://www.infoq.cn/article/gk4rWsQg09PWTFTZlJE3?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/gk4rWsQg09PWTFTZlJE3",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-26T09:20:21.000Z",
-      "image": "https://static001.infoq.cn/resource/image/60/7c/603322ced95ce18e4e8b74e5e89f657c.jpg",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "caf66b0f3942",
-      "title": "htmx 4.0 发布：改用 Fetch API 重写，内置 DOM Morphing Swap，并明确属性继承规则",
-      "url": "https://www.infoq.cn/article/kJ4EkjPLVTh9iT5yyXkM?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/kJ4EkjPLVTh9iT5yyXkM",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-25T14:18:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/5b/be/5b619fb6d122a708398376777d562ebe.jpg",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "9fa53ec37a84",
-      "title": "当 Vibe Coding 撞上企业级现实：真实工程中的 AI 效能之路｜QCon上海",
-      "url": "https://www.infoq.cn/article/QQk3wiolU1VScH3u0P7T?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/QQk3wiolU1VScH3u0P7T",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-25T10:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/61/e3/61c80a5fddec4b7yybc67a88e62245e3.jpg",
-      "score": 55,
       "tags": []
     }
   ],
   "政策": [
+    {
+      "id": "51cb338f0d6f",
+      "title": "“新湖南”迸发“新活力” 全球青年湘商发展暨大学生创新创业推进 ...",
+      "url": "https://www.sohu.com/a/1080287030_121106908",
+      "summary": "【通讯员 宋美君 汪衡】9月23日下午，第十二届全球湘商大会7大平行主题活动之一——“新湖南・新活力”全球青年湘商发展暨大学生创新创业推进会在衡阳举办。湖南省委统战部副部长、省工商联党组书记胡建新出席",
+      "source": "Bing·大学生创业扶持政策",
+      "category": "政策",
+      "published": "2026-09-24T03:30:00.000Z",
+      "image": "https://q2.itc.cn/q_70/images03/20260924/8a7dcf04a6c1492db383985b1233f390.jpeg",
+      "score": 55,
+      "tags": []
+    },
     {
       "id": "3fc50ec8f766",
       "title": "最高可贷50万元，湖南优化政策为大学生创业送上金融“活水”",
@@ -265,31 +218,8 @@
       "source": "就业创业政策",
       "category": "政策",
       "published": "2026-09-18T01:05:00.000Z",
+      "image": "",
       "score": 55,
-      "tags": []
-    },
-    {
-      "id": "ed0822808f9b",
-      "title": "温州发布专项政策指南 为残疾人大学生就业创业“撑腰”",
-      "url": "https://news.66wz.com/system/2026/07/16/105805829.shtml",
-      "summary": "市人社局与市残联携手对现行最实用、最优惠的就创业补贴政策进行全面梳理，并形成《温州市残疾人大学生就业创业政策指南》，助力这一特殊群体跨越障碍，实现更加充分、更高质量的就业和创业。 温州网讯 为支持更多",
-      "source": "就业创业政策",
-      "category": "政策",
-      "published": "2026-07-16T01:51:00.000Z",
-      "image": "https://news.66wz.com/pic/003/013/337/00301333742_93765919.gif",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "13fae6cd3886",
-      "title": "山东省大学生就业指导“就业第一课”巡回宣讲启动仪式在齐鲁师范 ...",
-      "url": "https://edu.dzwww.com/rcjy/qzgl/202609/t20260923_18148684.htm",
-      "summary": "本次活动由山东省人力资源和社会保障厅、山东省教育厅主办，山东省公共就业和人才服务中心、齐鲁师范学院承办，宣讲兼具政策高度与实践温度，政策解读、榜样分享、实务指导融为一体，为师生送上一堂干货满满的就业育",
-      "source": "Bing·大学生就业政策",
-      "category": "政策",
-      "published": "2026-09-22T04:40:00.000Z",
-      "image": "https://www.dzwww.com/tpl/v2022/erjiye/images/logo.png",
-      "score": 50,
       "tags": []
     },
     {
@@ -303,115 +233,168 @@
       "image": "https://inews.gtimg.com/om_ls/O8kKlb5k3VxyQZV3YHr6-RHkEMVEZd2PwyiNvbAt64_ZwAA_640330/0",
       "score": 50,
       "tags": []
+    },
+    {
+      "id": "9139c152c3eb",
+      "title": "人社部部署开展2026年就业政策宣传月活动",
+      "url": "https://www.eol.cn/news/yaowen/202609/t20260908_2771657.shtml",
+      "summary": "近日，人力资源社会保障部办公厅印发通知，定于2026年9月在全国开展就业政策宣传月活动。 活动以“政策到身边 就业暖心间”为主题，坚持“政策找人、服务上门”导向，突出宣传好各项惠企利民就业政策、服务举",
+      "source": "就业创业政策",
+      "category": "政策",
+      "published": "2026-09-08T03:06:00.000Z",
+      "image": "https://www.eol.cn/news/",
+      "score": 50,
+      "tags": []
     }
   ],
   "社会": [
     {
-      "id": "2fb4a76a3ab4",
-      "title": "广西“桂姐姐”大宣讲进高校 六位宣讲员分享奋斗故事",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-24/10703459.shtml",
-      "summary": "中新网南宁9月24日电(张广权 肖景凤)“实干开新局 巾帼建新功”2026年广西建设铸牢中华民族共同体意识示范区“桂姐姐”大宣讲进高校(南宁专场)活动23日在广西南宁举行",
+      "id": "35162f33d797",
+      "title": "世界技能大赛标准引领职教课堂 技能人才培养提质进行时",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-27/10704413.shtml",
+      "summary": "中新网上海9月27日电 (杨硕)27日，第48届世界技能大赛(以下简称“世赛”)进入尾声。汽车喷漆项目赛场上，选手们已经完成了从做底、喷涂、抛光、调色等全部流程",
       "source": "中新网教育",
       "category": "社会",
-      "published": "2026-09-24T15:10:47.000Z",
+      "published": "2026-09-27T05:53:51.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 50,
       "tags": []
     },
     {
-      "id": "598eb9353aa7",
-      "title": "北京拟到2035年成为具有全球影响力的教育先进城市",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-24/10703415.shtml",
-      "summary": "中新网北京9月24日电 (记者 陈杭)北京市教育委员会24日印发《北京市“十五五”时期教育改革和发展规划》(以下简称规划)。规划提出，到2030年，教育强国首善之区基本建成，率先实现高水平教育现代化",
+      "id": "493d513a91d6",
+      "title": "在追寻中读懂西南联大：烽火弦歌 不负时代",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-27/10704491.shtml",
+      "summary": "青春华章·学以报国丨在追寻中读懂西南联大：烽火弦歌 不负时代",
       "source": "中新网教育",
       "category": "社会",
-      "published": "2026-09-24T14:28:40.000Z",
+      "published": "2026-09-27T09:05:16.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
+      "score": 40,
       "tags": []
     },
     {
-      "id": "05920b02f9fa",
-      "title": "北京高校毕业生就业创业先进典型百场宣讲活动启动",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-24/10702956.shtml",
-      "summary": "中新网北京9月24日电 (记者 陈杭)“永远跟党走，到祖国需要的地方建功立业”2026年北京高校毕业生就业创业先进典型百场宣讲活动启动仪式暨首场宣讲活动23日在北京交通大学举办",
+      "id": "c1978f26a79c",
+      "title": "一本“技能护照”如何实现“跨国旅行”",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-27/10704318.shtml",
+      "summary": "【站在世界技能舞台中央】一本“技能护照”如何实现“跨国旅行”",
       "source": "中新网教育",
       "category": "社会",
-      "published": "2026-09-24T06:57:44.000Z",
+      "published": "2026-09-27T00:09:14.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
+      "score": 40,
       "tags": []
     },
     {
-      "id": "f74dd9b6621e",
-      "title": "教育部关于印发《2027年全国硕士研究生招生工作管理规定》的通知",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-24/10702787.shtml",
-      "summary": "教育部关于印发《2027年全国硕士研究生",
-      "source": "中新网教育",
+      "id": "ada311b04fcc",
+      "title": "9月中国平均降水量较常年同期偏少17.1%",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-29/10705713.shtml",
+      "source": "中新网社会",
       "category": "社会",
-      "published": "2026-09-24T01:50:49.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
+      "published": "2026-09-29T10:41:51.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "c42668f8151e",
-      "title": "教育部部署2027年全国硕士研究生考试招生工作",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-24/10702767.shtml",
-      "summary": "中新网9月23日电 据教育部网站消息，教育部近日印发《2027年全国硕士研究生招生工作管理规定》(以下简称《规定》)，部署各地各研究生招生单位做好2027年全国硕士研究生考试招生工作",
-      "source": "中新网教育",
+      "id": "36d6499f2644",
+      "title": "国庆假期辽宁天气以晴为主 气温偏低",
+      "url": "https://www.chinanews.com.cn/sh/2026/09-29/10705714.shtml",
+      "source": "中新网社会",
       "category": "社会",
-      "published": "2026-09-24T01:40:06.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
+      "published": "2026-09-29T10:40:47.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ],
   "财经": [
     {
-      "id": "cafb4bdfa098",
-      "title": "第十九届中国（东营）国际石油石化装备与技术展览会举办",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-29/10705411.shtml",
+      "id": "4010cadab57a",
+      "title": "从纸面红利到账上实惠：平安银行如何把再贷款+财政贴息送到产业链末梢",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-29/10705750.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-29T03:42:55.000Z",
+      "published": "2026-09-29T11:01:37.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "1a2a036f2220",
-      "title": "再获“黑客奥斯卡”大奖：360参与研究成果斩获The Pwnie Awards最具创新研究奖",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-29/10705405.shtml",
+      "id": "9512c483092c",
+      "title": "蔚来公司十一出行保障开启：百余座补给站沿途值守、超360家服务中心不打烊",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-29/10705748.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-29T03:34:12.000Z",
+      "published": "2026-09-29T10:55:22.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "e3f4d5c19f75",
-      "title": "广东河源总投资额超百亿元新项目集中签约",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-29/10705389.shtml",
+      "id": "728756ec5276",
+      "title": "三部门有关负责人就实施居民购房贷款贴息政策答记者问",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-29/10705738.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-29T03:28:18.000Z",
+      "published": "2026-09-29T10:54:34.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "e31489b0c2e0",
-      "title": "金观平：协同助企纾困讲究快准稳",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-29/10705399.shtml",
+      "id": "4efd2434048d",
+      "title": "10月1日起我国将对居民购房实施贷款贴息",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-29/10705743.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-29T03:18:32.000Z",
+      "published": "2026-09-29T10:54:08.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "b2f2d234d328",
-      "title": "新阶层·新经济 | 朗盛投资董事长平凡：以耐心资本赋能新经济远航",
-      "url": "https://www.chinanews.com.cn/cj/2026/09-29/10705375.shtml",
+      "id": "0a352faea99f",
+      "title": "8.11亿元 徐州中秋假期文旅消费旺",
+      "url": "https://www.chinanews.com.cn/cj/2026/09-29/10705746.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-09-29T02:58:30.000Z",
+      "published": "2026-09-29T10:53:00.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    }
+  ],
+  "开发": [
+    {
+      "id": "e9fb8f1cc784",
+      "title": "亚马逊云科技无法恢复仅存储在受损的中东可用区的数据",
+      "url": "https://www.infoq.cn/article/YWXyACETW4aRchQbSJE0?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-29T18:41:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/0e/82/0e0f370106faa35324325e75950a6d82.jpg"
+    },
+    {
+      "id": "9ba1c7adbbb0",
+      "title": "Agent 不只烧 Token：为什么 Agent Sandbox 正在变得重要？",
+      "url": "https://www.infoq.cn/article/he0zFgEyStxF9kOh70AP?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-29T18:36:43.000Z",
+      "image": "https://static001.infoq.cn/resource/image/6f/4d/6f8387008d68a40e0d8970da040b204d.png"
+    },
+    {
+      "id": "56575e327509",
+      "title": "Agent 编程能力从 10% 飙到 70%，Anthropic 新模型却遭遇灵魂拷问：我什么时候才会用它？",
+      "url": "https://www.infoq.cn/article/PSvHjyoJTC9bSLWYxpfF?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-29T18:07:09.000Z",
+      "image": "https://static001.infoq.cn/resource/image/f3/d9/f389119018d4d36f13451b8caef6b9d9.png"
+    },
+    {
+      "id": "acb94ad79dab",
+      "title": "上下文优势：AI 增长战略缺失的关键拼图 ｜ 技术趋势",
+      "url": "https://www.infoq.cn/article/ftFzzJ6jgxha7grHHLjf?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-29T18:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/47/d6/47bd37733cd489b56831c47db10278d6.jpeg"
+    },
+    {
+      "id": "80db0dd8515f",
+      "title": "Bun 在四个月内将 53.5 万行 Zig 代码重写为 Rust，消除了大量内存泄漏",
+      "url": "https://www.infoq.cn/article/0x1uOEWOj16S1vNmtsuP?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-29T17:37:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/95/28/950d3ef9c6e7f223314c6221bd8b6c28.jpg"
     }
   ]
 }
