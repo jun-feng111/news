@@ -1,14 +1,37 @@
 {
-  "updated": "2026-09-29T11:10:58.764Z",
-  "count": 123,
+  "updated": "2026-09-29T17:46:03.194Z",
+  "count": 124,
   "sources": {
-    "V2EX": 8,
+    "V2EX": 9,
     "RemoteOK": 99,
     "Remotive": 16,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1245635",
+      "title": "React Native 开发工程师",
+      "company": "JohnJiangChina",
+      "location": "远程岗位",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "java",
+        "javascript",
+        "typescript",
+        "react",
+        "docker"
+      ],
+      "category": "其他",
+      "postedDate": "2026-09-29",
+      "url": "https://www.v2ex.com/t/1245635",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1245478",
       "title": ": 医疗器械软件工程师， C++/Qt，桌面应用开发，上海，薪资面议",
