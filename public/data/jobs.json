@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-29T21:59:26.450Z",
-  "count": 124,
+  "updated": "2026-09-30T01:10:52.471Z",
+  "count": 123,
   "sources": {
-    "V2EX": 9,
+    "V2EX": 8,
     "RemoteOK": 99,
     "Remotive": 16,
     "Arbeitnow": 0,
@@ -66,28 +66,6 @@
       "category": "产品",
       "postedDate": "2026-09-29",
       "url": "https://www.v2ex.com/t/1245474",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1245454",
-      "title": "remote 高级 PHP 开发工程师 15-25k",
-      "company": "andyxinweimin",
-      "location": "国内",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "docker",
-        "mysql",
-        "redis",
-        "php"
-      ],
-      "category": "其他",
-      "postedDate": "2026-09-29",
-      "url": "https://www.v2ex.com/t/1245454",
       "source": "V2EX",
       "region": "domestic"
     },
