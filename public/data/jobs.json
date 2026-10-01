@@ -1,14 +1,34 @@
 {
-  "updated": "2026-10-01T06:56:09.798Z",
-  "count": 124,
+  "updated": "2026-10-01T14:16:20.232Z",
+  "count": 122,
   "sources": {
-    "V2EX": 9,
+    "V2EX": 7,
     "RemoteOK": 99,
     "Remotive": 16,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1246029",
+      "title": "寻找技术联合创始人，前期零薪， 16%股权（4 年归属）",
+      "company": "kalxd",
+      "location": "横琴｜澳资初创｜ AI Agent",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "python",
+        "node"
+      ],
+      "category": "算法/AI",
+      "postedDate": "2026-10-01",
+      "url": "https://www.v2ex.com/t/1246029",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1245965",
       "title": "有人在上海乐天创研工作过吗？工作体验怎么样？",
@@ -119,63 +139,6 @@
       "category": "产品",
       "postedDate": "2026-09-29",
       "url": "https://www.v2ex.com/t/1245474",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1245372",
-      "title": "成都头部 MCN 团队招聘全栈工程师， AI 不限量使用",
-      "company": "Branlice",
-      "location": "招聘帖",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "go",
-        "golang",
-        "react"
-      ],
-      "category": "全栈",
-      "postedDate": "2026-09-28",
-      "url": "https://www.v2ex.com/t/1245372",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1245328",
-      "title": "海外数据运营(远程/深圳全职) 8k-12k",
-      "company": "solecc",
-      "location": "招聘",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "go"
-      ],
-      "category": "数据",
-      "postedDate": "2026-09-28",
-      "url": "https://www.v2ex.com/t/1245328",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1245050",
-      "title": "开源一个帮我 30 天内找到 50+%薪资涨幅工作的 skill 组",
-      "company": "gilgameshcc",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [],
-      "category": "其他",
-      "postedDate": "2026-09-27",
-      "url": "https://www.v2ex.com/t/1245050",
       "source": "V2EX",
       "region": "domestic"
     },
@@ -1376,31 +1339,6 @@
       "category": "education",
       "postedDate": "2026-09-08",
       "url": "https://remoteOK.com/remote-jobs/remote-quality-dispense-technician-north-thatchers-cider-1137374",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137314",
-      "title": "Social Comms",
-      "company": "NOPE",
-      "location": "Remote",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "marketing",
-        "education",
-        "technical",
-        "content writing",
-        "social media",
-        "ai",
-        "social"
-      ],
-      "category": "marketing",
-      "postedDate": "2026-09-08",
-      "url": "https://remoteOK.com/remote-jobs/remote-social-comms-nope-1137314",
       "source": "RemoteOK",
       "region": "foreign"
     },
@@ -3240,6 +3178,36 @@
       "category": "marketing",
       "postedDate": "2026-07-30",
       "url": "https://remoteOK.com/remote-jobs/remote-growth-strategist-lyric-1135681",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1135697",
+      "title": "Administrative Assistant",
+      "company": "Viable Medical Solutions",
+      "location": "Greater Orlando",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "design",
+        "music",
+        "customer support",
+        "travel",
+        "video",
+        "exec",
+        "content writing",
+        "ops",
+        "marketing",
+        "ads",
+        "digital nomad",
+        "hr"
+      ],
+      "category": "design",
+      "postedDate": "2026-07-30",
+      "url": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-viable-medical-solutions-1135697",
       "source": "RemoteOK",
       "region": "foreign"
     }

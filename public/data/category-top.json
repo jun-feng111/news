@@ -1,6 +1,18 @@
 {
   "AI": [
     {
+      "id": "b2aa71ddeef4",
+      "title": "Hearing tech startup Legato launches its AI hearing glasses",
+      "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+      "summary": "Hearing tech startup Legato launches its AI hearing glasses",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-01T13:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Symphony-Lifestyle-Image-2.png?resize=1200,670",
+      "score": 85,
+      "tags": []
+    },
+    {
       "id": "b0e8a6f4f58b",
       "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
       "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
@@ -13,27 +25,27 @@
       "tags": []
     },
     {
-      "id": "b8d72f3674ce",
-      "title": "OpenAI&#8217;s Jev clone could help the frontier lab stop its swarming agents",
-      "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
-      "summary": "OpenAI&#8217;s Jev clone could help the frontier lab stop its swarming agents",
+      "id": "55c5a462ef98",
+      "title": "Audible&#8217;s new features let you explore book worlds — and use AI to talk to characters",
+      "url": "https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters/",
+      "summary": "Audible&#8217;s new features let you explore book worlds — and use AI to talk to characters",
       "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-09-30T19:00:57.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297228249.jpg?resize=1200,800",
-      "score": 75,
+      "published": "2026-10-01T13:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-1179901012.jpg?resize=1200,800",
+      "score": 70,
       "tags": []
     },
     {
-      "id": "7b98304de632",
-      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
-      "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
-      "summary": "AI voice startup ElevenLabs doubles valuation to $22B",
+      "id": "28a5cadf6619",
+      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+      "url": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+      "summary": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
       "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-09-30T18:23:57.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?resize=1200,669",
-      "score": 75,
+      "published": "2026-10-01T12:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Satlyt_Team_Group-Portrait_Steps.jpg?resize=1200,800",
+      "score": 70,
       "tags": []
     },
     {
@@ -47,21 +59,33 @@
       "image": "https://techcrunch.com/wp-content/uploads/2025/10/2243688557.jpg?resize=1200,800",
       "score": 65,
       "tags": []
-    },
-    {
-      "id": "b9907aea74cc",
-      "title": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America",
-      "url": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/",
-      "summary": "Is Neko Health’s body scan worth it。 Spotify billionaire’s startup has come to America",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-09-30T20:20:02.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/02/neko-founders.jpeg?resize=1200,800",
-      "score": 60,
-      "tags": []
     }
   ],
   "科技": [
+    {
+      "id": "a50f83843582",
+      "title": "The new Kindle ditches the bezel in a push toward a smaller, lighter e-reader",
+      "url": "https://techcrunch.com/2026/10/01/the-new-kindle-ditches-the-bezel-in-a-push-toward-a-smaller-lighter-e-reader/",
+      "summary": "The new Kindle ditches the bezel in a push toward a smaller, lighter e-reader",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-10-01T13:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Kindle-Cafe-Reading.jpg?resize=1200,900",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "e3f543beee4b",
+      "title": "Amazon introduces Kindle Click, a $35 remote for turning pages",
+      "url": "https://techcrunch.com/2026/10/01/amazon-introduces-kindle-click-a-35-remote-for-hands-free-reading/",
+      "summary": "Amazon introduces Kindle Click, a $35 remote for turning pages",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-10-01T13:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/IMG_7733.jpg?resize=1200,900",
+      "score": 75,
+      "tags": []
+    },
     {
       "id": "72ff1d39525b",
       "title": "Factory CEO just accused his VC board adviser of spying for Cognition",
@@ -75,27 +99,15 @@
       "tags": []
     },
     {
-      "id": "f9048e4a115b",
-      "title": "DoorDash&#8217;s drone strategy started on the ground",
-      "url": "https://techcrunch.com/2026/09/30/doordashs-drone-strategy-started-on-the-ground/",
-      "summary": "DoorDash&#8217;s drone strategy started on the ground",
+      "id": "3f4ea9f16a21",
+      "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents",
+      "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+      "summary": "Photon held a funeral for mobile apps。 Now it has $4",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-09-30T19:22:13.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Doordash-Air-drone.jpg?resize=1200,800",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "04993a33e768",
-      "title": "BMW built the same car for gas and electric. The EV is $4,400 cheaper.",
-      "url": "https://techcrunch.com/2026/09/30/bmw-built-the-same-car-for-gas-and-electric-the-ev-is-4400-cheaper/",
-      "summary": "BMW built the same car for gas and electric。 The EV is $4,400 cheaper",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-30T19:19:40.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/bmw-350-vs-i3-50.jpeg?resize=1200,800",
-      "score": 70,
+      "published": "2026-10-01T14:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/DSC01567.jpg?resize=1200,801",
+      "score": 65,
       "tags": []
     },
     {
@@ -109,18 +121,6 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297936328.jpg?w=1024",
       "score": 60,
       "tags": []
-    },
-    {
-      "id": "8f3de50f1418",
-      "title": "Hackers stole millions of US military personnel records during months-long data breach",
-      "url": "https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/",
-      "summary": "Hackers stole millions of US military personnel records during months-long data breach",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-09-30T19:29:08.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/pentagon-dod-2026-2288897667.jpg?resize=1200,869",
-      "score": 60,
-      "tags": []
     }
   ],
   "就业": [
@@ -129,7 +129,7 @@
       "title": "AI人才缺口超500万！有最新报告称，AI抢人逻辑悄悄变了：架构师新发 ...",
       "url": "https://news.qq.com/rain/a/20260718A08XHR00",
       "summary": "人才缺口500万，大厂抢得最凶的不是算法工程师，架构师新发职位同比大涨近八成。懂提示词和人机训练岗位的文科生，平均年薪达到34",
-      "source": "就业报告",
+      "source": "算法工程师·就业分析",
       "category": "就业",
       "published": "2026-07-18T11:05:00.000Z",
       "image": "https://inews.gtimg.com/om_ls/Ows_BB25Bhnf-wlGWgFoIkmLSVd_6MJWCT8-yw6C3HS10AA_640330/0",
@@ -165,22 +165,22 @@
       "title": "2026产品经理生死线：AI原生进化或致职业断崖！AI产品经理必备学习 ...",
       "url": "https://blog.csdn.net/Trb701012/article/details/166465322",
       "summary": "文章浏览阅读941次。AI大模型的发展不是“替代人类”，而是“重塑职业价值”——它淘汰的是重复性、低附加值的工作，却催生了更多需要“技术+业务”交叉能力的高端岗位",
-      "source": "产品经理·就业分析",
+      "source": "就业报告",
       "category": "就业",
       "published": "2026-09-23T03:43:00.000Z",
       "score": 60,
       "tags": []
     },
     {
-      "id": "bf418f61314d",
-      "title": "[招聘帖] 成都头部 MCN 团队招聘全栈工程师， AI 不限量使用",
-      "url": "https://www.v2ex.com/t/1245372#reply1",
-      "summary": "[招聘帖] 成都头部 MCN 团队招聘全栈工程师， AI 不限量使用",
-      "source": "V2EX·招聘",
+      "id": "e9b1678267d0",
+      "title": "AI项目管理人才为什么薪资高？大模型落地缺的是懂技术又懂交付的人",
+      "url": "https://www.sohu.com/a/1082212866_99999728",
+      "summary": "打开招聘平台，AI相关岗位的数量在过去一年里发生了明显变化。2026年春招数据显示，AI领域岗位量同比增长8",
+      "source": "就业报告",
       "category": "就业",
-      "published": "2026-09-28T14:57:10.000Z",
-      "image": "https://cdn.v2ex.com/gravatar/997a2197b7a701b3c0a4dba3a8032847?s=73&d=retro",
-      "score": 55,
+      "published": "2026-09-29T07:07:00.000Z",
+      "image": "//q0.itc.cn/images01/20260929/7cb5bf061d3e4ca2bd952244c3e02614.jpeg",
+      "score": 60,
       "tags": []
     }
   ],
@@ -195,6 +195,30 @@
       "published": "2026-09-28T11:43:57.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 55,
+      "tags": []
+    },
+    {
+      "id": "6b0ffb0e4d17",
+      "title": "黄仁勋等担任清华大学经济管理学院顾问委员会委员",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-29/10705900.shtml",
+      "summary": "中新社北京9月29日电 (记者 曾玥)据清华大学经济管理学院官方社交媒体账号29日消息，今年清华大学经济管理学院顾问委员会新增英伟达创始人兼首席执行官黄仁勋(Jensen Huang)等3位委员，新增",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-09-29T13:38:47.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "beaf1bcb7929",
+      "title": "“第二届南岛语族与海洋文明”国际学术研讨会在华侨大学举办",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-29/10705682.shtml",
+      "summary": "中新网厦门9月29日电 (吴冠标 李松青)为深入挖掘南岛语族与海洋文明双向互动的历史脉络，推进相关领域学术创新和国际对话，“第二届南岛语族与海洋文明”国际学术研讨会29日在华侨大学厦门校区举办",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-09-29T09:54:20.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
       "tags": []
     },
     {
@@ -220,33 +244,21 @@
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 50,
       "tags": []
-    },
-    {
-      "id": "493d513a91d6",
-      "title": "在追寻中读懂西南联大：烽火弦歌 不负时代",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-27/10704491.shtml",
-      "summary": "青春华章·学以报国丨在追寻中读懂西南联大：烽火弦歌 不负时代",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-09-27T09:05:16.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 40,
-      "tags": []
-    },
-    {
-      "id": "c1978f26a79c",
-      "title": "一本“技能护照”如何实现“跨国旅行”",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-27/10704318.shtml",
-      "summary": "【站在世界技能舞台中央】一本“技能护照”如何实现“跨国旅行”",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-09-27T00:09:14.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 40,
-      "tags": []
     }
   ],
   "政策": [
+    {
+      "id": "d6ef8f694607",
+      "title": "创业担保贷款投放超1亿元！阳江为创业者“贷”来及时雨",
+      "url": "https://www.sohu.com/a/1082328567_121106875",
+      "summary": "创业，既需要敢闯敢试的勇气，也离不开资金支持。企业刚起步时需要启动资金，进入成长期后，购设备、备原料、接订单，又会带来新的资金需求",
+      "source": "Bing·人社部就业创业政策",
+      "category": "政策",
+      "published": "2026-09-29T10:21:00.000Z",
+      "image": "https://q4.itc.cn/q_70/images03/20260929/380f5d6d46fa4281a9e3efa7f9ec6bf6.png",
+      "score": 55,
+      "tags": []
+    },
     {
       "id": "c9a864e129c5",
       "title": "数博会观察：AI催生“一人公司” 打开就业创业新空间",
@@ -284,74 +296,62 @@
       "tags": []
     },
     {
-      "id": "f3fa088e98a3",
-      "title": "就’在湘西‘创’青春”| 2026年湖南省大学生创业就业法律知识宣讲 ...",
-      "url": "https://www.sohu.com/a/1081960836_121106908",
-      "summary": "近日，“就”在湘西 “创”青春——2026年湖南省大学生创业就业法律知识宣讲活动（湘西站）在吉首大学和湘西民族职业技术学院举行。 本次活动由共青团湖南省委员会主办，共青团湘西州委员会、共青团吉首大学委",
+      "id": "0465ce5b383e",
+      "title": "【鸿雁归巢】呼伦贝尔籍在校大学生家乡行——根河市就业服务中心 ...",
+      "url": "https://www.sohu.com/a/1082222506_121106854",
+      "summary": "为全面落实党中央、国务院关于做好高校毕业生等青年就业创业服务工作的决策部署和市政府工作要求，呼伦贝尔市就业服务中心在全市范围内组织开展“呼伦贝尔籍在校大学生家乡行”实践活动，旨在引导在校生毕业后返乡就",
       "source": "Bing·大学生就业政策",
       "category": "政策",
-      "published": "2026-09-28T11:26:00.000Z",
-      "image": "https://q0.itc.cn/q_70/images03/20260928/3793a0ecd02d4f2e8dac2b186ae2724c.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "8740a880f2c9",
-      "title": "招聘总规模近8000人，南财“就业大集”揽英才",
-      "url": "https://news.qq.com/rain/a/20260924A0CN6100",
-      "summary": "9月23日，“七秩南财育英才 ‘才’来江苏‘就’有为”建校70周年暨2027届毕业生留苏就业专场招聘会在南京财经大学仙林校区体育馆火热举行。招聘会整合政府、行业、企业、学校多方资源，把优质岗位送到学生",
-      "source": "Bing·大学生就业政策",
-      "category": "政策",
-      "published": "2026-09-24T10:49:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/O8kKlb5k3VxyQZV3YHr6-RHkEMVEZd2PwyiNvbAt64_ZwAA_640330/0",
+      "published": "2026-09-29T07:19:00.000Z",
+      "image": "https://q3.itc.cn/q_70/images03/20260929/110d602366d54feba1a3846625d82f22.png",
       "score": 50,
       "tags": []
     }
   ],
   "财经": [
     {
-      "id": "b4b1e9f7eeb1",
-      "title": "平陆运河打通南向出海通道 广西岑溪外向型经济蓄势待发",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706686.shtml",
+      "id": "29b46b8cb27c",
+      "title": "“微醺”经济出圈 安徽休宁酒旅融合“酿”出产业新味",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706923.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-01T06:03:45.000Z",
+      "published": "2026-10-01T12:47:34.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "44a2a2d15e53",
-      "title": "8万吨多用途粮食运输船“国强海”轮在大连命名",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706681.shtml",
+      "id": "3bdcd441032a",
+      "title": "天津邮轮母港迎“三船同靠” 单日出入境客流创年内新高",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706926.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-01T06:03:09.000Z",
+      "published": "2026-10-01T12:40:04.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "27a2bd111e01",
-      "title": "山西首单离境退税业务落地 助力“山西游、山西购”",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706687.shtml",
+      "id": "5880d8baa5be",
+      "title": "除了“五金之都”，浙江永康还有什么？",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706918.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-01T06:02:53.000Z",
+      "published": "2026-10-01T12:24:07.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "2328e7a800e2",
-      "title": "尼泊尔多迪市代表团参访云南福贡 冀深化户外文旅合作",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706678.shtml",
+      "id": "d8d81769a171",
+      "title": "长沙口岸开启无人机施封新模式",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706902.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-01T05:59:43.000Z",
+      "published": "2026-10-01T12:04:48.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "ebfbe59170b9",
-      "title": "9月中国百城新房价格上涨 二手房价下跌",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706676.shtml",
+      "id": "a2f45fd48d70",
+      "title": "国庆科创集市点亮江西南昌 低空经济与智能穿戴产业蓄势腾飞",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-01/10706884.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-01T05:57:05.000Z",
+      "published": "2026-10-01T11:55:03.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ],
