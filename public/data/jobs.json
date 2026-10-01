@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T00:25:53.313Z",
+  "updated": "2026-10-01T06:56:09.798Z",
   "count": 124,
   "sources": {
     "V2EX": 9,
@@ -9,6 +9,23 @@
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1245965",
+      "title": "有人在上海乐天创研工作过吗？工作体验怎么样？",
+      "company": "dxcqcv",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [],
+      "category": "其他",
+      "postedDate": "2026-10-01",
+      "url": "https://www.v2ex.com/t/1245965",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1245910",
       "title": "SHEIN 内推：算法/大模型/后端/数据/安全/测试/iOS， 20-80K",
@@ -159,27 +176,6 @@
       "category": "其他",
       "postedDate": "2026-09-27",
       "url": "https://www.v2ex.com/t/1245050",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1244881",
-      "title": "香港公司，招聘链上数据工程师（Go）、业务后端工程师（Go）、内部系统工程师（Go）、全栈工程师（React + Go） 非 web3 经验优先，可带新人",
-      "company": "LaunchPro",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "go",
-        "react",
-        "mysql"
-      ],
-      "category": "后端",
-      "postedDate": "2026-09-26",
-      "url": "https://www.v2ex.com/t/1244881",
       "source": "V2EX",
       "region": "domestic"
     },
