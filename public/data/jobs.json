@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-01T14:16:20.232Z",
-  "count": 122,
+  "updated": "2026-10-01T20:11:16.351Z",
+  "count": 121,
   "sources": {
-    "V2EX": 7,
+    "V2EX": 6,
     "RemoteOK": 99,
     "Remotive": 16,
     "Arbeitnow": 0,
@@ -126,21 +126,43 @@
       "region": "domestic"
     },
     {
-      "id": "v2ex-1245474",
-      "title": "找一个 UI/UX 合作，产品面向海外",
-      "company": "ethbtc",
-      "location": "远程工作",
+      "id": "remoteok-1137451",
+      "title": "Enterprise Sales Development Representative",
+      "company": "Toptal",
+      "location": "Remote",
       "remote": true,
       "salaryText": "",
       "salaryMin": null,
       "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [],
-      "category": "产品",
-      "postedDate": "2026-09-29",
-      "url": "https://www.v2ex.com/t/1245474",
-      "source": "V2EX",
-      "region": "domestic"
+      "salaryCurrency": "",
+      "skills": [
+        "customer support",
+        "sales"
+      ],
+      "category": "customer support",
+      "postedDate": "2026-09-30",
+      "url": "https://remoteOK.com/remote-jobs/remote-enterprise-sales-development-representative-toptal-1137451",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1137439",
+      "title": "Client Advisor",
+      "company": "Toptal",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "customer support"
+      ],
+      "category": "customer support",
+      "postedDate": "2026-09-30",
+      "url": "https://remoteOK.com/remote-jobs/remote-client-advisor-toptal-1137439",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137434",
@@ -3148,66 +3170,6 @@
       "category": "exec",
       "postedDate": "2026-07-31",
       "url": "https://remoteOK.com/remote-jobs/remote-regional-general-manager-airports-westjet-1135745",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1135681",
-      "title": "Growth Strategist",
-      "company": "Lyric",
-      "location": "Remote",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "marketing",
-        "design",
-        "embedded",
-        "technical",
-        "strategy",
-        "customer support",
-        "dev",
-        "travel",
-        "finance",
-        "exec",
-        "content writing",
-        "senior"
-      ],
-      "category": "marketing",
-      "postedDate": "2026-07-30",
-      "url": "https://remoteOK.com/remote-jobs/remote-growth-strategist-lyric-1135681",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1135697",
-      "title": "Administrative Assistant",
-      "company": "Viable Medical Solutions",
-      "location": "Greater Orlando",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "design",
-        "music",
-        "customer support",
-        "travel",
-        "video",
-        "exec",
-        "content writing",
-        "ops",
-        "marketing",
-        "ads",
-        "digital nomad",
-        "hr"
-      ],
-      "category": "design",
-      "postedDate": "2026-07-30",
-      "url": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-viable-medical-solutions-1135697",
       "source": "RemoteOK",
       "region": "foreign"
     }
