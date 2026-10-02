@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-02T06:46:23.696Z",
-  "count": 122,
+  "updated": "2026-10-02T13:39:49.502Z",
+  "count": 123,
   "sources": {
     "V2EX": 7,
     "RemoteOK": 99,
-    "Remotive": 16,
+    "Remotive": 17,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
@@ -182,6 +182,36 @@
       "postedDate": "2026-09-30",
       "url": "https://remoteOK.com/remote-jobs/remote-client-advisor-toptal-1137439",
       "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remotive-2091132",
+      "title": "Senior back-end Engineer",
+      "company": "Lemon.io",
+      "location": "Europe, USA, UK, Canada, Australia, Ireland, Switzerland, Singapore, Mexico, Iceland, Norway",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        ".Net",
+        "android",
+        "C",
+        "C#",
+        "C++",
+        "data science",
+        "golang",
+        "ios",
+        "java",
+        "javascript",
+        "kubernetes",
+        "node.js"
+      ],
+      "category": "Software Development",
+      "postedDate": "2026-09-30",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132",
+      "source": "Remotive",
       "region": "foreign"
     },
     {
