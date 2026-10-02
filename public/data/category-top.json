@@ -1,6 +1,18 @@
 {
   "AI": [
     {
+      "id": "f8f9945809c1",
+      "title": "Sean Parker is rebuilding Stability AI around music",
+      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "summary": "Sean Parker is rebuilding Stability AI around music",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-02T21:09:14.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024",
+      "score": 80,
+      "tags": []
+    },
+    {
       "id": "0b1cf3414054",
       "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
       "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
@@ -9,7 +21,7 @@
       "category": "AI",
       "published": "2026-10-02T17:00:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Circuit-Labs-founders-2.jpeg?resize=1200,1037",
-      "score": 80,
+      "score": 75,
       "tags": []
     },
     {
@@ -21,7 +33,7 @@
       "category": "AI",
       "published": "2026-10-02T15:39:41.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2025/06/Screenshot-2025-06-18-at-10.00.59AM.png?w=950",
-      "score": 80,
+      "score": 75,
       "tags": []
     },
     {
@@ -47,18 +59,6 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297764008.jpg?w=1024",
       "score": 70,
       "tags": []
-    },
-    {
-      "id": "03c99bd3ec42",
-      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
-      "summary": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-02T17:32:05.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/TCD26_1-Jas-Khaira_Speaker-16x9-Dark.png?resize=1200,675",
-      "score": 70,
-      "tags": []
     }
   ],
   "科技": [
@@ -71,19 +71,19 @@
       "category": "科技",
       "published": "2026-10-02T15:53:50.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/skydance.jpg?resize=1200,504",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
-      "id": "3acf4b0fefe7",
-      "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
-      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
-      "summary": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
+      "id": "ca751af23b3a",
+      "title": "Affected by layoffs? Don&#8217;t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+      "url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+      "summary": "Affected by layoffs。 Don&#8217;t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-10-02T14:30:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/TCD26_1-Kareem-Amin_Speaker-16x9-Dark.png?resize=1200,675",
-      "score": 75,
+      "published": "2026-10-02T19:15:51.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/05/breakout_1200x600.png?w=1200",
+      "score": 65,
       "tags": []
     },
     {
@@ -95,29 +95,26 @@
       "category": "科技",
       "published": "2026-10-02T15:31:20.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/laytr2.jpg?resize=1200,738",
-      "score": 65,
+      "score": 60,
       "tags": []
+    },
+    {
+      "id": "3acf4b0fefe7",
+      "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
+      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-10-02T14:30:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/TCD26_1-Kareem-Amin_Speaker-16x9-Dark.png?resize=1200,675"
     },
     {
       "id": "8e45888a0af6",
       "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
       "url": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
-      "summary": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
       "source": "TechCrunch",
       "category": "科技",
       "published": "2026-10-02T14:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/07/expo_hall.png?resize=1200,675",
-      "score": 65,
-      "tags": []
-    },
-    {
-      "id": "45015fc51065",
-      "title": "Less than 24 hours to apply for a  Side Event at Founder Summit 2026",
-      "url": "https://techcrunch.com/2026/10/02/less-than-24-hours-to-apply-for-a-side-event-at-founder-summit-2026/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-10-02T14:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55522542519_2c01b6b734_o.jpg?resize=1200,800"
+      "image": "https://techcrunch.com/wp-content/uploads/2023/07/expo_hall.png?resize=1200,675"
     }
   ],
   "就业": [
@@ -134,14 +131,25 @@
       "tags": []
     },
     {
-      "id": "b092769d8a9a",
-      "title": "报告：生物医药人才结构加速迭代，AI跨界复合型人才成行业刚需",
-      "url": "https://www.sohu.com/a/1070446361_119778",
-      "summary": "政策红利持续释放，筑牢产业人才发展根基。今年国务院印发的《国民健康“十五五”规划》，首次提出全链条支持创新药与医疗器械发展，重点推动人工智能赋能医药全产业链升级",
+      "id": "61c1fb8ac6bc",
+      "title": "秋招新现象：求职者AI反向背调盛行，虚假招聘套路升级",
+      "url": "https://www.msn.cn/zh-cn/news/other/秋招新现象-求职者ai反向背调盛行-虚假招聘套路升级/ar-AA2dd17c",
+      "summary": "近日，人力资源服务商前程无忧51job基于《2026校园招聘白皮书》最新调研数据及平台治理中发现的最新情况，梳理出本届秋招中毕业生尤其需要关注的新变化及“避坑点”，发布《2027届毕业生秋招提示》，帮",
+      "source": "Bing·秋招",
+      "category": "就业",
+      "published": "2026-09-29T02:57:21.000Z",
+      "image": "",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "bd1e87cc0b61",
+      "title": "2026产品经理生死线：AI原生进化或致职业断崖！AI产品经理必备学习 ...",
+      "url": "https://blog.csdn.net/Trb701012/article/details/166465322",
+      "summary": "文章浏览阅读941次。AI大模型的发展不是“替代人类”，而是“重塑职业价值”——它淘汰的是重复性、低附加值的工作，却催生了更多需要“技术+业务”交叉能力的高端岗位",
       "source": "就业报告",
       "category": "就业",
-      "published": "2026-09-01T07:49:00.000Z",
-      "image": "//q6.itc.cn/q_70/images03/20260901/6e1f714e8c7141dea5764d5de536f40a.jpeg",
+      "published": "2026-09-23T03:43:00.000Z",
       "score": 60,
       "tags": []
     },
@@ -154,17 +162,6 @@
       "category": "就业",
       "published": "2026-09-30T04:23:00.000Z",
       "image": "//q7.itc.cn/images01/20260930/a6ea526b989e4d6f87e9c9839b51f302.jpeg",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "bd1e87cc0b61",
-      "title": "2026产品经理生死线：AI原生进化或致职业断崖！AI产品经理必备学习 ...",
-      "url": "https://blog.csdn.net/Trb701012/article/details/166465322",
-      "summary": "文章浏览阅读941次。AI大模型的发展不是“替代人类”，而是“重塑职业价值”——它淘汰的是重复性、低附加值的工作，却催生了更多需要“技术+业务”交叉能力的高端岗位",
-      "source": "产品经理·就业分析",
-      "category": "就业",
-      "published": "2026-09-23T03:43:00.000Z",
       "score": 60,
       "tags": []
     },
@@ -183,6 +180,18 @@
   ],
   "开发": [
     {
+      "id": "0a74d6d3d955",
+      "title": "谷歌开源面向自主 AI 代理的 Kubernetes 风格编排器 AX",
+      "url": "https://www.infoq.cn/article/M6BRTrsyJvUg8y0M0kyh?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/M6BRTrsyJvUg8y0M0kyh",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-30T20:40:07.000Z",
+      "image": "https://static001.infoq.cn/resource/image/b5/yy/b52691c5582736585d4873c291723byy.jpg",
+      "score": 60,
+      "tags": []
+    },
+    {
       "id": "7e5fd7bb779f",
       "title": "AIGC 驱动的内容生产力变革--Vidu 多模态大模型的创新与实践｜QCon上海",
       "url": "https://www.infoq.cn/article/OBQpdcB1xURrJMRlrJZ1?utm_source=rss&amp;utm_medium=article",
@@ -195,6 +204,30 @@
       "tags": []
     },
     {
+      "id": "a6cc69a5d0c0",
+      "title": "GitLab Duo 通过微软 Foundry 扩展自托管 AI 选项",
+      "url": "https://www.infoq.cn/article/cA9rSEGKphbJHIiTQKMv?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/cA9rSEGKphbJHIiTQKMv",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-30T20:37:48.000Z",
+      "image": "https://static001.infoq.cn/resource/image/59/a2/59798fyy5496549c6634e8eef4ae21a2.jpg",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "bedb62e31825",
+      "title": "DeepSeek 开源昇腾平台基础设施组件，覆盖 TileLang、计算库与分布式通信库",
+      "url": "https://www.infoq.cn/article/t5i2Yv2z0LwIbK36lteR?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/t5i2Yv2z0LwIbK36lteR",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-09-30T19:40:16.000Z",
+      "image": "https://static001.infoq.cn/resource/image/90/26/90b5fca01654b1641e6aaba83895b026.png",
+      "score": 55,
+      "tags": []
+    },
+    {
       "id": "9818929f9556",
       "title": "Changesets 3.0 发布：对等依赖下游包默认升补丁版本，纯 ESM 发布，安装体积缩减 88%",
       "url": "https://www.infoq.cn/article/JEw7578VW84g7wmh75gM?utm_source=rss&amp;utm_medium=article",
@@ -203,42 +236,6 @@
       "category": "开发",
       "published": "2026-09-30T15:25:27.000Z",
       "image": "https://static001.infoq.cn/resource/image/d8/c2/d848f30d6075bed379a0823269eabdc2.jpg",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "0dc822c2ced0",
-      "title": "从 AI 试点到营收增长：Snowflake 销售与营销团队如何跨越落地鸿沟 ｜ 技术实践",
-      "url": "https://www.infoq.cn/article/hw3PpM2ZlCmCArsNo1y7?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/hw3PpM2ZlCmCArsNo1y7",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-30T15:12:35.000Z",
-      "image": "https://static001.infoq.cn/resource/image/5a/c0/5a5038223fb1da267b5c5b7a6093yyc0.jpeg",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "d4872c7aa6fa",
-      "title": "一个忘关的开关，与企业Agent的全栈技术账单",
-      "url": "https://www.infoq.cn/article/z9VP6ZQ3vCxTrk1VdU5D?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/z9VP6ZQ3vCxTrk1VdU5D",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-30T12:10:15.000Z",
-      "image": "https://static001.infoq.cn/resource/image/f4/00/f4ce12292b55fe73ce36b74c14c1a500.jpeg",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "8f93aa033b2f",
-      "title": "首发！openJiuwen workSwarm全双工多模态 ，像聊天一样与Agent交互，昇腾算力原生亲和",
-      "url": "https://www.infoq.cn/article/fOuaRtwuySyZsS0iGg7N?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/fOuaRtwuySyZsS0iGg7N",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-30T11:52:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/79/0f/79e0d6805068a04cf970a43323d0570f.jpg",
       "score": 55,
       "tags": []
     }
@@ -307,18 +304,6 @@
   ],
   "政策": [
     {
-      "id": "7fe42e3a7ebf",
-      "title": "@大学生 湖南新政策！最高可贷50万元，50%财政贴息",
-      "url": "https://i.ifeng.com/c/8wWPjS4YjCn",
-      "summary": "近日，湖南省出台《关于进一步优化创业担保贷款政策 全力支持大学生等重点群体创业的通知》，扩大创业担保贷款覆盖范围、提高贷款额度、降低融资成本，拿出实打实举措，强化在湘创业大学生金融支撑，助力青年创新创",
-      "source": "就业创业政策",
-      "category": "政策",
-      "published": "2026-09-18T01:05:00.000Z",
-      "image": "",
-      "score": 55,
-      "tags": []
-    },
-    {
       "id": "305387d163cc",
       "title": "最高可贷50万元，湖南优化政策为大学生创业送上金融“活水”",
       "url": "https://news.qq.com/rain/a/20260918A057B200",
@@ -326,6 +311,18 @@
       "source": "就业创业政策",
       "category": "政策",
       "published": "2026-09-18T04:59:00.000Z",
+      "image": "",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "7fe42e3a7ebf",
+      "title": "@大学生 湖南新政策！最高可贷50万元，50%财政贴息",
+      "url": "https://i.ifeng.com/c/8wWPjS4YjCn",
+      "summary": "近日，湖南省出台《关于进一步优化创业担保贷款政策 全力支持大学生等重点群体创业的通知》，扩大创业担保贷款覆盖范围、提高贷款额度、降低融资成本，拿出实打实举措，强化在湘创业大学生金融支撑，助力青年创新创",
+      "source": "就业创业政策",
+      "category": "政策",
+      "published": "2026-09-18T01:05:00.000Z",
       "image": "",
       "score": 55,
       "tags": []
@@ -343,14 +340,14 @@
       "tags": []
     },
     {
-      "id": "f3fa088e98a3",
-      "title": "就’在湘西‘创’青春”| 2026年湖南省大学生创业就业法律知识宣讲 ...",
-      "url": "https://www.sohu.com/a/1081960836_121106908",
-      "summary": "近日，“就”在湘西 “创”青春——2026年湖南省大学生创业就业法律知识宣讲活动（湘西站）在吉首大学和湘西民族职业技术学院举行。 本次活动由共青团湖南省委员会主办，共青团湘西州委员会、共青团吉首大学委",
+      "id": "a4ed072a5046",
+      "title": "快乐向前冲，就业有未来！2026年劳动力调查和就业政策进校园宣传 ...",
+      "url": "https://news.qq.com/rain/a/20260929A0C8KR00",
+      "summary": "青春正燃，就业有未来。9月23日，2026年劳动力调查和就业政策进校园宣传服务活动首站走进济宁学院，热力开场",
       "source": "Bing·大学生就业政策",
       "category": "政策",
-      "published": "2026-09-28T11:26:00.000Z",
-      "image": "https://q0.itc.cn/q_70/images03/20260928/3793a0ecd02d4f2e8dac2b186ae2724c.png",
+      "published": "2026-09-29T12:39:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/OxLYjIsMrp9UpxEGnyIZRgjfSMjRbD-CFWvTXW6Dl98F4AA_640330/0",
       "score": 50,
       "tags": []
     },
@@ -368,6 +365,15 @@
     }
   ],
   "财经": [
+    {
+      "id": "f10418b17606",
+      "title": "国庆假期第二天全社会跨区域人员流动量超3亿人次",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707347.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-10-02T22:49:45.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
     {
       "id": "70a95d566b7c",
       "title": "万亿级车轮经济跑出新动能",
@@ -402,15 +408,6 @@
       "source": "中新网财经",
       "category": "财经",
       "published": "2026-10-02T12:43:12.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "613dc97a8362",
-      "title": "国内首艘氨燃料特种气体运输船“安德烈”轮国庆首航",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-02/10707240.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-10-02T10:23:56.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
