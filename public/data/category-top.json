@@ -1,54 +1,4 @@
 {
-  "AI": [
-    {
-      "id": "6b3471ffae71",
-      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-      "summary": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-03T16:30:01.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "6ae30ec75fda",
-      "title": "All the AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "summary": "All the AI agents that can live in your text messages",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-03T14:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "f8f9945809c1",
-      "title": "Sean Parker is rebuilding Stability AI around music",
-      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-      "summary": "Sean Parker is rebuilding Stability AI around music",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-02T21:09:14.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "debadb1b6261",
-      "title": "Spotify billionaire’s body scan startup has come to America",
-      "url": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
-      "summary": "Spotify billionaire’s body scan startup has come to America",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-03T14:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/09/Neko-Health-Marylebone-3.jpg?resize=1200,900",
-      "score": 70,
-      "tags": []
-    }
-  ],
   "科技": [
     {
       "id": "0b303479eb8c",
@@ -107,6 +57,56 @@
       "category": "科技",
       "published": "2026-10-03T00:21:57.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/flock-protest.jpg?resize=1131,1200",
+      "score": 70,
+      "tags": []
+    }
+  ],
+  "AI": [
+    {
+      "id": "6b3471ffae71",
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "summary": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-03T16:30:01.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "6ae30ec75fda",
+      "title": "All the AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "summary": "All the AI agents that can live in your text messages",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-03T14:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "debadb1b6261",
+      "title": "Spotify billionaire’s body scan startup has come to America",
+      "url": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
+      "summary": "Spotify billionaire’s body scan startup has come to America",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-03T14:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/09/Neko-Health-Marylebone-3.jpg?resize=1200,900",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "f8f9945809c1",
+      "title": "Sean Parker is rebuilding Stability AI around music",
+      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "summary": "Sean Parker is rebuilding Stability AI around music",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-02T21:09:14.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024",
       "score": 70,
       "tags": []
     }
@@ -284,14 +284,14 @@
       "tags": []
     },
     {
-      "id": "79d3290cfd34",
-      "title": "基层动态 | 内江市：做实就业公共服务，助推高校毕业生就业攻坚提 ...",
-      "url": "https://www.sohu.com/a/1082707605_121106884",
-      "summary": "为贯彻落实省委、省政府2026年高校毕业生等青年就业服务攻坚行动部署，内江市迅即启动以 “服务不断线 攻坚促就业” 为主题的高校毕业生就业攻坚行动，制定《2026年离校未就业高校毕业生等失业青年就业创",
-      "source": "Bing·高校毕业生就业创业政策",
+      "id": "f3fa088e98a3",
+      "title": "就’在湘西‘创’青春”| 2026年湖南省大学生创业就业法律知识宣讲 ...",
+      "url": "https://www.sohu.com/a/1081960836_121106908",
+      "summary": "近日，“就”在湘西 “创”青春——2026年湖南省大学生创业就业法律知识宣讲活动（湘西站）在吉首大学和湘西民族职业技术学院举行。 本次活动由共青团湖南省委员会主办，共青团湘西州委员会、共青团吉首大学委",
+      "source": "Bing·大学生就业政策",
       "category": "政策",
-      "published": "2026-09-30T07:00:00.000Z",
-      "image": "https://q9.itc.cn/q_70/images03/20260930/85049868b0cb45c9836ed0d2b1ad7863.png",
+      "published": "2026-09-28T11:26:00.000Z",
+      "image": "https://q0.itc.cn/q_70/images03/20260928/3793a0ecd02d4f2e8dac2b186ae2724c.png",
       "score": 50,
       "tags": []
     }

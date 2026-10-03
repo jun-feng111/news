@@ -1,17 +1,5 @@
 [
   {
-    "id": "6b3471ffae71",
-    "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-    "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-    "summary": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-    "source": "TechCrunch",
-    "category": "AI",
-    "published": "2026-10-03T16:30:01.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-    "score": 80,
-    "tags": []
-  },
-  {
     "id": "0b303479eb8c",
     "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
     "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
@@ -36,6 +24,18 @@
     "tags": []
   },
   {
+    "id": "6b3471ffae71",
+    "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+    "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+    "summary": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+    "source": "TechCrunch",
+    "category": "AI",
+    "published": "2026-10-03T16:30:01.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+    "score": 75,
+    "tags": []
+  },
+  {
     "id": "6ae30ec75fda",
     "title": "All the AI agents that can live in your text messages",
     "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
@@ -44,18 +44,6 @@
     "category": "AI",
     "published": "2026-10-03T14:00:00.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
-    "score": 75,
-    "tags": []
-  },
-  {
-    "id": "f8f9945809c1",
-    "title": "Sean Parker is rebuilding Stability AI around music",
-    "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-    "summary": "Sean Parker is rebuilding Stability AI around music",
-    "source": "TechCrunch",
-    "category": "AI",
-    "published": "2026-10-02T21:09:14.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024",
     "score": 75,
     "tags": []
   },
@@ -108,14 +96,26 @@
     "tags": []
   },
   {
-    "id": "5a0a0ddb0806",
-    "title": "Jack Dorsey&#8217;s Bitchat disappears from app stores in India after government order",
-    "url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
-    "summary": "Jack Dorsey&#8217;s Bitchat disappears from app stores in India after government order",
+    "id": "f8f9945809c1",
+    "title": "Sean Parker is rebuilding Stability AI around music",
+    "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+    "summary": "Sean Parker is rebuilding Stability AI around music",
     "source": "TechCrunch",
-    "category": "科技",
-    "published": "2026-10-03T15:02:01.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/bitchat-unavailable-india-techcrunch.jpg?resize=1200,800",
+    "category": "AI",
+    "published": "2026-10-02T21:09:14.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024",
+    "score": 70,
+    "tags": []
+  },
+  {
+    "id": "c76b56413d4a",
+    "title": "AI人才缺口超500万！有最新报告称，AI抢人逻辑悄悄变了：架构师新发 ...",
+    "url": "https://news.qq.com/rain/a/20260718A08XHR00",
+    "summary": "人才缺口500万，大厂抢得最凶的不是算法工程师，架构师新发职位同比大涨近八成。懂提示词和人机训练岗位的文科生，平均年薪达到34",
+    "source": "就业报告",
+    "category": "就业",
+    "published": "2026-07-18T11:05:00.000Z",
+    "image": "https://inews.gtimg.com/om_ls/Ows_BB25Bhnf-wlGWgFoIkmLSVd_6MJWCT8-yw6C3HS10AA_640330/0",
     "score": 65,
     "tags": []
   }
