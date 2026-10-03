@@ -1,14 +1,31 @@
 {
-  "updated": "2026-10-03T07:42:08.570Z",
-  "count": 123,
+  "updated": "2026-10-03T13:06:37.731Z",
+  "count": 122,
   "sources": {
     "V2EX": 7,
     "RemoteOK": 99,
-    "Remotive": 17,
+    "Remotive": 16,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1246294",
+      "title": "大家有什么离开码农岗位能保持一定稳定收入的事业？",
+      "company": "guanxue",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [],
+      "category": "其他",
+      "postedDate": "2026-10-03",
+      "url": "https://www.v2ex.com/t/1246294",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1245910",
       "title": "SHEIN 内推：算法/大模型/后端/数据/安全/测试/iOS， 20-80K",
@@ -127,23 +144,34 @@
       "region": "domestic"
     },
     {
-      "id": "v2ex-1245328",
-      "title": "海外数据运营(远程/深圳全职) 8k-12k",
-      "company": "solecc",
-      "location": "招聘",
+      "id": "remoteok-1137460",
+      "title": "Junior Crypto Analyst & Trader",
+      "company": "Empire Assets",
+      "location": "Remote",
       "remote": true,
       "salaryText": "",
       "salaryMin": null,
       "salaryMax": null,
-      "salaryCurrency": "CNY",
+      "salaryCurrency": "",
       "skills": [
-        "go"
+        "crypto",
+        "finance",
+        "trader",
+        "remote",
+        "part time",
+        "full time",
+        "web3",
+        "bitcoin",
+        "ethereum",
+        "blockchain",
+        "defi",
+        "work from home"
       ],
-      "category": "数据",
-      "postedDate": "2026-09-28",
-      "url": "https://www.v2ex.com/t/1245328",
-      "source": "V2EX",
-      "region": "domestic"
+      "category": "crypto",
+      "postedDate": "2026-10-02",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137460",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137451",
@@ -602,29 +630,6 @@
       "category": "front end",
       "postedDate": "2026-09-20",
       "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137409",
-      "title": "Backend Software Engineer",
-      "company": "Airspace Link",
-      "location": "Remote",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "golang",
-        "dev",
-        "engineer",
-        "backend",
-        "digital nomad"
-      ],
-      "category": "golang",
-      "postedDate": "2026-09-19",
-      "url": "https://remoteOK.com/remote-jobs/remote-backend-software-engineer-airspace-link-1137409",
       "source": "RemoteOK",
       "region": "foreign"
     },
@@ -1533,34 +1538,6 @@
       "category": "Writing",
       "postedDate": "2026-09-04",
       "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
-      "source": "Remotive",
-      "region": "foreign"
-    },
-    {
-      "id": "remotive-1749306",
-      "title": "Freelance Copywriter",
-      "company": "Coalition Technologies",
-      "location": "Worldwide",
-      "remote": true,
-      "salaryText": "$20k -$35k",
-      "salaryMin": 20000,
-      "salaryMax": 35000,
-      "salaryCurrency": "USD",
-      "skills": [
-        "accounting",
-        "excel",
-        "research",
-        "data analysis",
-        "bookkeeping",
-        "google sheets",
-        "quickbooks",
-        "data entry",
-        "insurance",
-        "G Suite"
-      ],
-      "category": "Writing",
-      "postedDate": "2026-09-02",
-      "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
       "source": "Remotive",
       "region": "foreign"
     },

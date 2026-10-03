@@ -122,23 +122,11 @@
   ],
   "就业": [
     {
-      "id": "5c442ae016a2",
-      "title": "前程无忧：AI岗位平均月薪2.5万元 算法岗招聘近八成 多数要求5-10年 ...",
-      "url": "https://finance.sina.com.cn/stock/bxjj/2026-07-14/doc-inihuhka8550670.shtml",
-      "summary": "格隆汇7月14日｜前程无忧51job基于平台近一年招聘与求职数据发布《2026人工智能人才洞察》。数据显示，民营企业贡献近六成岗位，头部企业人才需求量居于前列，超千人规模的大型企业职位发布量增速位居第",
-      "source": "算法工程师·就业分析",
-      "category": "就业",
-      "published": "2026-07-14T09:55:00.000Z",
-      "image": "https://n.sinaimg.cn/finance/cece9e13/20240627/655959900_20240627.png",
-      "score": 65,
-      "tags": []
-    },
-    {
       "id": "c76b56413d4a",
       "title": "AI人才缺口超500万！有最新报告称，AI抢人逻辑悄悄变了：架构师新发 ...",
       "url": "https://news.qq.com/rain/a/20260718A08XHR00",
       "summary": "人才缺口500万，大厂抢得最凶的不是算法工程师，架构师新发职位同比大涨近八成。懂提示词和人机训练岗位的文科生，平均年薪达到34",
-      "source": "算法工程师·就业分析",
+      "source": "就业报告",
       "category": "就业",
       "published": "2026-07-18T11:05:00.000Z",
       "image": "https://inews.gtimg.com/om_ls/Ows_BB25Bhnf-wlGWgFoIkmLSVd_6MJWCT8-yw6C3HS10AA_640330/0",
@@ -146,25 +134,25 @@
       "tags": []
     },
     {
-      "id": "bd1e87cc0b61",
-      "title": "2026产品经理生死线：AI原生进化或致职业断崖！AI产品经理必备学习 ...",
-      "url": "https://blog.csdn.net/Trb701012/article/details/166465322",
-      "summary": "文章浏览阅读941次。AI大模型的发展不是“替代人类”，而是“重塑职业价值”——它淘汰的是重复性、低附加值的工作，却催生了更多需要“技术+业务”交叉能力的高端岗位",
+      "id": "7964f9bfde02",
+      "title": "FDE工程师和传统程序员，2026年谁更抢手",
+      "url": "https://www.sohu.com/a/1082572843_122941499",
+      "summary": "同样的工程背景，放在不同的岗位上，市场给出的定价正在拉开差距。综合多平台数据判断，2026 年更抢手的是 FDE（前线部署工程师），而不是传统意义上的程序员",
       "source": "就业报告",
       "category": "就业",
-      "published": "2026-09-23T03:43:00.000Z",
+      "published": "2026-09-30T04:23:00.000Z",
+      "image": "//q7.itc.cn/images01/20260930/a6ea526b989e4d6f87e9c9839b51f302.jpeg",
       "score": 60,
       "tags": []
     },
     {
-      "id": "e9b1678267d0",
-      "title": "AI项目管理人才为什么薪资高？大模型落地缺的是懂技术又懂交付的人",
-      "url": "https://www.sohu.com/a/1082212866_99999728",
-      "summary": "打开招聘平台，AI相关岗位的数量在过去一年里发生了明显变化。2026年春招数据显示，AI领域岗位量同比增长8",
-      "source": "就业报告",
+      "id": "bd1e87cc0b61",
+      "title": "2026产品经理生死线：AI原生进化或致职业断崖！AI产品经理必备学习 ...",
+      "url": "https://blog.csdn.net/Trb701012/article/details/166465322",
+      "summary": "文章浏览阅读941次。AI大模型的发展不是“替代人类”，而是“重塑职业价值”——它淘汰的是重复性、低附加值的工作，却催生了更多需要“技术+业务”交叉能力的高端岗位",
+      "source": "产品经理·就业分析",
       "category": "就业",
-      "published": "2026-09-29T07:07:00.000Z",
-      "image": "//q0.itc.cn/images01/20260929/7cb5bf061d3e4ca2bd952244c3e02614.jpeg",
+      "published": "2026-09-23T03:43:00.000Z",
       "score": 60,
       "tags": []
     },
@@ -179,9 +167,45 @@
       "image": "",
       "score": 55,
       "tags": []
+    },
+    {
+      "id": "a873e3b79d5f",
+      "title": "街镇直通车 |“‘五’限机遇，‘里’启新职”应届生专场招聘会 ...",
+      "url": "http://sh.xinhuanet.com/20260928/23ce5e2364594c5a90683bd948b338c2/c.html",
+      "summary": "为保障应届生求职渠道稳定畅通，精准匹配企业人才招募需求，搭建高效、直接的供需沟通桥梁。9月16日上午，“‘五’限机遇，‘里’启新职”应届生专场招聘活动在五里桥街道党群服务中心拉开帷幕，活动为应届毕业生",
+      "source": "Bing·应届生求职",
+      "category": "就业",
+      "published": "2026-09-28T09:48:00.000Z",
+      "image": "http://www.news.cn/detail2020/images/ewm.png",
+      "score": 55,
+      "tags": []
     }
   ],
   "开发": [
+    {
+      "id": "e437b34f5022",
+      "title": "刚刚，Gemini 4 Argon 发布：多项基测碾压 GPT-6 Astra，已参与谷歌 80 万行内核代码迁移",
+      "url": "https://www.infoq.cn/article/vVrSzjhEvkmpevS7wZzU?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/vVrSzjhEvkmpevS7wZzU",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-10-01T11:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/9c/67/9c31523e5de0931347e61d763e5d4267.jpg",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "e1935f379018",
+      "title": "生成即合规：Agentic AIGC 驱动的广告素材修复实践｜QCon上海",
+      "url": "https://www.infoq.cn/article/TLjNcyBg9Z72HV5kJ2kp?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/TLjNcyBg9Z72HV5kJ2kp",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-10-01T10:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/29/ef/2907e084802a80c877472afdeb66b3ef.jpg",
+      "score": 60,
+      "tags": []
+    },
     {
       "id": "0a74d6d3d955",
       "title": "谷歌开源面向自主 AI 代理的 Kubernetes 风格编排器 AX",
@@ -217,30 +241,6 @@
       "image": "https://static001.infoq.cn/resource/image/59/a2/59798fyy5496549c6634e8eef4ae21a2.jpg",
       "score": 55,
       "tags": []
-    },
-    {
-      "id": "bedb62e31825",
-      "title": "DeepSeek 开源昇腾平台基础设施组件，覆盖 TileLang、计算库与分布式通信库",
-      "url": "https://www.infoq.cn/article/t5i2Yv2z0LwIbK36lteR?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/t5i2Yv2z0LwIbK36lteR",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-30T19:40:16.000Z",
-      "image": "https://static001.infoq.cn/resource/image/90/26/90b5fca01654b1641e6aaba83895b026.png",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "9818929f9556",
-      "title": "Changesets 3.0 发布：对等依赖下游包默认升补丁版本，纯 ESM 发布，安装体积缩减 88%",
-      "url": "https://www.infoq.cn/article/JEw7578VW84g7wmh75gM?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/JEw7578VW84g7wmh75gM",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-09-30T15:25:27.000Z",
-      "image": "https://static001.infoq.cn/resource/image/d8/c2/d848f30d6075bed379a0823269eabdc2.jpg",
-      "score": 55,
-      "tags": []
     }
   ],
   "社会": [
@@ -254,6 +254,18 @@
       "published": "2026-09-28T11:43:57.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 55,
+      "tags": []
+    },
+    {
+      "id": "9a27a464f8da",
+      "title": "中澳学者在沪共论AI时代设计教育新范式",
+      "url": "https://www.chinanews.com.cn/edu/2026/10-01/10706786.shtml",
+      "summary": "中新网上海10月1日电 (记者 许婧)9月30日，2026世界设计之都大会配套活动“匠心与算力”中澳设计教育论坛在上海举办。中国与澳大利亚学界、产业界专家齐聚一堂，围绕匠心传承与人工智能(AI)赋能，",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-10-01T09:03:17.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
       "tags": []
     },
     {
@@ -288,18 +300,6 @@
       "source": "中新网教育",
       "category": "社会",
       "published": "2026-09-30T12:31:37.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "26d262b89b62",
-      "title": "探索清廉金融教育新路径 上海财大成立财经纪检监察研究院",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-30/10706396.shtml",
-      "summary": "中新网上海9月30日电 (记者 许婧)上海财经大学财经纪检监察研究院(下称：研究院)成立大会暨清廉金融文化教育联盟2026年会29日在上海财经大学举办。本次会议由上海财经大学主办，汇聚多方力量，探索具",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-09-30T10:12:18.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 50,
       "tags": []
@@ -355,62 +355,62 @@
       "tags": []
     },
     {
-      "id": "f5cb39eaf8f6",
-      "title": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
-      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202606/t20260602_1438600.html",
-      "summary": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
-      "source": "教育部",
+      "id": "79d3290cfd34",
+      "title": "基层动态 | 内江市：做实就业公共服务，助推高校毕业生就业攻坚提 ...",
+      "url": "https://www.sohu.com/a/1082707605_121106884",
+      "summary": "为贯彻落实省委、省政府2026年高校毕业生等青年就业服务攻坚行动部署，内江市迅即启动以 “服务不断线 攻坚促就业” 为主题的高校毕业生就业攻坚行动，制定《2026年离校未就业高校毕业生等失业青年就业创",
+      "source": "Bing·高校毕业生就业创业政策",
       "category": "政策",
-      "published": "2026-06-02T00:00:00.000Z",
-      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+      "published": "2026-09-30T07:00:00.000Z",
+      "image": "https://q9.itc.cn/q_70/images03/20260930/85049868b0cb45c9836ed0d2b1ad7863.png",
       "score": 50,
       "tags": []
     }
   ],
   "财经": [
     {
-      "id": "b9c596ddb388",
-      "title": "（走进中国乡村）金秋蟹肥　黄河大闸蟹香飘海内外",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707466.shtml",
+      "id": "c416839ae8e4",
+      "title": "以会促产 江西瑞昌全力打造智能疏浚产业集群",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707624.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-03T07:35:16.000Z",
+      "published": "2026-10-03T13:01:09.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "413aa95f27f1",
-      "title": "中国对原产于欧盟的进口对硝基甲苯发起反倾销调查",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707463.shtml",
+      "id": "a32c2030230b",
+      "title": "浙江高速服务区焕新迎客 交旅融合激活假日消费",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707606.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-03T07:33:36.000Z",
+      "published": "2026-10-03T12:33:31.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "75f47bf687f5",
-      "title": "浙江金华美妆出口：从“提篮小卖”到 “链通全球”",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707469.shtml",
+      "id": "b4311f30ad5b",
+      "title": "西部陆海新通道核心物流节点柳州铁路港国庆假期调车忙",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707590.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-03T07:32:18.000Z",
+      "published": "2026-10-03T11:37:19.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "5ddc26e79dfd",
-      "title": "2026年中国电影年度票房突破300亿元",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707479.shtml",
+      "id": "99cbb6bfefa2",
+      "title": "福建厦门构筑育成生态助力科研成果“落地生金”",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707567.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-03T07:32:08.000Z",
+      "published": "2026-10-03T11:13:18.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "6d341ce98ad0",
-      "title": "中国年轻人“拼长假” “跳城游”火了",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707482.shtml",
+      "id": "cea9000c1a6c",
+      "title": "“星辰+黄金”碰撞出新火花 吉林博物馆游持续升温",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707581.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-03T07:24:37.000Z",
+      "published": "2026-10-03T11:10:40.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
