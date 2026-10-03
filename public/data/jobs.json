@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T22:58:11.387Z",
+  "updated": "2026-10-03T01:47:57.687Z",
   "count": 123,
   "sources": {
     "V2EX": 7,
@@ -1534,49 +1534,6 @@
       "postedDate": "2026-09-04",
       "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
       "source": "Remotive",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137302",
-      "title": "Customer Support & Success Specialist",
-      "company": "Warehance",
-      "location": "Remote",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "customer support"
-      ],
-      "category": "customer support",
-      "postedDate": "2026-09-03",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-success-specialist-warehance-1137302",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137279",
-      "title": "Regional Sales Manager",
-      "company": "OrderYOYO",
-      "location": "Remote",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "exec",
-        "customer support",
-        "marketing",
-        "scheme",
-        "mobile",
-        "sales"
-      ],
-      "category": "exec",
-      "postedDate": "2026-09-02",
-      "url": "https://remoteOK.com/remote-jobs/remote-regional-sales-manager-orderyoyo-1137279",
-      "source": "RemoteOK",
       "region": "foreign"
     },
     {
@@ -3220,6 +3177,66 @@
       "category": "exec",
       "postedDate": "2026-07-31",
       "url": "https://remoteOK.com/remote-jobs/remote-regional-general-manager-airports-westjet-1135745",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1135681",
+      "title": "Growth Strategist",
+      "company": "Lyric",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "marketing",
+        "design",
+        "embedded",
+        "technical",
+        "strategy",
+        "customer support",
+        "dev",
+        "travel",
+        "finance",
+        "exec",
+        "content writing",
+        "senior"
+      ],
+      "category": "marketing",
+      "postedDate": "2026-07-30",
+      "url": "https://remoteOK.com/remote-jobs/remote-growth-strategist-lyric-1135681",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1135697",
+      "title": "Administrative Assistant",
+      "company": "Viable Medical Solutions",
+      "location": "Greater Orlando",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "design",
+        "music",
+        "customer support",
+        "travel",
+        "video",
+        "exec",
+        "content writing",
+        "ops",
+        "marketing",
+        "ads",
+        "digital nomad",
+        "hr"
+      ],
+      "category": "design",
+      "postedDate": "2026-07-30",
+      "url": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-viable-medical-solutions-1135697",
       "source": "RemoteOK",
       "region": "foreign"
     }
