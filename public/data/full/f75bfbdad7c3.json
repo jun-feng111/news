@@ -1,0 +1,7 @@
+{
+  "id": "f75bfbdad7c3",
+  "title": "费马小定理 - 临夏an",
+  "url": "https://www.cnblogs.com/yhy2013/p/23190131",
+  "contentZh": "",
+  "contentFull": "\n定理\n若 \\(p\\) 是质数，且整数 \\(a\\) 满足 \\(\\boldsymbol{a \\not\\equiv 0 \\pmod p}\\)，则：\n\\[a^{p-1} \\equiv 1 \\pmod p\n\\]变形\n\n\n\\(a^{p-2} \\equiv a^{-1} \\pmod p\\)\n\n\n\\(a^b \\equiv a^{b \\bmod (p-1)} \\pmod p\\)\n\n\n\n前提：p为质数\n\n运用\n乘法逆元\n在模质数 \\(p\\) 意义下，除法不能直接算，要乘逆元：\n\\[\\frac{x}{y} \\pmod p = x \\times y^{-1} \\pmod p\n\\]由费马：\\(y^{-1}=y^{p-2}\\pmod p\\)，用快速幂计算。\n\n适用场景：组合数 \\(\\mathrm{C}_n^k \\bmod p\\)，p为质数。\n\n快速幂降幂\n求 \\(a^b \\bmod p\\)，当 \\(b\\) 极大，p质数，a、p互质：\n\\[a^b \\equiv a^{b \\bmod (p-1)} \\pmod p\n\\]素数测试\n随机选若干个a，检验 \\(a^{p-1}\\equiv1\\pmod p\\)\n满足大概率（存在伪素数）是质数，不满足一定是合数。\n\n模版\ntypedef long long ll;\nll qpow(ll a,ll b,ll mod){\n    ll res=1;\n    while(b){\n        if(b&1) res=res*a%mod;\n        a=a*a%mod;\n        b>>=1;\n    }\n    return res;\n}\n// 求a在模质数p下逆元\nll inv(ll a,ll p){\n    return qpow(a,p-2,p);\n}\n\n\n例题\nP2613\n题目：给出 \\(a,b,p\\)，求 \\(\\dfrac{a}{b} \\bmod 19260817\\)，\\(19260817\\)是质数。\n式子：\n\\[\\frac{a}{b} \\equiv a \\times b^{mod-2} \\pmod{mod}\n\\]片段：\nconst int mod=19260817;\nll a,b;\ncin>>a>>b;\nll ans=a%mod * qpow(b,mod-2,mod)%mod;\n\nP3811\n单点求逆元用费马快速幂\n但本题n范围大 \\(1\\le n\\le 3\\times10^6\\)，费马快速幂会TLE，要用线性递推逆元。\n\n\n"
+}

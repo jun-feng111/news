@@ -9,7 +9,7 @@
       "category": "AI",
       "published": "2026-10-02T21:09:14.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024",
-      "score": 80,
+      "score": 75,
       "tags": []
     },
     {
@@ -71,7 +71,7 @@
       "category": "科技",
       "published": "2026-10-03T00:45:39.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -83,7 +83,7 @@
       "category": "科技",
       "published": "2026-10-03T00:21:57.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/flock-protest.jpg?resize=1131,1200",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -122,18 +122,6 @@
   ],
   "就业": [
     {
-      "id": "c76b56413d4a",
-      "title": "AI人才缺口超500万！有最新报告称，AI抢人逻辑悄悄变了：架构师新发 ...",
-      "url": "https://news.qq.com/rain/a/20260718A08XHR00",
-      "summary": "人才缺口500万，大厂抢得最凶的不是算法工程师，架构师新发职位同比大涨近八成。懂提示词和人机训练岗位的文科生，平均年薪达到34",
-      "source": "就业报告",
-      "category": "就业",
-      "published": "2026-07-18T11:05:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/Ows_BB25Bhnf-wlGWgFoIkmLSVd_6MJWCT8-yw6C3HS10AA_640330/0",
-      "score": 65,
-      "tags": []
-    },
-    {
       "id": "5c442ae016a2",
       "title": "前程无忧：AI岗位平均月薪2.5万元 算法岗招聘近八成 多数要求5-10年 ...",
       "url": "https://finance.sina.com.cn/stock/bxjj/2026-07-14/doc-inihuhka8550670.shtml",
@@ -142,6 +130,18 @@
       "category": "就业",
       "published": "2026-07-14T09:55:00.000Z",
       "image": "https://n.sinaimg.cn/finance/cece9e13/20240627/655959900_20240627.png",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "c76b56413d4a",
+      "title": "AI人才缺口超500万！有最新报告称，AI抢人逻辑悄悄变了：架构师新发 ...",
+      "url": "https://news.qq.com/rain/a/20260718A08XHR00",
+      "summary": "人才缺口500万，大厂抢得最凶的不是算法工程师，架构师新发职位同比大涨近八成。懂提示词和人机训练岗位的文科生，平均年薪达到34",
+      "source": "算法工程师·就业分析",
+      "category": "就业",
+      "published": "2026-07-18T11:05:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/Ows_BB25Bhnf-wlGWgFoIkmLSVd_6MJWCT8-yw6C3HS10AA_640330/0",
       "score": 65,
       "tags": []
     },
@@ -157,26 +157,26 @@
       "tags": []
     },
     {
-      "id": "7964f9bfde02",
-      "title": "FDE工程师和传统程序员，2026年谁更抢手",
-      "url": "https://www.sohu.com/a/1082572843_122941499",
-      "summary": "同样的工程背景，放在不同的岗位上，市场给出的定价正在拉开差距。综合多平台数据判断，2026 年更抢手的是 FDE（前线部署工程师），而不是传统意义上的程序员",
+      "id": "e9b1678267d0",
+      "title": "AI项目管理人才为什么薪资高？大模型落地缺的是懂技术又懂交付的人",
+      "url": "https://www.sohu.com/a/1082212866_99999728",
+      "summary": "打开招聘平台，AI相关岗位的数量在过去一年里发生了明显变化。2026年春招数据显示，AI领域岗位量同比增长8",
       "source": "就业报告",
       "category": "就业",
-      "published": "2026-09-30T04:23:00.000Z",
-      "image": "//q7.itc.cn/images01/20260930/a6ea526b989e4d6f87e9c9839b51f302.jpeg",
+      "published": "2026-09-29T07:07:00.000Z",
+      "image": "//q0.itc.cn/images01/20260929/7cb5bf061d3e4ca2bd952244c3e02614.jpeg",
       "score": 60,
       "tags": []
     },
     {
-      "id": "25e1589382ed",
-      "title": "教育部启动2027届高校毕业生“金秋启航”校园招聘月活动；北京城市 ...",
-      "url": "https://www.sohu.com/a/1082281703_121124027",
-      "summary": "近期，国家及多地密集开展招才引智工作、升级人才政策，全方位完善人才引育留用体系。就业招聘方面，教育部启动2027届毕业生“金秋启航”招聘月，将开展超9000场招聘、投放超1200万个岗位",
-      "source": "Bing·校园招聘",
+      "id": "23a472ceecc8",
+      "title": "“Agent岗位太火了！”互联网大厂秋招抢人，业务团队现场发面试直通卡",
+      "url": "https://www.msn.cn/zh-cn/news/other/agent岗位太火了-互联网大厂秋招抢人-业务团队现场发面试直通卡/ar-AA2dgEY1",
+      "summary": "最厉害那一批人不受影响，越往下的求职者，受到的冲击越大",
+      "source": "Bing·秋招",
       "category": "就业",
-      "published": "2026-09-29T09:00:00.000Z",
-      "image": "https://q7.itc.cn/q_70/images03/20260929/b6967f9003864a07ac4550a25e66ba1b.jpeg",
+      "published": "2026-09-30T14:28:00.000Z",
+      "image": "",
       "score": 55,
       "tags": []
     }
@@ -257,6 +257,18 @@
       "tags": []
     },
     {
+      "id": "3c117bb03026",
+      "title": "西南大学代表团赴英国开展教育合作与学生交流",
+      "url": "https://www.chinanews.com.cn/edu/2026/10-01/10706613.shtml",
+      "summary": "中新网伦敦10月1日电 (欧阳开宇 卢映荷)西南大学代表团日前赴英国伦敦、剑桥、牛津等地，走访多所高校及教育机构，围绕合作办学、跨国教学项目和学生双向交流座谈，为西南地区学生对接国际教育资源，同时探索",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-10-01T02:17:13.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
+    },
+    {
       "id": "b79e1ab6367e",
       "title": "逾130岁韬奋楼修缮归来 钟声再响、历史样貌重现世间",
       "url": "https://www.chinanews.com.cn/edu/2026/09-30/10706541.shtml",
@@ -288,18 +300,6 @@
       "source": "中新网教育",
       "category": "社会",
       "published": "2026-09-30T10:12:18.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "eff45c88c663",
-      "title": "北京大学生艺术节艺术作品及艺术实践工作坊展览启幕",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-30/10706387.shtml",
-      "summary": "中新网北京9月30日电 (记者 陈杭)2026年北京大学生艺术节艺术作品及艺术实践工作坊展览29日在中国人民大学美术馆启幕。作为本届大学生艺术节重要板块，展览集中展现了首都高校落实学校美育浸润行动的生",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-09-30T09:58:25.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 50,
       "tags": []
@@ -355,62 +355,62 @@
       "tags": []
     },
     {
-      "id": "79d3290cfd34",
-      "title": "基层动态 | 内江市：做实就业公共服务，助推高校毕业生就业攻坚提 ...",
-      "url": "https://www.sohu.com/a/1082707605_121106884",
-      "summary": "为贯彻落实省委、省政府2026年高校毕业生等青年就业服务攻坚行动部署，内江市迅即启动以 “服务不断线 攻坚促就业” 为主题的高校毕业生就业攻坚行动，制定《2026年离校未就业高校毕业生等失业青年就业创",
-      "source": "Bing·高校毕业生就业创业政策",
+      "id": "f5cb39eaf8f6",
+      "title": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
+      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202606/t20260602_1438600.html",
+      "summary": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
+      "source": "教育部",
       "category": "政策",
-      "published": "2026-09-30T07:00:00.000Z",
-      "image": "https://q9.itc.cn/q_70/images03/20260930/85049868b0cb45c9836ed0d2b1ad7863.png",
+      "published": "2026-06-02T00:00:00.000Z",
+      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
       "score": 50,
       "tags": []
     }
   ],
   "财经": [
     {
-      "id": "07dc4c3d1351",
-      "title": "词元经济离大众消费还有多远",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707372.shtml",
+      "id": "b9c596ddb388",
+      "title": "（走进中国乡村）金秋蟹肥　黄河大闸蟹香飘海内外",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707466.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-03T01:31:05.000Z",
+      "published": "2026-10-03T07:35:16.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "500928d7cffc",
-      "title": "国庆假期第二天广东4A级及以上景区接待游客451.7万人次",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707361.shtml",
+      "id": "413aa95f27f1",
+      "title": "中国对原产于欧盟的进口对硝基甲苯发起反倾销调查",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707463.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-03T01:23:25.000Z",
+      "published": "2026-10-03T07:33:36.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "05264f8538a9",
-      "title": "“99元租豪车”靠谱吗？假期租车自驾避坑指南请收",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707348.shtml",
+      "id": "75f47bf687f5",
+      "title": "浙江金华美妆出口：从“提篮小卖”到 “链通全球”",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707469.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-02T22:52:07.000Z",
+      "published": "2026-10-03T07:32:18.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "f10418b17606",
-      "title": "国庆假期第二天全社会跨区域人员流动量超3亿人次",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707347.shtml",
+      "id": "5ddc26e79dfd",
+      "title": "2026年中国电影年度票房突破300亿元",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707479.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-02T22:49:45.000Z",
+      "published": "2026-10-03T07:32:08.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "70a95d566b7c",
-      "title": "万亿级车轮经济跑出新动能",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-02/10707331.shtml",
+      "id": "6d341ce98ad0",
+      "title": "中国年轻人“拼长假” “跳城游”火了",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707482.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-02T14:02:28.000Z",
+      "published": "2026-10-03T07:24:37.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
