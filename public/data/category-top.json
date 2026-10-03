@@ -1,6 +1,42 @@
 {
   "AI": [
     {
+      "id": "6b3471ffae71",
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "summary": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-03T16:30:01.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+      "score": 80,
+      "tags": []
+    },
+    {
+      "id": "6ae30ec75fda",
+      "title": "All the AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "summary": "All the AI agents that can live in your text messages",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-03T14:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
+      "score": 80,
+      "tags": []
+    },
+    {
+      "id": "debadb1b6261",
+      "title": "Spotify billionaire’s body scan startup has come to America",
+      "url": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
+      "summary": "Spotify billionaire’s body scan startup has come to America",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-03T14:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/09/Neko-Health-Marylebone-3.jpg?resize=1200,900",
+      "score": 75,
+      "tags": []
+    },
+    {
       "id": "f8f9945809c1",
       "title": "Sean Parker is rebuilding Stability AI around music",
       "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
@@ -9,30 +45,6 @@
       "category": "AI",
       "published": "2026-10-02T21:09:14.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "0b1cf3414054",
-      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
-      "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
-      "summary": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-02T17:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Circuit-Labs-founders-2.jpeg?resize=1200,1037",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "acfe1bdd02da",
-      "title": "Pope Leo XIV is not a fan of AI-generated art",
-      "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
-      "summary": "Pope Leo XIV is not a fan of AI-generated art",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-02T15:39:41.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/06/Screenshot-2025-06-18-at-10.00.59AM.png?w=950",
       "score": 75,
       "tags": []
     },
@@ -47,21 +59,21 @@
       "image": "https://techcrunch.com/wp-content/uploads/2022/07/CMC_1580.jpg?resize=1200,800",
       "score": 65,
       "tags": []
-    },
-    {
-      "id": "398e0e7a6913",
-      "title": "It&#8217;s not AI anymore, it&#8217;s ‘super intelligence’ (according to the White House)",
-      "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
-      "summary": "It&#8217;s not AI anymore, it&#8217;s ‘super intelligence’ (according to the White House)",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-02T17:48:16.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297764008.jpg?w=1024",
-      "score": 65,
-      "tags": []
     }
   ],
   "科技": [
+    {
+      "id": "2e8add58aa01",
+      "title": "Vessev built an electric ferry that almost flies",
+      "url": "https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/",
+      "summary": "Vessev built an electric ferry that almost flies",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-10-03T14:42:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Vessev_VS–9–NYCDrone-02.jpeg?resize=1200,675",
+      "score": 75,
+      "tags": []
+    },
     {
       "id": "c0e86fd993a7",
       "title": "Meta wants your next gadget to be Muse-infused",
@@ -87,15 +99,15 @@
       "tags": []
     },
     {
-      "id": "7706813db560",
-      "title": "Paramount and Warner Bros. Discovery to become Skydance",
-      "url": "https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/",
-      "summary": "Paramount and Warner Bros。 Discovery to become Skydance",
+      "id": "5a0a0ddb0806",
+      "title": "Jack Dorsey&#8217;s Bitchat disappears from app stores in India after government order",
+      "url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
+      "summary": "Jack Dorsey&#8217;s Bitchat disappears from app stores in India after government order",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-10-02T15:53:50.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/skydance.jpg?resize=1200,504",
-      "score": 70,
+      "published": "2026-10-03T15:02:01.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/bitchat-unavailable-india-techcrunch.jpg?resize=1200,800",
+      "score": 65,
       "tags": []
     },
     {
@@ -109,15 +121,6 @@
       "image": "https://techcrunch.com/wp-content/uploads/2024/05/breakout_1200x600.png?w=1200",
       "score": 60,
       "tags": []
-    },
-    {
-      "id": "4892db5503d2",
-      "title": "Laytr&#8217;s new app lets you save anything you find online, not just articles to read",
-      "url": "https://techcrunch.com/2026/10/02/laytrs-new-app-lets-you-save-anything-you-find-online-not-just-articles-to-read/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-10-02T15:31:20.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/laytr2.jpg?resize=1200,738"
     }
   ],
   "就业": [
@@ -134,6 +137,41 @@
       "tags": []
     },
     {
+      "id": "5c442ae016a2",
+      "title": "前程无忧：AI岗位平均月薪2.5万元 算法岗招聘近八成 多数要求5-10年 ...",
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-07-14/doc-inihuhka8550670.shtml",
+      "summary": "格隆汇7月14日｜前程无忧51job基于平台近一年招聘与求职数据发布《2026人工智能人才洞察》。数据显示，民营企业贡献近六成岗位，头部企业人才需求量居于前列，超千人规模的大型企业职位发布量增速位居第",
+      "source": "算法工程师·就业分析",
+      "category": "就业",
+      "published": "2026-07-14T09:55:00.000Z",
+      "image": "https://n.sinaimg.cn/finance/cece9e13/20240627/655959900_20240627.png",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "61c1fb8ac6bc",
+      "title": "秋招新现象：求职者AI反向背调盛行，虚假招聘套路升级",
+      "url": "https://www.msn.cn/zh-cn/news/other/秋招新现象-求职者ai反向背调盛行-虚假招聘套路升级/ar-AA2dd17c",
+      "summary": "近日，人力资源服务商前程无忧51job基于《2026校园招聘白皮书》最新调研数据及平台治理中发现的最新情况，梳理出本届秋招中毕业生尤其需要关注的新变化及“避坑点”，发布《2027届毕业生秋招提示》，帮",
+      "source": "Bing·秋招",
+      "category": "就业",
+      "published": "2026-09-29T02:57:21.000Z",
+      "image": "",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "bd1e87cc0b61",
+      "title": "2026产品经理生死线：AI原生进化或致职业断崖！AI产品经理必备学习 ...",
+      "url": "https://blog.csdn.net/Trb701012/article/details/166465322",
+      "summary": "文章浏览阅读941次。AI大模型的发展不是“替代人类”，而是“重塑职业价值”——它淘汰的是重复性、低附加值的工作，却催生了更多需要“技术+业务”交叉能力的高端岗位",
+      "source": "就业报告",
+      "category": "就业",
+      "published": "2026-09-23T03:43:00.000Z",
+      "score": 60,
+      "tags": []
+    },
+    {
       "id": "7964f9bfde02",
       "title": "FDE工程师和传统程序员，2026年谁更抢手",
       "url": "https://www.sohu.com/a/1082572843_122941499",
@@ -143,41 +181,6 @@
       "published": "2026-09-30T04:23:00.000Z",
       "image": "//q7.itc.cn/images01/20260930/a6ea526b989e4d6f87e9c9839b51f302.jpeg",
       "score": 60,
-      "tags": []
-    },
-    {
-      "id": "bd1e87cc0b61",
-      "title": "2026产品经理生死线：AI原生进化或致职业断崖！AI产品经理必备学习 ...",
-      "url": "https://blog.csdn.net/Trb701012/article/details/166465322",
-      "summary": "文章浏览阅读941次。AI大模型的发展不是“替代人类”，而是“重塑职业价值”——它淘汰的是重复性、低附加值的工作，却催生了更多需要“技术+业务”交叉能力的高端岗位",
-      "source": "产品经理·就业分析",
-      "category": "就业",
-      "published": "2026-09-23T03:43:00.000Z",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "23a472ceecc8",
-      "title": "“Agent岗位太火了！”互联网大厂秋招抢人，业务团队现场发面试直通卡",
-      "url": "https://www.msn.cn/zh-cn/news/other/agent岗位太火了-互联网大厂秋招抢人-业务团队现场发面试直通卡/ar-AA2dgEY1",
-      "summary": "最厉害那一批人不受影响，越往下的求职者，受到的冲击越大",
-      "source": "Bing·秋招",
-      "category": "就业",
-      "published": "2026-09-30T14:28:00.000Z",
-      "image": "",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "a873e3b79d5f",
-      "title": "街镇直通车 |“‘五’限机遇，‘里’启新职”应届生专场招聘会 ...",
-      "url": "http://sh.xinhuanet.com/20260928/23ce5e2364594c5a90683bd948b338c2/c.html",
-      "summary": "为保障应届生求职渠道稳定畅通，精准匹配企业人才招募需求，搭建高效、直接的供需沟通桥梁。9月16日上午，“‘五’限机遇，‘里’启新职”应届生专场招聘活动在五里桥街道党群服务中心拉开帷幕，活动为应届毕业生",
-      "source": "Bing·应届生求职",
-      "category": "就业",
-      "published": "2026-09-28T09:48:00.000Z",
-      "image": "http://www.news.cn/detail2020/images/ewm.png",
-      "score": 55,
       "tags": []
     }
   ],
@@ -231,77 +234,15 @@
       "tags": []
     },
     {
-      "id": "a6cc69a5d0c0",
-      "title": "GitLab Duo 通过微软 Foundry 扩展自托管 AI 选项",
-      "url": "https://www.infoq.cn/article/cA9rSEGKphbJHIiTQKMv?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/cA9rSEGKphbJHIiTQKMv",
-      "source": "InfoQ中文",
+      "id": "57e487c4f12c",
+      "title": "AI 助手终于能“回家”了：腾讯开源 Octop，1Panel 点几下就装好 - 小白跃升坊",
+      "url": "https://www.cnblogs.com/xiaobaiysf/p/23181208",
+      "summary": "腾讯云把一套支持多用户、多智能体的 AI 助手 Octop 以 MIT 协议开源了，数据全部留在你自己的机器上；现在它还上架了 1Panel 应用商店，装它只需要点几下鼠标，不用敲一行命令",
+      "source": "博客园",
       "category": "开发",
-      "published": "2026-09-30T20:37:48.000Z",
-      "image": "https://static001.infoq.cn/resource/image/59/a2/59798fyy5496549c6634e8eef4ae21a2.jpg",
-      "score": 55,
-      "tags": []
-    }
-  ],
-  "社会": [
-    {
-      "id": "d0124bea0e41",
-      "title": "提升青少年科学素质 海南开展多元化科普科教活动",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-28/10705050.shtml",
-      "summary": "中新网海口9月28日电(记者 符宇群)“据调查统计，‘十四五’时期，海南公民科学素质进步全国最快。”28日在海南省新闻办公室举行的新闻发布会上，海南省科学技术协会二级巡视员吴钟海抛出的一组数据，让海南",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-09-28T11:43:57.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "9a27a464f8da",
-      "title": "中澳学者在沪共论AI时代设计教育新范式",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-01/10706786.shtml",
-      "summary": "中新网上海10月1日电 (记者 许婧)9月30日，2026世界设计之都大会配套活动“匠心与算力”中澳设计教育论坛在上海举办。中国与澳大利亚学界、产业界专家齐聚一堂，围绕匠心传承与人工智能(AI)赋能，",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-10-01T09:03:17.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "3c117bb03026",
-      "title": "西南大学代表团赴英国开展教育合作与学生交流",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-01/10706613.shtml",
-      "summary": "中新网伦敦10月1日电 (欧阳开宇 卢映荷)西南大学代表团日前赴英国伦敦、剑桥、牛津等地，走访多所高校及教育机构，围绕合作办学、跨国教学项目和学生双向交流座谈，为西南地区学生对接国际教育资源，同时探索",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-10-01T02:17:13.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "b79e1ab6367e",
-      "title": "逾130岁韬奋楼修缮归来 钟声再响、历史样貌重现世间",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-30/10706541.shtml",
-      "summary": "中新网上海9月30日电(记者 陈静)每逢整点，苏州河畔华东政法大学内的韬奋楼便会响起悠悠钟声，令人心生厚重感",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-09-30T13:38:19.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "9942e55dac90",
-      "title": "以赛促能育匠才 全国职教学子重庆比拼机电运维技能",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-30/10706504.shtml",
-      "summary": "中新网重庆9月30日电(陈媛)30日，2026年世界职业院校技能大赛总决赛争夺赛机电设备安装与运维赛道(高职组、中职组)闭赛式在重庆举行。重庆工业职业技术大学、重庆电力高等专科学校获高职组金奖",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-09-30T12:31:37.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
+      "published": "2026-10-01T13:47:00.000Z",
+      "image": "https://img2024.cnblogs.com/blog/3600464/202610/3600464-20261001214629362-1988994542.png",
+      "score": 60,
       "tags": []
     }
   ],
@@ -367,50 +308,112 @@
       "tags": []
     }
   ],
+  "社会": [
+    {
+      "id": "9a27a464f8da",
+      "title": "中澳学者在沪共论AI时代设计教育新范式",
+      "url": "https://www.chinanews.com.cn/edu/2026/10-01/10706786.shtml",
+      "summary": "中新网上海10月1日电 (记者 许婧)9月30日，2026世界设计之都大会配套活动“匠心与算力”中澳设计教育论坛在上海举办。中国与澳大利亚学界、产业界专家齐聚一堂，围绕匠心传承与人工智能(AI)赋能，",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-10-01T09:03:17.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "3c117bb03026",
+      "title": "西南大学代表团赴英国开展教育合作与学生交流",
+      "url": "https://www.chinanews.com.cn/edu/2026/10-01/10706613.shtml",
+      "summary": "中新网伦敦10月1日电 (欧阳开宇 卢映荷)西南大学代表团日前赴英国伦敦、剑桥、牛津等地，走访多所高校及教育机构，围绕合作办学、跨国教学项目和学生双向交流座谈，为西南地区学生对接国际教育资源，同时探索",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-10-01T02:17:13.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "b79e1ab6367e",
+      "title": "逾130岁韬奋楼修缮归来 钟声再响、历史样貌重现世间",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-30/10706541.shtml",
+      "summary": "中新网上海9月30日电(记者 陈静)每逢整点，苏州河畔华东政法大学内的韬奋楼便会响起悠悠钟声，令人心生厚重感",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-09-30T13:38:19.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "9942e55dac90",
+      "title": "以赛促能育匠才 全国职教学子重庆比拼机电运维技能",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-30/10706504.shtml",
+      "summary": "中新网重庆9月30日电(陈媛)30日，2026年世界职业院校技能大赛总决赛争夺赛机电设备安装与运维赛道(高职组、中职组)闭赛式在重庆举行。重庆工业职业技术大学、重庆电力高等专科学校获高职组金奖",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-09-30T12:31:37.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "26d262b89b62",
+      "title": "探索清廉金融教育新路径 上海财大成立财经纪检监察研究院",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-30/10706396.shtml",
+      "summary": "中新网上海9月30日电 (记者 许婧)上海财经大学财经纪检监察研究院(下称：研究院)成立大会暨清廉金融文化教育联盟2026年会29日在上海财经大学举办。本次会议由上海财经大学主办，汇聚多方力量，探索具",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-09-30T10:12:18.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
+    }
+  ],
   "财经": [
     {
-      "id": "c416839ae8e4",
-      "title": "以会促产 江西瑞昌全力打造智能疏浚产业集群",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707624.shtml",
+      "id": "615a8d156e48",
+      "title": "工业母机产业链如何高质量发展？院士专家共议新路径",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707667.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-03T13:01:09.000Z",
+      "published": "2026-10-03T14:30:26.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "a32c2030230b",
-      "title": "浙江高速服务区焕新迎客 交旅融合激活假日消费",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707606.shtml",
+      "id": "787c9fdad08d",
+      "title": "国际能源署：已释放约3.25亿桶战略石油储备",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707668.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-03T12:33:31.000Z",
+      "published": "2026-10-03T14:27:56.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "b4311f30ad5b",
-      "title": "西部陆海新通道核心物流节点柳州铁路港国庆假期调车忙",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707590.shtml",
+      "id": "4b595c41d81c",
+      "title": "改革激活创新源力 产业集聚硬核势能 陕西培育壮大新质生产力",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707665.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-03T11:37:19.000Z",
+      "published": "2026-10-03T14:16:53.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "99cbb6bfefa2",
-      "title": "福建厦门构筑育成生态助力科研成果“落地生金”",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707567.shtml",
+      "id": "eb4158bf5b88",
+      "title": "我国多举措支持服务业扩能提质",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707664.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-03T11:13:18.000Z",
+      "published": "2026-10-03T14:13:25.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "cea9000c1a6c",
-      "title": "“星辰+黄金”碰撞出新火花 吉林博物馆游持续升温",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707581.shtml",
+      "id": "2a336b1509bd",
+      "title": "通胀冲击历史性升温，日本民众餐桌承压",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-03/10707662.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-03T11:10:40.000Z",
+      "published": "2026-10-03T14:13:23.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
