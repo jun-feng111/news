@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-04T10:57:58.467Z",
-  "count": 121,
+  "updated": "2026-10-04T15:43:33.385Z",
+  "count": 123,
   "sources": {
     "V2EX": 6,
     "RemoteOK": 99,
-    "Remotive": 16,
+    "Remotive": 18,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
@@ -150,6 +150,64 @@
       "postedDate": "2026-10-02",
       "url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137460",
       "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remotive-1749306",
+      "title": "Freelance Copywriter",
+      "company": "Coalition Technologies",
+      "location": "Worldwide",
+      "remote": true,
+      "salaryText": "$20k -$35k",
+      "salaryMin": 20000,
+      "salaryMax": 35000,
+      "salaryCurrency": "USD",
+      "skills": [
+        "accounting",
+        "excel",
+        "research",
+        "data analysis",
+        "bookkeeping",
+        "google sheets",
+        "quickbooks",
+        "data entry",
+        "insurance",
+        "G Suite"
+      ],
+      "category": "Writing",
+      "postedDate": "2026-10-02",
+      "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
+      "source": "Remotive",
+      "region": "foreign"
+    },
+    {
+      "id": "remotive-2091133",
+      "title": "Senior React Full-stack Developer",
+      "company": "Lemon.io",
+      "location": "Europe, USA, Canada, APAC",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        ".Net",
+        "android",
+        "AWS",
+        "azure",
+        "C",
+        "C#",
+        "C++",
+        "data science",
+        "fullstack",
+        "golang",
+        "ios",
+        "java"
+      ],
+      "category": "Software Development",
+      "postedDate": "2026-10-02",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091133",
+      "source": "Remotive",
       "region": "foreign"
     },
     {

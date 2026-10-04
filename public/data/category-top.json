@@ -1,55 +1,17 @@
 {
-  "AI": [
-    {
-      "id": "6b3471ffae71",
-      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-      "summary": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-03T16:30:01.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "6ae30ec75fda",
-      "title": "All the AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "summary": "All the AI agents that can live in your text messages",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-03T14:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "debadb1b6261",
-      "title": "Spotify billionaire’s body scan startup has come to America",
-      "url": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
-      "summary": "Spotify billionaire’s body scan startup has come to America",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-03T14:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/09/Neko-Health-Marylebone-3.jpg?resize=1200,900",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "f8f9945809c1",
-      "title": "Sean Parker is rebuilding Stability AI around music",
-      "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-      "summary": "Sean Parker is rebuilding Stability AI around music",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-02T21:09:14.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024",
-      "score": 70,
-      "tags": []
-    }
-  ],
   "科技": [
+    {
+      "id": "e580f3108daa",
+      "title": "Trump unveils his new Super Intelligence Force",
+      "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "summary": "Trump unveils his new Super Intelligence Force",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-10-04T15:15:10.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297764008.jpg?w=1024",
+      "score": 75,
+      "tags": []
+    },
     {
       "id": "0b303479eb8c",
       "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
@@ -83,7 +45,7 @@
       "category": "科技",
       "published": "2026-10-03T14:42:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/Vessev_VS–9–NYCDrone-02.jpeg?resize=1200,675",
-      "score": 70,
+      "score": 65,
       "tags": []
     },
     {
@@ -97,16 +59,42 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
       "score": 65,
       "tags": []
+    }
+  ],
+  "AI": [
+    {
+      "id": "6b3471ffae71",
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "summary": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-03T16:30:01.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+      "score": 75,
+      "tags": []
     },
     {
-      "id": "539a805f7f2b",
-      "title": "Sanders introduces bill to ban the federal government from using Flock",
-      "url": "https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/",
-      "summary": "Sanders introduces bill to ban the federal government from using Flock",
+      "id": "6ae30ec75fda",
+      "title": "All the AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "summary": "All the AI agents that can live in your text messages",
       "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-10-03T00:21:57.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/flock-protest.jpg?resize=1131,1200",
+      "category": "AI",
+      "published": "2026-10-03T14:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "debadb1b6261",
+      "title": "Spotify billionaire’s body scan startup has come to America",
+      "url": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
+      "summary": "Spotify billionaire’s body scan startup has come to America",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-03T14:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/09/Neko-Health-Marylebone-3.jpg?resize=1200,900",
       "score": 65,
       "tags": []
     }
@@ -211,6 +199,18 @@
       "tags": []
     },
     {
+      "id": "9144fd207082",
+      "title": "Andrew Kelley 专访：他为何创建 Zig、禁止 AI 贡献以及将 Zig 从 GitHub 移出",
+      "url": "https://www.infoq.cn/article/eRbEA3dMd58RNPqp5D8S?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/eRbEA3dMd58RNPqp5D8S",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-10-02T13:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/74/10/7479235c7bb2fc9348c5e1392803db10.jpg",
+      "score": 55,
+      "tags": []
+    },
+    {
       "id": "712fca6dd7db",
       "title": "别再给 Agent 一个“毛坯房”了：构建 Agent 拎包入住的开发环境实践｜QCon上海",
       "url": "https://www.infoq.cn/article/DEyrayxufObhpoeZgOKT?utm_source=rss&amp;utm_medium=article",
@@ -221,30 +221,30 @@
       "image": "https://static001.infoq.cn/resource/image/73/b0/73887ac4c633d8d64eafa388c36788b0.jpg",
       "score": 55,
       "tags": []
-    },
-    {
-      "id": "f374739e4b3b",
-      "title": "在 Cloudflare Worker 上实现多租户 SaaS 规模的模块化边缘计算",
-      "url": "https://www.infoq.cn/article/P5yCYKFiJfKAICrf8bfs?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/P5yCYKFiJfKAICrf8bfs",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-10-01T14:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/9d/d0/9db12b1124d920767559ccbe5b1fced0.jpg",
-      "score": 55,
-      "tags": []
     }
   ],
   "政策": [
     {
-      "id": "7fe42e3a7ebf",
-      "title": "@大学生 湖南新政策！最高可贷50万元，50%财政贴息",
-      "url": "https://i.ifeng.com/c/8wWPjS4YjCn",
-      "summary": "近日，湖南省出台《关于进一步优化创业担保贷款政策 全力支持大学生等重点群体创业的通知》，扩大创业担保贷款覆盖范围、提高贷款额度、降低融资成本，拿出实打实举措，强化在湘创业大学生金融支撑，助力青年创新创",
+      "id": "a58df33d6bee",
+      "title": "线上创业局收官不落幕！在白沙，给想搞事业的年轻人找答案",
+      "url": "https://view.inews.qq.com/a/20260930A03AXB00",
+      "summary": "白沙“趣”就业直播间是由白沙县劳动就业服务中心打造的云直播栏目，为大家趣味解读各类就业创业惠民政策、发布最新就业资讯、分享本土创业故事、开展能人榜样访谈，让大家足不出户就能读懂政策、找准岗位、知晓办事",
+      "source": "Bing·大学生创业扶持政策",
+      "category": "政策",
+      "published": "2026-09-30T03:04:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/O4UyYpDwTz1D7V6PnY1qhN8hiBsY2k4Q2DP6R8Ih6r78MAA_640330/0",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "ed0822808f9b",
+      "title": "温州发布专项政策指南 为残疾人大学生就业创业“撑腰”",
+      "url": "https://news.66wz.com/system/2026/07/16/105805829.shtml",
+      "summary": "市人社局与市残联携手对现行最实用、最优惠的就创业补贴政策进行全面梳理，并形成《温州市残疾人大学生就业创业政策指南》，助力这一特殊群体跨越障碍，实现更加充分、更高质量的就业和创业。 温州网讯 为支持更多",
       "source": "就业创业政策",
       "category": "政策",
-      "published": "2026-09-18T01:05:00.000Z",
-      "image": "",
+      "published": "2026-07-16T01:51:00.000Z",
+      "image": "https://news.66wz.com/pic/003/013/337/00301333742_93765919.gif",
       "score": 55,
       "tags": []
     },
@@ -283,33 +283,9 @@
       "image": "https://q0.itc.cn/q_70/images03/20260928/3793a0ecd02d4f2e8dac2b186ae2724c.png",
       "score": 50,
       "tags": []
-    },
-    {
-      "id": "79d3290cfd34",
-      "title": "基层动态 | 内江市：做实就业公共服务，助推高校毕业生就业攻坚提 ...",
-      "url": "https://www.sohu.com/a/1082707605_121106884",
-      "summary": "为贯彻落实省委、省政府2026年高校毕业生等青年就业服务攻坚行动部署，内江市迅即启动以 “服务不断线 攻坚促就业” 为主题的高校毕业生就业攻坚行动，制定《2026年离校未就业高校毕业生等失业青年就业创",
-      "source": "Bing·高校毕业生就业创业政策",
-      "category": "政策",
-      "published": "2026-09-30T07:00:00.000Z",
-      "image": "https://q9.itc.cn/q_70/images03/20260930/85049868b0cb45c9836ed0d2b1ad7863.png",
-      "score": 50,
-      "tags": []
     }
   ],
   "社会": [
-    {
-      "id": "a12dd2f02812",
-      "title": "（文化中国行·校馆弦歌）陕师大图书馆：以藏化人续文脉，以墨传道铸师心",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-02/10707229.shtml",
-      "summary": "中新网西安10月2日电 题：陕师大图书馆：以藏化人续文脉，以墨传道铸师心",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-10-02T10:07:17.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
-    },
     {
       "id": "5bc2c388fadd",
       "title": "阿曼智慧宫中文教育学院正式揭牌 搭建中阿文明互鉴新平台",
@@ -357,52 +333,64 @@
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 50,
       "tags": []
+    },
+    {
+      "id": "9942e55dac90",
+      "title": "以赛促能育匠才 全国职教学子重庆比拼机电运维技能",
+      "url": "https://www.chinanews.com.cn/edu/2026/09-30/10706504.shtml",
+      "summary": "中新网重庆9月30日电(陈媛)30日，2026年世界职业院校技能大赛总决赛争夺赛机电设备安装与运维赛道(高职组、中职组)闭赛式在重庆举行。重庆工业职业技术大学、重庆电力高等专科学校获高职组金奖",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-09-30T12:31:37.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
     }
   ],
   "财经": [
     {
-      "id": "2eb27ac32c59",
-      "title": "科技解锁古都新玩法",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-04/10707861.shtml",
+      "id": "a7540316e3aa",
+      "title": "人均带三个空箱来华购物的“China Haul”火了",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-04/10707978.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-04T09:13:17.000Z",
+      "published": "2026-10-04T13:38:15.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "76c626b7b1a1",
-      "title": "两万余名建设者坚守岗位 重庆多条高铁建设加速推进",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-04/10707845.shtml",
+      "id": "f404243d24aa",
+      "title": "商务部：国庆假期前四天全国消费市场平稳有序",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-04/10707975.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-04T08:45:53.000Z",
+      "published": "2026-10-04T13:20:22.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "2df7561716d7",
-      "title": "【在希望的田野上】我国秋粮迎来大面积收获 进度过三成",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-04/10707842.shtml",
+      "id": "d3b89eedcfb5",
+      "title": "“心价比”崛起：情绪消费成国庆消费新主角",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-04/10707972.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-04T08:37:06.000Z",
+      "published": "2026-10-04T13:08:35.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "b1ebc12aa2b4",
-      "title": "“中国薯都”主产区迎丰收：马铃薯“四优”技术亩产5.2吨",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-04/10707836.shtml",
+      "id": "30ccc63230d8",
+      "title": "湖北重点城市和景区旅游接待创新高",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-04/10707969.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-04T08:34:44.000Z",
+      "published": "2026-10-04T13:04:57.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "84c55bd66178",
-      "title": "中国首个海上注碳增气平台主体建造完工",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-04/10707829.shtml",
+      "id": "a467d5f53d69",
+      "title": "从“看一眼”到“买一单” 外国游客走进中国日常",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-04/10707968.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-04T08:26:12.000Z",
+      "published": "2026-10-04T13:04:17.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
