@@ -1,4 +1,54 @@
 {
+  "AI": [
+    {
+      "id": "072378cdfd56",
+      "title": "Google froze its open source bug bounty program due to a &#8216;significant rise&#8217; in AI submissions",
+      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "summary": "Google froze its open source bug bounty program due to a &#8216;significant rise&#8217; in AI submis",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-04T20:31:07.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/07/ai-slop-bug-bounty-reports-1646637201.jpg?resize=1200,863",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "693ea3f4f734",
+      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+      "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "summary": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-04T20:08:34.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297262633.jpg?resize=1200,800",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "6b3471ffae71",
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "summary": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-03T16:30:01.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "6ae30ec75fda",
+      "title": "All the AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "summary": "All the AI agents that can live in your text messages",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-03T14:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
+      "score": 70,
+      "tags": []
+    }
+  ],
   "科技": [
     {
       "id": "f7c282232744",
@@ -9,7 +59,7 @@
       "category": "科技",
       "published": "2026-10-04T16:05:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/zoox-waymo-getty.jpg?resize=1200,801",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -21,7 +71,7 @@
       "category": "科技",
       "published": "2026-10-04T15:15:10.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297764008.jpg?w=1024",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -33,7 +83,7 @@
       "category": "科技",
       "published": "2026-10-03T19:33:15.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/flock-camera-pole.jpg?resize=1200,799",
-      "score": 70,
+      "score": 65,
       "tags": []
     },
     {
@@ -61,44 +111,6 @@
       "tags": []
     }
   ],
-  "AI": [
-    {
-      "id": "6b3471ffae71",
-      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-      "summary": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-03T16:30:01.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "6ae30ec75fda",
-      "title": "All the AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "summary": "All the AI agents that can live in your text messages",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-03T14:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "debadb1b6261",
-      "title": "Spotify billionaire’s body scan startup has come to America",
-      "url": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
-      "summary": "Spotify billionaire’s body scan startup has come to America",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-03T14:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/09/Neko-Health-Marylebone-3.jpg?resize=1200,900",
-      "score": 65,
-      "tags": []
-    }
-  ],
   "就业": [
     {
       "id": "c76b56413d4a",
@@ -113,13 +125,26 @@
       "tags": []
     },
     {
-      "id": "bd1e87cc0b61",
-      "title": "2026产品经理生死线：AI原生进化或致职业断崖！AI产品经理必备学习 ...",
-      "url": "https://blog.csdn.net/Trb701012/article/details/166465322",
-      "summary": "文章浏览阅读941次。AI大模型的发展不是“替代人类”，而是“重塑职业价值”——它淘汰的是重复性、低附加值的工作，却催生了更多需要“技术+业务”交叉能力的高端岗位",
-      "source": "就业报告",
+      "id": "5c442ae016a2",
+      "title": "前程无忧：AI岗位平均月薪2.5万元 算法岗招聘近八成 多数要求5-10年 ...",
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-07-14/doc-inihuhka8550670.shtml",
+      "summary": "格隆汇7月14日｜前程无忧51job基于平台近一年招聘与求职数据发布《2026人工智能人才洞察》。数据显示，民营企业贡献近六成岗位，头部企业人才需求量居于前列，超千人规模的大型企业职位发布量增速位居第",
+      "source": "算法工程师·就业分析",
       "category": "就业",
-      "published": "2026-09-23T03:43:00.000Z",
+      "published": "2026-07-14T09:55:00.000Z",
+      "image": "https://n.sinaimg.cn/finance/cece9e13/20240627/655959900_20240627.png",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "61c1fb8ac6bc",
+      "title": "秋招新现象：求职者AI反向背调盛行，虚假招聘套路升级",
+      "url": "https://www.msn.cn/zh-cn/news/other/秋招新现象-求职者ai反向背调盛行-虚假招聘套路升级/ar-AA2dd17c",
+      "summary": "近日，人力资源服务商前程无忧51job基于《2026校园招聘白皮书》最新调研数据及平台治理中发现的最新情况，梳理出本届秋招中毕业生尤其需要关注的新变化及“避坑点”，发布《2027届毕业生秋招提示》，帮",
+      "source": "Bing·秋招",
+      "category": "就业",
+      "published": "2026-09-29T02:57:21.000Z",
+      "image": "",
       "score": 60,
       "tags": []
     },
@@ -136,26 +161,14 @@
       "tags": []
     },
     {
-      "id": "a22bf645e7bb",
-      "title": "工信部公开征求《5G移动通信网 智能网络数据分析（NWDA）总体技术 ...",
-      "url": "https://www.nbd.com.cn/articles/2026-09-18/4585370.html",
-      "summary": "每经AI快讯，9月18日，工信部科技司发布关于公开征求《5G移动通信网 智能网络数据分析（NWDA）总体技术要求（第三阶段）》等20项通信行业标准报批意见的公示，根据行业标准制修订计划，相关标准化技术",
-      "source": "数据分析·就业分析",
+      "id": "bd1e87cc0b61",
+      "title": "2026产品经理生死线：AI原生进化或致职业断崖！AI产品经理必备学习 ...",
+      "url": "https://blog.csdn.net/Trb701012/article/details/166465322",
+      "summary": "文章浏览阅读941次。AI大模型的发展不是“替代人类”，而是“重塑职业价值”——它淘汰的是重复性、低附加值的工作，却催生了更多需要“技术+业务”交叉能力的高端岗位",
+      "source": "产品经理·就业分析",
       "category": "就业",
-      "published": "2026-09-18T07:41:00.000Z",
+      "published": "2026-09-23T03:43:00.000Z",
       "score": 60,
-      "tags": []
-    },
-    {
-      "id": "5804a81c8000",
-      "title": "AI技术加速进入求职服务领域，选我AI探索智能就业辅助新路径",
-      "url": "https://news.sina.cn/sx/2026-09-29/detail-initnwmv7646791.d.html?vt=4",
-      "summary": "2026届全国普通高校毕业生规模预计达1270万人，同比增加48万人。人社部、财政部于2026年3月联合印发《关于做好2026年高校毕业生等青年就业工作的通知》，提出16条政策举措，全力促进高校毕业生",
-      "source": "Bing·应届生求职",
-      "category": "就业",
-      "published": "2026-09-29T14:27:00.000Z",
-      "image": "//n.sinaimg.cn/default/2fb77759/20151125/320X320.png",
-      "score": 55,
       "tags": []
     }
   ],
@@ -223,6 +236,18 @@
   ],
   "政策": [
     {
+      "id": "a58df33d6bee",
+      "title": "线上创业局收官不落幕！在白沙，给想搞事业的年轻人找答案",
+      "url": "https://view.inews.qq.com/a/20260930A03AXB00",
+      "summary": "白沙“趣”就业直播间是由白沙县劳动就业服务中心打造的云直播栏目，为大家趣味解读各类就业创业惠民政策、发布最新就业资讯、分享本土创业故事、开展能人榜样访谈，让大家足不出户就能读懂政策、找准岗位、知晓办事",
+      "source": "Bing·大学生创业扶持政策",
+      "category": "政策",
+      "published": "2026-09-30T03:04:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/O4UyYpDwTz1D7V6PnY1qhN8hiBsY2k4Q2DP6R8Ih6r78MAA_640330/0",
+      "score": 55,
+      "tags": []
+    },
+    {
       "id": "ed0822808f9b",
       "title": "温州发布专项政策指南 为残疾人大学生就业创业“撑腰”",
       "url": "https://news.66wz.com/system/2026/07/16/105805829.shtml",
@@ -247,30 +272,6 @@
       "tags": []
     },
     {
-      "id": "0465ce5b383e",
-      "title": "【鸿雁归巢】呼伦贝尔籍在校大学生家乡行——根河市就业服务中心 ...",
-      "url": "https://www.sohu.com/a/1082222506_121106854",
-      "summary": "为全面落实党中央、国务院关于做好高校毕业生等青年就业创业服务工作的决策部署和市政府工作要求，呼伦贝尔市就业服务中心在全市范围内组织开展“呼伦贝尔籍在校大学生家乡行”实践活动，旨在引导在校生毕业后返乡就",
-      "source": "Bing·大学生就业政策",
-      "category": "政策",
-      "published": "2026-09-29T07:19:00.000Z",
-      "image": "https://q3.itc.cn/q_70/images03/20260929/110d602366d54feba1a3846625d82f22.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "f3fa088e98a3",
-      "title": "就’在湘西‘创’青春”| 2026年湖南省大学生创业就业法律知识宣讲 ...",
-      "url": "https://www.sohu.com/a/1081960836_121106908",
-      "summary": "近日，“就”在湘西 “创”青春——2026年湖南省大学生创业就业法律知识宣讲活动（湘西站）在吉首大学和湘西民族职业技术学院举行。 本次活动由共青团湖南省委员会主办，共青团湘西州委员会、共青团吉首大学委",
-      "source": "Bing·大学生就业政策",
-      "category": "政策",
-      "published": "2026-09-28T11:26:00.000Z",
-      "image": "https://q0.itc.cn/q_70/images03/20260928/3793a0ecd02d4f2e8dac2b186ae2724c.png",
-      "score": 50,
-      "tags": []
-    },
-    {
       "id": "79d3290cfd34",
       "title": "基层动态 | 内江市：做实就业公共服务，助推高校毕业生就业攻坚提 ...",
       "url": "https://www.sohu.com/a/1082707605_121106884",
@@ -279,6 +280,18 @@
       "category": "政策",
       "published": "2026-09-30T07:00:00.000Z",
       "image": "https://q9.itc.cn/q_70/images03/20260930/85049868b0cb45c9836ed0d2b1ad7863.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "b0edb31cce86",
+      "title": "内蒙古霍林郭勒市：稳就业精准发力护航高校毕业生逐梦前行",
+      "url": "https://www.sohu.com/a/1081766379_120578424",
+      "summary": "高校毕业生就业是稳就业、保民生、促发展的重中之重，事关青年成长成才，事关民生改善和社会稳定，也事关地方长远发展后劲。2026年以来，内蒙古霍林郭勒市人社部门坚持把高校毕业生就业作为头等民生大事，将高校",
+      "source": "Bing·高校毕业生就业创业政策",
+      "category": "政策",
+      "published": "2026-09-28T04:23:00.000Z",
+      "image": "",
       "score": 50,
       "tags": []
     }

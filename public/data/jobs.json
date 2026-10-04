@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T19:16:25.752Z",
+  "updated": "2026-10-04T22:49:51.306Z",
   "count": 123,
   "sources": {
     "V2EX": 6,
@@ -125,6 +125,27 @@
       "url": "https://www.v2ex.com/t/1245372",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "remoteok-1137461",
+      "title": "Head of Operations",
+      "company": "Leverage Live Local",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "non tech",
+        "ops",
+        "exec"
+      ],
+      "category": "non tech",
+      "postedDate": "2026-10-03",
+      "url": "https://remoteOK.com/remote-jobs/remote-head-of-operations-leverage-live-local-1137461",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137460",
@@ -3225,36 +3246,6 @@
       "category": "design",
       "postedDate": "2026-07-30",
       "url": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-viable-medical-solutions-1135697",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1135767",
-      "title": "Graphic Designer",
-      "company": "Uchromatic",
-      "location": "Time,",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "dev",
-        "speech",
-        "finance",
-        "exec",
-        "ops",
-        "golang",
-        "digital nomad",
-        "illustrator",
-        "customer support",
-        "video",
-        "content writing",
-        "product manager"
-      ],
-      "category": "dev",
-      "postedDate": "2026-07-30",
-      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-uchromatic-1135767",
       "source": "RemoteOK",
       "region": "foreign"
     }
