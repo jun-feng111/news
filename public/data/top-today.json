@@ -1,29 +1,5 @@
 [
   {
-    "id": "0b303479eb8c",
-    "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
-    "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
-    "summary": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
-    "source": "TechCrunch",
-    "category": "科技",
-    "published": "2026-10-03T19:33:15.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/flock-camera-pole.jpg?resize=1200,799",
-    "score": 75,
-    "tags": []
-  },
-  {
-    "id": "f31587f81232",
-    "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-    "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-    "summary": "Amazon responds to data center backlash, says it no longer uses NDAs",
-    "source": "TechCrunch",
-    "category": "科技",
-    "published": "2026-10-03T18:43:57.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
-    "score": 75,
-    "tags": []
-  },
-  {
     "id": "6b3471ffae71",
     "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
     "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
@@ -45,6 +21,30 @@
     "published": "2026-10-03T14:00:00.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
     "score": 75,
+    "tags": []
+  },
+  {
+    "id": "0b303479eb8c",
+    "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
+    "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+    "summary": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
+    "source": "TechCrunch",
+    "category": "科技",
+    "published": "2026-10-03T19:33:15.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/flock-camera-pole.jpg?resize=1200,799",
+    "score": 70,
+    "tags": []
+  },
+  {
+    "id": "f31587f81232",
+    "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+    "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+    "summary": "Amazon responds to data center backlash, says it no longer uses NDAs",
+    "source": "TechCrunch",
+    "category": "科技",
+    "published": "2026-10-03T18:43:57.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
+    "score": 70,
     "tags": []
   },
   {
@@ -72,6 +72,18 @@
     "tags": []
   },
   {
+    "id": "f8f9945809c1",
+    "title": "Sean Parker is rebuilding Stability AI around music",
+    "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+    "summary": "Sean Parker is rebuilding Stability AI around music",
+    "source": "TechCrunch",
+    "category": "AI",
+    "published": "2026-10-02T21:09:14.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024",
+    "score": 70,
+    "tags": []
+  },
+  {
     "id": "c0e86fd993a7",
     "title": "Meta wants your next gadget to be Muse-infused",
     "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
@@ -80,7 +92,7 @@
     "category": "科技",
     "published": "2026-10-03T00:45:39.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
-    "score": 70,
+    "score": 65,
     "tags": []
   },
   {
@@ -92,19 +104,7 @@
     "category": "科技",
     "published": "2026-10-03T00:21:57.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/flock-protest.jpg?resize=1131,1200",
-    "score": 70,
-    "tags": []
-  },
-  {
-    "id": "f8f9945809c1",
-    "title": "Sean Parker is rebuilding Stability AI around music",
-    "url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-    "summary": "Sean Parker is rebuilding Stability AI around music",
-    "source": "TechCrunch",
-    "category": "AI",
-    "published": "2026-10-02T21:09:14.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024",
-    "score": 70,
+    "score": 65,
     "tags": []
   },
   {

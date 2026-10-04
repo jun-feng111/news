@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T23:35:28.725Z",
+  "updated": "2026-10-04T04:36:55.751Z",
   "count": 121,
   "sources": {
     "V2EX": 6,
@@ -9,6 +9,23 @@
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1246348",
+      "title": "非常不错的运维兼职",
+      "company": "sukhoi",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [],
+      "category": "运维/SRE",
+      "postedDate": "2026-10-04",
+      "url": "https://www.v2ex.com/t/1246348",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1245910",
       "title": "SHEIN 内推：算法/大模型/后端/数据/安全/测试/iOS， 20-80K",
@@ -102,27 +119,6 @@
       "category": "产品",
       "postedDate": "2026-09-29",
       "url": "https://www.v2ex.com/t/1245474",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1245372",
-      "title": "成都头部 MCN 团队招聘全栈工程师， AI 不限量使用",
-      "company": "Branlice",
-      "location": "招聘帖",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "go",
-        "golang",
-        "react"
-      ],
-      "category": "全栈",
-      "postedDate": "2026-09-28",
-      "url": "https://www.v2ex.com/t/1245372",
       "source": "V2EX",
       "region": "domestic"
     },
@@ -1472,36 +1468,6 @@
       "category": "content writing",
       "postedDate": "2026-09-06",
       "url": "https://remoteOK.com/remote-jobs/remote-ai-response-analyst-imerit-technology-1137309",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137307",
-      "title": "Junior Crypto Analyst & Trader",
-      "company": "Empire Assets",
-      "location": "Remote",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "part time",
-        "junior",
-        "analyst",
-        "crypto",
-        "other",
-        "web3",
-        "blockchain",
-        "defi",
-        "bitcoin",
-        "ethereum",
-        "remote",
-        "trader"
-      ],
-      "category": "part time",
-      "postedDate": "2026-09-04",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137307",
       "source": "RemoteOK",
       "region": "foreign"
     },
@@ -3197,6 +3163,36 @@
       "category": "design",
       "postedDate": "2026-07-30",
       "url": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-viable-medical-solutions-1135697",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1135767",
+      "title": "Graphic Designer",
+      "company": "Uchromatic",
+      "location": "Time,",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "dev",
+        "speech",
+        "finance",
+        "exec",
+        "ops",
+        "golang",
+        "digital nomad",
+        "illustrator",
+        "customer support",
+        "video",
+        "content writing",
+        "product manager"
+      ],
+      "category": "dev",
+      "postedDate": "2026-07-30",
+      "url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-uchromatic-1135767",
       "source": "RemoteOK",
       "region": "foreign"
     }
