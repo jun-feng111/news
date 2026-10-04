@@ -1,5 +1,17 @@
 [
   {
+    "id": "f7c282232744",
+    "title": "TechCrunch Mobility: Reining in robotaxis",
+    "url": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
+    "summary": "TechCrunch Mobility: Reining in robotaxis",
+    "source": "TechCrunch",
+    "category": "科技",
+    "published": "2026-10-04T16:05:00.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/zoox-waymo-getty.jpg?resize=1200,801",
+    "score": 75,
+    "tags": []
+  },
+  {
     "id": "e580f3108daa",
     "title": "Trump unveils his new Super Intelligence Force",
     "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
@@ -8,18 +20,6 @@
     "category": "科技",
     "published": "2026-10-04T15:15:10.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297764008.jpg?w=1024",
-    "score": 75,
-    "tags": []
-  },
-  {
-    "id": "6b3471ffae71",
-    "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-    "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-    "summary": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-    "source": "TechCrunch",
-    "category": "AI",
-    "published": "2026-10-03T16:30:01.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
     "score": 75,
     "tags": []
   },
@@ -36,14 +36,14 @@
     "tags": []
   },
   {
-    "id": "f31587f81232",
-    "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-    "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-    "summary": "Amazon responds to data center backlash, says it no longer uses NDAs",
+    "id": "6b3471ffae71",
+    "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+    "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+    "summary": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
     "source": "TechCrunch",
-    "category": "科技",
-    "published": "2026-10-03T18:43:57.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
+    "category": "AI",
+    "published": "2026-10-03T16:30:01.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
     "score": 70,
     "tags": []
   },
@@ -57,6 +57,18 @@
     "published": "2026-10-03T14:00:00.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
     "score": 70,
+    "tags": []
+  },
+  {
+    "id": "f31587f81232",
+    "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+    "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+    "summary": "Amazon responds to data center backlash, says it no longer uses NDAs",
+    "source": "TechCrunch",
+    "category": "科技",
+    "published": "2026-10-03T18:43:57.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
+    "score": 65,
     "tags": []
   },
   {
@@ -96,18 +108,6 @@
     "tags": []
   },
   {
-    "id": "539a805f7f2b",
-    "title": "Sanders introduces bill to ban the federal government from using Flock",
-    "url": "https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/",
-    "summary": "Sanders introduces bill to ban the federal government from using Flock",
-    "source": "TechCrunch",
-    "category": "科技",
-    "published": "2026-10-03T00:21:57.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/flock-protest.jpg?resize=1131,1200",
-    "score": 65,
-    "tags": []
-  },
-  {
     "id": "c76b56413d4a",
     "title": "AI人才缺口超500万！有最新报告称，AI抢人逻辑悄悄变了：架构师新发 ...",
     "url": "https://news.qq.com/rain/a/20260718A08XHR00",
@@ -117,30 +117,6 @@
     "published": "2026-07-18T11:05:00.000Z",
     "image": "https://inews.gtimg.com/om_ls/Ows_BB25Bhnf-wlGWgFoIkmLSVd_6MJWCT8-yw6C3HS10AA_640330/0",
     "score": 65,
-    "tags": []
-  },
-  {
-    "id": "5c442ae016a2",
-    "title": "前程无忧：AI岗位平均月薪2.5万元 算法岗招聘近八成 多数要求5-10年 ...",
-    "url": "https://finance.sina.com.cn/stock/bxjj/2026-07-14/doc-inihuhka8550670.shtml",
-    "summary": "格隆汇7月14日｜前程无忧51job基于平台近一年招聘与求职数据发布《2026人工智能人才洞察》。数据显示，民营企业贡献近六成岗位，头部企业人才需求量居于前列，超千人规模的大型企业职位发布量增速位居第",
-    "source": "算法工程师·就业分析",
-    "category": "就业",
-    "published": "2026-07-14T09:55:00.000Z",
-    "image": "https://n.sinaimg.cn/finance/cece9e13/20240627/655959900_20240627.png",
-    "score": 65,
-    "tags": []
-  },
-  {
-    "id": "61c1fb8ac6bc",
-    "title": "秋招新现象：求职者AI反向背调盛行，虚假招聘套路升级",
-    "url": "https://www.msn.cn/zh-cn/news/other/秋招新现象-求职者ai反向背调盛行-虚假招聘套路升级/ar-AA2dd17c",
-    "summary": "近日，人力资源服务商前程无忧51job基于《2026校园招聘白皮书》最新调研数据及平台治理中发现的最新情况，梳理出本届秋招中毕业生尤其需要关注的新变化及“避坑点”，发布《2027届毕业生秋招提示》，帮",
-    "source": "Bing·秋招",
-    "category": "就业",
-    "published": "2026-09-29T02:57:21.000Z",
-    "image": "",
-    "score": 60,
     "tags": []
   },
   {
@@ -180,6 +156,17 @@
     "tags": []
   },
   {
+    "id": "bd1e87cc0b61",
+    "title": "2026产品经理生死线：AI原生进化或致职业断崖！AI产品经理必备学习 ...",
+    "url": "https://blog.csdn.net/Trb701012/article/details/166465322",
+    "summary": "文章浏览阅读941次。AI大模型的发展不是“替代人类”，而是“重塑职业价值”——它淘汰的是重复性、低附加值的工作，却催生了更多需要“技术+业务”交叉能力的高端岗位",
+    "source": "就业报告",
+    "category": "就业",
+    "published": "2026-09-23T03:43:00.000Z",
+    "score": 60,
+    "tags": []
+  },
+  {
     "id": "7964f9bfde02",
     "title": "FDE工程师和传统程序员，2026年谁更抢手",
     "url": "https://www.sohu.com/a/1082572843_122941499",
@@ -199,18 +186,6 @@
     "source": "数据分析·就业分析",
     "category": "就业",
     "published": "2026-09-18T07:41:00.000Z",
-    "image": "http://static.nbd.com.cn/images/app/nbd_icon_300_normal.png",
-    "score": 60,
-    "tags": []
-  },
-  {
-    "id": "bd1e87cc0b61",
-    "title": "2026产品经理生死线：AI原生进化或致职业断崖！AI产品经理必备学习 ...",
-    "url": "https://blog.csdn.net/Trb701012/article/details/166465322",
-    "summary": "文章浏览阅读941次。AI大模型的发展不是“替代人类”，而是“重塑职业价值”——它淘汰的是重复性、低附加值的工作，却催生了更多需要“技术+业务”交叉能力的高端岗位",
-    "source": "产品经理·就业分析",
-    "category": "就业",
-    "published": "2026-09-23T03:43:00.000Z",
     "score": 60,
     "tags": []
   },
@@ -223,30 +198,6 @@
     "category": "科技",
     "published": "2026-10-03T15:02:01.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/bitchat-unavailable-india-techcrunch.jpg?resize=1200,800",
-    "score": 55,
-    "tags": []
-  },
-  {
-    "id": "23a472ceecc8",
-    "title": "“Agent岗位太火了！”互联网大厂秋招抢人，业务团队现场发面试直通卡",
-    "url": "https://www.msn.cn/zh-cn/news/other/agent岗位太火了-互联网大厂秋招抢人-业务团队现场发面试直通卡/ar-AA2dgEY1",
-    "summary": "最厉害那一批人不受影响，越往下的求职者，受到的冲击越大",
-    "source": "Bing·秋招",
-    "category": "就业",
-    "published": "2026-09-30T14:28:00.000Z",
-    "image": "",
-    "score": 55,
-    "tags": []
-  },
-  {
-    "id": "a873e3b79d5f",
-    "title": "街镇直通车 |“‘五’限机遇，‘里’启新职”应届生专场招聘会 ...",
-    "url": "http://sh.xinhuanet.com/20260928/23ce5e2364594c5a90683bd948b338c2/c.html",
-    "summary": "为保障应届生求职渠道稳定畅通，精准匹配企业人才招募需求，搭建高效、直接的供需沟通桥梁。9月16日上午，“‘五’限机遇，‘里’启新职”应届生专场招聘活动在五里桥街道党群服务中心拉开帷幕，活动为应届毕业生",
-    "source": "Bing·应届生求职",
-    "category": "就业",
-    "published": "2026-09-28T09:48:00.000Z",
-    "image": "http://www.news.cn/detail2020/images/ewm.png",
     "score": 55,
     "tags": []
   },
@@ -283,18 +234,6 @@
     "category": "就业",
     "published": "2026-09-28T14:57:10.000Z",
     "image": "https://cdn.v2ex.com/gravatar/997a2197b7a701b3c0a4dba3a8032847?s=73&d=retro",
-    "score": 55,
-    "tags": []
-  },
-  {
-    "id": "a58df33d6bee",
-    "title": "线上创业局收官不落幕！在白沙，给想搞事业的年轻人找答案",
-    "url": "https://view.inews.qq.com/a/20260930A03AXB00",
-    "summary": "白沙“趣”就业直播间是由白沙县劳动就业服务中心打造的云直播栏目，为大家趣味解读各类就业创业惠民政策、发布最新就业资讯、分享本土创业故事、开展能人榜样访谈，让大家足不出户就能读懂政策、找准岗位、知晓办事",
-    "source": "Bing·大学生创业扶持政策",
-    "category": "政策",
-    "published": "2026-09-30T03:04:00.000Z",
-    "image": "https://inews.gtimg.com/om_ls/O4UyYpDwTz1D7V6PnY1qhN8hiBsY2k4Q2DP6R8Ih6r78MAA_640330/0",
     "score": 55,
     "tags": []
   },
@@ -419,18 +358,6 @@
     "tags": []
   },
   {
-    "id": "4a6f6d0430aa",
-    "title": "2027届毕业生破1300万！国央企秋招预计释放超30万岗位！",
-    "url": "https://www.voc.com.cn/news/202608/33470070.html",
-    "summary": "2027届高校毕业生规模预计将突破1300万大关，就业总量压力再创新高。在复杂的就业市场环境下，中央企业与地方国有企业凭借岗位稳定、福利体系完善等优势，已成为应届毕业生求职的核心赛道",
-    "source": "就业报告",
-    "category": "就业",
-    "published": "2026-08-13T01:27:00.000Z",
-    "image": "https://www.voc.com.cn/CommonFiles/20140703/images_detail/logo.jpg",
-    "score": 55,
-    "tags": []
-  },
-  {
     "id": "2985729f250d",
     "title": "职计划深度解析：从岗位收缩到能力重构，AI时代产品经理如何完成 ...",
     "url": "https://finance.ifeng.com/c/8vxSyclyUDa",
@@ -491,18 +418,6 @@
     "tags": []
   },
   {
-    "id": "22d4cca8b74f",
-    "title": "传统算法工程师要被VLA淘汰了，真的假的？",
-    "url": "https://www.eet-china.com/mp/a514000.html",
-    "summary": "2026年过半，自动驾驶行业的技术路线之争愈演愈烈，从2025年端到端大模型全面上车，到2026年VLA（视觉-语言-动作模型）与世界模型两条路线的公开激化，技术迭代的速度已超出很多人的预期。在英伟达",
-    "source": "算法工程师·就业分析",
-    "category": "就业",
-    "published": "2026-08-01T01:40:00.000Z",
-    "image": "https://www.eet-china.com/static/image/mianbaoban/specialcolumn/xinyu_logo.png",
-    "score": 55,
-    "tags": []
-  },
-  {
     "id": "220b91c41933",
     "title": "从“换人”到“育人”，超百万个岗位正在招手——机器人产业发展 ...",
     "url": "https://news.hangzhou.com.cn/zjnews/content/2026-09/22/content_9313289.htm",
@@ -511,6 +426,17 @@
     "category": "就业",
     "published": "2026-09-22T01:00:00.000Z",
     "image": "https://www.hangzhou.com.cn/templateRes/202012/04/101740/att/images/logo_xwzx.png",
+    "score": 55,
+    "tags": []
+  },
+  {
+    "id": "22d4cca8b74f",
+    "title": "传统算法工程师要被VLA淘汰了，真的假的？",
+    "url": "https://www.eet-china.com/mp/a514000.html",
+    "summary": "2026年过半，自动驾驶行业的技术路线之争愈演愈烈，从2025年端到端大模型全面上车，到2026年VLA（视觉-语言-动作模型）与世界模型两条路线的公开激化，技术迭代的速度已超出很多人的预期。在英伟达",
+    "source": "算法工程师·就业分析",
+    "category": "就业",
+    "published": "2026-08-01T01:40:00.000Z",
     "score": 55,
     "tags": []
   },
@@ -534,7 +460,6 @@
     "source": "数据分析·就业分析",
     "category": "就业",
     "published": "2026-09-14T03:58:00.000Z",
-    "image": "",
     "score": 55,
     "tags": []
   },
@@ -546,7 +471,6 @@
     "source": "数据科学·就业分析",
     "category": "就业",
     "published": "2026-09-20T06:47:00.000Z",
-    "image": "//q7.itc.cn/images01/20260920/6f1c59963d794cdd802ca3ebfcd3260a.png",
     "score": 55,
     "tags": []
   },
@@ -558,7 +482,6 @@
     "source": "全栈工程师·就业分析",
     "category": "就业",
     "published": "2026-08-03T14:13:00.000Z",
-    "image": "https://inews.gtimg.com/om_ls/OZKYpqTOXc3AqlYSwc045XS2JbYQSLojaivsog9wjfZAYAA_640330/0",
     "score": 55,
     "tags": []
   },
@@ -755,9 +678,9 @@
     "tags": []
   },
   {
-    "id": "076cec9765e4",
+    "id": "d4799a55d37b",
     "title": "[远程工作] 找一个 UI/UX 合作，产品面向海外",
-    "url": "https://www.v2ex.com/t/1245474#reply0",
+    "url": "https://www.v2ex.com/t/1245474#reply1",
     "summary": "[远程工作] 找一个 UI/UX 合作，产品面向海外",
     "source": "V2EX·招聘",
     "category": "就业",
@@ -827,26 +750,14 @@
     "tags": []
   },
   {
-    "id": "b4d587d836d8",
-    "title": "大学生创业补贴成为一些中介眼中“唐僧肉” 代办背后有何法律风险？",
-    "url": "https://www.msn.cn/zh-cn/news/other/大学生创业补贴成为一些中介眼中-唐僧肉-代办背后有何法律风险/ar-AA2dethE",
-    "summary": "近期，大学生创业补贴相关讨论的网络热度持续走高。记者走访发现，虽然部分地区要求自主申报大学生创业补贴，明文禁止中介机构虚假包装和代办行为，或对代办行为作出法律风险提示，但仍有不少创业者被中介围猎",
-    "source": "Bing·大学生创业扶持政策",
+    "id": "03ec1cc850c8",
+    "title": "就业增收入 人才激活力 社保守底线——甘肃临泽人社多点发力激活 ...",
+    "url": "https://www.sohu.com/a/1081831858_121107000",
+    "summary": "今年以来，甘肃省临泽县人社局紧扣乡村振兴工作部署，立足县域实际，聚焦就业增收、人才赋能、社保兜底三大关键领域，精准破解乡村就业供需不匹配、本土人才培育薄弱、基层社保服务不畅等现实问题。通过创新服务模式",
+    "source": "Bing·人社部就业创业政策",
     "category": "政策",
-    "published": "2026-09-30T03:54:00.000Z",
-    "image": "",
-    "score": 50,
-    "tags": []
-  },
-  {
-    "id": "deeadda27130",
-    "title": "创业帮扶从“活动当天”延伸到“项目落地” 河北“青创启航&#183;校园 ...",
-    "url": "https://news.qq.com/rain/a/20260928A075TR00",
-    "summary": "日前，河北省2026年“源来好创业”资源对接服务季“青创启航&#183;校园行”主题活动在河北科技大学举办。活动以“搭建对接平台 携手助你创业”为主题，由河北省人力资源和社会保障厅、河北科技大学主办，",
-    "source": "Bing·大学生创业扶持政策",
-    "category": "政策",
-    "published": "2026-09-28T07:34:00.000Z",
-    "image": "",
+    "published": "2026-09-28T09:22:00.000Z",
+    "image": "https://q8.itc.cn/q_70/images03/20260928/4f351e8915794be0a5974d3e8ee24a0a.png",
     "score": 50,
     "tags": []
   },
@@ -1121,7 +1032,6 @@
     "source": "就业报告",
     "category": "就业",
     "published": "2026-09-04T04:35:00.000Z",
-    "image": "https://www.eet-china.com/static/image/mianbaoban/specialcolumn/xinyu_logo.png",
     "score": 50,
     "tags": []
   },
@@ -1145,7 +1055,6 @@
     "source": "数据分析·就业分析",
     "category": "就业",
     "published": "2026-09-20T08:45:00.000Z",
-    "image": "//q4.itc.cn/images01/20260920/dadb8993d762440aa19b6ba165806807.jpeg",
     "score": 50,
     "tags": []
   },
@@ -1157,7 +1066,6 @@
     "source": "嵌入式开发·就业分析",
     "category": "就业",
     "published": "2026-09-11T03:22:00.000Z",
-    "image": "//n.sinaimg.cn/spider20260911/213/w1672h941/20260911/a3d0-1099504d352a87c87cc3608a30f6ac00.jpg",
     "score": 50,
     "tags": []
   },
@@ -1169,7 +1077,6 @@
     "source": "嵌入式开发·就业分析",
     "category": "就业",
     "published": "2026-09-17T09:50:00.000Z",
-    "image": "https://csdnimg.cn/release/cmsfe/public/img/code-Icon.9ffdd99c.jpg",
     "score": 50,
     "tags": []
   },
@@ -1181,7 +1088,6 @@
     "source": "安全工程师·就业分析",
     "category": "就业",
     "published": "2026-08-25T11:27:00.000Z",
-    "image": "https://www.eol.cn/kaoshi/“ />\n    <meta property=",
     "score": 50,
     "tags": []
   },
@@ -1193,7 +1099,6 @@
     "source": "安全工程师·就业分析",
     "category": "就业",
     "published": "2026-07-17T03:44:00.000Z",
-    "image": "https://www.eol.cn/kaoshi/“ />\n    <meta property=",
     "score": 50,
     "tags": []
   },
@@ -1205,7 +1110,6 @@
     "source": "安全工程师·就业分析",
     "category": "就业",
     "published": "2026-08-04T14:00:00.000Z",
-    "image": "https://inews.gtimg.com/om_ls/OfOnvb4vDVxg2PXrJuMkW6e8AhBzw2-qwOQ7NRe4Q75l4AA_640330/0",
     "score": 50,
     "tags": []
   },
@@ -1217,7 +1121,6 @@
     "source": "安全工程师·就业分析",
     "category": "就业",
     "published": "2026-08-10T14:01:00.000Z",
-    "image": "https://inews.gtimg.com/om_ls/OKTFEuor3Ryi6_64_mTPnKrxN5Pb2-6f_U29ckt8DjJiMAA_640330/0",
     "score": 50,
     "tags": []
   },
@@ -1306,18 +1209,6 @@
     "tags": []
   },
   {
-    "id": "644e8e4cdaaa",
-    "title": "这封信，写给2026届高校毕业生",
-    "url": "https://finance.sina.com.cn/tjhz/2026-07-07/doc-inifyvaw8349452.shtml",
-    "summary": "原标题：这封信，写给2026届高校毕业生 2026届高校毕业生即将告别熟悉的校园，奔赴人生崭新的天地。毕业季，国家大学生就业服务平台致信毕业生",
-    "source": "就业报告",
-    "category": "就业",
-    "published": "2026-07-07T10:55:00.000Z",
-    "image": "",
-    "score": 40,
-    "tags": []
-  },
-  {
     "id": "0b1cdac75f2e",
     "title": "应届生身份，就是银行秋招的“黄金通行证”",
     "url": "https://www.sohu.com/a/1083445386_121123825",
@@ -1352,6 +1243,15 @@
     "image": "https://n.sinaimg.cn/finance/transform/260/w880h180/20180326/zi4T-fysqfnf9377213.png",
     "score": 40,
     "tags": []
+  },
+  {
+    "id": "539a805f7f2b",
+    "title": "Sanders introduces bill to ban the federal government from using Flock",
+    "url": "https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/",
+    "source": "TechCrunch",
+    "category": "科技",
+    "published": "2026-10-03T00:21:57.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/flock-protest.jpg?resize=1131,1200"
   },
   {
     "id": "f8f9945809c1",
@@ -1435,13 +1335,13 @@
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/laytr2.jpg?resize=1200,738"
   },
   {
-    "id": "a5ffab817e6a",
-    "title": "Slovenia&#8217;s .si domain sees a surge in registrations after Trump&#8217;s &#8216;super intelligence&#8217; order",
-    "url": "https://techcrunch.com/2026/10/02/slovenias-si-domain-sees-a-surge-in-registrations-after-trumps-super-intelligence-order/",
-    "source": "TechCrunch",
+    "id": "ffbd5b5c3ea3",
+    "title": "Lions and cheetahs and chimps, oh my: a spotlight on Africa's diverse wildlife",
+    "url": "https://arstechnica.com/science/2026/10/lions-and-cheetahs-and-chimps-oh-my-a-spotlight-on-africas-diverse-wildlife/",
+    "source": "Ars Technica",
     "category": "科技",
-    "published": "2026-10-02T14:47:46.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297572109.jpg?w=1024"
+    "published": "2026-10-04T15:34:14.000Z",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/africa3-1152x648.jpg"
   },
   {
     "id": "f5bb5140c9ba",
@@ -1613,15 +1513,6 @@
     "category": "科技",
     "published": "2026-10-01T22:07:33.000Z",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/crewdragon1crew13-1152x648.jpg"
-  },
-  {
-    "id": "666ab6cbe8a4",
-    "title": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
-    "url": "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/",
-    "source": "Ars Technica",
-    "category": "科技",
-    "published": "2026-10-01T20:28:45.000Z",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/data-leak-1000x648.jpeg"
   },
   {
     "id": "72286048b2f7",
@@ -1966,24 +1857,6 @@
     "image": ""
   },
   {
-    "id": "d2cd24e718f3",
-    "title": "秋招遇上AI面试官：孩子刷了十二年标准答案，却没学怎么像个人",
-    "url": "https://www.sohu.com/a/1083749589_122973919",
-    "source": "Bing·秋招",
-    "category": "就业",
-    "published": "2026-10-03T15:39:00.000Z",
-    "image": "//q0.itc.cn/images01/20261003/319fb96bb41c4362b2a8ac55cf9e48c1.jpeg"
-  },
-  {
-    "id": "95a4685aa938",
-    "title": "非常不错的运维兼职",
-    "url": "https://www.v2ex.com/t/1246348#reply9",
-    "source": "V2EX·招聘",
-    "category": "就业",
-    "published": "2026-10-04T02:58:27.000Z",
-    "image": "https://cdn.v2ex.com/avatar/bf8f/1489/486010_xlarge.png?m=1701732869"
-  },
-  {
     "id": "9edea21b2ff4",
     "title": "[招聘] 海外运营客服",
     "url": "https://www.v2ex.com/t/1246303#reply3",
@@ -2299,6 +2172,15 @@
     "image": "https://static001.infoq.cn/resource/image/f0/3e/f0e58becf26cd139bc90a65280e9c23e.jpg"
   },
   {
+    "id": "e948a4d27b93",
+    "title": "ABP x Vue：介绍 ABP Vue UI - liangshiwei",
+    "url": "https://www.cnblogs.com/LiangSW/p/23199106/ABPxVue-Introduce",
+    "source": "博客园",
+    "category": "开发",
+    "published": "2026-10-04T15:49:00.000Z",
+    "image": "https://img2024.cnblogs.com/blog/832799/202610/832799-20261004234701659-769013707.png"
+  },
+  {
     "id": "dd7c3e9bbd74",
     "title": "编码器读到的到底是什么：从脉冲到速度 - Zw-awa",
     "url": "https://www.cnblogs.com/zw-awa/p/23198962",
@@ -2468,15 +2350,6 @@
     "category": "开发",
     "published": "2026-10-03T04:35:00.000Z",
     "image": "https://assets.cnblogs.com/images/wechat-share.jpg"
-  },
-  {
-    "id": "aba4f887c015",
-    "title": "nav2官方的bringup文件阅读笔记-命名空间，composition - 凪风sama",
-    "url": "https://www.cnblogs.com/CrescentWind/p/23190474",
-    "source": "博客园",
-    "category": "开发",
-    "published": "2026-10-03T03:29:00.000Z",
-    "image": "https://img2024.cnblogs.com/blog/3147612/202610/3147612-20261003112751929-2062849232.png"
   },
   {
     "id": "3654f4898827",
