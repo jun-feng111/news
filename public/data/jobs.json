@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-05T08:29:54.253Z",
-  "count": 123,
+  "updated": "2026-10-05T18:00:43.824Z",
+  "count": 122,
   "sources": {
     "V2EX": 6,
     "RemoteOK": 99,
-    "Remotive": 18,
+    "Remotive": 17,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
@@ -125,6 +125,36 @@
       "url": "https://www.v2ex.com/t/1245372",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "remoteok-1137463",
+      "title": "Federal Business Development Director",
+      "company": "Fortanix",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "exec",
+        "infosec",
+        "teaching",
+        "consulting",
+        "technical",
+        "customer support",
+        "marketing",
+        "speech",
+        "cloud",
+        "bus dev",
+        "sales",
+        "medical"
+      ],
+      "category": "exec",
+      "postedDate": "2026-10-04",
+      "url": "https://remoteOK.com/remote-jobs/remote-federal-business-development-director-fortanix-1137463",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137461",
@@ -1552,25 +1582,6 @@
       "postedDate": "2026-09-06",
       "url": "https://remoteOK.com/remote-jobs/remote-ai-response-analyst-imerit-technology-1137309",
       "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remotive-1185979",
-      "title": "Freelance Writer",
-      "company": "IAPWE",
-      "location": "Worldwide",
-      "remote": true,
-      "salaryText": "$50-$75 /hour",
-      "salaryMin": 50,
-      "salaryMax": 75,
-      "salaryCurrency": "USD",
-      "skills": [
-        "REST"
-      ],
-      "category": "Writing",
-      "postedDate": "2026-09-04",
-      "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
-      "source": "Remotive",
       "region": "foreign"
     },
     {
@@ -3216,36 +3227,6 @@
       "category": "marketing",
       "postedDate": "2026-07-30",
       "url": "https://remoteOK.com/remote-jobs/remote-growth-strategist-lyric-1135681",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1135697",
-      "title": "Administrative Assistant",
-      "company": "Viable Medical Solutions",
-      "location": "Greater Orlando",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "design",
-        "music",
-        "customer support",
-        "travel",
-        "video",
-        "exec",
-        "content writing",
-        "ops",
-        "marketing",
-        "ads",
-        "digital nomad",
-        "hr"
-      ],
-      "category": "design",
-      "postedDate": "2026-07-30",
-      "url": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-viable-medical-solutions-1135697",
       "source": "RemoteOK",
       "region": "foreign"
     }
