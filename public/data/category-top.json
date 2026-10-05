@@ -1,54 +1,4 @@
 {
-  "AI": [
-    {
-      "id": "072378cdfd56",
-      "title": "Google froze its open source bug bounty program due to a &#8216;significant rise&#8217; in AI submissions",
-      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-      "summary": "Google froze its open source bug bounty program due to a &#8216;significant rise&#8217; in AI submis",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-04T20:31:07.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/07/ai-slop-bug-bounty-reports-1646637201.jpg?resize=1200,863",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "693ea3f4f734",
-      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-      "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-      "summary": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-04T20:08:34.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297262633.jpg?resize=1200,800",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "6b3471ffae71",
-      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-      "summary": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-03T16:30:01.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "6ae30ec75fda",
-      "title": "All the AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "summary": "All the AI agents that can live in your text messages",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-03T14:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
-      "score": 70,
-      "tags": []
-    }
-  ],
   "科技": [
     {
       "id": "f7c282232744",
@@ -111,41 +61,67 @@
       "tags": []
     }
   ],
+  "AI": [
+    {
+      "id": "6b3471ffae71",
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "summary": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-03T16:30:01.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "6ae30ec75fda",
+      "title": "All the AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "summary": "All the AI agents that can live in your text messages",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-03T14:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "072378cdfd56",
+      "title": "Google froze its open source bug bounty program due to a &#8216;significant rise&#8217; in AI submissions",
+      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "summary": "Google froze its open source bug bounty program due to a &#8216;significant rise&#8217; in AI submis",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-04T20:31:07.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/07/ai-slop-bug-bounty-reports-1646637201.jpg?resize=1200,863",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "693ea3f4f734",
+      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+      "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "summary": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-04T20:08:34.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297262633.jpg?resize=1200,800",
+      "score": 65,
+      "tags": []
+    }
+  ],
   "就业": [
     {
       "id": "c76b56413d4a",
       "title": "AI人才缺口超500万！有最新报告称，AI抢人逻辑悄悄变了：架构师新发 ...",
       "url": "https://news.qq.com/rain/a/20260718A08XHR00",
       "summary": "人才缺口500万，大厂抢得最凶的不是算法工程师，架构师新发职位同比大涨近八成。懂提示词和人机训练岗位的文科生，平均年薪达到34",
-      "source": "就业报告",
+      "source": "算法工程师·就业分析",
       "category": "就业",
       "published": "2026-07-18T11:05:00.000Z",
       "image": "https://inews.gtimg.com/om_ls/Ows_BB25Bhnf-wlGWgFoIkmLSVd_6MJWCT8-yw6C3HS10AA_640330/0",
       "score": 65,
-      "tags": []
-    },
-    {
-      "id": "5c442ae016a2",
-      "title": "前程无忧：AI岗位平均月薪2.5万元 算法岗招聘近八成 多数要求5-10年 ...",
-      "url": "https://finance.sina.com.cn/stock/bxjj/2026-07-14/doc-inihuhka8550670.shtml",
-      "summary": "格隆汇7月14日｜前程无忧51job基于平台近一年招聘与求职数据发布《2026人工智能人才洞察》。数据显示，民营企业贡献近六成岗位，头部企业人才需求量居于前列，超千人规模的大型企业职位发布量增速位居第",
-      "source": "算法工程师·就业分析",
-      "category": "就业",
-      "published": "2026-07-14T09:55:00.000Z",
-      "image": "https://n.sinaimg.cn/finance/cece9e13/20240627/655959900_20240627.png",
-      "score": 65,
-      "tags": []
-    },
-    {
-      "id": "61c1fb8ac6bc",
-      "title": "秋招新现象：求职者AI反向背调盛行，虚假招聘套路升级",
-      "url": "https://www.msn.cn/zh-cn/news/other/秋招新现象-求职者ai反向背调盛行-虚假招聘套路升级/ar-AA2dd17c",
-      "summary": "近日，人力资源服务商前程无忧51job基于《2026校园招聘白皮书》最新调研数据及平台治理中发现的最新情况，梳理出本届秋招中毕业生尤其需要关注的新变化及“避坑点”，发布《2027届毕业生秋招提示》，帮",
-      "source": "Bing·秋招",
-      "category": "就业",
-      "published": "2026-09-29T02:57:21.000Z",
-      "image": "",
-      "score": 60,
       "tags": []
     },
     {
@@ -170,6 +146,29 @@
       "published": "2026-09-18T07:41:00.000Z",
       "image": "http://static.nbd.com.cn/images/app/nbd_icon_300_normal.png",
       "score": 60,
+      "tags": []
+    },
+    {
+      "id": "bd1e87cc0b61",
+      "title": "2026产品经理生死线：AI原生进化或致职业断崖！AI产品经理必备学习 ...",
+      "url": "https://blog.csdn.net/Trb701012/article/details/166465322",
+      "summary": "文章浏览阅读941次。AI大模型的发展不是“替代人类”，而是“重塑职业价值”——它淘汰的是重复性、低附加值的工作，却催生了更多需要“技术+业务”交叉能力的高端岗位",
+      "source": "产品经理·就业分析",
+      "category": "就业",
+      "published": "2026-09-23T03:43:00.000Z",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "36b99c464186",
+      "title": "银行业2027年度校园招聘：国有大行优结构 改制银行补短板",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-03/doc-initxnhc3987921.shtml",
+      "summary": "9月以来，一些银行陆续发布2027年度校园招聘（以下简称“校招”）公告。除了人才吸纳的“主力军”大中型商业银行，新组建的省级农商行、农商联合银行同步释放校招计划，成为今年银行业秋招市场上一股不可忽视的",
+      "source": "Bing·校园招聘",
+      "category": "就业",
+      "published": "2026-10-02T22:01:00.000Z",
+      "image": "https://n.sinaimg.cn/finance/transform/260/w880h180/20180326/zi4T-fysqfnf9377213.png",
+      "score": 55,
       "tags": []
     }
   ],
@@ -237,6 +236,30 @@
   ],
   "政策": [
     {
+      "id": "a58df33d6bee",
+      "title": "线上创业局收官不落幕！在白沙，给想搞事业的年轻人找答案",
+      "url": "https://view.inews.qq.com/a/20260930A03AXB00",
+      "summary": "白沙“趣”就业直播间是由白沙县劳动就业服务中心打造的云直播栏目，为大家趣味解读各类就业创业惠民政策、发布最新就业资讯、分享本土创业故事、开展能人榜样访谈，让大家足不出户就能读懂政策、找准岗位、知晓办事",
+      "source": "Bing·大学生创业扶持政策",
+      "category": "政策",
+      "published": "2026-09-30T03:04:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/O4UyYpDwTz1D7V6PnY1qhN8hiBsY2k4Q2DP6R8Ih6r78MAA_640330/0",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "ed0822808f9b",
+      "title": "温州发布专项政策指南 为残疾人大学生就业创业“撑腰”",
+      "url": "https://news.66wz.com/system/2026/07/16/105805829.shtml",
+      "summary": "市人社局与市残联携手对现行最实用、最优惠的就创业补贴政策进行全面梳理，并形成《温州市残疾人大学生就业创业政策指南》，助力这一特殊群体跨越障碍，实现更加充分、更高质量的就业和创业。 温州网讯 为支持更多",
+      "source": "就业创业政策",
+      "category": "政策",
+      "published": "2026-07-16T01:51:00.000Z",
+      "image": "https://news.66wz.com/pic/003/013/337/00301333742_93765919.gif",
+      "score": 55,
+      "tags": []
+    },
+    {
       "id": "305387d163cc",
       "title": "最高可贷50万元，湖南优化政策为大学生创业送上金融“活水”",
       "url": "https://news.qq.com/rain/a/20260918A057B200",
@@ -261,38 +284,14 @@
       "tags": []
     },
     {
-      "id": "79d3290cfd34",
-      "title": "基层动态 | 内江市：做实就业公共服务，助推高校毕业生就业攻坚提 ...",
-      "url": "https://www.sohu.com/a/1082707605_121106884",
-      "summary": "为贯彻落实省委、省政府2026年高校毕业生等青年就业服务攻坚行动部署，内江市迅即启动以 “服务不断线 攻坚促就业” 为主题的高校毕业生就业攻坚行动，制定《2026年离校未就业高校毕业生等失业青年就业创",
-      "source": "Bing·高校毕业生就业创业政策",
+      "id": "b4d587d836d8",
+      "title": "大学生创业补贴成为一些中介眼中“唐僧肉” 代办背后有何法律风险？",
+      "url": "https://www.msn.cn/zh-cn/news/other/大学生创业补贴成为一些中介眼中-唐僧肉-代办背后有何法律风险/ar-AA2dethE",
+      "summary": "近期，大学生创业补贴相关讨论的网络热度持续走高。记者走访发现，虽然部分地区要求自主申报大学生创业补贴，明文禁止中介机构虚假包装和代办行为，或对代办行为作出法律风险提示，但仍有不少创业者被中介围猎",
+      "source": "Bing·大学生创业扶持政策",
       "category": "政策",
-      "published": "2026-09-30T07:00:00.000Z",
-      "image": "https://q9.itc.cn/q_70/images03/20260930/85049868b0cb45c9836ed0d2b1ad7863.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "b0edb31cce86",
-      "title": "内蒙古霍林郭勒市：稳就业精准发力护航高校毕业生逐梦前行",
-      "url": "https://www.sohu.com/a/1081766379_120578424",
-      "summary": "高校毕业生就业是稳就业、保民生、促发展的重中之重，事关青年成长成才，事关民生改善和社会稳定，也事关地方长远发展后劲。2026年以来，内蒙古霍林郭勒市人社部门坚持把高校毕业生就业作为头等民生大事，将高校",
-      "source": "Bing·高校毕业生就业创业政策",
-      "category": "政策",
-      "published": "2026-09-28T04:23:00.000Z",
+      "published": "2026-09-30T03:54:00.000Z",
       "image": "",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "03ec1cc850c8",
-      "title": "就业增收入 人才激活力 社保守底线——甘肃临泽人社多点发力激活 ...",
-      "url": "https://www.sohu.com/a/1081831858_121107000",
-      "summary": "今年以来，甘肃省临泽县人社局紧扣乡村振兴工作部署，立足县域实际，聚焦就业增收、人才赋能、社保兜底三大关键领域，精准破解乡村就业供需不匹配、本土人才培育薄弱、基层社保服务不畅等现实问题。通过创新服务模式",
-      "source": "Bing·人社部就业创业政策",
-      "category": "政策",
-      "published": "2026-09-28T09:22:00.000Z",
-      "image": "https://q8.itc.cn/q_70/images03/20260928/4f351e8915794be0a5974d3e8ee24a0a.png",
       "score": 50,
       "tags": []
     }
@@ -361,48 +360,48 @@
   ],
   "财经": [
     {
-      "id": "3010b72c82fc",
-      "title": "三亚离岛免税购物“宠粉” 国庆假期前三天销售额同比增长超13%",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-05/10708017.shtml",
+      "id": "7ef366a0a57d",
+      "title": "何以中国·青绿人间丨一椒尝出中国味 “绿电”托举产业兴",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-05/10708164.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-05T01:30:46.000Z",
+      "published": "2026-10-05T08:19:58.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "a7540316e3aa",
-      "title": "人均带三个空箱来华购物的“China Haul”火了",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-04/10707978.shtml",
+      "id": "48e0214e9914",
+      "title": "黄河干流海拔最高水电站发电量创历史新高",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-05/10708154.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-04T13:38:15.000Z",
+      "published": "2026-10-05T08:01:37.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "f404243d24aa",
-      "title": "商务部：国庆假期前四天全国消费市场平稳有序",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-04/10707975.shtml",
+      "id": "77dc395966b2",
+      "title": "红色街区焕发新活力（赓续长征精神 奋进复兴征程·记者再走长征路）",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-05/10708158.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-04T13:20:22.000Z",
+      "published": "2026-10-05T08:00:33.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "d3b89eedcfb5",
-      "title": "“心价比”崛起：情绪消费成国庆消费新主角",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-04/10707972.shtml",
+      "id": "af359c2c3680",
+      "title": "花香引客来 云南元江茉莉花产业成乡村振兴“芬芳引擎”",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-05/10708133.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-04T13:08:35.000Z",
+      "published": "2026-10-05T06:53:18.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "30ccc63230d8",
-      "title": "湖北重点城市和景区旅游接待创新高",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-04/10707969.shtml",
+      "id": "d57f101f2721",
+      "title": "国庆档票房破8亿！“电影+”新活力激发消费新增量",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-05/10708127.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-04T13:04:57.000Z",
+      "published": "2026-10-05T06:29:39.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
