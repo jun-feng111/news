@@ -9,7 +9,7 @@
       "category": "AI",
       "published": "2026-10-05T20:36:48.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
-      "score": 85,
+      "score": 80,
       "tags": []
     },
     {
@@ -21,7 +21,7 @@
       "category": "AI",
       "published": "2026-10-05T18:29:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259084458.jpg?resize=1200,801",
-      "score": 80,
+      "score": 75,
       "tags": []
     },
     {
@@ -45,7 +45,7 @@
       "category": "AI",
       "published": "2026-10-05T19:33:53.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Reflection-AI-Beam.png?resize=1200,669",
-      "score": 70,
+      "score": 65,
       "tags": []
     },
     {
@@ -57,7 +57,7 @@
       "category": "AI",
       "published": "2026-10-05T18:54:30.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
-      "score": 70,
+      "score": 65,
       "tags": []
     }
   ],
@@ -71,7 +71,7 @@
       "category": "科技",
       "published": "2026-10-05T21:54:01.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2025/04/lucid-gravity-main.jpg?resize=1200,675",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -83,7 +83,7 @@
       "category": "科技",
       "published": "2026-10-05T20:24:09.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/07/Sequoia_Etched-Abhishek-Malani-Robert-Wachen-Sonya-Huang-Gavin-Uberti-copy.jpeg?resize=1200,846",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -95,7 +95,7 @@
       "category": "科技",
       "published": "2026-10-05T19:38:07.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/07/Matt-Murphy-Menlo-Ventures.jpeg?resize=1200,1200",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -134,18 +134,6 @@
       "tags": []
     },
     {
-      "id": "e9b1678267d0",
-      "title": "AI项目管理人才为什么薪资高？大模型落地缺的是懂技术又懂交付的人",
-      "url": "https://www.sohu.com/a/1082212866_99999728",
-      "summary": "打开招聘平台，AI相关岗位的数量在过去一年里发生了明显变化。2026年春招数据显示，AI领域岗位量同比增长8",
-      "source": "就业报告",
-      "category": "就业",
-      "published": "2026-09-29T07:07:00.000Z",
-      "image": "//q0.itc.cn/images01/20260929/7cb5bf061d3e4ca2bd952244c3e02614.jpeg",
-      "score": 60,
-      "tags": []
-    },
-    {
       "id": "7964f9bfde02",
       "title": "FDE工程师和传统程序员，2026年谁更抢手",
       "url": "https://www.sohu.com/a/1082572843_122941499",
@@ -178,6 +166,18 @@
       "category": "就业",
       "published": "2026-09-23T03:43:00.000Z",
       "score": 60,
+      "tags": []
+    },
+    {
+      "id": "7d82ccb7cb38",
+      "title": "[深圳 9.30 岗位更新] SHEIN 内推：算法/大模型/后端/数据/安全/测试/iOS， 20-80K",
+      "url": "https://www.v2ex.com/t/1245910#reply2",
+      "summary": "30 岗位更新] SHEIN 内推：算法/大模型/后端/数据/安全/测试/iOS， 20-80K",
+      "source": "V2EX·招聘",
+      "category": "就业",
+      "published": "2026-09-30T13:21:07.000Z",
+      "image": "https://cdn.v2ex.com/avatar/75c4/8976/45253_xlarge.png?m=1785748830",
+      "score": 55,
       "tags": []
     }
   ],
@@ -243,6 +243,68 @@
       "tags": []
     }
   ],
+  "社会": [
+    {
+      "id": "bae19fefc900",
+      "title": "“社会运行论”标识性概念·原创性理论发布与研讨会举行",
+      "url": "https://www.chinanews.com.cn/edu/2026/10-04/10707777.shtml",
+      "summary": "中新网北京10月4日电 在著名社会学家、中国人民大学原副校长郑杭生九十周年诞辰之际，“社会运行论”标识性概念·原创性理论发布与研讨会暨郑杭生铜像揭幕仪式近日在中国人民大学通州校区举行",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-10-04T04:51:48.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "a0f5d4ffc36e",
+      "title": "美国青年的“中国假期”：好奇为桥 包容作舟",
+      "url": "https://www.chinanews.com.cn/edu/2026/10-04/10707781.shtml",
+      "summary": "中新网嘉兴10月4日电 题：美国青年的“中国假期”：好奇为桥 包容作舟",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-10-04T04:56:26.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "f7a898e3e5e6",
+      "title": "赓续百年文脉 重庆合川瑞山中学多措并举让“作孚精神”薪火相传",
+      "url": "https://www.chinanews.com.cn/edu/2026/10-04/10707738.shtml",
+      "summary": "中新网重庆10月4日电 (记者 钟旖)“忠实地做事，诚恳地对人”——这是中国近代爱国实业家卢作孚留下的人生箴言。在重庆的三江之畔，这句箴言如今化作一所中学的办学底色，在合川区代代传扬",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-10-04T03:15:56.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "55b80142aad7",
+      "title": "校馆弦歌丨“竢实扬华、自强不息” 解读西南交大精神密码",
+      "url": "https://www.chinanews.com.cn/edu/2026/10-03/10707652.shtml",
+      "summary": "巍巍学府，弦歌不辍。《校馆弦歌·此间读中国》系列，今天走进西南交通大学图书馆",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-10-03T13:56:44.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "5bc2c388fadd",
+      "title": "阿曼智慧宫中文教育学院正式揭牌 搭建中阿文明互鉴新平台",
+      "url": "https://www.chinanews.com.cn/edu/2026/10-02/10707151.shtml",
+      "summary": "中新网银川10月2日电 (记者 李佩珊)记者2日从宁夏侨联获悉，阿曼智慧宫中文教育学院已结束试运营阶段，完成正式揭牌，迈入规范化、常态化运营新阶段，为中阿人文交流与文明互鉴搭建起全新文教桥梁",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-10-02T07:18:02.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
+    }
+  ],
   "政策": [
     {
       "id": "a58df33d6bee",
@@ -257,17 +319,6 @@
       "tags": []
     },
     {
-      "id": "ed0822808f9b",
-      "title": "温州发布专项政策指南 为残疾人大学生就业创业“撑腰”",
-      "url": "https://news.66wz.com/system/2026/07/16/105805829.shtml",
-      "summary": "市人社局与市残联携手对现行最实用、最优惠的就创业补贴政策进行全面梳理，并形成《温州市残疾人大学生就业创业政策指南》，助力这一特殊群体跨越障碍，实现更加充分、更高质量的就业和创业。 温州网讯 为支持更多",
-      "source": "就业创业政策",
-      "category": "政策",
-      "published": "2026-07-16T01:51:00.000Z",
-      "score": 55,
-      "tags": []
-    },
-    {
       "id": "305387d163cc",
       "title": "最高可贷50万元，湖南优化政策为大学生创业送上金融“活水”",
       "url": "https://news.qq.com/rain/a/20260918A057B200",
@@ -277,6 +328,18 @@
       "published": "2026-09-18T04:59:00.000Z",
       "image": "",
       "score": 55,
+      "tags": []
+    },
+    {
+      "id": "0465ce5b383e",
+      "title": "【鸿雁归巢】呼伦贝尔籍在校大学生家乡行——根河市就业服务中心 ...",
+      "url": "https://www.sohu.com/a/1082222506_121106854",
+      "summary": "为全面落实党中央、国务院关于做好高校毕业生等青年就业创业服务工作的决策部署和市政府工作要求，呼伦贝尔市就业服务中心在全市范围内组织开展“呼伦贝尔籍在校大学生家乡行”实践活动，旨在引导在校生毕业后返乡就",
+      "source": "Bing·大学生就业政策",
+      "category": "政策",
+      "published": "2026-09-29T07:19:00.000Z",
+      "image": "https://q3.itc.cn/q_70/images03/20260929/110d602366d54feba1a3846625d82f22.png",
+      "score": 50,
       "tags": []
     },
     {
@@ -304,112 +367,50 @@
       "tags": []
     }
   ],
-  "社会": [
-    {
-      "id": "55b80142aad7",
-      "title": "校馆弦歌丨“竢实扬华、自强不息” 解读西南交大精神密码",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-03/10707652.shtml",
-      "summary": "巍巍学府，弦歌不辍。《校馆弦歌·此间读中国》系列，今天走进西南交通大学图书馆",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-10-03T13:56:44.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "5bc2c388fadd",
-      "title": "阿曼智慧宫中文教育学院正式揭牌 搭建中阿文明互鉴新平台",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-02/10707151.shtml",
-      "summary": "中新网银川10月2日电 (记者 李佩珊)记者2日从宁夏侨联获悉，阿曼智慧宫中文教育学院已结束试运营阶段，完成正式揭牌，迈入规范化、常态化运营新阶段，为中阿人文交流与文明互鉴搭建起全新文教桥梁",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-10-02T07:18:02.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "9a27a464f8da",
-      "title": "中澳学者在沪共论AI时代设计教育新范式",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-01/10706786.shtml",
-      "summary": "中新网上海10月1日电 (记者 许婧)9月30日，2026世界设计之都大会配套活动“匠心与算力”中澳设计教育论坛在上海举办。中国与澳大利亚学界、产业界专家齐聚一堂，围绕匠心传承与人工智能(AI)赋能，",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-10-01T09:03:17.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "3c117bb03026",
-      "title": "西南大学代表团赴英国开展教育合作与学生交流",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-01/10706613.shtml",
-      "summary": "中新网伦敦10月1日电 (欧阳开宇 卢映荷)西南大学代表团日前赴英国伦敦、剑桥、牛津等地，走访多所高校及教育机构，围绕合作办学、跨国教学项目和学生双向交流座谈，为西南地区学生对接国际教育资源，同时探索",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-10-01T02:17:13.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "b79e1ab6367e",
-      "title": "逾130岁韬奋楼修缮归来 钟声再响、历史样貌重现世间",
-      "url": "https://www.chinanews.com.cn/edu/2026/09-30/10706541.shtml",
-      "summary": "中新网上海9月30日电(记者 陈静)每逢整点，苏州河畔华东政法大学内的韬奋楼便会响起悠悠钟声，令人心生厚重感",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-09-30T13:38:19.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
-    }
-  ],
   "财经": [
     {
-      "id": "8d81bc3514a2",
-      "title": "出行热 体验丰 门市旺——国庆假期消费市场观察",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-05/10708296.shtml",
+      "id": "d158ba62f6e3",
+      "title": "（乡村行·看振兴）农旅融合助农增收 福建福安高山村落迎蝶变",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-06/10708397.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-05T15:33:55.000Z",
+      "published": "2026-10-06T03:54:16.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "0873b1032d2b",
-      "title": "超越美国、德国，中国汽车供应链企业改写全球产业格局",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-05/10708252.shtml",
+      "id": "8656769daa06",
+      "title": "一场演出“牵动”全城 中国城市竞逐“情绪价值”留客",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-06/10708395.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-05T12:24:01.000Z",
+      "published": "2026-10-06T03:53:26.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "d6a879d0aaaa",
-      "title": "坚守一线筑通途 浙江重大交通项目建设提速",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-05/10708238.shtml",
+      "id": "c8022853ff22",
+      "title": "铜价连续刷新历史高点 铜产业需跳出结构性困局",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-06/10708368.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-05T11:40:36.000Z",
+      "published": "2026-10-06T02:39:19.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "3482eed9927d",
-      "title": "云南丽江开通直飞韩国清州国际航线",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-05/10708217.shtml",
+      "id": "58e46d738d21",
+      "title": "百日千万招聘专项行动推出四个线上招聘专场",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-06/10708355.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-05T10:48:27.000Z",
+      "published": "2026-10-06T02:09:44.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "3e912cec860b",
-      "title": "10月4日，全社会跨区域人员流动量30539万人次",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-05/10708180.shtml",
+      "id": "47d6e87bc862",
+      "title": "网传凭员工口令可购低价机票 靠谱吗？",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-06/10708330.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-05T09:08:49.000Z",
+      "published": "2026-10-06T01:08:04.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
