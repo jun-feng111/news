@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T12:53:08.333Z",
+  "updated": "2026-10-06T18:50:05.506Z",
   "count": 123,
   "sources": {
     "V2EX": 6,
@@ -9,23 +9,6 @@
     "Adzuna": 0
   },
   "jobs": [
-    {
-      "id": "v2ex-1246651",
-      "title": "招一个业余兼职小说/剧本写手",
-      "company": "uds9u32br",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [],
-      "category": "其他",
-      "postedDate": "2026-10-06",
-      "url": "https://www.v2ex.com/t/1246651",
-      "source": "V2EX",
-      "region": "domestic"
-    },
     {
       "id": "v2ex-1245910",
       "title": "SHEIN 内推：算法/大模型/后端/数据/安全/测试/iOS， 20-80K",
@@ -121,6 +104,49 @@
       "url": "https://www.v2ex.com/t/1245474",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "v2ex-1245372",
+      "title": "成都头部 MCN 团队招聘全栈工程师， AI 不限量使用",
+      "company": "Branlice",
+      "location": "招聘帖",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "go",
+        "golang",
+        "react"
+      ],
+      "category": "全栈",
+      "postedDate": "2026-09-28",
+      "url": "https://www.v2ex.com/t/1245372",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "remoteok-1137465",
+      "title": "Platform and Integration Engineer Security Telemetry",
+      "company": "RedMimicry",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "golang",
+        "infosec",
+        "engineer",
+        "part time"
+      ],
+      "category": "golang",
+      "postedDate": "2026-10-05",
+      "url": "https://remoteOK.com/remote-jobs/remote-platform-and-integration-engineer-security-telemetry-redmimicry-1137465",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remotive-2091149",
@@ -3223,36 +3249,6 @@
       "category": "marketing",
       "postedDate": "2026-07-30",
       "url": "https://remoteOK.com/remote-jobs/remote-growth-strategist-lyric-1135681",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1135697",
-      "title": "Administrative Assistant",
-      "company": "Viable Medical Solutions",
-      "location": "Greater Orlando",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "design",
-        "music",
-        "customer support",
-        "travel",
-        "video",
-        "exec",
-        "content writing",
-        "ops",
-        "marketing",
-        "ads",
-        "digital nomad",
-        "hr"
-      ],
-      "category": "design",
-      "postedDate": "2026-07-30",
-      "url": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-viable-medical-solutions-1135697",
       "source": "RemoteOK",
       "region": "foreign"
     }
