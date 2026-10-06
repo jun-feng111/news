@@ -1,0 +1,7 @@
+{
+  "id": "76d307e1d5df",
+  "title": "Codex解决新模型无法使用/model选择的问题 - xuhe2",
+  "url": "https://www.cnblogs.com/xuhe2/p/23207730",
+  "contentZh": "",
+  "contentFull": "\nTLDR\ncodex debug models --bundled > /root/.codex/model-catalog.json\npython -m json.tool /root/.codex/model-catalog.json > /dev/null\n\n然后在 /root/.codex/config.toml 添加：\nmodel_catalog_json = \"/root/.codex/model-catalog.json\"\n\n最后：\ncodex app-server daemon stop\n\n重新启动 Codex 即可。model_catalog_json 是官方支持的配置项，用于让 Codex 启动时读取指定的模型目录。OpenAI Developers codex debug models --bundled 目前也确实会输出 CLI 内置的 bundled model catalog。\n详细指令操作分析\n问题现象\nCodex 有时会出现模型列表异常：某个模型实际仍然可以使用，但 /model 中找不到；或者 Codex 提示：这类问题不一定意味着模型本身不可用，更可能是 Codex 获取到的 Model Catalog 与当前客户端内置的模型信息不一致。\nCodex 本地实际上存在一份随客户端发布的 bundled model catalog，可以通过下面的命令查看：\ncodex debug models --bundled\n如果目标模型能在这里找到，但 Codex 实际模型列表中没有，那么问题大概率出在 Codex 当前使用的模型目录，而不是模型本身。\n正常运行时，它可能使用服务器返回的模型目录或本地缓存后的模型目录。公开 issue 中已经出现过类似情况：codex debug models --bundled 中存在模型，但 codex debug models、models_cache.json 和模型选择器中却不存在该模型。\n\n强制 Codex 使用当前客户端自带的 bundled model catalog，绕过异常的 effective model catalog。\n\n修复操作\n先把 Codex 当前版本内置的模型目录导出：\ncodex debug models --bundled > /root/.codex/model-catalog.json\n\n\n--bundled 输出的是当前 Codex 客户端内置的模型定义，因此这样可以保证 catalog 与当前客户端版本基本匹配\n\npython -m json.tool /root/.codex/model-catalog.json > /dev/null检验json文件是否是完好的\n然后关闭Codex的app server, codex app-server daemon stop\n\n\n"
+}
