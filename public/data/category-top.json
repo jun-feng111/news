@@ -1,18 +1,6 @@
 {
   "AI": [
     {
-      "id": "aedc083d210f",
-      "title": "How AI decision models could change content moderation",
-      "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
-      "summary": "How AI decision models could change content moderation",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-06T20:35:20.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/ai-agents-chatbots-GettyImages-2243730029.jpg?resize=1200,675",
-      "score": 80,
-      "tags": []
-    },
-    {
       "id": "47e6fb94fc92",
       "title": "Hark releases an AI personal assistant with a focus on privacy",
       "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
@@ -25,14 +13,14 @@
       "tags": []
     },
     {
-      "id": "e2d7657db4f8",
-      "title": "Silicon Valley&#8217;s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
-      "url": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/",
-      "summary": "Silicon Valley&#8217;s AI wunderkind launches Underdog, the most private Instinct/Muse competitor ye",
+      "id": "aedc083d210f",
+      "title": "How AI decision models could change content moderation",
+      "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+      "summary": "How AI decision models could change content moderation",
       "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-10-06T20:47:01.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Conway-Underdog-Sigil-Wen-.jpg?resize=1200,800",
+      "published": "2026-10-06T20:35:20.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/ai-agents-chatbots-GettyImages-2243730029.jpg?resize=1200,675",
       "score": 75,
       "tags": []
     },
@@ -59,6 +47,68 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/ai-agent-bots-GettyImages-2243729307.jpg?resize=1200,800",
       "score": 75,
       "tags": []
+    },
+    {
+      "id": "e2d7657db4f8",
+      "title": "Silicon Valley&#8217;s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
+      "url": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/",
+      "summary": "Silicon Valley&#8217;s AI wunderkind launches Underdog, the most private Instinct/Muse competitor ye",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-06T20:47:01.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Conway-Underdog-Sigil-Wen-.jpg?resize=1200,800",
+      "score": 70,
+      "tags": []
+    }
+  ],
+  "财经": [
+    {
+      "id": "92841c6b049b",
+      "title": "Spotify expands audiobooks to over 180 markets",
+      "url": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/",
+      "summary": "Spotify expands audiobooks to over 180 markets",
+      "source": "TechCrunch",
+      "category": "财经",
+      "published": "2026-10-07T07:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/spotify-logo-phone-GettyImages-2236404299.jpg?w=1024",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "300b8ffdbfb4",
+      "title": "中国国庆假期“兴趣游”受年轻人青睐",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-07/10708742.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-10-07T09:29:56.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "be6d3d5bab87",
+      "title": "山东青岛工业旅游升温 老厂房解锁文旅新消费",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-07/10708732.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-10-07T09:12:07.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "537bb4d5ef03",
+      "title": "来中国体验“科技游”",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-07/10708733.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-10-07T09:04:03.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "5b2da2077a3d",
+      "title": "中国央行连续23个月增持黄金",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-07/10708703.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-10-07T07:35:53.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ],
   "科技": [
@@ -71,18 +121,6 @@
       "category": "科技",
       "published": "2026-10-06T22:55:39.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/03/Amazon-fast-delivery.jpeg?resize=1200,675",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "1f15e5a235c5",
-      "title": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell",
-      "url": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/",
-      "summary": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-10-06T22:53:09.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-26-at-12.45.18-PM.png?resize=1200,927",
       "score": 70,
       "tags": []
     },
@@ -99,16 +137,25 @@
       "tags": []
     },
     {
+      "id": "1f15e5a235c5",
+      "title": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell",
+      "url": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/",
+      "summary": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-10-06T22:53:09.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-26-at-12.45.18-PM.png?resize=1200,927",
+      "score": 65,
+      "tags": []
+    },
+    {
       "id": "23d4205c2c0b",
       "title": "Mirror Particle is building a ‘world model’ of human behavior",
       "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
-      "summary": "Mirror Particle is building a ‘world model’ of human behavior",
       "source": "TechCrunch",
       "category": "科技",
       "published": "2026-10-06T16:35:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1404749040.jpg?resize=1200,675",
-      "score": 70,
-      "tags": []
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1404749040.jpg?resize=1200,675"
     },
     {
       "id": "4903663c6a47",
@@ -121,18 +168,6 @@
     }
   ],
   "就业": [
-    {
-      "id": "def7481c13df",
-      "title": "现在哪些技术岗位好就业、缺口大，入行门槛不算太高？",
-      "url": "https://www.sohu.com/a/1080723066_122565426",
-      "summary": "找工作这件事，最怕的是“一窝蜂”。大家都说人工智能好，但纯算法岗的门槛已经卷到了博士起步；都说程序员高薪，但初级程序员的需求正在肉眼可见地收缩",
-      "source": "算法工程师·就业分析",
-      "category": "就业",
-      "published": "2026-09-25T02:48:00.000Z",
-      "image": "//q9.itc.cn/images01/20260925/aff639bee0754f2999b4be7130b409fe.jpeg",
-      "score": 65,
-      "tags": []
-    },
     {
       "id": "c76b56413d4a",
       "title": "AI人才缺口超500万！有最新报告称，AI抢人逻辑悄悄变了：架构师新发 ...",
@@ -165,7 +200,6 @@
       "source": "数据分析·就业分析",
       "category": "就业",
       "published": "2026-09-18T07:41:00.000Z",
-      "image": "http://static.nbd.com.cn/images/app/nbd_icon_300_normal.png",
       "score": 60,
       "tags": []
     },
@@ -178,6 +212,18 @@
       "category": "就业",
       "published": "2026-09-23T03:43:00.000Z",
       "score": 60,
+      "tags": []
+    },
+    {
+      "id": "36b99c464186",
+      "title": "银行业2027年度校园招聘：国有大行优结构 改制银行补短板",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-03/doc-initxnhc3987921.shtml",
+      "summary": "9月以来，一些银行陆续发布2027年度校园招聘（以下简称“校招”）公告。除了人才吸纳的“主力军”大中型商业银行，新组建的省级农商行、农商联合银行同步释放校招计划，成为今年银行业秋招市场上一股不可忽视的",
+      "source": "Bing·校园招聘",
+      "category": "就业",
+      "published": "2026-10-02T22:01:00.000Z",
+      "image": "https://n.sinaimg.cn/finance/transform/260/w880h180/20180326/zi4T-fysqfnf9377213.png",
+      "score": 55,
       "tags": []
     }
   ],
@@ -207,15 +253,15 @@
       "tags": []
     },
     {
-      "id": "0a74d6d3d955",
-      "title": "谷歌开源面向自主 AI 代理的 Kubernetes 风格编排器 AX",
-      "url": "https://www.infoq.cn/article/M6BRTrsyJvUg8y0M0kyh?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/M6BRTrsyJvUg8y0M0kyh",
+      "id": "6fb60ef7d97b",
+      "title": "DataAgent - 快手大数据生产与分析的智能化探索之路｜QCon上海",
+      "url": "https://www.infoq.cn/article/yVWAQGCZCzI838JESA1b?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/yVWAQGCZCzI838JESA1b",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-09-30T20:40:07.000Z",
-      "image": "https://static001.infoq.cn/resource/image/b5/yy/b52691c5582736585d4873c291723byy.jpg",
-      "score": 60,
+      "published": "2026-10-05T10:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/53/9f/53eb6978d2382c57fbef1f29ff11459f.jpg",
+      "score": 55,
       "tags": []
     },
     {
@@ -319,29 +365,6 @@
       "tags": []
     },
     {
-      "id": "ed0822808f9b",
-      "title": "温州发布专项政策指南 为残疾人大学生就业创业“撑腰”",
-      "url": "https://news.66wz.com/system/2026/07/16/105805829.shtml",
-      "summary": "市人社局与市残联携手对现行最实用、最优惠的就创业补贴政策进行全面梳理，并形成《温州市残疾人大学生就业创业政策指南》，助力这一特殊群体跨越障碍，实现更加充分、更高质量的就业和创业。 温州网讯 为支持更多",
-      "source": "就业创业政策",
-      "category": "政策",
-      "published": "2026-07-16T01:51:00.000Z",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "79d3290cfd34",
-      "title": "基层动态 | 内江市：做实就业公共服务，助推高校毕业生就业攻坚提 ...",
-      "url": "https://www.sohu.com/a/1082707605_121106884",
-      "summary": "为贯彻落实省委、省政府2026年高校毕业生等青年就业服务攻坚行动部署，内江市迅即启动以 “服务不断线 攻坚促就业” 为主题的高校毕业生就业攻坚行动，制定《2026年离校未就业高校毕业生等失业青年就业创",
-      "source": "Bing·高校毕业生就业创业政策",
-      "category": "政策",
-      "published": "2026-09-30T07:00:00.000Z",
-      "image": "https://q9.itc.cn/q_70/images03/20260930/85049868b0cb45c9836ed0d2b1ad7863.png",
-      "score": 50,
-      "tags": []
-    },
-    {
       "id": "837cf0b2307b",
       "title": "央媒聚焦 | 浙江温州织密重点群体就业帮扶网络——政策找人 服务上门",
       "url": "https://www.sohu.com/a/1084087218_121106832",
@@ -354,63 +377,40 @@
       "tags": []
     },
     {
-      "id": "b4d587d836d8",
-      "title": "大学生创业补贴成为一些中介眼中“唐僧肉” 代办背后有何法律风险？",
-      "url": "https://www.msn.cn/zh-cn/news/other/大学生创业补贴成为一些中介眼中-唐僧肉-代办背后有何法律风险/ar-AA2dethE",
-      "summary": "近期，大学生创业补贴相关讨论的网络热度持续走高。记者走访发现，虽然部分地区要求自主申报大学生创业补贴，明文禁止中介机构虚假包装和代办行为，或对代办行为作出法律风险提示，但仍有不少创业者被中介围猎",
-      "source": "Bing·大学生创业扶持政策",
+      "id": "a9d83c92e3c2",
+      "title": "省赛竞技展风采！中山火炬公共就业服务提质增效",
+      "url": "https://www.sohu.com/a/1084175322_121123887",
+      "summary": "日前，市人社局组织中山市人社系统代表团参加广东省公共就业服务专项业务竞赛活动，本次竞赛聚焦公共就业服务专项业务，全省各地优秀就业服务工作者同台竞技，经过激烈角逐，中山市人社系统代表团荣获优秀组织奖和团",
+      "source": "Bing·人社部就业创业政策",
       "category": "政策",
-      "published": "2026-09-30T03:54:00.000Z",
-      "image": "",
+      "published": "2026-10-05T05:25:00.000Z",
+      "image": "//q3.itc.cn/q_70/images03/20261005/0d8b9201331243ecba70d6c5793b0be5.jpeg",
       "score": 50,
       "tags": []
-    }
-  ],
-  "财经": [
-    {
-      "id": "757010391d58",
-      "title": "一座光伏电站见证中哥绿色合作",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-07/10708602.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-10-07T02:04:16.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "38774686c3f5",
-      "title": "扩大开放、连接全球、赋能产业、惠及民生的重要窗口（进博会观察）",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-07/10708601.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-10-07T02:00:28.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+      "id": "f5cb39eaf8f6",
+      "title": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
+      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202606/t20260602_1438600.html",
+      "summary": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
+      "source": "教育部",
+      "category": "政策",
+      "published": "2026-06-02T00:00:00.000Z",
+      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+      "score": 50,
+      "tags": []
     },
     {
-      "id": "052b19b58dd8",
-      "title": "一种很新的婚礼火了！超10亿元大生意→",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-07/10708580.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-10-07T00:50:53.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "0ed8e855cc7c",
-      "title": "安徽“千年矾都”工业遗产蝶变文旅新地标",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-06/10708545.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-10-06T15:06:15.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "e9ee5a383c78",
-      "title": "中国商务部回应法德要求欧盟强化贸易防御等保护主义工具",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-06/10708543.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-10-06T14:45:11.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+      "id": "a3af074b2b9b",
+      "title": "2026-05-22教育部等八部门办公厅关于联合开展2026年度高校毕业生等重点群体促就业“国聘行动”的通知",
+      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202605/t20260522_1437356.html",
+      "summary": "2026-05-22教育部等八部门办公厅关于联合开展2026年度高校毕业生等重点群体促就业“国聘行动”的通知",
+      "source": "教育部",
+      "category": "政策",
+      "published": "2026-05-22T00:00:00.000Z",
+      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+      "score": 50,
+      "tags": []
     }
   ]
 }

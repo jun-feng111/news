@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T02:11:06.742Z",
+  "updated": "2026-10-07T09:55:45.688Z",
   "count": 123,
   "sources": {
     "V2EX": 6,
@@ -9,6 +9,23 @@
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1246802",
+      "title": "SHEIN 内推： 算法、AI、供应链研发、运维、网络、安全、架构， 15-70k",
+      "company": "rowena1225",
+      "location": "广州",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [],
+      "category": "算法/AI",
+      "postedDate": "2026-10-07",
+      "url": "https://www.v2ex.com/t/1246802",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1245910",
       "title": "SHEIN 内推：算法/大模型/后端/数据/安全/测试/iOS， 20-80K",
@@ -102,27 +119,6 @@
       "category": "产品",
       "postedDate": "2026-09-29",
       "url": "https://www.v2ex.com/t/1245474",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1245372",
-      "title": "成都头部 MCN 团队招聘全栈工程师， AI 不限量使用",
-      "company": "Branlice",
-      "location": "招聘帖",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "go",
-        "golang",
-        "react"
-      ],
-      "category": "全栈",
-      "postedDate": "2026-09-28",
-      "url": "https://www.v2ex.com/t/1245372",
       "source": "V2EX",
       "region": "domestic"
     },
@@ -1613,27 +1609,6 @@
       "postedDate": "2026-09-07",
       "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
       "source": "Remotive",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137309",
-      "title": "AI Response Analyst",
-      "company": "iMerit Technology",
-      "location": "Remote",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "content writing",
-        "quality assurance",
-        "ai"
-      ],
-      "category": "content writing",
-      "postedDate": "2026-09-06",
-      "url": "https://remoteOK.com/remote-jobs/remote-ai-response-analyst-imerit-technology-1137309",
-      "source": "RemoteOK",
       "region": "foreign"
     },
     {
@@ -3249,6 +3224,36 @@
       "category": "marketing",
       "postedDate": "2026-07-30",
       "url": "https://remoteOK.com/remote-jobs/remote-growth-strategist-lyric-1135681",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1135697",
+      "title": "Administrative Assistant",
+      "company": "Viable Medical Solutions",
+      "location": "Greater Orlando",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "design",
+        "music",
+        "customer support",
+        "travel",
+        "video",
+        "exec",
+        "content writing",
+        "ops",
+        "marketing",
+        "ads",
+        "digital nomad",
+        "hr"
+      ],
+      "category": "design",
+      "postedDate": "2026-07-30",
+      "url": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-viable-medical-solutions-1135697",
       "source": "RemoteOK",
       "region": "foreign"
     }
