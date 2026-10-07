@@ -1,18 +1,6 @@
 {
   "AI": [
     {
-      "id": "47e6fb94fc92",
-      "title": "Hark releases an AI personal assistant with a focus on privacy",
-      "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
-      "summary": "Hark releases an AI personal assistant with a focus on privacy",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-06T18:22:45.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Hark-Panels.png?resize=1200,675",
-      "score": 85,
-      "tags": []
-    },
-    {
       "id": "aedc083d210f",
       "title": "How AI decision models could change content moderation",
       "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
@@ -25,26 +13,14 @@
       "tags": []
     },
     {
-      "id": "c6c0f9e409ef",
-      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-      "summary": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+      "id": "47e6fb94fc92",
+      "title": "Hark releases an AI personal assistant with a focus on privacy",
+      "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+      "summary": "Hark releases an AI personal assistant with a focus on privacy",
       "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-10-06T20:00:30.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1148109686.jpg?resize=1200,687",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "159ed2438ba1",
-      "title": "The next hurdle for AI agents: getting websites to let them in",
-      "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
-      "summary": "The next hurdle for AI agents: getting websites to let them in",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-06T19:56:50.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/ai-agent-bots-GettyImages-2243729307.jpg?resize=1200,800",
+      "published": "2026-10-06T18:22:45.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Hark-Panels.png?resize=1200,675",
       "score": 80,
       "tags": []
     },
@@ -59,18 +35,42 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Conway-Underdog-Sigil-Wen-.jpg?resize=1200,800",
       "score": 75,
       "tags": []
+    },
+    {
+      "id": "c6c0f9e409ef",
+      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "summary": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-06T20:00:30.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1148109686.jpg?resize=1200,687",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "159ed2438ba1",
+      "title": "The next hurdle for AI agents: getting websites to let them in",
+      "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+      "summary": "The next hurdle for AI agents: getting websites to let them in",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-06T19:56:50.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/ai-agent-bots-GettyImages-2243729307.jpg?resize=1200,800",
+      "score": 75,
+      "tags": []
     }
   ],
   "科技": [
     {
-      "id": "6c5be2f03690",
-      "title": "India&#8217;s JioHotstar takes partnership route for Middle East expansion",
-      "url": "https://techcrunch.com/2026/10/06/indias-jiohotstar-takes-partnership-route-for-middle-east-expansion/",
-      "summary": "India&#8217;s JioHotstar takes partnership route for Middle East expansion",
+      "id": "1c59e9f06989",
+      "title": "How to find out if Amazon thinks you have &#8216;flat buttocks&#8217;",
+      "url": "https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/",
+      "summary": "How to find out if Amazon thinks you have &#8216;flat buttocks&#8217;",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-10-06T17:14:07.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/jiohotstar.jpg?resize=1200,800",
+      "published": "2026-10-06T22:55:39.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/Amazon-fast-delivery.jpeg?resize=1200,675",
       "score": 75,
       "tags": []
     },
@@ -83,6 +83,18 @@
       "category": "科技",
       "published": "2026-10-06T22:53:09.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-26-at-12.45.18-PM.png?resize=1200,927",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "6c5be2f03690",
+      "title": "India&#8217;s JioHotstar takes partnership route for Middle East expansion",
+      "url": "https://techcrunch.com/2026/10/06/indias-jiohotstar-takes-partnership-route-for-middle-east-expansion/",
+      "summary": "India&#8217;s JioHotstar takes partnership route for Middle East expansion",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-10-06T17:14:07.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/jiohotstar.jpg?resize=1200,800",
       "score": 70,
       "tags": []
     },
@@ -102,22 +114,10 @@
       "id": "4903663c6a47",
       "title": "Furientis lands $25M from Benchmark to mass-produce low-cost missile interceptors",
       "url": "https://techcrunch.com/2026/10/06/furientis-lands-25m-from-benchmark-to-mass-produce-low-cost-missile-interceptors/",
-      "summary": "Furientis lands $25M from Benchmark to mass-produce low-cost missile interceptors",
       "source": "TechCrunch",
       "category": "科技",
       "published": "2026-10-06T16:29:12.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Furientis.png?resize=1200,675",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "4819b0c7c989",
-      "title": "Learn all about scaling, fundraising, founder how-tos, and more at TechCrunch Founder Summit, November 4",
-      "url": "https://techcrunch.com/2026/10/06/learn-all-about-scaling-fundraising-founder-how-tos-and-more-at-techcrunch-founder-summit-november-4/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-10-06T16:18:45.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/TC-All-Stage-2025-Breakout-QA.jpg?resize=1200,800"
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Furientis.png?resize=1200,675"
     }
   ],
   "就业": [
@@ -326,8 +326,31 @@
       "source": "就业创业政策",
       "category": "政策",
       "published": "2026-07-16T01:51:00.000Z",
-      "image": "https://news.66wz.com/pic/003/013/337/00301333742_93765919.gif",
       "score": 55,
+      "tags": []
+    },
+    {
+      "id": "79d3290cfd34",
+      "title": "基层动态 | 内江市：做实就业公共服务，助推高校毕业生就业攻坚提 ...",
+      "url": "https://www.sohu.com/a/1082707605_121106884",
+      "summary": "为贯彻落实省委、省政府2026年高校毕业生等青年就业服务攻坚行动部署，内江市迅即启动以 “服务不断线 攻坚促就业” 为主题的高校毕业生就业攻坚行动，制定《2026年离校未就业高校毕业生等失业青年就业创",
+      "source": "Bing·高校毕业生就业创业政策",
+      "category": "政策",
+      "published": "2026-09-30T07:00:00.000Z",
+      "image": "https://q9.itc.cn/q_70/images03/20260930/85049868b0cb45c9836ed0d2b1ad7863.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "837cf0b2307b",
+      "title": "央媒聚焦 | 浙江温州织密重点群体就业帮扶网络——政策找人 服务上门",
+      "url": "https://www.sohu.com/a/1084087218_121106832",
+      "summary": "近年来，温州市立足不同重点群体就业难点、岗位需求差异，打造多元化、全覆盖的就业帮扶体系，以一系列接地气、见实效的实操举措，将政策红利转化为群众可感可及的就业增收成效。 围绕人才培养、就业提质、产业赋能",
+      "source": "Bing·人社部就业创业政策",
+      "category": "政策",
+      "published": "2026-10-05T01:02:00.000Z",
+      "image": "https://q9.itc.cn/q_70/images03/20261005/1c61c3a2e8ff42e6b8a9a8e810411b19.png",
+      "score": 50,
       "tags": []
     },
     {
@@ -341,33 +364,36 @@
       "image": "",
       "score": 50,
       "tags": []
-    },
-    {
-      "id": "f5cb39eaf8f6",
-      "title": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
-      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202606/t20260602_1438600.html",
-      "summary": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
-      "source": "教育部",
-      "category": "政策",
-      "published": "2026-06-02T00:00:00.000Z",
-      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "a3af074b2b9b",
-      "title": "2026-05-22教育部等八部门办公厅关于联合开展2026年度高校毕业生等重点群体促就业“国聘行动”的通知",
-      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202605/t20260522_1437356.html",
-      "summary": "2026-05-22教育部等八部门办公厅关于联合开展2026年度高校毕业生等重点群体促就业“国聘行动”的通知",
-      "source": "教育部",
-      "category": "政策",
-      "published": "2026-05-22T00:00:00.000Z",
-      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
-      "score": 50,
-      "tags": []
     }
   ],
   "财经": [
+    {
+      "id": "757010391d58",
+      "title": "一座光伏电站见证中哥绿色合作",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-07/10708602.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-10-07T02:04:16.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "38774686c3f5",
+      "title": "扩大开放、连接全球、赋能产业、惠及民生的重要窗口（进博会观察）",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-07/10708601.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-10-07T02:00:28.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "052b19b58dd8",
+      "title": "一种很新的婚礼火了！超10亿元大生意→",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-07/10708580.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-10-07T00:50:53.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
     {
       "id": "0ed8e855cc7c",
       "title": "安徽“千年矾都”工业遗产蝶变文旅新地标",
@@ -384,33 +410,6 @@
       "source": "中新网财经",
       "category": "财经",
       "published": "2026-10-06T14:45:11.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "e8c955cdd24f",
-      "title": "第37届上海旅游节闭幕 “一节两季”激发消费新活力",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-06/10708531.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-10-06T13:00:27.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "32d8c805d07d",
-      "title": "商务部就法德要求欧盟强化贸易防御等保护主义工具答记者问",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-06/10708519.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-10-06T12:22:14.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "c90a8792bdf0",
-      "title": "华为开创AI时代计算架构：让百万处理器成为一台计算机——徐直军与媒体圆桌交流摘要",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-06/10708509.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-10-06T11:53:32.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
