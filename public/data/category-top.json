@@ -1,84 +1,96 @@
 {
   "AI": [
     {
-      "id": "3499b6fe79a2",
-      "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
-      "url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
-      "summary": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
+      "id": "eb599b08c7e3",
+      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "summary": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
       "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-10-07T14:41:38.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Tony-Fadell_AI-Hardware_MIT-Future-Fest-1.jpg?resize=1200,800",
+      "published": "2026-10-07T20:22:37.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Microsoft-Surface-Laptop-Ultra.png?resize=1200,677",
+      "score": 85,
+      "tags": []
+    },
+    {
+      "id": "b81f72b7c1ca",
+      "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+      "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+      "summary": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-07T18:00:19.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Intelligent-UI.png?resize=1200,675",
+      "score": 85,
+      "tags": []
+    },
+    {
+      "id": "d15468da1732",
+      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+      "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+      "summary": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-07T18:15:28.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2268195606.jpg?w=1024",
       "score": 80,
       "tags": []
     },
     {
-      "id": "60862e24b98b",
-      "title": "Google experiments with an AI-powered gaming platform",
-      "url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
-      "summary": "Google experiments with an AI-powered gaming platform",
+      "id": "1d6dcd635bc7",
+      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "summary": "Nous Research confirms it hit $1。5B valuation, launches AI agents for business users",
       "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-10-07T14:36:23.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Google-Playground1.png?w=1142",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "a7f501e82808",
-      "title": "SpaceX alumni nab $100M to rethink shipping with autonomous freight trains",
-      "url": "https://techcrunch.com/2026/10/07/spacex-alumni-nab-100m-to-rethink-shipping-with-autonomous-freight-trains/",
-      "summary": "SpaceX alumni nab $100M to rethink shipping with autonomous freight trains",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-07T15:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/parallel-systems-panther-vehicle.jpeg?resize=1200,675",
+      "published": "2026-10-07T20:48:45.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/02/GjsjauvbsAAgUtD.jpeg?w=900",
       "score": 75,
       "tags": []
     },
     {
-      "id": "3cadd0110a70",
-      "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
-      "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
-      "summary": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
+      "id": "59265b4b35b8",
+      "title": "Greenairy is building smart plant towers to clean the air in your office",
+      "url": "https://techcrunch.com/2026/10/07/greenairy-is-building-smart-plant-towers-to-clean-the-air-in-your-office/",
+      "summary": "Greenairy is building smart plant towers to clean the air in your office",
       "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-10-07T14:30:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-AI-Stage.jpg?resize=1200,800",
+      "published": "2026-10-07T17:30:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/greenairy-1.jpeg?resize=1200,670",
       "score": 75,
-      "tags": []
-    },
-    {
-      "id": "dfd3923fff90",
-      "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
-      "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
-      "summary": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-07T16:53:46.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-2152655802.jpg?resize=1200,802",
-      "score": 70,
       "tags": []
     }
   ],
   "科技": [
     {
-      "id": "f34b82d8ad4a",
-      "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
-      "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
-      "summary": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
+      "id": "7d49c27e2bd0",
+      "title": "Meta&#8217;s Muse launches on iPad just a month after its mobile debut",
+      "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+      "summary": "Meta&#8217;s Muse launches on iPad just a month after its mobile debut",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-10-07T14:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/49202518493_54cc9e39e1_k.jpg?resize=1200,800",
-      "score": 75,
+      "published": "2026-10-07T18:30:57.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024",
+      "score": 80,
+      "tags": []
+    },
+    {
+      "id": "075bc4e4b752",
+      "title": "X expands its &#8216;Gametime&#8217; sports hub beyond the NFL, starting with MLB",
+      "url": "https://techcrunch.com/2026/10/07/x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb/",
+      "summary": "X expands its &#8216;Gametime&#8217; sports hub beyond the NFL, starting with MLB",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-10-07T18:10:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/03/GettyImages-1127662758.jpg?resize=1200,675",
+      "score": 65,
       "tags": []
     },
     {
       "id": "567b2feab011",
-      "title": "CIA officer admits to creating fake top secret government program to steal over $190 million, including gold bars",
+      "title": "CIA officer admits to creating fake top secret government program to steal over $190M, including gold bars",
       "url": "https://techcrunch.com/2026/10/07/cia-officer-admits-to-creating-fake-top-secret-government-program-to-steal-over-190-million-including-gold-bars/",
-      "summary": "CIA officer admits to creating fake top secret government program to steal over $190 million, includ",
+      "summary": "CIA officer admits to creating fake top secret government program to steal over $190M, including gol",
       "source": "TechCrunch",
       "category": "科技",
       "published": "2026-10-07T17:04:46.000Z",
@@ -87,37 +99,37 @@
       "tags": []
     },
     {
-      "id": "504b159a6162",
-      "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
-      "summary": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
+      "id": "fca05aa5adff",
+      "title": "Bloom raises $3.6M to become the &#8216;Alibaba&#8217; of American manufacturing",
+      "url": "https://techcrunch.com/2026/10/07/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing/",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-10-07T14:15:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/12/TC-All-Stage-2025-roundtable.jpg?resize=1200,800",
-      "score": 65,
-      "tags": []
+      "published": "2026-10-07T15:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Justin-Hitesh-Chris-1.jpg?resize=1200,900"
     },
     {
-      "id": "230c231afcec",
-      "title": "Google&#8217;s new SynthID website can identify AI-generated media",
-      "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
+      "id": "a7f501e82808",
+      "title": "SpaceX alumni nab $100M to rethink shipping with autonomous freight trains",
+      "url": "https://techcrunch.com/2026/10/07/spacex-alumni-nab-100m-to-rethink-shipping-with-autonomous-freight-trains/",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-10-07T14:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/SynthID_Detector_Homepage_Web.jpeg?resize=1200,675"
-    },
-    {
-      "id": "a0e9bcabe664",
-      "title": "Ring&#8217;s first smart lock can be hand-cranked when its battery dies",
-      "url": "https://techcrunch.com/2026/10/07/rings-first-smart-lock-can-be-hand-cranked-when-its-battery-dies/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-10-07T14:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Ring_SmartLock_1600x900.jpg?resize=1200,675"
+      "published": "2026-10-07T15:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/parallel-systems-panther-vehicle.jpeg?resize=1200,675"
     }
   ],
   "就业": [
+    {
+      "id": "def7481c13df",
+      "title": "现在哪些技术岗位好就业、缺口大，入行门槛不算太高？",
+      "url": "https://www.sohu.com/a/1080723066_122565426",
+      "summary": "找工作这件事，最怕的是“一窝蜂”。大家都说人工智能好，但纯算法岗的门槛已经卷到了博士起步；都说程序员高薪，但初级程序员的需求正在肉眼可见地收缩",
+      "source": "算法工程师·就业分析",
+      "category": "就业",
+      "published": "2026-09-25T02:48:00.000Z",
+      "image": "//q9.itc.cn/images01/20260925/aff639bee0754f2999b4be7130b409fe.jpeg",
+      "score": 65,
+      "tags": []
+    },
     {
       "id": "c76b56413d4a",
       "title": "AI人才缺口超500万！有最新报告称，AI抢人逻辑悄悄变了：架构师新发 ...",
@@ -150,6 +162,7 @@
       "source": "数据分析·就业分析",
       "category": "就业",
       "published": "2026-09-18T07:41:00.000Z",
+      "image": "http://static.nbd.com.cn/images/app/nbd_icon_300_normal.png",
       "score": 60,
       "tags": []
     },
@@ -162,18 +175,6 @@
       "category": "就业",
       "published": "2026-09-23T03:43:00.000Z",
       "score": 60,
-      "tags": []
-    },
-    {
-      "id": "36b99c464186",
-      "title": "银行业2027年度校园招聘：国有大行优结构 改制银行补短板",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-03/doc-initxnhc3987921.shtml",
-      "summary": "9月以来，一些银行陆续发布2027年度校园招聘（以下简称“校招”）公告。除了人才吸纳的“主力军”大中型商业银行，新组建的省级农商行、农商联合银行同步释放校招计划，成为今年银行业秋招市场上一股不可忽视的",
-      "source": "Bing·校园招聘",
-      "category": "就业",
-      "published": "2026-10-02T22:01:00.000Z",
-      "image": "https://n.sinaimg.cn/finance/transform/260/w880h180/20180326/zi4T-fysqfnf9377213.png",
-      "score": 55,
       "tags": []
     }
   ],
@@ -303,18 +304,6 @@
   ],
   "政策": [
     {
-      "id": "3f74da1e0d30",
-      "title": "两部门发布《全国高校毕业生就业创业支持政策清单》",
-      "url": "https://news.qq.com/rain/a/20260424A0420900",
-      "summary": "新京报讯 日前，教育部、人力资源社会保障部联合印发通知，部署在全国范围内开展2026年高校毕业生就业政策宣传活动，帮助高校毕业生和用人单位全面了解、精准享受就业优惠政策，促进高校毕业生高质量充分就业。",
-      "source": "就业创业政策",
-      "category": "政策",
-      "published": "2026-04-24T04:30:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/O2sNqYWqJ7c1MfVMt8J-AEECQzuB5tHlqknLaCSC6Tn5EAA_640330/0",
-      "score": 55,
-      "tags": []
-    },
-    {
       "id": "305387d163cc",
       "title": "最高可贷50万元，湖南优化政策为大学生创业送上金融“活水”",
       "url": "https://news.qq.com/rain/a/20260918A057B200",
@@ -324,6 +313,30 @@
       "published": "2026-09-18T04:59:00.000Z",
       "image": "",
       "score": 55,
+      "tags": []
+    },
+    {
+      "id": "837cf0b2307b",
+      "title": "央媒聚焦 | 浙江温州织密重点群体就业帮扶网络——政策找人 服务上门",
+      "url": "https://www.sohu.com/a/1084087218_121106832",
+      "summary": "近年来，温州市立足不同重点群体就业难点、岗位需求差异，打造多元化、全覆盖的就业帮扶体系，以一系列接地气、见实效的实操举措，将政策红利转化为群众可感可及的就业增收成效。 围绕人才培养、就业提质、产业赋能",
+      "source": "Bing·人社部就业创业政策",
+      "category": "政策",
+      "published": "2026-10-05T01:02:00.000Z",
+      "image": "https://q9.itc.cn/q_70/images03/20261005/1c61c3a2e8ff42e6b8a9a8e810411b19.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "a9d83c92e3c2",
+      "title": "省赛竞技展风采！中山火炬公共就业服务提质增效",
+      "url": "https://www.sohu.com/a/1084175322_121123887",
+      "summary": "日前，市人社局组织中山市人社系统代表团参加广东省公共就业服务专项业务竞赛活动，本次竞赛聚焦公共就业服务专项业务，全省各地优秀就业服务工作者同台竞技，经过激烈角逐，中山市人社系统代表团荣获优秀组织奖和团",
+      "source": "Bing·人社部就业创业政策",
+      "category": "政策",
+      "published": "2026-10-05T05:25:00.000Z",
+      "image": "//q3.itc.cn/q_70/images03/20261005/0d8b9201331243ecba70d6c5793b0be5.jpeg",
+      "score": 50,
       "tags": []
     },
     {
@@ -346,18 +359,6 @@
       "source": "教育部",
       "category": "政策",
       "published": "2026-05-22T00:00:00.000Z",
-      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "20eed286abd8",
-      "title": "2026-04-24教育部办公厅 人力资源社会保障部办公厅关于开展2026年高校毕业生就业政策宣传活动的通知",
-      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202604/t20260423_1434600.html",
-      "summary": "2026-04-24教育部办公厅 人力资源社会保障部办公厅关于开展2026年高校毕业生就业政策宣传活动的通知",
-      "source": "教育部",
-      "category": "政策",
-      "published": "2026-04-23T00:00:00.000Z",
       "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
       "score": 50,
       "tags": []

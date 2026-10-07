@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T17:20:08.995Z",
+  "updated": "2026-10-07T22:50:04.318Z",
   "count": 122,
   "sources": {
     "V2EX": 6,
@@ -121,6 +121,29 @@
       "url": "https://www.v2ex.com/t/1245474",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "remoteok-1137466",
+      "title": "Project Manager",
+      "company": "Spiralyze",
+      "location": "Worldwide",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "project manager",
+        "exec",
+        "ops",
+        "marketing",
+        "cro"
+      ],
+      "category": "project manager",
+      "postedDate": "2026-10-06",
+      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-spiralyze-1137466",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137465",
@@ -3194,36 +3217,6 @@
       "category": "marketing",
       "postedDate": "2026-07-30",
       "url": "https://remoteOK.com/remote-jobs/remote-growth-strategist-lyric-1135681",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1135697",
-      "title": "Administrative Assistant",
-      "company": "Viable Medical Solutions",
-      "location": "Greater Orlando",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "design",
-        "music",
-        "customer support",
-        "travel",
-        "video",
-        "exec",
-        "content writing",
-        "ops",
-        "marketing",
-        "ads",
-        "digital nomad",
-        "hr"
-      ],
-      "category": "design",
-      "postedDate": "2026-07-30",
-      "url": "https://remoteOK.com/remote-jobs/remote-administrative-assistant-viable-medical-solutions-1135697",
       "source": "RemoteOK",
       "region": "foreign"
     }
