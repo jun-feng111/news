@@ -1,6 +1,18 @@
 {
   "AI": [
     {
+      "id": "651a4bbf3d23",
+      "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
+      "url": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
+      "summary": "Robot data startup Mecka AI nabs $60M from Sequoia",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-07T23:36:57.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857",
+      "score": 80,
+      "tags": []
+    },
+    {
       "id": "eb599b08c7e3",
       "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
       "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
@@ -9,7 +21,7 @@
       "category": "AI",
       "published": "2026-10-07T20:22:37.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Microsoft-Surface-Laptop-Ultra.png?resize=1200,677",
-      "score": 85,
+      "score": 80,
       "tags": []
     },
     {
@@ -21,18 +33,6 @@
       "category": "AI",
       "published": "2026-10-07T18:00:19.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Intelligent-UI.png?resize=1200,675",
-      "score": 85,
-      "tags": []
-    },
-    {
-      "id": "d15468da1732",
-      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
-      "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
-      "summary": "ChatGPT for Teens keeps teens talking, even during mental health crises",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-07T18:15:28.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2268195606.jpg?w=1024",
       "score": 80,
       "tags": []
     },
@@ -49,14 +49,14 @@
       "tags": []
     },
     {
-      "id": "59265b4b35b8",
-      "title": "Greenairy is building smart plant towers to clean the air in your office",
-      "url": "https://techcrunch.com/2026/10/07/greenairy-is-building-smart-plant-towers-to-clean-the-air-in-your-office/",
-      "summary": "Greenairy is building smart plant towers to clean the air in your office",
+      "id": "d15468da1732",
+      "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+      "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+      "summary": "ChatGPT for Teens keeps teens talking, even during mental health crises",
       "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-10-07T17:30:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/greenairy-1.jpeg?resize=1200,670",
+      "published": "2026-10-07T18:15:28.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2268195606.jpg?w=1024",
       "score": 75,
       "tags": []
     }
@@ -71,7 +71,7 @@
       "category": "科技",
       "published": "2026-10-07T18:30:57.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024",
-      "score": 80,
+      "score": 75,
       "tags": []
     },
     {
@@ -83,7 +83,7 @@
       "category": "科技",
       "published": "2026-10-07T18:10:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2019/03/GettyImages-1127662758.jpg?resize=1200,675",
-      "score": 65,
+      "score": 60,
       "tags": []
     },
     {
@@ -95,41 +95,29 @@
       "category": "科技",
       "published": "2026-10-07T17:04:46.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/gold-bars-doj.jpg?resize=1200,908",
-      "score": 65,
+      "score": 60,
       "tags": []
     },
     {
-      "id": "fca05aa5adff",
-      "title": "Bloom raises $3.6M to become the &#8216;Alibaba&#8217; of American manufacturing",
-      "url": "https://techcrunch.com/2026/10/07/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing/",
+      "id": "dfd3923fff90",
+      "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+      "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-10-07T15:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Justin-Hitesh-Chris-1.jpg?resize=1200,900"
+      "published": "2026-10-07T16:53:46.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-2152655802.jpg?resize=1200,802"
     },
     {
-      "id": "a7f501e82808",
-      "title": "SpaceX alumni nab $100M to rethink shipping with autonomous freight trains",
-      "url": "https://techcrunch.com/2026/10/07/spacex-alumni-nab-100m-to-rethink-shipping-with-autonomous-freight-trains/",
+      "id": "fc38477a8aad",
+      "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+      "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-10-07T15:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/parallel-systems-panther-vehicle.jpeg?resize=1200,675"
+      "published": "2026-10-07T15:07:08.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/healthleap.jpeg?resize=1200,675"
     }
   ],
   "就业": [
-    {
-      "id": "def7481c13df",
-      "title": "现在哪些技术岗位好就业、缺口大，入行门槛不算太高？",
-      "url": "https://www.sohu.com/a/1080723066_122565426",
-      "summary": "找工作这件事，最怕的是“一窝蜂”。大家都说人工智能好，但纯算法岗的门槛已经卷到了博士起步；都说程序员高薪，但初级程序员的需求正在肉眼可见地收缩",
-      "source": "算法工程师·就业分析",
-      "category": "就业",
-      "published": "2026-09-25T02:48:00.000Z",
-      "image": "//q9.itc.cn/images01/20260925/aff639bee0754f2999b4be7130b409fe.jpeg",
-      "score": 65,
-      "tags": []
-    },
     {
       "id": "c76b56413d4a",
       "title": "AI人才缺口超500万！有最新报告称，AI抢人逻辑悄悄变了：架构师新发 ...",
@@ -176,66 +164,16 @@
       "published": "2026-09-23T03:43:00.000Z",
       "score": 60,
       "tags": []
-    }
-  ],
-  "开发": [
-    {
-      "id": "e437b34f5022",
-      "title": "刚刚，Gemini 4 Argon 发布：多项基测碾压 GPT-6 Astra，已参与谷歌 80 万行内核代码迁移",
-      "url": "https://www.infoq.cn/article/vVrSzjhEvkmpevS7wZzU?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/vVrSzjhEvkmpevS7wZzU",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-10-01T11:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/9c/67/9c31523e5de0931347e61d763e5d4267.jpg",
-      "score": 60,
-      "tags": []
     },
     {
-      "id": "e1935f379018",
-      "title": "生成即合规：Agentic AIGC 驱动的广告素材修复实践｜QCon上海",
-      "url": "https://www.infoq.cn/article/TLjNcyBg9Z72HV5kJ2kp?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/TLjNcyBg9Z72HV5kJ2kp",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-10-01T10:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/29/ef/2907e084802a80c877472afdeb66b3ef.jpg",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "6fb60ef7d97b",
-      "title": "DataAgent - 快手大数据生产与分析的智能化探索之路｜QCon上海",
-      "url": "https://www.infoq.cn/article/yVWAQGCZCzI838JESA1b?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/yVWAQGCZCzI838JESA1b",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-10-05T10:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/53/9f/53eb6978d2382c57fbef1f29ff11459f.jpg",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "e97552dc5bfb",
-      "title": "Agent 的记忆不在对话里：把企业数仓沉淀为可治理的共享语义记忆｜QCon上海",
-      "url": "https://www.infoq.cn/article/M4mgbKf4RDv5AKTwQvFH?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/M4mgbKf4RDv5AKTwQvFH",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-10-04T10:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/0e/92/0ebc3716538efee4dea8a82a5d9d2992.jpg",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "d99fdcc0e391",
-      "title": "企业级 Agent Infra 架构实践：从安全沙箱到网络管控与身份治理｜QCon上海",
-      "url": "https://www.infoq.cn/article/bLB8RQ6sd3ZGQts0D4tP?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/bLB8RQ6sd3ZGQts0D4tP",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-10-03T10:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/f0/3e/f0e58becf26cd139bc90a65280e9c23e.jpg",
+      "id": "36b99c464186",
+      "title": "银行业2027年度校园招聘：国有大行优结构 改制银行补短板",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-03/doc-initxnhc3987921.shtml",
+      "summary": "9月以来，一些银行陆续发布2027年度校园招聘（以下简称“校招”）公告。除了人才吸纳的“主力军”大中型商业银行，新组建的省级农商行、农商联合银行同步释放校招计划，成为今年银行业秋招市场上一股不可忽视的",
+      "source": "Bing·校园招聘",
+      "category": "就业",
+      "published": "2026-10-02T22:01:00.000Z",
+      "image": "https://n.sinaimg.cn/finance/transform/260/w880h180/20180326/zi4T-fysqfnf9377213.png",
       "score": 55,
       "tags": []
     }
@@ -299,6 +237,68 @@
       "published": "2026-10-03T13:56:44.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 50,
+      "tags": []
+    }
+  ],
+  "开发": [
+    {
+      "id": "6fb60ef7d97b",
+      "title": "DataAgent - 快手大数据生产与分析的智能化探索之路｜QCon上海",
+      "url": "https://www.infoq.cn/article/yVWAQGCZCzI838JESA1b?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/yVWAQGCZCzI838JESA1b",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-10-05T10:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/53/9f/53eb6978d2382c57fbef1f29ff11459f.jpg",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "e97552dc5bfb",
+      "title": "Agent 的记忆不在对话里：把企业数仓沉淀为可治理的共享语义记忆｜QCon上海",
+      "url": "https://www.infoq.cn/article/M4mgbKf4RDv5AKTwQvFH?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/M4mgbKf4RDv5AKTwQvFH",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-10-04T10:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/0e/92/0ebc3716538efee4dea8a82a5d9d2992.jpg",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "d99fdcc0e391",
+      "title": "企业级 Agent Infra 架构实践：从安全沙箱到网络管控与身份治理｜QCon上海",
+      "url": "https://www.infoq.cn/article/bLB8RQ6sd3ZGQts0D4tP?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/bLB8RQ6sd3ZGQts0D4tP",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-10-03T10:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/f0/3e/f0e58becf26cd139bc90a65280e9c23e.jpg",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "9144fd207082",
+      "title": "Andrew Kelley 专访：他为何创建 Zig、禁止 AI 贡献以及将 Zig 从 GitHub 移出",
+      "url": "https://www.infoq.cn/article/eRbEA3dMd58RNPqp5D8S?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/eRbEA3dMd58RNPqp5D8S",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-10-02T13:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/74/10/7479235c7bb2fc9348c5e1392803db10.jpg",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "712fca6dd7db",
+      "title": "别再给 Agent 一个“毛坯房”了：构建 Agent 拎包入住的开发环境实践｜QCon上海",
+      "url": "https://www.infoq.cn/article/DEyrayxufObhpoeZgOKT?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/DEyrayxufObhpoeZgOKT",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-10-02T10:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/73/b0/73887ac4c633d8d64eafa388c36788b0.jpg",
+      "score": 55,
       "tags": []
     }
   ],
@@ -366,48 +366,48 @@
   ],
   "财经": [
     {
-      "id": "7c8fad58f92f",
-      "title": "（经济观察）流动中国释放假日经济新动能",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-07/10708824.shtml",
+      "id": "af39ee8cf2a6",
+      "title": "玉渊谭天丨中欧经贸，需要寻找更大的共识",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-08/10708915.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-07T14:22:38.000Z",
+      "published": "2026-10-08T02:18:45.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "bed65905e3ed",
-      "title": "全国秋粮收获已过四成 各地保障颗粒归仓",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-07/10708786.shtml",
+      "id": "dfa71cf78e8d",
+      "title": "AI智能体的数据授权谁说了算",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-08/10708911.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-07T11:41:06.000Z",
+      "published": "2026-10-08T02:16:53.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "542e82d8ea6d",
-      "title": "国庆假期北京接待游客2345万人次 旅游总花费约295亿元",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-07/10708782.shtml",
+      "id": "23cd5386a07c",
+      "title": "从先行区到中试基地 浙江如何构筑“AI+文旅”制度底座？",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-08/10708891.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-07T11:29:15.000Z",
+      "published": "2026-10-08T02:02:10.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "d1359395d239",
-      "title": "国庆假期北京70个重点商圈入账156.8亿元",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-07/10708781.shtml",
+      "id": "6e5fab28a469",
+      "title": "山区如何“长出”智慧工厂？解码浙江丽水经开区制造业蝶变",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-08/10708885.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-07T11:28:17.000Z",
+      "published": "2026-10-08T01:59:48.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "c13594b4ac0b",
-      "title": "国庆假期上海离境退税销售额大幅增长",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-07/10708766.shtml",
+      "id": "469cd33c5568",
+      "title": "A股三大指数集体火速翻红，超4200只个股上涨",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-08/10708895.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-07T10:49:55.000Z",
+      "published": "2026-10-08T01:58:00.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
