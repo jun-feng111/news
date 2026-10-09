@@ -9,7 +9,7 @@
       "category": "AI",
       "published": "2026-10-08T18:20:32.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/ben-affleck-GettyImages-2297443537.jpg?w=1024",
-      "score": 80,
+      "score": 75,
       "tags": []
     },
     {
@@ -21,7 +21,7 @@
       "category": "AI",
       "published": "2026-10-08T18:19:42.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
-      "score": 80,
+      "score": 75,
       "tags": []
     },
     {
@@ -33,7 +33,7 @@
       "category": "AI",
       "published": "2026-10-08T18:18:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/image_3.max-2100x2100_0CYZWqn.jpg?resize=1200,591",
-      "score": 80,
+      "score": 75,
       "tags": []
     },
     {
@@ -45,7 +45,7 @@
       "category": "AI",
       "published": "2026-10-08T20:04:26.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
-      "score": 70,
+      "score": 65,
       "tags": []
     },
     {
@@ -57,7 +57,7 @@
       "category": "AI",
       "published": "2026-10-08T18:19:45.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/06/ARENA_3Founders.jpg?resize=1200,801",
-      "score": 70,
+      "score": 65,
       "tags": []
     }
   ],
@@ -71,7 +71,7 @@
       "category": "科技",
       "published": "2026-10-08T18:16:24.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294192768.jpg?resize=1200,798",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -116,18 +116,6 @@
   ],
   "就业": [
     {
-      "id": "def7481c13df",
-      "title": "现在哪些技术岗位好就业、缺口大，入行门槛不算太高？",
-      "url": "https://www.sohu.com/a/1080723066_122565426",
-      "summary": "找工作这件事，最怕的是“一窝蜂”。大家都说人工智能好，但纯算法岗的门槛已经卷到了博士起步；都说程序员高薪，但初级程序员的需求正在肉眼可见地收缩",
-      "source": "算法工程师·就业分析",
-      "category": "就业",
-      "published": "2026-09-25T02:48:00.000Z",
-      "image": "//q9.itc.cn/images01/20260925/aff639bee0754f2999b4be7130b409fe.jpeg",
-      "score": 65,
-      "tags": []
-    },
-    {
       "id": "c76b56413d4a",
       "title": "AI人才缺口超500万！有最新报告称，AI抢人逻辑悄悄变了：架构师新发 ...",
       "url": "https://news.qq.com/rain/a/20260718A08XHR00",
@@ -137,6 +125,18 @@
       "published": "2026-07-18T11:05:00.000Z",
       "image": "https://inews.gtimg.com/om_ls/Ows_BB25Bhnf-wlGWgFoIkmLSVd_6MJWCT8-yw6C3HS10AA_640330/0",
       "score": 65,
+      "tags": []
+    },
+    {
+      "id": "e9b1678267d0",
+      "title": "AI项目管理人才为什么薪资高？大模型落地缺的是懂技术又懂交付的人",
+      "url": "https://www.sohu.com/a/1082212866_99999728",
+      "summary": "打开招聘平台，AI相关岗位的数量在过去一年里发生了明显变化。2026年春招数据显示，AI领域岗位量同比增长8",
+      "source": "就业报告",
+      "category": "就业",
+      "published": "2026-09-29T07:07:00.000Z",
+      "image": "//q0.itc.cn/images01/20260929/7cb5bf061d3e4ca2bd952244c3e02614.jpeg",
+      "score": 60,
       "tags": []
     },
     {
@@ -202,18 +202,6 @@
       "tags": []
     },
     {
-      "id": "6fb60ef7d97b",
-      "title": "DataAgent - 快手大数据生产与分析的智能化探索之路｜QCon上海",
-      "url": "https://www.infoq.cn/article/yVWAQGCZCzI838JESA1b?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/yVWAQGCZCzI838JESA1b",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-10-05T10:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/53/9f/53eb6978d2382c57fbef1f29ff11459f.jpg",
-      "score": 55,
-      "tags": []
-    },
-    {
       "id": "ce00c1adcee5",
       "title": "从依赖专家到开发者自助：一家银行的平台文化转型",
       "url": "https://www.infoq.cn/article/seZbK4mHm40juM4vmaDy?utm_source=rss&amp;utm_medium=article",
@@ -236,68 +224,15 @@
       "image": "https://static001.infoq.cn/resource/image/d0/61/d070001b78c00090ccd54b81e3960161.jpg",
       "score": 50,
       "tags": []
-    }
-  ],
-  "社会": [
-    {
-      "id": "bae19fefc900",
-      "title": "“社会运行论”标识性概念·原创性理论发布与研讨会举行",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-04/10707777.shtml",
-      "summary": "中新网北京10月4日电 在著名社会学家、中国人民大学原副校长郑杭生九十周年诞辰之际，“社会运行论”标识性概念·原创性理论发布与研讨会暨郑杭生铜像揭幕仪式近日在中国人民大学通州校区举行",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-10-04T04:51:48.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 55,
-      "tags": []
     },
     {
-      "id": "54f2782a9020",
-      "title": "校馆弦歌丨解码侨批中的家国故事 暨南大学百年守望延续文脉传承",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-06/10708447.shtml",
-      "summary": "作为中国第一所华侨高等学府，建校120周年的暨南大学坚守侨校特色，深挖馆藏史料，深耕华文教育，让百年守望的家国情怀，延续为跨越山海的文脉传承",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-10-06T07:50:33.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "bdad6a16917e",
-      "title": "（文化中国行·校馆弦歌）延安大学图书馆：活化红色典藏，赋能书香育人",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-04/10707922.shtml",
-      "summary": "中新网陕西延安10月4日电 题：延安大学图书馆：活化红色典藏，赋能书香育人",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-10-04T12:56:36.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "a0f5d4ffc36e",
-      "title": "美国青年的“中国假期”：好奇为桥 包容作舟",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-04/10707781.shtml",
-      "summary": "中新网嘉兴10月4日电 题：美国青年的“中国假期”：好奇为桥 包容作舟",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-10-04T04:56:26.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "f7a898e3e5e6",
-      "title": "赓续百年文脉 重庆合川瑞山中学多措并举让“作孚精神”薪火相传",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-04/10707738.shtml",
-      "summary": "中新网重庆10月4日电 (记者 钟旖)“忠实地做事，诚恳地对人”——这是中国近代爱国实业家卢作孚留下的人生箴言。在重庆的三江之畔，这句箴言如今化作一所中学的办学底色，在合川区代代传扬",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-10-04T03:15:56.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
+      "id": "86867bf3952f",
+      "title": "Kimi 现代高速开源治理的 AI Native 实践｜QCon上海",
+      "url": "https://www.infoq.cn/article/832RV3o8ireEdJpO9H4v?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-10-09T10:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/b3/2a/b31907e118e2e82ce289c1d5b6b6b12a.jpg"
     }
   ],
   "政策": [
@@ -326,6 +261,18 @@
       "tags": []
     },
     {
+      "id": "58cbeb3a829a",
+      "title": "【人人乐业】职场 | 织密高校毕业生就业服务网——共和新路街道 ...",
+      "url": "https://www.sohu.com/a/1084388644_121106832",
+      "summary": "当前高校毕业生就业市场竞争加剧，部分辖区应届生存在求职定位不清、岗位信息获取渠道有限、实操技能储备不足、职场风险防范意识薄弱等现实问题，不少毕业生手握学历，但对新兴岗位认知不足，求职方法欠缺，面临“有",
+      "source": "Bing·高校毕业生就业创业政策",
+      "category": "政策",
+      "published": "2026-10-06T03:01:00.000Z",
+      "image": "https://q2.itc.cn/q_70/images03/20261006/eade4e31a50a43cd93b92bb0f3d4f7f2.png",
+      "score": 50,
+      "tags": []
+    },
+    {
       "id": "f5cb39eaf8f6",
       "title": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
       "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202606/t20260602_1438600.html",
@@ -348,64 +295,102 @@
       "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
       "score": 50,
       "tags": []
-    },
+    }
+  ],
+  "社会": [
     {
-      "id": "20eed286abd8",
-      "title": "2026-04-24教育部办公厅 人力资源社会保障部办公厅关于开展2026年高校毕业生就业政策宣传活动的通知",
-      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202604/t20260423_1434600.html",
-      "summary": "2026-04-24教育部办公厅 人力资源社会保障部办公厅关于开展2026年高校毕业生就业政策宣传活动的通知",
-      "source": "教育部",
-      "category": "政策",
-      "published": "2026-04-23T00:00:00.000Z",
-      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+      "id": "54f2782a9020",
+      "title": "校馆弦歌丨解码侨批中的家国故事 暨南大学百年守望延续文脉传承",
+      "url": "https://www.chinanews.com.cn/edu/2026/10-06/10708447.shtml",
+      "summary": "作为中国第一所华侨高等学府，建校120周年的暨南大学坚守侨校特色，深挖馆藏史料，深耕华文教育，让百年守望的家国情怀，延续为跨越山海的文脉传承",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-10-06T07:50:33.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 50,
       "tags": []
+    },
+    {
+      "id": "3f0332ef7354",
+      "title": "寒露节气田间地头好“丰”光 多地将特色农业资源转化为文旅消费优势",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709505.shtml",
+      "source": "中新网社会",
+      "category": "社会",
+      "published": "2026-10-09T02:48:54.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "fdc90e81fd03",
+      "title": "一件羊皮袄藏着滚烫的初心",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709500.shtml",
+      "source": "中新网社会",
+      "category": "社会",
+      "published": "2026-10-09T02:36:22.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "b0fedabdbb70",
+      "title": "【赓续长征精神 奋进复兴征程】广西：桂北大地传薪火 向海图强启新程",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709495.shtml",
+      "source": "中新网社会",
+      "category": "社会",
+      "published": "2026-10-09T02:29:33.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "9ff9f20fe2af",
+      "title": "从长征出发地到落脚点 坐上高铁去延安",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709494.shtml",
+      "source": "中新网社会",
+      "category": "社会",
+      "published": "2026-10-09T02:28:19.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ],
   "财经": [
     {
-      "id": "dba9577d90ec",
+      "id": "5a27fcb1ef55",
+      "title": "电力数据看消费：景区亮、文博热、民宿火、车流密",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709504.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-10-09T02:45:04.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "e3f163481379",
       "title": "“奔县游”成旅游消费新热点",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709427.shtml",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709501.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-08T22:43:21.000Z",
+      "published": "2026-10-09T02:38:58.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "585930112c7f",
-      "title": "国庆假期，多地探索城市治理新方法应对大客流 接得住流量 留得下人心",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709415.shtml",
+      "id": "0f95a57a0e1c",
+      "title": "深度游、入境游、以旧换新火热 假日消费“新”意十足",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709498.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-08T15:28:11.000Z",
+      "published": "2026-10-09T02:32:41.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "2e5e04ea4b2b",
-      "title": "长假客流涌动 玩法迭代出新——香港国庆假期旅游市场观察",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709414.shtml",
+      "id": "f625721f720f",
+      "title": "我国加快建立全链条循环经济体系",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709481.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-08T15:26:02.000Z",
+      "published": "2026-10-09T02:08:14.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "4fae1da8e44e",
-      "title": "国庆长假入境游热度攀升 中国文旅消费展现新动能",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709413.shtml",
+      "id": "9c98407e8de2",
+      "title": "国庆消费“热力图”：服务扩容 智能升级",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709477.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-08T15:23:32.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "95d2c0cb01f7",
-      "title": "广西北部湾港刷新单航次滚装汽车出口纪录 成出口中东新通道",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-08/10709405.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-10-08T14:50:46.000Z",
+      "published": "2026-10-09T02:06:18.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]

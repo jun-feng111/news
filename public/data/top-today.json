@@ -8,7 +8,7 @@
     "category": "AI",
     "published": "2026-10-08T18:20:32.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/ben-affleck-GettyImages-2297443537.jpg?w=1024",
-    "score": 80,
+    "score": 75,
     "tags": []
   },
   {
@@ -20,7 +20,7 @@
     "category": "AI",
     "published": "2026-10-08T18:19:42.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
-    "score": 80,
+    "score": 75,
     "tags": []
   },
   {
@@ -32,7 +32,7 @@
     "category": "AI",
     "published": "2026-10-08T18:18:00.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/image_3.max-2100x2100_0CYZWqn.jpg?resize=1200,591",
-    "score": 80,
+    "score": 75,
     "tags": []
   },
   {
@@ -44,42 +44,6 @@
     "category": "科技",
     "published": "2026-10-08T18:16:24.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294192768.jpg?resize=1200,798",
-    "score": 75,
-    "tags": []
-  },
-  {
-    "id": "a682e0b0de91",
-    "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-    "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-    "summary": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-    "source": "TechCrunch",
-    "category": "AI",
-    "published": "2026-10-08T20:04:26.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
-    "score": 70,
-    "tags": []
-  },
-  {
-    "id": "494307aa9111",
-    "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-    "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-    "summary": "Popular AI leaderboard Arena nearly doubles valuation to $3。1B valuation in 10 months",
-    "source": "TechCrunch",
-    "category": "AI",
-    "published": "2026-10-08T18:19:45.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/ARENA_3Founders.jpg?resize=1200,801",
-    "score": 70,
-    "tags": []
-  },
-  {
-    "id": "81c67bededb8",
-    "title": "OpenAI&#8217;s math solutions aren&#8217;t meeting the field&#8217;s standards yet",
-    "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
-    "summary": "OpenAI&#8217;s math solutions aren&#8217;t meeting the field&#8217;s standards yet",
-    "source": "TechCrunch",
-    "category": "AI",
-    "published": "2026-10-08T18:10:55.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-11-at-1.39.30-PM.png?w=672",
     "score": 70,
     "tags": []
   },
@@ -96,6 +60,54 @@
     "tags": []
   },
   {
+    "id": "a682e0b0de91",
+    "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+    "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+    "summary": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+    "source": "TechCrunch",
+    "category": "AI",
+    "published": "2026-10-08T20:04:26.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+    "score": 65,
+    "tags": []
+  },
+  {
+    "id": "494307aa9111",
+    "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+    "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+    "summary": "Popular AI leaderboard Arena nearly doubles valuation to $3。1B valuation in 10 months",
+    "source": "TechCrunch",
+    "category": "AI",
+    "published": "2026-10-08T18:19:45.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/ARENA_3Founders.jpg?resize=1200,801",
+    "score": 65,
+    "tags": []
+  },
+  {
+    "id": "81c67bededb8",
+    "title": "OpenAI&#8217;s math solutions aren&#8217;t meeting the field&#8217;s standards yet",
+    "url": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+    "summary": "OpenAI&#8217;s math solutions aren&#8217;t meeting the field&#8217;s standards yet",
+    "source": "TechCrunch",
+    "category": "AI",
+    "published": "2026-10-08T18:10:55.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-11-at-1.39.30-PM.png?w=672",
+    "score": 65,
+    "tags": []
+  },
+  {
+    "id": "c76b56413d4a",
+    "title": "AI人才缺口超500万！有最新报告称，AI抢人逻辑悄悄变了：架构师新发 ...",
+    "url": "https://news.qq.com/rain/a/20260718A08XHR00",
+    "summary": "人才缺口500万，大厂抢得最凶的不是算法工程师，架构师新发职位同比大涨近八成。懂提示词和人机训练岗位的文科生，平均年薪达到34",
+    "source": "算法工程师·就业分析",
+    "category": "就业",
+    "published": "2026-07-18T11:05:00.000Z",
+    "image": "https://inews.gtimg.com/om_ls/Ows_BB25Bhnf-wlGWgFoIkmLSVd_6MJWCT8-yw6C3HS10AA_640330/0",
+    "score": 65,
+    "tags": []
+  },
+  {
     "id": "5a35081811d0",
     "title": "Pretend you&#8217;re sitting at Elizabeth Holmes&#8217; desk on this weirdly detailed website",
     "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
@@ -104,19 +116,7 @@
     "category": "AI",
     "published": "2026-10-08T21:00:00.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-1158861262.jpg?resize=1200,832",
-    "score": 65,
-    "tags": []
-  },
-  {
-    "id": "12d0a6645f87",
-    "title": "Watch the trailer for &#8216;The Altruists,&#8217; Netflix&#8217;s show about the FTX scandal",
-    "url": "https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/",
-    "summary": "Watch the trailer for &#8216;The Altruists,&#8217; Netflix&#8217;s show about the FTX scandal",
-    "source": "TechCrunch",
-    "category": "AI",
-    "published": "2026-10-08T18:30:00.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1592854555-1.jpg?resize=1200,855",
-    "score": 65,
+    "score": 60,
     "tags": []
   }
 ]

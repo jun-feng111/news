@@ -1,14 +1,34 @@
 {
-  "updated": "2026-10-08T23:02:30.518Z",
-  "count": 128,
+  "updated": "2026-10-09T02:56:19.499Z",
+  "count": 125,
   "sources": {
-    "V2EX": 10,
+    "V2EX": 7,
     "RemoteOK": 99,
     "Remotive": 19,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1247239",
+      "title": "我们之前的开源编程助手有 33K Star，现在在做模型训练， RL，想招一位实习生，全远程办公！",
+      "company": "ikw",
+      "location": "国内",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "python",
+        "typescript"
+      ],
+      "category": "其他",
+      "postedDate": "2026-10-09",
+      "url": "https://www.v2ex.com/t/1247239",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1247150",
       "title": "前端开发工程师（seo 方向）|Ai 产品研发工程师",
@@ -32,62 +52,6 @@
       "category": "前端",
       "postedDate": "2026-10-08",
       "url": "https://www.v2ex.com/t/1247150",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1247106",
-      "title": "SEO 增长专员（内容运营／研究执行）",
-      "company": "Aleks",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "python",
-        "go"
-      ],
-      "category": "运营",
-      "postedDate": "2026-10-08",
-      "url": "https://www.v2ex.com/t/1247106",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1247064",
-      "title": "现在 Java 仔还好找工作吗",
-      "company": "heyjianjun",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "java"
-      ],
-      "category": "其他",
-      "postedDate": "2026-10-08",
-      "url": "https://www.v2ex.com/t/1247064",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1247062",
-      "title": "工作距离较远还要考虑吗",
-      "company": "stay4u",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [],
-      "category": "其他",
-      "postedDate": "2026-10-08",
-      "url": "https://www.v2ex.com/t/1247062",
       "source": "V2EX",
       "region": "domestic"
     },
@@ -122,23 +86,6 @@
       "category": "人力/HR",
       "postedDate": "2026-10-08",
       "url": "https://www.v2ex.com/t/1247042",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1247007",
-      "title": "为什么注册 OPC(1 人公司)，不合伙去注册多人 NPC?",
-      "company": "jacketma",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [],
-      "category": "其他",
-      "postedDate": "2026-10-08",
-      "url": "https://www.v2ex.com/t/1247007",
       "source": "V2EX",
       "region": "domestic"
     },

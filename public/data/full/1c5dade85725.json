@@ -1,0 +1,7 @@
+{
+  "id": "1c5dade85725",
+  "title": "堡垒机里 `su - oracle` 被拦截，怎么绕过限制切换用户 - AlfredZhao",
+  "url": "https://www.cnblogs.com/jyzhao/p/23232127",
+  "contentZh": "",
+  "contentFull": "\n    \n    \n2026-10-09 07:03 \nAlfredZhao \n阅读(44) \n评论() \n \n收藏 \n举报\n\n笔者最近在堡垒机上遇到一个很典型的问题：默认只能通过 root 用户登录，登录后想切到 oracle 用户，结果 su - oracle 直接被拦住了。这篇文章记录一下现象和解决办法。\n01 | 问题现象\n在堡垒机里，默认只能选择通过 root 用户登录。登录成功之后，笔者想切换到 oracle 用户，于是执行：\nsu - oracle\n\n回车后并没有提示输入密码，而是直接报错：\nBH:Command is not permitted\n\n看起来像是被某种安全策��限制住了，不允许切换到其他用户。\n02 | 原因判断\n从报错信息 BH:Command is not permitted 来看，堡垒机对命令做了拦截。它识别到的是 su 这个命令本身，于是直接拒绝执行。\n也就是说，限制针对的是命令的调用方式，而不是切换用户这个动作本身。\n03 | 解决办法：使用 su 的全路径\n既然直接写 su 会被拦截，那可以换一种调用方式——使用 su 的全路径。\n先确认 su 的完整路径：\nwhich su\n\n输出结果：\n/usr/bin/su\n\n然后用全路径执行用户切换：\n/usr/bin/su - oracle\n\n这次成功切换到了 oracle 用户。\n04 | 小结\n遇到堡垒机提示 BH:Command is not permitted、不让执行 su - oracle 时，可以尝试用 su 的全路径来调用。核心思路就是：先 which su 找到真实路径，再用 /usr/bin/su - oracle 完成切换。\n关注我，和AI一起成长~\n\n\n\n    \n        \n    \n"
+}

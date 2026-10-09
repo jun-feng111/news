@@ -1,0 +1,7 @@
+{
+  "id": "be7fcaaf8e03",
+  "title": "我们之前的开源编程助手有 33K Star，现在在做模型训练， RL，想招一位实习生，全远程办公！",
+  "url": "https://www.v2ex.com/t/1247239#reply2",
+  "contentZh": "",
+  "contentFull": "兄弟们，我又来了，我是 https://github.com/TabbyML/tabby 的 Maintainer ，之前在 V2 也发过这个项目，当时反响还不错 https://v2ex.com/t/1104616#reply94\n我们现在在做一些模型训练相关的事情，现在有一个实习生的坑位，急需强力的小伙伴加入，全远程办公，有感兴趣的可以直接把简历发邮件到 [email protected] ，我们都会看，有其它问题也可以直接在这里留言，我会尽可能回答。\n大致的 JD 如下：\n我们是一家做 AI developer tools 的开源创业公司，目前正在探索 coding models / agents 方向的 RL infrastructure 。团队规模小、技术导向强，背后有 top VCs 支持，资金充足。\n希望找一位 3–6 个月的工程实习生，和核心团队一起做：\n\nmodel training / RL 相关的数据提取和处理 pipeline\ncoding dataset 的生成、过滤和验证工具\ncoding models / agents 的 training & evaluation infrastructure\n从设计、开发到测试，完整负责实际工程任务\n\n希望你：\n\nCS 和软件工程基础扎实\n熟悉 Python / TypeScript\n对 RL 、AI Infra 、Data Systems 、Code Analysis 感兴趣\n能独立推进和解决开放性工程问题\n\n我们会提供充足的 model API / token / compute 资源，方便做实验和开发，也会给 intern 比较大的 ownership 。\n"
+}
