@@ -1,14 +1,33 @@
 {
-  "updated": "2026-10-09T10:09:56.418Z",
-  "count": 126,
+  "updated": "2026-10-09T17:22:50.878Z",
+  "count": 123,
   "sources": {
-    "V2EX": 8,
+    "V2EX": 7,
     "RemoteOK": 99,
-    "Remotive": 19,
+    "Remotive": 17,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1247441",
+      "title": "[算法]蚂蚁集团-全网数据算法专家-杭州",
+      "company": "GreatSword",
+      "location": "招聘",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "go"
+      ],
+      "category": "算法/AI",
+      "postedDate": "2026-10-09",
+      "url": "https://www.v2ex.com/t/1247441",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1247404",
       "title": "招聘: Agent 开发工程师(全栈)",
@@ -138,42 +157,6 @@
       "category": "算法/AI",
       "postedDate": "2026-10-08",
       "url": "https://www.v2ex.com/t/1247059",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1247042",
-      "title": "拓竹科技（Bambu Lab）招聘内推｜上海全职岗位 ｜ 全新 HC",
-      "company": "chanderbing",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [],
-      "category": "人力/HR",
-      "postedDate": "2026-10-08",
-      "url": "https://www.v2ex.com/t/1247042",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1246998",
-      "title": "腾讯云 Agent Runtime 团队欢迎牛逼技术专家、应届生、实习生加入",
-      "company": "rayhuang110",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "腾讯云"
-      ],
-      "category": "其他",
-      "postedDate": "2026-10-08",
-      "url": "https://www.v2ex.com/t/1246998",
       "source": "V2EX",
       "region": "domestic"
     },
@@ -1063,23 +1046,6 @@
       "region": "foreign"
     },
     {
-      "id": "remotive-2091139",
-      "title": "🇩🇪 Kundenservice Mobilfunk Inbound - innerhalb der EU (ausgenommen: Deutschland)",
-      "company": "hey contact heroes GmbH",
-      "location": "Europe",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [],
-      "category": "Customer Service",
-      "postedDate": "2026-09-18",
-      "url": "https://remotive.com/remote-jobs/customer-service/kundenservice-mobilfunk-inbound-innerhalb-der-eu-ausgenommen-deutschland-2091139",
-      "source": "Remotive",
-      "region": "foreign"
-    },
-    {
       "id": "remotive-2091131",
       "title": "Senior AI Engineer",
       "company": "Lemon.io",
@@ -1673,28 +1639,6 @@
       "postedDate": "2026-09-08",
       "url": "https://remoteOK.com/remote-jobs/remote-quality-dispense-technician-north-thatchers-cider-1137374",
       "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remotive-2086540",
-      "title": "Inside Sales Contractor",
-      "company": "Credit Wellness, LLC",
-      "location": "Worldwide",
-      "remote": true,
-      "salaryText": "OTE $25k - $35k",
-      "salaryMin": 25000,
-      "salaryMax": 35000,
-      "salaryCurrency": "USD",
-      "skills": [
-        "CRM",
-        "google sheets",
-        "financial services",
-        "Inside Sales"
-      ],
-      "category": "Sales",
-      "postedDate": "2026-09-08",
-      "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
-      "source": "Remotive",
       "region": "foreign"
     },
     {
