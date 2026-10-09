@@ -83,7 +83,7 @@
       "category": "科技",
       "published": "2026-10-08T22:33:59.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2299252091.jpg?w=1024",
-      "score": 65,
+      "score": 60,
       "tags": []
     },
     {
@@ -123,20 +123,7 @@
       "source": "算法工程师·就业分析",
       "category": "就业",
       "published": "2026-07-18T11:05:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/Ows_BB25Bhnf-wlGWgFoIkmLSVd_6MJWCT8-yw6C3HS10AA_640330/0",
       "score": 65,
-      "tags": []
-    },
-    {
-      "id": "e9b1678267d0",
-      "title": "AI项目管理人才为什么薪资高？大模型落地缺的是懂技术又懂交付的人",
-      "url": "https://www.sohu.com/a/1082212866_99999728",
-      "summary": "打开招聘平台，AI相关岗位的数量在过去一年里发生了明显变化。2026年春招数据显示，AI领域岗位量同比增长8",
-      "source": "就业报告",
-      "category": "就业",
-      "published": "2026-09-29T07:07:00.000Z",
-      "image": "//q0.itc.cn/images01/20260929/7cb5bf061d3e4ca2bd952244c3e02614.jpeg",
-      "score": 60,
       "tags": []
     },
     {
@@ -159,7 +146,6 @@
       "source": "数据分析·就业分析",
       "category": "就业",
       "published": "2026-09-18T07:41:00.000Z",
-      "image": "http://static.nbd.com.cn/images/app/nbd_icon_300_normal.png",
       "score": 60,
       "tags": []
     },
@@ -174,65 +160,18 @@
       "image": "https://n.sinaimg.cn/finance/transform/260/w880h180/20180326/zi4T-fysqfnf9377213.png",
       "score": 55,
       "tags": []
-    }
-  ],
-  "开发": [
-    {
-      "id": "335ee7d1118e",
-      "title": "一边是 WebGPU 视觉革命，一边是浏览器垄断争议：Canvas UI 发布 35 个组件",
-      "url": "https://www.infoq.cn/article/6jvNkzZCm5mjr22zr04D?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/6jvNkzZCm5mjr22zr04D",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-10-06T10:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/00/f9/00c47514971d8417be08f174d187f9f9.jpg",
-      "score": 60,
-      "tags": []
     },
     {
-      "id": "f4172760adc3",
-      "title": "AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海",
-      "url": "https://www.infoq.cn/article/u70P77XPmsXmRBciu6fL?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/u70P77XPmsXmRBciu6fL",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-10-06T10:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/0a/69/0ac5cb70e9cefacb0494a8991fc32569.jpg",
+      "id": "a1eb1e061894",
+      "title": "[广州] SHEIN 内推： 算法、AI、供应链研发、运维、网络、安全、架构， 20-70k",
+      "url": "https://www.v2ex.com/t/1246802#reply0",
+      "summary": "[广州] SHEIN 内推： 算法、AI、供应链研发、运维、网络、安全、架构， 20-70k",
+      "source": "V2EX·招聘",
+      "category": "就业",
+      "published": "2026-10-07T09:46:49.000Z",
+      "image": "https://cdn.v2ex.com/avatar/75c4/8976/45253_xlarge.png?m=1785748830",
       "score": 55,
       "tags": []
-    },
-    {
-      "id": "ce00c1adcee5",
-      "title": "从依赖专家到开发者自助：一家银行的平台文化转型",
-      "url": "https://www.infoq.cn/article/seZbK4mHm40juM4vmaDy?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/seZbK4mHm40juM4vmaDy",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-10-06T15:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/7a/57/7a7e031f57f1bf25a08fba7c82e49557.jpg",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "b0b197ec1ddb",
-      "title": "C2PA 不够可信？苹果把照片签名塞进传感器，却把信任交给了自家云",
-      "url": "https://www.infoq.cn/article/8lQVsmY9e7zdJsKcfPzE?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/8lQVsmY9e7zdJsKcfPzE",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-10-05T14:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/d0/61/d070001b78c00090ccd54b81e3960161.jpg",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "86867bf3952f",
-      "title": "Kimi 现代高速开源治理的 AI Native 实践｜QCon上海",
-      "url": "https://www.infoq.cn/article/832RV3o8ireEdJpO9H4v?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-10-09T10:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/b3/2a/b31907e118e2e82ce289c1d5b6b6b12a.jpg"
     }
   ],
   "政策": [
@@ -253,22 +192,10 @@
       "title": "央媒聚焦 | 浙江温州织密重点群体就业帮扶网络——政策找人 服务上门",
       "url": "https://www.sohu.com/a/1084087218_121106832",
       "summary": "近年来，温州市立足不同重点群体就业难点、岗位需求差异，打造多元化、全覆盖的就业帮扶体系，以一系列接地气、见实效的实操举措，将政策红利转化为群众可感可及的就业增收成效。 围绕人才培养、就业提质、产业赋能",
-      "source": "Bing·大学生就业政策",
+      "source": "Bing·人社部就业创业政策",
       "category": "政策",
       "published": "2026-10-05T01:02:00.000Z",
       "image": "https://q9.itc.cn/q_70/images03/20261005/1c61c3a2e8ff42e6b8a9a8e810411b19.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "58cbeb3a829a",
-      "title": "【人人乐业】职场 | 织密高校毕业生就业服务网——共和新路街道 ...",
-      "url": "https://www.sohu.com/a/1084388644_121106832",
-      "summary": "当前高校毕业生就业市场竞争加剧，部分辖区应届生存在求职定位不清、岗位信息获取渠道有限、实操技能储备不足、职场风险防范意识薄弱等现实问题，不少毕业生手握学历，但对新兴岗位认知不足，求职方法欠缺，面临“有",
-      "source": "Bing·高校毕业生就业创业政策",
-      "category": "政策",
-      "published": "2026-10-06T03:01:00.000Z",
-      "image": "https://q2.itc.cn/q_70/images03/20261006/eade4e31a50a43cd93b92bb0f3d4f7f2.png",
       "score": 50,
       "tags": []
     },
@@ -295,6 +222,18 @@
       "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
       "score": 50,
       "tags": []
+    },
+    {
+      "id": "20eed286abd8",
+      "title": "2026-04-24教育部办公厅 人力资源社会保障部办公厅关于开展2026年高校毕业生就业政策宣传活动的通知",
+      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202604/t20260423_1434600.html",
+      "summary": "2026-04-24教育部办公厅 人力资源社会保障部办公厅关于开展2026年高校毕业生就业政策宣传活动的通知",
+      "source": "教育部",
+      "category": "政策",
+      "published": "2026-04-23T00:00:00.000Z",
+      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+      "score": 50,
+      "tags": []
     }
   ],
   "社会": [
@@ -311,87 +250,134 @@
       "tags": []
     },
     {
-      "id": "3f0332ef7354",
-      "title": "寒露节气田间地头好“丰”光 多地将特色农业资源转化为文旅消费优势",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709505.shtml",
+      "id": "387e1d78b0f7",
+      "title": "“神州北极”漠河迎来今秋首场降雪",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709760.shtml",
       "source": "中新网社会",
       "category": "社会",
-      "published": "2026-10-09T02:48:54.000Z",
+      "published": "2026-10-09T09:38:23.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "fdc90e81fd03",
-      "title": "一件羊皮袄藏着滚烫的初心",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709500.shtml",
+      "id": "41d53d3d9665",
+      "title": "江西云居山迎秋收 千年古刹农禅并举收稻忙",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709755.shtml",
       "source": "中新网社会",
       "category": "社会",
-      "published": "2026-10-09T02:36:22.000Z",
+      "published": "2026-10-09T09:34:52.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "b0fedabdbb70",
-      "title": "【赓续长征精神 奋进复兴征程】广西：桂北大地传薪火 向海图强启新程",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709495.shtml",
+      "id": "950b319c151d",
+      "title": "超强厄尔尼诺已形成，对今冬气温有啥影响？",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709751.shtml",
       "source": "中新网社会",
       "category": "社会",
-      "published": "2026-10-09T02:29:33.000Z",
+      "published": "2026-10-09T09:18:39.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "9ff9f20fe2af",
-      "title": "从长征出发地到落脚点 坐上高铁去延安",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709494.shtml",
+      "id": "3f99c13bca71",
+      "title": "探访河北大理石长城：从雄关险口到“长城风景道”",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709749.shtml",
       "source": "中新网社会",
       "category": "社会",
-      "published": "2026-10-09T02:28:19.000Z",
+      "published": "2026-10-09T09:13:53.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ],
   "财经": [
     {
-      "id": "5a27fcb1ef55",
-      "title": "电力数据看消费：景区亮、文博热、民宿火、车流密",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709504.shtml",
+      "id": "f44ad5698a7b",
+      "title": "汇聚统战力量 江西安福藏香猪“拱”出共富路",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709773.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-09T02:45:04.000Z",
+      "published": "2026-10-09T10:03:58.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "e3f163481379",
-      "title": "“奔县游”成旅游消费新热点",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709501.shtml",
+      "id": "4890d2f0e179",
+      "title": "权益类基金成立门槛拟降至5000万元",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709781.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-09T02:38:58.000Z",
+      "published": "2026-10-09T10:00:24.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "0f95a57a0e1c",
-      "title": "深度游、入境游、以旧换新火热 假日消费“新”意十足",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709498.shtml",
+      "id": "5fe14b438d13",
+      "title": "浙江义乌铁路新站房启用 年可发送旅客3000万人次",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709771.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-09T02:32:41.000Z",
+      "published": "2026-10-09T09:44:25.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "f625721f720f",
-      "title": "我国加快建立全链条循环经济体系",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709481.shtml",
+      "id": "0b5f38f7ce6f",
+      "title": "广东：到2030年全省竹产业总产值达500亿元",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709763.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-09T02:08:14.000Z",
+      "published": "2026-10-09T09:28:08.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "9c98407e8de2",
-      "title": "国庆消费“热力图”：服务扩容 智能升级",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709477.shtml",
+      "id": "c1dc1d7d6590",
+      "title": "从“要我创新”到“我要创新”  山西“十五五”激发企业创新活力",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709764.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-09T02:06:18.000Z",
+      "published": "2026-10-09T09:21:56.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    }
+  ],
+  "开发": [
+    {
+      "id": "9a48c5f9dbee",
+      "title": "黄仁勋为微软站台：没有 Windows 就不会有英伟达，Satya 当场“讨市值”",
+      "url": "https://www.infoq.cn/article/dQy1xkMRuPVj1Xh7Pohu?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-10-09T17:53:58.000Z",
+      "image": "https://static001.infoq.cn/resource/image/6d/1b/6d2f6d724f5382c72e9251f281e3b51b.png"
+    },
+    {
+      "id": "a2a970eeb6c2",
+      "title": "Codex 和 Claude Code 都跑偏了，前 OpenAI 研究员称 Jev 出现前 AI 世界是个悲剧",
+      "url": "https://www.infoq.cn/article/e0iQfJNgepz7VigRdD61?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-10-09T17:39:38.000Z",
+      "image": "https://static001.infoq.cn/resource/image/f9/b8/f9bcb42718b25f444040a3bb0b778db8.jpg"
+    },
+    {
+      "id": "f56ef44fb380",
+      "title": "OpenAI 高管亲述：我们是怎么在一周内做出 Jev 竞品的",
+      "url": "https://www.infoq.cn/article/IRqoPz4cNONlNFBolD9V?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-10-09T17:24:31.000Z",
+      "image": "https://static001.infoq.cn/resource/image/38/ba/38a5b9f3a20a2ef3a602c4d5c6c8a6ba.png"
+    },
+    {
+      "id": "97183e4478f2",
+      "title": "@ 一下就能派活？谷歌推出办公 Agent，拥有独立账号、能够创建子 Agent，还能调用 Claude",
+      "url": "https://www.infoq.cn/article/490gIS9Bk0NmylN7GIt1?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-10-09T17:15:07.000Z",
+      "image": "https://static001.infoq.cn/resource/image/e8/ed/e8981ec1229a4acda7c2b1c32aff0eed.png"
+    },
+    {
+      "id": "0dc90f16f16a",
+      "title": "Modal 破解 Kubernetes 限制，在几秒内扩展 100 万个并发沙箱",
+      "url": "https://www.infoq.cn/article/tor9ik2Xesfgf1x3CadO?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-10-09T17:10:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/6b/3e/6b36070bfc7e7b20981e851e74db9e3e.jpg"
     }
   ]
 }

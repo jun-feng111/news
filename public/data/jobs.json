@@ -1,14 +1,83 @@
 {
-  "updated": "2026-10-09T02:56:19.499Z",
-  "count": 125,
+  "updated": "2026-10-09T10:09:56.418Z",
+  "count": 126,
   "sources": {
-    "V2EX": 7,
+    "V2EX": 8,
     "RemoteOK": 99,
     "Remotive": 19,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1247404",
+      "title": "招聘: Agent 开发工程师(全栈)",
+      "company": "lllllliiii",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "python",
+        "java",
+        "go",
+        "rust",
+        "typescript",
+        "react",
+        "vue",
+        "docker",
+        "linux",
+        "mysql",
+        "redis"
+      ],
+      "category": "全栈",
+      "postedDate": "2026-10-09",
+      "url": "https://www.v2ex.com/t/1247404",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1247345",
+      "title": "香港公司，招聘“业务后端工程师（Go）”",
+      "company": "LaunchPro",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "go"
+      ],
+      "category": "后端",
+      "postedDate": "2026-10-09",
+      "url": "https://www.v2ex.com/t/1247345",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1247316",
+      "title": "8 年前端开发经验，主攻 WebGL / Cesium / Three.js / 三维可视化，坐标北京，寻找新机会",
+      "company": "tjfamtf",
+      "location": "求职",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "python",
+        "typescript",
+        "vue"
+      ],
+      "category": "前端",
+      "postedDate": "2026-10-09",
+      "url": "https://www.v2ex.com/t/1247316",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1247239",
       "title": "我们之前的开源编程助手有 33K Star，现在在做模型训练， RL，想招一位实习生，全远程办公！",
@@ -105,43 +174,6 @@
       "category": "其他",
       "postedDate": "2026-10-08",
       "url": "https://www.v2ex.com/t/1246998",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1246982",
-      "title": "SEO 增长专员（内容运营方向／研究执行方向）",
-      "company": "Aleks",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "python",
-        "go"
-      ],
-      "category": "运营",
-      "postedDate": "2026-10-08",
-      "url": "https://www.v2ex.com/t/1246982",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1246802",
-      "title": "SHEIN 内推： 算法、AI、供应链研发、运维、网络、安全、架构， 20-70k",
-      "company": "rowena1225",
-      "location": "广州",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [],
-      "category": "算法/AI",
-      "postedDate": "2026-10-07",
-      "url": "https://www.v2ex.com/t/1246802",
       "source": "V2EX",
       "region": "domestic"
     },

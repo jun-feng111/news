@@ -1,0 +1,7 @@
+{
+  "id": "3612aad5c959",
+  "title": "乱序 HTML 流技术从 JavaScript 框架转移到浏览器中",
+  "url": "https://www.infoq.cn/article/BEgaPOXCCtDaPGJiCtSi?utm_source=rss&amp;utm_medium=article",
+  "contentZh": "",
+  "contentFull": "作者：Bruno Couriol平川2026-10-09北京本文字数：1488 字 阅读完需：约 5 分钟AI摘要乱序 HTML 流使浏览器能在页面加载中动态填充占位符，Chrome 150 已落地支持，Safari 与 Firefox 计划跟进。支持通过 `<template for=\"id\">` 声明插入点，服务端流式返回匹配 `<script type=\"text/html\" data-for=\"id\">` 内容即可自动挂载。无需 JavaScript 驱动，纯声明式、渐进增强，兼容现有 SSR 架构。适合 Web 平台工程师、SSR/流式渲染开发者、浏览器标准关注者阅读。乱序 HTML 流是一种允许用户在页面完全加载之前即可查看并与之交互的模式。该模式正逐渐被引入 Web 浏览器。根据提案，当数据通过声明式 HTML 或相应的 JavaScript API 传入时，浏览器会实时更新占位符的内容。Chrome 150 已经正式推出这些声明式功能，而 Safari 和 Firefox 也已经表示将予以支持。该声明式提案通过标准 "
+}
