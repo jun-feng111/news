@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-10T19:51:00.325Z",
-  "count": 123,
+  "updated": "2026-10-10T23:20:14.222Z",
+  "count": 122,
   "sources": {
-    "V2EX": 6,
+    "V2EX": 5,
     "RemoteOK": 99,
     "Remotive": 18,
     "Arbeitnow": 0,
@@ -98,35 +98,6 @@
       "category": "算法/AI",
       "postedDate": "2026-10-09",
       "url": "https://www.v2ex.com/t/1247441",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1247404",
-      "title": "招聘: Agent 开发工程师(全栈)",
-      "company": "lllllliiii",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "python",
-        "java",
-        "go",
-        "rust",
-        "typescript",
-        "react",
-        "vue",
-        "docker",
-        "linux",
-        "mysql",
-        "redis"
-      ],
-      "category": "全栈",
-      "postedDate": "2026-10-09",
-      "url": "https://www.v2ex.com/t/1247404",
       "source": "V2EX",
       "region": "domestic"
     },

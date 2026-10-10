@@ -1,5 +1,17 @@
 [
   {
+    "id": "a132e85074c4",
+    "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+    "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+    "summary": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+    "source": "TechCrunch",
+    "category": "AI",
+    "published": "2026-10-10T21:47:51.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/11/satya-nadella-2_web.png?w=1000",
+    "score": 80,
+    "tags": []
+  },
+  {
     "id": "d8d2c1c3d579",
     "title": "Here are the top AI agents that can live in your text messages",
     "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
@@ -8,54 +20,6 @@
     "category": "AI",
     "published": "2026-10-10T14:00:00.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
-    "score": 80,
-    "tags": []
-  },
-  {
-    "id": "6609f1addbf3",
-    "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-    "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-    "summary": "The maker of non-text AI model Jev valued at $7。5B just weeks after launch",
-    "source": "TechCrunch",
-    "category": "AI",
-    "published": "2026-10-09T21:41:29.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/typesafe-ai.jpg?resize=1174,1200",
-    "score": 80,
-    "tags": []
-  },
-  {
-    "id": "3e031e4aed98",
-    "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
-    "url": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
-    "summary": "Petra Power looks to modernize energy for data centers and defense vehicles",
-    "source": "TechCrunch",
-    "category": "科技",
-    "published": "2026-10-10T17:00:00.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_6289.HEIC.jpg?resize=900,1200",
-    "score": 75,
-    "tags": []
-  },
-  {
-    "id": "f9e8c0b9db2f",
-    "title": "Cloudflare acquires Deno to improve its Workers programming model",
-    "url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
-    "summary": "Cloudflare acquires Deno to improve its Workers programming model",
-    "source": "TechCrunch",
-    "category": "开发",
-    "published": "2026-10-10T16:25:42.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1186369127.jpeg?resize=1200,800",
-    "score": 75,
-    "tags": []
-  },
-  {
-    "id": "1a1dace66827",
-    "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-    "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-    "summary": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-    "source": "TechCrunch",
-    "category": "AI",
-    "published": "2026-10-10T15:00:00.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/06/Startup-Battlefield-2023-2.jpg?resize=1200,800",
     "score": 75,
     "tags": []
   },
@@ -72,27 +36,63 @@
     "tags": []
   },
   {
-    "id": "8c0180a6a501",
-    "title": "Long live the mechanical keyboard",
-    "url": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/",
-    "summary": "Long live the mechanical keyboard",
+    "id": "6609f1addbf3",
+    "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+    "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+    "summary": "The maker of non-text AI model Jev valued at $7。5B just weeks after launch",
+    "source": "TechCrunch",
+    "category": "AI",
+    "published": "2026-10-09T21:41:29.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/typesafe-ai.jpg?resize=1174,1200",
+    "score": 75,
+    "tags": []
+  },
+  {
+    "id": "3e031e4aed98",
+    "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
+    "url": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
+    "summary": "Petra Power looks to modernize energy for data centers and defense vehicles",
     "source": "TechCrunch",
     "category": "科技",
-    "published": "2026-10-09T22:08:24.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4970.jpeg?resize=1200,900",
+    "published": "2026-10-10T17:00:00.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_6289.HEIC.jpg?resize=900,1200",
     "score": 70,
     "tags": []
   },
   {
-    "id": "e09bca746ce3",
-    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-    "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-    "summary": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+    "id": "f9e8c0b9db2f",
+    "title": "Cloudflare acquires Deno to improve its Workers programming model",
+    "url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
+    "summary": "Cloudflare acquires Deno to improve its Workers programming model",
+    "source": "TechCrunch",
+    "category": "开发",
+    "published": "2026-10-10T16:25:42.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1186369127.jpeg?resize=1200,800",
+    "score": 70,
+    "tags": []
+  },
+  {
+    "id": "1a1dace66827",
+    "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+    "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+    "summary": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
     "source": "TechCrunch",
     "category": "AI",
-    "published": "2026-10-09T19:36:56.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1490947739.jpg?resize=1200,797",
+    "published": "2026-10-10T15:00:00.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/Startup-Battlefield-2023-2.jpg?resize=1200,800",
     "score": 70,
+    "tags": []
+  },
+  {
+    "id": "719244ff4837",
+    "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+    "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+    "summary": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+    "source": "TechCrunch",
+    "category": "科技",
+    "published": "2026-10-10T19:50:00.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/01/apple-podcasts-1.jpg?w=1200",
+    "score": 65,
     "tags": []
   },
   {
@@ -108,14 +108,14 @@
     "tags": []
   },
   {
-    "id": "72b5d1ea6f1d",
-    "title": "Batteries are now cheaper than natural gas turbines used at many data centers",
-    "url": "https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/",
-    "summary": "Batteries are now cheaper than natural gas turbines used at many data centers",
+    "id": "8c0180a6a501",
+    "title": "Long live the mechanical keyboard",
+    "url": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/",
+    "summary": "Long live the mechanical keyboard",
     "source": "TechCrunch",
     "category": "科技",
-    "published": "2026-10-09T18:57:58.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/moment-energy-luna-5.jpg?resize=1200,800",
+    "published": "2026-10-09T22:08:24.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4970.jpeg?resize=1200,900",
     "score": 65,
     "tags": []
   },
@@ -132,18 +132,6 @@
     "tags": []
   },
   {
-    "id": "315c4b42ff3b",
-    "title": "构建就业友好型发展方式，让大学生更好应对AI挑战",
-    "url": "https://www.yicai.com/news/103341420.html",
-    "summary": "作者：钱婷婷 姚凯 责编：任绍敏 前述内容由第一财经“星翼大模型”智能生成，相关AI内容力求但不保证准确性、时效性、完整性等。请用户注意甄别，第一财经不承担由此产生的任何责任",
-    "source": "就业报告",
-    "category": "就业",
-    "published": "2026-08-31T13:24:00.000Z",
-    "image": "data:image/png;base64,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",
-    "score": 60,
-    "tags": []
-  },
-  {
     "id": "7964f9bfde02",
     "title": "FDE工程师和传统程序员，2026年谁更抢手",
     "url": "https://www.sohu.com/a/1082572843_122941499",
@@ -152,18 +140,6 @@
     "category": "就业",
     "published": "2026-09-30T04:23:00.000Z",
     "image": "//q7.itc.cn/images01/20260930/a6ea526b989e4d6f87e9c9839b51f302.jpeg",
-    "score": 60,
-    "tags": []
-  },
-  {
-    "id": "a22bf645e7bb",
-    "title": "工信部公开征求《5G移动通信网 智能网络数据分析（NWDA）总体技术 ...",
-    "url": "https://www.nbd.com.cn/articles/2026-09-18/4585370.html",
-    "summary": "每经AI快讯，9月18日，工信部科技司发布关于公开征求《5G移动通信网 智能网络数据分析（NWDA）总体技术要求（第三阶段）》等20项通信行业标准报批意见的公示，根据行业标准制修订计划，相关标准化技术",
-    "source": "数据分析·就业分析",
-    "category": "就业",
-    "published": "2026-09-18T07:41:00.000Z",
-    "image": "http://static.nbd.com.cn/images/app/nbd_icon_300_normal.png",
     "score": 60,
     "tags": []
   },
@@ -204,14 +180,14 @@
     "tags": []
   },
   {
-    "id": "22d3d8b0b4a2",
-    "title": "沈泽玮：AI冲击就业，中国大学生“反向深造”？",
-    "url": "https://www.zaobao.com.sg/news/china/story20261008-9799437",
-    "summary": "学历与工作岗位错位，正催生大学生“回炉”技校的现象。据中国媒体报道，不少本科毕业生选择进入技工院校或大学生技师班，重新学习数控加工、工业机器人、新能源汽车维修等技能",
-    "source": "Bing·大学生就业政策",
+    "id": "3f74da1e0d30",
+    "title": "两部门发布《全国高校毕业生就业创业支持政策清单》",
+    "url": "https://news.qq.com/rain/a/20260424A0420900",
+    "summary": "新京报讯 日前，教育部、人力资源社会保障部联合印发通知，部署在全国范围内开展2026年高校毕业生就业政策宣传活动，帮助高校毕业生和用人单位全面了解、精准享受就业优惠政策，促进高校毕业生高质量充分就业。",
+    "source": "就业创业政策",
     "category": "政策",
-    "published": "2026-10-07T22:00:00.000Z",
-    "image": "https://cassette.sphdigital.com.sg/image/zaobao/7d2d77ef826b451996b1d5b612519948ce04db8775f64a8222a3b6b0c58e6efa",
+    "published": "2026-04-24T04:30:00.000Z",
+    "image": "https://inews.gtimg.com/om_ls/O2sNqYWqJ7c1MfVMt8J-AEECQzuB5tHlqknLaCSC6Tn5EAA_640330/0",
     "score": 55,
     "tags": []
   },
@@ -264,30 +240,6 @@
     "tags": []
   },
   {
-    "id": "801c3115cca5",
-    "title": "AI最高薪工程岗之一，入门年包30万？新工业网20页《FDE前沿部署工程 ...",
-    "url": "https://news.qq.com/rain/a/20261008A02N4X00",
-    "summary": "想转 FDE 或判断它值不值，多数人拿\"是不是高级实施\"去掂量，这一步掂量错了，后面全跟着错。先给三个数：2025 年全球 FDE 岗位招聘量同比增长 1165%（第 4 页），OpenAI 把它列为",
-    "source": "就业报告",
-    "category": "就业",
-    "published": "2026-10-08T01:01:00.000Z",
-    "image": "https://inews.gtimg.com/om_ls/OrvlxpFJ08KM9guMyjelHFhKJxDW9veTFH0rUs2XbV0jEAA_640330/0",
-    "score": 55,
-    "tags": []
-  },
-  {
-    "id": "944648513bd9",
-    "title": "AI时代FDE工程师年薪百万？深入研究之后我发现真实情况差挺远",
-    "url": "https://www.sohu.com/a/1082563868_120129619",
-    "summary": "最近一段时间，FDE——前沿部署工程师被不少行业报告和招聘平台称为“AI时代最抢手的岗位”。 年薪百万、需求暴涨、人才紧缺，这些词放在一起，很难不让人心动",
-    "source": "就业报告",
-    "category": "就业",
-    "published": "2026-09-30T02:56:00.000Z",
-    "image": "//q6.itc.cn/images01/20260930/fc5b933033a54ff2b398aeff5d80ef63.jpeg",
-    "score": 55,
-    "tags": []
-  },
-  {
     "id": "6f72c415d2f4",
     "title": "嵌入式培训报名选广州金橙智能，零基础也能转型高薪岗",
     "url": "https://www.sohu.com/a/1081526908_122979437",
@@ -319,6 +271,18 @@
     "source": "算法工程师·就业分析",
     "category": "就业",
     "published": "2026-08-01T01:40:00.000Z",
+    "score": 55,
+    "tags": []
+  },
+  {
+    "id": "54028c347041",
+    "title": "工信部公开征求《5G移动通信网 智能网络数据分析（NWDA）总体技术 ...",
+    "url": "https://finance.eastmoney.com/a/202609183878545772.html",
+    "summary": "工信部科技司发布关于公开征求《5G移动通信网智能网络数据分析（NWDA）总体技术要求（第三阶段）》等20项通信行业标准报批意见的公示，根据行业标准制修订计划，相关标准化技术组织已完成《5G移动通信网智",
+    "source": "数据分析·就业分析",
+    "category": "就业",
+    "published": "2026-09-18T07:29:00.000Z",
+    "image": "https://g1.dfcfw.com/g3/201905/20190531140719.png",
     "score": 55,
     "tags": []
   },
@@ -391,18 +355,6 @@
     "category": "社会",
     "published": "2026-10-06T07:50:33.000Z",
     "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-    "score": 50,
-    "tags": []
-  },
-  {
-    "id": "90946ff9737a",
-    "title": "应届生挑选体制内求职辅导机构有哪些参考标准",
-    "url": "https://www.sohu.com/a/1085290532_122968224",
-    "summary": "近年来，随着高校毕业生规模持续扩大，越来越多应届生将央国企、事业单位作为就业方向选择，相关辅导需求随之上涨。传统相关服务多采用流水线式的统一授课模式，难以兼顾不同背景学员的个性化需求，普遍存在岗位匹配",
-    "source": "Bing·应届生求职",
-    "category": "就业",
-    "published": "2026-10-08T18:22:00.000Z",
-    "image": "//q8.itc.cn/images01/20261009/41d27121ddb74f1394feefad4f41e6b0.png",
     "score": 50,
     "tags": []
   },
@@ -503,6 +455,54 @@
     "tags": []
   },
   {
+    "id": "8e5b5c972c66",
+    "title": "聚焦高校毕业生就业 两部门发文部署五项活动（附支持政策清单）",
+    "url": "https://www.xinhuanet.com/edu/20260424/346df901c5cb47bd9b697a8e623224f5/c.html",
+    "summary": "日前，教育部、人力资源社会保障部联合印发通知，部署在全国范围内开展2026年高校毕业生就业政策宣传活动，帮助高校毕业生和用人单位全面了解、精准享受就业优惠政策，促进高校毕业生高质量充分就业。 2026",
+    "source": "就业创业政策",
+    "category": "政策",
+    "published": "2026-04-24T07:25:00.000Z",
+    "image": "https://www.news.cn/detail2020/images/ewm.png",
+    "score": 50,
+    "tags": []
+  },
+  {
+    "id": "0d77fc036fb8",
+    "title": "教育部、人力资源社会保障部组织开展2026年高校毕业生就业政策宣传 ...",
+    "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202604/t20260424_2927113.shtml",
+    "summary": "日前，教育部、人力资源社会保障部联合印发通知，部署在全国范围内开展2026年高校毕业生就业政策宣传活动，帮助高校毕业生和用人单位全面了解、精准享受就业优惠政策，促进高校毕业生高质量充分就业。 2026",
+    "source": "就业创业政策",
+    "category": "政策",
+    "published": "2026-04-24T04:19:00.000Z",
+    "image": "",
+    "score": 50,
+    "tags": []
+  },
+  {
+    "id": "7f919d6e348c",
+    "title": "重庆出台一系列就业补贴政策 高校毕业生等青年留渝来渝就业可申领",
+    "url": "http://www.cq.xinhuanet.com/20260811/fa6804bbe8484eed82676d53567e10ac/c.html",
+    "summary": "一次性求职补贴、12个县大学生就业补贴、高校毕业生灵活就业社保补贴、紧缺岗位就业补贴……8月10日，记者从市就业局 ",
+    "source": "就业创业政策",
+    "category": "政策",
+    "published": "2026-08-11T01:49:00.000Z",
+    "image": "http://www.news.cn/detail2020/images/ewm.png",
+    "score": 50,
+    "tags": []
+  },
+  {
+    "id": "8ec1221c56a1",
+    "title": "政策在“稳岗”，就业在“灵活”：预测3.2亿人，意味着什么？",
+    "url": "https://finance.sina.com.cn/wm/2026-07-07/doc-inihaawk4904609.shtml",
+    "summary": "据人民网报道，人社部等四部门近日联合印发通知，宣布延续实施失业保险稳岗返还政策至2026年底。中小微企业按不超过上 ",
+    "source": "就业创业政策",
+    "category": "政策",
+    "published": "2026-07-07T15:54:00.000Z",
+    "image": "//n.sinaimg.cn/spider20260708/762/w1000h562/20260708/771e-e4c6ee58bd7278ca7418011db5739b37.jpg",
+    "score": 50,
+    "tags": []
+  },
+  {
     "id": "b3650e8c29dd",
     "title": "人工智能时代促就业要有新办法",
     "url": "https://theory.gmw.cn/2026-05/27/content_38792352.htm",
@@ -523,30 +523,6 @@
     "category": "政策",
     "published": "2026-04-24T04:00:00.000Z",
     "image": "https://inews.gtimg.com/om_ls/O6Xv658mguKWdIzfHZpxqIiovf_MXV3Oy4nBy8mAhrpi0AA_640330/0",
-    "score": 50,
-    "tags": []
-  },
-  {
-    "id": "8e5b5c972c66",
-    "title": "聚焦高校毕业生就业 两部门发文部署五项活动（附支持政策清单）",
-    "url": "https://www.xinhuanet.com/edu/20260424/346df901c5cb47bd9b697a8e623224f5/c.html",
-    "summary": "日前，教育部、人力资源社会保障部联合印发通知，部署在全国范围内开展2026年高校毕业生就业政策宣传活动，帮助高校毕业生和用人单位全面了解、精准享受就业优惠政策，促进高校毕业生高质量充分就业。 2026",
-    "source": "就业创业政策",
-    "category": "政策",
-    "published": "2026-04-24T07:25:00.000Z",
-    "image": "https://www.news.cn/detail2020/images/ewm.png",
-    "score": 50,
-    "tags": []
-  },
-  {
-    "id": "3c6ba3a1fe92",
-    "title": "新就业形态下大学生“慢就业”困境的成因剖析与引导策略研究",
-    "url": "https://opinion.voc.com.cn/news/202607/33294310.html",
-    "summary": "摘要：随着新经济形态快速发展和高校毕业生规模持续扩大，大学生“慢就业”现象愈加明显，已成为制约高质量充分就业目标实现的难题。本文从个人、学校和社会三个方面深度剖析“慢就业”内在机理，并从高校管理角度提",
-    "source": "就业报告",
-    "category": "就业",
-    "published": "2026-07-27T10:35:00.000Z",
-    "image": "https://www.voc.com.cn/CommonFiles/20140703/images_detail/logo.jpg",
     "score": 50,
     "tags": []
   },
@@ -605,6 +581,18 @@
     "category": "就业",
     "published": "2026-07-19T11:08:00.000Z",
     "image": "https://inews.gtimg.com/om_ls/O-05Bz4NOv72_rbHmwWDHR8yMCxYWxZ354buayixbJsOUAA_640330/0",
+    "score": 50,
+    "tags": []
+  },
+  {
+    "id": "5e89837c1f9e",
+    "title": "世界技能大赛项目的科技含量有多高｜世赛里的科技范",
+    "url": "https://news.cyol.com/gb/keji/articles/2026-09/07/content_o6BW3mF5pd.html",
+    "summary": "第48届世界技能大赛即将拉开序幕，大赛新增轨道车辆技术、无人机系统、智慧安防技术、软件测试、数字交互媒体设计、口腔修复工艺技术、零售等7个比赛项目。这些项目紧跟产业前沿，直接反映了数字化、智能化和绿色",
+    "source": "测试开发·就业分析",
+    "category": "就业",
+    "published": "2026-09-06T17:00:00.000Z",
+    "image": "",
     "score": 50,
     "tags": []
   },
@@ -681,14 +669,14 @@
     "tags": []
   },
   {
-    "id": "70eb16b5178b",
-    "title": "用数据“看见”大学生就业真相",
-    "url": "https://finance.sina.com.cn/tech/roll/2026-08-04/doc-inimamwf2513939.shtml",
-    "summary": "又是一年毕业季。教育部公布的数据显示，2025届全国高校毕业生规模预计达1222万人，再创历史新高",
-    "source": "就业报告",
-    "category": "就业",
-    "published": "2026-08-03T18:50:00.000Z",
-    "image": "//n.sinaimg.cn/spider20260804/99/w500h399/20260804/7832-42bac34e734ec705c9e8b948a2b18480.jpg",
+    "id": "d26588f2057a",
+    "title": "灵活就业人员等参加医保迎来新政策",
+    "url": "https://finance.eastmoney.com/a/202609093869577698.html",
+    "summary": "9月8日，国家医保局等7部门发布《关于开展灵活就业人员、农民工、新就业形态人员参加基本医疗保险提质专项行动的通知》（以下简称《通知》），要求在巩固灵活就业人员参加基本医保成果基础上，用3年左右时间，通",
+    "source": "就业创业政策",
+    "category": "政策",
+    "published": "2026-09-09T14:24:00.000Z",
+    "image": "https://g1.dfcfw.com/g4/202106/20210618093603.png",
     "score": 45,
     "tags": []
   },
@@ -713,30 +701,6 @@
     "category": "政策",
     "published": "2026-10-05T09:25:00.000Z",
     "image": "https://q0.itc.cn/q_70/images03/20261005/414b5371e3c14c89a1eb3ead502b97e9.jpeg",
-    "score": 40,
-    "tags": []
-  },
-  {
-    "id": "cee4f88253c2",
-    "title": "【创业政策直通车】创业担保贷款新政解读",
-    "url": "https://www.sohu.com/a/1084690117_121106908",
-    "summary": "想创业的大学生注意了。创业担保贷款政策迎来新变化，和你有直接关系",
-    "source": "就业创业政策",
-    "category": "政策",
-    "published": "2026-10-07T04:36:00.000Z",
-    "image": "https://q9.itc.cn/q_70/images03/20261007/11cb70c1cce4407787a94e18495b565b.jpeg",
-    "score": 40,
-    "tags": []
-  },
-  {
-    "id": "a4b979a0cbf5",
-    "title": "就业帮扶政策重在精准滴灌",
-    "url": "https://theory.gmw.cn/2026-06/22/content_38840679.htm",
-    "summary": "近年来，高校毕业生人数持续攀升，就业总量压力不减，结构性矛盾日益凸显。从中央到地方，从顶层设计到专项政策，稳就业工作持续发力",
-    "source": "就业创业政策",
-    "category": "政策",
-    "published": "2026-06-22T03:09:00.000Z",
-    "image": "https://img.gmw.cn/pic/mgmw/iconshare.png",
     "score": 40,
     "tags": []
   },
@@ -786,6 +750,24 @@
     "image": "https://n.sinaimg.cn/finance/transform/260/w880h180/20180326/zi4T-fysqfnf9377213.png",
     "score": 40,
     "tags": []
+  },
+  {
+    "id": "e09bca746ce3",
+    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+    "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+    "source": "TechCrunch",
+    "category": "科技",
+    "published": "2026-10-09T19:36:56.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1490947739.jpg?resize=1200,797"
+  },
+  {
+    "id": "72b5d1ea6f1d",
+    "title": "Batteries are now cheaper than natural gas turbines used at many data centers",
+    "url": "https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/",
+    "source": "TechCrunch",
+    "category": "科技",
+    "published": "2026-10-09T18:57:58.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/moment-energy-luna-5.jpg?resize=1200,800"
   },
   {
     "id": "6306f19b8f02",
@@ -858,24 +840,6 @@
     "category": "科技",
     "published": "2026-10-09T15:43:33.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Olivia-Moore-Headshot-2026.jpg?w=896"
-  },
-  {
-    "id": "712bc6fa014c",
-    "title": "Automattic interim CFO resigns just weeks after boardroom shakeup",
-    "url": "https://techcrunch.com/2026/10/09/automattic-loses-its-interim-cfo-just-weeks-after-boardroom-shakeup/",
-    "source": "TechCrunch",
-    "category": "科技",
-    "published": "2026-10-09T15:02:30.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/09/wordpress-v1.jpg?resize=1200,675"
-  },
-  {
-    "id": "fa3e7e9dc86a",
-    "title": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties &#038; Networking You Can&#8217;t Miss",
-    "url": "https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/",
-    "source": "TechCrunch",
-    "category": "科技",
-    "published": "2026-10-09T14:42:34.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/San-Francisco-Cityscape.jpg?resize=1200,628"
   },
   {
     "id": "8f163ffaa8ee",
@@ -1056,6 +1020,24 @@
     "category": "科技",
     "published": "2026-10-08T20:15:53.000Z",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/hamilton2-1152x648-1791480892.jpg"
+  },
+  {
+    "id": "8b3a42fa2e10",
+    "title": "焚烧厂“不够烧”与“堆不下”问题并存，怎么解决？",
+    "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710862.shtml",
+    "source": "中新网社会",
+    "category": "社会",
+    "published": "2026-10-10T22:40:30.000Z",
+    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+  },
+  {
+    "id": "61cf0749bec2",
+    "title": "食品安全法大幅修订回应哪些关切",
+    "url": "https://www.chinanews.com.cn/sh/2026/10-11/10710861.shtml",
+    "source": "中新网社会",
+    "category": "社会",
+    "published": "2026-10-10T22:35:20.000Z",
+    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
   },
   {
     "id": "b2ab442f2f0e",
@@ -1310,24 +1292,6 @@
     "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
   },
   {
-    "id": "bbe3bd90bdfc",
-    "title": "打造城市海洋文化IP 第二届“浪浪开海节”举办",
-    "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710657.shtml",
-    "source": "中新网社会",
-    "category": "社会",
-    "published": "2026-10-10T11:26:15.000Z",
-    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-  },
-  {
-    "id": "dce138b978cd",
-    "title": "甘肃徽县：千年银杏递请柬 嘉陵峡谷揽秋韵",
-    "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710658.shtml",
-    "source": "中新网社会",
-    "category": "社会",
-    "published": "2026-10-10T11:25:25.000Z",
-    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-  },
-  {
     "id": "12ae9397a692",
     "title": "教育部：教师发展中心全新上线 教师AI素养全覆盖培训启动",
     "url": "https://www.chinanews.com.cn/edu/2026/10-10/10710502.shtml",
@@ -1436,15 +1400,6 @@
     "image": "//n.sinaimg.cn/spider20261009/199/w600h399/20261009/79e5-0f1dd809393e02b7851edea51ec74dd5.jpg"
   },
   {
-    "id": "c5da07f6ad3b",
-    "title": "车评台|秋招季延揽人才 岚图逆势发offer",
-    "url": "https://www.sohu.com/a/1085732823_256503",
-    "source": "Bing·秋招",
-    "category": "就业",
-    "published": "2026-10-09T18:21:00.000Z",
-    "image": "http://sohu-media.bjcnc.scs.sohucs.com/web/static/images/sohu_logo.png"
-  },
-  {
     "id": "fec35141c76e",
     "title": "银行秋招AI面试5分钟决定去留，面试者称像对着空气作答",
     "url": "https://tech.ifeng.com/c/8x3NDLW2zwL",
@@ -1454,13 +1409,13 @@
     "image": "https://x0.ifengimg.com/ucms/2026_41/9A8A92836797BA75FEC4977DEB6B3A72F3D9B9CF_size29_w527_h296.jpg"
   },
   {
-    "id": "9dcc900d8e31",
-    "title": "别等补录！2027杭州国际学校春招已启动，这个窗口期比秋招更容易上岸",
-    "url": "https://www.sohu.com/a/1086062523_100148368",
+    "id": "c5da07f6ad3b",
+    "title": "车评台|秋招季延揽人才 岚图逆势发offer",
+    "url": "https://www.sohu.com/a/1085732823_256503",
     "source": "Bing·秋招",
     "category": "就业",
-    "published": "2026-10-10T10:38:00.000Z",
-    "image": "https://q3.itc.cn/q_70/images03/20261010/17478aee6b884115a0eca6ba181ec30d.png"
+    "published": "2026-10-09T18:21:00.000Z",
+    "image": "http://sohu-media.bjcnc.scs.sohucs.com/web/static/images/sohu_logo.png"
   },
   {
     "id": "1be1e926e51a",
@@ -1472,22 +1427,13 @@
     "image": "https://imagecn.gasgoo.com/moblogo/News/160_110/2026/10/1010403189.jpg"
   },
   {
-    "id": "6d953fa7d4db",
-    "title": "招聘大局已定？如果不出意外，明后年应届生就业迎4大变局",
-    "url": "https://www.sohu.com/a/1086070356_121954804",
-    "source": "Bing·应届生求职",
+    "id": "22ee354c8569",
+    "title": "三季度平均招聘月薪10115元：哪些城市过万？你的城市排第几",
+    "url": "https://www.sohu.com/a/1086200469_123013894",
+    "source": "Bing·智联招聘",
     "category": "就业",
-    "published": "2026-10-10T11:51:00.000Z",
-    "image": "//q3.itc.cn/q_70/images03/20261010/4b568e82ebe64d99b7ce9e439a974e79.jpeg"
-  },
-  {
-    "id": "7e8838e701e9",
-    "title": "告别“随缘求职”：系统化、数字化重塑应届生求职路径",
-    "url": "http://city.ce.cn/xxfw/202610/t20261010_3253261.shtml",
-    "source": "Bing·应届生求职",
-    "category": "就业",
-    "published": "2026-10-10T08:21:00.000Z",
-    "image": "http://city.ce.cn/tlad/202411/W020250317593091179057.jpg"
+    "published": "2026-10-10T09:22:00.000Z",
+    "image": "//q9.itc.cn/images01/20261011/d15e035cb86946ed87ce31187e2805c0.png"
   },
   {
     "id": "63042587daf5",
@@ -1506,6 +1452,15 @@
     "category": "就业",
     "published": "2026-10-09T13:50:00.000Z",
     "image": "https://q3.itc.cn/q_70/images03/20261009/59d13320f1ad41be8bdf69cd21ee3339.png"
+  },
+  {
+    "id": "761f262e2793",
+    "title": "上海外企一年 contract 的职位： iOS/Android 开发，英语流利，月薪 60-70k，需要去现场办公",
+    "url": "https://www.v2ex.com/t/1247753#reply0",
+    "source": "V2EX·招聘",
+    "category": "就业",
+    "published": "2026-10-10T23:10:33.000Z",
+    "image": "https://cdn.v2ex.com/avatar/4c83/08d4/221578_xlarge.png?m=1762788791"
   },
   {
     "id": "6190d7393759",
@@ -1607,69 +1562,6 @@
     "image": "https://cdn.v2ex.com/avatar/1d42/e63c/848933_xlarge.png?m=1789530317"
   },
   {
-    "id": "9131804486d9",
-    "title": "破茧成凤・向光而行｜“雏凤课堂”走进聊城 赋能女大学生就业创业",
-    "url": "https://www.sohu.com/a/1086037529_100137374",
-    "source": "Bing·大学生就业政策",
-    "category": "政策",
-    "published": "2026-10-10T10:44:00.000Z",
-    "image": "//q6.itc.cn/q_70/images01/20261010/959bc9905d284e8f85380937ffa8f817.png"
-  },
-  {
-    "id": "d3bd1724e3e3",
-    "title": "大学生学无人机好就业吗？2026就业市场、岗位薪资与入行路径观察",
-    "url": "https://www.sohu.com/a/1086036349_123016647",
-    "source": "Bing·大学生就业政策",
-    "category": "政策",
-    "published": "2026-10-10T10:53:00.000Z",
-    "image": "//q9.itc.cn/q_70/images01/20261010/0b9229d793a5414096b777f34ba8140e.jpeg"
-  },
-  {
-    "id": "d9be3874471b",
-    "title": "专家释疑：大学毕业生如何享受创业减税优惠政策？",
-    "url": "https://view.inews.qq.com/a/20261009A046MA00",
-    "source": "Bing·高校毕业生就业创业政策",
-    "category": "政策",
-    "published": "2026-10-09T03:23:00.000Z",
-    "image": "https://inews.gtimg.com/om_ls/O6dqtz1jww4PHmujCcMcat7Y2Pp69lmhjdvMSC0ZWP-mIAA_640330/0"
-  },
-  {
-    "id": "48c616208b1f",
-    "title": "职引未来——全国人力资源市场 高校毕业生就业服务周活动（第一期 ...",
-    "url": "https://www.sohu.com/a/1085634082_122604978",
-    "source": "Bing·高校毕业生就业创业政策",
-    "category": "政策",
-    "published": "2026-10-09T11:06:00.000Z",
-    "image": "//q4.itc.cn/images01/20261009/1844953facc5456caf7b17f12a588d8a.jpeg"
-  },
-  {
-    "id": "3eaa2858bb8b",
-    "title": "广德市构建高校毕业生就业服务全链条",
-    "url": "https://finance.sina.com.cn/wm/2026-10-10/doc-iniuufhx1987254.shtml",
-    "source": "Bing·高校毕业生就业创业政策",
-    "category": "政策",
-    "published": "2026-10-10T07:45:00.000Z",
-    "image": "//n.sinaimg.cn/front20261010ac/764/w382h382/20261010/1a91-299a300e12e55fa01312d61ab48f302f.jpg"
-  },
-  {
-    "id": "a1042716bb45",
-    "title": "高校毕业生自主创业，税收优惠如何合规享受?",
-    "url": "https://finance.sina.com.cn/tech/roll/2026-10-09/doc-iniurfei6913551.shtml",
-    "source": "Bing·高校毕业生就业创业政策",
-    "category": "政策",
-    "published": "2026-10-09T07:47:00.000Z",
-    "image": "https://n.sinaimg.cn/tech/zcapp2018/tech_qrcode.png"
-  },
-  {
-    "id": "29e318c1785b",
-    "title": "江苏端出高质量就业“大礼包”，每年开发20万个高校毕业生优岗",
-    "url": "https://news.10jqka.com.cn/20261010/c680546441.shtml",
-    "source": "Bing·高校毕业生就业创业政策",
-    "category": "政策",
-    "published": "2026-10-09T17:00:00.000Z",
-    "image": "https://www.10jqka.com.cn/s.thsi.cn/cd/news-p-fe-app-news-flow-home/newsDetail/_next/static/media/og-logo.b0df97d2.png"
-  },
-  {
     "id": "cb0680fe3cb1",
     "title": "开局起步“十五五” | 人社部：从“有活没人干”入手解决“有人没 ...",
     "url": "https://finance.sina.com.cn/wm/2026-10-10/doc-iniutqmm7445367.shtml",
@@ -1704,6 +1596,15 @@
     "category": "政策",
     "published": "2026-10-09T17:00:00.000Z",
     "image": "https://www.dzwww.com/tpl/v2019/xilan/images/logo1.png"
+  },
+  {
+    "id": "0e9730f5f073",
+    "title": "珠海推出大学生OPC专项培育计划，首届AI创业大赛同步开赛",
+    "url": "https://finance.sina.com.cn/roll/2026-10-09/doc-iniurmnf6847150.shtml",
+    "source": "Bing·大学生创业扶持政策",
+    "category": "政策",
+    "published": "2026-10-09T02:04:00.000Z",
+    "image": "//n.sinaimg.cn/spider20261009/200/w1080h720/20261009/dda1-67fcd1bf052c58e8b191dac774a9641f.jpg"
   },
   {
     "id": "b6181ee02b1a",
@@ -2327,6 +2228,15 @@
     "image": "https://img2024.cnblogs.com/blog/3791643/202610/3791643-20261010105051386-594589016.png"
   },
   {
+    "id": "d9be3874471b",
+    "title": "专家释疑：大学毕业生如何享受创业减税优惠政策？",
+    "url": "https://view.inews.qq.com/a/20261009A046MA00",
+    "source": "就业创业政策",
+    "category": "政策",
+    "published": "2026-10-09T03:23:00.000Z",
+    "image": "https://inews.gtimg.com/om_ls/O6dqtz1jww4PHmujCcMcat7Y2Pp69lmhjdvMSC0ZWP-mIAA_640330/0"
+  },
+  {
     "id": "51615d1530aa",
     "title": "央企招聘的秋招和春招分别在什么时候？哪个机会更多？",
     "url": "https://www.sohu.com/a/1085809292_122711233",
@@ -2341,8 +2251,7 @@
     "url": "http://www.jyb.cn/rmtzcg/xwy/wzxw/202610/t20261010_2111528935.html",
     "source": "就业报告",
     "category": "就业",
-    "published": "2026-10-09T17:00:00.000Z",
-    "image": "http://www.jyb.cn/rmtxwwyyq/jyxxwlogo/202208/W020251226373861706024.png"
+    "published": "2026-10-09T17:00:00.000Z"
   },
   {
     "id": "0fe61a130bfc",
