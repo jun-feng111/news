@@ -21,7 +21,7 @@
       "category": "AI",
       "published": "2026-10-09T19:36:56.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1490947739.jpg?resize=1200,797",
-      "score": 80,
+      "score": 75,
       "tags": []
     },
     {
@@ -33,7 +33,19 @@
       "category": "AI",
       "published": "2026-10-09T16:40:14.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1404749040.jpg?resize=1200,675",
-      "score": 80,
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "3fc0fe8ac680",
+      "title": "Anthropic can&#8217;t reliably control its AI agents. It&#8217;s cutting off its internal evals from the live internet instead",
+      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "summary": "Anthropic can&#8217;t reliably control its AI agents。 It&#8217;s cutting off its internal evals from",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-10T00:18:32.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Claude-AI-app.jpg?resize=1200,842",
+      "score": 70,
       "tags": []
     }
   ],
@@ -59,7 +71,7 @@
       "category": "科技",
       "published": "2026-10-09T18:57:58.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/moment-energy-luna-5.jpg?resize=1200,800",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -71,7 +83,7 @@
       "category": "科技",
       "published": "2026-10-09T17:00:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1337608378.jpg?resize=1200,800",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -83,7 +95,7 @@
       "category": "科技",
       "published": "2026-10-09T16:45:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Guarding-installed.jpeg?resize=1200,900",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -95,58 +107,8 @@
       "category": "科技",
       "published": "2026-10-09T18:57:06.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/TCD26_3-Huang-Wallen-Lee_16x9-Dark.png?resize=1200,675",
-      "score": 65,
+      "score": 60,
       "tags": []
-    }
-  ],
-  "开发": [
-    {
-      "id": "3819199f8639",
-      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-      "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-      "summary": "Amazon and others are done keeping data center deals secret。 Is it enough to build trust",
-      "source": "TechCrunch",
-      "category": "开发",
-      "published": "2026-10-09T16:56:42.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1252468735.jpg?resize=1200,800",
-      "score": 65,
-      "tags": []
-    },
-    {
-      "id": "9a48c5f9dbee",
-      "title": "黄仁勋为微软站台：没有 Windows 就不会有英伟达，Satya 当场“讨市值”",
-      "url": "https://www.infoq.cn/article/dQy1xkMRuPVj1Xh7Pohu?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-10-09T17:53:58.000Z",
-      "image": "https://static001.infoq.cn/resource/image/6d/1b/6d2f6d724f5382c72e9251f281e3b51b.png"
-    },
-    {
-      "id": "a2a970eeb6c2",
-      "title": "Codex 和 Claude Code 都跑偏了，前 OpenAI 研究员称 Jev 出现前 AI 世界是个悲剧",
-      "url": "https://www.infoq.cn/article/e0iQfJNgepz7VigRdD61?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-10-09T17:39:38.000Z",
-      "image": "https://static001.infoq.cn/resource/image/f9/b8/f9bcb42718b25f444040a3bb0b778db8.jpg"
-    },
-    {
-      "id": "f56ef44fb380",
-      "title": "OpenAI 高管亲述：我们是怎么在一周内做出 Jev 竞品的",
-      "url": "https://www.infoq.cn/article/IRqoPz4cNONlNFBolD9V?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-10-09T17:24:31.000Z",
-      "image": "https://static001.infoq.cn/resource/image/38/ba/38a5b9f3a20a2ef3a602c4d5c6c8a6ba.png"
-    },
-    {
-      "id": "97183e4478f2",
-      "title": "@ 一下就能派活？谷歌推出办公 Agent，拥有独立账号、能够创建子 Agent，还能调用 Claude",
-      "url": "https://www.infoq.cn/article/490gIS9Bk0NmylN7GIt1?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-10-09T17:15:07.000Z",
-      "image": "https://static001.infoq.cn/resource/image/e8/ed/e8981ec1229a4acda7c2b1c32aff0eed.png"
     }
   ],
   "就业": [
@@ -175,30 +137,6 @@
       "tags": []
     },
     {
-      "id": "315c4b42ff3b",
-      "title": "构建就业友好型发展方式，让大学生更好应对AI挑战",
-      "url": "https://www.yicai.com/news/103341420.html",
-      "summary": "作者：钱婷婷 姚凯 责编：任绍敏 前述内容由第一财经“星翼大模型”智能生成，相关AI内容力求但不保证准确性、时效性、完整性等。请用户注意甄别，第一财经不承担由此产生的任何责任",
-      "source": "就业报告",
-      "category": "就业",
-      "published": "2026-08-31T13:24:00.000Z",
-      "image": "data:image/png;base64,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",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "e9b1678267d0",
-      "title": "AI项目管理人才为什么薪资高？大模型落地缺的是懂技术又懂交付的人",
-      "url": "https://www.sohu.com/a/1082212866_99999728",
-      "summary": "打开招聘平台，AI相关岗位的数量在过去一年里发生了明显变化。2026年春招数据显示，AI领域岗位量同比增长8",
-      "source": "就业报告",
-      "category": "就业",
-      "published": "2026-09-29T07:07:00.000Z",
-      "image": "//q0.itc.cn/images01/20260929/7cb5bf061d3e4ca2bd952244c3e02614.jpeg",
-      "score": 60,
-      "tags": []
-    },
-    {
       "id": "7964f9bfde02",
       "title": "FDE工程师和传统程序员，2026年谁更抢手",
       "url": "https://www.sohu.com/a/1082572843_122941499",
@@ -209,21 +147,83 @@
       "image": "//q7.itc.cn/images01/20260930/a6ea526b989e4d6f87e9c9839b51f302.jpeg",
       "score": 60,
       "tags": []
+    },
+    {
+      "id": "a22bf645e7bb",
+      "title": "工信部公开征求《5G移动通信网 智能网络数据分析（NWDA）总体技术 ...",
+      "url": "https://www.nbd.com.cn/articles/2026-09-18/4585370.html",
+      "summary": "每经AI快讯，9月18日，工信部科技司发布关于公开征求《5G移动通信网 智能网络数据分析（NWDA）总体技术要求（第三阶段）》等20项通信行业标准报批意见的公示，根据行业标准制修订计划，相关标准化技术",
+      "source": "数据分析·就业分析",
+      "category": "就业",
+      "published": "2026-09-18T07:41:00.000Z",
+      "image": "http://static.nbd.com.cn/images/app/nbd_icon_300_normal.png",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "a1eb1e061894",
+      "title": "[广州] SHEIN 内推： 算法、AI、供应链研发、运维、网络、安全、架构， 20-70k",
+      "url": "https://www.v2ex.com/t/1246802#reply0",
+      "summary": "[广州] SHEIN 内推： 算法、AI、供应链研发、运维、网络、安全、架构， 20-70k",
+      "source": "V2EX·招聘",
+      "category": "就业",
+      "published": "2026-10-07T09:46:49.000Z",
+      "image": "https://cdn.v2ex.com/avatar/75c4/8976/45253_xlarge.png?m=1785748830",
+      "score": 55,
+      "tags": []
+    }
+  ],
+  "开发": [
+    {
+      "id": "3819199f8639",
+      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+      "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+      "summary": "Amazon and others are done keeping data center deals secret。 Is it enough to build trust",
+      "source": "TechCrunch",
+      "category": "开发",
+      "published": "2026-10-09T16:56:42.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1252468735.jpg?resize=1200,800",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "3e217221b2b8",
+      "title": "当代码不再稀缺：大型工程 AI 狂欢下的确定性底座｜QCon上海",
+      "url": "https://www.infoq.cn/article/0LiYFbYJtkttVMpDVkWC?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-10-10T10:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/be/91/be09cff25fafe2f08d767dab45c56a91.jpg"
+    },
+    {
+      "id": "9a48c5f9dbee",
+      "title": "黄仁勋为微软站台：没有 Windows 就不会有英伟达，Satya 当场“讨市值”",
+      "url": "https://www.infoq.cn/article/dQy1xkMRuPVj1Xh7Pohu?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-10-09T17:53:58.000Z",
+      "image": "https://static001.infoq.cn/resource/image/6d/1b/6d2f6d724f5382c72e9251f281e3b51b.png"
+    },
+    {
+      "id": "a2a970eeb6c2",
+      "title": "Codex 和 Claude Code 都跑偏了，前 OpenAI 研究员称 Jev 出现前 AI 世界是个悲剧",
+      "url": "https://www.infoq.cn/article/e0iQfJNgepz7VigRdD61?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-10-09T17:39:38.000Z",
+      "image": "https://static001.infoq.cn/resource/image/f9/b8/f9bcb42718b25f444040a3bb0b778db8.jpg"
+    },
+    {
+      "id": "f56ef44fb380",
+      "title": "OpenAI 高管亲述：我们是怎么在一周内做出 Jev 竞品的",
+      "url": "https://www.infoq.cn/article/IRqoPz4cNONlNFBolD9V?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-10-09T17:24:31.000Z",
+      "image": "https://static001.infoq.cn/resource/image/38/ba/38a5b9f3a20a2ef3a602c4d5c6c8a6ba.png"
     }
   ],
   "政策": [
-    {
-      "id": "22d3d8b0b4a2",
-      "title": "沈泽玮：AI冲击就业，中国大学生“反向深造”？",
-      "url": "https://www.zaobao.com.sg/news/china/story20261008-9799437",
-      "summary": "学历与工作岗位错位，正催生大学生“回炉”技校的现象。据中国媒体报道，不少本科毕业生选择进入技工院校或大学生技师班，重新学习数控加工、工业机器人、新能源汽车维修等技能",
-      "source": "Bing·大学生就业政策",
-      "category": "政策",
-      "published": "2026-10-07T22:00:00.000Z",
-      "image": "https://cassette.sphdigital.com.sg/image/zaobao/7d2d77ef826b451996b1d5b612519948ce04db8775f64a8222a3b6b0c58e6efa",
-      "score": 55,
-      "tags": []
-    },
     {
       "id": "3f74da1e0d30",
       "title": "两部门发布《全国高校毕业生就业创业支持政策清单》",
@@ -233,18 +233,6 @@
       "category": "政策",
       "published": "2026-04-24T04:30:00.000Z",
       "image": "https://inews.gtimg.com/om_ls/O2sNqYWqJ7c1MfVMt8J-AEECQzuB5tHlqknLaCSC6Tn5EAA_640330/0",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "ed0822808f9b",
-      "title": "温州发布专项政策指南 为残疾人大学生就业创业“撑腰”",
-      "url": "https://news.66wz.com/system/2026/07/16/105805829.shtml",
-      "summary": "市人社局与市残联携手对现行最实用、最优惠的就创业补贴政策进行全面梳理，并形成《温州市残疾人大学生就业创业政策指南》，助力这一特殊群体跨越障碍，实现更加充分、更高质量的就业和创业。 温州网讯 为支持更多",
-      "source": "就业创业政策",
-      "category": "政策",
-      "published": "2026-07-16T01:51:00.000Z",
-      "image": "https://news.66wz.com/pic/003/013/337/00301333742_93765919.gif",
       "score": 55,
       "tags": []
     },
@@ -271,6 +259,30 @@
       "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
       "score": 50,
       "tags": []
+    },
+    {
+      "id": "a3af074b2b9b",
+      "title": "2026-05-22教育部等八部门办公厅关于联合开展2026年度高校毕业生等重点群体促就业“国聘行动”的通知",
+      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202605/t20260522_1437356.html",
+      "summary": "2026-05-22教育部等八部门办公厅关于联合开展2026年度高校毕业生等重点群体促就业“国聘行动”的通知",
+      "source": "教育部",
+      "category": "政策",
+      "published": "2026-05-22T00:00:00.000Z",
+      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "4a7d237a17a2",
+      "title": "2026-01-16教育部办公厅等四部门关于开展高校毕业生异地求职“双惠”行动的通知",
+      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202601/t20260115_1426697.html",
+      "summary": "2026-01-16教育部办公厅等四部门关于开展高校毕业生异地求职“双惠”行动的通知",
+      "source": "教育部",
+      "category": "政策",
+      "published": "2026-01-15T00:00:00.000Z",
+      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+      "score": 50,
+      "tags": []
     }
   ],
   "社会": [
@@ -287,86 +299,86 @@
       "tags": []
     },
     {
-      "id": "c41dc6fad852",
-      "title": "广西推进食品安全治理 建立地方特色食药物质目录制度",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709946.shtml",
+      "id": "8131f7b117d1",
+      "title": "台风“诺洛”减弱为热带风暴级 “小熊”向西北方向移动",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710044.shtml",
       "source": "中新网社会",
       "category": "社会",
-      "published": "2026-10-09T14:18:12.000Z",
+      "published": "2026-10-10T02:03:55.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "4392c06aae51",
-      "title": "（八闽千姿）畲族服饰传承人的针线人生　一针一线绣“凤凰”",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709926.shtml",
+      "id": "0ba12c1635f6",
+      "title": "聚力传承闽南文脉 福建省世界闽南文化交流中心建设宣传周（漳州）启动",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710022.shtml",
       "source": "中新网社会",
       "category": "社会",
-      "published": "2026-10-09T14:03:55.000Z",
+      "published": "2026-10-10T01:53:52.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "8e11e9c18f68",
-      "title": "北京国际老龄产业博览会开幕 中外展团展示老龄产业全链条",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709906.shtml",
+      "id": "452ae8ae78ef",
+      "title": "理响中国·讲好“中国式商量”故事 ｜ 鹭岛“商量”记",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710031.shtml",
       "source": "中新网社会",
       "category": "社会",
-      "published": "2026-10-09T13:52:22.000Z",
+      "published": "2026-10-10T01:44:06.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "be2c58db72c5",
-      "title": "海南多地发布暴雨红色预警 局地出现大暴雨",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-09/10709924.shtml",
+      "id": "dfc7a53b6efb",
+      "title": "冷空气将影响北方地区 带来大风降温天气",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710006.shtml",
       "source": "中新网社会",
       "category": "社会",
-      "published": "2026-10-09T13:52:02.000Z",
+      "published": "2026-10-10T01:05:01.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ],
   "财经": [
     {
-      "id": "59c5958d65aa",
-      "title": "（经济观察）发展新质生产力 中国明确企业做创新主角",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709953.shtml",
+      "id": "ba6e7be48519",
+      "title": "广州白云机场口岸今年出入境客货航班超10万架次",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710021.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-09T15:00:52.000Z",
+      "published": "2026-10-10T01:51:56.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "fda4a3e75fc1",
-      "title": "“第一经济大省”广东吹响新集结号：向先进制造全面进军",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709949.shtml",
+      "id": "31dc697ebe92",
+      "title": "中国商务部：反对个别国家以所谓“产能过剩”为名行保护主义之实",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710016.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-09T14:17:30.000Z",
+      "published": "2026-10-10T01:49:26.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "8a8a4a60e517",
-      "title": "上海市文旅大数据创新实验室揭幕暨“海纳智算”Token 平台启动",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709951.shtml",
+      "id": "4dc32df9bcd2",
+      "title": "今年第七期和第八期凭证式国债今天开售",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710030.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-09T14:16:10.000Z",
+      "published": "2026-10-10T01:42:58.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "6e87cc1bbd48",
-      "title": "商务部新闻发言人就美国召集部分经济体发布应对所谓“结构性产能和生产过剩”问题部长级联合声明答记者问",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709942.shtml",
+      "id": "381d2be8e942",
+      "title": "央行10月10日7天期逆回购操作量为零",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710027.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-09T14:04:15.000Z",
+      "published": "2026-10-10T01:33:19.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "48fe3ba09dc0",
-      "title": "证监会就公募基金运作管理办法及配套规则公开征求意见",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-09/10709933.shtml",
+      "id": "7a2a57c540dc",
+      "title": "金融监管总局发布《财产保险公司保险产品开发管理规定》",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710005.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-09T14:02:35.000Z",
+      "published": "2026-10-10T01:10:40.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
