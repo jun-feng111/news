@@ -1,14 +1,48 @@
 {
-  "updated": "2026-10-10T09:31:06.925Z",
-  "count": 122,
+  "updated": "2026-10-10T15:46:34.978Z",
+  "count": 123,
   "sources": {
     "V2EX": 6,
     "RemoteOK": 99,
-    "Remotive": 17,
+    "Remotive": 18,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1247695",
+      "title": "节后上新岗位：上海游戏厂测试工程师 3 个 HC！ T0 员工福利待遇~",
+      "company": "wlf2mydream",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [],
+      "category": "测试",
+      "postedDate": "2026-10-10",
+      "url": "https://www.v2ex.com/t/1247695",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1247692",
+      "title": "目前的工作明年是否要跳槽。。。",
+      "company": "zqhuang18",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [],
+      "category": "其他",
+      "postedDate": "2026-10-10",
+      "url": "https://www.v2ex.com/t/1247692",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1247600",
       "title": "东京一家做对日开发的 IT 会社在招人， PM/PL 和写代码的都要",
@@ -97,49 +131,34 @@
       "region": "domestic"
     },
     {
-      "id": "v2ex-1247345",
-      "title": "香港公司，招聘“业务后端工程师（Go）”",
-      "company": "LaunchPro",
-      "location": "国内",
-      "remote": false,
+      "id": "remoteok-1137475",
+      "title": "Senior React Full stack Developer",
+      "company": "Lemon.io",
+      "location": "Remote",
+      "remote": true,
       "salaryText": "",
       "salaryMin": null,
       "salaryMax": null,
-      "salaryCurrency": "CNY",
+      "salaryCurrency": "",
       "skills": [
-        "go"
-      ],
-      "category": "后端",
-      "postedDate": "2026-10-09",
-      "url": "https://www.v2ex.com/t/1247345",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1247150",
-      "title": "前端开发工程师（seo 方向）|Ai 产品研发工程师",
-      "company": "Brand001",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
+        "dev",
+        "engineer",
+        "remote",
         "python",
-        "java",
-        "typescript",
+        "aws",
+        "gcp",
+        "javascript",
         "react",
-        "vue",
         "node",
-        "docker",
-        "flutter"
+        "ruby",
+        "typescript",
+        "full time"
       ],
-      "category": "前端",
-      "postedDate": "2026-10-08",
-      "url": "https://www.v2ex.com/t/1247150",
-      "source": "V2EX",
-      "region": "domestic"
+      "category": "dev",
+      "postedDate": "2026-10-09",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-react-full-stack-developer-lemon-io-1137475",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137474",
@@ -169,6 +188,28 @@
       "postedDate": "2026-10-09",
       "url": "https://remoteOK.com/remote-jobs/remote-product-design-lead-fuel50-1137474",
       "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remotive-2086540",
+      "title": "Inside Sales Contractor",
+      "company": "Credit Wellness, LLC",
+      "location": "Worldwide",
+      "remote": true,
+      "salaryText": "OTE $25k - $35k",
+      "salaryMin": 25000,
+      "salaryMax": 35000,
+      "salaryCurrency": "USD",
+      "skills": [
+        "CRM",
+        "google sheets",
+        "financial services",
+        "Inside Sales"
+      ],
+      "category": "Sales",
+      "postedDate": "2026-10-08",
+      "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
+      "source": "Remotive",
       "region": "foreign"
     },
     {
@@ -3215,36 +3256,6 @@
       "category": "exec",
       "postedDate": "2026-07-31",
       "url": "https://remoteOK.com/remote-jobs/remote-regional-general-manager-airports-westjet-1135745",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1135681",
-      "title": "Growth Strategist",
-      "company": "Lyric",
-      "location": "Remote",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "marketing",
-        "design",
-        "embedded",
-        "technical",
-        "strategy",
-        "customer support",
-        "dev",
-        "travel",
-        "finance",
-        "exec",
-        "content writing",
-        "senior"
-      ],
-      "category": "marketing",
-      "postedDate": "2026-07-30",
-      "url": "https://remoteOK.com/remote-jobs/remote-growth-strategist-lyric-1135681",
       "source": "RemoteOK",
       "region": "foreign"
     }
