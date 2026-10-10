@@ -1,0 +1,7 @@
+{
+  "id": "8de9b7ebf415",
+  "title": "安卓apk加固+重签免费方案 - 小朱发财",
+  "url": "https://www.cnblogs.com/ddandzzmm/p/23251914",
+  "contentZh": "",
+  "contentFull": "\n1、HbuildX云打包-成功后拿到apk\n\n2、下载梆梆助手，下载链接https://dev.bangcle.com/devwebsite/home/download\n3、在梆梆助手中上传云打包的apk,上传、加固后到已完成，在已完成中选择导出\n\n4、在我这个版本里面apk签名导出我没成功，我选择的是未签名导出，选择未签名后输入导出位置即可\n5、重签：这一步就是要在网上下载一个下载 uber-apk-signer.jar，下载地址：官网： https://github.com/patrickfav/uber-apk-signer/releases ，把 uber-apk-signer-1.3.0.jar 放到 D:\\tools\\ 文件夹（自己新建 tools 文件夹，uber-apk-signer-1.3.0.jar是我下载的版本）\n6、后面都是命令重签\n（1）先确认你的真实别名（必做！）\nkeytool -list -v -keystore 你的.keystore证书位置\n输入你的 keystore 密码，找到 Alias name，完整复制别名\n\n（2）上面命令拿到证书别名后，打开 CMD，运行签名命令（把命令里的证书位置地址以及别名和密码替换成你自己的）\njava -jar D:\\tools\\uber-apk-signer-1.3.0.jar --apks .keystore证书位置地址 --ksAlias 这里粘贴你复制的别名 --ksPass 你的证书密码 --ksKeyPass 你的证书密码 --out D:\\signed_apk\n工具会自动：\n\nzipalign 对齐\napksigner 生成 V1+V2+V3 签名\n自动校验签名合法性\n输出 apk 到 D:\\signed_apk\nsigned_apk这个文件夹不需要自己创建\n\n（3）命令执行成功，日志会显示SUCCESS。\n注意：前提是你已经安装过JDK才可执行命令重签\n\n\n"
+}

@@ -9,7 +9,7 @@
       "category": "AI",
       "published": "2026-10-09T21:41:29.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/typesafe-ai.jpg?resize=1174,1200",
-      "score": 85,
+      "score": 80,
       "tags": []
     },
     {
@@ -25,18 +25,6 @@
       "tags": []
     },
     {
-      "id": "3b30e472897b",
-      "title": "We can&#8217;t help treating AI like it&#8217;s human. But should we?",
-      "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
-      "summary": "We can&#8217;t help treating AI like it&#8217;s human。 But should we",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-09T16:40:14.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1404749040.jpg?resize=1200,675",
-      "score": 75,
-      "tags": []
-    },
-    {
       "id": "3fc0fe8ac680",
       "title": "Anthropic can&#8217;t reliably control its AI agents. It&#8217;s cutting off its internal evals from the live internet instead",
       "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
@@ -45,11 +33,23 @@
       "category": "AI",
       "published": "2026-10-10T00:18:32.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/08/Claude-AI-app.jpg?resize=1200,842",
-      "score": 70,
+      "score": 65,
       "tags": []
     }
   ],
   "科技": [
+    {
+      "id": "249fdcb37f52",
+      "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
+      "url": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
+      "summary": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-10-10T03:10:06.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2275575484.jpg?resize=1200,815",
+      "score": 75,
+      "tags": []
+    },
     {
       "id": "8c0180a6a501",
       "title": "Long live the mechanical keyboard",
@@ -59,7 +59,7 @@
       "category": "科技",
       "published": "2026-10-09T22:08:24.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4970.jpeg?resize=1200,900",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -97,18 +97,6 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Guarding-installed.jpeg?resize=1200,900",
       "score": 70,
       "tags": []
-    },
-    {
-      "id": "6306f19b8f02",
-      "title": "TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers",
-      "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
-      "summary": "TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing ",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-10-09T18:57:06.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/TCD26_3-Huang-Wallen-Lee_16x9-Dark.png?resize=1200,675",
-      "score": 60,
-      "tags": []
     }
   ],
   "就业": [
@@ -137,6 +125,18 @@
       "tags": []
     },
     {
+      "id": "e9b1678267d0",
+      "title": "AI项目管理人才为什么薪资高？大模型落地缺的是懂技术又懂交付的人",
+      "url": "https://www.sohu.com/a/1082212866_99999728",
+      "summary": "打开招聘平台，AI相关岗位的数量在过去一年里发生了明显变化。2026年春招数据显示，AI领域岗位量同比增长8",
+      "source": "就业报告",
+      "category": "就业",
+      "published": "2026-09-29T07:07:00.000Z",
+      "image": "//q0.itc.cn/images01/20260929/7cb5bf061d3e4ca2bd952244c3e02614.jpeg",
+      "score": 60,
+      "tags": []
+    },
+    {
       "id": "7964f9bfde02",
       "title": "FDE工程师和传统程序员，2026年谁更抢手",
       "url": "https://www.sohu.com/a/1082572843_122941499",
@@ -159,18 +159,6 @@
       "image": "http://static.nbd.com.cn/images/app/nbd_icon_300_normal.png",
       "score": 60,
       "tags": []
-    },
-    {
-      "id": "a1eb1e061894",
-      "title": "[广州] SHEIN 内推： 算法、AI、供应链研发、运维、网络、安全、架构， 20-70k",
-      "url": "https://www.v2ex.com/t/1246802#reply0",
-      "summary": "[广州] SHEIN 内推： 算法、AI、供应链研发、运维、网络、安全、架构， 20-70k",
-      "source": "V2EX·招聘",
-      "category": "就业",
-      "published": "2026-10-07T09:46:49.000Z",
-      "image": "https://cdn.v2ex.com/avatar/75c4/8976/45253_xlarge.png?m=1785748830",
-      "score": 55,
-      "tags": []
     }
   ],
   "开发": [
@@ -187,52 +175,52 @@
       "tags": []
     },
     {
-      "id": "3e217221b2b8",
-      "title": "当代码不再稀缺：大型工程 AI 狂欢下的确定性底座｜QCon上海",
-      "url": "https://www.infoq.cn/article/0LiYFbYJtkttVMpDVkWC?utm_source=rss&amp;utm_medium=article",
+      "id": "c47d0494df00",
+      "title": "模型开放之后，AI能力为什么仍难以复用？",
+      "url": "https://www.infoq.cn/article/rKRPT18fGxtjipPAeaLa?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-10-10T10:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/be/91/be09cff25fafe2f08d767dab45c56a91.jpg"
+      "published": "2026-10-10T17:10:50.000Z",
+      "image": "https://static001.infoq.cn/resource/image/9c/ac/9c2dd5c54ebbe7d21c9cdb91e2821dac.png"
     },
     {
-      "id": "9a48c5f9dbee",
-      "title": "黄仁勋为微软站台：没有 Windows 就不会有英伟达，Satya 当场“讨市值”",
-      "url": "https://www.infoq.cn/article/dQy1xkMRuPVj1Xh7Pohu?utm_source=rss&amp;utm_medium=article",
+      "id": "c5e94bee5e6a",
+      "title": "Java 近期新闻：TornadoVM 7.0、Groovy 6.0、GraalVM、Hibernate、Quarkus、Gradle、Maven",
+      "url": "https://www.infoq.cn/article/8s5fm3AAfw7ya1qdWl5Q?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-10-09T17:53:58.000Z",
-      "image": "https://static001.infoq.cn/resource/image/6d/1b/6d2f6d724f5382c72e9251f281e3b51b.png"
+      "published": "2026-10-10T17:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/1b/31/1bd26eae0590f3b1906f6e0570e83231.jpg"
     },
     {
-      "id": "a2a970eeb6c2",
-      "title": "Codex 和 Claude Code 都跑偏了，前 OpenAI 研究员称 Jev 出现前 AI 世界是个悲剧",
-      "url": "https://www.infoq.cn/article/e0iQfJNgepz7VigRdD61?utm_source=rss&amp;utm_medium=article",
+      "id": "76f0ffac254c",
+      "title": "GKE Pod 快照可缩短模型加载时间",
+      "url": "https://www.infoq.cn/article/IAvNgDyPz2NpvfZLoDo0?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-10-09T17:39:38.000Z",
-      "image": "https://static001.infoq.cn/resource/image/f9/b8/f9bcb42718b25f444040a3bb0b778db8.jpg"
+      "published": "2026-10-10T15:31:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/1c/ce/1c29d9dc8b5cyyce8a0b78af7a77f5ce.jpg"
     },
     {
-      "id": "f56ef44fb380",
-      "title": "OpenAI 高管亲述：我们是怎么在一周内做出 Jev 竞品的",
-      "url": "https://www.infoq.cn/article/IRqoPz4cNONlNFBolD9V?utm_source=rss&amp;utm_medium=article",
+      "id": "9a043fc32145",
+      "title": "Rails 之父 DHH 狂吹 Rust 快 150 倍，被开发者翻代码后群嘲",
+      "url": "https://www.infoq.cn/article/jri7etqXIv2dp6RsiSHh?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-10-09T17:24:31.000Z",
-      "image": "https://static001.infoq.cn/resource/image/38/ba/38a5b9f3a20a2ef3a602c4d5c6c8a6ba.png"
+      "published": "2026-10-10T15:24:10.000Z",
+      "image": "https://static001.infoq.cn/resource/image/a7/e5/a7ed0a393be6ece6a6b8aa0cd4b5f5e5.jpg"
     }
   ],
   "政策": [
     {
-      "id": "3f74da1e0d30",
-      "title": "两部门发布《全国高校毕业生就业创业支持政策清单》",
-      "url": "https://news.qq.com/rain/a/20260424A0420900",
-      "summary": "新京报讯 日前，教育部、人力资源社会保障部联合印发通知，部署在全国范围内开展2026年高校毕业生就业政策宣传活动，帮助高校毕业生和用人单位全面了解、精准享受就业优惠政策，促进高校毕业生高质量充分就业。",
-      "source": "就业创业政策",
+      "id": "22d3d8b0b4a2",
+      "title": "沈泽玮：AI冲击就业，中国大学生“反向深造”？",
+      "url": "https://www.zaobao.com.sg/news/china/story20261008-9799437",
+      "summary": "学历与工作岗位错位，正催生大学生“回炉”技校的现象。据中国媒体报道，不少本科毕业生选择进入技工院校或大学生技师班，重新学习数控加工、工业机器人、新能源汽车维修等技能",
+      "source": "Bing·大学生就业政策",
       "category": "政策",
-      "published": "2026-04-24T04:30:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/O2sNqYWqJ7c1MfVMt8J-AEECQzuB5tHlqknLaCSC6Tn5EAA_640330/0",
+      "published": "2026-10-07T22:00:00.000Z",
+      "image": "https://cassette.sphdigital.com.sg/image/zaobao/7d2d77ef826b451996b1d5b612519948ce04db8775f64a8222a3b6b0c58e6efa",
       "score": 55,
       "tags": []
     },
@@ -280,12 +268,35 @@
       "source": "教育部",
       "category": "政策",
       "published": "2026-01-15T00:00:00.000Z",
-      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
       "score": 50,
       "tags": []
     }
   ],
   "社会": [
+    {
+      "id": "a892fe13dd88",
+      "title": "中俄携手共育音乐人才 重庆柴可夫斯基音乐学院迎来首届新生",
+      "url": "https://www.chinanews.com.cn/edu/2026/10-08/10709150.shtml",
+      "summary": "中新网重庆10月8日电 (记者 周毅)重庆师范大学重庆柴可夫斯基音乐学院(以下简称“重庆柴院”)2026级首届新生开学典礼8日在重庆师范大学举行。这是俄罗斯莫斯科国立柴可夫斯基音乐学院(以下简称“莫斯",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-10-08T08:01:10.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "56a859025817",
+      "title": "2027年研考生注意！明天起网上预报名启动",
+      "url": "https://www.chinanews.com.cn/edu/2026/10-08/10708926.shtml",
+      "summary": "2027年研考生注意了，网上预报名明天将启动。根据《2027年全国硕士研究生招生工作管理规定》，2027年全国硕士研究生招生考试报名时间为2026年10月15日至10月24日(预报名时间为2026年1",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-10-08T02:37:44.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
+    },
     {
       "id": "54f2782a9020",
       "title": "校馆弦歌丨解码侨批中的家国故事 暨南大学百年守望延续文脉传承",
@@ -299,86 +310,71 @@
       "tags": []
     },
     {
-      "id": "8131f7b117d1",
-      "title": "台风“诺洛”减弱为热带风暴级 “小熊”向西北方向移动",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710044.shtml",
-      "source": "中新网社会",
+      "id": "dc586c1d0ab0",
+      "title": "受暴雨影响，海南万宁停课半天",
+      "url": "https://www.chinanews.com.cn/edu/2026/10-08/10709148.shtml",
+      "summary": "中新网10月8日电 据“万宁教育”微信公众号消息，10月8日，海南省万宁市教育局发布通知，根据《海南省教育系统应对台风暴雨极端天气停课指导意见》相关要求，决定全市中小学、幼儿园、校外培训机构10月8日",
+      "source": "中新网教育",
       "category": "社会",
-      "published": "2026-10-10T02:03:55.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+      "published": "2026-10-08T07:56:14.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 45,
+      "tags": []
     },
     {
-      "id": "0ba12c1635f6",
-      "title": "聚力传承闽南文脉 福建省世界闽南文化交流中心建设宣传周（漳州）启动",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710022.shtml",
+      "id": "3a45c5152e62",
+      "title": "对标北京冬奥会 长春大冬会气象服务确保“精准稳”",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710541.shtml",
       "source": "中新网社会",
       "category": "社会",
-      "published": "2026-10-10T01:53:52.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "452ae8ae78ef",
-      "title": "理响中国·讲好“中国式商量”故事 ｜ 鹭岛“商量”记",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710031.shtml",
-      "source": "中新网社会",
-      "category": "社会",
-      "published": "2026-10-10T01:44:06.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "dfc7a53b6efb",
-      "title": "冷空气将影响北方地区 带来大风降温天气",
-      "url": "https://www.chinanews.com.cn/sh/2026/10-10/10710006.shtml",
-      "source": "中新网社会",
-      "category": "社会",
-      "published": "2026-10-10T01:05:01.000Z",
+      "published": "2026-10-10T09:23:04.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ],
   "财经": [
     {
-      "id": "ba6e7be48519",
-      "title": "广州白云机场口岸今年出入境客货航班超10万架次",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710021.shtml",
+      "id": "ad89df46eee2",
+      "title": "重庆铜梁打造西部新型储能高地",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710514.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-10T01:51:56.000Z",
+      "published": "2026-10-10T09:24:35.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "31dc697ebe92",
-      "title": "中国商务部：反对个别国家以所谓“产能过剩”为名行保护主义之实",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710016.shtml",
+      "id": "4059faf389f1",
+      "title": "渝昆高铁云南段首个配套220千伏变电站投运",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710569.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-10T01:49:26.000Z",
+      "published": "2026-10-10T09:24:01.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "4dc32df9bcd2",
-      "title": "今年第七期和第八期凭证式国债今天开售",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710030.shtml",
+      "id": "37ed86968486",
+      "title": "广西将加快新机具新技术推广 提升糖料蔗生产机械化水平",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710544.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-10T01:42:58.000Z",
+      "published": "2026-10-10T09:21:38.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "381d2be8e942",
-      "title": "央行10月10日7天期逆回购操作量为零",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710027.shtml",
+      "id": "2c2b9aeec82d",
+      "title": "（投资中国）直观医疗加码在华创新与产业协同",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710554.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-10T01:33:19.000Z",
+      "published": "2026-10-10T09:15:48.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "7a2a57c540dc",
-      "title": "金融监管总局发布《财产保险公司保险产品开发管理规定》",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710005.shtml",
+      "id": "8517e045d272",
+      "title": "人社部：今年前三季度中国城镇新增就业1052万人",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-10/10710556.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-10T01:10:40.000Z",
+      "published": "2026-10-10T09:13:30.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
