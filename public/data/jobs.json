@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T04:22:33.962Z",
+  "updated": "2026-10-11T11:17:03.460Z",
   "count": 122,
   "sources": {
     "V2EX": 5,
@@ -114,6 +114,36 @@
       "url": "https://www.v2ex.com/t/1247345",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "remoteok-1137481",
+      "title": "Manager Clinical Data Management",
+      "company": "EDETEK",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "exec",
+        "design",
+        "sys admin",
+        "education",
+        "customer support",
+        "dev",
+        "testing",
+        "travel",
+        "junior",
+        "ops",
+        "medical",
+        "recruiter"
+      ],
+      "category": "exec",
+      "postedDate": "2026-10-10",
+      "url": "https://remoteOK.com/remote-jobs/remote-manager-clinical-data-management-edetek-1137481",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137480",
@@ -3212,36 +3242,6 @@
       "category": "design",
       "postedDate": "2026-07-31",
       "url": "https://remoteOK.com/remote-jobs/remote-freelance-creative-director-bmwl-1135901",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1135783",
-      "title": "Human Resources Coordinator",
-      "company": "Pacific Health Group",
-      "location": "San Diego, San Diego, California, United States",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "hr",
-        "sys admin",
-        "education",
-        "recruiter",
-        "coordinator",
-        "customer support",
-        "marketing",
-        "exec",
-        "payroll",
-        "finance",
-        "ops",
-        "medical"
-      ],
-      "category": "hr",
-      "postedDate": "2026-07-31",
-      "url": "https://remoteOK.com/remote-jobs/remote-human-resources-coordinator-pacific-health-group-1135783",
       "source": "RemoteOK",
       "region": "foreign"
     }
