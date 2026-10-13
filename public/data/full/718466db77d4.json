@@ -1,0 +1,7 @@
+{
+  "id": "718466db77d4",
+  "title": "infinite-creation本地AI短剧带货项目推荐-本地运行无费用0负担 - Jarming",
+  "url": "https://www.cnblogs.com/MingGyGy-Castle/p/23275652/infinite-creation",
+  "contentZh": "",
+  "contentFull": "\nAgent无限创作 · 把你的故事变成亿帧画面\n项目介绍：\n　　这是一个Agent全自动视频生成的开源项目✨，可以直接打破 AI 视频制作的壁垒，不用演员、配音、导演和剪辑师就能本地生成超长视频。\n还在纠结分镜、提示词、人物一致性？这个 Agent 直接集成配音、演员、导演、分镜、剪辑能力。只需要输入小说内容就能全自动出片，不限时长。担心成本？项目支持 MiniMaxH3 本地生成视频，搭配 DeepseekApi，基本只消耗一点电脑电费。\n\n\n\n项目地址：https://github.com/SwotAtmk/infinite-creation\n配套本地ComfyUI一键整合包【Windows】：\n我用夸克网盘给你分享了「无限创作-ComfyUI一键安装部署」，点击链接或复制整段内容，打开「夸克APP」即可获取。/~901c3bPXUQ~:/链接：https://pan.quark.cn/s/ad0bcc3daa1c?pwd=w3G5提取码：w3G5\n\n\n安装教程\n\n打开Trae、豆包、CodeX等工具，打开豆包使用“工作模式”，并输入提示词：\n\n\n\n\n\n\n\n帮我克隆这个项目https://github.com/SwotAtmk/infinite-creation.git到本地（这里填写要安装的项目目录），并且在本地运行这个项目\n\n\n\n\n\n\n\n\n安装ComfyUI服务 \n\n\n解压安装ComfyUI一键整合包，点击“启动.bat”文件，得到http://127.0.0.1:8188 的ComfyUI服务地址\n\n　　3. 配置ComfyUI服务地址\n\n\n　　4. 配置LLM模型\n　　　　这里可以用自己本地部署运行LLM模型，这样更省钱，我这里配置了deepseek-v4-flash-vision-exp视觉模型【建议使用多模态带视觉理解的大模型，效果更好】\n\n 　　5. 填写小说故事/剧本\n\n 　　6. 生成内容\n\n 　　7.  素材库\n\n 　　8. 运行日志\n\n 　　9. 运行结果\n\n 　　10. 预览结果\n　　　　《妈妈的时间》-公益短片.mov\n　　 11. 结语\n这个项目是本人独立，刚开发出来的还有很多地方需要打磨，希望各位同行看到后多提提意见，感谢支持！！！🙏🏻，觉得不错欢迎点个 Star 支持项目！github项目地址：https://github.com/SwotAtmk/infinite-creation\n国内gitcode地址：https://gitcode.com/SwotAtmk/infinite-creation\n\n"
+}

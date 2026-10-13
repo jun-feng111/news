@@ -1,14 +1,74 @@
 {
-  "updated": "2026-10-13T01:09:58.174Z",
-  "count": 120,
+  "updated": "2026-10-13T09:02:58.204Z",
+  "count": 121,
   "sources": {
-    "V2EX": 6,
+    "V2EX": 7,
     "RemoteOK": 99,
     "Remotive": 15,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1248334",
+      "title": "Agent / AI Infra / LLM Data / AI 产品经理｜ AI 社交陪伴赛道｜多岗位开放",
+      "company": "cayaxu",
+      "location": "上海｜ AI 创业团队招聘",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "python"
+      ],
+      "category": "算法/AI",
+      "postedDate": "2026-10-13",
+      "url": "https://www.v2ex.com/t/1248334",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1248322",
+      "title": "招聘： AI 质量评估工程师",
+      "company": "lllllliiii",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "python",
+        "java",
+        "go",
+        "rust",
+        "docker",
+        "linux"
+      ],
+      "category": "算法/AI",
+      "postedDate": "2026-10-13",
+      "url": "https://www.v2ex.com/t/1248322",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1248305",
+      "title": "Wordpress B2B 站点主题设计制作 长期合作",
+      "company": "greatchenny",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [],
+      "category": "设计",
+      "postedDate": "2026-10-13",
+      "url": "https://www.v2ex.com/t/1248305",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1248195",
       "title": "💻 技术岗专场｜ 46 个岗位",
@@ -86,47 +146,6 @@
       "category": "测试",
       "postedDate": "2026-10-10",
       "url": "https://www.v2ex.com/t/1247695",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1247600",
-      "title": "东京一家做对日开发的 IT 会社在招人， PM/PL 和写代码的都要",
-      "company": "GSDgsd",
-      "location": "招聘",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "python",
-        "java",
-        "c++",
-        "php"
-      ],
-      "category": "产品",
-      "postedDate": "2026-10-10",
-      "url": "https://www.v2ex.com/t/1247600",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1247441",
-      "title": "[算法]蚂蚁集团-全网数据算法专家-杭州",
-      "company": "GreatSword",
-      "location": "招聘",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "go"
-      ],
-      "category": "算法/AI",
-      "postedDate": "2026-10-09",
-      "url": "https://www.v2ex.com/t/1247441",
       "source": "V2EX",
       "region": "domestic"
     },
@@ -1673,36 +1692,6 @@
       "region": "foreign"
     },
     {
-      "id": "remoteok-1137386",
-      "title": "HR Operations Specialist",
-      "company": "Law Offices of Sabrina Li",
-      "location": "Remote",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "hr",
-        "education",
-        "customer support",
-        "marketing",
-        "finance",
-        "c",
-        "exec",
-        "content writing",
-        "ops",
-        "legal",
-        "recruiter",
-        "full time"
-      ],
-      "category": "hr",
-      "postedDate": "2026-09-12",
-      "url": "https://remoteOK.com/remote-jobs/remote-hr-operations-specialist-law-offices-of-sabrina-li-1137386",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
       "id": "remoteok-1137381",
       "title": "Marketing Student Assistant",
       "company": "Copenhagen Optimization",
@@ -2597,33 +2586,6 @@
       "region": "foreign"
     },
     {
-      "id": "remoteok-1136566",
-      "title": "Customer Service Representative",
-      "company": "Adaptive Teams",
-      "location": "Remote",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "hr",
-        "sys admin",
-        "education",
-        "customer support",
-        "video",
-        "finance",
-        "legal",
-        "part time",
-        "non tech"
-      ],
-      "category": "hr",
-      "postedDate": "2026-08-12",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-service-representative-adaptive-teams-1136566",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
       "id": "remoteok-1136447",
       "title": "Staff Software Engineer",
       "company": "Evolve",
@@ -3179,6 +3141,61 @@
       "category": "hr",
       "postedDate": "2026-08-01",
       "url": "https://remoteOK.com/remote-jobs/remote-patient-outreach-specialist-grapefruit-health-1135789",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1135788",
+      "title": "Licensed Customer Service Representative",
+      "company": "Liberty Mutual Insurance",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "embedded",
+        "education",
+        "customer support",
+        "marketing",
+        "c",
+        "golang",
+        "non tech"
+      ],
+      "category": "embedded",
+      "postedDate": "2026-08-01",
+      "url": "https://remoteOK.com/remote-jobs/remote-licensed-customer-service-representative-liberty-mutual-insurance-1135788",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1136066",
+      "title": "Customer Support Specialist",
+      "company": "Resource Guru",
+      "location": "Greater London,",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "design",
+        "front end",
+        "designer",
+        "dev",
+        "seo",
+        "content writing",
+        "junior",
+        "marketing",
+        "engineer",
+        "full time",
+        "digital nomad",
+        "music"
+      ],
+      "category": "design",
+      "postedDate": "2026-08-01",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-specialist-resource-guru-1136066",
       "source": "RemoteOK",
       "region": "foreign"
     }
