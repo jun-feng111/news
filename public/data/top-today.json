@@ -8,7 +8,7 @@
     "category": "科技",
     "published": "2026-10-12T17:56:56.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-12-at-1.09.43-PM.jpg?resize=1200,676",
-    "score": 80,
+    "score": 75,
     "tags": []
   },
   {
@@ -20,7 +20,7 @@
     "category": "AI",
     "published": "2026-10-12T15:45:00.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/honeyjar-founders.jpg?resize=960,1200",
-    "score": 80,
+    "score": 75,
     "tags": []
   },
   {
@@ -32,7 +32,7 @@
     "category": "AI",
     "published": "2026-10-12T15:31:19.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2018/10/GettyImages-1039496404.jpg?w=1024",
-    "score": 80,
+    "score": 75,
     "tags": []
   },
   {
@@ -44,42 +44,6 @@
     "category": "AI",
     "published": "2026-10-12T15:27:59.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Blueprints-AI-Founder1.jpg?resize=1200,799",
-    "score": 80,
-    "tags": []
-  },
-  {
-    "id": "7b6bf13f385b",
-    "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-    "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
-    "summary": "WindBorne wins a hefty US Air Force contract for its balloon data",
-    "source": "TechCrunch",
-    "category": "AI",
-    "published": "2026-10-12T17:19:14.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Pic-8.jpg?resize=1200,675",
-    "score": 75,
-    "tags": []
-  },
-  {
-    "id": "5a1b68cae34e",
-    "title": "Fitbit Edge is Google’s middle ground between Fitbit Air and Pixel Watch",
-    "url": "https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/",
-    "summary": "Fitbit Edge is Google’s middle ground between Fitbit Air and Pixel Watch",
-    "source": "TechCrunch",
-    "category": "AI",
-    "published": "2026-10-12T15:11:19.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4514.webp?w=1200",
-    "score": 75,
-    "tags": []
-  },
-  {
-    "id": "41388b474624",
-    "title": "Smart ring maker Ultrahuman to roll out biological-age model across UAE",
-    "url": "https://techcrunch.com/2026/10/12/smart-ring-maker-ultrahuman-to-roll-out-biological-age-model-across-uae/",
-    "summary": "Smart ring maker Ultrahuman to roll out biological-age model across UAE",
-    "source": "TechCrunch",
-    "category": "科技",
-    "published": "2026-10-12T14:09:34.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/ultrahuman-ring-air.jpg?resize=1200,800",
     "score": 75,
     "tags": []
   },
@@ -96,15 +60,39 @@
     "tags": []
   },
   {
-    "id": "d9350c73bbc3",
-    "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
-    "url": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
-    "summary": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+    "id": "7b6bf13f385b",
+    "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+    "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+    "summary": "WindBorne wins a hefty US Air Force contract for its balloon data",
+    "source": "TechCrunch",
+    "category": "AI",
+    "published": "2026-10-12T17:19:14.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Pic-8.jpg?resize=1200,675",
+    "score": 70,
+    "tags": []
+  },
+  {
+    "id": "5a1b68cae34e",
+    "title": "Fitbit Edge is Google’s middle ground between Fitbit Air and Pixel Watch",
+    "url": "https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/",
+    "summary": "Fitbit Edge is Google’s middle ground between Fitbit Air and Pixel Watch",
+    "source": "TechCrunch",
+    "category": "AI",
+    "published": "2026-10-12T15:11:19.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4514.webp?w=1200",
+    "score": 70,
+    "tags": []
+  },
+  {
+    "id": "41388b474624",
+    "title": "Smart ring maker Ultrahuman to roll out biological-age model across UAE",
+    "url": "https://techcrunch.com/2026/10/12/smart-ring-maker-ultrahuman-to-roll-out-biological-age-model-across-uae/",
+    "summary": "Smart ring maker Ultrahuman to roll out biological-age model across UAE",
     "source": "TechCrunch",
     "category": "科技",
-    "published": "2026-10-12T14:00:00.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/TCD26_24Hours-16X9-Dark.png?resize=1200,675",
-    "score": 65,
+    "published": "2026-10-12T14:09:34.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/ultrahuman-ring-air.jpg?resize=1200,800",
+    "score": 70,
     "tags": []
   },
   {
@@ -115,8 +103,19 @@
     "source": "算法工程师·就业分析",
     "category": "就业",
     "published": "2026-07-18T11:05:00.000Z",
-    "image": "https://inews.gtimg.com/om_ls/Ows_BB25Bhnf-wlGWgFoIkmLSVd_6MJWCT8-yw6C3HS10AA_640330/0",
     "score": 65,
+    "tags": []
+  },
+  {
+    "id": "d9350c73bbc3",
+    "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+    "url": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
+    "summary": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+    "source": "TechCrunch",
+    "category": "科技",
+    "published": "2026-10-12T14:00:00.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/TCD26_24Hours-16X9-Dark.png?resize=1200,675",
+    "score": 60,
     "tags": []
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-12T18:41:10.473Z",
-  "count": 121,
+  "updated": "2026-10-13T01:09:58.174Z",
+  "count": 120,
   "sources": {
-    "V2EX": 7,
+    "V2EX": 6,
     "RemoteOK": 99,
     "Remotive": 15,
     "Arbeitnow": 0,
@@ -52,40 +52,6 @@
       "region": "domestic"
     },
     {
-      "id": "v2ex-1248163",
-      "title": "大厂裸辞半年迷茫了，有各种尝试还是想找工作",
-      "company": "guguphoenix707",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [],
-      "category": "其他",
-      "postedDate": "2026-10-12",
-      "url": "https://www.v2ex.com/t/1248163",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1248103",
-      "title": "大厂十年领了大礼包，孑然一身应该如何选择呢？",
-      "company": "itsCoderStudio",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [],
-      "category": "其他",
-      "postedDate": "2026-10-12",
-      "url": "https://www.v2ex.com/t/1248103",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
       "id": "v2ex-1248084",
       "title": "lootrushs 招聘远程 web3 开发人员， rust， golang， dapp， DeFi， designFrontend dApp Engineer",
       "company": "Ki1m",
@@ -107,23 +73,6 @@
       "region": "domestic"
     },
     {
-      "id": "v2ex-1247981",
-      "title": "技术出海,人在越南有技术团队,也有中文英文都很能沟通的项目经理,寻商业机会合作",
-      "company": "awolfly9",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [],
-      "category": "其他",
-      "postedDate": "2026-10-12",
-      "url": "https://www.v2ex.com/t/1247981",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
       "id": "v2ex-1247695",
       "title": "节后上新岗位：上海游戏厂测试工程师 3 个 HC！ T0 员工福利待遇~",
       "company": "wlf2mydream",
@@ -139,6 +88,77 @@
       "url": "https://www.v2ex.com/t/1247695",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "v2ex-1247600",
+      "title": "东京一家做对日开发的 IT 会社在招人， PM/PL 和写代码的都要",
+      "company": "GSDgsd",
+      "location": "招聘",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "python",
+        "java",
+        "c++",
+        "php"
+      ],
+      "category": "产品",
+      "postedDate": "2026-10-10",
+      "url": "https://www.v2ex.com/t/1247600",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1247441",
+      "title": "[算法]蚂蚁集团-全网数据算法专家-杭州",
+      "company": "GreatSword",
+      "location": "招聘",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "go"
+      ],
+      "category": "算法/AI",
+      "postedDate": "2026-10-09",
+      "url": "https://www.v2ex.com/t/1247441",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "remoteok-1137498",
+      "title": "Senior Sales Executive Central Region",
+      "company": "SimSpace Corporation",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "saas",
+        "embedded",
+        "sys admin",
+        "infosec",
+        "education",
+        "customer support",
+        "testing",
+        "marketing",
+        "finance",
+        "cloud",
+        "exec",
+        "content writing"
+      ],
+      "category": "saas",
+      "postedDate": "2026-10-12",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-sales-executive-central-region-simspace-corporation-1137498",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137497",
@@ -3159,31 +3179,6 @@
       "category": "hr",
       "postedDate": "2026-08-01",
       "url": "https://remoteOK.com/remote-jobs/remote-patient-outreach-specialist-grapefruit-health-1135789",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1135788",
-      "title": "Licensed Customer Service Representative",
-      "company": "Liberty Mutual Insurance",
-      "location": "Remote",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "embedded",
-        "education",
-        "customer support",
-        "marketing",
-        "c",
-        "golang",
-        "non tech"
-      ],
-      "category": "embedded",
-      "postedDate": "2026-08-01",
-      "url": "https://remoteOK.com/remote-jobs/remote-licensed-customer-service-representative-liberty-mutual-insurance-1135788",
       "source": "RemoteOK",
       "region": "foreign"
     }
