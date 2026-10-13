@@ -1,14 +1,37 @@
 {
-  "updated": "2026-10-13T09:02:58.204Z",
-  "count": 121,
+  "updated": "2026-10-13T17:25:57.667Z",
+  "count": 122,
   "sources": {
     "V2EX": 7,
     "RemoteOK": 99,
-    "Remotive": 15,
+    "Remotive": 16,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1248491",
+      "title": "技术团队扩招｜ AI、研发、安全等 46 个岗位",
+      "company": "loser7758",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "java",
+        "go",
+        "golang",
+        "flutter",
+        "php"
+      ],
+      "category": "其他",
+      "postedDate": "2026-10-13",
+      "url": "https://www.v2ex.com/t/1248491",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1248334",
       "title": "Agent / AI Infra / LLM Data / AI 产品经理｜ AI 社交陪伴赛道｜多岗位开放",
@@ -133,21 +156,23 @@
       "region": "domestic"
     },
     {
-      "id": "v2ex-1247695",
-      "title": "节后上新岗位：上海游戏厂测试工程师 3 个 HC！ T0 员工福利待遇~",
-      "company": "wlf2mydream",
-      "location": "国内",
-      "remote": false,
+      "id": "remoteok-1137506",
+      "title": "Technical Customer Support",
+      "company": "QuickMail",
+      "location": "Remote",
+      "remote": true,
       "salaryText": "",
       "salaryMin": null,
       "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [],
-      "category": "测试",
-      "postedDate": "2026-10-10",
-      "url": "https://www.v2ex.com/t/1247695",
-      "source": "V2EX",
-      "region": "domestic"
+      "salaryCurrency": "",
+      "skills": [
+        "customer support"
+      ],
+      "category": "customer support",
+      "postedDate": "2026-10-12",
+      "url": "https://remoteOK.com/remote-jobs/remote-technical-customer-support-quickmail-1137506",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137498",
@@ -258,6 +283,36 @@
       "postedDate": "2026-10-11",
       "url": "https://remoteOK.com/remote-jobs/remote-technical-account-manager-deuna-1137482",
       "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remotive-1680495",
+      "title": "Remote Office Assistant",
+      "company": "Coalition Technologies",
+      "location": "Worldwide",
+      "remote": true,
+      "salaryText": "$35,3k- $52k",
+      "salaryMin": 52000,
+      "salaryMax": 353000,
+      "salaryCurrency": "USD",
+      "skills": [
+        "CSS",
+        "excel",
+        "frontend",
+        "git",
+        "html",
+        "illustrator",
+        "magento",
+        "photoshop",
+        "php",
+        "shopify",
+        "wordpress",
+        "MySQL"
+      ],
+      "category": "Marketing",
+      "postedDate": "2026-10-11",
+      "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
+      "source": "Remotive",
       "region": "foreign"
     },
     {
@@ -991,30 +1046,6 @@
       "region": "foreign"
     },
     {
-      "id": "remoteok-1137417",
-      "title": "Software Developer Security Analytics",
-      "company": "RedMimicry",
-      "location": "Remote",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "golang",
-        "infosec",
-        "dev",
-        "stats",
-        "full time",
-        "digital nomad"
-      ],
-      "category": "golang",
-      "postedDate": "2026-09-22",
-      "url": "https://remoteOK.com/remote-jobs/remote-software-developer-security-analytics-redmimicry-1137417",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
       "id": "remoteok-1137415",
       "title": "Freelance grabaciÃ³n de tareas cotidianas para proyecto de IA",
       "company": "Mindrift - Data annotation",
@@ -1400,7 +1431,7 @@
     },
     {
       "id": "remoteok-1137399",
-      "title": "AI agent engineer",
+      "title": "SI agent engineer",
       "company": "Sticker Mule",
       "location": "Remote",
       "remote": true,
@@ -1409,14 +1440,14 @@
       "salaryMax": null,
       "salaryCurrency": "",
       "skills": [
-        "ai",
         "golang",
+        "ai",
         "javascript",
         "typescript"
       ],
-      "category": "ai",
+      "category": "golang",
       "postedDate": "2026-09-16",
-      "url": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399",
+      "url": "https://remoteOK.com/remote-jobs/remote-si-agent-engineer-sticker-mule-1137399",
       "source": "RemoteOK",
       "region": "foreign"
     },
