@@ -1,54 +1,4 @@
 {
-  "AI": [
-    {
-      "id": "ef5219e107b2",
-      "title": "Cerebras CEO pushes back on AI doomsday warnings",
-      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
-      "summary": "Cerebras CEO pushes back on AI doomsday warnings",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-13T22:36:59.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588036288_a416e1cb00_k.jpg?resize=1200,800",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "025ffa23c015",
-      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-      "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
-      "summary": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-13T20:36:44.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "b982fab38e0c",
-      "title": "Cerebras CEO says we&#8217;re nearing a future where everyone has a personal AI assistant at home",
-      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-      "summary": "Cerebras CEO says we&#8217;re nearing a future where everyone has a personal AI assistant at home",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-13T23:05:34.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588036568_e00e978a62_k.jpg?resize=1200,800",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "790b86b76701",
-      "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
-      "url": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
-      "summary": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-13T20:59:11.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/openai-employee-product-recording.jpg?w=1145",
-      "score": 70,
-      "tags": []
-    }
-  ],
   "科技": [
     {
       "id": "a20d90454203",
@@ -71,7 +21,7 @@
       "category": "科技",
       "published": "2026-10-13T23:00:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2247792889.jpg?resize=1200,788",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -83,7 +33,7 @@
       "category": "科技",
       "published": "2026-10-13T21:15:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2242228718.jpeg?resize=1200,792",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -95,7 +45,7 @@
       "category": "科技",
       "published": "2026-10-13T20:13:53.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/02/nif-laser-preamplifiers.jpeg?resize=1200,800",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -107,6 +57,56 @@
       "category": "科技",
       "published": "2026-10-13T23:13:31.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588371385_eb2e316d52_o.jpg?resize=1200,800",
+      "score": 60,
+      "tags": []
+    }
+  ],
+  "AI": [
+    {
+      "id": "ef5219e107b2",
+      "title": "Cerebras CEO pushes back on AI doomsday warnings",
+      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+      "summary": "Cerebras CEO pushes back on AI doomsday warnings",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-13T22:36:59.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588036288_a416e1cb00_k.jpg?resize=1200,800",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "025ffa23c015",
+      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+      "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+      "summary": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-13T20:36:44.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "b982fab38e0c",
+      "title": "Cerebras CEO says we&#8217;re nearing a future where everyone has a personal AI assistant at home",
+      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+      "summary": "Cerebras CEO says we&#8217;re nearing a future where everyone has a personal AI assistant at home",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-13T23:05:34.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588036568_e00e978a62_k.jpg?resize=1200,800",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "790b86b76701",
+      "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
+      "url": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
+      "summary": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-13T20:59:11.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/openai-employee-product-recording.jpg?w=1145",
       "score": 65,
       "tags": []
     }
@@ -125,26 +125,26 @@
       "tags": []
     },
     {
-      "id": "bb3f30027df1",
-      "title": "智联招聘：三季度应届生招聘供需前五为软件/IT服务、互联网、集成 ...",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuxwik0520399.shtml",
-      "summary": "10月12日，智联招聘发布《2026年三季度人才市场热点快报》，报告显示，三季度招聘市场延续以新质生产力为引领的驱动格局，并在此基础上涌现出新的亮点：养老/看护行业以43。9%的职位数同比增速登顶全行",
-      "source": "Bing·智联招聘",
+      "id": "119dc570080c",
+      "title": "最新报告：养老服务招聘增速领跑，2027届秋招新质岗位受热捧",
+      "url": "https://www.msn.cn/zh-cn/money/经济/最新报告-养老服务招聘增速领跑-2027届秋招新质岗位受热捧/ar-AA2e3I8w",
+      "summary": "10月12日，记者获悉智联招聘发布2026年三季度人才市场热点快报。报告显示，三季度国内招聘市场由新质生产力相关产业持续拉动，养老看护行业职位数同比大涨43",
+      "source": "Bing·秋招",
       "category": "就业",
-      "published": "2026-10-11T17:00:00.000Z",
-      "image": "https://n.sinaimg.cn/finance/cece9e13/20240627/655959900_20240627.png",
+      "published": "2026-10-12T05:16:00.000Z",
+      "image": "",
       "score": 60,
       "tags": []
     },
     {
-      "id": "7964f9bfde02",
-      "title": "FDE工程师和传统程序员，2026年谁更抢手",
-      "url": "https://www.sohu.com/a/1082572843_122941499",
-      "summary": "同样的工程背景，放在不同的岗位上，市场给出的定价正在拉开差距。综合多平台数据判断，2026 年更抢手的是 FDE（前线部署工程师），而不是传统意义上的程序员",
-      "source": "就业报告",
+      "id": "bb3f30027df1",
+      "title": "智联招聘：三季度应届生招聘供需前五为软件/IT服务、互联网、集成 ...",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuxwik0520399.shtml",
+      "summary": "10月12日，智联招聘发布《2026年三季度人才市场热点快报》，报告显示，三季度招聘市场延续以新质生产力为引领的驱动格局，并在此基础上涌现出新的亮点：养老/看护行业以43。9%的职位数同比增速登顶全行",
+      "source": "智联招聘",
       "category": "就业",
-      "published": "2026-09-30T04:23:00.000Z",
-      "image": "//q7.itc.cn/images01/20260930/a6ea526b989e4d6f87e9c9839b51f302.jpeg",
+      "published": "2026-10-11T17:00:00.000Z",
+      "image": "https://n.sinaimg.cn/finance/cece9e13/20240627/655959900_20240627.png",
       "score": 60,
       "tags": []
     },
@@ -161,14 +161,14 @@
       "tags": []
     },
     {
-      "id": "7e8838e701e9",
-      "title": "告别“随缘求职”：系统化、数字化重塑应届生求职路径",
-      "url": "http://city.ce.cn/xxfw/202610/t20261010_3253261.shtml",
-      "summary": "金秋十月，新一轮校园招聘大幕全面拉开。各地抢抓“金九银十”窗口期组团入校揽才，各类双选会接续举办，本届校招呈现时间前置、区域联动的新特征",
-      "source": "Bing·应届生求职",
+      "id": "71c8dba367f2",
+      "title": "银行秋招AI面试5—20分钟 面试者：缺乏互动 像对着空气作答",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-09/doc-iniurmnf2919071.shtml",
+      "summary": "快科技10月9日消息，从今年9月开始，2027届各大银行秋季校园招聘已全面拉开。根据媒体统计，国有四大行本次秋招总招聘人数约6",
+      "source": "Bing·秋招",
       "category": "就业",
-      "published": "2026-10-10T08:21:00.000Z",
-      "image": "http://city.ce.cn/tlad/202411/W020250317593091179057.jpg",
+      "published": "2026-10-09T11:02:00.000Z",
+      "image": "//n.sinaimg.cn/spider20261009/199/w600h399/20261009/79e5-0f1dd809393e02b7851edea51ec74dd5.jpg",
       "score": 55,
       "tags": []
     }
@@ -187,55 +187,79 @@
       "tags": []
     },
     {
-      "id": "9f5316a81b7f",
-      "title": "多地雅思考试突发取消 退费重考如何安排？最新解答→",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-11/10710909.shtml",
-      "summary": "对于不少打算出国留学、海外就业的朋友来说，雅思考试作为一项衡量英语语言水平的考试，就像一张“语言通行证”。而昨天(10日)，由英国文化教育协会主办的雅思考试场次却在全国大范围取消：部分考生还在候考，就",
+      "id": "c7ab261354d6",
+      "title": "教育部：我国已在32个国家共建了38家鲁班工坊",
+      "url": "https://www.chinanews.com.cn/edu/2026/10-12/10712033.shtml",
+      "summary": "记者从教育部今天召开的新闻发布会获悉，近年来，中国职业教育实现了从人员交往、项目合作向标准引领新跨越，成为教育国际合作的生力军",
       "source": "中新网教育",
       "category": "社会",
-      "published": "2026-10-11T02:20:26.000Z",
+      "published": "2026-10-12T07:00:38.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "be9920805617",
+      "title": "规模再创新高 2026世界职业院校技能大赛3.6万名选手参加",
+      "url": "https://www.chinanews.com.cn/edu/2026/10-12/10712010.shtml",
+      "summary": "记者从教育部今天召开的新闻发布会获悉，2026年世界职业技术教育发展大会将于10月15—17日在天津举行，大会主题为“世界职业教育：共迎变革，共铸标准，共创未来”。本次大会由5个主要环节和3场同期活动",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-10-12T06:48:41.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "d1b01b29ebea",
+      "title": "海洋经济持续提速，270多家企业，集体招人！这类人才急缺→",
+      "url": "https://www.chinanews.com.cn/edu/2026/10-12/10711951.shtml",
+      "summary": "270多家企业，集体招人。这类人才，急缺→",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-10-12T05:17:26.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 50,
       "tags": []
     },
     {
-      "id": "5a68407ca26f",
-      "title": "300个名额超8000人报名 职业教育迎来哪些新变化？",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-11/10710874.shtml",
-      "summary": "新闻周刊丨300个名额超8000人报名 职业教育迎来哪些新变化",
+      "id": "6a515ec486b8",
+      "title": "小学生布置多少作业最好？广东这份作业“体检”报告出炉",
+      "url": "https://www.chinanews.com.cn/edu/2026/10-12/10711941.shtml",
+      "summary": "广东5万小学生作业“体检”报告出炉：",
       "source": "中新网教育",
       "category": "社会",
-      "published": "2026-10-11T00:35:12.000Z",
+      "published": "2026-10-12T05:03:26.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 50,
-      "tags": []
-    },
-    {
-      "id": "4a04e9379d29",
-      "title": "太原市正式实施中小学春秋假制度",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-10/10710150.shtml",
-      "summary": "中新网10月10日电 据“太原教育”微信公众号消息，为落实国家及省相关部署，结合太原市教育实际，经教育、发改、科技、人社、交通、商务、文旅、市场监管、体育、工会、团委、妇联、科协等十三部门共同研究，协",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-10-10T05:43:21.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 40,
-      "tags": []
-    },
-    {
-      "id": "f18087d9f595",
-      "title": "近日，多地陆续官宣中小学春秋假安排→",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-10/10709987.shtml",
-      "summary": "中小学春秋假，多地官宣",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-10-09T23:46:25.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 40,
       "tags": []
     }
   ],
   "政策": [
+    {
+      "id": "4f5155b21d3e",
+      "title": "人社部：积极应对人工智能等新技术发展对就业的影响，实施适应 ...",
+      "url": "https://news.qq.com/rain/a/20261010A05UV900",
+      "summary": "10月10日上午，国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，介绍“十五五”时期推进就业和社会保障高质量发展有关情况。图/国新办 人力资源社会保障部新闻发言人、副部长李忠表示，国家发",
+      "source": "Bing·人社部就业创业政策",
+      "category": "政策",
+      "published": "2026-10-10T05:54:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/OTDZsjIG6XTIKN64hbO7sohSFYwYdtmFdTaAK3-Dx704sAA_640330/0",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "0e9730f5f073",
+      "title": "珠海推出大学生OPC专项培育计划，首届AI创业大赛同步开赛",
+      "url": "https://finance.sina.com.cn/roll/2026-10-09/doc-iniurmnf6847150.shtml",
+      "summary": "一个人、一台电脑，再加上AI工具，能不能成为一家公司的“起点”。 近日，2026珠海高校大学生OPC科创者赋能计划暨珠海人工智能OPC创业大赛启动仪式在中山大学珠海校区举行",
+      "source": "Bing·大学生创业扶持政策",
+      "category": "政策",
+      "published": "2026-10-09T02:04:00.000Z",
+      "image": "//n.sinaimg.cn/spider20261009/200/w1080h720/20261009/dda1-67fcd1bf052c58e8b191dac774a9641f.jpg",
+      "score": 60,
+      "tags": []
+    },
     {
       "id": "698908ee4f2f",
       "title": "就业大局已定？不出意外的话，人社部有望兜底未就业大学生求职",
@@ -249,102 +273,114 @@
       "tags": []
     },
     {
+      "id": "22d3d8b0b4a2",
+      "title": "沈泽玮：AI冲击就业，中国大学生“反向深造”？",
+      "url": "https://www.zaobao.com.sg/news/china/story20261008-9799437",
+      "summary": "学历与工作岗位错位，正催生大学生“回炉”技校的现象。据中国媒体报道，不少本科毕业生选择进入技工院校或大学生技师班，重新学习数控加工、工业机器人、新能源汽车维修等技能",
+      "source": "Bing·大学生就业政策",
+      "category": "政策",
+      "published": "2026-10-07T22:00:00.000Z",
+      "image": "https://cassette.sphdigital.com.sg/image/zaobao/7d2d77ef826b451996b1d5b612519948ce04db8775f64a8222a3b6b0c58e6efa",
+      "score": 55,
+      "tags": []
+    },
+    {
       "id": "c95cdd2ebc88",
       "title": "专家释疑：大学毕业生如何享受创业减税优惠政策？",
       "url": "https://www.sohu.com/a/1086527541_362042",
       "summary": "今年选择自主创业的高校毕业生不少需要进行纳税申报，税务部门发现大学毕业生创业的税收优惠政策咨询量明显上升。 为了支持大学生创业就业，国家出台了一项税收优惠政策",
-      "source": "就业创业政策",
+      "source": "Bing·高校毕业生就业创业政策",
       "category": "政策",
       "published": "2026-10-12T01:44:00.000Z",
       "image": "",
       "score": 55,
       "tags": []
-    },
-    {
-      "id": "305387d163cc",
-      "title": "最高可贷50万元，湖南优化政策为大学生创业送上金融“活水”",
-      "url": "https://news.qq.com/rain/a/20260918A057B200",
-      "summary": "近日，湖南省出台《关于进一步优化创业担保贷款政策全力支持大学生等重点群体创业的通知》，扩大创业担保贷款覆盖范围、提高贷款额度、降低融资成本，拿出实打实举措，助力青年创新创业。按照新政策，创业担保贷款借",
-      "source": "就业创业政策",
-      "category": "政策",
-      "published": "2026-09-18T04:59:00.000Z",
-      "image": "",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "9131804486d9",
-      "title": "破茧成凤・向光而行｜“雏凤课堂”走进聊城 赋能女大学生就业创业",
-      "url": "https://www.sohu.com/a/1086037529_100137374",
-      "summary": "2026年10月9日，山东省“雏凤课堂”走进聊城活动在聊城职业技术学院举办。聊城市妇联二级调研员夏方、聊城职业技术学院党委副书记刘雪巍出席活动，近150名在校女大学生代表参加活动",
-      "source": "Bing·大学生就业政策",
-      "category": "政策",
-      "published": "2026-10-10T10:44:00.000Z",
-      "image": "//q6.itc.cn/q_70/images01/20261010/959bc9905d284e8f85380937ffa8f817.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "f5cb39eaf8f6",
-      "title": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
-      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202606/t20260602_1438600.html",
-      "summary": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
-      "source": "教育部",
-      "category": "政策",
-      "published": "2026-06-02T00:00:00.000Z",
-      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
-      "score": 50,
-      "tags": []
     }
   ],
   "财经": [
     {
-      "id": "c05d1c8cae72",
-      "title": "AI短剧出海升温 中国业界人士建言差异化发展",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714149.shtml",
+      "id": "cecc2190cd44",
+      "title": "深秋抢“鲜”：中国果蔬从满洲里直抵海外民众餐桌",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714410.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-14T01:30:55.000Z",
+      "published": "2026-10-14T07:02:41.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "a42d6a6f37e4",
-      "title": "10月14日人民币对美元中间价报6.7249 上调49个基点",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714150.shtml",
+      "id": "723a87bb4d52",
+      "title": "广西玉浦高速公路全线首座隧道贯通",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714407.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-14T01:30:15.000Z",
+      "published": "2026-10-14T06:52:17.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "71ddd9f6c773",
-      "title": "需求有所恢复 9月份中国仓储指数回升",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714146.shtml",
+      "id": "3ac352441cde",
+      "title": "海关总署：中国为应对全球算力和电力需求增长提供支撑",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714379.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-14T01:21:01.000Z",
+      "published": "2026-10-14T06:44:32.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "47fd5246fcdd",
-      "title": "红星照耀中国｜长征大剧院为老区经济发展注入新动力",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714142.shtml",
+      "id": "8524799ea7fc",
+      "title": "9月中国仓储行业运行向好 景气水平回升",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714351.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-14T01:17:04.000Z",
+      "published": "2026-10-14T06:26:21.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "49a365074148",
-      "title": "红星照耀中国｜长征出发地，一根纱线串起千亿产业",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714133.shtml",
+      "id": "6e03386562ec",
+      "title": "合肥生物医药产业向新而生",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714370.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-14T01:14:12.000Z",
+      "published": "2026-10-14T06:17:35.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ],
   "开发": [
+    {
+      "id": "4fd84865b79f",
+      "title": "从大模型到 Agent 落地，这场大会讲透 AI 全链路",
+      "url": "https://www.infoq.cn/article/PuGS7Qxy4AFOal4wVR22?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-10-14T14:52:06.000Z",
+      "image": "https://static001.infoq.cn/resource/image/e5/d2/e502d0e0f2127f8d6yy27b511fcb0bd2.jpg"
+    },
+    {
+      "id": "4833f9f7a2b8",
+      "title": "Claude写代码太快，Git扛不住了：Anthropic仅靠7人，5个月重造版本控制系统",
+      "url": "https://www.infoq.cn/article/6iRATYfkqF7aITPaFR2R?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-10-14T11:46:46.000Z",
+      "image": "https://static001.infoq.cn/resource/image/04/6d/047581ec1cd50e8b06f6yy15c9a8fd6d.png"
+    },
+    {
+      "id": "6bf7846b160e",
+      "title": "一块 GPU 空转 11 天？Adobe 用 Prometheus 找出问题所在",
+      "url": "https://www.infoq.cn/article/AO4MbiBaYqwwCubevkpD?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-10-14T11:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/d0/61/d070001b78c00090ccd54b81e3960161.jpg"
+    },
+    {
+      "id": "666f493918a7",
+      "title": "无问芯穹联合创始人戴国浩博士确认出席QCon上海，分享Agentic Infra 技术探索与实践",
+      "url": "https://www.infoq.cn/article/EVQ0s2JRvxZyo9f9gSg6?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-10-14T10:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/18/5a/189d438a09918dbacdd07f5b8661fa5a.jpg"
+    },
     {
       "id": "591139a4d1ed",
       "title": "Cloudflare 推出 Worker Previews：看似隔离，仍会连接生产",
@@ -353,42 +389,6 @@
       "category": "开发",
       "published": "2026-10-14T09:21:00.000Z",
       "image": "https://static001.infoq.cn/resource/image/dd/5c/dd3d4b26aeeayyb9018d97e57f0f6c5c.jpg"
-    },
-    {
-      "id": "c74fa1bf7737",
-      "title": "手机解锁先见 AI，不再先找 App：阶跃星辰首款智能体手机来了，定价 3999",
-      "url": "https://www.infoq.cn/article/p2TobACROBC8UBPlRKXx?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-10-13T22:26:45.000Z",
-      "image": "https://static001.infoq.cn/resource/image/b7/0e/b70f7e1173009f105933ab35a2d7310e.jpg"
-    },
-    {
-      "id": "4be673bed60f",
-      "title": "30 名工程师、一个宏大愿景，却没有真实需求：谷歌高管反思产品开发狂热",
-      "url": "https://www.infoq.cn/article/uYQMXN91a1BDTT802G6p?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-10-13T21:34:44.000Z",
-      "image": "https://static001.infoq.cn/resource/image/20/82/2003f08ecd54f897308fa42b4a612382.png"
-    },
-    {
-      "id": "5a88814b3202",
-      "title": "Meta 新模型杀回AI第一梯队，Alexandr Wang 亲述 Muse 7个月翻身内幕",
-      "url": "https://www.infoq.cn/article/2QXm6PqYYX57AOxTYyO0?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-10-13T18:32:43.000Z",
-      "image": "https://static001.infoq.cn/resource/image/4a/e7/4a5c8f7550c948d4261f7d960daf93e7.png"
-    },
-    {
-      "id": "d4fb48e2604a",
-      "title": "刚亮相就传被英伟达收购：Gemini老兵团队凭什么还敢押注Coding Agent？",
-      "url": "https://www.infoq.cn/article/LQjytCZpPdgOE5PrWU59?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-10-13T17:57:05.000Z",
-      "image": "https://static001.infoq.cn/resource/image/f6/59/f662c3aa26d8fbyy1b337b00f97e6259.png"
     }
   ]
 }
