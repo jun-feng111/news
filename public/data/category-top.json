@@ -1,67 +1,17 @@
 {
-  "科技": [
-    {
-      "id": "74a5b05214cc",
-      "title": "Figma announces new features to define how agents work on its platform",
-      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-      "summary": "Figma announces new features to define how agents work on its platform",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-10-15T04:30:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Specs_agent.jpeg?resize=1200,675",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "55c2bfcceb55",
-      "title": "Flock CEO defends surveillance technology amid national backlash: &#8216;We shouldn&#8217;t pause progress&#8217;",
-      "url": "https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/",
-      "summary": "Flock CEO defends surveillance technology amid national backlash: &#8216;We shouldn&#8217;t pause pr",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-10-15T00:49:31.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300215073.jpg?w=1024",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "51bb7d05c9f7",
-      "title": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
-      "url": "https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/",
-      "summary": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-10-15T00:30:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2015/08/9726191699_6ba4b89744_o.jpg?resize=1200,798",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "66c757258c08",
-      "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
-      "url": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
-      "summary": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-10-14T23:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/2DOrganoidSlice_greynuclei_pinksmoothmuslce_blueepithelium_INTEROBIO.jpg?w=864",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "b212bc9f8ea1",
-      "title": "Flock CEO says its microphones detect &#8216;just gunshots&#8217; — its website says different",
-      "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
-      "summary": "Flock CEO says its microphones detect &#8216;just gunshots&#8217; — its website says different",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-10-14T21:30:33.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55589672916_8efa76c0ac_o.jpg?resize=1200,800",
-      "score": 60,
-      "tags": []
-    }
-  ],
   "AI": [
+    {
+      "id": "2d7de8707312",
+      "title": "Amazon&#8217;s Bee launches two new personal AI devices, starting at $75",
+      "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+      "summary": "Amazon&#8217;s Bee launches two new personal AI devices, starting at $75",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-15T12:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-638007236.jpg?resize=1200,798",
+      "score": 85,
+      "tags": []
+    },
     {
       "id": "7624c31011dc",
       "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
@@ -99,18 +49,6 @@
       "tags": []
     },
     {
-      "id": "171416c3b92b",
-      "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
-      "url": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
-      "summary": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-14T21:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Colossal-Labs-2.png?resize=1200,691",
-      "score": 65,
-      "tags": []
-    },
-    {
       "id": "9761d628e721",
       "title": "Ambani&#8217;s Jio seeks to raise $3.2B in what could be India&#8217;s biggest IPO",
       "url": "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/",
@@ -123,7 +61,81 @@
       "tags": []
     }
   ],
+  "科技": [
+    {
+      "id": "74a5b05214cc",
+      "title": "Figma announces new features to define how agents work on its platform",
+      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+      "summary": "Figma announces new features to define how agents work on its platform",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-10-15T04:30:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Specs_agent.jpeg?resize=1200,675",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "260037e44240",
+      "title": "Citizen Lab says governments are abusing online ads to hack people with &#8216;zero-click&#8217; spyware",
+      "url": "https://techcrunch.com/2026/10/15/citizen-lab-says-governments-are-abusing-online-ads-to-hack-people-with-zero-click-spyware/",
+      "summary": "Citizen Lab says governments are abusing online ads to hack people with &#8216;zero-click&#8217; spy",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-10-15T10:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1404252962.jpg?resize=1200,800",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "55c2bfcceb55",
+      "title": "Flock CEO defends surveillance technology amid national backlash: &#8216;We shouldn&#8217;t pause progress&#8217;",
+      "url": "https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/",
+      "summary": "Flock CEO defends surveillance technology amid national backlash: &#8216;We shouldn&#8217;t pause pr",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-10-15T00:49:31.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300215073.jpg?w=1024",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "51bb7d05c9f7",
+      "title": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
+      "url": "https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/",
+      "summary": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-10-15T00:30:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2015/08/9726191699_6ba4b89744_o.jpg?resize=1200,798",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "66c757258c08",
+      "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
+      "url": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
+      "summary": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-10-14T23:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/2DOrganoidSlice_greynuclei_pinksmoothmuslce_blueepithelium_INTEROBIO.jpg?w=864",
+      "score": 60,
+      "tags": []
+    }
+  ],
   "就业": [
+    {
+      "id": "a0e2e729f5cb",
+      "title": "三季度养老招聘增43.9%领跑，AI工程师校招月薪近1.8万元",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-13/doc-inivafqm8146509.shtml",
+      "summary": "养老服务成为三季度招聘市场增速最快的行业，人工智能、芯片、数据等技术岗位则在秋招中加快吸纳年轻人才。智联招聘发布的《2026年三季度人才市场热点快报》显示，养老/看护行业招聘职位数同比增长43",
+      "source": "Bing·智联招聘",
+      "category": "就业",
+      "published": "2026-10-13T00:08:00.000Z",
+      "image": "//n.sinaimg.cn/front20261013ac/254/w690h364/20261013/3c43-78cae00e4dcfb2c4208cb3c76f7a03cf.jpg",
+      "score": 65,
+      "tags": []
+    },
     {
       "id": "c76b56413d4a",
       "title": "AI人才缺口超500万！有最新报告称，AI抢人逻辑悄悄变了：架构师新发 ...",
@@ -149,26 +161,14 @@
       "tags": []
     },
     {
-      "id": "119dc570080c",
-      "title": "最新报告：养老服务招聘增速领跑，2027届秋招新质岗位受热捧",
-      "url": "https://www.msn.cn/zh-cn/money/经济/最新报告-养老服务招聘增速领跑-2027届秋招新质岗位受热捧/ar-AA2e3I8w",
-      "summary": "10月12日，记者获悉智联招聘发布2026年三季度人才市场热点快报。报告显示，三季度国内招聘市场由新质生产力相关产业持续拉动，养老看护行业职位数同比大涨43",
-      "source": "Bing·秋招",
-      "category": "就业",
-      "published": "2026-10-12T05:16:00.000Z",
-      "image": "",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "bb3f30027df1",
-      "title": "智联招聘：三季度应届生招聘供需前五为软件/IT服务、互联网、集成 ...",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuxwik0520399.shtml",
-      "summary": "10月12日，智联招聘发布《2026年三季度人才市场热点快报》，报告显示，三季度招聘市场延续以新质生产力为引领的驱动格局，并在此基础上涌现出新的亮点：养老/看护行业以43。9%的职位数同比增速登顶全行",
+      "id": "9720242fe1be",
+      "title": "报告：养老看护岗位领跑三季度招聘市场，新质赛道秋招供需活跃",
+      "url": "https://news.qq.com/rain/a/20261013A07QCA00",
+      "summary": "10月13日，智联招聘发布2026年三季度人才市场热点快报，报告称，2026年三季度，招聘市场延续以新质生产力为引领的驱动格局，并在此基础上涌现出新的亮点：养老/看护行业以43。9%的职位数同比增速登",
       "source": "Bing·智联招聘",
       "category": "就业",
-      "published": "2026-10-11T17:00:00.000Z",
-      "image": "https://n.sinaimg.cn/finance/cece9e13/20240627/655959900_20240627.png",
+      "published": "2026-10-13T07:30:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/OjP3daMHQCMFpN3Ln4Dod2Ip9p5C2J9Hvq1pPJfyHEQSUAA_640330/0",
       "score": 60,
       "tags": []
     },
@@ -182,68 +182,6 @@
       "published": "2026-10-13T03:44:10.000Z",
       "image": "https://cdn.v2ex.com/gravatar/e701901bb6cfe4991c063f9fc2b8705b?s=73&d=retro",
       "score": 60,
-      "tags": []
-    }
-  ],
-  "政策": [
-    {
-      "id": "4f5155b21d3e",
-      "title": "人社部：积极应对人工智能等新技术发展对就业的影响，实施适应 ...",
-      "url": "https://news.qq.com/rain/a/20261010A05UV900",
-      "summary": "10月10日上午，国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，介绍“十五五”时期推进就业和社会保障高质量发展有关情况。图/国新办 人力资源社会保障部新闻发言人、副部长李忠表示，国家发",
-      "source": "Bing·人社部就业创业政策",
-      "category": "政策",
-      "published": "2026-10-10T05:54:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/OTDZsjIG6XTIKN64hbO7sohSFYwYdtmFdTaAK3-Dx704sAA_640330/0",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "9abef167f0fe",
-      "title": "就业大局已定？不出意外的话，人社部帮扶未就业学生就业有新动作",
-      "url": "https://www.sohu.com/a/1086390511_122655089",
-      "summary": "10 月 10 日国新办 “十五五” 就业社保发布会刚结束，“人社部要给未就业大学生兜底” 的消息就在各大应届生求职群里刷屏。2026 届高校毕业生规模冲到 1270 万，再创新高，秋招季里不少人投了",
-      "source": "Bing·大学生就业政策",
-      "category": "政策",
-      "published": "2026-10-11T10:54:00.000Z",
-      "image": "https://q7.itc.cn/q_70/images03/20261011/da3828b9be66424e8c2e3df92ae4dcb1.jpeg",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "d9be3874471b",
-      "title": "专家释疑：大学毕业生如何享受创业减税优惠政策？",
-      "url": "https://view.inews.qq.com/a/20261009A046MA00",
-      "summary": "今年选择自主创业的高校毕业生不少需要进行纳税申报，税务部门发现大学毕业生创业的税收优惠政策咨询量明显上升。为了支持大学生创业就业，国家出台了一项税收优惠政策",
-      "source": "Bing·高校毕业生就业创业政策",
-      "category": "政策",
-      "published": "2026-10-09T03:23:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/O6dqtz1jww4PHmujCcMcat7Y2Pp69lmhjdvMSC0ZWP-mIAA_640330/0",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "cb0680fe3cb1",
-      "title": "开局起步“十五五” | 人社部：从“有活没人干”入手解决“有人没 ...",
-      "url": "https://finance.sina.com.cn/wm/2026-10-10/doc-iniutqmm7445367.shtml",
-      "summary": "本号讯（记者&#160;冯南）国新办10月10日上午举行“开局起步‘十五五’”系列主题新闻发布会。人力资源社会保障部新闻发言人、副部长李忠表示，实施就业优先战略“十五五”规划，为做好“十五五”时期就业",
-      "source": "Bing·人社部就业创业政策",
-      "category": "政策",
-      "published": "2026-10-10T01:38:00.000Z",
-      "image": "//n.sinaimg.cn/front20261010ac/400/w600h600/20261010/ed5c-0c49d08ec5467feb0eabfcf9266defdb.jpg",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "b629f6f51c34",
-      "title": "小成本创业、大生态护航，青岛全周期服务托举青年创业梦",
-      "url": "https://news.qq.com/rain/a/20261012A0713J00",
-      "summary": "当“一人公司”成为AI时代青年创业的新形态，城市之间的竞争不再只是拼政策的力度，而是拼陪跑的精度。“抢人大战”进入下半场，城市靠什么留住年轻人",
-      "source": "Bing·大学生创业扶持政策",
-      "category": "政策",
-      "published": "2026-10-12T07:39:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/OKFVle9Do6ajjLR1KyoXUtOdjbRH-jJVhC5AX9JUY1Q5gAA_640330/0",
-      "score": 55,
       "tags": []
     }
   ],
@@ -309,98 +247,160 @@
       "tags": []
     }
   ],
+  "政策": [
+    {
+      "id": "9abef167f0fe",
+      "title": "就业大局已定？不出意外的话，人社部帮扶未就业学生就业有新动作",
+      "url": "https://www.sohu.com/a/1086390511_122655089",
+      "summary": "10 月 10 日国新办 “十五五” 就业社保发布会刚结束，“人社部要给未就业大学生兜底” 的消息就在各大应届生求职群里刷屏。2026 届高校毕业生规模冲到 1270 万，再创新高，秋招季里不少人投了",
+      "source": "Bing·大学生就业政策",
+      "category": "政策",
+      "published": "2026-10-11T10:54:00.000Z",
+      "image": "https://q7.itc.cn/q_70/images03/20261011/da3828b9be66424e8c2e3df92ae4dcb1.jpeg",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "698908ee4f2f",
+      "title": "就业大局已定？不出意外的话，人社部有望兜底未就业大学生求职",
+      "url": "https://www.sohu.com/a/1086332686_122158578",
+      "summary": "今年没找到工作的大学生，千万别盲目焦虑、裸躺摆烂。 国家的就业兜底网，已经悄悄全面铺开了",
+      "source": "Bing·大学生就业政策",
+      "category": "政策",
+      "published": "2026-10-11T07:29:00.000Z",
+      "image": "//q9.itc.cn/images01/20261011/05660a9a98e0494e803c531a79be594d.jpeg",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "d9be3874471b",
+      "title": "专家释疑：大学毕业生如何享受创业减税优惠政策？",
+      "url": "https://view.inews.qq.com/a/20261009A046MA00",
+      "summary": "今年选择自主创业的高校毕业生不少需要进行纳税申报，税务部门发现大学毕业生创业的税收优惠政策咨询量明显上升。为了支持大学生创业就业，国家出台了一项税收优惠政策",
+      "source": "Bing·高校毕业生就业创业政策",
+      "category": "政策",
+      "published": "2026-10-09T03:23:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/O6dqtz1jww4PHmujCcMcat7Y2Pp69lmhjdvMSC0ZWP-mIAA_640330/0",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "cb0680fe3cb1",
+      "title": "开局起步“十五五” | 人社部：从“有活没人干”入手解决“有人没 ...",
+      "url": "https://finance.sina.com.cn/wm/2026-10-10/doc-iniutqmm7445367.shtml",
+      "summary": "本号讯（记者&#160;冯南）国新办10月10日上午举行“开局起步‘十五五’”系列主题新闻发布会。人力资源社会保障部新闻发言人、副部长李忠表示，实施就业优先战略“十五五”规划，为做好“十五五”时期就业",
+      "source": "Bing·人社部就业创业政策",
+      "category": "政策",
+      "published": "2026-10-10T01:38:00.000Z",
+      "image": "//n.sinaimg.cn/front20261010ac/400/w600h600/20261010/ed5c-0c49d08ec5467feb0eabfcf9266defdb.jpg",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "b629f6f51c34",
+      "title": "小成本创业、大生态护航，青岛全周期服务托举青年创业梦",
+      "url": "https://news.qq.com/rain/a/20261012A0713J00",
+      "summary": "当“一人公司”成为AI时代青年创业的新形态，城市之间的竞争不再只是拼政策的力度，而是拼陪跑的精度。“抢人大战”进入下半场，城市靠什么留住年轻人",
+      "source": "Bing·大学生创业扶持政策",
+      "category": "政策",
+      "published": "2026-10-12T07:39:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/OKFVle9Do6ajjLR1KyoXUtOdjbRH-jJVhC5AX9JUY1Q5gAA_640330/0",
+      "score": 55,
+      "tags": []
+    }
+  ],
   "财经": [
     {
-      "id": "c34d23bd4523",
-      "title": "川渝三地成立养老服务产业联盟共享养老资源",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715007.shtml",
+      "id": "b005d5eee728",
+      "title": "2026动物福利与可持续农食大会在北京开幕 助力中非农业合作",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715281.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-15T06:51:35.000Z",
+      "published": "2026-10-15T12:43:33.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "8c59bd402189",
-      "title": "建设银行推出“善建善服”服务方案，助力服务业扩能提质",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715009.shtml",
+      "id": "7eb553a447ea",
+      "title": "江淮运河航运枢纽能力实现重大升级",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715271.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-15T06:50:59.000Z",
+      "published": "2026-10-15T12:39:54.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "bc1ea0b2169c",
-      "title": "市场监管总局曝光一批“内卷式”竞争严重违法失信名单",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714999.shtml",
+      "id": "786d797caf82",
+      "title": "“并购六条”实施两周年：沪市主板重组不断“进化”",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715269.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-15T06:31:58.000Z",
+      "published": "2026-10-15T12:39:50.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "b03e9053f81c",
-      "title": "2026世界储能大会在福建宁德举办",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714977.shtml",
+      "id": "3de002ed6b75",
+      "title": "海南澄迈跨境电商成型起势",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715266.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-15T06:19:02.000Z",
+      "published": "2026-10-15T12:39:42.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "cf02fe13b858",
-      "title": "浙江舟山“十五五”冀建强大宗商品资源配置枢纽",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714979.shtml",
+      "id": "74541e1e7dc0",
+      "title": "秋糖会三度落子南京：面对年轻市场 酒企集体“微醺就好”",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715262.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-15T06:18:06.000Z",
+      "published": "2026-10-15T12:31:02.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ],
   "开发": [
     {
-      "id": "7850abe091b7",
-      "title": "代码不再稀缺之后，软件工程还剩下什么？",
-      "url": "https://www.infoq.cn/article/DTZRRtodmCvpfYwbpWbF?utm_source=rss&amp;utm_medium=article",
+      "id": "b92ba3330541",
+      "title": "阶跃星辰开放 Step 5 Preview 权重：长程 Agent 的竞争，延伸到上下文管理与训练系统",
+      "url": "https://www.infoq.cn/article/EwqsJX6f03ODRac6Kk4c?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-10-15T14:30:04.000Z",
-      "image": "https://static001.infoq.cn/resource/image/85/3a/85564d253abfc76e927ce7bccf7be83a.jpg"
+      "published": "2026-10-15T20:09:59.000Z",
+      "image": "https://static001.infoq.cn/resource/image/5f/55/5f6c7069786e603e264c0d3f093d2d55.jpg"
     },
     {
-      "id": "db778b53870b",
-      "title": "亚马逊云科技推出 CloudWatch Omni：不仅监控系统，还要评估 AI 是否靠谱",
-      "url": "https://www.infoq.cn/article/5GOXqmJaGKbukSIWU4Uf?utm_source=rss&amp;utm_medium=article",
+      "id": "de3ff83b70b0",
+      "title": "蚂蚁百灵开源 560B 模型 Ling-3.0-flash：0.19 美元搞定复杂工作流",
+      "url": "https://www.infoq.cn/article/SxQO3Aw6JCTgNMTGPPE8?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-10-15T13:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/ed/fe/ed491ee4916b1d882135d84b613743fe.jpg"
+      "published": "2026-10-15T19:33:53.000Z",
+      "image": "https://static001.infoq.cn/resource/image/bd/1f/bd2b4b1668393b4b5d9bf91cf845761f.jpg"
     },
     {
-      "id": "85f4b33a0028",
-      "title": "数据驱动的具身智能：迈向规模化之路｜QCon 上海",
-      "url": "https://www.infoq.cn/article/a8LKxyL9AC4PWhB2r0XX?utm_source=rss&amp;utm_medium=article",
+      "id": "df0c57f6577b",
+      "title": "国产 GPU 越来越多，为什么反而更难用？",
+      "url": "https://www.infoq.cn/article/pkyTD9OWfpU7QvIbLX2j?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-10-15T12:01:47.000Z",
-      "image": "https://static001.infoq.cn/resource/image/66/92/66278f23b16142282aba69c455905c92.jpg"
+      "published": "2026-10-15T19:25:28.000Z",
+      "image": "https://static001.infoq.cn/resource/image/4a/5f/4ae72cfe0df1c3b8808cf0061dd5f45f.jpg"
     },
     {
-      "id": "7c31daa37cf0",
-      "title": "算力效率的边界：以体系结构量化与分布式工程破局 AI Infra",
-      "url": "https://www.infoq.cn/article/JbzA5yvzl2BkuTpkfdrU?utm_source=rss&amp;utm_medium=article",
+      "id": "d831f434e511",
+      "title": "黄仁勋谈中国 AI 公司：算力很缺，但他们就是在拼命把事情做成",
+      "url": "https://www.infoq.cn/article/HC8SAgaZmHc6sfwp9gc9?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-10-15T11:44:05.000Z",
-      "image": "https://static001.infoq.cn/resource/image/6a/42/6afd8635fa27115ec090467f408ea642.jpg"
+      "published": "2026-10-15T19:19:06.000Z",
+      "image": "https://static001.infoq.cn/resource/image/b8/b1/b8a5673378e42ce753c2e2ddeb1092b1.png"
     },
     {
-      "id": "2c2ec44bfebc",
-      "title": "从 Harness 到 Loop：Agent 如何走向可靠交付与持续进化？",
-      "url": "https://www.infoq.cn/article/xKkEswgSftEcGrkK6oTY?utm_source=rss&amp;utm_medium=article",
+      "id": "b9ce75975663",
+      "title": "AI 侦察团集结 QCon 上海：企业一号位，如何把 AI 从试点带进业务？",
+      "url": "https://www.infoq.cn/article/GSZMrydgKuejLcCpEGYb?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-10-15T11:05:26.000Z",
-      "image": "https://static001.infoq.cn/resource/image/77/c8/77e5042919cff36b00eae75fd088a9c8.jpg"
+      "published": "2026-10-15T19:15:39.000Z",
+      "image": "https://static001.infoq.cn/resource/image/72/02/721d6bd5256f3da61a6e6576af7f5102.jpg"
     }
   ]
 }

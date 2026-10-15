@@ -1,14 +1,74 @@
 {
-  "updated": "2026-10-15T07:03:04.063Z",
-  "count": 122,
+  "updated": "2026-10-15T13:07:51.437Z",
+  "count": 121,
   "sources": {
     "V2EX": 8,
     "RemoteOK": 99,
-    "Remotive": 15,
+    "Remotive": 14,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1249128",
+      "title": "今天试用期被劝退，自己提了离职",
+      "company": "xujdan",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [],
+      "category": "其他",
+      "postedDate": "2026-10-15",
+      "url": "https://www.v2ex.com/t/1249128",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1249103",
+      "title": "招聘 C++系统软件开发工程师",
+      "company": "zhuzhzh",
+      "location": "上海/北京/成都/西安",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "c++",
+        "linux"
+      ],
+      "category": "人力/HR",
+      "postedDate": "2026-10-15",
+      "url": "https://www.v2ex.com/t/1249103",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1249095",
+      "title": "招聘｜ AI / Agent、Go / Java 、前端与安全等 46 个技术岗位",
+      "company": "loser7758",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "java",
+        "go",
+        "golang",
+        "flutter",
+        "php"
+      ],
+      "category": "前端",
+      "postedDate": "2026-10-15",
+      "url": "https://www.v2ex.com/t/1249095",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1249034",
       "title": "招聘｜资深前端开发工程师 Front-End Developer（上海）18-22k",
@@ -110,69 +170,6 @@
       "category": "算法/AI",
       "postedDate": "2026-10-14",
       "url": "https://www.v2ex.com/t/1248790",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1248715",
-      "title": "内推 Java 开发工程师(高级) Base 成都 18-25K",
-      "company": "damai0419",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "java",
-        "spring",
-        "docker",
-        "k8s",
-        "mysql"
-      ],
-      "category": "其他",
-      "postedDate": "2026-10-14",
-      "url": "https://www.v2ex.com/t/1248715",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1248707",
-      "title": "Looking for good Execution Systems Dev",
-      "company": "zp851924",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "python",
-        "go",
-        "rust"
-      ],
-      "category": "其他",
-      "postedDate": "2026-10-14",
-      "url": "https://www.v2ex.com/t/1248707",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1248649",
-      "title": "Base 重庆-大型新能源车企-座舱中间件招聘",
-      "company": "FranzKafka95",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "linux"
-      ],
-      "category": "人力/HR",
-      "postedDate": "2026-10-14",
-      "url": "https://www.v2ex.com/t/1248649",
       "source": "V2EX",
       "region": "domestic"
     },
@@ -1700,36 +1697,6 @@
       "postedDate": "2026-09-15",
       "url": "https://remoteOK.com/remote-jobs/remote-sr-solutions-architect-extrahop-1137394",
       "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remotive-2069746",
-      "title": "Tech Lead Full-Stack Rails Engineer",
-      "company": "Mitre Media",
-      "location": "USA, Canada, USA timezones",
-      "remote": true,
-      "salaryText": "$170k - $200k",
-      "salaryMin": 170000,
-      "salaryMax": 200000,
-      "salaryCurrency": "USD",
-      "skills": [
-        "api",
-        "CSS",
-        "docker",
-        "elasticsearch",
-        "fullstack",
-        "html",
-        "javascript",
-        "kubernetes",
-        "postgresql",
-        "react",
-        "ror",
-        "ruby/rails"
-      ],
-      "category": "Software Development",
-      "postedDate": "2026-09-14",
-      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
-      "source": "Remotive",
       "region": "foreign"
     },
     {
