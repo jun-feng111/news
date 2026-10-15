@@ -1,31 +1,14 @@
 {
-  "updated": "2026-10-14T22:05:23.635Z",
-  "count": 123,
+  "updated": "2026-10-15T01:15:55.506Z",
+  "count": 121,
   "sources": {
-    "V2EX": 9,
+    "V2EX": 7,
     "RemoteOK": 99,
     "Remotive": 15,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
   "jobs": [
-    {
-      "id": "v2ex-1248812",
-      "title": "有招 UI 的吗？ 10 年经验， C 端 app web",
-      "company": "tongtong",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [],
-      "category": "设计",
-      "postedDate": "2026-10-14",
-      "url": "https://www.v2ex.com/t/1248812",
-      "source": "V2EX",
-      "region": "domestic"
-    },
     {
       "id": "v2ex-1248790",
       "title": "标题：  CloudCat（雲貓）—— 基於端雲協同与數據飛輪的 Personal AI OS",
@@ -169,29 +152,6 @@
       "category": "算法/AI",
       "postedDate": "2026-10-13",
       "url": "https://www.v2ex.com/t/1248322",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1248195",
-      "title": "💻 技术岗专场｜ 46 个岗位",
-      "company": "loser7758",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "java",
-        "go",
-        "golang",
-        "flutter",
-        "php"
-      ],
-      "category": "其他",
-      "postedDate": "2026-10-12",
-      "url": "https://www.v2ex.com/t/1248195",
       "source": "V2EX",
       "region": "domestic"
     },
@@ -829,36 +789,6 @@
       "category": "non tech",
       "postedDate": "2026-10-03",
       "url": "https://remoteOK.com/remote-jobs/remote-head-of-operations-leverage-live-local-1137461",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137460",
-      "title": "Junior Crypto Analyst & Trader",
-      "company": "Empire Assets",
-      "location": "Remote",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "crypto",
-        "finance",
-        "trader",
-        "remote",
-        "part time",
-        "full time",
-        "web3",
-        "bitcoin",
-        "ethereum",
-        "blockchain",
-        "defi",
-        "work from home"
-      ],
-      "category": "crypto",
-      "postedDate": "2026-10-02",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-analyst-trader-empire-assets-1137460",
       "source": "RemoteOK",
       "region": "foreign"
     },
@@ -3233,6 +3163,36 @@
       "category": "Software",
       "postedDate": "2026-08-03",
       "url": "https://remoteOK.com/remote-jobs/remote-functional-assessor-pfas-personal-functional-assessment-services-1136370",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1135903",
+      "title": "Data Entry Administrator",
+      "company": "PulseMediaNL",
+      "location": "Ø§ÙØ±ÙØ§Ø¶, Ø§ÙØ±ÙØ§Ø¶ Ø§ÙØ±ÙØ§Ø¶ Ø§ÙØ³Ø¹ÙØ¯ÙØ©",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "data entry",
+        "infosec",
+        "education",
+        "customer support",
+        "dev",
+        "marketing",
+        "admin",
+        "microsoft",
+        "exec",
+        "content writing",
+        "ops",
+        "excel"
+      ],
+      "category": "data entry",
+      "postedDate": "2026-08-02",
+      "url": "https://remoteOK.com/remote-jobs/remote-data-entry-administrator-pulsemedianl-1135903",
       "source": "RemoteOK",
       "region": "foreign"
     }

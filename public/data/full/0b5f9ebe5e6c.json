@@ -1,0 +1,7 @@
+{
+  "id": "0b5f9ebe5e6c",
+  "title": "SQL 数据库NULL值判断 - 暗流断念-备用参考",
+  "url": "https://www.cnblogs.com/WearOpenWei/p/23309534",
+  "contentZh": "",
+  "contentFull": "\n\n判断字段是否为空很多新手写where col = NULL，查询返回空结果，不会报错但是查不出任何数据，是高频隐形bug。场景：统计用户表手机号为空、不为空的数据，对比错误等于NULL写法的坑。核心知识点：三值逻辑、IS NULL、IS NOT NULL、IFNULL函数。\n① 生成测试数据\nCREATE TABLE member(    uid INT PRIMARY KEY AUTO_INCREMENT,    username VARCHAR(32),    phone VARCHAR(20) NULL);INSERT INTO member(username,phone) VALUES('小明','13800138000'),('小红',NULL),('小刚','13900139000'),('小丽',NULL);\n② 核心SQL\n-- 错误写法，不会报错但是查不到任何数据SELECT * FROM member WHERE phone = NULL;-- 正确 判断为空SELECT * FROM member WHERE phone IS NULL;-- 正确 判断不为空SELECT * FROM member WHERE phone IS NOT NULL;-- IFNULL空值替换，NULL展示为'未填写'SELECT uid,username,IFNULL(phone,'未填写') AS phone FROM member;\n \n③SQL结果\n-- IS NULL结果uid  username phone2    小红     NULL4    小丽     NULL-- IFNULL输出uid  username phone1    小明 138001380002    小红 未填写\n\nNULL不能使用 = 、!= 做比较，只能IS NULL / IS NOT NULL；\ncol = NULL不会报错，但返回空集合，属于隐蔽业务bug；\nIFNULL函数可以��查询结果的NULL做展示层替换；\n建表阶段业务关键字段尽量设置NOT NULL约束，从源头减少NULL。\n\n \n\n"
+}
