@@ -1,31 +1,14 @@
 {
-  "updated": "2026-10-15T13:07:51.437Z",
-  "count": 121,
+  "updated": "2026-10-15T18:03:29.670Z",
+  "count": 120,
   "sources": {
-    "V2EX": 8,
+    "V2EX": 7,
     "RemoteOK": 99,
     "Remotive": 14,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
   "jobs": [
-    {
-      "id": "v2ex-1249128",
-      "title": "今天试用期被劝退，自己提了离职",
-      "company": "xujdan",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [],
-      "category": "其他",
-      "postedDate": "2026-10-15",
-      "url": "https://www.v2ex.com/t/1249128",
-      "source": "V2EX",
-      "region": "domestic"
-    },
     {
       "id": "v2ex-1249103",
       "title": "招聘 C++系统软件开发工程师",
@@ -172,6 +155,51 @@
       "url": "https://www.v2ex.com/t/1248790",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "remoteok-1137514",
+      "title": "Payment Operations Specialist",
+      "company": "Utopia",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "design",
+        "customer support",
+        "marketing",
+        "accounting",
+        "finance",
+        "ops",
+        "digital nomad"
+      ],
+      "category": "design",
+      "postedDate": "2026-10-14",
+      "url": "https://remoteOK.com/remote-jobs/remote-payment-operations-specialist-utopia-1137514",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1137513",
+      "title": "AI Trainer",
+      "company": "iMerit Technology",
+      "location": "US, UK, Canada, Australia + 35 other countries",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "data annotation",
+        "ai training"
+      ],
+      "category": "data annotation",
+      "postedDate": "2026-10-14",
+      "url": "https://remoteOK.com/remote-jobs/remote-ai-trainer-imerit-technology-1137513",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137512",
@@ -3123,53 +3151,6 @@
       "category": "exec",
       "postedDate": "2026-08-03",
       "url": "https://remoteOK.com/remote-jobs/remote-regional-flight-operations-support-manager-wing-1136054",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1136370",
-      "title": "Functional Assessor",
-      "company": "PFAS (Personal Functional Assessment Services)",
-      "location": "Bury St Edmunds,",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [],
-      "category": "Software",
-      "postedDate": "2026-08-03",
-      "url": "https://remoteOK.com/remote-jobs/remote-functional-assessor-pfas-personal-functional-assessment-services-1136370",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1135903",
-      "title": "Data Entry Administrator",
-      "company": "PulseMediaNL",
-      "location": "Ø§ÙØ±ÙØ§Ø¶, Ø§ÙØ±ÙØ§Ø¶ Ø§ÙØ±ÙØ§Ø¶ Ø§ÙØ³Ø¹ÙØ¯ÙØ©",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "data entry",
-        "infosec",
-        "education",
-        "customer support",
-        "dev",
-        "marketing",
-        "admin",
-        "microsoft",
-        "exec",
-        "content writing",
-        "ops",
-        "excel"
-      ],
-      "category": "data entry",
-      "postedDate": "2026-08-02",
-      "url": "https://remoteOK.com/remote-jobs/remote-data-entry-administrator-pulsemedianl-1135903",
       "source": "RemoteOK",
       "region": "foreign"
     }
