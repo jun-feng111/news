@@ -1,67 +1,17 @@
 {
-  "AI": [
-    {
-      "id": "7624c31011dc",
-      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-      "summary": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-15T01:01:32.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55590095286_7fe28ddb94_o.jpg?resize=1200,800",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "1919b268be46",
-      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-      "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
-      "summary": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-15T00:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2197117084.jpg?resize=1200,843",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "8fcf6c6c5f5e",
-      "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
-      "url": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
-      "summary": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-14T22:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/CedarDB-Founders-Moritz-Sichert-Lukas-Vogel-Philipp-Fent-Dominik-Durner-and-Christian-Winter.png?resize=1200,933",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "171416c3b92b",
-      "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
-      "url": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
-      "summary": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-14T21:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Colossal-Labs-2.png?resize=1200,691",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "9761d628e721",
-      "title": "Ambani&#8217;s Jio seeks to raise $3.2B in what could be India&#8217;s biggest IPO",
-      "url": "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/",
-      "summary": "Ambani&#8217;s Jio seeks to raise $3。2B in what could be India&#8217;s biggest IPO",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-14T21:48:20.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1227124564.jpg?resize=1200,800",
-      "score": 65,
-      "tags": []
-    }
-  ],
   "科技": [
+    {
+      "id": "74a5b05214cc",
+      "title": "Figma announces new features to define how agents work on its platform",
+      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+      "summary": "Figma announces new features to define how agents work on its platform",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-10-15T04:30:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Specs_agent.jpeg?resize=1200,675",
+      "score": 75,
+      "tags": []
+    },
     {
       "id": "55c2bfcceb55",
       "title": "Flock CEO defends surveillance technology amid national backlash: &#8216;We shouldn&#8217;t pause progress&#8217;",
@@ -71,7 +21,7 @@
       "category": "科技",
       "published": "2026-10-15T00:49:31.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300215073.jpg?w=1024",
-      "score": 65,
+      "score": 60,
       "tags": []
     },
     {
@@ -83,7 +33,7 @@
       "category": "科技",
       "published": "2026-10-15T00:30:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2015/08/9726191699_6ba4b89744_o.jpg?resize=1200,798",
-      "score": 65,
+      "score": 60,
       "tags": []
     },
     {
@@ -95,7 +45,7 @@
       "category": "科技",
       "published": "2026-10-14T23:00:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/2DOrganoidSlice_greynuclei_pinksmoothmuslce_blueepithelium_INTEROBIO.jpg?w=864",
-      "score": 65,
+      "score": 60,
       "tags": []
     },
     {
@@ -107,19 +57,69 @@
       "category": "科技",
       "published": "2026-10-14T21:30:33.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/55589672916_8efa76c0ac_o.jpg?resize=1200,800",
+      "score": 60,
+      "tags": []
+    }
+  ],
+  "AI": [
+    {
+      "id": "7624c31011dc",
+      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+      "summary": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-15T01:01:32.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55590095286_7fe28ddb94_o.jpg?resize=1200,800",
       "score": 65,
       "tags": []
     },
     {
-      "id": "31d6372e7099",
-      "title": "Flock CEO: We haven&#8217;t &#8216;fired&#8217; any police departments as customers",
-      "url": "https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers/",
-      "summary": "Flock CEO: We haven&#8217;t &#8216;fired&#8217; any police departments as customers",
+      "id": "1919b268be46",
+      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+      "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+      "summary": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
       "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-10-14T20:26:25.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/garrett-langley-disrupt.jpg?resize=1200,900",
+      "category": "AI",
+      "published": "2026-10-15T00:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2197117084.jpg?resize=1200,843",
       "score": 65,
+      "tags": []
+    },
+    {
+      "id": "8fcf6c6c5f5e",
+      "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
+      "url": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
+      "summary": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-14T22:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/CedarDB-Founders-Moritz-Sichert-Lukas-Vogel-Philipp-Fent-Dominik-Durner-and-Christian-Winter.png?resize=1200,933",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "171416c3b92b",
+      "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
+      "url": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
+      "summary": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-14T21:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Colossal-Labs-2.png?resize=1200,691",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "9761d628e721",
+      "title": "Ambani&#8217;s Jio seeks to raise $3.2B in what could be India&#8217;s biggest IPO",
+      "url": "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/",
+      "summary": "Ambani&#8217;s Jio seeks to raise $3。2B in what could be India&#8217;s biggest IPO",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-14T21:48:20.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1227124564.jpg?resize=1200,800",
+      "score": 60,
       "tags": []
     }
   ],
@@ -173,31 +173,81 @@
       "tags": []
     },
     {
-      "id": "315c4b42ff3b",
-      "title": "构建就业友好型发展方式，让大学生更好应对AI挑战",
-      "url": "https://www.yicai.com/news/103341420.html",
-      "summary": "作者：钱婷婷 姚凯 责编：任绍敏 前述内容由第一财经“星翼大模型”智能生成，相关AI内容力求但不保证准确性、时效性、完整性等。请用户注意甄别，第一财经不承担由此产生的任何责任",
-      "source": "就业报告",
+      "id": "871d55a2c49d",
+      "title": "[上海｜ AI 创业团队招聘] Agent / AI Infra / LLM Data / AI 产品经理｜ AI 社交陪伴赛道｜多岗位开放",
+      "url": "https://www.v2ex.com/t/1248334#reply6",
+      "summary": "[上海｜ AI 创业团队招聘] Agent / AI Infra / LLM Data / AI 产品经理｜ AI 社交陪伴赛道｜多岗位开放",
+      "source": "V2EX·招聘",
       "category": "就业",
-      "published": "2026-08-31T13:24:00.000Z",
-      "image": "data:image/png;base64,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",
+      "published": "2026-10-13T03:44:10.000Z",
+      "image": "https://cdn.v2ex.com/gravatar/e701901bb6cfe4991c063f9fc2b8705b?s=73&d=retro",
       "score": 60,
       "tags": []
     }
   ],
-  "社会": [
+  "政策": [
     {
-      "id": "12ae9397a692",
-      "title": "教育部：教师发展中心全新上线 教师AI素养全覆盖培训启动",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-10/10710502.shtml",
-      "summary": "今天，教育部在京召开人工智能赋能教师发展现场会。国家智慧教育平台教师发展中心全新升级上线，同时，教师人工智能素养全覆盖培训启动",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-10-10T08:18:25.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "id": "4f5155b21d3e",
+      "title": "人社部：积极应对人工智能等新技术发展对就业的影响，实施适应 ...",
+      "url": "https://news.qq.com/rain/a/20261010A05UV900",
+      "summary": "10月10日上午，国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，介绍“十五五”时期推进就业和社会保障高质量发展有关情况。图/国新办 人力资源社会保障部新闻发言人、副部长李忠表示，国家发",
+      "source": "Bing·人社部就业创业政策",
+      "category": "政策",
+      "published": "2026-10-10T05:54:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/OTDZsjIG6XTIKN64hbO7sohSFYwYdtmFdTaAK3-Dx704sAA_640330/0",
       "score": 60,
       "tags": []
     },
+    {
+      "id": "9abef167f0fe",
+      "title": "就业大局已定？不出意外的话，人社部帮扶未就业学生就业有新动作",
+      "url": "https://www.sohu.com/a/1086390511_122655089",
+      "summary": "10 月 10 日国新办 “十五五” 就业社保发布会刚结束，“人社部要给未就业大学生兜底” 的消息就在各大应届生求职群里刷屏。2026 届高校毕业生规模冲到 1270 万，再创新高，秋招季里不少人投了",
+      "source": "Bing·大学生就业政策",
+      "category": "政策",
+      "published": "2026-10-11T10:54:00.000Z",
+      "image": "https://q7.itc.cn/q_70/images03/20261011/da3828b9be66424e8c2e3df92ae4dcb1.jpeg",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "d9be3874471b",
+      "title": "专家释疑：大学毕业生如何享受创业减税优惠政策？",
+      "url": "https://view.inews.qq.com/a/20261009A046MA00",
+      "summary": "今年选择自主创业的高校毕业生不少需要进行纳税申报，税务部门发现大学毕业生创业的税收优惠政策咨询量明显上升。为了支持大学生创业就业，国家出台了一项税收优惠政策",
+      "source": "Bing·高校毕业生就业创业政策",
+      "category": "政策",
+      "published": "2026-10-09T03:23:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/O6dqtz1jww4PHmujCcMcat7Y2Pp69lmhjdvMSC0ZWP-mIAA_640330/0",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "cb0680fe3cb1",
+      "title": "开局起步“十五五” | 人社部：从“有活没人干”入手解决“有人没 ...",
+      "url": "https://finance.sina.com.cn/wm/2026-10-10/doc-iniutqmm7445367.shtml",
+      "summary": "本号讯（记者&#160;冯南）国新办10月10日上午举行“开局起步‘十五五’”系列主题新闻发布会。人力资源社会保障部新闻发言人、副部长李忠表示，实施就业优先战略“十五五”规划，为做好“十五五”时期就业",
+      "source": "Bing·人社部就业创业政策",
+      "category": "政策",
+      "published": "2026-10-10T01:38:00.000Z",
+      "image": "//n.sinaimg.cn/front20261010ac/400/w600h600/20261010/ed5c-0c49d08ec5467feb0eabfcf9266defdb.jpg",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "b629f6f51c34",
+      "title": "小成本创业、大生态护航，青岛全周期服务托举青年创业梦",
+      "url": "https://news.qq.com/rain/a/20261012A0713J00",
+      "summary": "当“一人公司”成为AI时代青年创业的新形态，城市之间的竞争不再只是拼政策的力度，而是拼陪跑的精度。“抢人大战”进入下半场，城市靠什么留住年轻人",
+      "source": "Bing·大学生创业扶持政策",
+      "category": "政策",
+      "published": "2026-10-12T07:39:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/OKFVle9Do6ajjLR1KyoXUtOdjbRH-jJVhC5AX9JUY1Q5gAA_640330/0",
+      "score": 55,
+      "tags": []
+    }
+  ],
+  "社会": [
     {
       "id": "6e5c802c5ce0",
       "title": "打破专科“天花板”！职业教育专业基本涵盖国民经济各领域",
@@ -245,161 +295,112 @@
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 55,
       "tags": []
-    }
-  ],
-  "政策": [
-    {
-      "id": "4f5155b21d3e",
-      "title": "人社部：积极应对人工智能等新技术发展对就业的影响，实施适应 ...",
-      "url": "https://news.qq.com/rain/a/20261010A05UV900",
-      "summary": "10月10日上午，国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，介绍“十五五”时期推进就业和社会保障高质量发展有关情况。图/国新办 人力资源社会保障部新闻发言人、副部长李忠表示，国家发",
-      "source": "Bing·人社部就业创业政策",
-      "category": "政策",
-      "published": "2026-10-10T05:54:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/OTDZsjIG6XTIKN64hbO7sohSFYwYdtmFdTaAK3-Dx704sAA_640330/0",
-      "score": 60,
-      "tags": []
     },
     {
-      "id": "0e9730f5f073",
-      "title": "珠海推出大学生OPC专项培育计划，首届AI创业大赛同步开赛",
-      "url": "https://finance.sina.com.cn/roll/2026-10-09/doc-iniurmnf6847150.shtml",
-      "summary": "一个人、一台电脑，再加上AI工具，能不能成为一家公司的“起点”。 近日，2026珠海高校大学生OPC科创者赋能计划暨珠海人工智能OPC创业大赛启动仪式在中山大学珠海校区举行",
-      "source": "Bing·大学生创业扶持政策",
-      "category": "政策",
-      "published": "2026-10-09T02:04:00.000Z",
-      "image": "//n.sinaimg.cn/spider20261009/200/w1080h720/20261009/dda1-67fcd1bf052c58e8b191dac774a9641f.jpg",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "9abef167f0fe",
-      "title": "就业大局已定？不出意外的话，人社部帮扶未就业学生就业有新动作",
-      "url": "https://www.sohu.com/a/1086390511_122655089",
-      "summary": "10 月 10 日国新办 “十五五” 就业社保发布会刚结束，“人社部要给未就业大学生兜底” 的消息就在各大应届生求职群里刷屏。2026 届高校毕业生规模冲到 1270 万，再创新高，秋招季里不少人投了",
-      "source": "Bing·大学生就业政策",
-      "category": "政策",
-      "published": "2026-10-11T10:54:00.000Z",
-      "image": "https://q7.itc.cn/q_70/images03/20261011/da3828b9be66424e8c2e3df92ae4dcb1.jpeg",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "698908ee4f2f",
-      "title": "就业大局已定？不出意外的话，人社部有望兜底未就业大学生求职",
-      "url": "https://www.sohu.com/a/1086332686_122158578",
-      "summary": "今年没找到工作的大学生，千万别盲目焦虑、裸躺摆烂。 国家的就业兜底网，已经悄悄全面铺开了",
-      "source": "Bing·大学生就业政策",
-      "category": "政策",
-      "published": "2026-10-11T07:29:00.000Z",
-      "image": "//q9.itc.cn/images01/20261011/05660a9a98e0494e803c531a79be594d.jpeg",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "c95cdd2ebc88",
-      "title": "专家释疑：大学毕业生如何享受创业减税优惠政策？",
-      "url": "https://www.sohu.com/a/1086527541_362042",
-      "summary": "今年选择自主创业的高校毕业生不少需要进行纳税申报，税务部门发现大学毕业生创业的税收优惠政策咨询量明显上升。 为了支持大学生创业就业，国家出台了一项税收优惠政策",
-      "source": "Bing·高校毕业生就业创业政策",
-      "category": "政策",
-      "published": "2026-10-12T01:44:00.000Z",
-      "image": "",
+      "id": "c7ab261354d6",
+      "title": "教育部：我国已在32个国家共建了38家鲁班工坊",
+      "url": "https://www.chinanews.com.cn/edu/2026/10-12/10712033.shtml",
+      "summary": "记者从教育部今天召开的新闻发布会获悉，近年来，中国职业教育实现了从人员交往、项目合作向标准引领新跨越，成为教育国际合作的生力军",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-10-12T07:00:38.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 55,
       "tags": []
     }
   ],
   "财经": [
     {
-      "id": "2bbe2d189dab",
-      "title": "海关总署：优化进境粮食企业监管措施及有关事宜",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714779.shtml",
+      "id": "c34d23bd4523",
+      "title": "川渝三地成立养老服务产业联盟共享养老资源",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715007.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-15T01:04:13.000Z",
+      "published": "2026-10-15T06:51:35.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "6dbd654888fc",
-      "title": "第140届广交会今日开展 展期持续至11月4日",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714775.shtml",
+      "id": "8c59bd402189",
+      "title": "建设银行推出“善建善服”服务方案，助力服务业扩能提质",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10715009.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-15T00:36:49.000Z",
+      "published": "2026-10-15T06:50:59.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "e51721323903",
-      "title": "前三季度金融数据出炉 融资渠道更多元 普通家庭如何打理手中资产？",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714756.shtml",
+      "id": "bc1ea0b2169c",
+      "title": "市场监管总局曝光一批“内卷式”竞争严重违法失信名单",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714999.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-14T23:42:38.000Z",
+      "published": "2026-10-15T06:31:58.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "cfefec831047",
-      "title": "央行将开展7000亿元买断式逆回购操作",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714753.shtml",
+      "id": "b03e9053f81c",
+      "title": "2026世界储能大会在福建宁德举办",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714977.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-14T23:28:03.000Z",
+      "published": "2026-10-15T06:19:02.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "55c63d99df27",
-      "title": "（经济观察）70年广交会，见证中国与世界的双向奔赴",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714744.shtml",
+      "id": "cf02fe13b858",
+      "title": "浙江舟山“十五五”冀建强大宗商品资源配置枢纽",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-15/10714979.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-14T15:30:51.000Z",
+      "published": "2026-10-15T06:18:06.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ],
   "开发": [
     {
-      "id": "f54cae6d58c9",
-      "title": "企业真正需要的，不是更聪明的 Agent ？",
-      "url": "https://www.infoq.cn/video/Wss036X3C6APXsS41HwC?utm_source=rss&amp;utm_medium=article",
+      "id": "7850abe091b7",
+      "title": "代码不再稀缺之后，软件工程还剩下什么？",
+      "url": "https://www.infoq.cn/article/DTZRRtodmCvpfYwbpWbF?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-10-14T18:36:53.000Z",
-      "image": "https://static001.geekbang.org/static/infoq/img/infoq_icon.jpg"
+      "published": "2026-10-15T14:30:04.000Z",
+      "image": "https://static001.infoq.cn/resource/image/85/3a/85564d253abfc76e927ce7bccf7be83a.jpg"
     },
     {
-      "id": "efd4f05cc78a",
-      "title": "Spring 近期新闻：Boot、Framework、Data、Security 和 Integration 的第二个里程碑版本",
-      "url": "https://www.infoq.cn/article/bjowsAJHMwfAzRMqu4qJ?utm_source=rss&amp;utm_medium=article",
+      "id": "db778b53870b",
+      "title": "亚马逊云科技推出 CloudWatch Omni：不仅监控系统，还要评估 AI 是否靠谱",
+      "url": "https://www.infoq.cn/article/5GOXqmJaGKbukSIWU4Uf?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-10-14T18:11:08.000Z",
-      "image": "https://static001.infoq.cn/resource/image/08/b4/08bd0d9b224195b28a30d38224677ab4.jpg"
+      "published": "2026-10-15T13:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/ed/fe/ed491ee4916b1d882135d84b613743fe.jpg"
     },
     {
-      "id": "2435b2df81d5",
-      "title": "千问办公杀入电商经营！3万开店成本压至几百元，一个Agent接管多平台生意",
-      "url": "https://www.infoq.cn/article/IAAteiFAzfescqFHIyQU?utm_source=rss&amp;utm_medium=article",
+      "id": "85f4b33a0028",
+      "title": "数据驱动的具身智能：迈向规模化之路｜QCon 上海",
+      "url": "https://www.infoq.cn/article/a8LKxyL9AC4PWhB2r0XX?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-10-14T17:48:46.000Z"
+      "published": "2026-10-15T12:01:47.000Z",
+      "image": "https://static001.infoq.cn/resource/image/66/92/66278f23b16142282aba69c455905c92.jpg"
     },
     {
-      "id": "4b9a941c8069",
-      "title": "九成具身智能公司在东部沿海，长沙抢走了另一样东西",
-      "url": "https://www.infoq.cn/article/ZqJq0uHBPvvEewkc0ZFC?utm_source=rss&amp;utm_medium=article",
+      "id": "7c31daa37cf0",
+      "title": "算力效率的边界：以体系结构量化与分布式工程破局 AI Infra",
+      "url": "https://www.infoq.cn/article/JbzA5yvzl2BkuTpkfdrU?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-10-14T17:35:33.000Z",
-      "image": "https://static001.infoq.cn/resource/image/b0/c5/b0cedb0760a44e637d7bc5e5dda971c5.jpg"
+      "published": "2026-10-15T11:44:05.000Z",
+      "image": "https://static001.infoq.cn/resource/image/6a/42/6afd8635fa27115ec090467f408ea642.jpg"
     },
     {
-      "id": "ac94d84c9f15",
-      "title": "Cloudflare 正式发布 Python Workers，但关于冷启动和上游维护的问题仍待解答",
-      "url": "https://www.infoq.cn/article/fycaxN0NvWHBq6B7d3zY?utm_source=rss&amp;utm_medium=article",
+      "id": "2c2ec44bfebc",
+      "title": "从 Harness 到 Loop：Agent 如何走向可靠交付与持续进化？",
+      "url": "https://www.infoq.cn/article/xKkEswgSftEcGrkK6oTY?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-10-14T17:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/5c/40/5c87fd3f978dd2b9cb2bbf71ed3bd140.jpg"
+      "published": "2026-10-15T11:05:26.000Z",
+      "image": "https://static001.infoq.cn/resource/image/77/c8/77e5042919cff36b00eae75fd088a9c8.jpg"
     }
   ]
 }
