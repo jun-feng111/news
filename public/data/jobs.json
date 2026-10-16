@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T21:59:41.455Z",
+  "updated": "2026-10-16T00:12:49.328Z",
   "count": 120,
   "sources": {
     "V2EX": 7,
@@ -155,6 +155,76 @@
       "url": "https://www.v2ex.com/t/1248790",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "remoteok-1137523",
+      "title": "Sr REACT NATIVE",
+      "company": "Somnio Software",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "react native",
+        "react",
+        "dev",
+        "python",
+        "javascript",
+        "c",
+        "flutter",
+        "node",
+        "node.js",
+        "digital nomad"
+      ],
+      "category": "react native",
+      "postedDate": "2026-10-15",
+      "url": "https://remoteOK.com/remote-jobs/remote-sr-react-native-somnio-software-1137523",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1137522",
+      "title": "Contracts Manager Federal",
+      "company": "Akicita Federal, LLC",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "exec",
+        "medical",
+        "recruiter"
+      ],
+      "category": "exec",
+      "postedDate": "2026-10-15",
+      "url": "https://remoteOK.com/remote-jobs/remote-contracts-manager-federal-akicita-federal-llc-1137522",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1137521",
+      "title": "Federal Account Manager Client Relationships",
+      "company": "Akicita Federal, LLC",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "exec",
+        "golang",
+        "recruiter"
+      ],
+      "category": "exec",
+      "postedDate": "2026-10-15",
+      "url": "https://remoteOK.com/remote-jobs/remote-federal-account-manager-client-relationships-akicita-federal-llc-1137521",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137514",
@@ -1542,28 +1612,6 @@
       "category": "golang",
       "postedDate": "2026-09-16",
       "url": "https://remoteOK.com/remote-jobs/remote-golang-kubernetes-engineer-arango-1137400",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137399",
-      "title": "SI agent engineer",
-      "company": "Sticker Mule",
-      "location": "Remote",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "golang",
-        "ai",
-        "javascript",
-        "typescript"
-      ],
-      "category": "golang",
-      "postedDate": "2026-09-16",
-      "url": "https://remoteOK.com/remote-jobs/remote-si-agent-engineer-sticker-mule-1137399",
       "source": "RemoteOK",
       "region": "foreign"
     },
@@ -3099,58 +3147,6 @@
       "category": "technical",
       "postedDate": "2026-08-04",
       "url": "https://remoteOK.com/remote-jobs/remote-online-bidder-webnotics-pvt-ltd-1137209",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1136086",
-      "title": "Student Success Coach",
-      "company": "FindTutors",
-      "location": "London, London, England, United Kingdom",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "teaching",
-        "customer support",
-        "marketing",
-        "education",
-        "exec"
-      ],
-      "category": "teaching",
-      "postedDate": "2026-08-03",
-      "url": "https://remoteOK.com/remote-jobs/remote-student-success-coach-findtutors-1136086",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1136054",
-      "title": "Regional Flight Operations Support Manager",
-      "company": "Wing",
-      "location": "Dallas, Dallas, Texas, United States",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "exec",
-        "design",
-        "education",
-        "recruiter",
-        "customer support",
-        "travel",
-        "finance",
-        "ops",
-        "medical",
-        "full time",
-        "digital nomad"
-      ],
-      "category": "exec",
-      "postedDate": "2026-08-03",
-      "url": "https://remoteOK.com/remote-jobs/remote-regional-flight-operations-support-manager-wing-1136054",
       "source": "RemoteOK",
       "region": "foreign"
     }
