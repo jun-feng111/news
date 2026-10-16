@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T15:16:37.637Z",
+  "updated": "2026-10-16T19:24:01.889Z",
   "count": 122,
   "sources": {
     "V2EX": 8,
@@ -155,6 +155,61 @@
       "url": "https://www.v2ex.com/t/1249364",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "remoteok-1137528",
+      "title": "Account Manager Mid Market",
+      "company": "Allego",
+      "location": "Waltham",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "exec",
+        "saas",
+        "customer support",
+        "marketing",
+        "ops",
+        "sales",
+        "golang"
+      ],
+      "category": "exec",
+      "postedDate": "2026-10-15",
+      "url": "https://remoteOK.com/remote-jobs/remote-account-manager-mid-market-allego-1137528",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1137527",
+      "title": "Senior Software Engineer II Applied AI",
+      "company": "Wrapbook",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "dev",
+        "design",
+        "amazon",
+        "sys admin",
+        "backend",
+        "infosec",
+        "python",
+        "education",
+        "technical",
+        "customer support",
+        "accounting",
+        "payroll"
+      ],
+      "category": "dev",
+      "postedDate": "2026-10-15",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137525",
@@ -3125,66 +3180,6 @@
       "category": "design",
       "postedDate": "2026-08-04",
       "url": "https://remoteOK.com/remote-jobs/remote-clinical-coordination-manager-enable-dental-1136096",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1136217",
-      "title": "Data Analyst Assistant",
-      "company": "Arabian Private Holdings",
-      "location": "Ø¯Ø¨Ù, Ø¯Ø¨Ù Ø¯Ø¨Ù Ø§ÙØ¥ÙØ§Ø±Ø§Øª Ø§ÙØ¹Ø±Ø¨ÙØ© Ø§ÙÙØªØ­Ø¯Ø©",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "saas",
-        "customer support",
-        "marketing",
-        "exec",
-        "ops",
-        "sales",
-        "analyst",
-        "virtual assistant",
-        "infosec",
-        "consulting",
-        "dev",
-        "finance"
-      ],
-      "category": "saas",
-      "postedDate": "2026-08-04",
-      "url": "https://remoteOK.com/remote-jobs/remote-data-analyst-assistant-arabian-private-holdings-1136217",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1136221",
-      "title": "Business Development",
-      "company": "GROW10X",
-      "location": "Islamabad, Islamabad, IslÄmÄbÄd, Pakistan",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "saas",
-        "customer support",
-        "marketing",
-        "exec",
-        "ops",
-        "sales",
-        "analyst",
-        "virtual assistant",
-        "infosec",
-        "consulting",
-        "dev",
-        "finance"
-      ],
-      "category": "saas",
-      "postedDate": "2026-08-04",
-      "url": "https://remoteOK.com/remote-jobs/remote-business-development-grow10x-1136221",
       "source": "RemoteOK",
       "region": "foreign"
     }
