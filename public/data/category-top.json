@@ -1,66 +1,4 @@
 {
-  "AI": [
-    {
-      "id": "4466435dcf8e",
-      "title": "India becomes the latest country to report rogue AI agent activity",
-      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-      "summary": "India becomes the latest country to report rogue AI agent activity",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-16T17:52:24.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/india-cyber-attack.jpg?w=612",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "0ee63cc50f71",
-      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-      "summary": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-16T16:30:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?resize=1200,800",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "33eae345cea5",
-      "title": "Elorian’s first AI model wants to reason with images, not just about them",
-      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-      "summary": "Elorian’s first AI model wants to reason with images, not just about them",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-16T16:01:37.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/image-1.png?resize=1200,675",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "805c6efc7dd4",
-      "title": "Jev is Vercel&#8217;s fastest-adopted AI model ever",
-      "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-      "summary": "Jev is Vercel&#8217;s fastest-adopted AI model ever",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-16T15:33:49.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/vercel-2249343327-smaller.jpg?resize=1200,800",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "4287d3259d59",
-      "title": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
-      "url": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
-      "summary": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-16T16:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2066870225.jpg?resize=1200,800",
-      "score": 70,
-      "tags": []
-    }
-  ],
   "科技": [
     {
       "id": "13131774e811",
@@ -118,6 +56,68 @@
       "category": "科技",
       "published": "2026-10-16T14:00:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Tiffany-Crown-e1791967522628.jpeg?resize=1200,675"
+    }
+  ],
+  "AI": [
+    {
+      "id": "4466435dcf8e",
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "summary": "India becomes the latest country to report rogue AI agent activity",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-16T17:52:24.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/india-cyber-attack.jpg?w=612",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "0ee63cc50f71",
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "summary": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-16T16:30:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?resize=1200,800",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "33eae345cea5",
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "summary": "Elorian’s first AI model wants to reason with images, not just about them",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-16T16:01:37.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/image-1.png?resize=1200,675",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "805c6efc7dd4",
+      "title": "Jev is Vercel&#8217;s fastest-adopted AI model ever",
+      "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+      "summary": "Jev is Vercel&#8217;s fastest-adopted AI model ever",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-16T15:33:49.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/vercel-2249343327-smaller.jpg?resize=1200,800",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "4287d3259d59",
+      "title": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
+      "url": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
+      "summary": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-16T16:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2066870225.jpg?resize=1200,800",
+      "score": 70,
+      "tags": []
     }
   ],
   "就业": [
@@ -257,6 +257,18 @@
       "tags": []
     },
     {
+      "id": "698908ee4f2f",
+      "title": "就业大局已定？不出意外的话，人社部有望兜底未就业大学生求职",
+      "url": "https://www.sohu.com/a/1086332686_122158578",
+      "summary": "今年没找到工作的大学生，千万别盲目焦虑、裸躺摆烂。 国家的就业兜底网，已经悄悄全面铺开了",
+      "source": "Bing·大学生就业政策",
+      "category": "政策",
+      "published": "2026-10-11T07:29:00.000Z",
+      "image": "//q9.itc.cn/images01/20261011/05660a9a98e0494e803c531a79be594d.jpeg",
+      "score": 55,
+      "tags": []
+    },
+    {
       "id": "cb0680fe3cb1",
       "title": "开局起步“十五五” | 人社部：从“有活没人干”入手解决“有人没 ...",
       "url": "https://finance.sina.com.cn/wm/2026-10-10/doc-iniutqmm7445367.shtml",
@@ -269,38 +281,26 @@
       "tags": []
     },
     {
-      "id": "b629f6f51c34",
-      "title": "小成本创业、大生态护航，青岛全周期服务托举青年创业梦",
-      "url": "https://news.qq.com/rain/a/20261012A0713J00",
-      "summary": "当“一人公司”成为AI时代青年创业的新形态，城市之间的竞争不再只是拼政策的力度，而是拼陪跑的精度。“抢人大战”进入下半场，城市靠什么留住年轻人",
-      "source": "Bing·大学生创业扶持政策",
+      "id": "72c94e85eb24",
+      "title": "就业大局已定？不出意外的话，人社部有望兜底未就业大学生求职 ...",
+      "url": "https://www.sohu.com/a/1086813453_122407690",
+      "summary": "毕业证拿到手，工作却迟迟没着落，最难受的往往不是暂时没收入，而是不知道还能找谁帮忙。 如今人社部门正在加强毕业生就业服务，这是不是意味着没找到工作的大学生终于有了新的出路",
+      "source": "Bing·人社部就业创业政策",
       "category": "政策",
-      "published": "2026-10-12T07:39:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/OKFVle9Do6ajjLR1KyoXUtOdjbRH-jJVhC5AX9JUY1Q5gAA_640330/0",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "5a77bfcf51f3",
-      "title": "川渝妇联跨域联动 为女大学生织密创业就业服务网",
-      "url": "http://www.cq.xinhuanet.com/20261012/c7a3e7f81e454a459c3dc710ba59870a/c.html",
-      "summary": "10月12日，由重庆市妇联、四川省妇联、重庆市教委、重庆市人力社保局共同主办的“双城‘她’机遇 携手创未来—2026川渝女大学生创业就业季”在重庆工商大学南岸校区正式启动。川渝两地高校代表、创业导师、",
-      "source": "Bing·大学生就业政策",
-      "category": "政策",
-      "published": "2026-10-12T11:59:00.000Z",
-      "image": "http://www.news.cn/detail2020/images/ewm.png",
+      "published": "2026-10-12T10:59:00.000Z",
+      "image": "https://q9.itc.cn/q_70/images03/20261012/cd8606a98521479794c380930f629c44.jpeg",
       "score": 50,
       "tags": []
     },
     {
-      "id": "7d0901d2dd44",
-      "title": "13条靶向政策、700万元专项经费：湖南湘潭这样托举大学生创业",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714373.shtml",
-      "summary": "中新网湘潭10月14日电 (冯军)“一个大学生来我们这里，先在一楼实习，合格后直接上二楼就业。”湘潭市动漫产业基地负责人田甜说，基地成了不少年轻人从校园走向职场的通道",
-      "source": "Bing·大学生就业政策",
+      "id": "ecfbeaa15d70",
+      "title": "宿州市：抢抓“两节”返乡窗口期 推动就业政策宣传“进站入心”",
+      "url": "https://www.sohu.com/a/1086006080_121106832",
+      "summary": "今年9月是2026年全国就业政策宣传月。宿州市人社局认真落实人社部办公厅《关于开展2026年全国就业政策宣传月活动的通知》和省厅工作提示要求，以“政策到身边就业暖心间”为主题，坚持“政策找人、服务上门",
+      "source": "Bing·人社部就业创业政策",
       "category": "政策",
-      "published": "2026-10-14T07:12:00.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "published": "2026-10-10T09:11:00.000Z",
+      "image": "https://q9.itc.cn/q_70/images03/20261010/a8f05c8f68cd4e7899ac49db7dbebbca.jpeg",
       "score": 50,
       "tags": []
     }

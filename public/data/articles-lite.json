@@ -1,17 +1,5 @@
 [
   {
-    "id": "4466435dcf8e",
-    "title": "India becomes the latest country to report rogue AI agent activity",
-    "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-    "summary": "India becomes the latest country to report rogue AI agent activity",
-    "source": "TechCrunch",
-    "category": "AI",
-    "published": "2026-10-16T17:52:24.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/india-cyber-attack.jpg?w=612",
-    "score": 80,
-    "tags": []
-  },
-  {
     "id": "13131774e811",
     "title": "Replit is no longer working with Anthropic, CEO says",
     "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
@@ -32,6 +20,18 @@
     "category": "科技",
     "published": "2026-10-16T19:40:00.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/porsche-macan-turbo-front-three-quarter.jpeg?resize=1200,800",
+    "score": 75,
+    "tags": []
+  },
+  {
+    "id": "4466435dcf8e",
+    "title": "India becomes the latest country to report rogue AI agent activity",
+    "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+    "summary": "India becomes the latest country to report rogue AI agent activity",
+    "source": "TechCrunch",
+    "category": "AI",
+    "published": "2026-10-16T17:52:24.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/india-cyber-attack.jpg?w=612",
     "score": 75,
     "tags": []
   },
@@ -299,18 +299,6 @@
     "tags": []
   },
   {
-    "id": "7e8838e701e9",
-    "title": "告别“随缘求职”：系统化、数字化重塑应届生求职路径",
-    "url": "http://city.ce.cn/xxfw/202610/t20261010_3253261.shtml",
-    "summary": "金秋十月，新一轮校园招聘大幕全面拉开。各地抢抓“金九银十”窗口期组团入校揽才，各类双选会接续举办，本届校招呈现时间前置、区域联动的新特征",
-    "source": "Bing·应届生求职",
-    "category": "就业",
-    "published": "2026-10-10T08:21:00.000Z",
-    "image": "http://city.ce.cn/tlad/202411/W020250317593091179057.jpg",
-    "score": 55,
-    "tags": []
-  },
-  {
     "id": "82426284b244",
     "title": "三季度应届生岗位需求出炉，数据工程师平均招聘月薪达10882元",
     "url": "https://finance.sina.com.cn/jjxw/2026-10-13/doc-inivawnf8727605.shtml",
@@ -395,6 +383,18 @@
     "tags": []
   },
   {
+    "id": "698908ee4f2f",
+    "title": "就业大局已定？不出意外的话，人社部有望兜底未就业大学生求职",
+    "url": "https://www.sohu.com/a/1086332686_122158578",
+    "summary": "今年没找到工作的大学生，千万别盲目焦虑、裸躺摆烂。 国家的就业兜底网，已经悄悄全面铺开了",
+    "source": "Bing·大学生就业政策",
+    "category": "政策",
+    "published": "2026-10-11T07:29:00.000Z",
+    "image": "//q9.itc.cn/images01/20261011/05660a9a98e0494e803c531a79be594d.jpeg",
+    "score": 55,
+    "tags": []
+  },
+  {
     "id": "cb0680fe3cb1",
     "title": "开局起步“十五五” | 人社部：从“有活没人干”入手解决“有人没 ...",
     "url": "https://finance.sina.com.cn/wm/2026-10-10/doc-iniutqmm7445367.shtml",
@@ -403,18 +403,6 @@
     "category": "政策",
     "published": "2026-10-10T01:38:00.000Z",
     "image": "//n.sinaimg.cn/front20261010ac/400/w600h600/20261010/ed5c-0c49d08ec5467feb0eabfcf9266defdb.jpg",
-    "score": 55,
-    "tags": []
-  },
-  {
-    "id": "b629f6f51c34",
-    "title": "小成本创业、大生态护航，青岛全周期服务托举青年创业梦",
-    "url": "https://news.qq.com/rain/a/20261012A0713J00",
-    "summary": "当“一人公司”成为AI时代青年创业的新形态，城市之间的竞争不再只是拼政策的力度，而是拼陪跑的精度。“抢人大战”进入下半场，城市靠什么留住年轻人",
-    "source": "Bing·大学生创业扶持政策",
-    "category": "政策",
-    "published": "2026-10-12T07:39:00.000Z",
-    "image": "https://inews.gtimg.com/om_ls/OKFVle9Do6ajjLR1KyoXUtOdjbRH-jJVhC5AX9JUY1Q5gAA_640330/0",
     "score": 55,
     "tags": []
   },
@@ -431,6 +419,18 @@
     "tags": []
   },
   {
+    "id": "7e8838e701e9",
+    "title": "告别“随缘求职”：系统化、数字化重塑应届生求职路径",
+    "url": "http://city.ce.cn/xxfw/202610/t20261010_3253261.shtml",
+    "summary": "金秋十月，新一轮校园招聘大幕全面拉开。各地抢抓“金九银十”窗口期组团入校揽才，各类双选会接续举办，本届校招呈现时间前置、区域联动的新特征",
+    "source": "就业报告",
+    "category": "就业",
+    "published": "2026-10-10T08:21:00.000Z",
+    "image": "http://city.ce.cn/tlad/202411/W020250317593091179057.jpg",
+    "score": 55,
+    "tags": []
+  },
+  {
     "id": "4a6f6d0430aa",
     "title": "2027届毕业生破1300万！国央企秋招预计释放超30万岗位！",
     "url": "https://www.voc.com.cn/news/202608/33470070.html",
@@ -438,6 +438,7 @@
     "source": "就业报告",
     "category": "就业",
     "published": "2026-08-13T01:27:00.000Z",
+    "image": "https://m.voc.com.cn/images/wx_lg.jpg",
     "score": 55,
     "tags": []
   },
@@ -478,6 +479,17 @@
     "tags": []
   },
   {
+    "id": "22d4cca8b74f",
+    "title": "传统算法工程师要被VLA淘汰了，真的假的？",
+    "url": "https://www.eet-china.com/mp/a514000.html",
+    "summary": "2026年过半，自动驾驶行业的技术路线之争愈演愈烈，从2025年端到端大模型全面上车，到2026年VLA（视觉-语言-动作模型）与世界模型两条路线的公开激化，技术迭代的速度已超出很多人的预期。在英伟达",
+    "source": "算法工程师·就业分析",
+    "category": "就业",
+    "published": "2026-08-01T01:40:00.000Z",
+    "score": 55,
+    "tags": []
+  },
+  {
     "id": "3f10a8343606",
     "title": "为什么AI公司宁愿花高薪招10年Python老兵，也不招纯算法？",
     "url": "https://blog.csdn.net/2302_80138126/article/details/167085792",
@@ -485,18 +497,6 @@
     "source": "算法工程师·就业分析",
     "category": "就业",
     "published": "2026-10-04T16:14:00.000Z",
-    "score": 55,
-    "tags": []
-  },
-  {
-    "id": "4835b0acd772",
-    "title": "美团启动2027届校招 超80%岗位要求AI能力",
-    "url": "https://www.guandian.cn/article/20260817/586113.html",
-    "summary": "美团正式启动2027届校园招聘，面向2026年11月至2027年10月毕业的海内外应届生，开放10大类、100余种岗位，覆盖全球几十个城市。新增AI全栈工程师、AI产品经理、智能商业分析师等十余种AI",
-    "source": "产品经理·就业分析",
-    "category": "就业",
-    "published": "2026-08-17T14:37:00.000Z",
-    "image": "https://www.guandian.cn/statics/index2022/img/top_logo.png",
     "score": 55,
     "tags": []
   },
@@ -621,14 +621,14 @@
     "tags": []
   },
   {
-    "id": "c74fbadde5e4",
-    "title": "2026 央国企求职：别再盲目海投！90% 应届生踩坑的上岸误区",
-    "url": "https://www.sohu.com/a/1086379084_123013979",
-    "summary": "2026 年就业市场早已迎来大变局，在高校毕业生涌入求职赛道的背景下，求职风向彻底洗牌。相关就业调研数据显示，超七成应届生将稳定就业作为首选，其中 45",
-    "source": "Bing·应届生求职",
+    "id": "2eb1587a2cc2",
+    "title": "上海外企一年 contract 的职位： 后端开发（hadoop），英语流利，月薪 60-70k，需要去现场办公",
+    "url": "https://www.v2ex.com/t/1248881#reply0",
+    "summary": "上海外企一年 contract 的职位： 后端开发（hadoop），英语流利，月薪 60-70k，需要去现场办公",
+    "source": "V2EX·招聘",
     "category": "就业",
-    "published": "2026-10-12T11:55:00.000Z",
-    "image": "//q5.itc.cn/images01/20261012/c5a747ffd90c4d1b8d9dbbb605386732.png",
+    "published": "2026-10-15T00:41:06.000Z",
+    "image": "https://cdn.v2ex.com/avatar/4c83/08d4/221578_xlarge.png?m=1762788791",
     "score": 50,
     "tags": []
   },
@@ -717,30 +717,6 @@
     "tags": []
   },
   {
-    "id": "5a77bfcf51f3",
-    "title": "川渝妇联跨域联动 为女大学生织密创业就业服务网",
-    "url": "http://www.cq.xinhuanet.com/20261012/c7a3e7f81e454a459c3dc710ba59870a/c.html",
-    "summary": "10月12日，由重庆市妇联、四川省妇联、重庆市教委、重庆市人力社保局共同主办的“双城‘她’机遇 携手创未来—2026川渝女大学生创业就业季”在重庆工商大学南岸校区正式启动。川渝两地高校代表、创业导师、",
-    "source": "Bing·大学生就业政策",
-    "category": "政策",
-    "published": "2026-10-12T11:59:00.000Z",
-    "image": "http://www.news.cn/detail2020/images/ewm.png",
-    "score": 50,
-    "tags": []
-  },
-  {
-    "id": "7d0901d2dd44",
-    "title": "13条靶向政策、700万元专项经费：湖南湘潭这样托举大学生创业",
-    "url": "https://www.chinanews.com.cn/cj/2026/10-14/10714373.shtml",
-    "summary": "中新网湘潭10月14日电 (冯军)“一个大学生来我们这里，先在一楼实习，合格后直接上二楼就业。”湘潭市动漫产业基地负责人田甜说，基地成了不少年轻人从校园走向职场的通道",
-    "source": "Bing·大学生就业政策",
-    "category": "政策",
-    "published": "2026-10-14T07:12:00.000Z",
-    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-    "score": 50,
-    "tags": []
-  },
-  {
     "id": "72c94e85eb24",
     "title": "就业大局已定？不出意外的话，人社部有望兜底未就业大学生求职 ...",
     "url": "https://www.sohu.com/a/1086813453_122407690",
@@ -777,6 +753,18 @@
     "tags": []
   },
   {
+    "id": "3307cd598f72",
+    "title": "13条靶向政策、700万元专项经费：湖南湘潭这样托举大学生创业",
+    "url": "https://finance.sina.com.cn/roll/2026-10-14/doc-iniveqvm8449536.shtml",
+    "summary": "中新网湘潭10月14日电 (冯军)“一个大学生来我们这里，先在一楼实习，合格后直接上二楼就业。”湘潭市动漫产业基地负责人田甜说，基地成了不少年轻人从校园走向职场的通道",
+    "source": "Bing·大学生创业扶持政策",
+    "category": "政策",
+    "published": "2026-10-13T23:29:00.000Z",
+    "image": "//n.sinaimg.cn/spider20261014/425/w700h525/20261014/1ae6-040a5248eee4be72bd01c87a7aff69e7.jpg",
+    "score": 50,
+    "tags": []
+  },
+  {
     "id": "37d80c8fca0a",
     "title": "山东福彩“一心一驿&#183;筑梦青春”解锁青年创业帮扶新模式",
     "url": "https://sd.people.com.cn/n2/2026/1013/c386785-41720454.html",
@@ -784,6 +772,54 @@
     "source": "Bing·大学生创业扶持政策",
     "category": "政策",
     "published": "2026-10-12T17:01:00.000Z",
+    "score": 50,
+    "tags": []
+  },
+  {
+    "id": "f5cb39eaf8f6",
+    "title": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
+    "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202606/t20260602_1438600.html",
+    "summary": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
+    "source": "教育部",
+    "category": "政策",
+    "published": "2026-06-02T00:00:00.000Z",
+    "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+    "score": 50,
+    "tags": []
+  },
+  {
+    "id": "a3af074b2b9b",
+    "title": "2026-05-22教育部等八部门办公厅关于联合开展2026年度高校毕业生等重点群体促就业“国聘行动”的通知",
+    "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202605/t20260522_1437356.html",
+    "summary": "2026-05-22教育部等八部门办公厅关于联合开展2026年度高校毕业生等重点群体促就业“国聘行动”的通知",
+    "source": "教育部",
+    "category": "政策",
+    "published": "2026-05-22T00:00:00.000Z",
+    "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+    "score": 50,
+    "tags": []
+  },
+  {
+    "id": "20eed286abd8",
+    "title": "2026-04-24教育部办公厅 人力资源社会保障部办公厅关于开展2026年高校毕业生就业政策宣传活动的通知",
+    "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202604/t20260423_1434600.html",
+    "summary": "2026-04-24教育部办公厅 人力资源社会保障部办公厅关于开展2026年高校毕业生就业政策宣传活动的通知",
+    "source": "教育部",
+    "category": "政策",
+    "published": "2026-04-23T00:00:00.000Z",
+    "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+    "score": 50,
+    "tags": []
+  },
+  {
+    "id": "4a7d237a17a2",
+    "title": "2026-01-16教育部办公厅等四部门关于开展高校毕业生异地求职“双惠”行动的通知",
+    "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202601/t20260115_1426697.html",
+    "summary": "2026-01-16教育部办公厅等四部门关于开展高校毕业生异地求职“双惠”行动的通知",
+    "source": "教育部",
+    "category": "政策",
+    "published": "2026-01-15T00:00:00.000Z",
+    "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
     "score": 50,
     "tags": []
   },
@@ -836,18 +872,6 @@
     "tags": []
   },
   {
-    "id": "8ec1221c56a1",
-    "title": "政策在“稳岗”，就业在“灵活”：预测3.2亿人，意味着什么？",
-    "url": "https://finance.sina.com.cn/wm/2026-07-07/doc-inihaawk4904609.shtml",
-    "summary": "据人民网报道，人社部等四部门近日联合印发通知，宣布延续实施失业保险稳岗返还政策至2026年底。中小微企业按不超过上 ",
-    "source": "就业创业政策",
-    "category": "政策",
-    "published": "2026-07-07T15:54:00.000Z",
-    "image": "//n.sinaimg.cn/spider20260708/762/w1000h562/20260708/771e-e4c6ee58bd7278ca7418011db5739b37.jpg",
-    "score": 50,
-    "tags": []
-  },
-  {
     "id": "b3650e8c29dd",
     "title": "人工智能时代促就业要有新办法",
     "url": "https://theory.gmw.cn/2026-05/27/content_38792352.htm",
@@ -892,17 +916,6 @@
     "category": "就业",
     "published": "2026-09-29T09:00:00.000Z",
     "image": "https://inews.gtimg.com/om_ls/OcE_jnDvgIVcGLQawxLlM6iA0mlHdgUXJl9yQiggQq3EUAA_640330/0",
-    "score": 50,
-    "tags": []
-  },
-  {
-    "id": "f0ebff86f362",
-    "title": "2026年数据分析师证书十大分析：转行求职选哪个？CPDA凭78%成功率领跑",
-    "url": "https://www.cet.com.cn/wzsy/kjzx/10521924.shtml",
-    "summary": "开篇判断：2026年想转行做数据分析师，证书怎么选。 如果你计划在2026年转行进入数据分析领域，核心问题不是\"哪个证书最权威\"，而是\"哪个证书能最快帮我找到工作\"",
-    "source": "就业报告",
-    "category": "就业",
-    "published": "2026-08-25T10:03:00.000Z",
     "score": 50,
     "tags": []
   },
@@ -974,18 +987,6 @@
     "category": "就业",
     "published": "2026-09-06T17:00:00.000Z",
     "image": "",
-    "score": 50,
-    "tags": []
-  },
-  {
-    "id": "fbb028daafa7",
-    "title": "【嵌入式软件】行业市场发展现状：告别“功能实现”，迈向“智能 ...",
-    "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-09-11/doc-inirmmnf2143582.shtml",
-    "summary": "内容概况：中国嵌入式软件行业正处于规模扩张与价值升级的关键窗口期，2025年，中国嵌入式软件行业市场规模约为18295亿元 ",
-    "source": "嵌入式开发·就业分析",
-    "category": "就业",
-    "published": "2026-09-11T03:22:00.000Z",
-    "image": "//n.sinaimg.cn/spider20260911/213/w1672h941/20260911/a3d0-1099504d352a87c87cc3608a30f6ac00.jpg",
     "score": 50,
     "tags": []
   },
@@ -1098,18 +1099,6 @@
     "tags": []
   },
   {
-    "id": "28127a92eac7",
-    "title": "国产嵌入式CPU前景，为何突然被看好?",
-    "url": "https://www.msn.com/zh-cn/技术/硬件和设备/国产嵌入式cpu前景-为何突然被看好/ar-AA2cKgm5",
-    "summary": "相关统计数据显示，2025年中国工业自动化市场规模约2800亿元，工控机约120。4亿元，年需求近500万台；全球边缘计算支出预计从2025年2610亿美元增至2028年3800亿美元，为嵌入式处理器",
-    "source": "嵌入式开发·就业分析",
-    "category": "就业",
-    "published": "2026-09-22T05:59:00.000Z",
-    "image": "",
-    "score": 45,
-    "tags": []
-  },
-  {
     "id": "e2651d75a69f",
     "title": "用年轻人喜欢的方式，打开宝藏图书馆",
     "url": "https://www.chinanews.com.cn/edu/2026/10-14/10714182.shtml",
@@ -1154,18 +1143,6 @@
     "category": "就业",
     "published": "2026-10-12T06:33:32.000Z",
     "image": "https://cdn.v2ex.com/avatar/316f/8de9/246507_large.png?m=1505039172",
-    "score": 40,
-    "tags": []
-  },
-  {
-    "id": "5bb2a7785259",
-    "title": "高校毕业生创业可享税收优惠",
-    "url": "https://finance.sina.com.cn/roll/2026-10-14/doc-inivevcn4532630.shtml",
-    "summary": "今年六七月份毕业离校、选择自主创业的大学生们，目前不少已进入正常纳税申报节奏。西南财经大学财政税务学院教授、院长李建军介绍，按照现行政策，自主创业的高校毕业生完成个体工商户登记并按规定办理《就业创业证",
-    "source": "Bing·高校毕业生就业创业政策",
-    "category": "政策",
-    "published": "2026-10-14T03:14:00.000Z",
-    "image": "",
     "score": 40,
     "tags": []
   },
@@ -1356,6 +1333,15 @@
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/55590552302_145d89d28f_o.jpg?resize=1200,800"
   },
   {
+    "id": "3813289f4d22",
+    "title": "OpenAI models hacked a crypto wallet and breached more websites",
+    "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+    "source": "Ars Technica",
+    "category": "科技",
+    "published": "2026-10-16T20:59:01.000Z",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-1152x648.jpg"
+  },
+  {
     "id": "d28099c5d4fb",
     "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
     "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
@@ -1527,13 +1513,13 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Black-Sea-sailors-rescued-by-Bulgaria-2560x1440.jpg"
   },
   {
-    "id": "cbe7437da2fa",
-    "title": "Microplastics in water aren’t inert and make damaging chemicals on their own",
-    "url": "https://arstechnica.com/science/2026/10/microplastics-in-water-arent-inert-and-make-damaging-chemicals-on-their-own/",
-    "source": "Ars Technica",
-    "category": "科技",
-    "published": "2026-10-15T18:39:17.000Z",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1922961716-2560x1440.jpg"
+    "id": "378ae5f911a1",
+    "title": "铲屎官的快乐老家被我们找到了",
+    "url": "https://www.chinanews.com.cn/sh/2026/10-17/10716058.shtml",
+    "source": "中新网社会",
+    "category": "社会",
+    "published": "2026-10-17T00:47:57.000Z",
+    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
   },
   {
     "id": "82a0cf1bce3c",
@@ -1797,15 +1783,6 @@
     "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
   },
   {
-    "id": "612b1115d03e",
-    "title": "小巷生“万象” 浙江丽水诠释摄影艺术“在地性”",
-    "url": "https://www.chinanews.com.cn/sh/2026/10-16/10715879.shtml",
-    "source": "中新网社会",
-    "category": "社会",
-    "published": "2026-10-16T11:42:36.000Z",
-    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-  },
-  {
     "id": "61591fbb5d08",
     "title": "我国已建成规模最大职业教育体系 产教融合赋能新质生产力",
     "url": "https://www.chinanews.com.cn/edu/2026/10-16/10715661.shtml",
@@ -1887,13 +1864,13 @@
     "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
   },
   {
-    "id": "ff6feece43e1",
-    "title": "金秋送岗 筑梦高新丨青岛高新区秋季校园招聘会走进山东科技大学 ...",
-    "url": "https://www.sohu.com/a/1088689137_121117474",
+    "id": "a2c1b060d7e0",
+    "title": "黑龙江省2027届高校毕业生大型校园招聘会举行",
+    "url": "https://www.workercn.cn/c/2026-10-17/8917928.shtml",
     "source": "Bing·校园招聘",
     "category": "就业",
-    "published": "2026-10-16T11:16:00.000Z",
-    "image": "https://q0.itc.cn/q_70/images03/20261016/6a6a7fe7ea624c71b2daeb7aceefcd2d.png"
+    "published": "2026-10-16T10:33:00.000Z",
+    "image": "https://www.workercn.cn/upload/resources/image/2025/07/30/2521114.png"
   },
   {
     "id": "c4fecd46926c",
@@ -1903,6 +1880,15 @@
     "category": "就业",
     "published": "2026-10-16T11:01:00.000Z",
     "image": "https://inews.gtimg.com/om_ls/OEhlSIaEtgZIH_cZuYF60i_1oUL4W6fJVZNWKQ_I0iBmEAA_640330/0"
+  },
+  {
+    "id": "ff6feece43e1",
+    "title": "金秋送岗 筑梦高新丨青岛高新区秋季校园招聘会走进山东科技大学 ...",
+    "url": "https://www.sohu.com/a/1088689137_121117474",
+    "source": "Bing·校园招聘",
+    "category": "就业",
+    "published": "2026-10-16T11:16:00.000Z",
+    "image": "https://q0.itc.cn/q_70/images03/20261016/6a6a7fe7ea624c71b2daeb7aceefcd2d.png"
   },
   {
     "id": "45e9b5cc8a8e",
@@ -1921,15 +1907,6 @@
     "category": "就业",
     "published": "2026-10-16T03:15:00.000Z",
     "image": "https://inews.gtimg.com/om_ls/OYOP_9ud26xb2eM0jzdmsSnL7kB7m0gJ30Cqaru-tMHckAA_640330/0"
-  },
-  {
-    "id": "8ab70d8c5419",
-    "title": "黑龙江省2027届高校毕业生大型校园招聘会举行",
-    "url": "https://www.news.cn/photo/20261016/b310ee8d847d4dce8d307f78e61efb8d/c.html",
-    "source": "Bing·校园招聘",
-    "category": "就业",
-    "published": "2026-10-16T09:35:00.000Z",
-    "image": "https://www.news.cn/detail2020/images/ewm.png"
   },
   {
     "id": "79b33333609c",
@@ -1964,8 +1941,7 @@
     "url": "https://finance.eastmoney.com/a/202610163898569441.html",
     "source": "Bing·秋招",
     "category": "就业",
-    "published": "2026-10-15T17:01:00.000Z",
-    "image": "https://g1.dfcfw.com/g4/202106/20210618093603.png"
+    "published": "2026-10-15T17:01:00.000Z"
   },
   {
     "id": "e614dc0cda22",
@@ -1977,24 +1953,6 @@
     "image": "https://inews.gtimg.com/om_ls/OnUBVVNuZU3UMWZz756Ol9SL6F35UPFqjxAtTqafKnW9sAA_640330/0"
   },
   {
-    "id": "f5b727ddbc05",
-    "title": "2026年“校园苏州日”全国秋招走进合肥高校",
-    "url": "https://www.thepaper.cn/newsDetail_forward_34254199",
-    "source": "Bing·秋招",
-    "category": "就业",
-    "published": "2026-10-15T02:49:00.000Z",
-    "image": "https://www.thepaper.cn/_next/static/media/logo_rebang.0c68301c.png"
-  },
-  {
-    "id": "3db31f30b28e",
-    "title": "应届生求职频频碰壁，学历不再是优势！启梦未来学装配电工 / 装配 ...",
-    "url": "https://www.sohu.com/a/1088422210_122461651",
-    "source": "Bing·应届生求职",
-    "category": "就业",
-    "published": "2026-10-16T02:58:00.000Z",
-    "image": "//q0.itc.cn/images01/20261016/db3b866378254337b39207aa8b9935a3.jpeg"
-  },
-  {
     "id": "5f06e3963acd",
     "title": "养老看护岗位领跑三季度招聘市场，新质赛道秋招供需活跃",
     "url": "https://finance.sina.com.cn/roll/2026-10-16/doc-inivmprk1584748.shtml",
@@ -2002,15 +1960,6 @@
     "category": "就业",
     "published": "2026-10-16T03:48:00.000Z",
     "image": "//n.sinaimg.cn/spider20261016/414/w1178h836/20261016/d97b-40009cd7d7e2404f6414d79a03b04471.png"
-  },
-  {
-    "id": "9e63e3dbbfee",
-    "title": "推荐一款 AI RPA Agent 平台",
-    "url": "https://www.v2ex.com/t/1249484#reply0",
-    "source": "V2EX·招聘",
-    "category": "就业",
-    "published": "2026-10-16T14:43:09.000Z",
-    "image": "https://cdn.v2ex.com/gravatar/e4bb1a6c4f573998071c122ef9082491?s=73&d=retro"
   },
   {
     "id": "2ac69bb5b173",
@@ -2038,15 +1987,6 @@
     "category": "就业",
     "published": "2026-10-16T09:50:08.000Z",
     "image": "https://cdn.v2ex.com/gravatar/4e80e9bf6c3b1c5e2ad19f45450113ae?s=73&d=retro"
-  },
-  {
-    "id": "6be1988cae5b",
-    "title": "remote 短剧平台测试工程师\r\n薪资范围\r\n15K–25K",
-    "url": "https://www.v2ex.com/t/1249408#reply0",
-    "source": "V2EX·招聘",
-    "category": "就业",
-    "published": "2026-10-16T08:45:10.000Z",
-    "image": "https://cdn.v2ex.com/avatar/4ca8/2782/1056_xlarge.png?m=1789131393"
   },
   {
     "id": "b5297460e3ba",
@@ -2085,15 +2025,6 @@
     "image": "https://cdn.v2ex.com/avatar/2808/a60d/637810_xlarge.png?m=1723008719"
   },
   {
-    "id": "54ebec3897be",
-    "title": "remote 研发组长 20-40k",
-    "url": "https://www.v2ex.com/t/1249329#reply0",
-    "source": "V2EX·招聘",
-    "category": "就业",
-    "published": "2026-10-16T05:06:09.000Z",
-    "image": "https://cdn.v2ex.com/avatar/4ca8/2782/1056_xlarge.png?m=1789131393"
-  },
-  {
     "id": "775fcaf77428",
     "title": "3 年经验，各位大佬看看我的简历有没有什么问题",
     "url": "https://www.v2ex.com/t/1249314#reply4",
@@ -2103,15 +2034,6 @@
     "image": "https://cdn.v2ex.com/gravatar/b6b8d364473dc497f1c0a5ed963d6d61?s=73&d=retro"
   },
   {
-    "id": "96de1bc30e4b",
-    "title": "双非材料本科，有两年远程开发经验， 2027 届求职有点迷茫，求前辈指点",
-    "url": "https://www.v2ex.com/t/1249303#reply6",
-    "source": "V2EX·招聘",
-    "category": "就业",
-    "published": "2026-10-16T03:29:42.000Z",
-    "image": "https://cdn.v2ex.com/gravatar/3d1544b7d5820430821cd06a92a835bc?s=73&d=retro"
-  },
-  {
     "id": "d94634249d23",
     "title": "[佛山][求内推] 求美的 Java / .NET 后端岗位，约 10 年经验，有物联网、MES / SCADA 项目经历",
     "url": "https://www.v2ex.com/t/1249289#reply3",
@@ -2119,33 +2041,6 @@
     "category": "就业",
     "published": "2026-10-16T03:06:31.000Z",
     "image": "https://cdn.v2ex.com/avatar/c714/b600/348695_xlarge.png?m=1639557537"
-  },
-  {
-    "id": "4733cd471445",
-    "title": "企微聊天就和裸聊差不多",
-    "url": "https://www.v2ex.com/t/1249287#reply63",
-    "source": "V2EX·招聘",
-    "category": "就业",
-    "published": "2026-10-16T03:02:24.000Z",
-    "image": "https://cdn.v2ex.com/avatar/7769/a7a3/172554_xlarge.png?m=1791029314"
-  },
-  {
-    "id": "b44c9b939cdb",
-    "title": "[杭州] 3 年以上后端开发程序员，要求基础扎实，有大型项目经验，熟悉 AI 开发技术栈。工资 20K 到 30K，评级定价。有意向者直接回复自己的情况即可。",
-    "url": "https://www.v2ex.com/t/1249276#reply7",
-    "source": "V2EX·招聘",
-    "category": "就业",
-    "published": "2026-10-16T02:43:17.000Z",
-    "image": "https://cdn.v2ex.com/gravatar/3de2468370a1db61d3e282f79a75a282?s=73&d=retro"
-  },
-  {
-    "id": "895f2b3f40cb",
-    "title": "后端现场 AI Coding 面试，有什么经验和建议？",
-    "url": "https://www.v2ex.com/t/1249246#reply23",
-    "source": "V2EX·招聘",
-    "category": "就业",
-    "published": "2026-10-16T01:58:01.000Z",
-    "image": "https://cdn.v2ex.com/avatar/7d9e/0a5e/603723_xlarge.png?m=1715393053"
   },
   {
     "id": "6b6168c345b6",
@@ -2184,15 +2079,6 @@
     "image": "https://cdn.v2ex.com/gravatar/16b66e00883e3baf4c5682f199918b4c?s=73&d=retro"
   },
   {
-    "id": "2eb1587a2cc2",
-    "title": "上海外企一年 contract 的职位： 后端开发（hadoop），英语流利，月薪 60-70k，需要去现场办公",
-    "url": "https://www.v2ex.com/t/1248881#reply0",
-    "source": "V2EX·招聘",
-    "category": "就业",
-    "published": "2026-10-15T00:41:06.000Z",
-    "image": "https://cdn.v2ex.com/avatar/4c83/08d4/221578_xlarge.png?m=1762788791"
-  },
-  {
     "id": "378df3ab12c3",
     "title": "打通岗位对接与就业服务全链条，超6300位求职者来了",
     "url": "https://news.qq.com/rain/a/20261016A0DMLS00",
@@ -2202,12 +2088,13 @@
     "image": "https://inews.gtimg.com/om_ls/OAKATpXbRsWWHd7og56tuPMpKdfaTvs5fFMCtCA6F4qWgAA_640330/0"
   },
   {
-    "id": "27243c440e52",
-    "title": "逾6300名学子参加 “千校万岗”首场招聘，大学生就业引航活动季在 ...",
-    "url": "https://edu.online.sh.cn/education/gb/content/2026-10/16/content_10495554.htm",
+    "id": "85a753b389b5",
+    "title": "服务下沉打通供需 精准施策保障民生——兰州市前三季度城镇新增 ...",
+    "url": "https://news.qq.com/rain/a/20261017A03DI000",
     "source": "Bing·大学生就业政策",
     "category": "政策",
-    "published": "2026-10-15T17:01:00.000Z"
+    "published": "2026-10-16T11:20:00.000Z",
+    "image": "https://inews.gtimg.com/om_ls/OUCtPQ_MbawR_Xr38SqXTS_ccwIa_SVU5yCL_qKsx3eecAA_640330/0"
   },
   {
     "id": "91105e28b79f",
@@ -2217,24 +2104,6 @@
     "category": "政策",
     "published": "2026-10-15T03:25:00.000Z",
     "image": "//n.sinaimg.cn/front20261015ac/394/w1000h994/20261015/bb6b-a3a14eaafc6cbbb6624147d6b21672da.jpg"
-  },
-  {
-    "id": "81902aacd1d6",
-    "title": "【今日关注】教育部门多举措推动高校毕业生高质量充分就业",
-    "url": "https://www.sohu.com/a/1088772736_121124332",
-    "source": "Bing·高校毕业生就业创业政策",
-    "category": "政策",
-    "published": "2026-10-16T01:39:00.000Z",
-    "image": "https://q2.itc.cn/q_70/images03/20261017/3cd114402f904499a5e85857c961be48.jpeg"
-  },
-  {
-    "id": "843fa793d823",
-    "title": "@高校毕业生：创业和灵活就业，这些支持政策别错过",
-    "url": "https://finance.sina.com.cn/wm/2026-10-16/doc-inivmazq1552371.shtml",
-    "source": "Bing·高校毕业生就业创业政策",
-    "category": "政策",
-    "published": "2026-10-15T23:56:00.000Z",
-    "image": "//n.sinaimg.cn/sinakd20261016s/547/w945h402/20261016/8935-e73d4a3ffa69ed592431a349f4c4bb8f.jpg"
   },
   {
     "id": "ffc9c2b29e69",
@@ -2696,6 +2565,15 @@
     "image": "https://static001.infoq.cn/resource/image/96/47/9680d4c5891882845f3632781d652947.jpg"
   },
   {
+    "id": "72e2a5d875cf",
+    "title": "WorkBuddy白送500积分，大家快来领 - 程序员晓凡",
+    "url": "https://www.cnblogs.com/xiezhr/p/23336924",
+    "source": "博客园",
+    "category": "开发",
+    "published": "2026-10-17T00:33:00.000Z",
+    "image": "https://img2024.cnblogs.com/blog/2381533/202610/2381533-20261017083248507-1974129225.png"
+  },
+  {
     "id": "530599ec071a",
     "title": "笛卡尔树 - lvwangshu",
     "url": "https://www.cnblogs.com/lvwangshuOI/p/23332222",
@@ -2865,15 +2743,6 @@
     "category": "开发",
     "published": "2026-10-16T01:38:00.000Z",
     "image": "https://img2024.cnblogs.com/blog/739056/202610/739056-20261016093429407-1060497043.png"
-  },
-  {
-    "id": "783c08a057bd",
-    "title": "UI Composition 技术在传统 Win32 窗口中绘制圆角矩形 - liulun",
-    "url": "https://www.cnblogs.com/liulun/p/23323199",
-    "source": "博客园",
-    "category": "开发",
-    "published": "2026-10-16T01:36:00.000Z",
-    "image": "https://img2024.cnblogs.com/blog/28932/202610/28932-20261016093550206-1643510720.png"
   },
   {
     "id": "db69e12ef94e",
