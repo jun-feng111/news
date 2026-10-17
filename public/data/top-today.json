@@ -1,49 +1,13 @@
 [
   {
-    "id": "4466435dcf8e",
-    "title": "India becomes the latest country to report rogue AI agent activity",
-    "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-    "summary": "India becomes the latest country to report rogue AI agent activity",
+    "id": "6c8620aebf62",
+    "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
+    "url": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
+    "summary": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
     "source": "TechCrunch",
-    "category": "AI",
-    "published": "2026-10-16T17:52:24.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/india-cyber-attack.jpg?w=612",
-    "score": 75,
-    "tags": []
-  },
-  {
-    "id": "0ee63cc50f71",
-    "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-    "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-    "summary": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-    "source": "TechCrunch",
-    "category": "AI",
-    "published": "2026-10-16T16:30:00.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?resize=1200,800",
-    "score": 75,
-    "tags": []
-  },
-  {
-    "id": "33eae345cea5",
-    "title": "Elorian’s first AI model wants to reason with images, not just about them",
-    "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-    "summary": "Elorian’s first AI model wants to reason with images, not just about them",
-    "source": "TechCrunch",
-    "category": "AI",
-    "published": "2026-10-16T16:01:37.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/image-1.png?resize=1200,675",
-    "score": 75,
-    "tags": []
-  },
-  {
-    "id": "805c6efc7dd4",
-    "title": "Jev is Vercel&#8217;s fastest-adopted AI model ever",
-    "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-    "summary": "Jev is Vercel&#8217;s fastest-adopted AI model ever",
-    "source": "TechCrunch",
-    "category": "AI",
-    "published": "2026-10-16T15:33:49.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/vercel-2249343327-smaller.jpg?resize=1200,800",
+    "category": "科技",
+    "published": "2026-10-17T15:30:00.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Ember_Table-with-Phone-Dark-Black-10oz_030326.png?w=1200",
     "score": 75,
     "tags": []
   },
@@ -72,6 +36,42 @@
     "tags": []
   },
   {
+    "id": "4466435dcf8e",
+    "title": "India becomes the latest country to report rogue AI agent activity",
+    "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+    "summary": "India becomes the latest country to report rogue AI agent activity",
+    "source": "TechCrunch",
+    "category": "AI",
+    "published": "2026-10-16T17:52:24.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/india-cyber-attack.jpg?w=612",
+    "score": 70,
+    "tags": []
+  },
+  {
+    "id": "0ee63cc50f71",
+    "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+    "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+    "summary": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+    "source": "TechCrunch",
+    "category": "AI",
+    "published": "2026-10-16T16:30:00.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?resize=1200,800",
+    "score": 70,
+    "tags": []
+  },
+  {
+    "id": "33eae345cea5",
+    "title": "Elorian’s first AI model wants to reason with images, not just about them",
+    "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+    "summary": "Elorian’s first AI model wants to reason with images, not just about them",
+    "source": "TechCrunch",
+    "category": "AI",
+    "published": "2026-10-16T16:01:37.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/image-1.png?resize=1200,675",
+    "score": 70,
+    "tags": []
+  },
+  {
     "id": "45595377d2fe",
     "title": "Waymo&#8217;s robotaxis are headed to Canada",
     "url": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
@@ -80,7 +80,7 @@
     "category": "科技",
     "published": "2026-10-16T16:06:38.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/waymo-ojai.jpg?resize=1200,675",
-    "score": 70,
+    "score": 65,
     "tags": []
   },
   {
@@ -92,7 +92,18 @@
     "category": "AI",
     "published": "2026-10-16T16:00:00.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2066870225.jpg?resize=1200,800",
-    "score": 70,
+    "score": 65,
+    "tags": []
+  },
+  {
+    "id": "0e90f6f5b072",
+    "title": "AI应用层人才缺口暴涨！Java开发者转型AI",
+    "url": "https://blog.csdn.net/2401_85390073/article/details/167888652",
+    "summary": "文章浏览阅读383次。我在一线科技企业深耕十二载，见证过太多因技术更迭而跃迁的案例",
+    "source": "Java开发·就业分析",
+    "category": "就业",
+    "published": "2026-10-14T02:29:00.000Z",
+    "score": 65,
     "tags": []
   },
   {
@@ -104,18 +115,6 @@
     "category": "科技",
     "published": "2026-10-17T02:36:18.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Mark-Wahlberg.jpg?w=1024",
-    "score": 60,
-    "tags": []
-  },
-  {
-    "id": "afe24c616138",
-    "title": "In &#8216;You Can See Everything,&#8217; Elizabeth Holmes meets her equal in comedian Nathan Fielder",
-    "url": "https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/",
-    "summary": "In &#8216;You Can See Everything,&#8217; Elizabeth Holmes meets her equal in comedian Nathan Fielder",
-    "source": "TechCrunch",
-    "category": "科技",
-    "published": "2026-10-16T16:00:00.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/V8_PHASE-1_LOBTS.jpg?resize=1200,900",
     "score": 60,
     "tags": []
   }

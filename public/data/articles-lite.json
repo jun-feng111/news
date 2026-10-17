@@ -1,49 +1,13 @@
 [
   {
-    "id": "4466435dcf8e",
-    "title": "India becomes the latest country to report rogue AI agent activity",
-    "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-    "summary": "India becomes the latest country to report rogue AI agent activity",
+    "id": "6c8620aebf62",
+    "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
+    "url": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
+    "summary": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
     "source": "TechCrunch",
-    "category": "AI",
-    "published": "2026-10-16T17:52:24.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/india-cyber-attack.jpg?w=612",
-    "score": 75,
-    "tags": []
-  },
-  {
-    "id": "0ee63cc50f71",
-    "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-    "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-    "summary": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-    "source": "TechCrunch",
-    "category": "AI",
-    "published": "2026-10-16T16:30:00.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?resize=1200,800",
-    "score": 75,
-    "tags": []
-  },
-  {
-    "id": "33eae345cea5",
-    "title": "Elorian’s first AI model wants to reason with images, not just about them",
-    "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-    "summary": "Elorian’s first AI model wants to reason with images, not just about them",
-    "source": "TechCrunch",
-    "category": "AI",
-    "published": "2026-10-16T16:01:37.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/image-1.png?resize=1200,675",
-    "score": 75,
-    "tags": []
-  },
-  {
-    "id": "805c6efc7dd4",
-    "title": "Jev is Vercel&#8217;s fastest-adopted AI model ever",
-    "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-    "summary": "Jev is Vercel&#8217;s fastest-adopted AI model ever",
-    "source": "TechCrunch",
-    "category": "AI",
-    "published": "2026-10-16T15:33:49.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/vercel-2249343327-smaller.jpg?resize=1200,800",
+    "category": "科技",
+    "published": "2026-10-17T15:30:00.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Ember_Table-with-Phone-Dark-Black-10oz_030326.png?w=1200",
     "score": 75,
     "tags": []
   },
@@ -72,6 +36,42 @@
     "tags": []
   },
   {
+    "id": "4466435dcf8e",
+    "title": "India becomes the latest country to report rogue AI agent activity",
+    "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+    "summary": "India becomes the latest country to report rogue AI agent activity",
+    "source": "TechCrunch",
+    "category": "AI",
+    "published": "2026-10-16T17:52:24.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/india-cyber-attack.jpg?w=612",
+    "score": 70,
+    "tags": []
+  },
+  {
+    "id": "0ee63cc50f71",
+    "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+    "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+    "summary": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+    "source": "TechCrunch",
+    "category": "AI",
+    "published": "2026-10-16T16:30:00.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?resize=1200,800",
+    "score": 70,
+    "tags": []
+  },
+  {
+    "id": "33eae345cea5",
+    "title": "Elorian’s first AI model wants to reason with images, not just about them",
+    "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+    "summary": "Elorian’s first AI model wants to reason with images, not just about them",
+    "source": "TechCrunch",
+    "category": "AI",
+    "published": "2026-10-16T16:01:37.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/image-1.png?resize=1200,675",
+    "score": 70,
+    "tags": []
+  },
+  {
     "id": "45595377d2fe",
     "title": "Waymo&#8217;s robotaxis are headed to Canada",
     "url": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
@@ -80,7 +80,7 @@
     "category": "科技",
     "published": "2026-10-16T16:06:38.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/waymo-ojai.jpg?resize=1200,675",
-    "score": 70,
+    "score": 65,
     "tags": []
   },
   {
@@ -92,7 +92,18 @@
     "category": "AI",
     "published": "2026-10-16T16:00:00.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2066870225.jpg?resize=1200,800",
-    "score": 70,
+    "score": 65,
+    "tags": []
+  },
+  {
+    "id": "0e90f6f5b072",
+    "title": "AI应用层人才缺口暴涨！Java开发者转型AI",
+    "url": "https://blog.csdn.net/2401_85390073/article/details/167888652",
+    "summary": "文章浏览阅读383次。我在一线科技企业深耕十二载，见证过太多因技术更迭而跃迁的案例",
+    "source": "Java开发·就业分析",
+    "category": "就业",
+    "published": "2026-10-14T02:29:00.000Z",
+    "score": 65,
     "tags": []
   },
   {
@@ -104,18 +115,6 @@
     "category": "科技",
     "published": "2026-10-17T02:36:18.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Mark-Wahlberg.jpg?w=1024",
-    "score": 60,
-    "tags": []
-  },
-  {
-    "id": "afe24c616138",
-    "title": "In &#8216;You Can See Everything,&#8217; Elizabeth Holmes meets her equal in comedian Nathan Fielder",
-    "url": "https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/",
-    "summary": "In &#8216;You Can See Everything,&#8217; Elizabeth Holmes meets her equal in comedian Nathan Fielder",
-    "source": "TechCrunch",
-    "category": "科技",
-    "published": "2026-10-16T16:00:00.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/V8_PHASE-1_LOBTS.jpg?resize=1200,900",
     "score": 60,
     "tags": []
   },
@@ -168,6 +167,30 @@
     "tags": []
   },
   {
+    "id": "bb3f30027df1",
+    "title": "智联招聘：三季度应届生招聘供需前五为软件/IT服务、互联网、集成 ...",
+    "url": "https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuxwik0520399.shtml",
+    "summary": "10月12日，智联招聘发布《2026年三季度人才市场热点快报》，报告显示，三季度招聘市场延续以新质生产力为引领的驱动格局，并在此基础上涌现出新的亮点：养老/看护行业以43。9%的职位数同比增速登顶全行",
+    "source": "智联招聘",
+    "category": "就业",
+    "published": "2026-10-11T17:00:00.000Z",
+    "image": "https://n.sinaimg.cn/finance/cece9e13/20240627/655959900_20240627.png",
+    "score": 60,
+    "tags": []
+  },
+  {
+    "id": "5d7947ca3c16",
+    "title": "最新报告：养老服务招聘增速领跑，2027届秋招新质岗位受热捧",
+    "url": "https://cj.sina.com.cn/articles/view/5787187353/158f17899020029q4k",
+    "summary": "10月12日，记者获悉智联招聘发布2026年三季度人才市场热点快报。报告显示，三季度国内招聘市场由新质生产力相关产业持续拉动，养老看护行业职位数同比大涨43",
+    "source": "智联招聘",
+    "category": "就业",
+    "published": "2026-10-12T13:15:00.000Z",
+    "image": "https://k.sinaimg.cn/n/sinakd20261012s/364/w2246h1318/20261012/128f-489ff1b1d96a1e78f682d4c82310e6db.png/w700d1q75cms.jpg",
+    "score": 60,
+    "tags": []
+  },
+  {
     "id": "8564e2cbc333",
     "title": "面了一个 AI Agent 全栈工程师，服了…… | 极客时间",
     "url": "https://finance.sina.com.cn/roll/2026-09-21/doc-inisqeua8942355.shtml",
@@ -177,6 +200,18 @@
     "published": "2026-09-20T21:21:00.000Z",
     "image": "//n.sinaimg.cn/sinakd20260921s/400/w600h600/20260921/a0cf-c0fdf67bc2a043a53244f004ae58e76f.jpg",
     "score": 60,
+    "tags": []
+  },
+  {
+    "id": "afe24c616138",
+    "title": "In &#8216;You Can See Everything,&#8217; Elizabeth Holmes meets her equal in comedian Nathan Fielder",
+    "url": "https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/",
+    "summary": "In &#8216;You Can See Everything,&#8217; Elizabeth Holmes meets her equal in comedian Nathan Fielder",
+    "source": "TechCrunch",
+    "category": "科技",
+    "published": "2026-10-16T16:00:00.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/V8_PHASE-1_LOBTS.jpg?resize=1200,900",
+    "score": 55,
     "tags": []
   },
   {
@@ -240,6 +275,18 @@
     "tags": []
   },
   {
+    "id": "10caa5816735",
+    "title": "2026年三季度哪些工作最热门？养老/看护招聘增速位列榜首",
+    "url": "https://www.sohu.com/a/1087150448_122014422",
+    "summary": "每年第三季度伴随着大量应届生毕业，招聘市场都是一片火热。那么今年究竟哪个行业招聘最热门",
+    "source": "Bing·智联招聘",
+    "category": "就业",
+    "published": "2026-10-13T06:45:00.000Z",
+    "image": "//q4.itc.cn/q_70/images03/20261013/ace574eccee04f8b90aecdd8c5ba690d.png",
+    "score": 55,
+    "tags": []
+  },
+  {
     "id": "e5b1f52c855e",
     "title": "标题： [尋找 AI 時代的 OS 級合伙人] CloudCat（雲貓）—— 基於端雲協同与數據飛輪的 Personal AI OS",
     "url": "https://www.v2ex.com/t/1248790#reply4",
@@ -284,6 +331,29 @@
     "category": "政策",
     "published": "2026-09-18T01:57:00.000Z",
     "image": "",
+    "score": 55,
+    "tags": []
+  },
+  {
+    "id": "7e8838e701e9",
+    "title": "告别“随缘求职”：系统化、数字化重塑应届生求职路径",
+    "url": "http://city.ce.cn/xxfw/202610/t20261010_3253261.shtml",
+    "summary": "金秋十月，新一轮校园招聘大幕全面拉开。各地抢抓“金九银十”窗口期组团入校揽才，各类双选会接续举办，本届校招呈现时间前置、区域联动的新特征",
+    "source": "就业报告",
+    "category": "就业",
+    "published": "2026-10-10T08:21:00.000Z",
+    "image": "http://city.ce.cn/tlad/202411/W020250317593091179057.jpg",
+    "score": 55,
+    "tags": []
+  },
+  {
+    "id": "4a6f6d0430aa",
+    "title": "2027届毕业生破1300万！国央企秋招预计释放超30万岗位！",
+    "url": "https://www.voc.com.cn/news/202608/33470070.html",
+    "summary": "2027届高校毕业生规模预计将突破1300万大关，就业总量压力再创新高。在复杂的就业市场环境下，中央企业与地方国有企业凭借岗位稳定、福利体系完善等优势，已成为应届毕业生求职的核心赛道",
+    "source": "就业报告",
+    "category": "就业",
+    "published": "2026-08-13T01:27:00.000Z",
     "score": 55,
     "tags": []
   },
@@ -342,6 +412,18 @@
     "source": "算法工程师·就业分析",
     "category": "就业",
     "published": "2026-10-04T16:14:00.000Z",
+    "score": 55,
+    "tags": []
+  },
+  {
+    "id": "54028c347041",
+    "title": "工信部公开征求《5G移动通信网 智能网络数据分析（NWDA）总体技术 ...",
+    "url": "https://finance.eastmoney.com/a/202609183878545772.html",
+    "summary": "工信部科技司发布关于公开征求《5G移动通信网智能网络数据分析（NWDA）总体技术要求（第三阶段）》等20项通信行业标准报批意见的公示，根据行业标准制修订计划，相关标准化技术组织已完成《5G移动通信网智",
+    "source": "数据分析·就业分析",
+    "category": "就业",
+    "published": "2026-09-18T07:29:00.000Z",
+    "image": "https://g1.dfcfw.com/g3/201905/20190531140719.png",
     "score": 55,
     "tags": []
   },
@@ -609,18 +691,6 @@
     "tags": []
   },
   {
-    "id": "91105e28b79f",
-    "title": "【政策解读】大学生应征入伍 优待政策来啦→",
-    "url": "https://finance.sina.com.cn/wm/2026-10-15/doc-iniviekn1443572.shtml",
-    "summary": "青春正好，逐梦军营。 对于广大大学生来说， 参军入伍不仅是履行保家卫国的光荣义务， 更是一次难得的人生历练",
-    "source": "Bing·大学生就业政策",
-    "category": "政策",
-    "published": "2026-10-15T03:25:00.000Z",
-    "image": "//n.sinaimg.cn/front20261015ac/394/w1000h994/20261015/bb6b-a3a14eaafc6cbbb6624147d6b21672da.jpg",
-    "score": 50,
-    "tags": []
-  },
-  {
     "id": "72c94e85eb24",
     "title": "就业大局已定？不出意外的话，人社部有望兜底未就业大学生求职 ...",
     "url": "https://www.sohu.com/a/1086813453_122407690",
@@ -645,50 +715,25 @@
     "tags": []
   },
   {
-    "id": "f5cb39eaf8f6",
-    "title": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
-    "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202606/t20260602_1438600.html",
-    "summary": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
-    "source": "教育部",
+    "id": "3307cd598f72",
+    "title": "13条靶向政策、700万元专项经费：湖南湘潭这样托举大学生创业",
+    "url": "https://finance.sina.com.cn/roll/2026-10-14/doc-iniveqvm8449536.shtml",
+    "summary": "中新网湘潭10月14日电 (冯军)“一个大学生来我们这里，先在一楼实习，合格后直接上二楼就业。”湘潭市动漫产业基地负责人田甜说，基地成了不少年轻人从校园走向职场的通道",
+    "source": "Bing·大学生创业扶持政策",
     "category": "政策",
-    "published": "2026-06-02T00:00:00.000Z",
-    "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+    "published": "2026-10-13T23:29:00.000Z",
+    "image": "//n.sinaimg.cn/spider20261014/425/w700h525/20261014/1ae6-040a5248eee4be72bd01c87a7aff69e7.jpg",
     "score": 50,
     "tags": []
   },
   {
-    "id": "a3af074b2b9b",
-    "title": "2026-05-22教育部等八部门办公厅关于联合开展2026年度高校毕业生等重点群体促就业“国聘行动”的通知",
-    "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202605/t20260522_1437356.html",
-    "summary": "2026-05-22教育部等八部门办公厅关于联合开展2026年度高校毕业生等重点群体促就业“国聘行动”的通知",
-    "source": "教育部",
+    "id": "37d80c8fca0a",
+    "title": "山东福彩“一心一驿&#183;筑梦青春”解锁青年创业帮扶新模式",
+    "url": "https://sd.people.com.cn/n2/2026/1013/c386785-41720454.html",
+    "summary": "从传统销售网点到青年创业体验场，山东福彩正为年轻人提供“政策+实操”双重赋能。近期，山东福彩“一心一驿&#183;筑梦青春”系列活动在全省多地陆续开展",
+    "source": "Bing·大学生创业扶持政策",
     "category": "政策",
-    "published": "2026-05-22T00:00:00.000Z",
-    "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
-    "score": 50,
-    "tags": []
-  },
-  {
-    "id": "20eed286abd8",
-    "title": "2026-04-24教育部办公厅 人力资源社会保障部办公厅关于开展2026年高校毕业生就业政策宣传活动的通知",
-    "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202604/t20260423_1434600.html",
-    "summary": "2026-04-24教育部办公厅 人力资源社会保障部办公厅关于开展2026年高校毕业生就业政策宣传活动的通知",
-    "source": "教育部",
-    "category": "政策",
-    "published": "2026-04-23T00:00:00.000Z",
-    "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
-    "score": 50,
-    "tags": []
-  },
-  {
-    "id": "4a7d237a17a2",
-    "title": "2026-01-16教育部办公厅等四部门关于开展高校毕业生异地求职“双惠”行动的通知",
-    "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202601/t20260115_1426697.html",
-    "summary": "2026-01-16教育部办公厅等四部门关于开展高校毕业生异地求职“双惠”行动的通知",
-    "source": "教育部",
-    "category": "政策",
-    "published": "2026-01-15T00:00:00.000Z",
-    "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+    "published": "2026-10-12T17:01:00.000Z",
     "score": 50,
     "tags": []
   },
@@ -701,6 +746,18 @@
     "category": "政策",
     "published": "2026-10-10T09:11:00.000Z",
     "image": "https://q9.itc.cn/q_70/images03/20261010/a8f05c8f68cd4e7899ac49db7dbebbca.jpeg",
+    "score": 50,
+    "tags": []
+  },
+  {
+    "id": "2a91d87df573",
+    "title": "两部门发文，部署开展2026年高校毕业生就业政策宣传活动（附支持 ...",
+    "url": "https://news.qq.com/rain/a/20260424A03VOX00",
+    "summary": "日前，教育部、人力资源社会保障部联合印发通知，部署在全国范围内开展2026年高校毕业生就业政策宣传活动，帮助高校毕业生和用人单位全面了解、精准享受就业优惠政策，促进高校毕业生高质量充分就业。 2026",
+    "source": "就业创业政策",
+    "category": "政策",
+    "published": "2026-04-24T04:00:00.000Z",
+    "image": "https://inews.gtimg.com/om_ls/O6Xv658mguKWdIzfHZpxqIiovf_MXV3Oy4nBy8mAhrpi0AA_640330/0",
     "score": 50,
     "tags": []
   },
@@ -741,26 +798,26 @@
     "tags": []
   },
   {
-    "id": "3b059023de48",
-    "title": "职工医保参保对灵活就业人员更友好（政策解读）",
-    "url": "https://paper.people.com.cn/rmrb/pad/content/202609/09/content_30179938.html",
-    "summary": "北京全职骑手郭永芳因腰椎间盘突出住院半个月，医疗费近5万元，经职工医保报销后个人仅承担少量费用；四川成都全职骑手张元祥因结石手术住院一周，医疗费近万元，医保报销后自费2000元出头。未来，骑手等灵活就",
+    "id": "8ec1221c56a1",
+    "title": "政策在“稳岗”，就业在“灵活”：预测3.2亿人，意味着什么？",
+    "url": "https://finance.sina.com.cn/wm/2026-07-07/doc-inihaawk4904609.shtml",
+    "summary": "据人民网报道，人社部等四部门近日联合印发通知，宣布延续实施失业保险稳岗返还政策至2026年底。中小微企业按不超过上 ",
     "source": "就业创业政策",
     "category": "政策",
-    "published": "2026-09-08T17:01:00.000Z",
-    "image": "",
+    "published": "2026-07-07T15:54:00.000Z",
+    "image": "//n.sinaimg.cn/spider20260708/762/w1000h562/20260708/771e-e4c6ee58bd7278ca7418011db5739b37.jpg",
     "score": 50,
     "tags": []
   },
   {
-    "id": "2a91d87df573",
-    "title": "两部门发文，部署开展2026年高校毕业生就业政策宣传活动（附支持 ...",
-    "url": "https://news.qq.com/rain/a/20260424A03VOX00",
-    "summary": "日前，教育部、人力资源社会保障部联合印发通知，部署在全国范围内开展2026年高校毕业生就业政策宣传活动，帮助高校毕业生和用人单位全面了解、精准享受就业优惠政策，促进高校毕业生高质量充分就业。 2026",
+    "id": "b3650e8c29dd",
+    "title": "人工智能时代促就业要有新办法",
+    "url": "https://theory.gmw.cn/2026-05/27/content_38792352.htm",
+    "summary": "人工智能时代，传统岗位迭代，新兴职业涌现，大学生就业面临总量压力与技术变革的新形势。因此，需要构建与AI时代相适应的就业政策体系，优化政策供给、强化协同联动、推进数字赋能、聚焦精准帮扶，助力毕业生实现",
     "source": "就业创业政策",
     "category": "政策",
-    "published": "2026-04-24T04:00:00.000Z",
-    "image": "https://inews.gtimg.com/om_ls/O6Xv658mguKWdIzfHZpxqIiovf_MXV3Oy4nBy8mAhrpi0AA_640330/0",
+    "published": "2026-05-27T02:44:00.000Z",
+    "image": "",
     "score": 50,
     "tags": []
   },
@@ -773,6 +830,30 @@
     "category": "就业",
     "published": "2026-10-14T03:38:00.000Z",
     "image": "",
+    "score": 50,
+    "tags": []
+  },
+  {
+    "id": "51615d1530aa",
+    "title": "央企招聘的秋招和春招分别在什么时候？哪个机会更多？",
+    "url": "https://www.sohu.com/a/1085809292_122711233",
+    "summary": "很多应届生对央企招聘的印象停留在\"金九银十\"和\"金三银四\"两个模糊的词上，结果要么在九月才开始准备而错过提前批，要么把希望全押在春招上。湖南楚启科技在梳理央国企考情时反复强调：秋招和春招不是两场平行的",
+    "source": "就业报告",
+    "category": "就业",
+    "published": "2026-10-10T01:56:00.000Z",
+    "image": "//q9.itc.cn/images01/20261010/2b5b074f2580472587da805fd8a397d1.jpeg",
+    "score": 50,
+    "tags": []
+  },
+  {
+    "id": "c2b768e011f2",
+    "title": "就业难不是短期波动，普通本科生等到大四再准备，大概率在秋招 ...",
+    "url": "https://news.qq.com/rain/a/20260929A097H300",
+    "summary": "每年秋招一开，网上关于就业难的讨论就会刷屏。很多人以为就业压力只是短期波动，可对27届、28届的普通本科生来说，一场就业大洗牌已经悄然到来",
+    "source": "就业报告",
+    "category": "就业",
+    "published": "2026-09-29T09:00:00.000Z",
+    "image": "https://inews.gtimg.com/om_ls/OcE_jnDvgIVcGLQawxLlM6iA0mlHdgUXJl9yQiggQq3EUAA_640330/0",
     "score": 50,
     "tags": []
   },
@@ -1082,6 +1163,7 @@
     "source": "就业创业政策",
     "category": "政策",
     "published": "2026-07-13T09:50:00.000Z",
+    "image": "",
     "score": 40,
     "tags": []
   },
@@ -1094,18 +1176,6 @@
     "category": "政策",
     "published": "2026-10-07T04:36:00.000Z",
     "image": "https://q9.itc.cn/q_70/images03/20261007/11cb70c1cce4407787a94e18495b565b.jpeg",
-    "score": 40,
-    "tags": []
-  },
-  {
-    "id": "a4b979a0cbf5",
-    "title": "就业帮扶政策重在精准滴灌",
-    "url": "https://theory.gmw.cn/2026-06/22/content_38840679.htm",
-    "summary": "近年来，高校毕业生人数持续攀升，就业总量压力不减，结构性矛盾日益凸显。从中央到地方，从顶层设计到专项政策，稳就业工作持续发力",
-    "source": "就业创业政策",
-    "category": "政策",
-    "published": "2026-06-22T03:09:00.000Z",
-    "image": "",
     "score": 40,
     "tags": []
   },
@@ -1156,6 +1226,15 @@
     "image": "https://n.sinaimg.cn/finance/transform/260/w880h180/20180326/zi4T-fysqfnf9377213.png",
     "score": 40,
     "tags": []
+  },
+  {
+    "id": "805c6efc7dd4",
+    "title": "Jev is Vercel&#8217;s fastest-adopted AI model ever",
+    "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+    "source": "TechCrunch",
+    "category": "科技",
+    "published": "2026-10-16T15:33:49.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/vercel-2249343327-smaller.jpg?resize=1200,800"
   },
   {
     "id": "460fbf9a3796",
@@ -1237,15 +1316,6 @@
     "category": "科技",
     "published": "2026-10-15T20:04:53.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2296215726.jpg?resize=1200,799"
-  },
-  {
-    "id": "d37081d91074",
-    "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-    "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
-    "source": "TechCrunch",
-    "category": "科技",
-    "published": "2026-10-15T19:55:25.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300374993.jpg?w=1024"
   },
   {
     "id": "24e6627150f1",
@@ -1797,13 +1867,13 @@
     "image": "https://q7.itc.cn/q_70/images03/20261017/e23fb4722693468e9071cff05b396a08.jpeg"
   },
   {
-    "id": "63472a23052e",
-    "title": "2027届校园招聘来袭！浙江省建设投资集团宣讲会不容错过！",
-    "url": "https://www.sohu.com/a/1089057260_121956425",
+    "id": "0494c45be2b1",
+    "title": "文华学院举办秋季首场大型校园招聘会",
+    "url": "https://www.sohu.com/a/1089064873_120459638",
     "source": "Bing·校园招聘",
     "category": "就业",
-    "published": "2026-10-16T21:09:00.000Z",
-    "image": ""
+    "published": "2026-10-16T21:52:00.000Z",
+    "image": "https://q3.itc.cn/q_70/images03/20261017/7e343ad0370c4f59a433dd9d631e35c2.jpeg"
   },
   {
     "id": "45e9b5cc8a8e",
@@ -1815,13 +1885,13 @@
     "image": "//n.sinaimg.cn/front20261016ac/482/w900h382/20261016/f0ff-1d8b2729f8a081b60f3fb6dab124f802.jpg"
   },
   {
-    "id": "d811bdecf533",
-    "title": "黑龙江省2027届高校毕业生大型校园招聘会举行#",
-    "url": "https://news.ifeng.com/c/8xGuxjsmE6d",
+    "id": "a2c1b060d7e0",
+    "title": "黑龙江省2027届高校毕业生大型校园招聘会举行",
+    "url": "https://www.workercn.cn/c/2026-10-17/8917928.shtml",
     "source": "Bing·校园招聘",
     "category": "就业",
-    "published": "2026-10-16T09:27:00.000Z",
-    "image": "https://x0.ifengimg.com/res/2026/9C971A313F69A1009AD552B600BF065775A36F83_size1874_w5579_h3517.jpg"
+    "published": "2026-10-17T00:33:00.000Z",
+    "image": "https://www.workercn.cn/upload/resources/image/2025/07/30/2521114.png"
   },
   {
     "id": "c4fecd46926c",
@@ -1842,15 +1912,6 @@
     "image": "https://inews.gtimg.com/om_ls/OYOP_9ud26xb2eM0jzdmsSnL7kB7m0gJ30Cqaru-tMHckAA_640330/0"
   },
   {
-    "id": "2105417e1923",
-    "title": "江苏“秋招”在苏州启幕，四所高校联动搭台，3万+岗位上演双向奔赴！",
-    "url": "https://news.qq.com/rain/a/20261017A0CQ1F00",
-    "source": "Bing·秋招",
-    "category": "就业",
-    "published": "2026-10-16T23:52:00.000Z",
-    "image": "https://inews.gtimg.com/om_ls/OxhSkOqrVGLM6p8-6xs8DJWFK3hnFOfO3Fwx4epbtzRrAAA_640330/0"
-  },
-  {
     "id": "10b223a21cc7",
     "title": "应届生涌向机器人秋招：年薪50万元成“白菜价”，正式offer不好拿",
     "url": "https://finance.sina.com.cn/roll/2026-10-17/doc-inivpfyf6470835.shtml",
@@ -1860,13 +1921,13 @@
     "image": "https://n.sinaimg.cn/finance/transform/260/w880h180/20180326/zi4T-fysqfnf9377213.png"
   },
   {
-    "id": "2cfa1e39709a",
-    "title": "破解秋招焦虑，求职心态如何“校准”？就业导师和心理专家送上攻略",
-    "url": "https://cbgc.scol.com.cn/news/8067709",
+    "id": "2105417e1923",
+    "title": "江苏“秋招”在苏州启幕，四所高校联动搭台，3万+岗位上演双向奔赴！",
+    "url": "https://news.qq.com/rain/a/20261017A0CQ1F00",
     "source": "Bing·秋招",
     "category": "就业",
-    "published": "2026-10-17T00:58:00.000Z",
-    "image": "https://wapcdn.chuanbaoguancha.cn/share.png"
+    "published": "2026-10-16T23:52:00.000Z",
+    "image": "https://inews.gtimg.com/om_ls/OxhSkOqrVGLM6p8-6xs8DJWFK3hnFOfO3Fwx4epbtzRrAAA_640330/0"
   },
   {
     "id": "0e8be574eb36",
@@ -1876,6 +1937,15 @@
     "category": "就业",
     "published": "2026-10-16T05:17:00.000Z",
     "image": "https://inews.gtimg.com/om_ls/Oq9qTjEUuKAs6Fp4sW1XaPTONdcQ9VTnTZAqdr2XpS7gMAA_640330/0"
+  },
+  {
+    "id": "2cfa1e39709a",
+    "title": "破解秋招焦虑，求职心态如何“校准”？就业导师和心理专家送上攻略",
+    "url": "https://cbgc.scol.com.cn/news/8067709",
+    "source": "Bing·秋招",
+    "category": "就业",
+    "published": "2026-10-17T00:58:00.000Z",
+    "image": "https://wapcdn.chuanbaoguancha.cn/share.png"
   },
   {
     "id": "3db31f30b28e",
@@ -1894,15 +1964,6 @@
     "category": "就业",
     "published": "2026-10-16T03:48:00.000Z",
     "image": "//n.sinaimg.cn/spider20261016/414/w1178h836/20261016/d97b-40009cd7d7e2404f6414d79a03b04471.png"
-  },
-  {
-    "id": "6bac9cec5ca1",
-    "title": "北京前沿未来科技产业发展研究院院长陆峰博士受智联招聘邀请给其 ...",
-    "url": "https://www.sohu.com/a/1089047450_100136093",
-    "source": "Bing·智联招聘",
-    "category": "就业",
-    "published": "2026-10-16T20:31:00.000Z",
-    "image": "//q4.itc.cn/images01/20261017/699775de56634caa99a6231b8c51c6a2.jpeg"
   },
   {
     "id": "9d7a200577ac",
@@ -2013,13 +2074,13 @@
     "image": "https://cdn.v2ex.com/avatar/c714/b600/348695_xlarge.png?m=1639557537"
   },
   {
-    "id": "fb5b7fc1d071",
-    "title": "送岗促就业！工会暖心服务走进高校毕业生就业双选会",
-    "url": "https://news.qq.com/rain/a/20261017A0DADB00",
+    "id": "378df3ab12c3",
+    "title": "打通岗位对接与就业服务全链条，超6300位求职者来了",
+    "url": "https://news.qq.com/rain/a/20261016A0DMLS00",
     "source": "Bing·大学生就业政策",
     "category": "政策",
-    "published": "2026-10-17T00:53:00.000Z",
-    "image": "https://inews.gtimg.com/om_ls/OVsRC4cSGnd1wKLNvOQW5rMjUDrJG2NbNivjyVRsF6jwIAA_640330/0"
+    "published": "2026-10-16T14:15:00.000Z",
+    "image": "https://inews.gtimg.com/om_ls/OAKATpXbRsWWHd7og56tuPMpKdfaTvs5fFMCtCA6F4qWgAA_640330/0"
   },
   {
     "id": "678b210ee41e",
@@ -2040,13 +2101,22 @@
     "image": "https://q2.itc.cn/q_70/images03/20261017/3cd114402f904499a5e85857c961be48.jpeg"
   },
   {
-    "id": "d225689fcc25",
-    "title": "第六届长三角区域高校毕业生就业工作交流大会暨江苏省2027届高校 ...",
-    "url": "https://finance.sina.com.cn/wm/2026-10-17/doc-inivpsqk1419099.shtml",
+    "id": "ff46ceae259a",
+    "title": "【就业新闻】天津大学2027届“金秋启航”大型双选会（第二场）暨津 ...",
+    "url": "https://www.sohu.com/a/1089103313_121124028",
     "source": "Bing·高校毕业生就业创业政策",
     "category": "政策",
-    "published": "2026-10-16T22:20:00.000Z",
-    "image": "//n.sinaimg.cn/sinakd20261017s/482/w900h382/20261017/9b9d-dd994c3bec2abf959f5ae0bbfd01ce2a.jpg"
+    "published": "2026-10-17T02:46:00.000Z",
+    "image": "https://q7.itc.cn/q_70/images03/20261017/eb9681889ce94816a500147d2e765681.jpeg"
+  },
+  {
+    "id": "ffc9c2b29e69",
+    "title": "靶向补齐求职短板 西夏区大学生就业创业实训营正式开营",
+    "url": "https://www.sohu.com/a/1088724960_100083002",
+    "source": "Bing·大学生创业扶持政策",
+    "category": "政策",
+    "published": "2026-10-16T13:31:00.000Z",
+    "image": "//q2.itc.cn/images01/20261016/4a46af1395e34bd9b9912912563800bf.jpeg"
   },
   {
     "id": "62767524377d",
@@ -2499,6 +2569,15 @@
     "image": "https://static001.infoq.cn/resource/image/72/02/721d6bd5256f3da61a6e6576af7f5102.jpg"
   },
   {
+    "id": "7f1ac61f0828",
+    "title": "26-10-18周记 - Ghost-Face",
+    "url": "https://www.cnblogs.com/SilverGo/p/23342804",
+    "source": "博客园",
+    "category": "开发",
+    "published": "2026-10-17T17:13:00.000Z",
+    "image": "https://assets.cnblogs.com/images/wechat-share.jpg"
+  },
+  {
     "id": "ab9988c43062",
     "title": "MQTT实战 - Topic设计12条军规：90%的消息混乱都源于命名错误（三） - IT规划师",
     "url": "https://www.cnblogs.com/hugogoos/p/23341432",
@@ -2522,7 +2601,8 @@
     "url": "https://www.cnblogs.com/east4ming/p/23341258",
     "source": "博客园",
     "category": "开发",
-    "published": "2026-10-17T09:12:00.000Z"
+    "published": "2026-10-17T09:12:00.000Z",
+    "image": "https://assets.cnblogs.com/images/wechat-share.jpg"
   },
   {
     "id": "44305ad98ad8",
@@ -2575,7 +2655,8 @@
     "url": "https://www.cnblogs.com/zw-awa/p/23339843",
     "source": "博客园",
     "category": "开发",
-    "published": "2026-10-17T06:51:00.000Z"
+    "published": "2026-10-17T06:51:00.000Z",
+    "image": "https://img2024.cnblogs.com/blog/3791643/202610/3791643-20261017142526693-1670015522.png"
   },
   {
     "id": "f32c605a94d0",
@@ -2668,22 +2749,13 @@
     "image": "https://img2024.cnblogs.com/blog/93789/202610/93789-20261016162432363-643922812.png"
   },
   {
-    "id": "5f64a5cd026f",
-    "title": "一款 3D 游戏全靠 AI 做出来了：完整制作流程公开了 - 梅香萦绕，佳人依偎",
-    "url": "https://www.cnblogs.com/652769324qq/p/23328265",
-    "source": "博客园",
-    "category": "开发",
-    "published": "2026-10-16T08:19:00.000Z",
-    "image": "https://img2024.cnblogs.com/blog/506082/202610/506082-20261016145958179-1867686521.jpg"
-  },
-  {
-    "id": "fd6a1619a57e",
-    "title": "我国取得中级注册安全工程师职业资格人数已达71.6万人",
-    "url": "https://finance.sina.com.cn/jjxw/2026-10-16/doc-inivkwts1544526.shtml",
-    "source": "安全工程师·就业分析",
+    "id": "db69e12ef94e",
+    "title": "人才市场热点报告：养老服务、AI、芯片等领域招聘热度攀升",
+    "url": "https://view.inews.qq.com/a/20261016A06EXI00",
+    "source": "智联招聘",
     "category": "就业",
-    "published": "2026-10-15T21:40:00.000Z",
-    "image": "//n.sinaimg.cn/sinakd20261016s/600/w800h600/20261016/e014-233c150ecaf40d8163a8ff37348c5a30.jpg"
+    "published": "2026-10-16T05:14:00.000Z",
+    "image": "https://inews.gtimg.com/om_ls/OPfqfOuH8V-JsU0ayrEwJK3INZDroB0AP3cFZQTDzdbMMAA_640330/0"
   },
   {
     "id": "85d6a2f75a68",
@@ -2693,6 +2765,15 @@
     "category": "就业",
     "published": "2026-10-16T07:14:00.000Z",
     "image": "https://n.sinaimg.cn/default/feedbackpics/transform/116/w550h366/20180326/4crR-fysqfnf9556418.png"
+  },
+  {
+    "id": "fd6a1619a57e",
+    "title": "我国取得中级注册安全工程师职业资格人数已达71.6万人",
+    "url": "https://finance.sina.com.cn/jjxw/2026-10-16/doc-inivkwts1544526.shtml",
+    "source": "安全工程师·就业分析",
+    "category": "就业",
+    "published": "2026-10-15T21:40:00.000Z",
+    "image": "//n.sinaimg.cn/sinakd20261016s/600/w800h600/20261016/e014-233c150ecaf40d8163a8ff37348c5a30.jpg"
   },
   {
     "id": "d251d4e615cd",
