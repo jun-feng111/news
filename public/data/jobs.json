@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-17T01:09:48.971Z",
-  "count": 122,
+  "updated": "2026-10-17T06:39:07.133Z",
+  "count": 123,
   "sources": {
-    "V2EX": 8,
+    "V2EX": 9,
     "RemoteOK": 99,
     "Remotive": 15,
     "Arbeitnow": 0,
@@ -145,23 +145,46 @@
       "region": "domestic"
     },
     {
-      "id": "v2ex-1249329",
-      "title": "remote 研发组长 20-40k",
-      "company": "andyxinweimin",
+      "id": "v2ex-1249314",
+      "title": "3 年经验，各位大佬看看我的简历有没有什么问题",
+      "company": "dcdyouget",
       "location": "国内",
-      "remote": true,
+      "remote": false,
       "salaryText": "",
       "salaryMin": null,
       "salaryMax": null,
       "salaryCurrency": "CNY",
       "skills": [
-        "go",
-        "golang",
-        "linux"
+        "python",
+        "java",
+        "go"
       ],
       "category": "其他",
       "postedDate": "2026-10-16",
-      "url": "https://www.v2ex.com/t/1249329",
+      "url": "https://www.v2ex.com/t/1249314",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1249289",
+      "title": "[求内推] 求美的 Java / .NET 后端岗位，约 10 年经验，有物联网、MES / SCADA 项目经历",
+      "company": "shigella",
+      "location": "佛山",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "java",
+        "c#",
+        "spring",
+        "redis",
+        "grpc"
+      ],
+      "category": "后端",
+      "postedDate": "2026-10-16",
+      "url": "https://www.v2ex.com/t/1249289",
       "source": "V2EX",
       "region": "domestic"
     },
@@ -1873,36 +1896,6 @@
       "region": "foreign"
     },
     {
-      "id": "remoteok-1137396",
-      "title": "Principal Product Manager",
-      "company": "DomainTools",
-      "location": "Remote",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "product manager",
-        "exec",
-        "infosec",
-        "marketing",
-        "design",
-        "web dev",
-        "scrum",
-        "cloud",
-        "api",
-        "stats",
-        "sales",
-        "engineer"
-      ],
-      "category": "product manager",
-      "postedDate": "2026-09-16",
-      "url": "https://remoteOK.com/remote-jobs/remote-principal-product-manager-domaintools-1137396",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
       "id": "remotive-2091129",
       "title": "Senior Data Scientist",
       "company": "Lemon.io",
@@ -3183,6 +3176,36 @@
       "category": "infosec",
       "postedDate": "2026-08-04",
       "url": "https://remoteOK.com/remote-jobs/remote-operations-engineer-ii-aweber-1136778",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1136094",
+      "title": "Marketing Specialist",
+      "company": "INNERGY",
+      "location": "Austin, Austin, Texas, United States",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "design",
+        "saas",
+        "salesforce",
+        "wordpress",
+        "customer support",
+        "dev",
+        "testing",
+        "marketing",
+        "web dev",
+        "travel",
+        "cloud",
+        "ads"
+      ],
+      "category": "design",
+      "postedDate": "2026-08-04",
+      "url": "https://remoteOK.com/remote-jobs/remote-marketing-specialist-innergy-1136094",
       "source": "RemoteOK",
       "region": "foreign"
     }
