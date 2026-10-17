@@ -107,7 +107,7 @@
       "category": "科技",
       "published": "2026-10-17T02:36:18.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Mark-Wahlberg.jpg?w=1024",
-      "score": 65,
+      "score": 60,
       "tags": []
     },
     {
@@ -133,6 +133,18 @@
       "category": "就业",
       "published": "2026-10-13T00:02:00.000Z",
       "image": "//n.sinaimg.cn/front20261013ac/740/w1080h460/20261013/b299-325967409093bed0442dfc8ab7e2c86e.jpg",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "bef95af25199",
+      "title": "AI面试登场、技术岗扩容 银行秋招释放什么信号？",
+      "url": "https://finance.eastmoney.com/a/202610143895850752.html",
+      "summary": "《国际金融报》记者注意到，无论是人才需求，还是筛选人才的手段，今年银行校招都是“科技感”满满。一方面，不少银行在招聘中特设技术类岗位，大幅增加对科技类人才的需求；另一方面，AI（人工智能）面试逐渐成为",
+      "source": "Bing·秋招",
+      "category": "就业",
+      "published": "2026-10-13T17:00:00.000Z",
+      "image": "https://g1.dfcfw.com/g4/202106/20210618093603.png",
       "score": 60,
       "tags": []
     },
@@ -169,17 +181,6 @@
       "category": "就业",
       "published": "2026-10-11T17:00:00.000Z",
       "image": "https://n.sinaimg.cn/finance/cece9e13/20240627/655959900_20240627.png",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "8564e2cbc333",
-      "title": "面了一个 AI Agent 全栈工程师，服了…… | 极客时间",
-      "url": "https://finance.sina.com.cn/roll/2026-09-21/doc-inisqeua8942355.shtml",
-      "summary": "我相信大家经过用 AI 干活这几年，可能已经离不开它了——写代码让它补，改 bug 让它查，看代码让它讲，分析表格，制作 PPT 等工作，感觉效率翻倍。 作为一名研发，可能老板丢下一句「你搭一个能用的",
-      "source": "全栈工程师·就业分析",
-      "category": "就业",
-      "published": "2026-09-20T21:21:00.000Z",
       "score": 60,
       "tags": []
     }
@@ -260,26 +261,14 @@
       "tags": []
     },
     {
-      "id": "d9be3874471b",
-      "title": "专家释疑：大学毕业生如何享受创业减税优惠政策？",
-      "url": "https://view.inews.qq.com/a/20261009A046MA00",
-      "summary": "今年选择自主创业的高校毕业生不少需要进行纳税申报，税务部门发现大学毕业生创业的税收优惠政策咨询量明显上升。为了支持大学生创业就业，国家出台了一项税收优惠政策",
-      "source": "就业创业政策",
-      "category": "政策",
-      "published": "2026-10-09T03:23:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/O6dqtz1jww4PHmujCcMcat7Y2Pp69lmhjdvMSC0ZWP-mIAA_640330/0",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "f765ef32f3ef",
-      "title": "共青团“千校万岗”2027届首场线下招聘会暨“大学生就业引航活动季 ...",
-      "url": "https://www.sohu.com/a/1087810936_121123849",
-      "summary": "为落实党中央、国务院关于高校毕业生就业工作部署，助力沪上2027届毕业生实现更高质量、更加充分就业，10月14日，共青团“千校万岗”2027届首场线下招聘会暨“大学生就业引航活动季”启动活动，在上海交",
+      "id": "0244d01e6adc",
+      "title": "逾6300名学子参加 “千校万岗”首场招聘，大学生就业引航活动季在 ...",
+      "url": "https://news.qq.com/rain/a/20261015A0ARER00",
+      "summary": "昨天，共青团“千校万岗”2027届首场线下招聘会暨“大学生就业引航活动季”活动在上海交通大学闵行校区霍英东体育馆举办。超6300名学子到场参会，现场气氛热烈",
       "source": "Bing·大学生就业政策",
       "category": "政策",
-      "published": "2026-10-14T14:36:00.000Z",
-      "image": "https://q5.itc.cn/q_70/images03/20261014/798dbbc9b7754174acf7b604d6447eb4.jpeg",
+      "published": "2026-10-15T10:32:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/OvAHuXaTd61qYgHS1OggxVzzAt6sRqPTVTxBS001qd6osAA_640330/0",
       "score": 50,
       "tags": []
     },
@@ -306,56 +295,77 @@
       "image": "https://q9.itc.cn/q_70/images03/20261012/cd8606a98521479794c380930f629c44.jpeg",
       "score": 50,
       "tags": []
+    },
+    {
+      "id": "f1f74189ad6a",
+      "title": "毕业生别独自硬扛！人社部就业兜底，登记即专人对接帮扶",
+      "url": "https://news.qq.com/rain/a/20261012A06BDX00",
+      "summary": "投了上百份简历，面试没几个，是不是自己真的不行。 先别急着否定自己",
+      "source": "Bing·人社部就业创业政策",
+      "category": "政策",
+      "published": "2026-10-12T06:36:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/OXN54SUnRptQ9Q8NiZ-vOnlwq7tAOGT02PWhIRlhGb9H0AA_640330/0",
+      "score": 50,
+      "tags": []
     }
   ],
   "财经": [
     {
-      "id": "997aee20e1b7",
-      "title": "广交会观察：中国企业深耕共建“一带一路”国家市场",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716202.shtml",
+      "id": "0bf480cfd322",
+      "title": "活力中国调研行｜通航满月！探寻平陆运河向海图强的活力密码",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716351.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-17T06:03:02.000Z",
+      "published": "2026-10-17T11:18:17.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "7b468f8f042c",
-      "title": "湖南探索可持续城市更新模式 盘活存量空间打造新消费地标",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716168.shtml",
+      "id": "553715d2c84a",
+      "title": "新品占比创新高！广交会开馆爆单，中国制造圈粉全球→",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716345.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-17T04:56:54.000Z",
+      "published": "2026-10-17T11:01:50.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "6929f7a7e2f9",
-      "title": "海内外企业携7000余件海洋装备及科创成果亮相福州“掘金”",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716182.shtml",
+      "id": "dd003aec1101",
+      "title": "首次突破、历史新高！一组数据感受中国经济澎湃动能",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716343.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-17T04:52:26.000Z",
+      "published": "2026-10-17T10:55:44.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "b1a07a81c6ba",
-      "title": "湖北咸宁举办楚商回乡系列活动 共绘家乡发展蓝图",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716159.shtml",
+      "id": "769a6032622c",
+      "title": "招商银行举办“聚力共链 产业启航”2026年度活动",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716310.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-17T04:48:34.000Z",
+      "published": "2026-10-17T10:00:17.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "ed14b9104628",
-      "title": "浙江制造业一线观察：机器人离进厂打工还有多远？",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716175.shtml",
+      "id": "362262b9d66d",
+      "title": "核安全监管升级护航核电高质量发展",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-17/10716306.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-17T04:43:42.000Z",
+      "published": "2026-10-17T09:59:43.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ],
   "开发": [
+    {
+      "id": "cc84a2f3c45e",
+      "title": "Akka 在 65 个开源项目中测试基于规格的 AI 交付",
+      "url": "https://www.infoq.cn/article/uGNQwpOt5GGAKm2XlEZC?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-10-17T15:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/9b/36/9bb38e3eb710dc5590c5bee33ae0ac36.jpg"
+    },
     {
       "id": "4d3faadca54d",
       "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
@@ -391,15 +401,6 @@
       "category": "开发",
       "published": "2026-10-16T17:00:00.000Z",
       "image": "https://static001.infoq.cn/resource/image/29/bd/29b3aee42c1a6fa10bc2ca40df09e0bd.jpg"
-    },
-    {
-      "id": "d4a705690a03",
-      "title": "AI 生成的代码，怎么才能进得了工程体系？",
-      "url": "https://www.infoq.cn/article/8iKz8xNQvxDfeuxH1QLA?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-10-16T16:56:30.000Z",
-      "image": "https://static001.infoq.cn/resource/image/7c/b2/7c85bd0ce64b1aa58e5c4f09e8c66fb2.jpg"
     }
   ]
 }
