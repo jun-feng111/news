@@ -1,0 +1,7 @@
+{
+  "id": "f2e369ae61f4",
+  "title": "7. console.log 日志打印，ArkTS 代码调试必备方法 - 老陈说编程",
+  "url": "https://www.cnblogs.com/halfcode/p/23345159",
+  "contentZh": "",
+  "contentFull": "\n在学习 ArkTS 语法时，日志打印是最常用的调试方式。把一段提示或一个变量写进日志，就能确认代码有没有按预期执行。ArkTS 内置了 console 对象，其中 console.log 用来按格式化方式输出日志，无需导入即可直接调用。\n动画视频在《7. console.log 日志打印，ArkTS 代码调试必备方法》。\n\nconsole的语法格式\n\nconsole.log(message: string, ...arguments: any[]): void\n\n调用时至少传入要打印的文本；后面还可以追加任意多个可选参数。\n参数说明\nmessage 为 string 类型，必填，表示要打印的文本信息。\narguments 为可选参数，可以传入一个或多个任意类型的数据。运行时这些值会自动转为字符串，再和前面的文本一起输出。\n\n基本用法\nconsole 是 ArkTS 的内置对象，不需要 import，在代码里直接调用：\n\nconsole.log('Hello ArkTS');\nconsole.log('count:', 666);\n\n第一行只传入必填文本。第二行传入两个参数：字符串 'count:' 和数字 666。多个参数之间用英文逗号分隔，语句末尾加上分号。\nArkTS 允许省略分号。为了提高可读性、减少解析歧义，建议仍然写上分号，调用 console.log 时也一样。\n在预览器里查看输出\n写好打印语句后，先打开【日志】面板，再选择【预览器】。第一次加载需要一点时间，稍等片刻即可。\n加载完成后，在运行输出里可以看到实际打印内容。传入多个参数时，各项内容之间以空格分隔，因此第二行的输出是 count: 666，文本和数字在同一行，中间是一个空格。\n\n\n\n"
+}
