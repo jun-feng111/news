@@ -1,5 +1,55 @@
 {
+  "AI": [
+    {
+      "id": "2f6c16309da4",
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "summary": "Disney agrees to hire the majority of Character。AI’s workforce",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-18T16:30:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/01/character-ai-alexa.jpg?resize=1200,675",
+      "score": 80,
+      "tags": []
+    },
+    {
+      "id": "24a6bb2519a4",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "summary": "Meta removes language that raised scraping and AI training concerns",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-17T21:31:32.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "5329074f8958",
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "summary": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-17T18:48:08.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800",
+      "score": 70,
+      "tags": []
+    }
+  ],
   "科技": [
+    {
+      "id": "41c627add3cc",
+      "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
+      "url": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
+      "summary": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-10-18T19:03:38.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/V8_PHASE-1_LOBTS.jpg?resize=1200,900",
+      "score": 75,
+      "tags": []
+    },
     {
       "id": "cc1ff79c0d2e",
       "title": "TechCrunch Mobility: Rivian&#8217;s next act",
@@ -47,69 +97,31 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/porsche-macan-turbo-front-three-quarter.jpeg?resize=1200,800",
       "score": 65,
       "tags": []
-    },
-    {
-      "id": "c2a828c7429b",
-      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-      "summary": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-10-17T20:21:19.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
-      "score": 60,
-      "tags": []
-    }
-  ],
-  "AI": [
-    {
-      "id": "24a6bb2519a4",
-      "title": "Meta removes language that raised scraping and AI training concerns",
-      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-      "summary": "Meta removes language that raised scraping and AI training concerns",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-17T21:31:32.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "5329074f8958",
-      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "summary": "Replit makes OpenAI its default over Anthropic, CEO says",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-17T18:48:08.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "4466435dcf8e",
-      "title": "India becomes the latest country to report rogue AI agent activity",
-      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-      "summary": "India becomes the latest country to report rogue AI agent activity",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-16T17:52:24.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/india-cyber-attack.jpg?w=612",
-      "score": 70,
-      "tags": []
     }
   ],
   "就业": [
     {
-      "id": "24e6627150f1",
-      "title": "Science says your boss should talk less in meetings",
-      "url": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
-      "summary": "Science says your boss should talk less in meetings",
-      "source": "Ars Technica",
+      "id": "2170722f0265",
+      "title": "“未来领袖”专项岗位起薪40-80万元，古茗2027届校园招聘全面开启 ...",
+      "url": "https://finance.sina.com.cn/wm/2026-10-13/doc-inivafqm8141138.shtml",
+      "summary": "10月13日，古茗官方发布消息，2027 届校园招聘全面开启。本次校招重点新增“未来领袖”专项计划，岗位起薪40-80万元",
+      "source": "Bing·校园招聘",
       "category": "就业",
-      "published": "2026-10-17T11:15:11.000Z",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/meetingboredom-1152x648.jpg",
-      "score": 65,
+      "published": "2026-10-13T00:02:00.000Z",
+      "image": "//n.sinaimg.cn/front20261013ac/740/w1080h460/20261013/b299-325967409093bed0442dfc8ab7e2c86e.jpg",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "bef95af25199",
+      "title": "AI面试登场、技术岗扩容 银行秋招释放什么信号？",
+      "url": "https://finance.eastmoney.com/a/202610143895850752.html",
+      "summary": "《国际金融报》记者注意到，无论是人才需求，还是筛选人才的手段，今年银行校招都是“科技感”满满。一方面，不少银行在招聘中特设技术类岗位，大幅增加对科技类人才的需求；另一方面，AI（人工智能）面试逐渐成为",
+      "source": "Bing·秋招",
+      "category": "就业",
+      "published": "2026-10-13T17:00:00.000Z",
+      "image": "https://g1.dfcfw.com/g4/202106/20210618093603.png",
+      "score": 60,
       "tags": []
     },
     {
@@ -147,21 +159,21 @@
       "image": "https://cdn.v2ex.com/gravatar/e701901bb6cfe4991c063f9fc2b8705b?s=73&d=retro",
       "score": 60,
       "tags": []
-    },
-    {
-      "id": "bb3f30027df1",
-      "title": "智联招聘：三季度应届生招聘供需前五为软件/IT服务、互联网、集成 ...",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuxwik0520399.shtml",
-      "summary": "10月12日，智联招聘发布《2026年三季度人才市场热点快报》，报告显示，三季度招聘市场延续以新质生产力为引领的驱动格局，并在此基础上涌现出新的亮点：养老/看护行业以43。9%的职位数同比增速登顶全行",
-      "source": "智联招聘",
-      "category": "就业",
-      "published": "2026-10-11T17:00:00.000Z",
-      "image": "https://n.sinaimg.cn/finance/cece9e13/20240627/655959900_20240627.png",
-      "score": 60,
-      "tags": []
     }
   ],
   "开发": [
+    {
+      "id": "b7e72b660d1a",
+      "title": "聚焦 AI 场景落地与 FDE 创新，2026 人工智能产业大会专项活动在济南举行",
+      "url": "https://www.infoq.cn/article/1XtKjZ1OCyrYTCmb4Zkb?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/1XtKjZ1OCyrYTCmb4Zkb",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-10-16T17:45:51.000Z",
+      "image": "https://static001.infoq.cn/resource/image/8d/1e/8da57fa0a4ebb2ce03bb4d3991e7701e.png",
+      "score": 60,
+      "tags": []
+    },
     {
       "id": "dbced6247c82",
       "title": "范式智能联合睿思智联推出开源一站式生产级AI部署平台 “模域ModelSphere”",
@@ -187,6 +199,18 @@
       "tags": []
     },
     {
+      "id": "d4a705690a03",
+      "title": "AI 生成的代码，怎么才能进得了工程体系？",
+      "url": "https://www.infoq.cn/article/8iKz8xNQvxDfeuxH1QLA?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/8iKz8xNQvxDfeuxH1QLA",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-10-16T16:56:30.000Z",
+      "image": "https://static001.infoq.cn/resource/image/7c/b2/7c85bd0ce64b1aa58e5c4f09e8c66fb2.jpg",
+      "score": 55,
+      "tags": []
+    },
+    {
       "id": "3aa4159bd933",
       "title": "Pi 抛出全新 Agent Harness，还把自己骂了一年的 MCP 装进了核心",
       "url": "https://www.infoq.cn/article/hQOHf1ZXoBs7uMpWJQss?utm_source=rss&amp;utm_medium=article",
@@ -195,30 +219,6 @@
       "category": "开发",
       "published": "2026-10-16T11:53:14.000Z",
       "image": "https://static001.infoq.cn/resource/image/bf/9d/bff17094067fcf8b0b96c4c85166179d.jpg",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "7ba8b8ac5491",
-      "title": "AI 写完代码，谁来验证？手淘 TEKO “写—验—修”自主闭环的工程实践｜QCon上海",
-      "url": "https://www.infoq.cn/article/t3XbHewuN37fsodaprUC?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/t3XbHewuN37fsodaprUC",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-10-16T10:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/35/83/35a675d0f1e00f4907yye71b0486d483.jpg",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "e70cc91c2e6f",
-      "title": "GitLab 漏洞遭利用，可实现未认证数据外泄",
-      "url": "https://www.infoq.cn/article/DfJZA7hp0OhKMpaAIfG0?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/DfJZA7hp0OhKMpaAIfG0",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-10-16T09:16:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/29/bd/29b3aee42c1a6fa10bc2ca40df09e0bd.jpg",
       "score": 55,
       "tags": []
     }
@@ -287,6 +287,30 @@
   ],
   "政策": [
     {
+      "id": "b629f6f51c34",
+      "title": "小成本创业、大生态护航，青岛全周期服务托举青年创业梦",
+      "url": "https://news.qq.com/rain/a/20261012A0713J00",
+      "summary": "当“一人公司”成为AI时代青年创业的新形态，城市之间的竞争不再只是拼政策的力度，而是拼陪跑的精度。“抢人大战”进入下半场，城市靠什么留住年轻人",
+      "source": "Bing·大学生创业扶持政策",
+      "category": "政策",
+      "published": "2026-10-12T07:39:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/OKFVle9Do6ajjLR1KyoXUtOdjbRH-jJVhC5AX9JUY1Q5gAA_640330/0",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "3f74da1e0d30",
+      "title": "两部门发布《全国高校毕业生就业创业支持政策清单》",
+      "url": "https://news.qq.com/rain/a/20260424A0420900",
+      "summary": "新京报讯 日前，教育部、人力资源社会保障部联合印发通知，部署在全国范围内开展2026年高校毕业生就业政策宣传活动，帮助高校毕业生和用人单位全面了解、精准享受就业优惠政策，促进高校毕业生高质量充分就业。",
+      "source": "就业创业政策",
+      "category": "政策",
+      "published": "2026-04-24T04:30:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/O2sNqYWqJ7c1MfVMt8J-AEECQzuB5tHlqknLaCSC6Tn5EAA_640330/0",
+      "score": 55,
+      "tags": []
+    },
+    {
       "id": "e6c32086fd86",
       "title": "最高可贷50万元，湖南优化政策为大学生创业送上金融“活水”",
       "url": "https://edu.rednet.cn/content/646043/52/16288673.html",
@@ -299,50 +323,26 @@
       "tags": []
     },
     {
-      "id": "81902aacd1d6",
-      "title": "【今日关注】教育部门多举措推动高校毕业生高质量充分就业",
-      "url": "https://www.sohu.com/a/1088772736_121124332",
-      "summary": "为推进高校毕业生高质量充分就业，教育部门联合各有关部门推出系列政策举措，推动更多毕业生尽早就业、更好就业。跟教育小微一起来看新华社报道—— 高校毕业生是党和国家宝贵的人才资源，是促进就业的重要群体",
-      "source": "Bing·高校毕业生就业创业政策",
+      "id": "0244d01e6adc",
+      "title": "逾6300名学子参加 “千校万岗”首场招聘，大学生就业引航活动季在 ...",
+      "url": "https://news.qq.com/rain/a/20261015A0ARER00",
+      "summary": "昨天，共青团“千校万岗”2027届首场线下招聘会暨“大学生就业引航活动季”活动在上海交通大学闵行校区霍英东体育馆举办。超6300名学子到场参会，现场气氛热烈",
+      "source": "Bing·大学生就业政策",
       "category": "政策",
-      "published": "2026-10-16T15:39:00.000Z",
-      "image": "https://q2.itc.cn/q_70/images03/20261017/3cd114402f904499a5e85857c961be48.jpeg",
+      "published": "2026-10-15T10:32:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/OvAHuXaTd61qYgHS1OggxVzzAt6sRqPTVTxBS001qd6osAA_640330/0",
       "score": 50,
       "tags": []
     },
     {
-      "id": "f5cb39eaf8f6",
-      "title": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
-      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202606/t20260602_1438600.html",
-      "summary": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
-      "source": "教育部",
+      "id": "67f11d715b7f",
+      "title": "聚焦五大先进制造赛道 装备制造业就业供需对接专场在华南理工举办",
+      "url": "https://news.scut.edu.cn/2026/1012/c41a60658/page.htm",
+      "summary": "学校将继续拓宽优质就业岗位供给，计划于10月16日在大学城校区生活区篮球场、11月13日在五山校区就业育人广场举办校园招聘会，同步启动第四届大学生职业规划大赛、“青春筑梦职场”活动月等系列活动，坚持以",
+      "source": "Bing·大学生就业政策",
       "category": "政策",
-      "published": "2026-06-02T00:00:00.000Z",
-      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "a3af074b2b9b",
-      "title": "2026-05-22教育部等八部门办公厅关于联合开展2026年度高校毕业生等重点群体促就业“国聘行动”的通知",
-      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202605/t20260522_1437356.html",
-      "summary": "2026-05-22教育部等八部门办公厅关于联合开展2026年度高校毕业生等重点群体促就业“国聘行动”的通知",
-      "source": "教育部",
-      "category": "政策",
-      "published": "2026-05-22T00:00:00.000Z",
-      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "20eed286abd8",
-      "title": "2026-04-24教育部办公厅 人力资源社会保障部办公厅关于开展2026年高校毕业生就业政策宣传活动的通知",
-      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202604/t20260423_1434600.html",
-      "summary": "2026-04-24教育部办公厅 人力资源社会保障部办公厅关于开展2026年高校毕业生就业政策宣传活动的通知",
-      "source": "教育部",
-      "category": "政策",
-      "published": "2026-04-23T00:00:00.000Z",
-      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+      "published": "2026-10-12T17:01:00.000Z",
+      "image": "https://news.scut.edu.cn/_js/_portletPlugs/artfuns/css/pre.jpg",
       "score": 50,
       "tags": []
     }
