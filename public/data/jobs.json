@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-18T08:38:37.118Z",
-  "count": 119,
+  "updated": "2026-10-18T13:03:22.953Z",
+  "count": 118,
   "sources": {
-    "V2EX": 8,
+    "V2EX": 7,
     "RemoteOK": 99,
     "Remotive": 12,
     "Arbeitnow": 0,
@@ -138,28 +138,6 @@
       "category": "其他",
       "postedDate": "2026-10-16",
       "url": "https://www.v2ex.com/t/1249364",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1249338",
-      "title": "日本东京 IT 会社 GSD|招 PM/PL、软件开发工程师，正社员/个人事业主，可协助工签",
-      "company": "GSDgsd",
-      "location": "募集",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "python",
-        "java",
-        "c++",
-        "php"
-      ],
-      "category": "产品",
-      "postedDate": "2026-10-16",
-      "url": "https://www.v2ex.com/t/1249338",
       "source": "V2EX",
       "region": "domestic"
     },
