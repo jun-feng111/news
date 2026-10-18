@@ -21,7 +21,7 @@
       "category": "AI",
       "published": "2026-10-17T21:31:32.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -38,6 +38,18 @@
     }
   ],
   "科技": [
+    {
+      "id": "8768eef8cad2",
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "summary": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-10-18T20:37:40.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
+      "score": 75,
+      "tags": []
+    },
     {
       "id": "41c627add3cc",
       "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
@@ -59,7 +71,7 @@
       "category": "科技",
       "published": "2026-10-18T16:05:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Techcrunch-disrupt-RJ-Scaringe.jpg?resize=1200,801",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -71,7 +83,7 @@
       "category": "科技",
       "published": "2026-10-17T20:55:52.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297262633.jpg?resize=1200,800",
-      "score": 70,
+      "score": 65,
       "tags": []
     },
     {
@@ -85,18 +97,56 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Ember_Table-with-Phone-Dark-Black-10oz_030326.png?w=1200",
       "score": 65,
       "tags": []
-    },
+    }
+  ],
+  "财经": [
     {
-      "id": "88bd67ef4a1e",
-      "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
-      "url": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
-      "summary": "Porsche’s electric Macan Turbo is an automotive existential crisis",
+      "id": "22be4d8914e6",
+      "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
+      "url": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
+      "summary": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
       "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-10-16T19:40:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/porsche-macan-turbo-front-three-quarter.jpeg?resize=1200,800",
+      "category": "财经",
+      "published": "2026-10-18T21:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Benchmark2.jpg?w=799",
       "score": 65,
       "tags": []
+    },
+    {
+      "id": "92e908fc7f5b",
+      "title": "科创板多赛道龙头业绩、研发、回购“密集报喜”",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716875.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-10-18T14:29:12.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "a23b40b81913",
+      "title": "（活力中国调研行）借力自贸港 海南科技企业向海向天拓市场",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716844.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-10-18T12:55:49.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "b5ea5bf15d14",
+      "title": "广交会观察：中国外贸何以“惠邻”“富邻”？",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716837.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-10-18T12:45:45.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "6d6ec91e20b1",
+      "title": "中国制造从“我会做”走到“我懂你日子怎么过” 外贸向技术、方案、服务出口升级",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716830.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-10-18T12:35:40.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ],
   "就业": [
@@ -287,30 +337,6 @@
   ],
   "政策": [
     {
-      "id": "b629f6f51c34",
-      "title": "小成本创业、大生态护航，青岛全周期服务托举青年创业梦",
-      "url": "https://news.qq.com/rain/a/20261012A0713J00",
-      "summary": "当“一人公司”成为AI时代青年创业的新形态，城市之间的竞争不再只是拼政策的力度，而是拼陪跑的精度。“抢人大战”进入下半场，城市靠什么留住年轻人",
-      "source": "Bing·大学生创业扶持政策",
-      "category": "政策",
-      "published": "2026-10-12T07:39:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/OKFVle9Do6ajjLR1KyoXUtOdjbRH-jJVhC5AX9JUY1Q5gAA_640330/0",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "3f74da1e0d30",
-      "title": "两部门发布《全国高校毕业生就业创业支持政策清单》",
-      "url": "https://news.qq.com/rain/a/20260424A0420900",
-      "summary": "新京报讯 日前，教育部、人力资源社会保障部联合印发通知，部署在全国范围内开展2026年高校毕业生就业政策宣传活动，帮助高校毕业生和用人单位全面了解、精准享受就业优惠政策，促进高校毕业生高质量充分就业。",
-      "source": "就业创业政策",
-      "category": "政策",
-      "published": "2026-04-24T04:30:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/O2sNqYWqJ7c1MfVMt8J-AEECQzuB5tHlqknLaCSC6Tn5EAA_640330/0",
-      "score": 55,
-      "tags": []
-    },
-    {
       "id": "e6c32086fd86",
       "title": "最高可贷50万元，湖南优化政策为大学生创业送上金融“活水”",
       "url": "https://edu.rednet.cn/content/646043/52/16288673.html",
@@ -335,6 +361,18 @@
       "tags": []
     },
     {
+      "id": "3bda654bd78c",
+      "title": "13条靶向政策、700万元专项经费：湖南湘潭这样托举大学生创业",
+      "url": "https://news.qq.com/rain/a/20261014A07P9B00",
+      "summary": "中新网湘潭10月14日电 (冯军)“一个大学生来我们这里，先在一楼实习，合格后直接上二楼就业。”湘潭市动漫产业基地负责人田甜说，基地成了不少年轻人从校园走向职场的通道",
+      "source": "Bing·大学生就业政策",
+      "category": "政策",
+      "published": "2026-10-14T07:15:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/Ozeq53cLvrv60t4Yum51gIds3rLYBt2GaKF2HNqNs6Cy8AA_640330/0",
+      "score": 50,
+      "tags": []
+    },
+    {
       "id": "67f11d715b7f",
       "title": "聚焦五大先进制造赛道 装备制造业就业供需对接专场在华南理工举办",
       "url": "https://news.scut.edu.cn/2026/1012/c41a60658/page.htm",
@@ -345,53 +383,18 @@
       "image": "https://news.scut.edu.cn/_js/_portletPlugs/artfuns/css/pre.jpg",
       "score": 50,
       "tags": []
-    }
-  ],
-  "财经": [
-    {
-      "id": "92e908fc7f5b",
-      "title": "科创板多赛道龙头业绩、研发、回购“密集报喜”",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716875.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-10-18T14:29:12.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "a23b40b81913",
-      "title": "（活力中国调研行）借力自贸港 海南科技企业向海向天拓市场",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716844.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-10-18T12:55:49.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "b5ea5bf15d14",
-      "title": "广交会观察：中国外贸何以“惠邻”“富邻”？",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716837.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-10-18T12:45:45.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "6d6ec91e20b1",
-      "title": "中国制造从“我会做”走到“我懂你日子怎么过” 外贸向技术、方案、服务出口升级",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716830.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-10-18T12:35:40.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "fc3b8a6a9941",
-      "title": "技术优势转化为市场优势 众多AI新品“圈粉”海外客商",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-18/10716827.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-10-18T12:32:12.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+      "id": "91105e28b79f",
+      "title": "【政策解读】大学生应征入伍 优待政策来啦→",
+      "url": "https://finance.sina.com.cn/wm/2026-10-15/doc-iniviekn1443572.shtml",
+      "summary": "青春正好，逐梦军营。 对于广大大学生来说， 参军入伍不仅是履行保家卫国的光荣义务， 更是一次难得的人生历练",
+      "source": "Bing·大学生就业政策",
+      "category": "政策",
+      "published": "2026-10-15T03:25:00.000Z",
+      "image": "//n.sinaimg.cn/front20261015ac/394/w1000h994/20261015/bb6b-a3a14eaafc6cbbb6624147d6b21672da.jpg",
+      "score": 50,
+      "tags": []
     }
   ]
 }
