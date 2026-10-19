@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T12:20:48.362Z",
+  "updated": "2026-10-19T19:05:05.250Z",
   "count": 118,
   "sources": {
     "V2EX": 7,
@@ -9,6 +9,30 @@
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1250118",
+      "title": "[急招] Backend Engineer（Trading Platform）",
+      "company": "upupxjg",
+      "location": "成都/Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "python",
+        "go",
+        "golang",
+        "docker",
+        "k8s",
+        "linux"
+      ],
+      "category": "后端",
+      "postedDate": "2026-10-19",
+      "url": "https://www.v2ex.com/t/1250118",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1250107",
       "title": "招聘： Position 一： CTO Position 二：市场负责人/市场经理",
@@ -66,23 +90,6 @@
       "category": "其他",
       "postedDate": "2026-10-19",
       "url": "https://www.v2ex.com/t/1250035",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1249951",
-      "title": "我是真的受不了了",
-      "company": "hdonghua",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [],
-      "category": "其他",
-      "postedDate": "2026-10-19",
-      "url": "https://www.v2ex.com/t/1249951",
       "source": "V2EX",
       "region": "domestic"
     },
@@ -148,6 +155,55 @@
       "url": "https://www.v2ex.com/t/1249598",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "remoteok-1137545",
+      "title": "Senior Software Engineer",
+      "company": "Sothebyâs",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "golang",
+        "dev",
+        "senior",
+        "sales",
+        "engineer",
+        "digital nomad"
+      ],
+      "category": "golang",
+      "postedDate": "2026-10-18",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-sothebys-1137545",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1137544",
+      "title": "Senior Backend Engineer",
+      "company": "Rain",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "golang",
+        "finance",
+        "mobile",
+        "senior",
+        "medical",
+        "engineer",
+        "backend"
+      ],
+      "category": "golang",
+      "postedDate": "2026-10-18",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-rain-1137544",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137542",
@@ -1964,29 +2020,6 @@
       "region": "foreign"
     },
     {
-      "id": "remoteok-1137405",
-      "title": "Senior Shopify Developer",
-      "company": "Sanctuary Computer",
-      "location": "Remote",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "dev",
-        "engineer",
-        "senior",
-        "front end",
-        "shopify"
-      ],
-      "category": "dev",
-      "postedDate": "2026-09-18",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-shopify-developer-sanctuary-computer-1137405",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
       "id": "remotive-2091140",
       "title": "Senior Shopify Developer",
       "company": "Sanctuary Computer Inc",
@@ -3039,36 +3072,6 @@
       "category": "sales",
       "postedDate": "2026-08-12",
       "url": "https://remoteOK.com/remote-jobs/remote-surveyor-i-american-bureau-of-shipping-abs-1136592",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1136447",
-      "title": "Staff Software Engineer",
-      "company": "Evolve",
-      "location": "Remote - US",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "dev",
-        "design",
-        "embedded",
-        "sys admin",
-        "infosec",
-        "architecture",
-        "testing",
-        "devops",
-        "cloud",
-        "exec",
-        "engineer",
-        "digital nomad"
-      ],
-      "category": "dev",
-      "postedDate": "2026-08-12",
-      "url": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-evolve-1136447",
       "source": "RemoteOK",
       "region": "foreign"
     }
