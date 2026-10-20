@@ -1,89 +1,101 @@
 {
   "AI": [
     {
-      "id": "57291fadff56",
-      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-      "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
-      "summary": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "id": "baab9c27d2ea",
+      "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+      "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+      "summary": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
       "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-10-20T01:27:03.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_1933.jpg?resize=1200,900",
+      "published": "2026-10-20T13:07:24.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2195703830.jpg?w=1024",
+      "score": 80,
+      "tags": []
+    },
+    {
+      "id": "185426ba2ac3",
+      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+      "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+      "summary": "Eka is worth $1。45B thanks to a physical AI model that has experts raving",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-20T13:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-19-at-1.21.23-PM.png?resize=1200,974",
+      "score": 80,
+      "tags": []
+    },
+    {
+      "id": "30bafa79041d",
+      "title": "Spotify launches paid podcast memberships with perks beyond bonus content",
+      "url": "https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/",
+      "summary": "Spotify launches paid podcast memberships with perks beyond bonus content",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-20T12:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Memberships-1.jpg?resize=1200,675",
+      "score": 80,
+      "tags": []
+    },
+    {
+      "id": "06aafb86abeb",
+      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+      "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+      "summary": "Yelp can now call on your behalf to check wait times at a restaurant",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-20T11:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Yelp-waitlist.jpg?resize=1200,675",
       "score": 75,
       "tags": []
     },
     {
-      "id": "23a6adb9ef6f",
-      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-      "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-      "summary": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      "id": "85e233d0b166",
+      "title": "Otter.ai raises $320 million from General Catalyst&#8217;s growth fund for its meeting tool",
+      "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+      "summary": "ai raises $320 million from General Catalyst&#8217;s growth fund for its meeting tool",
       "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-10-19T19:28:34.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/cyberatttack.jpg?w=612",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "8f613608a7e1",
-      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
-      "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
-      "summary": "Tolan snags $30M for its AI companion that helps users navigate life",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-19T19:00:12.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/tolan.jpg?resize=1200,677",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "1ca7c3eb8354",
-      "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
-      "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
-      "summary": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-19T18:49:04.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/wabi-ios-home.png?resize=1200,1200",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "f94da7fb555a",
-      "title": "Embedded AI evaluators won&#8217;t be an easy solution, Hugging Face&#8217;s policy chief says",
-      "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
-      "summary": "Embedded AI evaluators won&#8217;t be an easy solution, Hugging Face&#8217;s policy chief says",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-19T22:49:27.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4993.jpeg?resize=1200,900",
+      "published": "2026-10-20T11:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/04/Otter-feat.jpg?resize=1200,675",
       "score": 65,
       "tags": []
     }
   ],
   "科技": [
     {
-      "id": "a9300eed29e4",
-      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
-      "summary": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+      "id": "131888a4cac3",
+      "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+      "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
+      "summary": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-10-19T23:39:38.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2236544023.jpeg?resize=1200,800",
-      "score": 70,
+      "published": "2026-10-20T14:13:32.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1233645802.jpg?resize=1200,800",
+      "score": 75,
       "tags": []
     },
     {
-      "id": "37fc3e207694",
-      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
-      "summary": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "id": "fd2ad8026ae3",
+      "title": "Oura adds new fitness metrics to show how workouts impact your body",
+      "url": "https://techcrunch.com/2026/10/20/oura-is-launching-two-new-ways-to-track-and-understand-activity/",
+      "summary": "Oura adds new fitness metrics to show how workouts impact your body",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-10-19T20:09:24.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205217071.jpg?resize=1200,800",
-      "score": 70,
+      "published": "2026-10-20T12:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/Oura_Ring_5_Product-1_Collection.png?resize=1200,800",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "55a52765c341",
+      "title": "SpaceX alum&#8217;s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation",
+      "url": "https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/",
+      "summary": "SpaceX alum&#8217;s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-10-20T13:17:36.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Autonomous-Flight_820-Autoland_2026-09.jpg?resize=1200,675",
+      "score": 65,
       "tags": []
     },
     {
@@ -95,44 +107,70 @@
       "category": "科技",
       "published": "2026-10-20T07:01:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Blackwall-co-founders-l-r-Denis-Prochko-and-Nik-Rozenberg.png?resize=1200,800",
-      "score": 65,
+      "score": 60,
       "tags": []
     },
     {
       "id": "3edce7d95d8a",
       "title": "Walmart&#8217;s Flipkart is quietly building a food delivery challenger in India",
       "url": "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/",
-      "summary": "Walmart&#8217;s Flipkart is quietly building a food delivery challenger in India",
       "source": "TechCrunch",
       "category": "科技",
       "published": "2026-10-20T02:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-649365936.jpg?resize=1200,800",
-      "score": 60,
+      "image": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-649365936.jpg?resize=1200,800"
+    }
+  ],
+  "开发": [
+    {
+      "id": "76ca261f11b7",
+      "title": "Inspired Capital closes $450M fourth fund as New York pushes back on Silicon Valley’s gravitational pull",
+      "url": "https://techcrunch.com/2026/10/20/inspired-capital-closes-450m-fourth-fund-as-new-york-pushes-back-on-silicon-valleys-gravitational-pull/",
+      "summary": "Inspired Capital closes $450M fourth fund as New York pushes back on Silicon Valley’s gravitational ",
+      "source": "TechCrunch",
+      "category": "开发",
+      "published": "2026-10-20T13:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Inspired-Capital.jpg?resize=1200,800",
+      "score": 65,
       "tags": []
     },
     {
-      "id": "67511f2f58d3",
-      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-10-19T18:37:27.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/08/rnuUXh8kprc7HfoRAGgTvZ-1200-80.jpg?w=970"
+      "id": "996f2cb675ab",
+      "title": "主题征文 ｜ 让鸿蒙应用，玩出新可能！",
+      "url": "https://www.infoq.cn/article/D8uCYSG2Sf29ybwp4i2g?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-10-20T18:36:03.000Z",
+      "image": "https://static001.infoq.cn/resource/image/d3/7c/d3683456e5758a5cb2b42b5c9931a47c.jpeg"
+    },
+    {
+      "id": "2d095c23acb5",
+      "title": "处理了 4000 万条消息后，我们总结了 Kafka 有序处理的几个关键设计",
+      "url": "https://www.infoq.cn/article/HoUf1pHD3WcZCK3YMe7m?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-10-20T17:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/3c/f6/3c515d4daa4730afc8b5362ddf694bf6.jpg"
+    },
+    {
+      "id": "3653c5fd4d8e",
+      "title": "Spanner Omni 正式可用：采用软件方案替代谷歌原子钟与文件系统",
+      "url": "https://www.infoq.cn/article/tTpKSzciXEpXuZduywdg?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-10-20T15:22:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/3e/77/3eb4a80a7c140c9b4338f50a2eda1677.jpg"
+    },
+    {
+      "id": "c2be7db72012",
+      "title": "突破长文本推理瓶颈 九章云极Alaya-DFlash2助GLM-5.3解码提速3.41倍",
+      "url": "https://www.infoq.cn/article/mJ5udryLFwjov1pk4Dsq?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-10-20T15:07:31.000Z",
+      "image": "https://static001.infoq.cn/resource/image/92/db/92275fc63ccb76ca391afe9a08606edb.jpg"
     }
   ],
   "就业": [
-    {
-      "id": "5f06e3963acd",
-      "title": "养老看护岗位领跑三季度招聘市场，新质赛道秋招供需活跃",
-      "url": "https://finance.sina.com.cn/roll/2026-10-16/doc-inivmprk1584748.shtml",
-      "summary": "养老/看护行业增速登顶，新质生产力行业继续充当人才需求的稳定支撑。近日，智联招聘发布的《2026年三季度人才市场热点快报》显示，养老/看护行业招聘职位数同比增长43",
-      "source": "Bing·秋招",
-      "category": "就业",
-      "published": "2026-10-16T03:48:00.000Z",
-      "image": "//n.sinaimg.cn/spider20261016/414/w1178h836/20261016/d97b-40009cd7d7e2404f6414d79a03b04471.png",
-      "score": 60,
-      "tags": []
-    },
     {
       "id": "bb3f30027df1",
       "title": "智联招聘：三季度应届生招聘供需前五为软件/IT服务、互联网、集成 ...",
@@ -170,14 +208,25 @@
       "tags": []
     },
     {
-      "id": "5d7947ca3c16",
-      "title": "最新报告：养老服务招聘增速领跑，2027届秋招新质岗位受热捧",
-      "url": "https://cj.sina.com.cn/articles/view/5787187353/158f17899020029q4k",
-      "summary": "10月12日，记者获悉智联招聘发布2026年三季度人才市场热点快报。报告显示，三季度国内招聘市场由新质生产力相关产业持续拉动，养老看护行业职位数同比大涨43",
-      "source": "智联招聘",
+      "id": "22d4cca8b74f",
+      "title": "传统算法工程师要被VLA淘汰了，真的假的？",
+      "url": "https://www.eet-china.com/mp/a514000.html",
+      "summary": "外场射频测试—从选件到实测全流程解析11月4日上海线下技术展：看 AI 算力、人形机器人、智能汽车前沿实物 Demo 2026年过半，自动驾驶行业的技术路线之争愈演愈烈，从2025年端到端大模型全面上",
+      "source": "算法工程师·就业分析",
       "category": "就业",
-      "published": "2026-10-12T13:15:00.000Z",
-      "image": "https://k.sinaimg.cn/n/sinakd20261012s/364/w2246h1318/20261012/128f-489ff1b1d96a1e78f682d4c82310e6db.png/w700d1q75cms.jpg",
+      "published": "2026-08-01T01:40:00.000Z",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "8564e2cbc333",
+      "title": "面了一个 AI Agent 全栈工程师，服了…… | 极客时间",
+      "url": "https://finance.sina.com.cn/roll/2026-09-21/doc-inisqeua8942355.shtml",
+      "summary": "我相信大家经过用 AI 干活这几年，可能已经离不开它了——写代码让它补，改 bug 让它查，看代码让它讲，分析表格，制作 PPT 等工作，感觉效率翻倍。 作为一名研发，可能老板丢下一句「你搭一个能用的",
+      "source": "全栈工程师·就业分析",
+      "category": "就业",
+      "published": "2026-09-20T21:21:00.000Z",
+      "image": "//n.sinaimg.cn/sinakd20260921s/400/w600h600/20260921/a0cf-c0fdf67bc2a043a53244f004ae58e76f.jpg",
       "score": 60,
       "tags": []
     }
@@ -258,26 +307,14 @@
       "tags": []
     },
     {
-      "id": "e6c32086fd86",
-      "title": "最高可贷50万元，湖南优化政策为大学生创业送上金融“活水”",
-      "url": "https://edu.rednet.cn/content/646043/52/16288673.html",
-      "summary": "近日，湖南省出台《关于进一步优化创业担保贷款政策全力支持大学生等重点群体创业的通知》，扩大创业担保贷款覆盖范围、提高贷款额度、降低融资成本，拿出实打实举措，助力青年创新创业。 按照新政策，创业担保贷款",
-      "source": "就业创业政策",
-      "category": "政策",
-      "published": "2026-09-18T01:57:00.000Z",
-      "image": "",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "f765ef32f3ef",
-      "title": "共青团“千校万岗”2027届首场线下招聘会暨“大学生就业引航活动季 ...",
-      "url": "https://www.sohu.com/a/1087810936_121123849",
-      "summary": "为落实党中央、国务院关于高校毕业生就业工作部署，助力沪上2027届毕业生实现更高质量、更加充分就业，10月14日，共青团“千校万岗”2027届首场线下招聘会暨“大学生就业引航活动季”启动活动，在上海交",
+      "id": "e78d3eb5a944",
+      "title": "巾帼启航&#183;职启未来丨2026年河北省女大学生就业专场招聘会在唐山举办",
+      "url": "https://www.sohu.com/a/1088787048_121106842",
+      "summary": "为深入学习贯彻习近平总书记关于就业工作的重要论述精神，紧扣京津冀协同发展战略，搭建巾帼人才供需对接桥梁，推动女大学生高质量充分就业。10月13日，由省妇联主办的巾帼启航&#183;职启未来——2026",
       "source": "Bing·大学生就业政策",
       "category": "政策",
-      "published": "2026-10-14T14:36:00.000Z",
-      "image": "https://q5.itc.cn/q_70/images03/20261014/798dbbc9b7754174acf7b604d6447eb4.jpeg",
+      "published": "2026-10-16T13:09:00.000Z",
+      "image": "https://q7.itc.cn/q_70/images03/20261017/34910147befa4a21a0f45a6c6c039500.png",
       "score": 50,
       "tags": []
     },
@@ -294,110 +331,75 @@
       "tags": []
     },
     {
-      "id": "3bda654bd78c",
-      "title": "13条靶向政策、700万元专项经费：湖南湘潭这样托举大学生创业",
-      "url": "https://news.qq.com/rain/a/20261014A07P9B00",
-      "summary": "中新网湘潭10月14日电 (冯军)“一个大学生来我们这里，先在一楼实习，合格后直接上二楼就业。”湘潭市动漫产业基地负责人田甜说，基地成了不少年轻人从校园走向职场的通道",
-      "source": "Bing·大学生就业政策",
+      "id": "81902aacd1d6",
+      "title": "【今日关注】教育部门多举措推动高校毕业生高质量充分就业",
+      "url": "https://www.sohu.com/a/1088772736_121124332",
+      "summary": "为推进高校毕业生高质量充分就业，教育部门联合各有关部门推出系列政策举措，推动更多毕业生尽早就业、更好就业。跟教育小微一起来看新华社报道—— 高校毕业生是党和国家宝贵的人才资源，是促进就业的重要群体",
+      "source": "Bing·高校毕业生就业创业政策",
       "category": "政策",
-      "published": "2026-10-14T07:15:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/Ozeq53cLvrv60t4Yum51gIds3rLYBt2GaKF2HNqNs6Cy8AA_640330/0",
+      "published": "2026-10-16T15:39:00.000Z",
+      "image": "https://q2.itc.cn/q_70/images03/20261017/3cd114402f904499a5e85857c961be48.jpeg",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "1ec682c41cfa",
+      "title": "加强供需对接 持续指导帮扶——教育部门多举措推动高校毕业生高 ...",
+      "url": "http://www.dangjian.cn/djyw/2026/10/15/detail_202610157838662.html",
+      "summary": "这是教育部门多渠道扩大岗位供给的生动缩影。一段时间以来，教育部会同相关部门紧紧围绕稳定和扩大高校毕业生就业目标，聚焦“金秋启航、寒假暖心、春季攻坚、夏季冲刺”四阶段工作，全力推进高校毕业生就业扩容提质",
+      "source": "Bing·高校毕业生就业创业政策",
+      "category": "政策",
+      "published": "2026-10-14T17:00:00.000Z",
+      "image": "http://www.dangjian.cn/static/imgae/_10.png",
       "score": 50,
       "tags": []
     }
   ],
   "财经": [
     {
-      "id": "59cb3d4d7a23",
-      "title": "今年前三季度中国工业对经济增长贡献率保持在35%左右",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717923.shtml",
+      "id": "2526d9a15057",
+      "title": "金融支持建设北京（京津冀）国际科技创新中心实施方案在京发布",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-20/10718180.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-20T09:06:06.000Z",
+      "published": "2026-10-20T14:27:12.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "24212226de8e",
-      "title": "辽宁面向全球旅行商推广入境游 共商文旅合作路径",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717920.shtml",
+      "id": "046a8038cc6a",
+      "title": "巴黎欧洲金融市场协会总干事称法中合作六大领域前景广阔",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-20/10718167.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-20T09:03:14.000Z",
+      "published": "2026-10-20T14:07:41.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "379213f5866c",
-      "title": "中国首台实船应用大功率极地破冰型吊舱推进器在上海下线",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717914.shtml",
+      "id": "8eda002d50f3",
+      "title": "今年前三季度江西电动汽车出口量创历史同期新高",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-20/10718166.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-20T09:00:56.000Z",
+      "published": "2026-10-20T14:06:09.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "2917c0b059f1",
-      "title": "业界报告称，新经济和AI将成为中国投资主要驱动因素",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717911.shtml",
+      "id": "09709d52e501",
+      "title": "商务部就美以窃取商业秘密为由制裁中国企业答记者问",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-20/10718165.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-20T08:59:36.000Z",
+      "published": "2026-10-20T14:03:22.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "57b023f3a27f",
-      "title": "防范“恩格斯停顿”",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-20/10717879.shtml",
+      "id": "d09faf977c57",
+      "title": "“奇姆肯特-三亚-新加坡”国际定期客运航线开通",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-20/10718163.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-20T08:44:21.000Z",
+      "published": "2026-10-20T14:01:16.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    }
-  ],
-  "开发": [
-    {
-      "id": "2d095c23acb5",
-      "title": "处理了 4000 万条消息后，我们总结了 Kafka 有序处理的几个关键设计",
-      "url": "https://www.infoq.cn/article/HoUf1pHD3WcZCK3YMe7m?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-10-20T17:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/3c/f6/3c515d4daa4730afc8b5362ddf694bf6.jpg"
-    },
-    {
-      "id": "3653c5fd4d8e",
-      "title": "Spanner Omni 正式可用：采用软件方案替代谷歌原子钟与文件系统",
-      "url": "https://www.infoq.cn/article/tTpKSzciXEpXuZduywdg?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-10-20T15:22:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/3e/77/3eb4a80a7c140c9b4338f50a2eda1677.jpg"
-    },
-    {
-      "id": "c2be7db72012",
-      "title": "突破长文本推理瓶颈 九章云极Alaya-DFlash2助GLM-5.3解码提速3.41倍",
-      "url": "https://www.infoq.cn/article/mJ5udryLFwjov1pk4Dsq?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-10-20T15:07:31.000Z",
-      "image": "https://static001.infoq.cn/resource/image/92/db/92275fc63ccb76ca391afe9a08606edb.jpg"
-    },
-    {
-      "id": "15428640c8bf",
-      "title": "AI生成的代码看不懂就扔掉重来：一位首席架构师的 5 条 Agent 编程反常识原则",
-      "url": "https://www.infoq.cn/article/tgqMEJsqXfX6YzAcOiAR?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-10-20T15:05:27.000Z",
-      "image": "https://static001.infoq.cn/resource/image/59/4e/596e83044ac5f817db86768c3f68a44e.png"
-    },
-    {
-      "id": "2df884875b11",
-      "title": "AI Agent 越用越贵？如何借助可观测性平衡性能、质量与成本 ｜ 技术趋势",
-      "url": "https://www.infoq.cn/article/4FreCLUUQb4W4AXUhXo5?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-10-20T14:55:22.000Z",
-      "image": "https://static001.infoq.cn/resource/image/f7/eb/f7yy8b67f9f3bca7dd80499348c2f9eb.jpeg"
     }
   ]
 }
