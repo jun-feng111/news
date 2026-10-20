@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T14:44:48.875Z",
+  "updated": "2026-10-20T19:00:23.605Z",
   "count": 117,
   "sources": {
     "V2EX": 8,
@@ -179,6 +179,34 @@
       "url": "https://www.v2ex.com/t/1249872",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "remoteok-1137547",
+      "title": "Customer Support Consultant hospitality",
+      "company": "SupportYourApp",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "consulting",
+        "customer support",
+        "saas",
+        "infosec",
+        "technical",
+        "dev",
+        "travel",
+        "exec",
+        "medical",
+        "digital nomad"
+      ],
+      "category": "consulting",
+      "postedDate": "2026-10-19",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-consultant-hospitality-supportyourapp-1137547",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137545",
@@ -3006,30 +3034,6 @@
       "category": "dev",
       "postedDate": "2026-08-12",
       "url": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-evolve-1136447",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1136379",
-      "title": "Sales Development Representative Attributeâ",
-      "company": "DoiT",
-      "location": "Remote UK",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "technical",
-        "marketing",
-        "cloud",
-        "microsoft",
-        "exec",
-        "sales"
-      ],
-      "category": "technical",
-      "postedDate": "2026-08-11",
-      "url": "https://remoteOK.com/remote-jobs/",
       "source": "RemoteOK",
       "region": "foreign"
     }
