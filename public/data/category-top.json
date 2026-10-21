@@ -1,6 +1,18 @@
 {
   "AI": [
     {
+      "id": "6510cb8f0e8b",
+      "title": "Mach9 raises $34M after pivoting to AI CAD software",
+      "url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
+      "summary": "Mach9 raises $34M after pivoting to AI CAD software",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-21T13:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/mach9-founders.jpg?resize=1200,800",
+      "score": 80,
+      "tags": []
+    },
+    {
       "id": "d0ed25b4adb5",
       "title": "SpaceX&#8217;s AI business is beating expectations",
       "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
@@ -21,18 +33,6 @@
       "category": "AI",
       "published": "2026-10-20T20:35:10.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/pills-GettyImages-157287767.jpg?resize=1200,800",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "dd509f4a2f7d",
-      "title": "ChatGPT now lets you lock your chats",
-      "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
-      "summary": "ChatGPT now lets you lock your chats",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-20T18:36:53.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
       "score": 75,
       "tags": []
     },
@@ -99,6 +99,15 @@
       "tags": []
     },
     {
+      "id": "dd509f4a2f7d",
+      "title": "ChatGPT now lets you lock your chats",
+      "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-10-20T18:36:53.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800"
+    },
+    {
       "id": "4ef62f095ce7",
       "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
       "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
@@ -106,18 +115,20 @@
       "category": "科技",
       "published": "2026-10-20T17:55:12.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Eric-Schmidt.jpg?w=1024"
-    },
-    {
-      "id": "e272af73262f",
-      "title": "Meta&#8217;s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
-      "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-10-20T17:12:48.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024"
     }
   ],
   "就业": [
+    {
+      "id": "0e90f6f5b072",
+      "title": "AI应用层人才缺口暴涨！Java开发者转型AI",
+      "url": "https://blog.csdn.net/2401_85390073/article/details/167888652",
+      "summary": "文章浏览阅读383次。我在一线科技企业深耕十二载，见证过太多因技术更迭而跃迁的案例",
+      "source": "Java开发·就业分析",
+      "category": "就业",
+      "published": "2026-10-14T02:29:00.000Z",
+      "score": 65,
+      "tags": []
+    },
     {
       "id": "eb8173a64861",
       "title": "美国网络安全招聘市场降温：岗位发布量大降26% AI安全工程师需求 ...",
@@ -131,112 +142,39 @@
       "tags": []
     },
     {
-      "id": "db69e12ef94e",
-      "title": "人才市场热点报告：养老服务、AI、芯片等领域招聘热度攀升",
-      "url": "https://view.inews.qq.com/a/20261016A06EXI00",
-      "summary": "近日，招聘平台（智联招聘）发布2026年三季度人才市场热点快报。报告显示，三季度国内招聘市场由新质生产力相关产业持续拉动，养老看护行业职位数同比大涨43",
-      "source": "智联招聘",
+      "id": "26c8ab7c2bbb",
+      "title": "CyberSN：2026年1-9月美国网络安全职位发布量235786个，同比下降26.4%",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-19/doc-inivumam6837930.shtml",
+      "summary": "从整体趋势来看，企业对于人工智能知识和技能的需求依然旺盛。2026年前九个月，接近15%的网络安全职位招聘信息提及AI相关能力，与2025年同期15",
+      "source": "安全工程师·就业分析",
       "category": "就业",
-      "published": "2026-10-16T05:14:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/OPfqfOuH8V-JsU0ayrEwJK3INZDroB0AP3cFZQTDzdbMMAA_640330/0",
+      "published": "2026-10-19T13:23:00.000Z",
+      "image": "https://n.sinaimg.cn/tech/zcapp2018/doc_qrcode1.png",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "bef95af25199",
+      "title": "AI面试登场、技术岗扩容 银行秋招释放什么信号？",
+      "url": "https://finance.eastmoney.com/a/202610143895850752.html",
+      "summary": "《国际金融报》记者注意到，无论是人才需求，还是筛选人才的手段，今年银行校招都是“科技感”满满。一方面，不少银行在招聘中特设技术类岗位，大幅增加对科技类人才的需求；另一方面，AI（人工智能）面试逐渐成为",
+      "source": "Bing·秋招",
+      "category": "就业",
+      "published": "2026-10-14T15:58:00.000Z",
+      "image": "https://g1.dfcfw.com/g4/202106/20210618093603.png",
       "score": 60,
       "tags": []
     },
     {
-      "id": "9720242fe1be",
-      "title": "报告：养老看护岗位领跑三季度招聘市场，新质赛道秋招供需活跃",
-      "url": "https://news.qq.com/rain/a/20261013A07QCA00",
-      "summary": "10月13日，智联招聘发布2026年三季度人才市场热点快报，报告称，2026年三季度，招聘市场延续以新质生产力为引领的驱动格局，并在此基础上涌现出新的亮点：养老/看护行业以43。9%的职位数同比增速登",
-      "source": "智联招聘",
+      "id": "c03ebd360e48",
+      "title": "紧急：高级 AI 全栈工程师（Agent 方向）高薪 50-75k",
+      "url": "https://www.v2ex.com/t/1250045#reply5",
+      "summary": "紧急：高级 AI 全栈工程师（Agent 方向）高薪 50-75k",
+      "source": "V2EX·招聘",
       "category": "就业",
-      "published": "2026-10-13T07:30:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/OjP3daMHQCMFpN3Ln4Dod2Ip9p5C2J9Hvq1pPJfyHEQSUAA_640330/0",
+      "published": "2026-10-19T07:43:58.000Z",
+      "image": "https://cdn.v2ex.com/gravatar/65e0801fc9aaa6bf6073c06cdd0a0abf?s=73&d=retro",
       "score": 60,
-      "tags": []
-    },
-    {
-      "id": "22d4cca8b74f",
-      "title": "传统算法工程师要被VLA淘汰了，真的假的？",
-      "url": "https://www.eet-china.com/mp/a514000.html",
-      "summary": "外场射频测试—从选件到实测全流程解析11月4日上海线下技术展：看 AI 算力、人形机器人、智能汽车前沿实物 Demo 2026年过半，自动驾驶行业的技术路线之争愈演愈烈，从2025年端到端大模型全面上",
-      "source": "算法工程师·就业分析",
-      "category": "就业",
-      "published": "2026-08-01T01:40:00.000Z",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "8564e2cbc333",
-      "title": "面了一个 AI Agent 全栈工程师，服了…… | 极客时间",
-      "url": "https://finance.sina.com.cn/roll/2026-09-21/doc-inisqeua8942355.shtml",
-      "summary": "我相信大家经过用 AI 干活这几年，可能已经离不开它了——写代码让它补，改 bug 让它查，看代码让它讲，分析表格，制作 PPT 等工作，感觉效率翻倍。 作为一名研发，可能老板丢下一句「你搭一个能用的",
-      "source": "全栈工程师·就业分析",
-      "category": "就业",
-      "published": "2026-09-20T21:21:00.000Z",
-      "image": "//n.sinaimg.cn/sinakd20260921s/400/w600h600/20260921/a0cf-c0fdf67bc2a043a53244f004ae58e76f.jpg",
-      "score": 60,
-      "tags": []
-    }
-  ],
-  "社会": [
-    {
-      "id": "5d51c54ce7ce",
-      "title": "国务院学位办发布《关于做好专业学位研究生以实践成果申请学位工作的意见》",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-19/10717121.shtml",
-      "summary": "中新网10月19日电 据教育部网站消息，为深入贯彻全国教育大会精神，落实《中华人民共和国学位法》，国务院学位办近日发布《关于做好专业学位研究生以实践成果申请学位工作的意见》，就做好专业学位研究生以实践",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-10-19T05:47:21.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "839018e006f2",
-      "title": "第二届区域国别学学科发展与智库建设研讨会举行",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-19/10717032.shtml",
-      "summary": "中新网西安10月19日电 (记者 阿琳娜)由国务院学位委员会区域国别学学科评议组与西北大学联合主办的“第二届区域国别学学科发展与智库建设研讨会”17日在西安开幕，围绕区域国别学学科发展、智库建设、人才",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-10-19T02:45:37.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "406197c80b61",
-      "title": "首都经济贸易大学建校70周年高质量发展大会举行",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-19/10716943.shtml",
-      "summary": "中新网北京10月19日电  七秩峥嵘，风鹏正举。首都经济贸易大学建校70周年高质量发展大会18日在校本部体育馆举行",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-10-19T01:07:22.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "5a8c8ecf4806",
-      "title": "活力中国调研行｜广西职教“出海” 老挝兄弟求学",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-17/10716113.shtml",
-      "summary": "视频：活力中国调研行｜广西职教“出海” 老挝兄弟求学来源：新华社",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-10-17T03:23:01.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "654a0e76a4ec",
-      "title": "我国技能人才新增劳动力平均受教育年限超14年",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-17/10716088.shtml",
-      "summary": "新华社天津10月17日电(记者魏冠宇、栗雅婷)《中国职业教育白皮书》显示，我国技能人才支撑能力全面增强。2025年，全国高等职业教育毕业生582",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-10-17T01:49:56.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
       "tags": []
     }
   ],
@@ -254,6 +192,30 @@
       "tags": []
     },
     {
+      "id": "f765ef32f3ef",
+      "title": "共青团“千校万岗”2027届首场线下招聘会暨“大学生就业引航活动季 ...",
+      "url": "https://www.sohu.com/a/1087810936_121123849",
+      "summary": "为落实党中央、国务院关于高校毕业生就业工作部署，助力沪上2027届毕业生实现更高质量、更加充分就业，10月14日，共青团“千校万岗”2027届首场线下招聘会暨“大学生就业引航活动季”启动活动，在上海交",
+      "source": "Bing·大学生就业政策",
+      "category": "政策",
+      "published": "2026-10-14T14:36:00.000Z",
+      "image": "https://q5.itc.cn/q_70/images03/20261014/798dbbc9b7754174acf7b604d6447eb4.jpeg",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "0244d01e6adc",
+      "title": "逾6300名学子参加 “千校万岗”首场招聘，大学生就业引航活动季在 ...",
+      "url": "https://news.qq.com/rain/a/20261015A0ARER00",
+      "summary": "昨天，共青团“千校万岗”2027届首场线下招聘会暨“大学生就业引航活动季”活动在上海交通大学闵行校区霍英东体育馆举办。超6300名学子到场参会，现场气氛热烈",
+      "source": "Bing·大学生就业政策",
+      "category": "政策",
+      "published": "2026-10-15T10:32:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/OvAHuXaTd61qYgHS1OggxVzzAt6sRqPTVTxBS001qd6osAA_640330/0",
+      "score": 50,
+      "tags": []
+    },
+    {
       "id": "1ec682c41cfa",
       "title": "加强供需对接 持续指导帮扶——教育部门多举措推动高校毕业生高 ...",
       "url": "http://www.dangjian.cn/djyw/2026/10/15/detail_202610157838662.html",
@@ -266,134 +228,157 @@
       "tags": []
     },
     {
-      "id": "f5cb39eaf8f6",
-      "title": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
-      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202606/t20260602_1438600.html",
-      "summary": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
-      "source": "教育部",
+      "id": "ffc9c2b29e69",
+      "title": "靶向补齐求职短板 西夏区大学生就业创业实训营正式开营",
+      "url": "https://www.sohu.com/a/1088724960_100083002",
+      "summary": "从校园到职场，如何让毕业生告别求职迷茫。10月16日，2026年西夏区“大学生就业创业能力实训营”在北方民族大学正式开班，为高校学子量身定制了一堂沉浸式“职场预备课”",
+      "source": "Bing·大学生创业扶持政策",
       "category": "政策",
-      "published": "2026-06-02T00:00:00.000Z",
-      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "a3af074b2b9b",
-      "title": "2026-05-22教育部等八部门办公厅关于联合开展2026年度高校毕业生等重点群体促就业“国聘行动”的通知",
-      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202605/t20260522_1437356.html",
-      "summary": "2026-05-22教育部等八部门办公厅关于联合开展2026年度高校毕业生等重点群体促就业“国聘行动”的通知",
-      "source": "教育部",
-      "category": "政策",
-      "published": "2026-05-22T00:00:00.000Z",
-      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "20eed286abd8",
-      "title": "2026-04-24教育部办公厅 人力资源社会保障部办公厅关于开展2026年高校毕业生就业政策宣传活动的通知",
-      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202604/t20260423_1434600.html",
-      "summary": "2026-04-24教育部办公厅 人力资源社会保障部办公厅关于开展2026年高校毕业生就业政策宣传活动的通知",
-      "source": "教育部",
-      "category": "政策",
-      "published": "2026-04-23T00:00:00.000Z",
-      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+      "published": "2026-10-16T13:31:00.000Z",
+      "image": "//q2.itc.cn/images01/20261016/4a46af1395e34bd9b9912912563800bf.jpeg",
       "score": 50,
       "tags": []
     }
   ],
+  "社会": [
+    {
+      "id": "c5abe269265a",
+      "title": "国际青年福建中医药文化研习营福州开营",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718751.shtml",
+      "source": "中新网社会",
+      "category": "社会",
+      "published": "2026-10-21T13:24:53.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "1ac4e983b410",
+      "title": "又见·长征丨“局部打光了，也得打” 这句话藏着长征胜利的密码",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718749.shtml",
+      "source": "中新网社会",
+      "category": "社会",
+      "published": "2026-10-21T13:22:35.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "11c141c9209c",
+      "title": "何以中国·新时代的长江之歌丨诗意长江焕发蓬勃生机",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718746.shtml",
+      "source": "中新网社会",
+      "category": "社会",
+      "published": "2026-10-21T13:21:17.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "bc6582807390",
+      "title": "26只朱鹮在商洛会峪河湿地野化放飞 朱鹮栖息地向秦岭东段延伸",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718730.shtml",
+      "source": "中新网社会",
+      "category": "社会",
+      "published": "2026-10-21T12:59:01.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "b0e8a53cb437",
+      "title": "第二届全国民政行业职业技能大赛决赛在河南郑州开幕",
+      "url": "https://www.chinanews.com.cn/sh/2026/10-21/10718727.shtml",
+      "source": "中新网社会",
+      "category": "社会",
+      "published": "2026-10-21T12:55:03.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    }
+  ],
   "财经": [
     {
-      "id": "2690d26e01f2",
-      "title": "上海浦东国际机场口岸今年出入境人员总量破3000万人次",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718464.shtml",
+      "id": "2f25204c6c39",
+      "title": "蓝佛安：第33届APEC财长会达成一系列务实成果",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718743.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-21T06:40:19.000Z",
+      "published": "2026-10-21T13:18:20.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "0da38205156c",
-      "title": "10月21日“农产品批发价格200指数”比昨天上升0.22个点",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718472.shtml",
+      "id": "40e7bbd44a2d",
+      "title": "“浙里共赢” 搭台 助浙江储能产业链接全球市场",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718739.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-21T06:37:29.000Z",
+      "published": "2026-10-21T13:15:16.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "c41782314e9f",
-      "title": "四川能源核产业有限公司揭牌 加速布局微型反应堆新赛道",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718451.shtml",
+      "id": "2120ddadbc48",
+      "title": "人工智能技术加速演进 业界如何驭智前行？",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718738.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-21T06:26:56.000Z",
+      "published": "2026-10-21T13:14:32.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "c5efef0720f6",
-      "title": "活力中国调研行丨海口造 惠全国 供全球",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718459.shtml",
+      "id": "1ecaac73ef67",
+      "title": "浙江丽水经开区的“两山”实践：一块革料的绿色突围",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718737.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-21T06:18:02.000Z",
+      "published": "2026-10-21T13:11:44.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "6e01efa29524",
-      "title": "世界在建最大跨径路轨两用悬索桥实现主桥合龙",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718442.shtml",
+      "id": "2d9e83ee932c",
+      "title": "不断提升工业经济运行质效（权威发布）",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-21/10718720.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-21T06:11:15.000Z",
+      "published": "2026-10-21T12:47:07.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ],
   "开发": [
     {
-      "id": "28a820a69a09",
-      "title": "代码迁移准确率从 5.4% 飙至 97.9%！OpenAI 挑战 COBOL，几十年的老系统真能交给 AI 了？",
-      "url": "https://www.infoq.cn/article/LZsVYHAH1jyOtLg6Yiwk?utm_source=rss&amp;utm_medium=article",
+      "id": "c5d784e65d68",
+      "title": "对话亚马逊CTO：仍在招聘初级工程师，关注中国开放模型",
+      "url": "https://www.infoq.cn/article/XxOpQpEMZpdCCYhXxgaE?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-10-21T15:00:29.000Z",
-      "image": "https://static001.infoq.cn/resource/image/23/01/234c78540f60ab210676c015e8f0ae01.png"
+      "published": "2026-10-21T21:18:40.000Z",
+      "image": "https://static001.infoq.cn/resource/image/5b/0e/5be3c32844304bc8a5c180968e2cf90e.png"
     },
     {
-      "id": "e25cababdd7d",
-      "title": "PingCAP 遭大规模数据泄露！黑客声称窃取 10.6TB 数据，涉及 18 万条组织记录",
-      "url": "https://www.infoq.cn/article/2KQlziFu7oBa9Q2ZEZyr?utm_source=rss&amp;utm_medium=article",
+      "id": "9a7a0cf9f5b3",
+      "title": "从试点到规模化落地：制造业领导者如何推动 AI 应用并赢得高管层支持 ｜ 技术趋势",
+      "url": "https://www.infoq.cn/article/Ms3bMt5OcUyYMHwfaXgM?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-10-21T14:52:56.000Z",
-      "image": "https://static001.infoq.cn/resource/image/5b/16/5b0cc8dd861bb7f4150565b57f2a6516.png"
+      "published": "2026-10-21T18:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/14/d4/147e33c627e768cd7af2a43fb99d0bd4.jpeg"
     },
     {
-      "id": "fd990e914512",
-      "title": "17岁Kimi前研究员陈广宇被曝投奔Jeff Dean创业团队，新公司正寻求500亿美元估值",
-      "url": "https://www.infoq.cn/article/yH0DHL8Nil26ES43TeF1?utm_source=rss&amp;utm_medium=article",
+      "id": "b6f9f35a0ab8",
+      "title": "对象存储正在“吃掉”Kafka？Cloudflare 用 R2 重做事件流",
+      "url": "https://www.infoq.cn/article/hEHy8XHKyfwKuyIhpyFe?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-10-21T14:39:11.000Z",
-      "image": "https://static001.infoq.cn/resource/image/b3/48/b3581a77165f0976635b6c8b08d19348.png"
+      "published": "2026-10-21T17:12:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/01/3f/01bcb62aec3cb0a920253941d71a133f.jpg"
     },
     {
-      "id": "c5253fb4dfa3",
-      "title": "Cloudflare 开源面向 AI 智能体的决策模型 Clef",
-      "url": "https://www.infoq.cn/article/iqCrZLLizNkRTpfo2Jrb?utm_source=rss&amp;utm_medium=article",
+      "id": "3617ccb09415",
+      "title": "金融智能分析本体：四大核心要素与五条建设路线",
+      "url": "https://www.infoq.cn/article/Be94YQbRtbWj3pzZ9rSh?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-10-21T13:47:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/84/d2/84e1d6b5d7aa376722cb0112ba02f6d2.jpg"
+      "published": "2026-10-21T16:13:17.000Z",
+      "image": "https://static001.infoq.cn/resource/image/11/7c/1118bb687cb35e6af0b66614b3130e7c.png"
     },
     {
-      "id": "60deed89f3a5",
-      "title": "Agent 删库频频发生，几十年前就有的数据库防呆机制不管用了？",
-      "url": "https://www.infoq.cn/article/2Z056Q54wWa6vAIQKsqJ?utm_source=rss&amp;utm_medium=article",
+      "id": "b1b9f8763d53",
+      "title": "欧洲专家：追求 100% 技术主权，是一种天真的想法",
+      "url": "https://www.infoq.cn/article/6L1Bqr8iNdVT6Cgq22QH?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-10-21T12:10:15.000Z",
-      "image": "https://static001.infoq.cn/resource/image/07/14/0758dbe55c1e71fe682c96d2fda58514.png"
+      "published": "2026-10-21T16:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/ca/0b/cae5e7109378de33e97a66868164130b.jpg"
     }
   ]
 }
