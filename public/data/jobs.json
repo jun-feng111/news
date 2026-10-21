@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T01:21:48.274Z",
+  "updated": "2026-10-21T07:10:40.306Z",
   "count": 116,
   "sources": {
     "V2EX": 7,
@@ -9,6 +9,26 @@
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1250585",
+      "title": "蚂蚁集团—OceanBase—招人招人",
+      "company": "beixun",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "java",
+        "k8s"
+      ],
+      "category": "其他",
+      "postedDate": "2026-10-21",
+      "url": "https://www.v2ex.com/t/1250585",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1250343",
       "title": "马来西亚招聘｜ Google 百度 SEO",
@@ -136,25 +156,6 @@
       "category": "算法/AI",
       "postedDate": "2026-10-19",
       "url": "https://www.v2ex.com/t/1249872",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1249598",
-      "title": "SHEIN 内推：算法、 Java 后台、测试、数据/数仓、安全、架构、前端等， 20-90k。10.17 更新",
-      "company": "rowena1225",
-      "location": "南京",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "java"
-      ],
-      "category": "前端",
-      "postedDate": "2026-10-17",
-      "url": "https://www.v2ex.com/t/1249598",
       "source": "V2EX",
       "region": "domestic"
     },
