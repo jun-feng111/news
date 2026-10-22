@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-21T22:10:08.272Z",
-  "count": 117,
+  "updated": "2026-10-22T01:17:57.367Z",
+  "count": 116,
   "sources": {
-    "V2EX": 8,
+    "V2EX": 7,
     "RemoteOK": 99,
     "Remotive": 10,
     "Arbeitnow": 0,
@@ -69,25 +69,6 @@
       "category": "设计",
       "postedDate": "2026-10-21",
       "url": "https://www.v2ex.com/t/1250692",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1250655",
-      "title": "2026 年 Java 开发薪资行情如何？现在找工作普遍降薪了吗？",
-      "company": "freefreef",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "java"
-      ],
-      "category": "其他",
-      "postedDate": "2026-10-21",
-      "url": "https://www.v2ex.com/t/1250655",
       "source": "V2EX",
       "region": "domestic"
     },
@@ -170,6 +151,35 @@
       "url": "https://www.v2ex.com/t/1250118",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "remoteok-1137550",
+      "title": "Clinical Data Manager",
+      "company": "Penumbra",
+      "location": "Your Remote US Home Office",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "exec",
+        "sys admin",
+        "infosec",
+        "education",
+        "technical",
+        "customer support",
+        "travel",
+        "excel",
+        "sales",
+        "biotech",
+        "medical"
+      ],
+      "category": "exec",
+      "postedDate": "2026-10-21",
+      "url": "https://remoteOK.com/remote-jobs/remote-clinical-data-manager-penumbra-1137550",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137548",
@@ -1813,36 +1823,6 @@
       "category": "product manager",
       "postedDate": "2026-09-23",
       "url": "https://remoteOK.com/remote-jobs/remote-technical-product-manager-ai-stockbroking-app-bjak-1137421",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137418",
-      "title": "Junior Digital Assets Operations Analyst",
-      "company": "Omega Enterprises",
-      "location": "Remote",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "other",
-        "crypto",
-        "remote",
-        "education",
-        "web3",
-        "bitcoin",
-        "ethereum",
-        "part time",
-        "finance",
-        "blockchain",
-        "defi",
-        "junior"
-      ],
-      "category": "other",
-      "postedDate": "2026-09-22",
-      "url": "https://remoteOK.com/remote-jobs/remote-junior-digital-assets-operations-analyst-omega-enterprises-1137418",
       "source": "RemoteOK",
       "region": "foreign"
     },
