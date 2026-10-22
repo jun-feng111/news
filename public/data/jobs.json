@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T01:17:57.367Z",
+  "updated": "2026-10-22T07:11:55.007Z",
   "count": 116,
   "sources": {
     "V2EX": 7,
@@ -9,6 +9,83 @@
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1250940",
+      "title": "老哥们，你们焦虑吗？未来的某天就会被突然失业，这几乎是必然，但自己别的什么也不会",
+      "company": "Eension",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [],
+      "category": "其他",
+      "postedDate": "2026-10-22",
+      "url": "https://www.v2ex.com/t/1250940",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1250894",
+      "title": "招聘 llvm / mlir / ai 编译器 相关岗位(不限年龄)",
+      "company": "fallshuang",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "python"
+      ],
+      "category": "算法/AI",
+      "postedDate": "2026-10-22",
+      "url": "https://www.v2ex.com/t/1250894",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1250883",
+      "title": "招聘 FPGA 工程师，欢迎投递",
+      "company": "emery223",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [],
+      "category": "人力/HR",
+      "postedDate": "2026-10-22",
+      "url": "https://www.v2ex.com/t/1250883",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1250841",
+      "title": "短剧公司招远程 Golang 后端工程师 20-40k 面议",
+      "company": "andyxinweimin",
+      "location": "国内",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "go",
+        "golang",
+        "docker",
+        "aws",
+        "linux",
+        "mongodb"
+      ],
+      "category": "后端",
+      "postedDate": "2026-10-22",
+      "url": "https://www.v2ex.com/t/1250841",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1250726",
       "title": "LLM 应用研发工程师 远程 急急急",
@@ -69,86 +146,6 @@
       "category": "设计",
       "postedDate": "2026-10-21",
       "url": "https://www.v2ex.com/t/1250692",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1250585",
-      "title": "蚂蚁集团—OceanBase—招人招人",
-      "company": "beixun",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "java",
-        "k8s"
-      ],
-      "category": "其他",
-      "postedDate": "2026-10-21",
-      "url": "https://www.v2ex.com/t/1250585",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1250343",
-      "title": "马来西亚招聘｜ Google 百度 SEO",
-      "company": "darsy",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "go"
-      ],
-      "category": "人力/HR",
-      "postedDate": "2026-10-20",
-      "url": "https://www.v2ex.com/t/1250343",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1250274",
-      "title": "成都国企科技公司招聘软件开发工程师",
-      "company": "imaginefish",
-      "location": "智慧城市方向",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [],
-      "category": "人力/HR",
-      "postedDate": "2026-10-20",
-      "url": "https://www.v2ex.com/t/1250274",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1250118",
-      "title": "[急招] Backend Engineer（Trading Platform）",
-      "company": "upupxjg",
-      "location": "成都/Remote",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "python",
-        "go",
-        "golang",
-        "docker",
-        "k8s",
-        "linux"
-      ],
-      "category": "后端",
-      "postedDate": "2026-10-19",
-      "url": "https://www.v2ex.com/t/1250118",
       "source": "V2EX",
       "region": "domestic"
     },

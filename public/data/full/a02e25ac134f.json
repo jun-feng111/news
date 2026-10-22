@@ -1,0 +1,7 @@
+{
+  "id": "a02e25ac134f",
+  "title": "GitHub 通过 AI 辅助重构，将 Copilot 运行时迁移至 Rust",
+  "url": "https://www.infoq.cn/article/zGqDWHF8tHDtlYcImAJS?utm_source=rss&amp;utm_medium=article",
+  "contentZh": "",
+  "contentFull": "GitHub 已将 GitHub Copilot CLI、Copilot 应用和 Copilot SDK 背后的运行时 从 TypeScript 和 Node.js 迁移到了 Rust，通过 AI 辅助重写替换了超过 800000 行代码。这次迁移耗时约 14.5 周，包含 128 个 PR，迁移期间 GitHub 仍持续发布该运行时版本。GitHub 报告称，对于客户端启动、会话创建与单轮交互场景，旧运行时耗时 5.25 秒，Rust 运行时进程内嵌入后耗时降至 292 毫秒。这次迁移还改变了应用与运行时的集成方式。之前的实现需要 Node.js 和 V8，并通过进程边界与宿主应用通信。GitHub 称这会为每个客户端增加约 100MB 工作集内存。而 Rust 实现可以通过 C ABI 直接嵌入到宿主应用中，同时保留独立进程模式可选。Copilot SDK 目前支持 TypeScript、Python、Go、.NET、Java 和 Rust。GitHub 采用了增量替换策略，而不是先并行重写再进行一次性切换。各个 TypeScript ��件被 Rust 实现逐一替换，期间通过临时的 N API 互操作层连接两者。这使得现有的端到端测试能够在其他组件仍使用 TypeScript 的情况下测试新代码。GitHub 在迁移期间发布了 135 个版本，包括 35 个稳定版和 100 个预发布版。该兼容层在移除前，内部 N API 导出项达到 2019 个，TypeScript 调用点共 3356 处。截至 8 月 21 日，运行时包含 832378 行生产 Rust 代码以及 468689 行 Rust 单元测试代码。绝大部分实现代码由 AI 智能体生成，编译、测试和人工评审用于发现各类回归问题，包括行为、状态、生命周期处理、库语义以及优化逻辑丢失等。GitHub 记录了 4478 次直接 cargo check 执行，87.1% 可一次性校验通过。社区的反应也聚焦于 AI 辅助 迁移的验证难题，并指出取消、重试和背压等场景需要在编译之外进行验证。PLBjt 写道：这件事有意思的地方不在于 Copilot 使用了 Rust，而在于这次迁移能否在边界上保持运行时行为的稳定。Leonardo XR 技术负责人 Francesco Pira 指出：小体量、便于评审的变更、兼容层以及工程师的人工判断是该方案的重要元素。微软高级解决方案工程师 Côme Redon 指出：难点在于挖掘遗留系统里那些没有文档说明的行为约定。最终的架构提供原生 Rust 运行时，既可直接嵌入宿主应用也可独立运行；Copilot SDK 在所有支持的语言中保留了语言专属接口。本次迁移将 AI 生成代码、增量集成、临时兼容边界、自动化校验和人工评审相结合，生产环境运行时在迁移过程中持续迭代更新。查看英文原文：https://www.infoq.com/news/2026/10/github-copilot-rust-migration/"
+}
