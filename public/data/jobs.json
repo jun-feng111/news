@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T13:32:11.700Z",
+  "updated": "2026-10-22T18:21:45.196Z",
   "count": 116,
   "sources": {
     "V2EX": 7,
@@ -9,6 +9,23 @@
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1251064",
+      "title": "现有软件项目需要远程兼职 PM 一名",
+      "company": "ilcn",
+      "location": "国内",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [],
+      "category": "产品",
+      "postedDate": "2026-10-22",
+      "url": "https://www.v2ex.com/t/1251064",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1250973",
       "title": "技术项目经理（游戏运维中台方向）来了来了",
@@ -121,23 +138,27 @@
       "region": "domestic"
     },
     {
-      "id": "v2ex-1250726",
-      "title": "LLM 应用研发工程师 远程 急急急",
-      "company": "darrenlv",
-      "location": "国内",
+      "id": "remoteok-1137551",
+      "title": "Senior Backend Engineer",
+      "company": "DuckDuckGo",
+      "location": "Remote",
       "remote": true,
       "salaryText": "",
       "salaryMin": null,
       "salaryMax": null,
-      "salaryCurrency": "CNY",
+      "salaryCurrency": "",
       "skills": [
-        "python"
+        "backend",
+        "perl",
+        "golang",
+        "javascript",
+        "node"
       ],
-      "category": "其他",
+      "category": "backend",
       "postedDate": "2026-10-21",
-      "url": "https://www.v2ex.com/t/1250726",
-      "source": "V2EX",
-      "region": "domestic"
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-duckduckgo-1137551",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137550",
@@ -2966,36 +2987,6 @@
       "category": "sales",
       "postedDate": "2026-08-12",
       "url": "https://remoteOK.com/remote-jobs/remote-surveyor-i-american-bureau-of-shipping-abs-1136592",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1136447",
-      "title": "Staff Software Engineer",
-      "company": "Evolve",
-      "location": "Remote - US",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "dev",
-        "design",
-        "embedded",
-        "sys admin",
-        "infosec",
-        "architecture",
-        "testing",
-        "devops",
-        "cloud",
-        "exec",
-        "engineer",
-        "digital nomad"
-      ],
-      "category": "dev",
-      "postedDate": "2026-08-12",
-      "url": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-evolve-1136447",
       "source": "RemoteOK",
       "region": "foreign"
     }
