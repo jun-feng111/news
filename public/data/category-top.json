@@ -1,15 +1,27 @@
 {
   "AI": [
     {
-      "id": "12af459ff8f6",
-      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
-      "summary": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "id": "b1c3b0ce40d1",
+      "title": "Nirva raises $33M for a pendant that only listens to you",
+      "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+      "summary": "Nirva raises $33M for a pendant that only listens to you",
       "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-10-21T20:27:41.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2157738833.jpg?resize=1200,800",
-      "score": 80,
+      "published": "2026-10-22T13:26:52.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Nirva-pendant.jpg?resize=1200,675",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "c80a6608f1d2",
+      "title": "DeepSeek reportedly raises $15B days after US restrictions",
+      "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+      "summary": "DeepSeek reportedly raises $15B days after US restrictions",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-22T13:11:13.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/01/deepseek-2.jpg?resize=1200,800",
+      "score": 75,
       "tags": []
     },
     {
@@ -46,18 +58,6 @@
       "published": "2026-10-21T20:57:40.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/02/Flapping-Airplanes-founders-photo.jpg?resize=1200,821",
       "score": 75,
-      "tags": []
-    },
-    {
-      "id": "bc99a740a88d",
-      "title": "Airbnb limits chores for guests, sparking backlash from hosts",
-      "url": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/",
-      "summary": "Airbnb limits chores for guests, sparking backlash from hosts",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-21T22:16:05.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2018/09/GettyImages-733478305.jpg?resize=1200,713",
-      "score": 70,
       "tags": []
     }
   ],
@@ -111,30 +111,16 @@
       "tags": []
     },
     {
-      "id": "f63499591bf7",
-      "title": "Automattic begins layoffs following board upheaval and executive departures",
-      "url": "https://techcrunch.com/2026/10/21/automattic-begins-layoffs-following-board-upheaval-and-executive-departures/",
-      "summary": "Automattic begins layoffs following board upheaval and executive departures",
+      "id": "12af459ff8f6",
+      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-10-21T20:15:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/11/wordpress-automattic-v3.jpg?resize=1200,800",
-      "score": 70,
-      "tags": []
+      "published": "2026-10-21T20:27:41.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2157738833.jpg?resize=1200,800"
     }
   ],
   "就业": [
-    {
-      "id": "0e90f6f5b072",
-      "title": "AI应用层人才缺口暴涨！Java开发者转型AI",
-      "url": "https://blog.csdn.net/2401_85390073/article/details/167888652",
-      "summary": "文章浏览阅读383次。我在一线科技企业深耕十二载，见证过太多因技术更迭而跃迁的案例",
-      "source": "Java开发·就业分析",
-      "category": "就业",
-      "published": "2026-10-14T02:29:00.000Z",
-      "score": 65,
-      "tags": []
-    },
     {
       "id": "eb8173a64861",
       "title": "美国网络安全招聘市场降温：岗位发布量大降26% AI安全工程师需求 ...",
@@ -143,6 +129,7 @@
       "source": "安全工程师·就业分析",
       "category": "就业",
       "published": "2026-10-19T01:15:30.000Z",
+      "image": "",
       "score": 65,
       "tags": []
     },
@@ -154,6 +141,7 @@
       "source": "安全工程师·就业分析",
       "category": "就业",
       "published": "2026-10-19T13:23:00.000Z",
+      "image": "https://n.sinaimg.cn/tech/zcapp2018/doc_qrcode1.png",
       "score": 65,
       "tags": []
     },
@@ -178,6 +166,18 @@
       "category": "就业",
       "published": "2026-10-16T05:14:00.000Z",
       "image": "https://inews.gtimg.com/om_ls/OPfqfOuH8V-JsU0ayrEwJK3INZDroB0AP3cFZQTDzdbMMAA_640330/0",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "9720242fe1be",
+      "title": "报告：养老看护岗位领跑三季度招聘市场，新质赛道秋招供需活跃",
+      "url": "https://news.qq.com/rain/a/20261013A07QCA00",
+      "summary": "10月13日，智联招聘发布2026年三季度人才市场热点快报，报告称，2026年三季度，招聘市场延续以新质生产力为引领的驱动格局，并在此基础上涌现出新的亮点：养老/看护行业以43。9%的职位数同比增速登",
+      "source": "智联招聘",
+      "category": "就业",
+      "published": "2026-10-13T07:30:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/OjP3daMHQCMFpN3Ln4Dod2Ip9p5C2J9Hvq1pPJfyHEQSUAA_640330/0",
       "score": 60,
       "tags": []
     }
@@ -208,6 +208,30 @@
       "tags": []
     },
     {
+      "id": "6df08424e6c1",
+      "title": "从师范生培养到职称评价 山西全链条完善教师成长通道",
+      "url": "https://www.chinanews.com.cn/edu/2026/10-20/10718022.shtml",
+      "summary": "中新网太原10月20日电 (记者 杨静)记者20日从山西省教育厅获悉，“十五五”时期，山西省将大力实施高素质教师队伍建设工程。山西将持续完善教师培养发展体系，锻造一支师德高尚、业务精湛、结构合理、充满",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-10-20T11:15:35.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "ee3acd94cd84",
+      "title": "山西加快构建现代职业教育体系 让高技能人才供给更加精准",
+      "url": "https://www.chinanews.com.cn/edu/2026/10-20/10717964.shtml",
+      "summary": "中新网太原10月20日电 (记者 杨静)记者20日从山西省教育厅获悉，今年9月1日，新修订的山西省实施《中华人民共和国职业教育法》办法正式施行，标志着山西省职业教育法治保障迈上新台阶。“十五五”时期，",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-10-20T10:01:13.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
+    },
+    {
       "id": "8f98fa5d6837",
       "title": "全国1542名优秀中小学生获第十七届宋庆龄奖学金",
       "url": "https://www.chinanews.com.cn/edu/2026/10-20/10717755.shtml",
@@ -215,30 +239,6 @@
       "source": "中新网教育",
       "category": "社会",
       "published": "2026-10-20T06:16:35.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "16d8dd16ebf0",
-      "title": "（文化中国行·校馆弦歌）武汉理工大学图书馆：沉浸式体验解锁阅读新趣",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-20/10717763.shtml",
-      "summary": "中新网武汉10月20日电 题：武汉理工大学图书馆：沉浸式体验解锁阅读新趣",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-10-20T06:10:47.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "a9e84990ab6a",
-      "title": "打破“唯论文”标尺！5个专业推行用实践成果申请硕博学位",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-20/10717568.shtml",
-      "summary": "部分专业学位研究生申请学位，将不再“唯论文”。国务院学位委员会办公室近日印发《关于做好专业学位研究生以实践成果申请学位工作的意见》，在前期工程硕博士用实践成果申请学位基础上，推动翻译、农业、临床医学、",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-10-19T23:54:36.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 50,
       "tags": []
@@ -270,26 +270,14 @@
       "tags": []
     },
     {
-      "id": "0244d01e6adc",
-      "title": "逾6300名学子参加 “千校万岗”首场招聘，大学生就业引航活动季在 ...",
-      "url": "https://news.qq.com/rain/a/20261015A0ARER00",
-      "summary": "昨天，共青团“千校万岗”2027届首场线下招聘会暨“大学生就业引航活动季”活动在上海交通大学闵行校区霍英东体育馆举办。超6300名学子到场参会，现场气氛热烈",
-      "source": "Bing·大学生就业政策",
+      "id": "d34890d796cf",
+      "title": "佛山唯一！顺德北滘入选国家级高质量就业示范创建名单",
+      "url": "https://finance.sina.com.cn/roll/2026-10-20/doc-inivwpzm6462291.shtml",
+      "summary": "10月20日，记者从佛山市顺德区民政人社局获悉，人力资源社会保障部全国高质量充分就业示范地区和单位创建备案名单公布，佛山市顺德区北滘镇入选，成为佛山全市唯一上榜的镇（街道）级创建单位。这是顺德深入实施",
+      "source": "Bing·人社部就业创业政策",
       "category": "政策",
-      "published": "2026-10-15T10:32:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/OvAHuXaTd61qYgHS1OggxVzzAt6sRqPTVTxBS001qd6osAA_640330/0",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "81902aacd1d6",
-      "title": "【今日关注】教育部门多举措推动高校毕业生高质量充分就业",
-      "url": "https://www.sohu.com/a/1088772736_121124332",
-      "summary": "为推进高校毕业生高质量充分就业，教育部门联合各有关部门推出系列政策举措，推动更多毕业生尽早就业、更好就业。跟教育小微一起来看新华社报道—— 高校毕业生是党和国家宝贵的人才资源，是促进就业的重要群体",
-      "source": "Bing·高校毕业生就业创业政策",
-      "category": "政策",
-      "published": "2026-10-16T15:39:00.000Z",
-      "image": "https://q2.itc.cn/q_70/images03/20261017/3cd114402f904499a5e85857c961be48.jpeg",
+      "published": "2026-10-20T04:01:00.000Z",
+      "image": "//n.sinaimg.cn/spider20261020/88/w1080h608/20261020/5db5-e39e584764dd0325d5de64f39bbaf658.jpg",
       "score": 50,
       "tags": []
     },
@@ -304,100 +292,112 @@
       "image": "//q2.itc.cn/images01/20261016/4a46af1395e34bd9b9912912563800bf.jpeg",
       "score": 50,
       "tags": []
+    },
+    {
+      "id": "f5cb39eaf8f6",
+      "title": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
+      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202606/t20260602_1438600.html",
+      "summary": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
+      "source": "教育部",
+      "category": "政策",
+      "published": "2026-06-02T00:00:00.000Z",
+      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+      "score": 50,
+      "tags": []
     }
   ],
   "财经": [
     {
-      "id": "fbb12a0dd3ca",
-      "title": "“十四五”我国吸收外商直接投资超7500亿美元",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719057.shtml",
+      "id": "ff5c7ade9fd0",
+      "title": "周小川：中国现有金融工具应对AI风险仍有效",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719365.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-22T07:05:23.000Z",
+      "published": "2026-10-22T13:19:13.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "6ae3b7d1c391",
-      "title": "10月22日“农产品批发价格200指数”比昨天下降0.27个点",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719043.shtml",
+      "id": "624b14c0d9c8",
+      "title": "（经济观察）重庆消费凭什么跑出“加速度”？",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719354.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-22T06:59:17.000Z",
+      "published": "2026-10-22T13:06:15.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "78ee5b504a95",
-      "title": "多艘国际邮轮到访 外籍旅客享受免签政策便捷入境开启美妙中国之旅",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719044.shtml",
+      "id": "cb7d53134505",
+      "title": "报告：京津冀协同深化催生数智金融一体化发展新需求",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719347.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-22T06:48:52.000Z",
+      "published": "2026-10-22T13:04:58.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "38e64b5c2215",
-      "title": "武汉蔡甸做“生态加法” “知音故里”崛起科创发展带",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719011.shtml",
+      "id": "5ca1adc1e721",
+      "title": "上海金融监管局：构建与数字金融战略相匹配的激励体系，激发数字化建设活力",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719345.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-22T06:07:26.000Z",
+      "published": "2026-10-22T13:03:56.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "c51290530a74",
-      "title": "福建武夷山11月初阶段性开通至首尔定制航线",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719004.shtml",
+      "id": "a275101a5a74",
+      "title": "多家中国基金公司宣布将自购旗下主动ETF",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-22/10719343.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-22T06:02:18.000Z",
+      "published": "2026-10-22T12:55:46.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ],
   "开发": [
     {
-      "id": "67e1e3772741",
-      "title": "与 Redis 分道扬镳两年后，Valkey 不只要做缓存：单进程吞吐破百万，Rust 统一客户端底座",
-      "url": "https://www.infoq.cn/article/ud4r6jvkmuKNAu9NTHxF?utm_source=rss&amp;utm_medium=article",
+      "id": "cfee132b882f",
+      "title": "又一国产决策模型发布：面向企业高频判断任务，23 项开源基测准确率超过微软和 JEV",
+      "url": "https://www.infoq.cn/article/wyGrRsTrfHM7i9MhuV5P?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-10-22T15:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/e5/46/e587949f5c1d301656a6a60661bb5f46.jpg"
+      "published": "2026-10-22T19:16:58.000Z",
+      "image": "https://static001.infoq.cn/resource/image/50/33/502fb018f82222ec46a42fe011e12a33.jpg"
     },
     {
-      "id": "a02e25ac134f",
-      "title": "GitHub 通过 AI 辅助重构，将 Copilot 运行时迁移至 Rust",
-      "url": "https://www.infoq.cn/article/zGqDWHF8tHDtlYcImAJS?utm_source=rss&amp;utm_medium=article",
+      "id": "3dcd0c0ceac5",
+      "title": "企业 AI 越用越复杂，如何用一个 Gateway 管好模型、Agent 和成本？｜ 技术趋势",
+      "url": "https://www.infoq.cn/article/v85ey09UlxhCDH4r3RS3?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-10-22T13:17:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/72/7d/72e9d60e44d2ea2174dbc6207a08407d.jpg"
+      "published": "2026-10-22T18:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/28/3f/2898b4e30ceacfda5eb9d28854e4863f.jpeg"
     },
     {
-      "id": "a458047fcdfb",
-      "title": "Shopify 将 Checkout Blocks 升级为 Polaris Web 组件，包体积最高缩减 85%",
-      "url": "https://www.infoq.cn/article/40B7RzB3uez5MvM1mCqW?utm_source=rss&amp;utm_medium=article",
+      "id": "ecd4d66f98ee",
+      "title": "面向 Qwen 系列模型线性注意力的高性能优化实践",
+      "url": "https://www.infoq.cn/article/o9OcWNkkwgKvsZmgY45d?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-10-22T11:17:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/0b/51/0b03163f2c856191b3e0955af9a81c51.jpg"
+      "published": "2026-10-22T17:08:07.000Z",
+      "image": "https://static001.infoq.cn/resource/image/08/59/08d1674df6f3dc78c716d071a90d4d59.jpg"
     },
     {
-      "id": "39c2606f79b8",
-      "title": "从固定规格到按需分配：Snowflake 自适应计算的底层逻辑 ｜ 技术趋势",
-      "url": "https://www.infoq.cn/article/OX9rfbmh7V7thvWrkULb?utm_source=rss&amp;utm_medium=article",
+      "id": "48f8721438d3",
+      "title": "Cloudflare 两个月两改追踪定价，开发者该如何控制成本？",
+      "url": "https://www.infoq.cn/article/hy9SMIBOjwjdZ4JduMzL?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-10-22T10:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/c6/a0/c650b6f39fcf380399eed33377f6cda0.jpeg"
+      "published": "2026-10-22T17:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/55/89/55b9a82637f013e3b9694093875b6b89.jpg"
     },
     {
-      "id": "d894523c1d46",
-      "title": "豆包工作上线 IGA Pages 插件，一句话让网页变得可分享、可共创",
-      "url": "https://www.infoq.cn/article/w065UmVL9EsVI6IVbBd7?utm_source=rss&amp;utm_medium=article",
+      "id": "8640c08a1436",
+      "title": "企业有需求，FDE 团队有能力，为什么 AI 项目仍难落地？",
+      "url": "https://www.infoq.cn/article/Ei2spcFKComKqkPv6osN?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-10-22T10:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/41/1c/41e2735fb6478ca87cf108b33d779e1c.png"
+      "published": "2026-10-22T16:24:29.000Z",
+      "image": "https://static001.infoq.cn/resource/image/48/eb/48efd9d46ef3d3d33c22ace064e6e6eb.jpg"
     }
   ]
 }
