@@ -1,17 +1,5 @@
 [
   {
-    "id": "208710b51bf1",
-    "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
-    "url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
-    "summary": "Oura sues rival Ultrahuman again, threatening its U。 smart ring comeback",
-    "source": "TechCrunch",
-    "category": "AI",
-    "published": "2026-10-23T04:22:57.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/ultrahuman-ring-pro.jpg?resize=1200,800",
-    "score": 75,
-    "tags": []
-  },
-  {
     "id": "02cf9a7a48f9",
     "title": "Left alone with nothing to do, AI agents started playing",
     "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
@@ -33,6 +21,18 @@
     "published": "2026-10-22T22:08:24.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680",
     "score": 75,
+    "tags": []
+  },
+  {
+    "id": "208710b51bf1",
+    "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
+    "url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
+    "summary": "Oura sues rival Ultrahuman again, threatening its U。 smart ring comeback",
+    "source": "TechCrunch",
+    "category": "AI",
+    "published": "2026-10-23T04:22:57.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/ultrahuman-ring-pro.jpg?resize=1200,800",
+    "score": 70,
     "tags": []
   },
   {
@@ -72,18 +72,6 @@
     "tags": []
   },
   {
-    "id": "3bfe5c41c86a",
-    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
-    "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-    "summary": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony。ai and Nvidia",
-    "source": "TechCrunch",
-    "category": "AI",
-    "published": "2026-10-23T04:00:00.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/indrive-pony-ai-kazakhstan.jpg?resize=1200,800",
-    "score": 65,
-    "tags": []
-  },
-  {
     "id": "c721ab911738",
     "title": "智联招聘发布2026年三季度人才市场快报：养老岗位增速达43.9%居首",
     "url": "https://www.sohu.com/a/1090442320_122066679",
@@ -103,7 +91,6 @@
     "source": "安全工程师·就业分析",
     "category": "就业",
     "published": "2026-10-19T01:15:30.000Z",
-    "image": "",
     "score": 65,
     "tags": []
   },
@@ -115,8 +102,19 @@
     "source": "安全工程师·就业分析",
     "category": "就业",
     "published": "2026-10-19T13:23:00.000Z",
-    "image": "https://n.sinaimg.cn/tech/zcapp2018/doc_qrcode1.png",
     "score": 65,
+    "tags": []
+  },
+  {
+    "id": "3bfe5c41c86a",
+    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+    "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+    "summary": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony。ai and Nvidia",
+    "source": "TechCrunch",
+    "category": "AI",
+    "published": "2026-10-23T04:00:00.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/indrive-pony-ai-kazakhstan.jpg?resize=1200,800",
+    "score": 60,
     "tags": []
   }
 ]
