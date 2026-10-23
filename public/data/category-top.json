@@ -1,4 +1,63 @@
 {
+  "科技": [
+    {
+      "id": "e3e4a3ed774d",
+      "title": "What some of Anthropic’s backers are reportedly worth before its IPO",
+      "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
+      "summary": "What some of Anthropic’s backers are reportedly worth before its IPO",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-10-23T16:02:43.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2181797246.jpg?resize=1200,800",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "79e04d329853",
+      "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
+      "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
+      "summary": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-10-23T16:26:29.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/11/Daytona_Founders-e1698845569762.jpg?resize=1200,676",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "dff58cc38736",
+      "title": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
+      "url": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/",
+      "summary": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-10-23T16:20:28.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/CFS-Brandon-Sorbom-Disrupt-2026.jpg?resize=1200,800",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "56db7c1a43a5",
+      "title": "Lab testing giant Quest Diagnostics confirms patients&#8217; personal and health data was compromised during breach",
+      "url": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/",
+      "summary": "Lab testing giant Quest Diagnostics confirms patients&#8217; personal and health data was compromise",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-10-23T15:00:09.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/quest-862530304.jpg?resize=1200,743",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "c4c762c6b747",
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-10-22T22:08:24.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680"
+    }
+  ],
   "AI": [
     {
       "id": "02cf9a7a48f9",
@@ -13,22 +72,10 @@
       "tags": []
     },
     {
-      "id": "c4c762c6b747",
-      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-      "summary": "OpenAI working on new $30B raise at $1。25T valuation ahead of IPO",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-22T22:08:24.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680",
-      "score": 75,
-      "tags": []
-    },
-    {
       "id": "208710b51bf1",
-      "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
+      "title": "Oura sues rival Ultrahuman again, threatening its US smart ring comeback",
       "url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
-      "summary": "Oura sues rival Ultrahuman again, threatening its U。 smart ring comeback",
+      "summary": "Oura sues rival Ultrahuman again, threatening its US smart ring comeback",
       "source": "TechCrunch",
       "category": "AI",
       "published": "2026-10-23T04:22:57.000Z",
@@ -50,71 +97,27 @@
     },
     {
       "id": "3bfe5c41c86a",
-      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
       "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-      "summary": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony。ai and Nvidia",
+      "summary": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
       "source": "TechCrunch",
       "category": "AI",
       "published": "2026-10-23T04:00:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/indrive-pony-ai-kazakhstan.jpg?resize=1200,800",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "8dc6f2707dfe",
+      "title": "Mark Zuckerberg&#8217;s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
+      "url": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
+      "summary": "Mark Zuckerberg&#8217;s creative plan to pay California’s proposed billionaire tax without losing co",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-22T23:50:41.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-meta-connect.jpg?resize=1200,799",
       "score": 60,
       "tags": []
-    }
-  ],
-  "科技": [
-    {
-      "id": "ff64b9462e2d",
-      "title": "Rivian buys world model startup to accelerate self-driving ambitions",
-      "url": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
-      "summary": "Rivian buys world model startup to accelerate self-driving ambitions",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-10-22T21:05:05.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/12/Rivian-Universal-Hands-Free.jpg?resize=1200,900",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "fca6ebf047cd",
-      "title": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
-      "url": "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/",
-      "summary": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-10-22T20:01:51.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/05/arc-search-call.png?resize=1200,675",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "6bc6b21cdf0a",
-      "title": "The secret to fast startup growth isn&#8217;t early sales, top names in tech say",
-      "url": "https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/",
-      "summary": "The secret to fast startup growth isn&#8217;t early sales, top names in tech say",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-10-22T20:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55593304916_918c404f7a_o.jpg?resize=1200,800",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "c1230fd4012b",
-      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-10-22T19:07:09.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/AI-agents.jpg?resize=1200,675"
-    },
-    {
-      "id": "591876a8e3e0",
-      "title": "Canva releases its first image generation model",
-      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-10-22T19:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Sample-Outputs.jpeg?resize=1200,675"
     }
   ],
   "就业": [
@@ -138,6 +141,7 @@
       "source": "安全工程师·就业分析",
       "category": "就业",
       "published": "2026-10-19T01:15:30.000Z",
+      "image": "",
       "score": 65,
       "tags": []
     },
@@ -149,6 +153,7 @@
       "source": "安全工程师·就业分析",
       "category": "就业",
       "published": "2026-10-19T13:23:00.000Z",
+      "image": "https://n.sinaimg.cn/tech/zcapp2018/doc_qrcode1.png",
       "score": 65,
       "tags": []
     },
@@ -253,18 +258,6 @@
       "tags": []
     },
     {
-      "id": "f5cb39eaf8f6",
-      "title": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
-      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202606/t20260602_1438600.html",
-      "summary": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
-      "source": "教育部",
-      "category": "政策",
-      "published": "2026-06-02T00:00:00.000Z",
-      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
-      "score": 50,
-      "tags": []
-    },
-    {
       "id": "a3af074b2b9b",
       "title": "2026-05-22教育部等八部门办公厅关于联合开展2026年度高校毕业生等重点群体促就业“国聘行动”的通知",
       "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202605/t20260522_1437356.html",
@@ -289,62 +282,74 @@
       "tags": []
     },
     {
-      "id": "4a7d237a17a2",
-      "title": "2026-01-16教育部办公厅等四部门关于开展高校毕业生异地求职“双惠”行动的通知",
-      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202601/t20260115_1426697.html",
-      "summary": "2026-01-16教育部办公厅等四部门关于开展高校毕业生异地求职“双惠”行动的通知",
-      "source": "教育部",
+      "id": "ecfbeaa15d70",
+      "title": "宿州市：抢抓“两节”返乡窗口期 推动就业政策宣传“进站入心”",
+      "url": "https://www.sohu.com/a/1086006080_121106832",
+      "summary": "今年9月是2026年全国就业政策宣传月。宿州市人社局认真落实人社部办公厅《关于开展2026年全国就业政策宣传月活动的通知》和省厅工作提示要求，以“政策到身边就业暖心间”为主题，坚持“政策找人、服务上门",
+      "source": "就业创业政策",
       "category": "政策",
-      "published": "2026-01-15T00:00:00.000Z",
-      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+      "published": "2026-10-10T09:11:00.000Z",
+      "image": "https://q9.itc.cn/q_70/images03/20261010/a8f05c8f68cd4e7899ac49db7dbebbca.jpeg",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "1e3c076fe426",
+      "title": "人社部部署开展2026年就业政策宣传月活动",
+      "url": "https://edu.sina.com.cn/l/2026-09-08/doc-inircews9234669.shtml?tj=cxvertical_pc_hp&tr=12",
+      "summary": "中新网北京9月8日电 （记者 谢雁冰）近日，人力资源和社会保障部办公厅印发通知，定于9月在全国开展就业政策宣传月活动。 活动以“政策到身边 就业暖心间”为主题，坚持“政策找人、服务上门”导向，突出宣传",
+      "source": "就业创业政策",
+      "category": "政策",
+      "published": "2026-09-08T09:37:00.000Z",
+      "image": "https://n.sinaimg.cn/edu/transform/500/w300h200/20260908/31c1-db122931624e43ddece7526e90bff6a7.jpg",
       "score": 50,
       "tags": []
     }
   ],
   "财经": [
     {
-      "id": "b12c5a434c78",
-      "title": "中国财政部：一揽子政策效果逐步显现",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720039.shtml",
+      "id": "f0fbf0be2b6d",
+      "title": "山海好物走进上海市民“菜篮子” 603家企业携特产亮相",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720154.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-23T12:57:37.000Z",
+      "published": "2026-10-23T15:43:44.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "8987c3480657",
-      "title": "山西闻喜6500亩苹果丰收 农文旅商融合激活乡村振兴新动能",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720030.shtml",
+      "id": "5c4d6d045b44",
+      "title": "武汉经开区强化“内功” “车谷造”加速出海",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720152.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-23T12:46:00.000Z",
+      "published": "2026-10-23T15:41:22.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "ff824aa62b10",
-      "title": "今年前三季度广东GDP达11.11万亿元 同比增长4.6%",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720029.shtml",
+      "id": "f2b90fc8d1d1",
+      "title": "上海推动人工智能赋能工业服务业",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720144.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-23T12:45:52.000Z",
+      "published": "2026-10-23T15:24:43.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "85fe43a15552",
-      "title": "《中国农业对外投资合作分析报告（2026）》发布",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720021.shtml",
+      "id": "708ea6565412",
+      "title": "今年前三季度唐山港京唐港区保税物流中心（B型）进口贸易额居中国首位",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720136.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-23T12:44:48.000Z",
+      "published": "2026-10-23T15:09:54.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "df5ba24b236e",
-      "title": "葡萄牙政商代表：看好中国西南市场潜力 盼深化多领域经贸合作",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720018.shtml",
+      "id": "79a5f42aa1d1",
+      "title": "广西“梧州制造”产品8小时直达香港",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-23/10720134.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-23T12:44:44.000Z",
+      "published": "2026-10-23T15:08:10.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ],
