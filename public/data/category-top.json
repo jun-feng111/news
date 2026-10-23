@@ -1,73 +1,14 @@
 {
-  "科技": [
-    {
-      "id": "e3e4a3ed774d",
-      "title": "What some of Anthropic’s backers are reportedly worth before its IPO",
-      "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
-      "summary": "What some of Anthropic’s backers are reportedly worth before its IPO",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-10-23T16:02:43.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2181797246.jpg?resize=1200,800",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "79e04d329853",
-      "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
-      "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
-      "summary": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-10-23T16:26:29.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/11/Daytona_Founders-e1698845569762.jpg?resize=1200,676",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "dff58cc38736",
-      "title": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
-      "url": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/",
-      "summary": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-10-23T16:20:28.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/CFS-Brandon-Sorbom-Disrupt-2026.jpg?resize=1200,800",
-      "score": 65,
-      "tags": []
-    },
-    {
-      "id": "56db7c1a43a5",
-      "title": "Lab testing giant Quest Diagnostics confirms patients&#8217; personal and health data was compromised during breach",
-      "url": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/",
-      "summary": "Lab testing giant Quest Diagnostics confirms patients&#8217; personal and health data was compromise",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-10-23T15:00:09.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/quest-862530304.jpg?resize=1200,743",
-      "score": 65,
-      "tags": []
-    },
-    {
-      "id": "c4c762c6b747",
-      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-10-22T22:08:24.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680"
-    }
-  ],
   "AI": [
     {
-      "id": "02cf9a7a48f9",
-      "title": "Left alone with nothing to do, AI agents started playing",
-      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-      "summary": "Left alone with nothing to do, AI agents started playing",
+      "id": "a53eb54d049c",
+      "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
+      "url": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
+      "summary": "VCs, Superhuman Mail founder share red flags about product-market fit",
       "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-10-23T00:45:37.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-5.42.44-PM.png?resize=1200,590",
+      "published": "2026-10-23T20:57:13.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/PMf-panel.jpg?resize=1200,800",
       "score": 75,
       "tags": []
     },
@@ -84,18 +25,6 @@
       "tags": []
     },
     {
-      "id": "c9ea45c59979",
-      "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
-      "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
-      "summary": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-22T23:15:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Warhound.png?resize=1200,675",
-      "score": 70,
-      "tags": []
-    },
-    {
       "id": "3bfe5c41c86a",
       "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
       "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
@@ -106,17 +35,67 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/indrive-pony-ai-kazakhstan.jpg?resize=1200,800",
       "score": 65,
       "tags": []
+    }
+  ],
+  "科技": [
+    {
+      "id": "79e04d329853",
+      "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
+      "url": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
+      "summary": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-10-23T16:26:29.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/11/Daytona_Founders-e1698845569762.jpg?resize=1200,676",
+      "score": 70,
+      "tags": []
     },
     {
-      "id": "8dc6f2707dfe",
-      "title": "Mark Zuckerberg&#8217;s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
-      "url": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
-      "summary": "Mark Zuckerberg&#8217;s creative plan to pay California’s proposed billionaire tax without losing co",
+      "id": "e3e4a3ed774d",
+      "title": "What some of Anthropic’s backers are reportedly worth before its IPO",
+      "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
+      "summary": "What some of Anthropic’s backers are reportedly worth before its IPO",
       "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-22T23:50:41.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-meta-connect.jpg?resize=1200,799",
-      "score": 60,
+      "category": "科技",
+      "published": "2026-10-23T16:02:43.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2181797246.jpg?resize=1200,800",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "98913997f615",
+      "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
+      "url": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/",
+      "summary": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right n",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-10-23T20:03:14.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/12/TC-All-Stage-2025-roundtable.jpg?resize=1200,800",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "7d8cd9aab9b6",
+      "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
+      "url": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/",
+      "summary": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-10-23T19:25:13.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/12/money-spill-2023.jpg?resize=1200,675",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "97fa418027d6",
+      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+      "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+      "summary": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-10-23T19:06:23.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/TC-All-Stage-2025-Breakout-QA.jpg?resize=1200,800",
+      "score": 65,
       "tags": []
     }
   ],
@@ -130,6 +109,18 @@
       "category": "就业",
       "published": "2026-10-21T00:12:00.000Z",
       "image": "",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "a8038be0e7f0",
+      "title": "AI岗月薪1.7万招不到人，1270万毕业生平均签约5800：2027秋招，两个 ...",
+      "url": "https://www.sohu.com/a/1090195796_122527266",
+      "summary": "10月13日，智联招聘发布了《2026年三季度人才市场热点快报》。这份报告的数据，把2027年秋招撕开了一道口子",
+      "source": "智联招聘",
+      "category": "就业",
+      "published": "2026-10-20T08:32:00.000Z",
+      "image": "//q5.itc.cn/q_70/images03/20261020/5f4743596c9a4bca8b431a562271c343.jpeg",
       "score": 65,
       "tags": []
     },
@@ -158,26 +149,14 @@
       "tags": []
     },
     {
-      "id": "c03ebd360e48",
-      "title": "紧急：高级 AI 全栈工程师（Agent 方向）高薪 50-75k",
-      "url": "https://www.v2ex.com/t/1250045#reply5",
-      "summary": "紧急：高级 AI 全栈工程师（Agent 方向）高薪 50-75k",
-      "source": "V2EX·招聘",
+      "id": "33cd9ab660d0",
+      "title": "大模型秋招中，那些零Offer的名校应届生们",
+      "url": "https://news.qq.com/rain/a/20261020A0D3NP00?adChannelId=tech",
+      "summary": "“你想得太好了，从7月开始准备到现在，我一个Offer也没有。”被问及今年的秋招结果，双211高校应届生西木有点沮丧地回答",
+      "source": "Bing·秋招",
       "category": "就业",
-      "published": "2026-10-19T07:43:58.000Z",
-      "image": "https://cdn.v2ex.com/gravatar/65e0801fc9aaa6bf6073c06cdd0a0abf?s=73&d=retro",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "34ab3ddd2343",
-      "title": "人才市场热点报告：养老服务、AI、芯片等领域招聘热度攀升",
-      "url": "https://news.qq.com/rain/a/20261016A06EXI00",
-      "summary": "近日，招聘平台（智联招聘）发布2026年三季度人才市场热点快报。报告显示，三季度国内招聘市场由新质生产力相关产业持续拉动，养老看护行业职位数同比大涨43",
-      "source": "智联招聘",
-      "category": "就业",
-      "published": "2026-10-16T05:14:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/OPfqfOuH8V-JsU0ayrEwJK3INZDroB0AP3cFZQTDzdbMMAA_640330/0",
+      "published": "2026-10-21T05:10:00.000Z",
+      "image": "https://inews.gtimg.com/news_ls/Odto1_HT-gErP4WeNfoW7JTfSVJyrsDjX0AbjGt7EcvNkAA_640330/0",
       "score": 60,
       "tags": []
     }
@@ -258,6 +237,18 @@
       "tags": []
     },
     {
+      "id": "f5cb39eaf8f6",
+      "title": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
+      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202606/t20260602_1438600.html",
+      "summary": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
+      "source": "教育部",
+      "category": "政策",
+      "published": "2026-06-02T00:00:00.000Z",
+      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+      "score": 50,
+      "tags": []
+    },
+    {
       "id": "a3af074b2b9b",
       "title": "2026-05-22教育部等八部门办公厅关于联合开展2026年度高校毕业生等重点群体促就业“国聘行动”的通知",
       "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202605/t20260522_1437356.html",
@@ -282,26 +273,14 @@
       "tags": []
     },
     {
-      "id": "ecfbeaa15d70",
-      "title": "宿州市：抢抓“两节”返乡窗口期 推动就业政策宣传“进站入心”",
-      "url": "https://www.sohu.com/a/1086006080_121106832",
-      "summary": "今年9月是2026年全国就业政策宣传月。宿州市人社局认真落实人社部办公厅《关于开展2026年全国就业政策宣传月活动的通知》和省厅工作提示要求，以“政策到身边就业暖心间”为主题，坚持“政策找人、服务上门",
-      "source": "就业创业政策",
+      "id": "4a7d237a17a2",
+      "title": "2026-01-16教育部办公厅等四部门关于开展高校毕业生异地求职“双惠”行动的通知",
+      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202601/t20260115_1426697.html",
+      "summary": "2026-01-16教育部办公厅等四部门关于开展高校毕业生异地求职“双惠”行动的通知",
+      "source": "教育部",
       "category": "政策",
-      "published": "2026-10-10T09:11:00.000Z",
-      "image": "https://q9.itc.cn/q_70/images03/20261010/a8f05c8f68cd4e7899ac49db7dbebbca.jpeg",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "1e3c076fe426",
-      "title": "人社部部署开展2026年就业政策宣传月活动",
-      "url": "https://edu.sina.com.cn/l/2026-09-08/doc-inircews9234669.shtml?tj=cxvertical_pc_hp&tr=12",
-      "summary": "中新网北京9月8日电 （记者 谢雁冰）近日，人力资源和社会保障部办公厅印发通知，定于9月在全国开展就业政策宣传月活动。 活动以“政策到身边 就业暖心间”为主题，坚持“政策找人、服务上门”导向，突出宣传",
-      "source": "就业创业政策",
-      "category": "政策",
-      "published": "2026-09-08T09:37:00.000Z",
-      "image": "https://n.sinaimg.cn/edu/transform/500/w300h200/20260908/31c1-db122931624e43ddece7526e90bff6a7.jpg",
+      "published": "2026-01-15T00:00:00.000Z",
+      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
       "score": 50,
       "tags": []
     }
