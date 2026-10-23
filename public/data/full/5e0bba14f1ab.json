@@ -1,0 +1,7 @@
+{
+  "id": "5e0bba14f1ab",
+  "title": "低配虚拟机安装 Win10 LTSB 2016 跳转机实录 - AlfredZhao",
+  "url": "https://www.cnblogs.com/jyzhao/p/23408189",
+  "contentZh": "",
+  "contentFull": "\n    \n    \n2026-10-23 07:21 \nAlfredZhao \n阅读(45) \n评论() \n \n收藏 \n举报\n\n在一些特殊场景下，不得不使用 Windows 系统做跳转。笔者之前的跳转机是 Win7，只占 1G 内存，基础功能够用，但部分现代 Web 应用在 Win7 可用的浏览器上存在兼容性问题，展示效果不理想。因此笔者需要 Win10，以支持更高版本的 Chrome。\n笔者没有 Windows 电脑，只能在 NAS 上创建虚拟机，而可用内存上限只有 2G，于是选择了相对轻量的 Win10 LTSB 2016；需注意 2G 内存仅能勉强支撑基础浏览，运行现代 Web 应用时建议配合页面文件并降低预期。\n01 | 版本选择与分区规划\nLTSB 即 Long-Term Servicing Branch（长期服务分支），后续微软统一改名为 LTSC（Long-Term Servicing Channel 长期服务通道），所以它也会被写作 Windows 10 Enterprise LTSC 2016，两者是同一个系统，版本号 1607，OS 14393。\n跳转机空间需求不高，笔者规划 200GB：系统盘 80G，D 盘 120G（虚拟机磁盘采用精简置备时，实际占用随使用增长，不会立即占满 200GB）。\n02 | 创建虚拟机与识别磁盘\n创建虚拟机时注意选择 VirtIO，性能会好些：\n\n但到了安装界面，需要先选择驱动才能识别磁盘：\n\n识别成功后即可正常安装 Windows，按规划划分区：\n\n注意把系统安装到 80G 的系统盘：\n\n之后等待安装：\n\n准备就绪：\n\n03 | 初始设置与账户创建\n这里选择自定义：\n\n关闭不需要的选项：\n\n\n\n请稍等，这一步耗时长些：\n\n完成后出现这个界面，选择“加入本地 Active Directory 域”：\n\n创建账户和密码，并给密码一个提示以防忘记：\n\n然后等待，过程中会看到一些诗意的提示语：\n\n最后就能看到清爽的 Win10 界面：\n\n\n关注我，和AI一起成长~\n\n\n\n    \n        \n    \n"
+}
