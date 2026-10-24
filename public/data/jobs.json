@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T21:54:05.670Z",
+  "updated": "2026-10-24T00:19:43.359Z",
   "count": 117,
   "sources": {
     "V2EX": 9,
@@ -184,6 +184,28 @@
       "url": "https://www.v2ex.com/t/1250883",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "remoteok-1137559",
+      "title": "Travel Support Specialist",
+      "company": "Aisles &amp; Abroad",
+      "location": "Seattle, Washington",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "travel",
+        "education",
+        "customer support",
+        "non tech"
+      ],
+      "category": "travel",
+      "postedDate": "2026-10-23",
+      "url": "https://remoteOK.com/remote-jobs/remote-travel-support-specialist-aisles-amp-abroad-1137559",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137557",
@@ -3003,36 +3025,6 @@
       "category": "testing",
       "postedDate": "2026-08-12",
       "url": "https://remoteOK.com/remote-jobs/remote-real-time-drilling-ops-centre-analyst-slb-1136857",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1136878",
-      "title": "Engineer Estimator",
-      "company": "Crystalia Glass LLC",
-      "location": "Bishkek, Bishkek, Bishkek City, Kyrgyzstan",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "customer support",
-        "finance",
-        "exec",
-        "senior",
-        "legal",
-        "technical",
-        "marketing",
-        "excel",
-        "sales",
-        "engineer",
-        "recruiter",
-        "full time"
-      ],
-      "category": "customer support",
-      "postedDate": "2026-08-12",
-      "url": "https://remoteOK.com/remote-jobs/remote-engineer-estimator-crystalia-glass-llc-1136878",
       "source": "RemoteOK",
       "region": "foreign"
     }
