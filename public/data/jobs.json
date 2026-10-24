@@ -1,14 +1,45 @@
 {
-  "updated": "2026-10-24T10:24:46.391Z",
-  "count": 117,
+  "updated": "2026-10-24T14:18:46.656Z",
+  "count": 118,
   "sources": {
-    "V2EX": 8,
+    "V2EX": 9,
     "RemoteOK": 99,
     "Remotive": 10,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1251531",
+      "title": "后端开发工程师｜招募像姚顺雨一样，有技术追求的工程师",
+      "company": "biteaglelabs",
+      "location": "全职 / AI 公司",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "python",
+        "java",
+        "go",
+        "rust",
+        "c++",
+        "react",
+        "docker",
+        "k8s",
+        "linux",
+        "mysql",
+        "postgresql",
+        "redis",
+        "spark"
+      ],
+      "category": "后端",
+      "postedDate": "2026-10-24",
+      "url": "https://www.v2ex.com/t/1251531",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1251510",
       "title": "大数据开发工程师｜招募像姚顺雨一样，有技术追求的工程师",
