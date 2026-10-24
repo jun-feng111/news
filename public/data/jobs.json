@@ -1,14 +1,79 @@
 {
-  "updated": "2026-10-24T05:27:38.065Z",
-  "count": 116,
+  "updated": "2026-10-24T10:24:46.391Z",
+  "count": 117,
   "sources": {
     "V2EX": 8,
     "RemoteOK": 99,
-    "Remotive": 9,
+    "Remotive": 10,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1251510",
+      "title": "大数据开发工程师｜招募像姚顺雨一样，有技术追求的工程师",
+      "company": "biteaglelabs",
+      "location": "全职 / AI 公司",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "java",
+        "react",
+        "postgresql",
+        "redis"
+      ],
+      "category": "算法/AI",
+      "postedDate": "2026-10-24",
+      "url": "https://www.v2ex.com/t/1251510",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1251506",
+      "title": "招 1 名全栈工程师（AI 伴侣方向）",
+      "company": "yjpeminem0604",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "python",
+        "java",
+        "typescript",
+        "react",
+        "vue",
+        "node"
+      ],
+      "category": "全栈",
+      "postedDate": "2026-10-24",
+      "url": "https://www.v2ex.com/t/1251506",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1251482",
+      "title": "SEO 专员",
+      "company": "flycat326",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "go"
+      ],
+      "category": "其他",
+      "postedDate": "2026-10-24",
+      "url": "https://www.v2ex.com/t/1251482",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1251346",
       "title": "前端工程师｜招募像姚顺雨一样，有技术追求的工程师",
@@ -118,64 +183,34 @@
       "region": "domestic"
     },
     {
-      "id": "v2ex-1250883",
-      "title": "招聘 FPGA 工程师，欢迎投递",
-      "company": "emery223",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [],
-      "category": "人力/HR",
-      "postedDate": "2026-10-22",
-      "url": "https://www.v2ex.com/t/1250883",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1250841",
-      "title": "短剧公司招远程 Golang 后端工程师 20-40k 面议",
-      "company": "andyxinweimin",
-      "location": "国内",
+      "id": "remoteok-1137560",
+      "title": "Accounting and Implementation Manager",
+      "company": "Aprio",
+      "location": "Remote",
       "remote": true,
       "salaryText": "",
       "salaryMin": null,
       "salaryMax": null,
-      "salaryCurrency": "CNY",
+      "salaryCurrency": "",
       "skills": [
-        "go",
-        "golang",
-        "docker",
-        "aws",
-        "linux",
-        "mongodb"
+        "exec",
+        "accounting",
+        "design",
+        "sys admin",
+        "education",
+        "consulting",
+        "customer support",
+        "testing",
+        "marketing",
+        "payroll",
+        "finance",
+        "ops"
       ],
-      "category": "后端",
-      "postedDate": "2026-10-22",
-      "url": "https://www.v2ex.com/t/1250841",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1250726",
-      "title": "LLM 应用研发工程师 远程 急急急",
-      "company": "darrenlv",
-      "location": "国内",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "python"
-      ],
-      "category": "其他",
-      "postedDate": "2026-10-21",
-      "url": "https://www.v2ex.com/t/1250726",
-      "source": "V2EX",
-      "region": "domestic"
+      "category": "exec",
+      "postedDate": "2026-10-23",
+      "url": "https://remoteOK.com/remote-jobs/remote-accounting-and-implementation-manager-aprio-1137560",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137559",
@@ -315,6 +350,27 @@
       "postedDate": "2026-10-22",
       "url": "https://remoteOK.com/remote-jobs/remote-accounting-operations-plaid-1137554",
       "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remotive-2091161",
+      "title": "AI Trainer - Video Annotation",
+      "company": "iMerit Technology",
+      "location": "Worldwide",
+      "remote": true,
+      "salaryText": "70K-80K",
+      "salaryMin": 70000,
+      "salaryMax": 80000,
+      "salaryCurrency": "USD",
+      "skills": [
+        "video",
+        "AI/ML",
+        "robotics"
+      ],
+      "category": "Artificial Intelligence",
+      "postedDate": "2026-10-22",
+      "url": "https://remotive.com/remote-jobs/artificial-intelligence/ai-trainer-video-annotation-2091161",
+      "source": "Remotive",
       "region": "foreign"
     },
     {
@@ -2996,36 +3052,6 @@
       "category": "testing",
       "postedDate": "2026-08-12",
       "url": "https://remoteOK.com/remote-jobs/remote-real-time-drilling-ops-centre-analyst-slb-1136857",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1136878",
-      "title": "Engineer Estimator",
-      "company": "Crystalia Glass LLC",
-      "location": "Bishkek, Bishkek, Bishkek City, Kyrgyzstan",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "customer support",
-        "finance",
-        "exec",
-        "senior",
-        "legal",
-        "technical",
-        "marketing",
-        "excel",
-        "sales",
-        "engineer",
-        "recruiter",
-        "full time"
-      ],
-      "category": "customer support",
-      "postedDate": "2026-08-12",
-      "url": "https://remoteOK.com/remote-jobs/remote-engineer-estimator-crystalia-glass-llc-1136878",
       "source": "RemoteOK",
       "region": "foreign"
     }
