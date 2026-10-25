@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T22:57:35.600Z",
+  "updated": "2026-10-25T00:55:02.144Z",
   "count": 118,
   "sources": {
     "V2EX": 9,
@@ -213,6 +213,36 @@
       "url": "https://www.v2ex.com/t/1250973",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "remoteok-1137568",
+      "title": "Solutions Engineer",
+      "company": "Onebrief",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "design",
+        "ansible",
+        "grafana",
+        "sys admin",
+        "infosec",
+        "python",
+        "docker",
+        "technical",
+        "recruiter",
+        "customer support",
+        "dev",
+        "testing"
+      ],
+      "category": "design",
+      "postedDate": "2026-10-24",
+      "url": "https://remoteOK.com/remote-jobs/remote-solutions-engineer-onebrief-1137568",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137563",
@@ -2072,50 +2102,6 @@
       "region": "foreign"
     },
     {
-      "id": "remoteok-1137431",
-      "title": "Danish Speaking Solutions Consultant Work Sofia Bulgaria",
-      "company": "Mercier Consultancy Group",
-      "location": "Remote",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "consulting",
-        "education",
-        "technical",
-        "customer support",
-        "marketing",
-        "travel",
-        "excel",
-        "medical",
-        "recruiter"
-      ],
-      "category": "consulting",
-      "postedDate": "2026-09-24",
-      "url": "https://remoteOK.com/remote-jobs/remote-danish-speaking-solutions-consultant-work-sofia-bulgaria-mercier-consultancy-group-1137431",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137429",
-      "title": "MecÃ¡nico Automotriz DiagnÃ³stico y Presupuestos",
-      "company": "Workana",
-      "location": "Remote",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [],
-      "category": "Software",
-      "postedDate": "2026-09-24",
-      "url": "https://remoteOK.com/remote-jobs/remote-mecanico-automotriz-diagnostico-y-presupuestos-workana-1137429",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
       "id": "remoteok-1137427",
       "title": "Software Engineer",
       "company": "Prenosis",
@@ -3098,6 +3084,27 @@
       "category": "analyst",
       "postedDate": "2026-08-14",
       "url": "https://remoteOK.com/remote-jobs/remote-brand-protection-marketplace-compliance-analyst-multiplymii-1136687",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1136625",
+      "title": "Gardener Handyman Driver",
+      "company": "NT Health",
+      "location": "Alice Springs,",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "customer support",
+        "exec",
+        "medical"
+      ],
+      "category": "customer support",
+      "postedDate": "2026-08-13",
+      "url": "https://remoteOK.com/remote-jobs/remote-gardener-handyman-driver-nt-health-1136625",
       "source": "RemoteOK",
       "region": "foreign"
     }
