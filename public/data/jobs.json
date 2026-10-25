@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T00:55:02.144Z",
+  "updated": "2026-10-25T05:46:27.292Z",
   "count": 118,
   "sources": {
     "V2EX": 9,
@@ -10,22 +10,26 @@
   },
   "jobs": [
     {
-      "id": "v2ex-1251580",
-      "title": "App 开发工程师",
-      "company": "darrenlv",
-      "location": "国内",
+      "id": "v2ex-1251611",
+      "title": "AI 应用开发工程师｜招募像姚顺雨一样，有技术追求的工程师",
+      "company": "biteaglelabs",
+      "location": "全职 / AI 公司",
       "remote": false,
       "salaryText": "",
       "salaryMin": null,
       "salaryMax": null,
       "salaryCurrency": "CNY",
       "skills": [
-        "go",
-        "flutter"
+        "python",
+        "react",
+        "docker",
+        "kubernetes",
+        "postgresql",
+        "redis"
       ],
-      "category": "其他",
-      "postedDate": "2026-10-24",
-      "url": "https://www.v2ex.com/t/1251580",
+      "category": "算法/AI",
+      "postedDate": "2026-10-25",
+      "url": "https://www.v2ex.com/t/1251611",
       "source": "V2EX",
       "region": "domestic"
     },
@@ -79,49 +83,6 @@
       "category": "算法/AI",
       "postedDate": "2026-10-24",
       "url": "https://www.v2ex.com/t/1251510",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1251506",
-      "title": "招 1 名全栈工程师（AI 伴侣方向）",
-      "company": "yjpeminem0604",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "python",
-        "java",
-        "typescript",
-        "react",
-        "vue",
-        "node"
-      ],
-      "category": "全栈",
-      "postedDate": "2026-10-24",
-      "url": "https://www.v2ex.com/t/1251506",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1251482",
-      "title": "SEO 专员",
-      "company": "flycat326",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "go"
-      ],
-      "category": "其他",
-      "postedDate": "2026-10-24",
-      "url": "https://www.v2ex.com/t/1251482",
       "source": "V2EX",
       "region": "domestic"
     },
@@ -211,6 +172,42 @@
       "category": "运维/SRE",
       "postedDate": "2026-10-22",
       "url": "https://www.v2ex.com/t/1250973",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1250894",
+      "title": "招聘 llvm / mlir / ai 编译器 相关岗位(不限年龄)",
+      "company": "fallshuang",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "python"
+      ],
+      "category": "算法/AI",
+      "postedDate": "2026-10-22",
+      "url": "https://www.v2ex.com/t/1250894",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1250883",
+      "title": "招聘 FPGA 工程师，欢迎投递",
+      "company": "emery223",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [],
+      "category": "人力/HR",
+      "postedDate": "2026-10-22",
+      "url": "https://www.v2ex.com/t/1250883",
       "source": "V2EX",
       "region": "domestic"
     },
