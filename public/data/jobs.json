@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T05:46:27.292Z",
+  "updated": "2026-10-25T10:52:05.893Z",
   "count": 118,
   "sources": {
     "V2EX": 9,
@@ -9,6 +9,26 @@
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1251653",
+      "title": "SHEIN 测试岗内推 全量 15 岗（15-65k）",
+      "company": "rowena1225",
+      "location": "深圳/上海/南京/广州/珠海",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "python",
+        "java"
+      ],
+      "category": "测试",
+      "postedDate": "2026-10-25",
+      "url": "https://www.v2ex.com/t/1251653",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1251611",
       "title": "AI 应用开发工程师｜招募像姚顺雨一样，有技术追求的工程师",
@@ -191,23 +211,6 @@
       "category": "算法/AI",
       "postedDate": "2026-10-22",
       "url": "https://www.v2ex.com/t/1250894",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1250883",
-      "title": "招聘 FPGA 工程师，欢迎投递",
-      "company": "emery223",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [],
-      "category": "人力/HR",
-      "postedDate": "2026-10-22",
-      "url": "https://www.v2ex.com/t/1250883",
       "source": "V2EX",
       "region": "domestic"
     },
