@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T14:53:19.129Z",
+  "updated": "2026-10-25T18:12:54.934Z",
   "count": 118,
   "sources": {
     "V2EX": 9,
@@ -9,6 +9,28 @@
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1251724",
+      "title": "高级 Unity3D 游戏开发工程师 1 名 远程办公",
+      "company": "darrenlv",
+      "location": "国内",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "java",
+        "c++",
+        "c#",
+        "kotlin"
+      ],
+      "category": "其他",
+      "postedDate": "2026-10-25",
+      "url": "https://www.v2ex.com/t/1251724",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1251653",
       "title": "SHEIN 测试岗内推 全量 15 岗（15-65k）",
@@ -196,23 +218,30 @@
       "region": "domestic"
     },
     {
-      "id": "v2ex-1250894",
-      "title": "招聘 llvm / mlir / ai 编译器 相关岗位(不限年龄)",
-      "company": "fallshuang",
-      "location": "国内",
-      "remote": false,
+      "id": "remoteok-1137569",
+      "title": "Field Phlebotomy Supervisor Northern California",
+      "company": "Getlabs",
+      "location": "Remote",
+      "remote": true,
       "salaryText": "",
       "salaryMin": null,
       "salaryMax": null,
-      "salaryCurrency": "CNY",
+      "salaryCurrency": "",
       "skills": [
-        "python"
+        "supervisor",
+        "testing",
+        "marketing",
+        "exec",
+        "mobile",
+        "ops",
+        "medical",
+        "full time"
       ],
-      "category": "算法/AI",
-      "postedDate": "2026-10-22",
-      "url": "https://www.v2ex.com/t/1250894",
-      "source": "V2EX",
-      "region": "domestic"
+      "category": "supervisor",
+      "postedDate": "2026-10-24",
+      "url": "https://remoteOK.com/remote-jobs/remote-field-phlebotomy-supervisor-northern-california-getlabs-1137569",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137568",
@@ -300,33 +329,6 @@
       "category": "front end",
       "postedDate": "2026-10-23",
       "url": "https://remoteOK.com/remote-jobs/remote-senior-frontend-engineer-b2spin-1137562",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137561",
-      "title": "Sales Development Representative B2B",
-      "company": "Huzzle",
-      "location": "Remote",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "saas",
-        "salesforce",
-        "education",
-        "customer support",
-        "marketing",
-        "finance",
-        "exec",
-        "sales",
-        "full time"
-      ],
-      "category": "saas",
-      "postedDate": "2026-10-23",
-      "url": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-b2b-huzzle-1137561",
       "source": "RemoteOK",
       "region": "foreign"
     },
