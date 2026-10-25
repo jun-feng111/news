@@ -1,6 +1,18 @@
 {
   "AI": [
     {
+      "id": "aab16b771856",
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "summary": "The hottest AI wearables and gadgets you should know about",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-25T14:10:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2016/09/robocash.jpg?resize=1200,849",
+      "score": 80,
+      "tags": []
+    },
+    {
       "id": "14717cc2caa6",
       "title": "Will AI expose the rickety infrastructure of the internet?",
       "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
@@ -13,30 +25,6 @@
       "tags": []
     },
     {
-      "id": "b8554dad591a",
-      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "summary": "Forced to pick, Grok’s AI model chooses Republicans。 OpenAI’s picks Democrats",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-24T15:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1777713346.jpg?resize=1200,900",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "b2f0cf19fa7c",
-      "title": "Here are the top AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "summary": "Here are the top AI agents that can live in your text messages",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-24T14:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
-      "score": 75,
-      "tags": []
-    },
-    {
       "id": "aae262bb6858",
       "title": "Starlink seems to be working normally again in Ukraine",
       "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
@@ -45,6 +33,18 @@
       "category": "AI",
       "published": "2026-10-24T20:46:34.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/starlink.jpg?resize=1200,800",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "b8554dad591a",
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "summary": "Forced to pick, Grok’s AI model chooses Republicans。 OpenAI’s picks Democrats",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-24T15:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1777713346.jpg?resize=1200,900",
       "score": 70,
       "tags": []
     },
@@ -107,7 +107,7 @@
       "category": "科技",
       "published": "2026-10-24T15:00:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-duo.jpeg?resize=1200,675",
-      "score": 70,
+      "score": 65,
       "tags": []
     },
     {
@@ -119,7 +119,7 @@
       "category": "科技",
       "published": "2026-10-24T14:15:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/boox-palma-2-pro.png?resize=1200,666",
-      "score": 70,
+      "score": 65,
       "tags": []
     }
   ],
@@ -137,18 +137,6 @@
       "tags": []
     },
     {
-      "id": "eb8173a64861",
-      "title": "美国网络安全招聘市场降温：岗位发布量大降26% AI安全工程师需求 ...",
-      "url": "https://www.msn.com/zh-cn/money/通用/美国网络安全招聘市场降温-岗位发布量大降26-ai安全工程师需求激增268/ar-AA2fyjrC",
-      "summary": "最新发布的一份美国网络安全就业市场报告显示，尽管整体招聘需求持续下滑并跌至近四年来最低水平，但与人工智能相关的网络安全岗位却逆势增长，其中AI安全工程师成为增长最快的职位之一。该报告由CyberSN发",
-      "source": "安全工程师·就业分析",
-      "category": "就业",
-      "published": "2026-10-19T01:15:30.000Z",
-      "image": "",
-      "score": 65,
-      "tags": []
-    },
-    {
       "id": "26c8ab7c2bbb",
       "title": "CyberSN：2026年1-9月美国网络安全职位发布量235786个，同比下降26.4%",
       "url": "https://finance.sina.com.cn/tech/roll/2026-10-19/doc-inivumam6837930.shtml",
@@ -156,7 +144,17 @@
       "source": "安全工程师·就业分析",
       "category": "就业",
       "published": "2026-10-19T13:23:00.000Z",
-      "image": "https://n.sinaimg.cn/tech/zcapp2018/doc_qrcode1.png",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "eb8173a64861",
+      "title": "美国网络安全招聘市场降温：岗位发布量大降26% AI安全工程师需求 ...",
+      "url": "https://www.msn.com/zh-cn/money/通用/美国网络安全招聘市场降温-岗位发布量大降26-ai安全工程师需求激增268/ar-AA2fyjrC",
+      "summary": "最新发布的一份美国网络安全就业市场报告显示，尽管整体招聘需求持续下滑并跌至近四年来最低水平，但与人工智能相关的网络安全岗位却逆势增长，其中AI安全工程师成为增长最快的职位之一。该报告由CyberSN发",
+      "source": "安全工程师·就业分析",
+      "category": "就业",
+      "published": "2026-10-19T01:15:30.000Z",
       "score": 65,
       "tags": []
     },
@@ -223,26 +221,88 @@
       "tags": []
     },
     {
-      "id": "f5cb39eaf8f6",
-      "title": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
-      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202606/t20260602_1438600.html",
-      "summary": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
-      "source": "教育部",
+      "id": "14f582714f9f",
+      "title": "揭牌！仲恺入选全国高校毕业生就业能力培训基地",
+      "url": "https://www.sohu.com/a/1091846217_121124021",
+      "summary": "10月23日上午，仲恺农业工程学院2026年“宏志助航计划”全国高校毕业生就业能力培训基地揭牌暨开班仪式在白云校区图书馆1号报告厅举行。广东省教育厅学生就业创业处副处长周贵，学校党委常委、副校长徐玉娟",
+      "source": "Bing·高校毕业生就业创业政策",
       "category": "政策",
-      "published": "2026-06-02T00:00:00.000Z",
-      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+      "published": "2026-10-23T12:10:00.000Z",
+      "image": "https://q0.itc.cn/q_70/images03/20261023/d802aa4e6d1844adb6d676ecf1923498.jpeg",
       "score": 50,
       "tags": []
     },
     {
-      "id": "a3af074b2b9b",
-      "title": "2026-05-22教育部等八部门办公厅关于联合开展2026年度高校毕业生等重点群体促就业“国聘行动”的通知",
-      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202605/t20260522_1437356.html",
-      "summary": "2026-05-22教育部等八部门办公厅关于联合开展2026年度高校毕业生等重点群体促就业“国聘行动”的通知",
-      "source": "教育部",
+      "id": "d95d7ee7b34a",
+      "title": "区县联播丨历下 市中 长清 钢城：大学生新创办企业资助资金发放 ...",
+      "url": "https://www.sohu.com/a/1091848553_121106991",
+      "summary": "历下人社：举办济南市第一批大学生新创办企业资助项目资金发放仪式 精准赋能青年创业发展 10月22日上午，历下区人社局正式举办济南市第一批大学生新创办企业资助项目资金发放仪式暨创业项目指导座谈会，切实落",
+      "source": "Bing·大学生创业扶持政策",
       "category": "政策",
-      "published": "2026-05-22T00:00:00.000Z",
-      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+      "published": "2026-10-23T12:20:00.000Z",
+      "image": "https://q7.itc.cn/q_70/images03/20261023/a179553337e444c78bf9504ff2701c99.jpeg",
+      "score": 50,
+      "tags": []
+    }
+  ],
+  "开发": [
+    {
+      "id": "53607e6a22df",
+      "title": "讯飞发布新一代端到端交互模型：语音大模型调用量暴涨20倍，端侧已实现约70%云端能力",
+      "url": "https://www.infoq.cn/article/Md0kdMxGI6flIbZXH1yg?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/Md0kdMxGI6flIbZXH1yg",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-10-23T11:39:27.000Z",
+      "image": "https://static001.infoq.cn/resource/image/14/0b/149950045aaed6f9217eb4b0532c110b.png",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "3e5723045e90",
+      "title": "决策模型也有专用推理引擎了：StartLux 开源 Prism，单卡最高提速 5.3 倍",
+      "url": "https://www.infoq.cn/article/reksyo9EBAcP11Ns2GTO?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/reksyo9EBAcP11Ns2GTO",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-10-23T12:03:49.000Z",
+      "image": "https://static001.infoq.cn/resource/image/a5/f8/a5f7f8f9e51816cafeae4e0fb8d447f8.png",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "8b0a05f66f30",
+      "title": "Foresight AI 正式可用，Gremlin 将智能体引入可靠性工程",
+      "url": "https://www.infoq.cn/article/2bKQkdiAcGEycHJLYPv5?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/2bKQkdiAcGEycHJLYPv5",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-10-23T11:15:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/67/7c/678cb4340257c03d4a197f7b8dbdf17c.jpg",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "7f1b6e2c86e6",
+      "title": "Xcode 27.2 推出对智能体友好、有效减少合并冲突的 JSON 项目配置格式",
+      "url": "https://www.infoq.cn/article/7ResdjAZYy8yltOh6drM?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/7ResdjAZYy8yltOh6drM",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-10-23T13:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/be/2b/be87e1de794e86d5f66dd0846548952b.jpg",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "09fe172e293c",
+      "title": "实测小艺 Work：从全媒体运营到深度研究的完整体验",
+      "url": "https://www.infoq.cn/article/pF59m5h9647ySCb9Afqr?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/pF59m5h9647ySCb9Afqr",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-10-23T12:12:40.000Z",
+      "image": "https://static001.infoq.cn/resource/image/98/e4/9819eb1d7c981c623cc375f3815185e4.jpg",
       "score": 50,
       "tags": []
     }
@@ -258,6 +318,18 @@
       "published": "2026-10-23T03:15:13.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 55,
+      "tags": []
+    },
+    {
+      "id": "7a057df35e9c",
+      "title": "从大学课堂到田间地头：上海松江校地协同让终身学习“触手可及”",
+      "url": "https://www.chinanews.com.cn/edu/2026/10-23/10720063.shtml",
+      "summary": "中新网上海10月23日电 (记者 陈静)“我退休以后，可以来贵校学习吗。”“当然可以",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-10-23T13:28:00.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
       "tags": []
     },
     {
@@ -295,21 +367,45 @@
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 50,
       "tags": []
-    },
-    {
-      "id": "a5a167627bae",
-      "title": "（文化新纪行｜校馆弦歌）南开大学图书馆：劫火余书弦歌续 丽泽共读破界生",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-21/10718543.shtml",
-      "summary": "中新社天津10月21日电 题：南开大学图书馆：劫火余书弦歌续  丽泽共读破界生",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-10-21T08:00:29.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
     }
   ],
   "财经": [
+    {
+      "id": "494bdad8c1e0",
+      "title": "湖北宜昌：长江之畔“长”出绿色算力科创高地",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720841.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-10-25T12:56:08.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "03a2f806d31e",
+      "title": "六大议题90余场活动  2026进博会上海会议活动蓄势待发",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720810.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-10-25T12:18:52.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "582c7ebb1e89",
+      "title": "“哈铁”开行今年首趟外籍研学专列",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720802.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-10-25T12:02:11.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "2a5127cee5e1",
+      "title": "广西推介水果新品种 为不同气候带产区提供特色品种",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720775.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-10-25T11:20:25.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
     {
       "id": "7e87864049ed",
       "title": "内蒙古霍林郭勒开通至上海航线 “绿电铝之城”空中连通长三角",
@@ -318,89 +414,6 @@
       "category": "财经",
       "published": "2026-10-25T10:40:52.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "06de7ccd424f",
-      "title": "上合组织国家“亮相”陕西杨凌 “双展”启幕深化农业国际合作",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720755.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-10-25T09:57:32.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "b01c9e7ccace",
-      "title": "云南云临高速公路20公里特长隧道左幅贯通",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720743.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-10-25T09:48:30.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "b91a5bed6275",
-      "title": "济枣铁路重点工程安子岭隧道顺利贯通",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720746.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-10-25T09:42:29.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "3b27634bb83d",
-      "title": "中外企业绿色发展与全球贡献国际传播研讨会举行，平安集团盛瑞生发表主题演讲",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720724.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-10-25T09:06:21.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    }
-  ],
-  "开发": [
-    {
-      "id": "82950c931720",
-      "title": "Cloudflare 的 OHTTP 网关拒绝解密通过 Cloudflare 传入的请求",
-      "url": "https://www.infoq.cn/article/4647jBOxmf3Ut0i1aVbx?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-10-25T14:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/4d/26/4d8b9e42332bb4202201db43a5196c26.jpg"
-    },
-    {
-      "id": "d822a479bf12",
-      "title": "四分之一PR是“AI垃圾”！Linux基金会发布新报告：AI写代码快了52%，开源维护者却更累了",
-      "url": "https://www.infoq.cn/article/9TSuUDxrUSGS26XTA2yB?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-10-25T10:30:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/c1/35/c15beb00303c61b6c390e794b2659035.png"
-    },
-    {
-      "id": "ddbd2cf2f932",
-      "title": "Java 近期新闻：Grails 8、Open Liberty、GlassFish、Infinispan、LangChain4j、Spock",
-      "url": "https://www.infoq.cn/article/BHWP4JJDeExZZWsifFlg?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-10-25T09:06:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/4e/92/4eb85fbae781aaefd5acc49425627692.jpg"
-    },
-    {
-      "id": "14e19ea6b344",
-      "title": "React 19.3 新增 browser() API，使“仅客户端渲染”成为一等公民",
-      "url": "https://www.infoq.cn/article/jNX6EAzqP34xRjqUMU1N?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-10-24T13:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/28/e0/285bf985da825d57d75ac729f87da7e0.jpg"
-    },
-    {
-      "id": "3aa8416c2fa5",
-      "title": "何时应使用 Liquid Clustering？湖仓布局策略基准测试",
-      "url": "https://www.infoq.cn/article/lkefSu7SjjIHL1Fmk0Pv?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-10-24T10:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/da/9f/daf11b674890e950bbd484f82a62f19f.jpg"
     }
   ]
 }
