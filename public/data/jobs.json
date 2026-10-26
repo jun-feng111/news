@@ -1,14 +1,70 @@
 {
-  "updated": "2026-10-26T09:48:36.029Z",
-  "count": 118,
+  "updated": "2026-10-26T16:33:58.904Z",
+  "count": 119,
   "sources": {
-    "V2EX": 9,
+    "V2EX": 10,
     "RemoteOK": 99,
     "Remotive": 10,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1252047",
+      "title": "游戏平台运营",
+      "company": "darrenlv",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [],
+      "category": "运营",
+      "postedDate": "2026-10-26",
+      "url": "https://www.v2ex.com/t/1252047",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1252042",
+      "title": "游戏公司远程直招 服务端/买量策划/数据运营/运营/双语客服/平台运营/发行负责/SEO 增长/AI 视频/素材/影游导演/AIGC 影像/核心导演/短剧编剧/短剧剪辑/创作者运营/产品数据/产品经理/游戏 UI/特效",
+      "company": "andyxinweimin",
+      "location": "国内",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [],
+      "category": "后端",
+      "postedDate": "2026-10-26",
+      "url": "https://www.v2ex.com/t/1252042",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1252035",
+      "title": "[外包][汇丰项目] 帮 HR 找英语好的 Java 开发， Senior DevRel 方向（不支持长期远程）",
+      "company": "gdjdkid2014",
+      "location": "广州/西安",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "java",
+        "go",
+        "node",
+        "kotlin"
+      ],
+      "category": "人力/HR",
+      "postedDate": "2026-10-26",
+      "url": "https://www.v2ex.com/t/1252035",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1251797",
       "title": "招聘（CEX）： Google SEO 站群&寄生虫运营专家",
@@ -172,49 +228,28 @@
       "region": "domestic"
     },
     {
-      "id": "v2ex-1251134",
-      "title": "测试开发工程师｜招募像姚顺雨一样，有技术追求的工程师",
-      "company": "biteaglelabs",
-      "location": "全职 / AI 公司",
-      "remote": false,
+      "id": "remoteok-1137571",
+      "title": "Senior Software Engineer",
+      "company": "Klardaten",
+      "location": "Remote",
+      "remote": true,
       "salaryText": "",
       "salaryMin": null,
       "salaryMax": null,
-      "salaryCurrency": "CNY",
+      "salaryCurrency": "",
       "skills": [
-        "python",
-        "java",
-        "go",
-        "c++",
-        "react",
-        "linux",
-        "postgresql",
-        "redis"
+        "dev",
+        "senior",
+        "javascript",
+        "typescript",
+        "full stack",
+        "api"
       ],
-      "category": "算法/AI",
-      "postedDate": "2026-10-23",
-      "url": "https://www.v2ex.com/t/1251134",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1250894",
-      "title": "招聘 llvm / mlir / ai 编译器 相关岗位(不限年龄)",
-      "company": "fallshuang",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "python"
-      ],
-      "category": "算法/AI",
-      "postedDate": "2026-10-22",
-      "url": "https://www.v2ex.com/t/1250894",
-      "source": "V2EX",
-      "region": "domestic"
+      "category": "dev",
+      "postedDate": "2026-10-25",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-klardaten-1137571",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137569",
@@ -3085,27 +3120,6 @@
       "category": "analyst",
       "postedDate": "2026-08-14",
       "url": "https://remoteOK.com/remote-jobs/remote-brand-protection-marketplace-compliance-analyst-multiplymii-1136687",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1136625",
-      "title": "Gardener Handyman Driver",
-      "company": "NT Health",
-      "location": "Alice Springs,",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "customer support",
-        "exec",
-        "medical"
-      ],
-      "category": "customer support",
-      "postedDate": "2026-08-13",
-      "url": "https://remoteOK.com/remote-jobs/remote-gardener-handyman-driver-nt-health-1136625",
       "source": "RemoteOK",
       "region": "foreign"
     }
