@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T23:53:06.952Z",
+  "updated": "2026-10-26T03:30:30.006Z",
   "count": 118,
   "sources": {
     "V2EX": 9,
@@ -10,24 +10,21 @@
   },
   "jobs": [
     {
-      "id": "v2ex-1251724",
-      "title": "高级 Unity3D 游戏开发工程师 1 名 远程办公",
-      "company": "darrenlv",
+      "id": "v2ex-1251797",
+      "title": "招聘（CEX）： Google SEO 站群&寄生虫运营专家",
+      "company": "justinX",
       "location": "国内",
-      "remote": true,
+      "remote": false,
       "salaryText": "",
       "salaryMin": null,
       "salaryMax": null,
       "salaryCurrency": "CNY",
       "skills": [
-        "java",
-        "c++",
-        "c#",
-        "kotlin"
+        "go"
       ],
-      "category": "其他",
-      "postedDate": "2026-10-25",
-      "url": "https://www.v2ex.com/t/1251724",
+      "category": "运营",
+      "postedDate": "2026-10-26",
+      "url": "https://www.v2ex.com/t/1251797",
       "source": "V2EX",
       "region": "domestic"
     },
@@ -201,19 +198,21 @@
       "region": "domestic"
     },
     {
-      "id": "v2ex-1250973",
-      "title": "技术项目经理（游戏运维中台方向）来了来了",
-      "company": "darrenlv",
+      "id": "v2ex-1250894",
+      "title": "招聘 llvm / mlir / ai 编译器 相关岗位(不限年龄)",
+      "company": "fallshuang",
       "location": "国内",
       "remote": false,
       "salaryText": "",
       "salaryMin": null,
       "salaryMax": null,
       "salaryCurrency": "CNY",
-      "skills": [],
-      "category": "运维/SRE",
+      "skills": [
+        "python"
+      ],
+      "category": "算法/AI",
       "postedDate": "2026-10-22",
-      "url": "https://www.v2ex.com/t/1250973",
+      "url": "https://www.v2ex.com/t/1250894",
       "source": "V2EX",
       "region": "domestic"
     },
