@@ -1,6 +1,18 @@
 {
   "AI": [
     {
+      "id": "9e4fbbe06937",
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "summary": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-25T21:31:16.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
+      "score": 85,
+      "tags": []
+    },
+    {
       "id": "71c43854f4ff",
       "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
       "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
@@ -9,7 +21,7 @@
       "category": "AI",
       "published": "2026-10-25T16:57:32.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1308803174.jpg?resize=1200,800",
-      "score": 80,
+      "score": 75,
       "tags": []
     },
     {
@@ -38,25 +50,13 @@
     },
     {
       "id": "b4262eb1394d",
-      "title": "‘Cyberselfish’ author takes aim at Silicon Valley libertarians as her book returns from the dead",
+      "title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
       "url": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
-      "summary": "‘Cyberselfish’ author takes aim at Silicon Valley libertarians as her book returns from the dead",
+      "summary": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
       "source": "TechCrunch",
       "category": "AI",
       "published": "2026-10-25T20:20:08.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/paulina-borsook.jpeg?resize=1139,1200",
-      "score": 65,
-      "tags": []
-    },
-    {
-      "id": "aae262bb6858",
-      "title": "Starlink seems to be working normally again in Ukraine",
-      "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
-      "summary": "Starlink seems to be working normally again in Ukraine",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-24T20:46:34.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/starlink.jpg?resize=1200,800",
       "score": 65,
       "tags": []
     }
@@ -71,7 +71,7 @@
       "category": "科技",
       "published": "2026-10-25T16:05:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/tesla-cybercab-getty.jpg?resize=1200,834",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -102,13 +102,10 @@
       "id": "153c8391e852",
       "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
       "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
-      "summary": "PHP-ocalypse: How two critical web bugs almost broke the internet",
       "source": "TechCrunch",
       "category": "科技",
       "published": "2026-10-24T15:30:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/php-web-bug-padlock-2300746159.jpg?resize=1200,800",
-      "score": 65,
-      "tags": []
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/php-web-bug-padlock-2300746159.jpg?resize=1200,800"
     },
     {
       "id": "55a3645b46a9",
@@ -134,18 +131,6 @@
       "tags": []
     },
     {
-      "id": "eb8173a64861",
-      "title": "美国网络安全招聘市场降温：岗位发布量大降26% AI安全工程师需求 ...",
-      "url": "https://www.msn.com/zh-cn/money/通用/美国网络安全招聘市场降温-岗位发布量大降26-ai安全工程师需求激增268/ar-AA2fyjrC",
-      "summary": "最新发布的一份美国网络安全就业市场报告显示，尽管整体招聘需求持续下滑并跌至近四年来最低水平，但与人工智能相关的网络安全岗位却逆势增长，其中AI安全工程师成为增长最快的职位之一。该报告由CyberSN发",
-      "source": "安全工程师·就业分析",
-      "category": "就业",
-      "published": "2026-10-19T01:15:30.000Z",
-      "image": "",
-      "score": 65,
-      "tags": []
-    },
-    {
       "id": "26c8ab7c2bbb",
       "title": "CyberSN：2026年1-9月美国网络安全职位发布量235786个，同比下降26.4%",
       "url": "https://finance.sina.com.cn/tech/roll/2026-10-19/doc-inivumam6837930.shtml",
@@ -154,6 +139,18 @@
       "category": "就业",
       "published": "2026-10-19T13:23:00.000Z",
       "image": "https://n.sinaimg.cn/tech/zcapp2018/doc_qrcode1.png",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "eb8173a64861",
+      "title": "美国网络安全招聘市场降温：岗位发布量大降26% AI安全工程师需求 ...",
+      "url": "https://www.msn.com/zh-cn/money/通用/美国网络安全招聘市场降温-岗位发布量大降26-ai安全工程师需求激增268/ar-AA2fyjrC",
+      "summary": "最新发布的一份美国网络安全就业市场报告显示，尽管整体招聘需求持续下滑并跌至近四年来最低水平，但与人工智能相关的网络安全岗位却逆势增长，其中AI安全工程师成为增长最快的职位之一。该报告由CyberSN发",
+      "source": "安全工程师·就业分析",
+      "category": "就业",
+      "published": "2026-10-19T01:15:30.000Z",
+      "image": "",
       "score": 65,
       "tags": []
     },
@@ -320,37 +317,14 @@
       "tags": []
     },
     {
-      "id": "68a049009a26",
-      "title": "“才” 聚镇江 “蕙” 创未来女大学生就业创业沙龙走进江苏大学",
-      "url": "https://www.sohu.com/a/1091789698_121106832",
-      "summary": "为进一步深化“巾帼就业创业促进行动”，更好地支持和促进女大学生高质量就业创业，吸引集聚更多在镇高校优秀女大学生留镇发展，10月22日下午，“‘才’聚镇江‘蕙’创未来”女大学生就业创业沙龙交流活动在江苏",
+      "id": "9d4285edf98d",
+      "title": "获嘉县就业创业服务中心：校地携手促就业 就业服务进校园",
+      "url": "https://finance.sina.com.cn/wm/2026-10-21/doc-inivysym6205802.shtml",
+      "summary": "为扎实做好高校毕业生就业创业服务，推动就业政策、岗位资源进校园。10月20-21日，县就业创业服务中心联合河南女子职业学院驻新高校就业服务站，依托学校学生运动会开展就业创业政策宣传暨企业岗位推介活动",
       "source": "Bing·大学生就业政策",
       "category": "政策",
-      "published": "2026-10-23T10:16:00.000Z",
-      "image": "https://q5.itc.cn/q_70/images03/20261023/3177f7c4360544f59cc3ed3ab6796455.jpeg",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "c6f9fbfbf9b8",
-      "title": "太原市大学生就业人才补贴政策：留学归国者可获53万补贴！",
-      "url": "https://www.sohu.com/a/1091622024_121956425",
-      "summary": "太原市近日推出了一项引人瞩目的大学生就业人才补贴政策，旨在吸引更多优秀人才留在太原发展。根据这一政策，符合条件的全日制博士、世界前200及双一流高校的硕士和本科生，将获得丰厚的生活补助和学费、购房补贴",
-      "source": "Bing·大学生就业政策",
-      "category": "政策",
-      "published": "2026-10-23T04:02:00.000Z",
-      "image": "",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "b291fb7f200c",
-      "title": "“齐鲁青未了&#183;职路正当时”——山东省大学生就业指导“就业第一 ...",
-      "url": "https://shandong.eol.cn/sdzy/202610/t20261019_2783889.shtml",
-      "summary": "为强化大学生就业指导服务，提升学生求职竞争力，助力毕业生高质量充分就业，10月9日下午，由山东省人力资源和社会保障厅、山东省教育厅主办，山东省公共就业和人才服务中心和我校联合承办的“‘齐鲁青未了・职路",
-      "source": "Bing·大学生就业政策",
-      "category": "政策",
-      "published": "2026-10-19T07:05:00.000Z",
+      "published": "2026-10-21T03:56:00.000Z",
+      "image": "//n.sinaimg.cn/front20261021ac/568/w684h684/20261021/1416-b5f639c46992153088a564d6c685190f.jpg",
       "score": 50,
       "tags": []
     },
@@ -365,9 +339,69 @@
       "image": "https://n.sinaimg.cn/finance/transform/260/w880h180/20180326/zi4T-fysqfnf9377213.png",
       "score": 50,
       "tags": []
+    },
+    {
+      "id": "14f582714f9f",
+      "title": "揭牌！仲恺入选全国高校毕业生就业能力培训基地",
+      "url": "https://www.sohu.com/a/1091846217_121124021",
+      "summary": "10月23日上午，仲恺农业工程学院2026年“宏志助航计划”全国高校毕业生就业能力培训基地揭牌暨开班仪式在白云校区图书馆1号报告厅举行。广东省教育厅学生就业创业处副处长周贵，学校党委常委、副校长徐玉娟",
+      "source": "Bing·高校毕业生就业创业政策",
+      "category": "政策",
+      "published": "2026-10-23T12:10:00.000Z",
+      "image": "https://q0.itc.cn/q_70/images03/20261023/d802aa4e6d1844adb6d676ecf1923498.jpeg",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "d95d7ee7b34a",
+      "title": "区县联播丨历下 市中 长清 钢城：大学生新创办企业资助资金发放 ...",
+      "url": "https://www.sohu.com/a/1091848553_121106991",
+      "summary": "历下人社：举办济南市第一批大学生新创办企业资助项目资金发放仪式 精准赋能青年创业发展 10月22日上午，历下区人社局正式举办济南市第一批大学生新创办企业资助项目资金发放仪式暨创业项目指导座谈会，切实落",
+      "source": "Bing·大学生创业扶持政策",
+      "category": "政策",
+      "published": "2026-10-23T12:20:00.000Z",
+      "image": "https://q7.itc.cn/q_70/images03/20261023/a179553337e444c78bf9504ff2701c99.jpeg",
+      "score": 50,
+      "tags": []
     }
   ],
   "财经": [
+    {
+      "id": "06d0da6aa33c",
+      "title": "不靠海的内陆城市，如何把锂电池卖向全球？",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720886.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-10-25T23:44:02.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "1207b1a768af",
+      "title": "占比超50% 年轻人正成为红色旅游主力军",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720885.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-10-25T23:42:19.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "25b26b66e83e",
+      "title": "工厂、商超都在用！年产量冲刺10万台！重大“机”遇，如何抓住？",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720884.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-10-25T23:39:31.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "33390a5c4960",
+      "title": "护航对外投资高质量发展，新办法12月1日起施行",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-26/10720883.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-10-25T23:32:47.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
     {
       "id": "494bdad8c1e0",
       "title": "湖北宜昌：长江之畔“长”出绿色算力科创高地",
@@ -375,42 +409,6 @@
       "source": "中新网财经",
       "category": "财经",
       "published": "2026-10-25T12:56:08.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "03a2f806d31e",
-      "title": "六大议题90余场活动  2026进博会上海会议活动蓄势待发",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720810.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-10-25T12:18:52.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "582c7ebb1e89",
-      "title": "“哈铁”开行今年首趟外籍研学专列",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720802.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-10-25T12:02:11.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "2a5127cee5e1",
-      "title": "广西推介水果新品种 为不同气候带产区提供特色品种",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720775.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-10-25T11:20:25.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "7e87864049ed",
-      "title": "内蒙古霍林郭勒开通至上海航线 “绿电铝之城”空中连通长三角",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-25/10720763.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-10-25T10:40:52.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
