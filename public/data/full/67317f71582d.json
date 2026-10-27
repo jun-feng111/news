@@ -1,0 +1,7 @@
+{
+  "id": "67317f71582d",
+  "title": "LLM   Agent 刷题路线图上线 - labuladong",
+  "url": "https://www.cnblogs.com/labuladong/p/23456910",
+  "contentZh": "",
+  "contentFull": "\n最近 labuladong.online 更新了很多 LLM & Agent 开发相关的教程，大家反馈很不错~\n为了进一步方便大家追踪学习进度，网站上线了 LLM & Agent 刷题路线图：\nhttps://labuladong.online/zh/roadmap/agent/\n\n路线图中主要分两类内容：\n一类偏算法，从传统机器学习算法讲到 LLM 相关的算法。\n一类偏工程，聚焦 Agent 开发，讲解 Claude Code / Codex 实现原理，并动手用 pydantic ai 这个 Agent SDK 开发一个 Claude Code。\n每个知识点都配备了完整可运行的项目代码和精炼的源码讲解：\n\n相关算法都配备了支持 PyTorch 等科学计算环境的在线判题系统，可以像刷 LeetCode 一样刷题：\n\n当然，目前 LLM & Agent 系列教程还在不断更新，所以路线图、题库还会经常调整，力争让所有读者都有丝滑的学习体验。\n最后，希望这些功能对大家有帮助，感谢大家一直以来的支持~\n\n\n"
+}
