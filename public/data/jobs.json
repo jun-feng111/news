@@ -1,14 +1,58 @@
 {
-  "updated": "2026-10-27T01:13:41.329Z",
-  "count": 118,
+  "updated": "2026-10-27T07:24:37.099Z",
+  "count": 119,
   "sources": {
-    "V2EX": 9,
+    "V2EX": 10,
     "RemoteOK": 99,
     "Remotive": 10,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1252175",
+      "title": "[全职到岗][税前 15K] 招 IT 与自动化工程师｜跨境网络维护＋ AI 工作流",
+      "company": "Amorelle",
+      "location": "上海杨浦",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "python",
+        "java",
+        "javascript",
+        "linux"
+      ],
+      "category": "算法/AI",
+      "postedDate": "2026-10-27",
+      "url": "https://www.v2ex.com/t/1252175",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1252151",
+      "title": "RMB 42–85 万/年 Senior AI Inference Infrastructure | LLM Data | Speech AI 东京 Voice AI / AI Agent 公司",
+      "company": "HEI22",
+      "location": "全英文 HC",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "python",
+        "kubernetes",
+        "spark",
+        "pytorch"
+      ],
+      "category": "算法/AI",
+      "postedDate": "2026-10-27",
+      "url": "https://www.v2ex.com/t/1252151",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1252047",
       "title": "游戏平台运营",
@@ -185,28 +229,6 @@
       "category": "前端",
       "postedDate": "2026-10-23",
       "url": "https://www.v2ex.com/t/1251346",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1251326",
-      "title": "东京 IT 招聘： PM/PL/软件工程师，日语 N2 起，可协助办理签证",
-      "company": "GSDgsd",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "python",
-        "java",
-        "c++",
-        "php"
-      ],
-      "category": "产品",
-      "postedDate": "2026-10-23",
-      "url": "https://www.v2ex.com/t/1251326",
       "source": "V2EX",
       "region": "domestic"
     },
