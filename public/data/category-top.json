@@ -1,5 +1,79 @@
 {
+  "科技": [
+    {
+      "id": "5ac9e6d4ee78",
+      "title": "The data center boom has an upside: innovation for the US grid",
+      "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+      "summary": "The data center boom has an upside: innovation for the US grid",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-10-27T22:55:41.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55589499263_7ac8a28eb3_k.jpg?resize=1200,800",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "87e2d1810ab9",
+      "title": "Guidewire buys Hyperexponential for $1.7B in cash",
+      "url": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
+      "summary": "Guidewire buys Hyperexponential for $1。7B in cash",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-10-27T22:26:03.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Golden-AI-finance-collage.png?resize=1200,600",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "f7925f86d825",
+      "title": "From 8VC to Benchmark, here&#8217;s what&#8217;s hiding in October SEC filings",
+      "url": "https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/",
+      "summary": "From 8VC to Benchmark, here&#8217;s what&#8217;s hiding in October SEC filings",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-10-27T22:17:18.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/12/GettyImages-1650189797.jpg?resize=1200,900",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "7deffe7eded2",
+      "title": "GM is embracing hybrids now",
+      "url": "https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now/",
+      "summary": "GM is embracing hybrids now",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-10-27T21:47:02.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/01/2024-chevrolet-corvette-e-ray-3lz-010.jpg?resize=1200,899",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "0ec9dae75184",
+      "title": "Who&#8217;s really in charge at Anthropic after the IPO?",
+      "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+      "summary": "Who&#8217;s really in charge at Anthropic after the IPO",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-10-27T21:38:28.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2151610601.jpg?resize=1200,799",
+      "score": 75,
+      "tags": []
+    }
+  ],
   "AI": [
+    {
+      "id": "8145fe5ddb51",
+      "title": "Re:Build, which spun out Slate Auto, raises $2.1B",
+      "url": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
+      "summary": "Re:Build, which spun out Slate Auto, raises $2",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-27T20:31:17.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/slate-auto-truck-tesla-charging.jpg?resize=1200,800",
+      "score": 75,
+      "tags": []
+    },
     {
       "id": "fc5f9bdbfc14",
       "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
@@ -13,15 +87,15 @@
       "tags": []
     },
     {
-      "id": "ca3d25d89dc6",
-      "title": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
-      "url": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/",
-      "summary": "Apple rolls out iOS 27。2 with new Siri AI languages and security fixes",
+      "id": "e36bd78a13d6",
+      "title": "Bank of America kindly asks that you don&#8217;t share your banking password with your AI assistant",
+      "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+      "summary": "Bank of America kindly asks that you don&#8217;t share your banking password with your AI assistant",
       "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-10-27T13:54:51.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Siri-feat-iOS-27.jpg?resize=1200,648",
-      "score": 75,
+      "published": "2026-10-27T21:44:34.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
+      "score": 70,
       "tags": []
     },
     {
@@ -33,92 +107,6 @@
       "category": "AI",
       "published": "2026-10-27T17:08:08.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-14-at-7.00.44-PM.png?resize=1200,783",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "afdc5264df2f",
-      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-      "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
-      "summary": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-27T14:59:09.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/rohit-5.jpg?resize=1200,800",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "aa2d6c2cc32f",
-      "title": "Billionaire Palmer Luckey isn&#8217;t leaving California over the wealth tax",
-      "url": "https://techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax/",
-      "summary": "Billionaire Palmer Luckey isn&#8217;t leaving California over the wealth tax",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-27T13:01:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Palmer-Luckey-1.jpg?resize=1200,794",
-      "score": 70,
-      "tags": []
-    }
-  ],
-  "科技": [
-    {
-      "id": "d8d562a2d870",
-      "title": "Ford Fathom will be the cheapest American EV capable of powering a house",
-      "url": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
-      "summary": "Ford Fathom will be the cheapest American EV capable of powering a house",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-10-27T14:51:33.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Home-Power-Station_1920x1080.jpg?resize=1200,675",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "a2f5e7f0b175",
-      "title": "US government says hackers are now exploiting critical PHP web bugs",
-      "url": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/",
-      "summary": "US government says hackers are now exploiting critical PHP web bugs",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-10-27T14:40:39.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/php-outage-2300859754.jpg?resize=1200,867",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "e02efc157895",
-      "title": "Apple unveils new 14-inch MacBook Pro with M6 chip",
-      "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
-      "summary": "Apple unveils new 14-inch MacBook Pro with M6 chip",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-10-27T14:25:11.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-MacBook-Pro-14-in-with-M6-hero-261027_big.jpg.medium_2x.jpg?resize=1200,675",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "96e811b7a717",
-      "title": "Japan internet giant GMO says hackers posted stolen customer data",
-      "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
-      "summary": "Japan internet giant GMO says hackers posted stolen customer data",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-10-27T13:32:57.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/07/data-breach-overview-v2.jpg?resize=1200,675",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "3ddb9b3e3bda",
-      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
-      "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
-      "summary": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-10-27T16:30:57.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Genie-4-blog-header.png?resize=1200,675",
       "score": 65,
       "tags": []
     }
@@ -181,6 +169,17 @@
   ],
   "就业": [
     {
+      "id": "0e90f6f5b072",
+      "title": "AI应用层人才缺口暴涨！Java开发者转型AI",
+      "url": "https://blog.csdn.net/2401_85390073/article/details/167888652",
+      "summary": "文章浏览阅读383次。我在一线科技企业深耕十二载，见证过太多因技术更迭而跃迁的案例",
+      "source": "Java开发·就业分析",
+      "category": "就业",
+      "published": "2026-10-14T02:29:00.000Z",
+      "score": 65,
+      "tags": []
+    },
+    {
       "id": "38ff1e7024fa",
       "title": "不会写代码也能做测试？校招测试岗的技能要求正在悄悄改变",
       "url": "https://www.sohu.com/a/1092535398_120635785",
@@ -226,80 +225,6 @@
       "published": "2026-10-21T05:10:00.000Z",
       "image": "https://inews.gtimg.com/news_ls/Odto1_HT-gErP4WeNfoW7JTfSVJyrsDjX0AbjGt7EcvNkAA_640330/0",
       "score": 60,
-      "tags": []
-    },
-    {
-      "id": "bae180077cb0",
-      "title": "【罗曼股份】看好端侧推理发展，公司全栈模式有望抢占先机",
-      "url": "https://news.qq.com/rain/a/20261008A00I7200",
-      "summary": "近期，阿里旗下半导体公司平头哥在2026云栖大会主论坛上发布新一代训推一体AI芯片真武V900。此外，9月22日，海光信息在深圳发布1000系列CPU，这是海光首款嵌入式工控芯片，面向工业控制等物理世",
-      "source": "全栈工程师·就业分析",
-      "category": "就业",
-      "published": "2026-10-08T01:49:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/OHmQKg_KqZogWInsEdwyjiQxnuE7UHqJBmxK54ztnwpmYAA_640330/0",
-      "score": 60,
-      "tags": []
-    }
-  ],
-  "政策": [
-    {
-      "id": "a5767b3599ca",
-      "title": "政策+岗位+AI赋能！黄浦2026秋季招聘会发布高质量就业创业新政",
-      "url": "https://news.qq.com/rain/a/20261022A09LHN00",
-      "summary": "今天下午，黄浦区“秋送岗位下基层&#183;服务群众零距离”2026年秋季专场招聘暨就业创业高质量发展政策发布活动在外滩・中央广场举行。活动整合政策、产业、岗位等多方资源，采用内场主仪式+外场专场招聘",
-      "source": "Bing·大学生就业政策",
-      "category": "政策",
-      "published": "2026-10-22T09:31:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/OTecPa3-rwtH-Hv9G6MaW563q8-wIDfUVbEeH-mmWwqOYAA_640330/0",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "e6c32086fd86",
-      "title": "最高可贷50万元，湖南优化政策为大学生创业送上金融“活水”",
-      "url": "https://edu.rednet.cn/content/646043/52/16288673.html",
-      "summary": "近日，湖南省出台《关于进一步优化创业担保贷款政策全力支持大学生等重点群体创业的通知》，扩大创业担保贷款覆盖范围、提高贷款额度、降低融资成本，拿出实打实举措，助力青年创新创业。 按照新政策，创业担保贷款",
-      "source": "就业创业政策",
-      "category": "政策",
-      "published": "2026-09-18T01:57:00.000Z",
-      "image": "",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "94bf11e98121",
-      "title": "2026年甘肃省大学生就业引航示范宣讲会举办",
-      "url": "https://qnzz.youth.cn/qckc/202610/t20261025_16932241.htm",
-      "summary": "中国青年报客户端讯（中青报&#183;中青网记者 马富春 通讯员 张文琪）10月23日，由共青团甘肃省委、甘肃省学生联合会主办的“出彩人生‘就’在基层”2026年甘肃省大学生就业引航示范宣讲会（第三期",
-      "source": "Bing·大学生就业政策",
-      "category": "政策",
-      "published": "2026-10-24T17:00:00.000Z",
-      "image": "https://qnzz.youth.cn/images/20210809_tuanqi_new.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "f151c0af2e12",
-      "title": "构建就业友好型发展方式 促进高校毕业生高质量就业",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-22/doc-iniwarrp5897537.shtml",
-      "summary": "摘要：当前高校毕业生规模持续增长，就业压力凸显，部分毕业生存在“就业难”问题。文章提出构建就业友好型发展方式，多方协同发力促进高校毕业生高质量就业",
-      "source": "Bing·高校毕业生就业创业政策",
-      "category": "政策",
-      "published": "2026-10-21T23:09:00.000Z",
-      "image": "https://n.sinaimg.cn/finance/transform/260/w880h180/20180326/zi4T-fysqfnf9377213.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "d95d7ee7b34a",
-      "title": "区县联播丨历下 市中 长清 钢城：大学生新创办企业资助资金发放 ...",
-      "url": "https://www.sohu.com/a/1091848553_121106991",
-      "summary": "历下人社：举办济南市第一批大学生新创办企业资助项目资金发放仪式 精准赋能青年创业发展 10月22日上午，历下区人社局正式举办济南市第一批大学生新创办企业资助项目资金发放仪式暨创业项目指导座谈会，切实落",
-      "source": "Bing·大学生创业扶持政策",
-      "category": "政策",
-      "published": "2026-10-23T12:20:00.000Z",
-      "image": "https://q7.itc.cn/q_70/images03/20261023/a179553337e444c78bf9504ff2701c99.jpeg",
-      "score": 50,
       "tags": []
     }
   ],
@@ -365,7 +290,87 @@
       "tags": []
     }
   ],
+  "政策": [
+    {
+      "id": "e6c32086fd86",
+      "title": "最高可贷50万元，湖南优化政策为大学生创业送上金融“活水”",
+      "url": "https://edu.rednet.cn/content/646043/52/16288673.html",
+      "summary": "近日，湖南省出台《关于进一步优化创业担保贷款政策全力支持大学生等重点群体创业的通知》，扩大创业担保贷款覆盖范围、提高贷款额度、降低融资成本，拿出实打实举措，助力青年创新创业。 按照新政策，创业担保贷款",
+      "source": "就业创业政策",
+      "category": "政策",
+      "published": "2026-09-18T01:57:00.000Z",
+      "image": "",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "530da61be111",
+      "title": "太原市大学生就业人才补贴政策，留学归国就业享福利",
+      "url": "https://www.sohu.com/a/1091588085_121124029",
+      "summary": "太原市为吸引各类优秀大学生及高技能人才，出台了极具竞争力的人才政策体系，政策有效期已延长至2028年。针对全日制博士研究生、世界排名前200名大学（不含境内）及“双一流”建设高校（含建设学科）的全日制",
+      "source": "Bing·大学生就业政策",
+      "category": "政策",
+      "published": "2026-10-23T03:54:00.000Z",
+      "image": "https://q5.itc.cn/q_70/images03/20261023/85077128df1d4127a67ce80c0e90ec2a.jpeg",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "94bf11e98121",
+      "title": "2026年甘肃省大学生就业引航示范宣讲会举办",
+      "url": "https://qnzz.youth.cn/qckc/202610/t20261025_16932241.htm",
+      "summary": "中国青年报客户端讯（中青报&#183;中青网记者 马富春 通讯员 张文琪）10月23日，由共青团甘肃省委、甘肃省学生联合会主办的“出彩人生‘就’在基层”2026年甘肃省大学生就业引航示范宣讲会（第三期",
+      "source": "Bing·大学生就业政策",
+      "category": "政策",
+      "published": "2026-10-24T17:00:00.000Z",
+      "image": "https://qnzz.youth.cn/images/20210809_tuanqi_new.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "f151c0af2e12",
+      "title": "构建就业友好型发展方式 促进高校毕业生高质量就业",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-22/doc-iniwarrp5897537.shtml",
+      "summary": "摘要：当前高校毕业生规模持续增长，就业压力凸显，部分毕业生存在“就业难”问题。文章提出构建就业友好型发展方式，多方协同发力促进高校毕业生高质量就业",
+      "source": "Bing·高校毕业生就业创业政策",
+      "category": "政策",
+      "published": "2026-10-21T23:09:00.000Z",
+      "image": "https://n.sinaimg.cn/finance/transform/260/w880h180/20180326/zi4T-fysqfnf9377213.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "d95d7ee7b34a",
+      "title": "区县联播丨历下 市中 长清 钢城：大学生新创办企业资助资金发放 ...",
+      "url": "https://www.sohu.com/a/1091848553_121106991",
+      "summary": "历下人社：举办济南市第一批大学生新创办企业资助项目资金发放仪式 精准赋能青年创业发展 10月22日上午，历下区人社局正式举办济南市第一批大学生新创办企业资助项目资金发放仪式暨创业项目指导座谈会，切实落",
+      "source": "Bing·大学生创业扶持政策",
+      "category": "政策",
+      "published": "2026-10-23T12:20:00.000Z",
+      "image": "https://q7.itc.cn/q_70/images03/20261023/a179553337e444c78bf9504ff2701c99.jpeg",
+      "score": 50,
+      "tags": []
+    }
+  ],
   "财经": [
+    {
+      "id": "92134fd07a13",
+      "title": "全球AI投资持续升温，增长与风险如何平衡",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-28/10721972.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-10-27T23:22:34.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "2e593b936fd4",
+      "title": "矿产资源“户口簿”30年来首次大修订 174个矿种为何要重新登记",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-28/10721962.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-10-27T22:23:03.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
     {
       "id": "cae77599217e",
       "title": "首届“飞阅中国”低空经济应用场景大赛决赛在重庆梁平举行",
@@ -391,24 +396,6 @@
       "source": "中新网财经",
       "category": "财经",
       "published": "2026-10-27T14:22:42.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "7eb0965f52a0",
-      "title": "山东企业谋“抱团出海”新路径 中亚绿色经济赛道受关注",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721945.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-10-27T14:22:36.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "0aeeaee65dc4",
-      "title": "供销合作社科技成果在山东集中推介 促科研成果与产业需求精准对接",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721926.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-10-27T13:51:32.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
