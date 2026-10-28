@@ -1,0 +1,7 @@
+{
+  "id": "f4f5fec670b6",
+  "title": "13. 布尔类型 boolean | 判断成绩是否及格 - 老陈说编程",
+  "url": "https://www.cnblogs.com/halfcode/p/23462276",
+  "contentZh": "",
+  "contentFull": "\nArkTS 里，boolean 只有两个值：true 和 false。二选一的状态、判断出来的结果，都放在这里。\n动画视频在《13. 布尔类型 boolean | 判断成绩是否及格》。\n\n// 条件成立，及格\nlet isPass: boolean = true;\n// 条件不成立，不加糖\nlet addSugar: boolean = false;\n\n布尔值一般有两个来源。可以直接写 true 或 false，也可以写比较表达式，比较算完就是布尔结果。\n\n// 直接赋值\nlet res1: boolean = false;\n// 比较运算\nlet res2: boolean = 80 >= 60;\n\n80 >= 60 成立，res2 是 true。\n成绩过不过 60\n数学成绩沿用上一课的 86.5。及格线按 60 算，用 >= 比一次，结果放进 isPass。\n\n// 期末成绩\nlet mathScore: number = 86.5;\n// 判断成绩是否及格\nlet isPass: boolean = mathScore >= 60;\n\n86.5 比 60 大，比较成立，isPass 是 true。\n奶茶这杯不加糖。这里没有比较，直接赋 false。\n\n// 是否加糖\nlet addSugar: boolean = false;\n\n\n 打印这两个结果\n\n/*------------------------------\n布尔类型：boolean\n-------------------------------*/\n\n// 期末成绩\nlet mathScore: number = 86.5;\n// 判断成绩是否及格\nlet isPass: boolean = mathScore >= 60;\n\n// 是否加糖\nlet addSugar: boolean = false;\n\n// 打印信息\nconsole.log(\"是否及格 = \", isPass);\nconsole.log(\"是否加糖 = \", addSugar);\n\n日志两行：是否及格 = true，是否加糖 = false。\n先开启预览器，再打开日志面板，按 Ctrl + S 保存，才能看到这两行。预览器没开，日志里不会有输出。\n成绩改成 59\n把 mathScore 改成 59，再跑一次。isPass 那一行不用动，它还是拿 mathScore 去和 60 比。\n\nlet mathScore: number = 59;\nlet isPass: boolean = mathScore >= 60;\n\n59 没有到 60，比较不成立，isPass 变成 false。加糖那一行没改，日志里仍是 false。\n\n\n\n"
+}

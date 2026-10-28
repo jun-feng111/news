@@ -1,4 +1,42 @@
 {
+  "AI": [
+    {
+      "id": "092cb86201fb",
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "summary": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-27T23:34:27.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2191707579.jpg?w=1024",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "8145fe5ddb51",
+      "title": "Re:Build, which spun out Slate Auto, raises $2.1B",
+      "url": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
+      "summary": "Re:Build, which spun out Slate Auto, raises $2",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-27T20:31:17.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/slate-auto-truck-tesla-charging.jpg?resize=1200,800",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "e36bd78a13d6",
+      "title": "Bank of America kindly asks that you don&#8217;t share your banking password with your AI assistant",
+      "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+      "summary": "Bank of America kindly asks that you don&#8217;t share your banking password with your AI assistant",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-27T21:44:34.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
+      "score": 65,
+      "tags": []
+    }
+  ],
   "科技": [
     {
       "id": "5ac9e6d4ee78",
@@ -21,7 +59,7 @@
       "category": "科技",
       "published": "2026-10-27T22:26:03.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Golden-AI-finance-collage.png?resize=1200,600",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -33,7 +71,7 @@
       "category": "科技",
       "published": "2026-10-27T22:17:18.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2023/12/GettyImages-1650189797.jpg?resize=1200,900",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -45,7 +83,7 @@
       "category": "科技",
       "published": "2026-10-27T21:47:02.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2023/01/2024-chevrolet-corvette-e-ray-3lz-010.jpg?resize=1200,899",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -57,128 +95,11 @@
       "category": "科技",
       "published": "2026-10-27T21:38:28.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2151610601.jpg?resize=1200,799",
-      "score": 75,
-      "tags": []
-    }
-  ],
-  "AI": [
-    {
-      "id": "8145fe5ddb51",
-      "title": "Re:Build, which spun out Slate Auto, raises $2.1B",
-      "url": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
-      "summary": "Re:Build, which spun out Slate Auto, raises $2",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-27T20:31:17.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/slate-auto-truck-tesla-charging.jpg?resize=1200,800",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "fc5f9bdbfc14",
-      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
-      "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
-      "summary": "Disruptive raises $10B fund to make big bets on at least 10 companies",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-27T18:55:35.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1191380440.jpg?resize=1200,800",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "e36bd78a13d6",
-      "title": "Bank of America kindly asks that you don&#8217;t share your banking password with your AI assistant",
-      "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
-      "summary": "Bank of America kindly asks that you don&#8217;t share your banking password with your AI assistant",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-27T21:44:34.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
       "score": 70,
       "tags": []
-    },
-    {
-      "id": "636498a83af9",
-      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
-      "summary": "Frontier AI labs say their models refuted the Exponential Time Hypothesis。 What does that mean",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-27T17:08:08.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-14-at-7.00.44-PM.png?resize=1200,783",
-      "score": 65,
-      "tags": []
-    }
-  ],
-  "开发": [
-    {
-      "id": "d822a479bf12",
-      "title": "四分之一PR是“AI垃圾”！Linux基金会发布新报告：AI写代码快了52%，开源维护者却更累了",
-      "url": "https://www.infoq.cn/article/9TSuUDxrUSGS26XTA2yB?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/9TSuUDxrUSGS26XTA2yB",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-10-25T10:30:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/c1/35/c15beb00303c61b6c390e794b2659035.png",
-      "score": 65,
-      "tags": []
-    },
-    {
-      "id": "82950c931720",
-      "title": "Cloudflare 的 OHTTP 网关拒绝解密通过 Cloudflare 传入的请求",
-      "url": "https://www.infoq.cn/article/4647jBOxmf3Ut0i1aVbx?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/4647jBOxmf3Ut0i1aVbx",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-10-25T14:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/4d/26/4d8b9e42332bb4202201db43a5196c26.jpg",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "ddbd2cf2f932",
-      "title": "Java 近期新闻：Grails 8、Open Liberty、GlassFish、Infinispan、LangChain4j、Spock",
-      "url": "https://www.infoq.cn/article/BHWP4JJDeExZZWsifFlg?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/BHWP4JJDeExZZWsifFlg",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-10-25T09:06:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/4e/92/4eb85fbae781aaefd5acc49425627692.jpg",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "2326480b8012",
-      "title": "亿万工程师，同饮五粮春——五粮春携手GTLC为构建者举杯",
-      "url": "https://www.infoq.cn/article/rYaRAYC7xR5D28AaNdN7?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-10-27T18:39:03.000Z",
-      "image": "https://static001.infoq.cn/resource/image/19/92/1997b88537d1e71cd375ea1682126a92.jpg"
-    },
-    {
-      "id": "f8bef67b2a04",
-      "title": "Azure Container Apps Express在新的通用沙箱层上正式发布",
-      "url": "https://www.infoq.cn/article/ChONW7EYk5Vuj0VF7AkZ?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-10-27T17:17:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/f2/d8/f2f05356b8b5f2f5938ccb030242a0d8.jpg"
     }
   ],
   "就业": [
-    {
-      "id": "0e90f6f5b072",
-      "title": "AI应用层人才缺口暴涨！Java开发者转型AI",
-      "url": "https://blog.csdn.net/2401_85390073/article/details/167888652",
-      "summary": "文章浏览阅读383次。我在一线科技企业深耕十二载，见证过太多因技术更迭而跃迁的案例",
-      "source": "Java开发·就业分析",
-      "category": "就业",
-      "published": "2026-10-14T02:29:00.000Z",
-      "score": 65,
-      "tags": []
-    },
     {
       "id": "38ff1e7024fa",
       "title": "不会写代码也能做测试？校招测试岗的技能要求正在悄悄改变",
@@ -225,6 +146,80 @@
       "published": "2026-10-21T05:10:00.000Z",
       "image": "https://inews.gtimg.com/news_ls/Odto1_HT-gErP4WeNfoW7JTfSVJyrsDjX0AbjGt7EcvNkAA_640330/0",
       "score": 60,
+      "tags": []
+    },
+    {
+      "id": "858c4ad50b2a",
+      "title": "BOSS 直聘旗下 Nanbeige 开源 Nanbeige4.3-33B",
+      "url": "https://www.sohu.com/a/1092769811_100106801",
+      "summary": "10月26日消息，BOSS 直聘（Kanzhun Limited）旗下大模型实验室 Nanbeige（南北阁）通过官方 X 账号 @nanbeige 宣布开源 Nanbeige4。这是一个 33",
+      "source": "Bing·BOSS直聘",
+      "category": "就业",
+      "published": "2026-10-26T03:54:00.000Z",
+      "image": "https://q4.itc.cn/q_70/images03/20261026/a103e5ae943b4be795cb3916b34ce2e2.png",
+      "score": 60,
+      "tags": []
+    }
+  ],
+  "政策": [
+    {
+      "id": "a5767b3599ca",
+      "title": "政策+岗位+AI赋能！黄浦2026秋季招聘会发布高质量就业创业新政",
+      "url": "https://news.qq.com/rain/a/20261022A09LHN00",
+      "summary": "今天下午，黄浦区“秋送岗位下基层&#183;服务群众零距离”2026年秋季专场招聘暨就业创业高质量发展政策发布活动在外滩・中央广场举行。活动整合政策、产业、岗位等多方资源，采用内场主仪式+外场专场招聘",
+      "source": "Bing·大学生就业政策",
+      "category": "政策",
+      "published": "2026-10-22T09:31:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/OTecPa3-rwtH-Hv9G6MaW563q8-wIDfUVbEeH-mmWwqOYAA_640330/0",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "538546c3a0e0",
+      "title": "黄南州开展2026年“百日千万” 西宁一黄南高校毕业生就业协作系列 ...",
+      "url": "https://finance.sina.com.cn/wm/2026-10-26/doc-iniwpfmx9251129.shtml",
+      "summary": "近日，西宁市、黄南州两地人社部门联合开展高校毕业生定向专场招聘系列活动。活动广泛征集省、州内外及西宁市各类企业100余家，通过就业服务下沉基层牧区、优质岗位直达求职群众模式，服务求职群众千余人次，发布",
+      "source": "Bing·高校毕业生就业创业政策",
+      "category": "政策",
+      "published": "2026-10-25T17:00:00.000Z",
+      "image": "//n.sinaimg.cn/front20261026ac/198/w499h499/20261026/20a2-7de78ef1740e0a3fc508ae540e25f521.jpg",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "e6c32086fd86",
+      "title": "最高可贷50万元，湖南优化政策为大学生创业送上金融“活水”",
+      "url": "https://edu.rednet.cn/content/646043/52/16288673.html",
+      "summary": "近日，湖南省出台《关于进一步优化创业担保贷款政策全力支持大学生等重点群体创业的通知》，扩大创业担保贷款覆盖范围、提高贷款额度、降低融资成本，拿出实打实举措，助力青年创新创业。 按照新政策，创业担保贷款",
+      "source": "就业创业政策",
+      "category": "政策",
+      "published": "2026-09-18T01:57:00.000Z",
+      "image": "",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "94bf11e98121",
+      "title": "2026年甘肃省大学生就业引航示范宣讲会举办",
+      "url": "https://qnzz.youth.cn/qckc/202610/t20261025_16932241.htm",
+      "summary": "中国青年报客户端讯（中青报&#183;中青网记者 马富春 通讯员 张文琪）10月23日，由共青团甘肃省委、甘肃省学生联合会主办的“出彩人生‘就’在基层”2026年甘肃省大学生就业引航示范宣讲会（第三期",
+      "source": "Bing·大学生就业政策",
+      "category": "政策",
+      "published": "2026-10-24T17:00:00.000Z",
+      "image": "https://qnzz.youth.cn/images/20210809_tuanqi_new.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "d95d7ee7b34a",
+      "title": "区县联播丨历下 市中 长清 钢城：大学生新创办企业资助资金发放 ...",
+      "url": "https://www.sohu.com/a/1091848553_121106991",
+      "summary": "历下人社：举办济南市第一批大学生新创办企业资助项目资金发放仪式 精准赋能青年创业发展 10月22日上午，历下区人社局正式举办济南市第一批大学生新创办企业资助项目资金发放仪式暨创业项目指导座谈会，切实落",
+      "source": "Bing·大学生创业扶持政策",
+      "category": "政策",
+      "published": "2026-10-23T12:20:00.000Z",
+      "image": "https://q7.itc.cn/q_70/images03/20261023/a179553337e444c78bf9504ff2701c99.jpeg",
+      "score": 50,
       "tags": []
     }
   ],
@@ -290,113 +285,98 @@
       "tags": []
     }
   ],
-  "政策": [
-    {
-      "id": "e6c32086fd86",
-      "title": "最高可贷50万元，湖南优化政策为大学生创业送上金融“活水”",
-      "url": "https://edu.rednet.cn/content/646043/52/16288673.html",
-      "summary": "近日，湖南省出台《关于进一步优化创业担保贷款政策全力支持大学生等重点群体创业的通知》，扩大创业担保贷款覆盖范围、提高贷款额度、降低融资成本，拿出实打实举措，助力青年创新创业。 按照新政策，创业担保贷款",
-      "source": "就业创业政策",
-      "category": "政策",
-      "published": "2026-09-18T01:57:00.000Z",
-      "image": "",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "530da61be111",
-      "title": "太原市大学生就业人才补贴政策，留学归国就业享福利",
-      "url": "https://www.sohu.com/a/1091588085_121124029",
-      "summary": "太原市为吸引各类优秀大学生及高技能人才，出台了极具竞争力的人才政策体系，政策有效期已延长至2028年。针对全日制博士研究生、世界排名前200名大学（不含境内）及“双一流”建设高校（含建设学科）的全日制",
-      "source": "Bing·大学生就业政策",
-      "category": "政策",
-      "published": "2026-10-23T03:54:00.000Z",
-      "image": "https://q5.itc.cn/q_70/images03/20261023/85077128df1d4127a67ce80c0e90ec2a.jpeg",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "94bf11e98121",
-      "title": "2026年甘肃省大学生就业引航示范宣讲会举办",
-      "url": "https://qnzz.youth.cn/qckc/202610/t20261025_16932241.htm",
-      "summary": "中国青年报客户端讯（中青报&#183;中青网记者 马富春 通讯员 张文琪）10月23日，由共青团甘肃省委、甘肃省学生联合会主办的“出彩人生‘就’在基层”2026年甘肃省大学生就业引航示范宣讲会（第三期",
-      "source": "Bing·大学生就业政策",
-      "category": "政策",
-      "published": "2026-10-24T17:00:00.000Z",
-      "image": "https://qnzz.youth.cn/images/20210809_tuanqi_new.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "f151c0af2e12",
-      "title": "构建就业友好型发展方式 促进高校毕业生高质量就业",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-22/doc-iniwarrp5897537.shtml",
-      "summary": "摘要：当前高校毕业生规模持续增长，就业压力凸显，部分毕业生存在“就业难”问题。文章提出构建就业友好型发展方式，多方协同发力促进高校毕业生高质量就业",
-      "source": "Bing·高校毕业生就业创业政策",
-      "category": "政策",
-      "published": "2026-10-21T23:09:00.000Z",
-      "image": "https://n.sinaimg.cn/finance/transform/260/w880h180/20180326/zi4T-fysqfnf9377213.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "d95d7ee7b34a",
-      "title": "区县联播丨历下 市中 长清 钢城：大学生新创办企业资助资金发放 ...",
-      "url": "https://www.sohu.com/a/1091848553_121106991",
-      "summary": "历下人社：举办济南市第一批大学生新创办企业资助项目资金发放仪式 精准赋能青年创业发展 10月22日上午，历下区人社局正式举办济南市第一批大学生新创办企业资助项目资金发放仪式暨创业项目指导座谈会，切实落",
-      "source": "Bing·大学生创业扶持政策",
-      "category": "政策",
-      "published": "2026-10-23T12:20:00.000Z",
-      "image": "https://q7.itc.cn/q_70/images03/20261023/a179553337e444c78bf9504ff2701c99.jpeg",
-      "score": 50,
-      "tags": []
-    }
-  ],
   "财经": [
     {
-      "id": "92134fd07a13",
-      "title": "全球AI投资持续升温，增长与风险如何平衡",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-28/10721972.shtml",
+      "id": "9a429792cb81",
+      "title": "第三季度国家标准下载量超1200万人次 同比增长78%",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722097.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-27T23:22:34.000Z",
+      "published": "2026-10-28T03:38:50.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "2e593b936fd4",
-      "title": "矿产资源“户口簿”30年来首次大修订 174个矿种为何要重新登记",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-28/10721962.shtml",
+      "id": "1de8e49b5cf9",
+      "title": "我国农用无人机保有量超30万架 居全球首位",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722092.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-27T22:23:03.000Z",
+      "published": "2026-10-28T03:20:31.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "cae77599217e",
-      "title": "首届“飞阅中国”低空经济应用场景大赛决赛在重庆梁平举行",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721955.shtml",
+      "id": "f3b8648fa5f1",
+      "title": "希望的田野上一幅秋粮抢收画卷正徐徐展开 秸秆“二次增收”走出共赢新路径",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722091.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-27T14:49:34.000Z",
+      "published": "2026-10-28T03:17:47.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "9207c9403d59",
-      "title": "2026中欧企业家青岛论坛在青岛西海岸新区举办",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721952.shtml",
+      "id": "c638d25d4a8e",
+      "title": "第九届进博会布展启动 展品直通最快仅需35分钟",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722028.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-27T14:36:33.000Z",
+      "published": "2026-10-28T02:06:53.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "45782a3cf9d3",
-      "title": "以质量强链赋能产业升级 多省区齐聚宁夏共探煤化工绿色转型之路",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-27/10721946.shtml",
+      "id": "b239d9e78de6",
+      "title": "从广交会爆款展品看中国外贸新图景",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722023.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-27T14:22:42.000Z",
+      "published": "2026-10-28T01:58:10.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    }
+  ],
+  "开发": [
+    {
+      "id": "5a22037c4eb8",
+      "title": "轻量化异构双臂 × VLA/世界模型：家庭服务具身机器人的落地实践",
+      "url": "https://www.infoq.cn/article/7yOK6Ri9Dt4VfITmA7Vb?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-10-28T12:05:43.000Z",
+      "image": "https://static001.infoq.cn/resource/image/4a/8d/4ac931107558322b906bcab8036fe78d.jpg"
+    },
+    {
+      "id": "efd2ce693517",
+      "title": "GPT-6.1 Terra 发布：比旗舰快 3 倍，价格仅1/10！事实错误率暴降近 70%",
+      "url": "https://www.infoq.cn/article/28VVsANi9FBYRKfUz8vA?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-10-28T10:37:05.000Z",
+      "image": "https://static001.infoq.cn/resource/image/54/f0/542ce741e7cc444fbcb65a99e8a3e4f0.jpg"
+    },
+    {
+      "id": "9e9ea53fe356",
+      "title": "在AI时代如何提升软件工程能力",
+      "url": "https://www.infoq.cn/article/Qwr9oqOSAdmi1YibHVWr?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-10-28T09:07:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/7b/03/7b58477c3c62157727ed50f6b2026d03.jpg"
+    },
+    {
+      "id": "2326480b8012",
+      "title": "亿万工程师，同饮五粮春——五粮春携手GTLC为构建者举杯",
+      "url": "https://www.infoq.cn/article/rYaRAYC7xR5D28AaNdN7?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-10-27T18:39:03.000Z",
+      "image": "https://static001.infoq.cn/resource/image/19/92/1997b88537d1e71cd375ea1682126a92.jpg"
+    },
+    {
+      "id": "f8bef67b2a04",
+      "title": "Azure Container Apps Express在新的通用沙箱层上正式发布",
+      "url": "https://www.infoq.cn/article/ChONW7EYk5Vuj0VF7AkZ?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-10-27T17:17:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/f2/d8/f2f05356b8b5f2f5938ccb030242a0d8.jpg"
     }
   ]
 }

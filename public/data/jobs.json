@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T23:33:45.314Z",
+  "updated": "2026-10-28T04:18:37.526Z",
   "count": 118,
   "sources": {
     "V2EX": 9,
@@ -9,6 +9,111 @@
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1252502",
+      "title": "remote 高级前端开发工程师（Vue3） 20-30K 工作经验： 9 年及以上（40 以内）",
+      "company": "andyxinweimin",
+      "location": "国内",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "java",
+        "javascript",
+        "typescript",
+        "react",
+        "vue"
+      ],
+      "category": "前端",
+      "postedDate": "2026-10-28",
+      "url": "https://www.v2ex.com/t/1252502",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1252499",
+      "title": "[行业头部互联网] 招聘 AI Agent 算法相关工程师， Agentic、安全、虚拟陪伴相关",
+      "company": "hdzsj2010",
+      "location": "杭州",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "python",
+        "java",
+        "react",
+        "spark",
+        "pytorch",
+        "tensorflow"
+      ],
+      "category": "算法/AI",
+      "postedDate": "2026-10-28",
+      "url": "https://www.v2ex.com/t/1252499",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1252484",
+      "title": "SHEIN 商品中心社招内推：高级 Java 工程师 ×5、供应链算法工程师 ×2、测试 ×1",
+      "company": "rowena1225",
+      "location": "广州番禺 Java 岗 HC 多",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "java"
+      ],
+      "category": "算法/AI",
+      "postedDate": "2026-10-28",
+      "url": "https://www.v2ex.com/t/1252484",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1252471",
+      "title": "[远程] 薪资 40 万-80 万 RMB/年, AI 数据采集/逆向/爬虫工程师， Golang",
+      "company": "hmily8810",
+      "location": "海外",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "python",
+        "go",
+        "golang",
+        "node"
+      ],
+      "category": "算法/AI",
+      "postedDate": "2026-10-28",
+      "url": "https://www.v2ex.com/t/1252471",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1252412",
+      "title": "寻弱电设计工程师",
+      "company": "inbox",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [],
+      "category": "设计",
+      "postedDate": "2026-10-28",
+      "url": "https://www.v2ex.com/t/1252412",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1252375",
       "title": "类 Fomo 社交应用项目，已获 BN 融资 招聘： Go 后端/DevOps Engineer/RN 工程师",
@@ -67,57 +172,6 @@
       "region": "domestic"
     },
     {
-      "id": "v2ex-1252308",
-      "title": "remote 高级算法工程师 35-50K//后端 GO 开发工程师 20-40k 面议",
-      "company": "andyxinweimin",
-      "location": "国内",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "python",
-        "java",
-        "go",
-        "golang",
-        "c++",
-        "spring",
-        "docker",
-        "kubernetes",
-        "linux",
-        "redis",
-        "mongodb",
-        "grpc",
-        "graphql"
-      ],
-      "category": "后端",
-      "postedDate": "2026-10-27",
-      "url": "https://www.v2ex.com/t/1252308",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1252295",
-      "title": "Crypto CEX 诚聘 Node.js 后端开发工程师（DEX 行情与链上交易方向）薪水 30K-50K RMB 纯远程办公",
-      "company": "AriaWanax",
-      "location": "国内",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "typescript",
-        "node"
-      ],
-      "category": "后端",
-      "postedDate": "2026-10-27",
-      "url": "https://www.v2ex.com/t/1252295",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
       "id": "v2ex-1252264",
       "title": "人在国内也能投：日本 IT 会社直招-GSD 招聘 PG/SE/PM・PL/IT 营业（年收 300-1000 万日元，可办理工签）",
       "company": "GSDgsd",
@@ -155,67 +209,6 @@
       "category": "算法/AI",
       "postedDate": "2026-10-27",
       "url": "https://www.v2ex.com/t/1252175",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1252151",
-      "title": "RMB 42–85 万/年 Senior AI Inference Infrastructure | LLM Data | Speech AI 东京 Voice AI / AI Agent 公司",
-      "company": "HEI22",
-      "location": "全英文 HC",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "python",
-        "kubernetes",
-        "spark",
-        "pytorch"
-      ],
-      "category": "算法/AI",
-      "postedDate": "2026-10-27",
-      "url": "https://www.v2ex.com/t/1252151",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1252047",
-      "title": "游戏平台运营",
-      "company": "darrenlv",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [],
-      "category": "运营",
-      "postedDate": "2026-10-26",
-      "url": "https://www.v2ex.com/t/1252047",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1252035",
-      "title": "[外包][汇丰项目] 帮 HR 找英语好的 Java 开发， Senior DevRel 方向（不支持长期远程）",
-      "company": "gdjdkid2014",
-      "location": "广州/西安",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "java",
-        "go",
-        "node",
-        "kotlin"
-      ],
-      "category": "人力/HR",
-      "postedDate": "2026-10-26",
-      "url": "https://www.v2ex.com/t/1252035",
       "source": "V2EX",
       "region": "domestic"
     },
@@ -2620,34 +2613,6 @@
       "region": "foreign"
     },
     {
-      "id": "remoteok-1137156",
-      "title": "Senior Level Designer",
-      "company": "Blackbird Interactive",
-      "location": "Vancouver, BC, Canada",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "design",
-        "game dev",
-        "designer",
-        "technical",
-        "customer support",
-        "testing",
-        "content writing",
-        "senior",
-        "engineer",
-        "digital nomad"
-      ],
-      "category": "design",
-      "postedDate": "2026-08-27",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-level-designer-blackbird-interactive-1137156",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
       "id": "remoteok-1137155",
       "title": "Oracle Fusion Cloud Lead â Logistics & Supply Chain Management",
       "company": "Tessera Labs",
@@ -3115,6 +3080,29 @@
       "category": "dev",
       "postedDate": "2026-08-16",
       "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-case-execution-pivotal-health-1136795",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1136701",
+      "title": "QA Tester Entry Level",
+      "company": "Ace IT Careers",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "testing",
+        "dev",
+        "analyst",
+        "quality assurance",
+        "digital nomad"
+      ],
+      "category": "testing",
+      "postedDate": "2026-08-15",
+      "url": "https://remoteOK.com/remote-jobs/remote-qa-tester-entry-level-ace-it-careers-1136701",
       "source": "RemoteOK",
       "region": "foreign"
     }
