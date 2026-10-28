@@ -1,14 +1,38 @@
 [
   {
-    "id": "4de33f2bccf5",
-    "title": "Voice AI in vogue: Nvidia releases new open transcription model",
-    "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
-    "summary": "Voice AI in vogue: Nvidia releases new open transcription model",
+    "id": "34b53368a5c1",
+    "title": "Google expands AI Search ads globally as core ad growth slows",
+    "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+    "summary": "Google expands AI Search ads globally as core ad growth slows",
     "source": "TechCrunch",
     "category": "AI",
-    "published": "2026-10-28T15:00:00.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/AI-on-the-tongue.png?resize=1200,600",
-    "score": 85,
+    "published": "2026-10-28T21:48:37.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/google-logo.jpg?resize=1200,800",
+    "score": 80,
+    "tags": []
+  },
+  {
+    "id": "65911ac3f4f5",
+    "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+    "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+    "summary": "Microsoft recorded $10 billion in revenue from OpenAI",
+    "source": "TechCrunch",
+    "category": "AI",
+    "published": "2026-10-28T21:34:30.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2153474575.jpg?resize=1200,800",
+    "score": 80,
+    "tags": []
+  },
+  {
+    "id": "75838f37239f",
+    "title": "Apple launches its new touchscreen MacBook Pro",
+    "url": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/",
+    "summary": "Apple launches its new touchscreen MacBook Pro",
+    "source": "TechCrunch",
+    "category": "科技",
+    "published": "2026-10-28T17:26:10.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-MacBook-Pro-with-PROLED-XDR-Display-QuickTime-261028.jpg?resize=1200,800",
+    "score": 80,
     "tags": []
   },
   {
@@ -19,20 +43,56 @@
     "source": "TechCrunch",
     "category": "AI",
     "published": "2026-10-28T17:00:00.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/ConnectedAppshero.width-2200.format-webp.webp?resize=1200,675",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Blog_ConnectedApps_1027_2.width-2200.format-webp.webp?resize=1200,675",
     "score": 80,
     "tags": []
   },
   {
-    "id": "b01917f8b2b4",
-    "title": "AI execs may be too out of touch to build for the general public",
-    "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
-    "summary": "AI execs may be too out of touch to build for the general public",
+    "id": "7d5ffdad902f",
+    "title": "Microsoft just shared Azure&#8217;s actual revenue in dollars: $33.2 billion",
+    "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+    "summary": "Microsoft just shared Azure&#8217;s actual revenue in dollars: $33。2 billion",
+    "source": "TechCrunch",
+    "category": "科技",
+    "published": "2026-10-28T21:58:32.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024",
+    "score": 75,
+    "tags": []
+  },
+  {
+    "id": "1a03c7011eaf",
+    "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+    "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+    "summary": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+    "source": "TechCrunch",
+    "category": "科技",
+    "published": "2026-10-28T21:25:30.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Satya-Nadella.jpg?resize=1200,800",
+    "score": 75,
+    "tags": []
+  },
+  {
+    "id": "b2173123b9bf",
+    "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+    "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+    "summary": "Anthropic just launched tools to show companies what their AI spending is buying",
     "source": "TechCrunch",
     "category": "AI",
-    "published": "2026-10-28T15:53:52.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1172241499.jpg?resize=1200,728",
-    "score": 80,
+    "published": "2026-10-28T19:19:58.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/claude-enterprise-social-smartreports-five-beats-gray200-animated-1080x608-v032.gif?w=1080",
+    "score": 75,
+    "tags": []
+  },
+  {
+    "id": "4c18a8b504fc",
+    "title": "Wiz’s CTO on PHP2Shell and the coming &#8216;vulnpocalypse&#8217;",
+    "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+    "summary": "Wiz’s CTO on PHP2Shell and the coming &#8216;vulnpocalypse&#8217;",
+    "source": "TechCrunch",
+    "category": "科技",
+    "published": "2026-10-28T19:05:46.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/tomer-wiz.jpeg?resize=1200,800",
+    "score": 75,
     "tags": []
   },
   {
@@ -48,74 +108,14 @@
     "tags": []
   },
   {
-    "id": "85b585a85336",
-    "title": "Reddit is the latest platform to embrace the &#8216;For You&#8217; feed",
-    "url": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/",
-    "summary": "Reddit is the latest platform to embrace the &#8216;For You&#8217; feed",
+    "id": "fb104c013e47",
+    "title": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
+    "url": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
+    "summary": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE ag",
     "source": "TechCrunch",
     "category": "科技",
-    "published": "2026-10-28T16:00:00.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/03/reddit-e1708636699632.jpg?resize=1200,800",
-    "score": 75,
-    "tags": []
-  },
-  {
-    "id": "9f7133723eef",
-    "title": "Trump DOE loans $5B to nuclear plants that will power data centers",
-    "url": "https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/",
-    "summary": "Trump DOE loans $5B to nuclear plants that will power data centers",
-    "source": "TechCrunch",
-    "category": "科技",
-    "published": "2026-10-28T15:53:21.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-129268875.jpg?resize=1200,900",
-    "score": 75,
-    "tags": []
-  },
-  {
-    "id": "a25dd0954bef",
-    "title": "South Korea&#8217;s financial industry hit by fresh wave of cyberattacks",
-    "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
-    "summary": "South Korea&#8217;s financial industry hit by fresh wave of cyberattacks",
-    "source": "TechCrunch",
-    "category": "科技",
-    "published": "2026-10-28T15:41:18.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/05/south-korea-money-growth.jpg?resize=1200,675",
-    "score": 75,
-    "tags": []
-  },
-  {
-    "id": "797632f9083c",
-    "title": "TikTok expands into restaurant guides with &#8216;Must Eat&#8217; feature",
-    "url": "https://techcrunch.com/2026/10/28/tiktok-expands-into-restaurant-guides-with-must-eat-feature/",
-    "summary": "TikTok expands into restaurant guides with &#8216;Must Eat&#8217; feature",
-    "source": "TechCrunch",
-    "category": "科技",
-    "published": "2026-10-28T14:26:36.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/TikTok-MustEat.jpg?w=1200",
-    "score": 75,
-    "tags": []
-  },
-  {
-    "id": "7a28b9ee4e28",
-    "title": "Chrome&#8217;s AI-powered Autofill can now dig through your Gmail to fill out forms",
-    "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
-    "summary": "Chrome&#8217;s AI-powered Autofill can now dig through your Gmail to fill out forms",
-    "source": "TechCrunch",
-    "category": "AI",
-    "published": "2026-10-28T17:00:00.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/autofill-ai-chrome.jpg?resize=1200,643",
-    "score": 70,
-    "tags": []
-  },
-  {
-    "id": "10ad5da7345f",
-    "title": "Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices",
-    "url": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/",
-    "summary": "Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices",
-    "source": "TechCrunch",
-    "category": "科技",
-    "published": "2026-10-28T14:34:25.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/echoshow16-alexaphotoframe-echotime-echostudio-echodot-hero-amazonnews-ck102526.png?resize=1200,676",
+    "published": "2026-10-28T20:01:00.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/dhs-2255143488.jpg?resize=1200,800",
     "score": 65,
     "tags": []
   },
@@ -176,30 +176,6 @@
     "category": "就业",
     "published": "2026-10-26T03:54:00.000Z",
     "image": "https://q4.itc.cn/q_70/images03/20261026/a103e5ae943b4be795cb3916b34ce2e2.png",
-    "score": 60,
-    "tags": []
-  },
-  {
-    "id": "a5767b3599ca",
-    "title": "政策+岗位+AI赋能！黄浦2026秋季招聘会发布高质量就业创业新政",
-    "url": "https://news.qq.com/rain/a/20261022A09LHN00",
-    "summary": "今天下午，黄浦区“秋送岗位下基层&#183;服务群众零距离”2026年秋季专场招聘暨就业创业高质量发展政策发布活动在外滩・中央广场举行。活动整合政策、产业、岗位等多方资源，采用内场主仪式+外场专场招聘",
-    "source": "Bing·大学生就业政策",
-    "category": "政策",
-    "published": "2026-10-22T09:31:00.000Z",
-    "image": "https://inews.gtimg.com/om_ls/OTecPa3-rwtH-Hv9G6MaW563q8-wIDfUVbEeH-mmWwqOYAA_640330/0",
-    "score": 60,
-    "tags": []
-  },
-  {
-    "id": "9720242fe1be",
-    "title": "报告：养老看护岗位领跑三季度招聘市场，新质赛道秋招供需活跃",
-    "url": "https://news.qq.com/rain/a/20261013A07QCA00",
-    "summary": "10月13日，智联招聘发布2026年三季度人才市场热点快报，报告称，2026年三季度，招聘市场延续以新质生产力为引领的驱动格局，并在此基础上涌现出新的亮点：养老/看护行业以43。9%的职位数同比增速登",
-    "source": "智联招聘",
-    "category": "就业",
-    "published": "2026-10-13T07:30:00.000Z",
-    "image": "https://inews.gtimg.com/om_ls/OjP3daMHQCMFpN3Ln4Dod2Ip9p5C2J9Hvq1pPJfyHEQSUAA_640330/0",
     "score": 60,
     "tags": []
   },
@@ -300,6 +276,18 @@
     "tags": []
   },
   {
+    "id": "3b879d302cb5",
+    "title": "校园招聘必备！免费AI形象照助你轻松应对面试挑战",
+    "url": "https://www.sohu.com/a/1092244570_121885661",
+    "summary": "近日，正浩创新正式启动2027届校园招聘，吸引了众多学生的关注。许多网友在评论中表示，校园招聘的竞争压力越来越大，尤其是在形象照这一环节，许多同学因为拍照的时间、金钱成本和效果不理想而感到无奈",
+    "source": "Bing·校园招聘",
+    "category": "就业",
+    "published": "2026-10-24T15:16:00.000Z",
+    "image": "//q4.itc.cn/images01/20250509/807de53dd69a4334a2c54ec755e66882.png",
+    "score": 55,
+    "tags": []
+  },
+  {
     "id": "2ea87e546de4",
     "title": "坏消息：中国1000多万应届毕业生面临的非常严峻问题，已经到来了",
     "url": "https://news.qq.com/rain/a/20261026A075I600",
@@ -308,18 +296,6 @@
     "category": "就业",
     "published": "2026-10-26T06:04:00.000Z",
     "image": "https://inews.gtimg.com/om_ls/O1b3GsN2beB0I4C4dncSF17312slFHanpswaLw_KD-gcEAA_640330/0",
-    "score": 55,
-    "tags": []
-  },
-  {
-    "id": "bdcc68f8e968",
-    "title": "BOSS直聘严查“代操作发职位”“租售账号”行为，提醒求职者警惕 ...",
-    "url": "https://finance.sina.com.cn/roll/2026-10-26/doc-iniwqarr5373348.shtml",
-    "summary": "近期，BOSS直聘发布《严厉打击招聘账号租售及失实职位发布行为专项公告》，提醒招聘者切勿轻信卖家在二手交易平台、社交媒体平台上发布的“租售账号”“技术咨询”“代操作”等广告。在公告中，BOSS直聘安全",
-    "source": "Bing·BOSS直聘",
-    "category": "就业",
-    "published": "2026-10-26T03:34:00.000Z",
-    "image": "//n.sinaimg.cn/spider20261026/454/w844h1210/20261026/b69b-43a084e5f9d425867ba5a23699667564.jpg",
     "score": 55,
     "tags": []
   },
@@ -344,6 +320,18 @@
     "category": "就业",
     "published": "2026-10-25T21:06:33.000Z",
     "image": "",
+    "score": 55,
+    "tags": []
+  },
+  {
+    "id": "bdcc68f8e968",
+    "title": "BOSS直聘严查“代操作发职位”“租售账号”行为，提醒求职者警惕 ...",
+    "url": "https://finance.sina.com.cn/roll/2026-10-26/doc-iniwqarr5373348.shtml",
+    "summary": "近期，BOSS直聘发布《严厉打击招聘账号租售及失实职位发布行为专项公告》，提醒招聘者切勿轻信卖家在二手交易平台、社交媒体平台上发布的“租售账号”“技术咨询”“代操作”等广告。在公告中，BOSS直聘安全",
+    "source": "Bing·BOSS直聘",
+    "category": "就业",
+    "published": "2026-10-26T03:34:00.000Z",
+    "image": "//n.sinaimg.cn/spider20261026/454/w844h1210/20261026/b69b-43a084e5f9d425867ba5a23699667564.jpg",
     "score": 55,
     "tags": []
   },
@@ -408,18 +396,6 @@
     "tags": []
   },
   {
-    "id": "c9e0e2c9da46",
-    "title": "《中国劳动保障报》头版头条报道我市传承红色血脉推进人社事业高 ...",
-    "url": "https://www.sohu.com/a/1092991077_121106832",
-    "summary": "10月20日，《中国劳动保障报》头版头条刊发《红军出发地 民生新答卷——江西瑞金传承红色血脉推进人社事业高质量发展纪实》，报道赣州瑞金市以红色血脉赋能民生保障、推动人社事业高质量发展的经验做法和实际成",
-    "source": "Bing·人社部就业创业政策",
-    "category": "政策",
-    "published": "2026-10-26T12:05:00.000Z",
-    "image": "https://q2.itc.cn/q_70/images03/20261026/ed258561f0cd4217ba2a37f62beaa829.jpeg",
-    "score": 55,
-    "tags": []
-  },
-  {
     "id": "e6c32086fd86",
     "title": "最高可贷50万元，湖南优化政策为大学生创业送上金融“活水”",
     "url": "https://edu.rednet.cn/content/646043/52/16288673.html",
@@ -440,6 +416,18 @@
     "category": "就业",
     "published": "2026-08-13T01:27:00.000Z",
     "image": "https://m.voc.com.cn/images/wx_lg.jpg",
+    "score": 55,
+    "tags": []
+  },
+  {
+    "id": "46896d606cb8",
+    "title": "数字经济风口来袭！陕西这所民办院校大数据专业供不应求，深受各 ...",
+    "url": "https://www.sohu.com/a/1089578443_122630683",
+    "summary": "人工智能全面渗透各行各业，当下什么专业发展前景一路向好。大数据一定是当之无愧的优选",
+    "source": "就业报告",
+    "category": "就业",
+    "published": "2026-10-22T04:00:00.000Z",
+    "image": "//q9.itc.cn/q_70/images01/20260507/026d78a84bd04e32888c9430c9fba1fd.png",
     "score": 55,
     "tags": []
   },
@@ -732,21 +720,9 @@
     "tags": []
   },
   {
-    "id": "e9c3e0edc0a6",
-    "title": "BOSS直聘收涨1.22%，成交额3518.31万美元",
-    "url": "https://finance.sina.com.cn/stock/usstock/notice/2026-10-27/doc-iniwqxvf5016852.shtml",
-    "summary": "10月27日，BOSS直聘（BZ）收涨1。22%，报16",
-    "source": "Bing·BOSS直聘",
-    "category": "就业",
-    "published": "2026-10-26T17:00:00.000Z",
-    "image": "",
-    "score": 50,
-    "tags": []
-  },
-  {
-    "id": "5a571cd2744e",
+    "id": "42e71b534d0c",
     "title": "[广州/西安][外包][汇丰项目] 帮 HR 找英语好的 Java 开发， Senior DevRel 方向（不支持长期远程）",
-    "url": "https://www.v2ex.com/t/1252035#reply3",
+    "url": "https://www.v2ex.com/t/1252035#reply4",
     "summary": "[广州/西安][外包][汇丰项目] 帮 HR 找英语好的 Java 开发， Senior DevRel 方向（不支持长期远程）",
     "source": "V2EX·招聘",
     "category": "就业",
@@ -840,18 +816,6 @@
     "tags": []
   },
   {
-    "id": "d31499a1e027",
-    "title": "有为青年创始人李宁出席四川青创公益百校行，受聘川影大学生创新 ...",
-    "url": "https://www.dzwww.com/xinwen/jishixinwen/202610/t20261027_18242545.htm",
-    "summary": "为深入推进青年创业就业工作，助力大学生创新创业实践，2026年10月22日，由四川省青年创业就业基金会、四川电影电视学院主办的“创响青春 聚力成长”四川青创公益百校行活动（四川电影电视学院专场），在川",
-    "source": "Bing·大学生就业政策",
-    "category": "政策",
-    "published": "2026-10-26T17:00:00.000Z",
-    "image": "https://www.dzwww.com/tpl/v2019/xilan/images/logo1.png",
-    "score": 50,
-    "tags": []
-  },
-  {
     "id": "94bf11e98121",
     "title": "2026年甘肃省大学生就业引航示范宣讲会举办",
     "url": "https://qnzz.youth.cn/qckc/202610/t20261025_16932241.htm",
@@ -864,6 +828,30 @@
     "tags": []
   },
   {
+    "id": "d31499a1e027",
+    "title": "有为青年创始人李宁出席四川青创公益百校行，受聘川影大学生创新 ...",
+    "url": "https://www.dzwww.com/xinwen/jishixinwen/202610/t20261027_18242545.htm",
+    "summary": "为深入推进青年创业就业工作，助力大学生创新创业实践，2026年10月22日，由四川省青年创业就业基金会、四川电影电视学院主办的“创响青春 聚力成长”四川青创公益百校行活动（四川电影电视学院专场），在川",
+    "source": "Bing·大学生就业政策",
+    "category": "政策",
+    "published": "2026-10-26T17:00:00.000Z",
+    "image": "https://www.dzwww.com/tpl/v2019/xilan/images/logo1.png",
+    "score": 50,
+    "tags": []
+  },
+  {
+    "id": "f151c0af2e12",
+    "title": "构建就业友好型发展方式 促进高校毕业生高质量就业",
+    "url": "https://finance.sina.com.cn/jjxw/2026-10-22/doc-iniwarrp5897537.shtml",
+    "summary": "摘要：当前高校毕业生规模持续增长，就业压力凸显，部分毕业生存在“就业难”问题。文章提出构建就业友好型发展方式，多方协同发力促进高校毕业生高质量就业",
+    "source": "Bing·高校毕业生就业创业政策",
+    "category": "政策",
+    "published": "2026-10-21T23:09:00.000Z",
+    "image": "https://n.sinaimg.cn/finance/transform/260/w880h180/20180326/zi4T-fysqfnf9377213.png",
+    "score": 50,
+    "tags": []
+  },
+  {
     "id": "d95d7ee7b34a",
     "title": "区县联播丨历下 市中 长清 钢城：大学生新创办企业资助资金发放 ...",
     "url": "https://www.sohu.com/a/1091848553_121106991",
@@ -872,6 +860,30 @@
     "category": "政策",
     "published": "2026-10-23T12:20:00.000Z",
     "image": "https://q7.itc.cn/q_70/images03/20261023/a179553337e444c78bf9504ff2701c99.jpeg",
+    "score": 50,
+    "tags": []
+  },
+  {
+    "id": "1424e32a5a65",
+    "title": "525万元发放！济南首批79家大学生初创企业获得专项资助资金",
+    "url": "https://www.sohu.com/a/1091787157_120139390",
+    "summary": "【原创】 济南广电&#183;天下泉城客户端10月23日讯 为持续优化创新创业生态，精准落实大学生创业项目资助政策，10月22日，济南市第一批大学生新创办企业资助项目资金发放仪式在中国（济南）人力资源",
+    "source": "Bing·大学生创业扶持政策",
+    "category": "政策",
+    "published": "2026-10-23T10:36:00.000Z",
+    "image": "https://q7.itc.cn/q_70/images03/20261023/8e3a0a2c6a9c4733817e7436b82030ca.jpeg",
+    "score": 50,
+    "tags": []
+  },
+  {
+    "id": "ae1ee659a244",
+    "title": "创业不踩坑、技能全升级！这场双创培训给青年创业者加满Buff",
+    "url": "https://m.voc.com.cn/xhn/news/202610/34069033.html",
+    "summary": "“银龄卫士—— 基于靶向透释与生物能量调控的便携式辅疗灸贴”团队核心成员周晓婕说，这次培训让她收获很大。课程一方面讲清了初创公司的财税红线和风险，另一方面对大学生创业扶持政策和创业市场落地进行了详细教",
+    "source": "Bing·大学生创业扶持政策",
+    "category": "政策",
+    "published": "2026-10-23T10:10:00.000Z",
+    "image": "https://img2.voc.com.cn/2021/07/xhn/copyinfo1x.png",
     "score": 50,
     "tags": []
   },
@@ -948,18 +960,6 @@
     "tags": []
   },
   {
-    "id": "b95ba440c20f",
-    "title": "税收优惠、就业补贴……政策“组合拳”助力高校毕业生高质量充分 ...",
-    "url": "https://politics.gmw.cn/2026-06/02/content_38807303.htm",
-    "summary": "在就业见习方面，对吸纳离校2年内未就业高校毕业生和16至24岁登记失业青年参加见习的单位，可按规定给予就业见习补贴。补贴用于支付见习人员见习期间基本生活费、人身意外伤害保险及指导管理费用",
-    "source": "就业创业政策",
-    "category": "政策",
-    "published": "2026-06-02T08:03:00.000Z",
-    "image": "https://img.gmw.cn/pic/mgmw/iconshare.png",
-    "score": 50,
-    "tags": []
-  },
-  {
     "id": "93ee5738f8ea",
     "title": "智联招聘：人工智能工程师薪酬溢价五至六成",
     "url": "https://fund.eastmoney.com/a/202610273909646378.html",
@@ -1008,18 +1008,6 @@
     "tags": []
   },
   {
-    "id": "d1260611e42a",
-    "title": "研趣就业：秋招末期进度盘点：安徽考生还剩哪几条路",
-    "url": "https://www.sohu.com/a/1092908328_122531621",
-    "summary": "一、秋招走到这一步，真正的问题不是\"来不来得及\" 十月下旬，多数省份的秋招正式批进入收尾阶段：9 月开启的网申窗口陆续关闭，11 月底至 12 月是补录窗口，次年 2 至 5 月是春招。这个时间点上，",
-    "source": "就业报告",
-    "category": "就业",
-    "published": "2026-10-26T08:55:00.000Z",
-    "image": "//q8.itc.cn/images01/20261026/adfa4a8b215a447ea634ce3a21f6dd23.png",
-    "score": 50,
-    "tags": []
-  },
-  {
     "id": "51615d1530aa",
     "title": "央企招聘的秋招和春招分别在什么时候？哪个机会更多？",
     "url": "https://www.sohu.com/a/1085809292_122711233",
@@ -1032,26 +1020,38 @@
     "tags": []
   },
   {
-    "id": "3cc74651adc3",
-    "title": "南中医“秋招”现场上演“全员促就业”，243家企业带来9000多个优质 ...",
-    "url": "https://www.yangtse.com/news/jy/202610/t20261019_404078.html",
-    "summary": "近日，江苏省2027届高校毕业生公益供需洽谈会暨南京中医药大学2027届毕业生秋季双选会在仙林校区体育馆举行。本次双选会共吸引243家优质用人单位参会，累计提供优质岗位9000余个，覆盖医疗卫生、生物",
+    "id": "d1260611e42a",
+    "title": "研趣就业：秋招末期进度盘点：安徽考生还剩哪几条路",
+    "url": "https://www.sohu.com/a/1092908328_122531621",
+    "summary": "一、秋招走到这一步，真正的问题不是\"来不来得及\" 十月下旬，多数省份的秋招正式批进入收尾阶段：9 月开启的网申窗口陆续关闭，11 月底至 12 月是补录窗口，次年 2 至 5 月是春招。这个时间点上，",
     "source": "就业报告",
     "category": "就业",
-    "published": "2026-10-18T16:59:00.000Z",
-    "image": "https://www.yangtse.com/images/yzwbwLogo-20250512.png",
+    "published": "2026-10-26T08:55:00.000Z",
+    "image": "//q8.itc.cn/images01/20261026/adfa4a8b215a447ea634ce3a21f6dd23.png",
     "score": 50,
     "tags": []
   },
   {
-    "id": "dd520eef664c",
-    "title": "江西举行2027届高校毕业生专场就业招聘会 计划招聘1.2万余人",
-    "url": "https://finance.sina.com.cn/roll/2026-10-23/doc-iniwfmnk5019220.shtml",
-    "summary": "中新网南昌10月23日电 (记者 刘力鑫)23日，江西省2027届高校毕业生综合类专场就业招聘会在南昌大学举行，两百多家企业招聘需求总人数达1。据初步统计，本次招聘会已收到简历1",
+    "id": "92bdbfe69f9c",
+    "title": "南中医“秋招”现场上演“全员促就业”，243家企业带来9000多个优质 ...",
+    "url": "https://finance.sina.com.cn/jjxw/2026-10-19/doc-inivtuep7650779.shtml",
+    "summary": "近日，江苏省2027届高校毕业生公益供需洽谈会暨南京中医药大学2027届毕业生秋季双选会在仙林校区体育馆举行。本次双选会共吸引243家优质用人单位参会，累计提供优质岗位9000余个，覆盖医疗卫生、生物",
     "source": "就业报告",
     "category": "就业",
-    "published": "2026-10-23T04:33:00.000Z",
-    "image": "//n.sinaimg.cn/sinakd20261023s/269/w700h369/20261023/4c46-4e4ce7748c6e444ce934ec975e6c2079.jpg",
+    "published": "2026-10-18T23:07:00.000Z",
+    "image": "//n.sinaimg.cn/sinakd20261019s/300/w720h380/20261019/9c98-2c516c0422cea94c3003e05835940991.jpg",
+    "score": 50,
+    "tags": []
+  },
+  {
+    "id": "4466cb72798c",
+    "title": "工科天坑实锤！化工与制药类专业遇冷，毕业薪资低、转行成常态",
+    "url": "https://news.qq.com/rain/a/20261026A04PWV00",
+    "summary": "曾经，化工与制药类专业顶着“工业基石”“刚需产业”的光环，是不少考生眼中的稳妥选择。可到了春招秋招现场，这批毕业生却常常陷入尴尬：对口岗位薪资不高、工作环境辛苦，跨行求职又缺少拿得出手的竞争力",
+    "source": "就业报告",
+    "category": "就业",
+    "published": "2026-10-26T03:12:00.000Z",
+    "image": "https://inews.gtimg.com/om_ls/Oum2z-nA6MhKdTpB0sqkWgPwCQdqrnXjS6VS05LmeKMuAAA_640330/0",
     "score": 50,
     "tags": []
   },
@@ -1079,18 +1079,6 @@
     "tags": []
   },
   {
-    "id": "591341fe37d5",
-    "title": "公司裁掉两个年薪50+万元工程师，花2小时教他用Claude Code「接盘」 ...",
-    "url": "https://www.sohu.com/a/1091210103_115128",
-    "summary": "“ 公司裁掉了两名高薪工程师，然后让我和 Claude Code 接手他们的工作，而我的年薪只有 2。” 本周，一名来自西班牙的系统管理员 Nash 在 Reddit 上发帖求助，讲述了自己遭遇的一场",
-    "source": "就业报告",
-    "category": "就业",
-    "published": "2026-10-22T08:14:00.000Z",
-    "image": "https://q8.itc.cn/q_70/images03/20261022/8241914734964d4fb6cdf9c6ff5fd838.png",
-    "score": 50,
-    "tags": []
-  },
-  {
     "id": "0fe61a130bfc",
     "title": "华清远见9月高薪就业榜单出炉，榜首20K！",
     "url": "https://www.sohu.com/a/1086079389_121123998",
@@ -1099,18 +1087,6 @@
     "category": "就业",
     "published": "2026-10-10T09:19:00.000Z",
     "image": "https://q5.itc.cn/q_70/images03/20261010/4863e9c4455b4347bd1fec7a3ab8dd04.png",
-    "score": 50,
-    "tags": []
-  },
-  {
-    "id": "5e89837c1f9e",
-    "title": "世界技能大赛项目的科技含量有多高｜世赛里的科技范",
-    "url": "https://news.cyol.com/gb/keji/articles/2026-09/07/content_o6BW3mF5pd.html",
-    "summary": "第48届世界技能大赛即将拉开序幕，大赛新增轨道车辆技术、无人机系统、智慧安防技术、软件测试、数字交互媒体设计、口腔修复工艺技术、零售等7个比赛项目。这些项目紧跟产业前沿，直接反映了数字化、智能化和绿色",
-    "source": "测试开发·就业分析",
-    "category": "就业",
-    "published": "2026-09-06T17:00:00.000Z",
-    "image": "",
     "score": 50,
     "tags": []
   },
@@ -1247,6 +1223,30 @@
     "tags": []
   },
   {
+    "id": "11d796c8bac4",
+    "title": "海南电网公司2027年校园招聘公告",
+    "url": "https://news.qq.com/rain/a/20261022A0AHNL00",
+    "summary": "一、企业简介海南电网有限责任公司是中央管理国有骨干企业、世界500强企业中国南方电网有限责任公司的全资子公司，负责海南电网规划、建设、运营、管理。公司始终秉承“人民电业为人民”的企业宗旨，不断满足人民",
+    "source": "Bing·校园招聘",
+    "category": "就业",
+    "published": "2026-10-22T10:22:00.000Z",
+    "image": "https://inews.gtimg.com/om_ls/OgwahpcTtpaVlOqeDr2eJDC7m0Xm-Q4DMxYEg86KU5cSkAA_640330/0",
+    "score": 40,
+    "tags": []
+  },
+  {
+    "id": "6c9e1b5c5962",
+    "title": "高校秋招进入高峰期，两极分化明显",
+    "url": "https://www.sohu.com/a/1092518462_807294",
+    "summary": "眼下高校秋招进入冲刺高峰，就业市场冰火两重天的特征愈发突出，不是简单的就业难，而是结构性分化持续加剧，热门岗位挤破头，大量岗位招不到合适的人。 一边是优质岗位竞争白热化",
+    "source": "Bing·秋招",
+    "category": "就业",
+    "published": "2026-10-25T09:23:00.000Z",
+    "image": "//q0.itc.cn/images01/20261025/c8418ee6307d4c4b814e722ee4d70e21.jpeg",
+    "score": 40,
+    "tags": []
+  },
+  {
     "id": "fc2176e5d795",
     "title": "招聘 FPGA 工程师，欢迎投递",
     "url": "https://www.v2ex.com/t/1250883#reply8",
@@ -1259,38 +1259,14 @@
     "tags": []
   },
   {
-    "id": "50d1dd92a8f4",
+    "id": "eff7fe319b3f",
     "title": "全国大学生创业工作推进会议召开",
-    "url": "https://www.sohu.com/a/1091988830_243614",
-    "summary": "本报讯（记者 郑翅）近日，教育部在湖南长沙召开全国大学生创业工作推进会议。 会议指出，推进大学生创业，是增强创业带动就业效应、实现高校毕业生高质量充分就业的重要支撑，是推动科技创新与产业创新深度融合、",
+    "url": "https://finance.sina.com.cn/roll/2026-10-26/doc-iniwpmtx5587757.shtml",
+    "summary": "10月22日，教育部在湖南长沙召开全国大学生创业工作推进会议。 会议指出，推进大学生创业，是增强创业带动就业效应、实现高校毕业生高质量充分就业的重要支撑，是推动科技创新与产业创新深度融合、加快形成新质",
     "source": "Bing·大学生就业政策",
     "category": "政策",
-    "published": "2026-10-24T01:15:00.000Z",
+    "published": "2026-10-25T17:00:00.000Z",
     "image": "",
-    "score": 40,
-    "tags": []
-  },
-  {
-    "id": "a1c090759af1",
-    "title": "【职引未来】支持就业创业，这些利好别错过",
-    "url": "https://www.sohu.com/a/1092244955_121124016",
-    "summary": "年初，人社部会同财政部出台了16条支持毕业生等青年就业政策举措。 比如：实施就业创业政策落实行动，用好税费减免、资金补贴等政策，鼓励支持企业更多吸纳高校毕业生就业",
-    "source": "Bing·人社部就业创业政策",
-    "category": "政策",
-    "published": "2026-10-24T15:48:00.000Z",
-    "image": "https://q7.itc.cn/q_70/images03/20261024/97e99be144ca464a8e4105f4905debc0.png",
-    "score": 40,
-    "tags": []
-  },
-  {
-    "id": "daf19dd85e87",
-    "title": "我市组织大学生创业项目资助资金集中发放",
-    "url": "https://www.sohu.com/a/1092076114_121106991",
-    "summary": "为持续优化创新创业生态，精准落实大学生创业项目资助政策，10月22日，济南市第一批大学生新创办企业资助项目资金集中发放活动在中国（济南）人力资源服务产业园举办。活动现场为获扶持的企业代表集中发放专项资",
-    "source": "Bing·大学生创业扶持政策",
-    "category": "政策",
-    "published": "2026-10-24T04:22:00.000Z",
-    "image": "https://q9.itc.cn/q_70/images03/20261024/6c7a5fba845b47b3bae97da87c05b9e2.jpeg",
     "score": 40,
     "tags": []
   },
@@ -1326,7 +1302,7 @@
     "source": "BOSS直聘",
     "category": "就业",
     "published": "2026-10-21T15:58:00.000Z",
-    "image": "https://img1.utuku.imgcdc.com/300x300/news/20261029/5c0747c3-e6da-47e7-ae33-a5d6c413ccaf.jpg",
+    "image": "https://img1.utuku.imgcdc.com/300x300/news/20261029/db63ad71-98ad-40dc-ae93-4744a5a8d98c.jpg",
     "score": 40,
     "tags": []
   },
@@ -1341,6 +1317,78 @@
     "image": "https://n.sinaimg.cn/finance/transform/260/w880h180/20180326/zi4T-fysqfnf9377213.png",
     "score": 40,
     "tags": []
+  },
+  {
+    "id": "7a28b9ee4e28",
+    "title": "Chrome&#8217;s AI-powered Autofill can now dig through your Gmail to fill out forms",
+    "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+    "source": "TechCrunch",
+    "category": "科技",
+    "published": "2026-10-28T17:00:00.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/autofill-ai-chrome.jpg?resize=1200,643"
+  },
+  {
+    "id": "85b585a85336",
+    "title": "Reddit is the latest platform to embrace the &#8216;For You&#8217; feed",
+    "url": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/",
+    "source": "TechCrunch",
+    "category": "科技",
+    "published": "2026-10-28T16:00:00.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/03/reddit-e1708636699632.jpg?resize=1200,800"
+  },
+  {
+    "id": "b01917f8b2b4",
+    "title": "AI execs may be too out of touch to build for the general public",
+    "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+    "source": "TechCrunch",
+    "category": "科技",
+    "published": "2026-10-28T15:53:52.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1172241499.jpg?resize=1200,728"
+  },
+  {
+    "id": "9f7133723eef",
+    "title": "Trump DOE loans $5B to nuclear plants that will power data centers",
+    "url": "https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/",
+    "source": "TechCrunch",
+    "category": "科技",
+    "published": "2026-10-28T15:53:21.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-129268875.jpg?resize=1200,900"
+  },
+  {
+    "id": "a25dd0954bef",
+    "title": "South Korea&#8217;s financial industry hit by fresh wave of cyberattacks",
+    "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+    "source": "TechCrunch",
+    "category": "科技",
+    "published": "2026-10-28T15:41:18.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/05/south-korea-money-growth.jpg?resize=1200,675"
+  },
+  {
+    "id": "4de33f2bccf5",
+    "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+    "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+    "source": "TechCrunch",
+    "category": "科技",
+    "published": "2026-10-28T15:00:00.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/AI-on-the-tongue.png?resize=1200,600"
+  },
+  {
+    "id": "10ad5da7345f",
+    "title": "Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices",
+    "url": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/",
+    "source": "TechCrunch",
+    "category": "科技",
+    "published": "2026-10-28T14:34:25.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/echoshow16-alexaphotoframe-echotime-echostudio-echodot-hero-amazonnews-ck102526.png?resize=1200,676"
+  },
+  {
+    "id": "797632f9083c",
+    "title": "TikTok expands into restaurant guides with &#8216;Must Eat&#8217; feature",
+    "url": "https://techcrunch.com/2026/10/28/tiktok-expands-into-restaurant-guides-with-must-eat-feature/",
+    "source": "TechCrunch",
+    "category": "科技",
+    "published": "2026-10-28T14:26:36.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/TikTok-MustEat.jpg?w=1200"
   },
   {
     "id": "78bf8376ee0d",
@@ -1361,76 +1409,85 @@
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/free-fire-india.jpg?resize=1200,800"
   },
   {
-    "id": "1d44ed33defb",
-    "title": "Kodiak lands first commercial deal to supply driverless trucks for public highways",
-    "url": "https://techcrunch.com/2026/10/28/kodiak-lands-first-commercial-deal-to-supply-driverless-trucks-for-public-highways/",
-    "source": "TechCrunch",
+    "id": "e9d79207ca18",
+    "title": "Trump admin sues Utah to save Kalshi from the state's total ban on gambling",
+    "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+    "source": "Ars Technica",
     "category": "科技",
-    "published": "2026-10-28T13:00:00.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Kodiak_DTL.jpg?resize=1200,675"
+    "published": "2026-10-28T19:30:33.000Z",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/kalshi-1152x648-1788462763.jpg"
   },
   {
-    "id": "313f7a5d4fe7",
-    "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
-    "url": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
-    "source": "TechCrunch",
+    "id": "c814a0530535",
+    "title": "The last, best hope for space tourism just rolled onto a runway in Arizona",
+    "url": "https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona/",
+    "source": "Ars Technica",
     "category": "科技",
-    "published": "2026-10-28T13:00:00.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-audience.jpg?resize=1200,800"
+    "published": "2026-10-28T19:20:36.000Z",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/VIRGIN-GALACTIC_CORDWELL_10232026_APEIRON_STILLS-SELECT-1653-2560x1440.jpg"
   },
   {
-    "id": "298e50473163",
-    "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
-    "url": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
-    "source": "TechCrunch",
+    "id": "bc979b01ed01",
+    "title": "Touchscreen MacBook Pro hands-on: OLED looks great on a Mac",
+    "url": "https://arstechnica.com/apple/2026/10/touchscreen-macbook-pro-hands-on-oled-looks-great-on-a-mac/",
+    "source": "Ars Technica",
     "category": "科技",
-    "published": "2026-10-28T05:20:32.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/jio-akash-ambani.jpg?resize=1200,800"
+    "published": "2026-10-28T19:10:29.000Z",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/16-inch-MacBook-Pro-lid-closed-1152x648-1793212511.jpg"
   },
   {
-    "id": "c372745ec78a",
-    "title": "VCs will make billions on Anthropic&#8217;s IPO, but Amazon is set to make much (much) more",
-    "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
-    "source": "TechCrunch",
+    "id": "0ee110650c52",
+    "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+    "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+    "source": "Ars Technica",
     "category": "科技",
-    "published": "2026-10-28T01:15:28.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798"
+    "published": "2026-10-28T18:47:27.000Z",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-2-1152x648.jpg"
   },
   {
-    "id": "092cb86201fb",
-    "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-    "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
-    "source": "TechCrunch",
+    "id": "4c331d668f5e",
+    "title": "Amazon turns its most capable smart speaker into a smart camera, too",
+    "url": "https://arstechnica.com/gadgets/2026/10/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra/",
+    "source": "Ars Technica",
     "category": "科技",
-    "published": "2026-10-27T23:34:27.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2191707579.jpg?w=1024"
+    "published": "2026-10-28T18:05:22.000Z",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1152x648.png"
   },
   {
-    "id": "5ac9e6d4ee78",
-    "title": "The data center boom has an upside: innovation for the US grid",
-    "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
-    "source": "TechCrunch",
+    "id": "b584657b0b81",
+    "title": "Cadillac Escalade IQ review: Huge battery, huge range, huge SUV",
+    "url": "https://arstechnica.com/cars/2026/10/cadillac-escalade-iq-review-4-tons-of-electric-american-luxury-on-wheels/",
+    "source": "Ars Technica",
     "category": "科技",
-    "published": "2026-10-27T22:55:41.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/55589499263_7ac8a28eb3_k.jpg?resize=1200,800"
+    "published": "2026-10-28T17:55:45.000Z",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/2026-Cadillac-Escalade-IQ-1-of-26-1152x648.jpg"
   },
   {
-    "id": "87e2d1810ab9",
-    "title": "Guidewire buys Hyperexponential for $1.7B in cash",
-    "url": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
-    "source": "TechCrunch",
+    "id": "fb4a5a6acb5f",
+    "title": "Google AI gets cagey when asked who won the 2020 elections",
+    "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+    "source": "Ars Technica",
     "category": "科技",
-    "published": "2026-10-27T22:26:03.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Golden-AI-finance-collage.png?resize=1200,600"
+    "published": "2026-10-28T17:46:32.000Z",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2181827335-1152x648.jpg"
   },
   {
-    "id": "f7925f86d825",
-    "title": "From 8VC to Benchmark, here&#8217;s what&#8217;s hiding in October SEC filings",
-    "url": "https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/",
-    "source": "TechCrunch",
+    "id": "a181ad8f60e9",
+    "title": "Florida county won’t investigate sketchy Flock cameras removed by mystery owners",
+    "url": "https://arstechnica.com/tech-policy/2026/10/florida-county-wont-investigate-sketchy-flock-cameras-removed-by-mystery-owners/",
+    "source": "Ars Technica",
     "category": "科技",
-    "published": "2026-10-27T22:17:18.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/12/GettyImages-1650189797.jpg?resize=1200,900"
+    "published": "2026-10-28T17:37:49.000Z",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2290773984-1024x648.jpg"
+  },
+  {
+    "id": "691d8c911823",
+    "title": "Apple announces touchscreen MacBook Pro with OLED display",
+    "url": "https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display/",
+    "source": "Ars Technica",
+    "category": "科技",
+    "published": "2026-10-28T17:25:04.000Z",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/2026-MacBook-Pro-1152x648-1793208150.jpg"
   },
   {
     "id": "1378e4570778",
@@ -1530,87 +1587,6 @@
     "category": "科技",
     "published": "2026-10-27T18:49:08.000Z",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-615307388-832x648.jpg"
-  },
-  {
-    "id": "921909f08c75",
-    "title": "Warner Bros. drops final trailer for Dune: Part Three",
-    "url": "https://arstechnica.com/culture/2026/10/warner-bros-drops-final-trailer-for-dune-part-three/",
-    "source": "Ars Technica",
-    "category": "科技",
-    "published": "2026-10-27T18:05:55.000Z",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/dune1-1152x648-1793122985.jpg"
-  },
-  {
-    "id": "1df00a7b7f9d",
-    "title": "Ford simplifies using your EV as a home battery with the $30K Fathom",
-    "url": "https://arstechnica.com/cars/2026/10/ford-builds-bidrectional-charging-into-its-30k-electric-truck/",
-    "source": "Ars Technica",
-    "category": "科技",
-    "published": "2026-10-27T16:17:58.000Z",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/UEV_Ebox_1-1152x648.jpg"
-  },
-  {
-    "id": "199801d5e60e",
-    "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
-    "url": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
-    "source": "Ars Technica",
-    "category": "科技",
-    "published": "2026-10-27T16:00:22.000Z",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/vlcsnap-2026-10-27-10h06m52s461-1152x648.png"
-  },
-  {
-    "id": "3f938f750902",
-    "title": "From cheap tool to premium subscription: When a beloved app's price skyrockets",
-    "url": "https://arstechnica.com/gadgets/2026/10/from-cheap-tool-to-premium-subscription-when-a-beloved-apps-price-skyrockets/",
-    "source": "Ars Technica",
-    "category": "科技",
-    "published": "2026-10-27T15:50:19.000Z",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1321941710-1152x648.jpg"
-  },
-  {
-    "id": "ff8131485077",
-    "title": "Apple iPhone Duo review: Two screens, two experiences, two thousand dollars",
-    "url": "https://arstechnica.com/gadgets/2026/10/apple-iphone-duo-review-two-screens-two-experiences-two-thousand-dollars/",
-    "source": "Ars Technica",
-    "category": "科技",
-    "published": "2026-10-27T14:20:26.000Z",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/IMG_3790-1152x648.jpeg"
-  },
-  {
-    "id": "c4c9153fd74a",
-    "title": "Some iPhone Duo screens are already failing, Apple says only a \"small number\" are affected",
-    "url": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
-    "source": "Ars Technica",
-    "category": "科技",
-    "published": "2026-10-27T14:00:49.000Z",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/iphone-duo-oops-1152x648.jpg"
-  },
-  {
-    "id": "fa05e8cc1e70",
-    "title": "Sculpture re-creates odd optical effects of famed Lycurgus Cup",
-    "url": "https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup/",
-    "source": "Ars Technica",
-    "category": "科技",
-    "published": "2026-10-27T13:32:35.000Z",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/lycurgusTOP-1152x648-1793103945.jpg"
-  },
-  {
-    "id": "c286d0a3f6d1",
-    "title": "US officials want Section 702 renewed before damaging court ruling goes public",
-    "url": "https://arstechnica.com/tech-policy/2026/10/us-officials-want-section-702-renewed-before-damaging-court-ruling-goes-public/",
-    "source": "Ars Technica",
-    "category": "科技",
-    "published": "2026-10-27T13:22:16.000Z",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/court-spy-1024x648.jpg"
-  },
-  {
-    "id": "d8ddcf7c0bb4",
-    "title": "Microsoft offers to buy out a quarter of its workforce",
-    "url": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/",
-    "source": "Ars Technica",
-    "category": "科技",
-    "published": "2026-10-26T22:36:06.000Z",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/02/microsoft-1152x648.jpg"
   },
   {
     "id": "47555b0ff81d",
@@ -1919,22 +1895,22 @@
     "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
   },
   {
+    "id": "8c31e239f35e",
+    "title": "“蓉漂人才荟”清华大学专场活动举行，招聘岗位最高年薪可达100万元",
+    "url": "https://www.msn.com/zh-cn/news/other/蓉漂人才荟-清华大学专场活动举行-招聘岗位最高年薪可达100万元/ar-AA2gaIUL",
+    "source": "Bing·校园招聘",
+    "category": "就业",
+    "published": "2026-10-27T06:06:08.000Z",
+    "image": ""
+  },
+  {
     "id": "96e651035a4d",
     "title": "北京市属国企2027届高校毕业生秋季校园专场招聘活动举办",
     "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722418.shtml",
     "source": "Bing·校园招聘",
     "category": "就业",
-    "published": "2026-10-28T00:04:00.000Z",
+    "published": "2026-10-28T14:06:00.000Z",
     "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-  },
-  {
-    "id": "e707a939372a",
-    "title": "539个优质岗位！开福区赴武汉高校招聘人气旺",
-    "url": "https://news.qq.com/rain/a/20261028A0DVKW00",
-    "source": "Bing·校园招聘",
-    "category": "就业",
-    "published": "2026-10-28T00:53:00.000Z",
-    "image": "https://inews.gtimg.com/om_ls/Otsqpm0siHl0XUrI1As47ANIKq1ZOWjASOwFgtgb5phFQAA_640330/0"
   },
   {
     "id": "d85cc6a259b4",
@@ -1971,6 +1947,24 @@
     "category": "就业",
     "published": "2026-10-28T03:41:00.000Z",
     "image": "https://q0.itc.cn/q_70/images03/20261028/67eaeba025004cbb9be2215de1543294.jpeg"
+  },
+  {
+    "id": "23c8f4296659",
+    "title": "智联招聘报告揭示人工智能工程师薪酬显著高于平均水平",
+    "url": "https://www.sohu.com/a/1093487234_122066678",
+    "source": "Bing·智联招聘",
+    "category": "就业",
+    "published": "2026-10-27T11:30:00.000Z",
+    "image": ""
+  },
+  {
+    "id": "ac857dd3a225",
+    "title": "BOSS直聘收跌3.54%，成交额8818.1万美元",
+    "url": "https://finance.sina.com.cn/stock/usstock/notice/2026-10-29/doc-iniwvsie6167911.shtml",
+    "source": "Bing·BOSS直聘",
+    "category": "就业",
+    "published": "2026-10-28T03:00:00.000Z",
+    "image": ""
   },
   {
     "id": "c139466a45b9",
@@ -2090,13 +2084,22 @@
     "image": "https://cdn.v2ex.com/avatar/b278/8fc2/634609_xlarge.png?m=1712121309"
   },
   {
-    "id": "d909ba6a09de",
-    "title": "专栏丨“乐小业带你看政策”——高校毕业生篇（第三话）",
-    "url": "https://www.sohu.com/a/1093975453_121106991",
-    "source": "Bing·高校毕业生就业创业政策",
+    "id": "0101f178786e",
+    "title": "快乐向前冲･乐业在山东!就业政策进校园暨 “金秋启航” 临沂大学 ...",
+    "url": "https://news.qq.com/rain/a/20261027A0BULZ00",
+    "source": "Bing·大学生就业政策",
     "category": "政策",
-    "published": "2026-10-27T20:47:00.000Z",
-    "image": "https://q9.itc.cn/q_70/images03/20261028/78d5659d3c774f1a89dd3215b836d098.jpeg"
+    "published": "2026-10-27T11:22:00.000Z",
+    "image": "https://inews.gtimg.com/om_ls/OjTD0PyJFLX_3HdA9Icaherg0C4cpijSknUl9Ame_VEf4AA_640330/0"
+  },
+  {
+    "id": "1906a6a90d32",
+    "title": "快乐向前冲&#183;乐业在山东！ 2026劳动力调查和就业政策进校园宣传服务 ...",
+    "url": "https://news.qq.com/rain/a/20261028A0AC6C00",
+    "source": "Bing·大学生就业政策",
+    "category": "政策",
+    "published": "2026-10-28T10:03:00.000Z",
+    "image": "https://inews.gtimg.com/om_ls/OxRpe2VeANzTzvChNaum1faJezT3hGDbxeYjv2fgmKtMMAA_640330/0"
   },
   {
     "id": "2917826e218e",
@@ -2108,13 +2111,22 @@
     "image": "https://q5.itc.cn/q_70/images03/20261027/f085e392a2e5448a8a91a078affe973d.jpeg"
   },
   {
-    "id": "98b0715d600e",
-    "title": "奋进“十五五” 共绘新图景丨做实就业创业 托起民生幸福",
-    "url": "https://finance.sina.com.cn/wm/2026-10-28/doc-iniwukpu6610572.shtml",
+    "id": "d909ba6a09de",
+    "title": "专栏丨“乐小业带你看政策”——高校毕业生篇（第三话）",
+    "url": "https://www.sohu.com/a/1093975453_121106991",
     "source": "Bing·高校毕业生就业创业政策",
     "category": "政策",
-    "published": "2026-10-28T01:27:00.000Z",
-    "image": "//n.sinaimg.cn/front20261028ac/739/w1080h459/20261028/f4e9-58f414e03573159e2b20d6143c6afa6f.jpg"
+    "published": "2026-10-28T10:47:00.000Z",
+    "image": "https://q9.itc.cn/q_70/images03/20261028/78d5659d3c774f1a89dd3215b836d098.jpeg"
+  },
+  {
+    "id": "2712aad50e4c",
+    "title": "北京：毕业生秋招走进多所高校 200余家单位供岗近1.5万个",
+    "url": "https://www.workercn.cn/c/2026-10-27/8926849.shtml",
+    "source": "Bing·高校毕业生就业创业政策",
+    "category": "政策",
+    "published": "2026-10-27T07:27:00.000Z",
+    "image": "https://www.workercn.cn/upload/resources/image/2025/07/30/2521114.png"
   },
   {
     "id": "b1016b249dba",
@@ -2576,13 +2588,22 @@
     "image": "https://static001.infoq.cn/resource/image/54/f0/542ce741e7cc444fbcb65a99e8a3e4f0.jpg"
   },
   {
+    "id": "12071aa3a66b",
+    "title": "c# + YOLODotNet+OpenCVSharp 实现物品轨迹追踪 - 上位机康工",
+    "url": "https://www.cnblogs.com/axing/p/23473791",
+    "source": "博客园",
+    "category": "开发",
+    "published": "2026-10-28T16:58:00.000Z",
+    "image": "https://img2024.cnblogs.com/blog/116076/202610/116076-20261029005707754-2136124544.png"
+  },
+  {
     "id": "6ac430d3f7d8",
     "title": ".NET 也能直接调用 Dubbo：开源客户端 DubboNet，几行 C# 接入 Java 服务 - lulianqi15",
     "url": "https://www.cnblogs.com/lulianqi/p/23472985",
     "source": "博客园",
     "category": "开发",
     "published": "2026-10-28T15:31:00.000Z",
-    "image": "https://assets.cnblogs.com/images/wechat-share.jpg"
+    "image": "https://img2024.cnblogs.com/blog/209007/202610/209007-20261029022854733-224787390.png"
   },
   {
     "id": "044beae0b8f5",
@@ -2747,31 +2768,31 @@
     "image": "https://img2024.cnblogs.com/blog/1919157/202610/1919157-20261028061330179-1897524394.jpg"
   },
   {
-    "id": "90f8a28ea6d3",
-    "title": "100 亿条数据如何快速写入 MySQL？从 231 天到 3.5 小时，我把面试官问懵了 - Rain的Java大神实战圈",
-    "url": "https://www.cnblogs.com/zrui-xyu/p/23463651",
-    "source": "博客园",
-    "category": "开发",
-    "published": "2026-10-28T01:55:00.000Z",
-    "image": "https://img2024.cnblogs.com/blog/739056/202610/739056-20261028095134212-1443061247.png"
-  },
-  {
-    "id": "92e955bd9bc1",
-    "title": "支持济青烟率先打造北方区域性就业聚集地！山东印发实施就业优先 ...",
-    "url": "https://news.qq.com/rain/a/20261027A05SP200",
+    "id": "4dbe49f89217",
+    "title": "支持济青烟率先打造北方区域性就业聚集地！山东印发就业优先战略 ...",
+    "url": "https://sd.dzwww.com/sdnews/202610/t20261027_18244512.htm",
     "source": "就业创业政策",
     "category": "政策",
-    "published": "2026-10-27T04:26:00.000Z",
-    "image": "https://inews.gtimg.com/om_ls/OvRH0XxNoKV2dR3Rto8d_YactKHbp8NvtZ2AgxjkLnH3kAA_640330/0"
+    "published": "2026-10-27T06:24:00.000Z",
+    "image": "https://www.dzwww.com/tpl/v2019/xilan/images/logo1.png"
   },
   {
-    "id": "86ba87072003",
-    "title": "数字岗位平均月薪居首，上海人才引力位列49城第二",
-    "url": "https://www.sohu.com/a/1093434162_121286085",
+    "id": "d0a3a0082838",
+    "title": "2026数字经济人才引力报告：AI工程师薪酬显著提升",
+    "url": "https://www.sohu.com/a/1093450346_122066678",
     "source": "智联招聘",
     "category": "就业",
-    "published": "2026-10-27T10:02:00.000Z",
-    "image": "https://q9.itc.cn/q_70/images03/20261027/1622731863dc4a3a96d564b94aff0aae.jpeg"
+    "published": "2026-10-27T08:03:00.000Z",
+    "image": ""
+  },
+  {
+    "id": "99523584389c",
+    "title": "数字岗位平均月薪居首，上海人才引力位列49城第二",
+    "url": "https://news.qq.com/rain/a/20261027A0AVM400",
+    "source": "智联招聘",
+    "category": "就业",
+    "published": "2026-10-27T10:16:00.000Z",
+    "image": "https://inews.gtimg.com/om_ls/OIBEd4n1iKS2ShcefsJt9GhKueG67M5wsI03BPp0NP2UQAA_640330/0"
   },
   {
     "id": "97ec8dd740cd",
@@ -2779,7 +2800,15 @@
     "url": "http://news.cnwest.com/sxxw/a/2026/10/28/23461400.html",
     "source": "就业报告",
     "category": "就业",
-    "published": "2026-10-28T01:32:00.000Z",
-    "image": "http://res.cnwest.com/t/site/10001/a209bcf3e52b0593bd2c51ae47c9d6ab/assets/public2018/images/logo300/logoQidian.png"
+    "published": "2026-10-28T01:32:00.000Z"
+  },
+  {
+    "id": "ee4941b71c56",
+    "title": "鞍山考区2026年度中级注册安全工程师职业资格考试圆满结束",
+    "url": "https://www.sohu.com/a/1093403684_121106822",
+    "source": "安全工程师·就业分析",
+    "category": "就业",
+    "published": "2026-10-27T09:05:00.000Z",
+    "image": "https://q3.itc.cn/q_70/images03/20261027/cc48258f67f8443087e8212541022fe8.jpeg"
   }
 ]
