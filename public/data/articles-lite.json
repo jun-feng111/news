@@ -1,97 +1,121 @@
 [
   {
-    "id": "298e50473163",
-    "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
-    "url": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
-    "summary": "Jio shares surge 21% in market debut after blockbuster India IPO",
+    "id": "4de33f2bccf5",
+    "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+    "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+    "summary": "Voice AI in vogue: Nvidia releases new open transcription model",
     "source": "TechCrunch",
-    "category": "财经",
-    "published": "2026-10-28T05:20:32.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/jio-akash-ambani.jpg?resize=1200,800",
+    "category": "AI",
+    "published": "2026-10-28T15:00:00.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/AI-on-the-tongue.png?resize=1200,600",
+    "score": 85,
+    "tags": []
+  },
+  {
+    "id": "7fbbcf0aac9e",
+    "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+    "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+    "summary": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+    "source": "TechCrunch",
+    "category": "AI",
+    "published": "2026-10-28T17:00:00.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/ConnectedAppshero.width-2200.format-webp.webp?resize=1200,675",
+    "score": 80,
+    "tags": []
+  },
+  {
+    "id": "b01917f8b2b4",
+    "title": "AI execs may be too out of touch to build for the general public",
+    "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+    "summary": "AI execs may be too out of touch to build for the general public",
+    "source": "TechCrunch",
+    "category": "AI",
+    "published": "2026-10-28T15:53:52.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1172241499.jpg?resize=1200,728",
+    "score": 80,
+    "tags": []
+  },
+  {
+    "id": "8e8192c56429",
+    "title": "Xreal Aura is a new wired headset powered by Android XR",
+    "url": "https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/",
+    "summary": "Xreal Aura is a new wired headset powered by Android XR",
+    "source": "TechCrunch",
+    "category": "科技",
+    "published": "2026-10-28T17:00:00.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Xreal-Aura.jpg?resize=1200,675",
     "score": 75,
     "tags": []
   },
   {
-    "id": "092cb86201fb",
-    "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-    "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
-    "summary": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+    "id": "85b585a85336",
+    "title": "Reddit is the latest platform to embrace the &#8216;For You&#8217; feed",
+    "url": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/",
+    "summary": "Reddit is the latest platform to embrace the &#8216;For You&#8217; feed",
+    "source": "TechCrunch",
+    "category": "科技",
+    "published": "2026-10-28T16:00:00.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/03/reddit-e1708636699632.jpg?resize=1200,800",
+    "score": 75,
+    "tags": []
+  },
+  {
+    "id": "9f7133723eef",
+    "title": "Trump DOE loans $5B to nuclear plants that will power data centers",
+    "url": "https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/",
+    "summary": "Trump DOE loans $5B to nuclear plants that will power data centers",
+    "source": "TechCrunch",
+    "category": "科技",
+    "published": "2026-10-28T15:53:21.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-129268875.jpg?resize=1200,900",
+    "score": 75,
+    "tags": []
+  },
+  {
+    "id": "a25dd0954bef",
+    "title": "South Korea&#8217;s financial industry hit by fresh wave of cyberattacks",
+    "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+    "summary": "South Korea&#8217;s financial industry hit by fresh wave of cyberattacks",
+    "source": "TechCrunch",
+    "category": "科技",
+    "published": "2026-10-28T15:41:18.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/05/south-korea-money-growth.jpg?resize=1200,675",
+    "score": 75,
+    "tags": []
+  },
+  {
+    "id": "797632f9083c",
+    "title": "TikTok expands into restaurant guides with &#8216;Must Eat&#8217; feature",
+    "url": "https://techcrunch.com/2026/10/28/tiktok-expands-into-restaurant-guides-with-must-eat-feature/",
+    "summary": "TikTok expands into restaurant guides with &#8216;Must Eat&#8217; feature",
+    "source": "TechCrunch",
+    "category": "科技",
+    "published": "2026-10-28T14:26:36.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/TikTok-MustEat.jpg?w=1200",
+    "score": 75,
+    "tags": []
+  },
+  {
+    "id": "7a28b9ee4e28",
+    "title": "Chrome&#8217;s AI-powered Autofill can now dig through your Gmail to fill out forms",
+    "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+    "summary": "Chrome&#8217;s AI-powered Autofill can now dig through your Gmail to fill out forms",
     "source": "TechCrunch",
     "category": "AI",
-    "published": "2026-10-27T23:34:27.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2191707579.jpg?w=1024",
+    "published": "2026-10-28T17:00:00.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/autofill-ai-chrome.jpg?resize=1200,643",
     "score": 70,
     "tags": []
   },
   {
-    "id": "5ac9e6d4ee78",
-    "title": "The data center boom has an upside: innovation for the US grid",
-    "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
-    "summary": "The data center boom has an upside: innovation for the US grid",
+    "id": "10ad5da7345f",
+    "title": "Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices",
+    "url": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/",
+    "summary": "Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices",
     "source": "TechCrunch",
     "category": "科技",
-    "published": "2026-10-27T22:55:41.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/55589499263_7ac8a28eb3_k.jpg?resize=1200,800",
-    "score": 70,
-    "tags": []
-  },
-  {
-    "id": "87e2d1810ab9",
-    "title": "Guidewire buys Hyperexponential for $1.7B in cash",
-    "url": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
-    "summary": "Guidewire buys Hyperexponential for $1。7B in cash",
-    "source": "TechCrunch",
-    "category": "科技",
-    "published": "2026-10-27T22:26:03.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Golden-AI-finance-collage.png?resize=1200,600",
-    "score": 70,
-    "tags": []
-  },
-  {
-    "id": "f7925f86d825",
-    "title": "From 8VC to Benchmark, here&#8217;s what&#8217;s hiding in October SEC filings",
-    "url": "https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/",
-    "summary": "From 8VC to Benchmark, here&#8217;s what&#8217;s hiding in October SEC filings",
-    "source": "TechCrunch",
-    "category": "科技",
-    "published": "2026-10-27T22:17:18.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/12/GettyImages-1650189797.jpg?resize=1200,900",
-    "score": 70,
-    "tags": []
-  },
-  {
-    "id": "7deffe7eded2",
-    "title": "GM is embracing hybrids now",
-    "url": "https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now/",
-    "summary": "GM is embracing hybrids now",
-    "source": "TechCrunch",
-    "category": "科技",
-    "published": "2026-10-27T21:47:02.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/01/2024-chevrolet-corvette-e-ray-3lz-010.jpg?resize=1200,899",
-    "score": 70,
-    "tags": []
-  },
-  {
-    "id": "0ec9dae75184",
-    "title": "Who&#8217;s really in charge at Anthropic after the IPO?",
-    "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
-    "summary": "Who&#8217;s really in charge at Anthropic after the IPO",
-    "source": "TechCrunch",
-    "category": "科技",
-    "published": "2026-10-27T21:38:28.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2151610601.jpg?resize=1200,799",
-    "score": 70,
-    "tags": []
-  },
-  {
-    "id": "e36bd78a13d6",
-    "title": "Bank of America kindly asks that you don&#8217;t share your banking password with your AI assistant",
-    "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
-    "summary": "Bank of America kindly asks that you don&#8217;t share your banking password with your AI assistant",
-    "source": "TechCrunch",
-    "category": "AI",
-    "published": "2026-10-27T21:44:34.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
+    "published": "2026-10-28T14:34:25.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/echoshow16-alexaphotoframe-echotime-echostudio-echodot-hero-amazonnews-ck102526.png?resize=1200,676",
     "score": 65,
     "tags": []
   },
@@ -132,26 +156,14 @@
     "tags": []
   },
   {
-    "id": "c372745ec78a",
-    "title": "VCs will make billions on Anthropic&#8217;s IPO, but Amazon is set to make much (much) more",
-    "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
-    "summary": "VCs will make billions on Anthropic&#8217;s IPO, but Amazon is set to make much (much) more",
-    "source": "TechCrunch",
-    "category": "科技",
-    "published": "2026-10-28T01:15:28.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
-    "score": 60,
-    "tags": []
-  },
-  {
-    "id": "b850c6e9e408",
-    "title": "Discord is making its public communities more searchable, and people have concerns",
-    "url": "https://techcrunch.com/2026/10/27/discord-is-making-its-public-communities-more-searchable-and-people-have-concerns/",
-    "summary": "Discord is making its public communities more searchable, and people have concerns",
-    "source": "TechCrunch",
-    "category": "科技",
-    "published": "2026-10-27T21:22:35.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Discord-discover.png?w=1200",
+    "id": "0906dc315ee3",
+    "title": "银行秋招释放信号：“AI+金融”复合型人才需求升温",
+    "url": "https://www.news.cn/money/20261027/119a506540b84bd99eb4477d5091bcee/c.html",
+    "summary": "近期银行业秋季校园招聘全面展开，多家银行面向具体金融场景的AI复合型岗位需求旺盛，设置了科技菁英、数智金融培训生、金融科技培训生等岗位。中国证券报记者调研发现，既懂AI大模型等前沿技术，又熟悉具体金融",
+    "source": "Bing·秋招",
+    "category": "就业",
+    "published": "2026-10-26T17:00:00.000Z",
+    "image": "https://www.news.cn/detail2020/images/ewm.png",
     "score": 60,
     "tags": []
   },
@@ -164,6 +176,30 @@
     "category": "就业",
     "published": "2026-10-26T03:54:00.000Z",
     "image": "https://q4.itc.cn/q_70/images03/20261026/a103e5ae943b4be795cb3916b34ce2e2.png",
+    "score": 60,
+    "tags": []
+  },
+  {
+    "id": "a5767b3599ca",
+    "title": "政策+岗位+AI赋能！黄浦2026秋季招聘会发布高质量就业创业新政",
+    "url": "https://news.qq.com/rain/a/20261022A09LHN00",
+    "summary": "今天下午，黄浦区“秋送岗位下基层&#183;服务群众零距离”2026年秋季专场招聘暨就业创业高质量发展政策发布活动在外滩・中央广场举行。活动整合政策、产业、岗位等多方资源，采用内场主仪式+外场专场招聘",
+    "source": "Bing·大学生就业政策",
+    "category": "政策",
+    "published": "2026-10-22T09:31:00.000Z",
+    "image": "https://inews.gtimg.com/om_ls/OTecPa3-rwtH-Hv9G6MaW563q8-wIDfUVbEeH-mmWwqOYAA_640330/0",
+    "score": 60,
+    "tags": []
+  },
+  {
+    "id": "9720242fe1be",
+    "title": "报告：养老看护岗位领跑三季度招聘市场，新质赛道秋招供需活跃",
+    "url": "https://news.qq.com/rain/a/20261013A07QCA00",
+    "summary": "10月13日，智联招聘发布2026年三季度人才市场热点快报，报告称，2026年三季度，招聘市场延续以新质生产力为引领的驱动格局，并在此基础上涌现出新的亮点：养老/看护行业以43。9%的职位数同比增速登",
+    "source": "智联招聘",
+    "category": "就业",
+    "published": "2026-10-13T07:30:00.000Z",
+    "image": "https://inews.gtimg.com/om_ls/OjP3daMHQCMFpN3Ln4Dod2Ip9p5C2J9Hvq1pPJfyHEQSUAA_640330/0",
     "score": 60,
     "tags": []
   },
@@ -264,18 +300,6 @@
     "tags": []
   },
   {
-    "id": "3b879d302cb5",
-    "title": "校园招聘必备！免费AI形象照助你轻松应对面试挑战",
-    "url": "https://www.sohu.com/a/1092244570_121885661",
-    "summary": "近日，正浩创新正式启动2027届校园招聘，吸引了众多学生的关注。许多网友在评论中表示，校园招聘的竞争压力越来越大，尤其是在形象照这一环节，许多同学因为拍照的时间、金钱成本和效果不理想而感到无奈",
-    "source": "Bing·校园招聘",
-    "category": "就业",
-    "published": "2026-10-24T15:16:00.000Z",
-    "image": "//q4.itc.cn/images01/20250509/807de53dd69a4334a2c54ec755e66882.png",
-    "score": 55,
-    "tags": []
-  },
-  {
     "id": "2ea87e546de4",
     "title": "坏消息：中国1000多万应届毕业生面临的非常严峻问题，已经到来了",
     "url": "https://news.qq.com/rain/a/20261026A075I600",
@@ -288,18 +312,6 @@
     "tags": []
   },
   {
-    "id": "4edf6c98adb9",
-    "title": "BOSS直聘部分岗位需付费发布，企业招聘如何算好成本账？",
-    "url": "https://www.sohu.com/a/1091776690_115495",
-    "summary": "据了解，BOSS直聘上岗位发布是否付费，主要由系统根据市场供求关系自动判定，不同地区不同岗位具体的收费情况不尽相同。若所在地发布同类职位招聘的BOSS数量较多，且长期供不应求，会被列为竞招职位",
-    "source": "Bing·BOSS直聘",
-    "category": "就业",
-    "published": "2026-10-23T10:19:00.000Z",
-    "image": "//q0.itc.cn/images01/20261023/641932fce7874e5ba469f0f3c200fb7d.png",
-    "score": 55,
-    "tags": []
-  },
-  {
     "id": "bdcc68f8e968",
     "title": "BOSS直聘严查“代操作发职位”“租售账号”行为，提醒求职者警惕 ...",
     "url": "https://finance.sina.com.cn/roll/2026-10-26/doc-iniwqarr5373348.shtml",
@@ -308,6 +320,18 @@
     "category": "就业",
     "published": "2026-10-26T03:34:00.000Z",
     "image": "//n.sinaimg.cn/spider20261026/454/w844h1210/20261026/b69b-43a084e5f9d425867ba5a23699667564.jpg",
+    "score": 55,
+    "tags": []
+  },
+  {
+    "id": "4edf6c98adb9",
+    "title": "BOSS直聘部分岗位需付费发布，企业招聘如何算好成本账？",
+    "url": "https://www.sohu.com/a/1091776690_115495",
+    "summary": "据了解，BOSS直聘上岗位发布是否付费，主要由系统根据市场供求关系自动判定，不同地区不同岗位具体的收费情况不尽相同。若所在地发布同类职位招聘的BOSS数量较多，且长期供不应求，会被列为竞招职位",
+    "source": "Bing·BOSS直聘",
+    "category": "就业",
+    "published": "2026-10-23T10:19:00.000Z",
+    "image": "//q0.itc.cn/images01/20261023/641932fce7874e5ba469f0f3c200fb7d.png",
     "score": 55,
     "tags": []
   },
@@ -384,14 +408,14 @@
     "tags": []
   },
   {
-    "id": "538546c3a0e0",
-    "title": "黄南州开展2026年“百日千万” 西宁一黄南高校毕业生就业协作系列 ...",
-    "url": "https://finance.sina.com.cn/wm/2026-10-26/doc-iniwpfmx9251129.shtml",
-    "summary": "近日，西宁市、黄南州两地人社部门联合开展高校毕业生定向专场招聘系列活动。活动广泛征集省、州内外及西宁市各类企业100余家，通过就业服务下沉基层牧区、优质岗位直达求职群众模式，服务求职群众千余人次，发布",
-    "source": "Bing·高校毕业生就业创业政策",
+    "id": "c9e0e2c9da46",
+    "title": "《中国劳动保障报》头版头条报道我市传承红色血脉推进人社事业高 ...",
+    "url": "https://www.sohu.com/a/1092991077_121106832",
+    "summary": "10月20日，《中国劳动保障报》头版头条刊发《红军出发地 民生新答卷——江西瑞金传承红色血脉推进人社事业高质量发展纪实》，报道赣州瑞金市以红色血脉赋能民生保障、推动人社事业高质量发展的经验做法和实际成",
+    "source": "Bing·人社部就业创业政策",
     "category": "政策",
-    "published": "2026-10-25T17:00:00.000Z",
-    "image": "//n.sinaimg.cn/front20261026ac/198/w499h499/20261026/20a2-7de78ef1740e0a3fc508ae540e25f521.jpg",
+    "published": "2026-10-26T12:05:00.000Z",
+    "image": "https://q2.itc.cn/q_70/images03/20261026/ed258561f0cd4217ba2a37f62beaa829.jpeg",
     "score": 55,
     "tags": []
   },
@@ -420,14 +444,14 @@
     "tags": []
   },
   {
-    "id": "46896d606cb8",
-    "title": "数字经济风口来袭！陕西这所民办院校大数据专业供不应求，深受各 ...",
-    "url": "https://www.sohu.com/a/1089578443_122630683",
-    "summary": "人工智能全面渗透各行各业，当下什么专业发展前景一路向好。大数据一定是当之无愧的优选",
+    "id": "46a8c174f7bc",
+    "title": "AI 产品经理岗卷出新高度？本周六职计划拆解 6 大核心能力",
+    "url": "https://news.sina.cn/sx/2026-10-22/detail-iniwavxi5198827.d.html?vt=4",
+    "summary": "据公开资料，北京职计划互联网科技有限公司前身为2019年启动的求职辅导项目，2022年正式注册成立，由曾任职美团、京东的大厂高级产品专家黄家欣（职计划卿尘）创立。公司专注为高潜力应届生、职场转型人群提",
     "source": "就业报告",
     "category": "就业",
-    "published": "2026-10-22T04:00:00.000Z",
-    "image": "//q9.itc.cn/q_70/images01/20260507/026d78a84bd04e32888c9430c9fba1fd.png",
+    "published": "2026-10-22T10:51:00.000Z",
+    "image": "https://n.sinaimg.cn/spider20261022/533/w800h533/20261022/0242-a2f7e36fbcbf6b2ee4fb3233f8e042ee.jpg",
     "score": 55,
     "tags": []
   },
@@ -480,30 +504,6 @@
     "tags": []
   },
   {
-    "id": "46a8c174f7bc",
-    "title": "AI 产品经理岗卷出新高度？本周六职计划拆解 6 大核心能力",
-    "url": "https://news.sina.cn/sx/2026-10-22/detail-iniwavxi5198827.d.html?vt=4",
-    "summary": "据公开资料，北京职计划互联网科技有限公司前身为2019年启动的求职辅导项目，2022年正式注册成立，由曾任职美团、京东的大厂高级产品专家黄家欣（职计划卿尘）创立。公司专注为高潜力应届生、职场转型人群提",
-    "source": "产品经理·就业分析",
-    "category": "就业",
-    "published": "2026-10-22T10:51:00.000Z",
-    "image": "https://n.sinaimg.cn/spider20261022/533/w800h533/20261022/0242-a2f7e36fbcbf6b2ee4fb3233f8e042ee.jpg",
-    "score": 55,
-    "tags": []
-  },
-  {
-    "id": "4835b0acd772",
-    "title": "美团启动2027届校招 超80%岗位要求AI能力",
-    "url": "https://www.guandian.cn/article/20260817/586113.html",
-    "summary": "美团正式启动2027届校园招聘，面向2026年11月至2027年10月毕业的海内外应届生，开放10大类、100余种岗位，覆盖全球几十个城市。新增AI全栈工程师、AI产品经理、智能商业分析师等十余种AI",
-    "source": "产品经理·就业分析",
-    "category": "就业",
-    "published": "2026-08-17T14:37:00.000Z",
-    "image": "https://www.guandian.cn/statics/index2022/img/top_logo.png",
-    "score": 55,
-    "tags": []
-  },
-  {
     "id": "520b8559860d",
     "title": "字节跳动2027校园招聘正式启动 上新AI全栈工程师等岗位",
     "url": "https://news.qq.com/rain/a/20260803A0B2OG00",
@@ -524,6 +524,18 @@
     "category": "就业",
     "published": "2026-10-16T05:40:00.000Z",
     "image": "https://inews.gtimg.com/om_ls/OuwTbKZ31iTTL3GfawfV_j4uks66vZOJghtWcB2qQyAS0AA_640330/0",
+    "score": 55,
+    "tags": []
+  },
+  {
+    "id": "b851b1164455",
+    "title": "应急管理部答封面新闻：累计71.6万人取得中级注册安全工程师职业资格",
+    "url": "https://news.qq.com/rain/a/20261016A06ZOZ00",
+    "summary": "10月16日，应急管理部举行季度例行新闻发布会。关于中级注册安全工程师职业资格发展现状，应急管理部安全生产监察专员孙文德在回答封面新闻记者提问时表示，自2004年中级注册安全工程师职业资格考试首次全国",
+    "source": "安全工程师·就业分析",
+    "category": "就业",
+    "published": "2026-10-16T06:04:00.000Z",
+    "image": "https://inews.gtimg.com/om_ls/Or2ZRBPzye8fUqrLJWlY8nOviLX7rX9G8wicA7Z8-XRY4AA_640330/0",
     "score": 55,
     "tags": []
   },
@@ -696,9 +708,21 @@
     "tags": []
   },
   {
-    "id": "2c6cb74a6a36",
+    "id": "98b7150029a9",
+    "title": "南方电网能源发展研究院2027年校园招聘公告",
+    "url": "https://news.qq.com/rain/a/20261022A0BKCG00",
+    "summary": "企业简介1企业介绍南方电网能源发展研究院有限责任公司（以下简称“南网能源院”）是中国南方电网有限责任公司的全资子公司、共享服务平台企业，定位为“南网智库、行业智囊”，挂牌“南方电网改革发展研究中心”“",
+    "source": "Bing·校园招聘",
+    "category": "就业",
+    "published": "2026-10-22T11:43:00.000Z",
+    "image": "https://inews.gtimg.com/om_ls/OT2Ko9it7DPNgqRJOE4Af33ymLfxIrZbMUCivINujcBwsAA_640330/0",
+    "score": 50,
+    "tags": []
+  },
+  {
+    "id": "5d0e8edceae5",
     "title": "毕业生秋招走进高校，提供就业岗位近1.5万个，吸引优秀人才留京发展",
-    "url": "https://www.msn.cn/zh-cn/news/other/毕业生秋招走进高校-提供就业岗位近15万个-吸引优秀人才留京发展/ar-AA2g4TSK",
+    "url": "https://www.msn.cn/zh-cn/news/other/毕业生秋招走进高校-提供就业岗位近1-5万个-吸引优秀人才留京发展/ar-AA2g4TSK",
     "summary": "为吸引2027届优秀人才留京发展，9月14日以来，市人力资源和社会保障局联合团市委、市总工会组织开展“京英荟萃 职通未来”毕业生秋季系列招聘活动，面向2027届应届高校毕业生，先后走进中国人民大学、北",
     "source": "Bing·秋招",
     "category": "就业",
@@ -708,14 +732,26 @@
     "tags": []
   },
   {
-    "id": "c9903174402c",
-    "title": "2026年银行秋招季 可以发现银行不是“缺人”是“换人”",
-    "url": "https://news.qq.com/rain/a/20261022A04BC900",
-    "summary": "作者：百晓生2026年10月，银行业2027届校园招聘进入网申倒计时。多家国有大行的网申通道即将关闭，这场被毕业生称为“史上最难银行秋招”的竞争正在悄然收尾",
-    "source": "Bing·秋招",
+    "id": "e9c3e0edc0a6",
+    "title": "BOSS直聘收涨1.22%，成交额3518.31万美元",
+    "url": "https://finance.sina.com.cn/stock/usstock/notice/2026-10-27/doc-iniwqxvf5016852.shtml",
+    "summary": "10月27日，BOSS直聘（BZ）收涨1。22%，报16",
+    "source": "Bing·BOSS直聘",
     "category": "就业",
-    "published": "2026-10-22T03:25:00.000Z",
-    "image": "https://inews.gtimg.com/om_ls/OVtYJm57vVyztnzZDFNfAswNwY3x7RvNNYeJaZZPihEIoAA_640330/0",
+    "published": "2026-10-26T17:00:00.000Z",
+    "image": "",
+    "score": 50,
+    "tags": []
+  },
+  {
+    "id": "5a571cd2744e",
+    "title": "[广州/西安][外包][汇丰项目] 帮 HR 找英语好的 Java 开发， Senior DevRel 方向（不支持长期远程）",
+    "url": "https://www.v2ex.com/t/1252035#reply3",
+    "summary": "[广州/西安][外包][汇丰项目] 帮 HR 找英语好的 Java 开发， Senior DevRel 方向（不支持长期远程）",
+    "source": "V2EX·招聘",
+    "category": "就业",
+    "published": "2026-10-26T13:46:25.000Z",
+    "image": "https://cdn.v2ex.com/avatar/7dfb/e3c7/733315_xlarge.png?m=1793021969",
     "score": 50,
     "tags": []
   },
@@ -804,14 +840,14 @@
     "tags": []
   },
   {
-    "id": "530da61be111",
-    "title": "太原市大学生就业人才补贴政策，留学归国就业享福利",
-    "url": "https://www.sohu.com/a/1091588085_121124029",
-    "summary": "太原市为吸引各类优秀大学生及高技能人才，出台了极具竞争力的人才政策体系，政策有效期已延长至2028年。针对全日制博士研究生、世界排名前200名大学（不含境内）及“双一流”建设高校（含建设学科）的全日制",
+    "id": "d31499a1e027",
+    "title": "有为青年创始人李宁出席四川青创公益百校行，受聘川影大学生创新 ...",
+    "url": "https://www.dzwww.com/xinwen/jishixinwen/202610/t20261027_18242545.htm",
+    "summary": "为深入推进青年创业就业工作，助力大学生创新创业实践，2026年10月22日，由四川省青年创业就业基金会、四川电影电视学院主办的“创响青春 聚力成长”四川青创公益百校行活动（四川电影电视学院专场），在川",
     "source": "Bing·大学生就业政策",
     "category": "政策",
-    "published": "2026-10-23T03:54:00.000Z",
-    "image": "https://q5.itc.cn/q_70/images03/20261023/85077128df1d4127a67ce80c0e90ec2a.jpeg",
+    "published": "2026-10-26T17:00:00.000Z",
+    "image": "https://www.dzwww.com/tpl/v2019/xilan/images/logo1.png",
     "score": 50,
     "tags": []
   },
@@ -823,6 +859,7 @@
     "source": "Bing·大学生就业政策",
     "category": "政策",
     "published": "2026-10-24T17:00:00.000Z",
+    "image": "https://qnzz.youth.cn/images/20210809_tuanqi_new.png",
     "score": 50,
     "tags": []
   },
@@ -923,6 +960,18 @@
     "tags": []
   },
   {
+    "id": "93ee5738f8ea",
+    "title": "智联招聘：人工智能工程师薪酬溢价五至六成",
+    "url": "https://fund.eastmoney.com/a/202610273909646378.html",
+    "summary": "【智联招聘：人工智能工程师薪酬溢价五至六成】10月27日，上海财经大学数字经济研究院、智联招聘联合发布《2026全国主要城市数字经济人才引力指数报告》，报告显示，全国数字经济人才引力版图呈现“三极引领",
+    "source": "智联招聘",
+    "category": "就业",
+    "published": "2026-10-26T17:00:00.000Z",
+    "image": "https://j5.dfcfw.com/image/201511/20151125162150.png",
+    "score": 50,
+    "tags": []
+  },
+  {
     "id": "6008d8522be8",
     "title": "2026秋招为什么“海投没用”？应届生先看这4个招聘变化",
     "url": "https://www.sohu.com/a/1086751929_123029158",
@@ -959,18 +1008,6 @@
     "tags": []
   },
   {
-    "id": "51615d1530aa",
-    "title": "央企招聘的秋招和春招分别在什么时候？哪个机会更多？",
-    "url": "https://www.sohu.com/a/1085809292_122711233",
-    "summary": "很多应届生对央企招聘的印象停留在\"金九银十\"和\"金三银四\"两个模糊的词上，结果要么在九月才开始准备而错过提前批，要么把希望全押在春招上。湖南楚启科技在梳理央国企考情时反复强调：秋招和春招不是两场平行的",
-    "source": "就业报告",
-    "category": "就业",
-    "published": "2026-10-10T01:56:00.000Z",
-    "image": "//q9.itc.cn/images01/20261010/2b5b074f2580472587da805fd8a397d1.jpeg",
-    "score": 50,
-    "tags": []
-  },
-  {
     "id": "d1260611e42a",
     "title": "研趣就业：秋招末期进度盘点：安徽考生还剩哪几条路",
     "url": "https://www.sohu.com/a/1092908328_122531621",
@@ -983,6 +1020,18 @@
     "tags": []
   },
   {
+    "id": "51615d1530aa",
+    "title": "央企招聘的秋招和春招分别在什么时候？哪个机会更多？",
+    "url": "https://www.sohu.com/a/1085809292_122711233",
+    "summary": "很多应届生对央企招聘的印象停留在\"金九银十\"和\"金三银四\"两个模糊的词上，结果要么在九月才开始准备而错过提前批，要么把希望全押在春招上。湖南楚启科技在梳理央国企考情时反复强调：秋招和春招不是两场平行的",
+    "source": "就业报告",
+    "category": "就业",
+    "published": "2026-10-10T01:56:00.000Z",
+    "image": "//q9.itc.cn/images01/20261010/2b5b074f2580472587da805fd8a397d1.jpeg",
+    "score": 50,
+    "tags": []
+  },
+  {
     "id": "3cc74651adc3",
     "title": "南中医“秋招”现场上演“全员促就业”，243家企业带来9000多个优质 ...",
     "url": "https://www.yangtse.com/news/jy/202610/t20261019_404078.html",
@@ -990,6 +1039,19 @@
     "source": "就业报告",
     "category": "就业",
     "published": "2026-10-18T16:59:00.000Z",
+    "image": "https://www.yangtse.com/images/yzwbwLogo-20250512.png",
+    "score": 50,
+    "tags": []
+  },
+  {
+    "id": "dd520eef664c",
+    "title": "江西举行2027届高校毕业生专场就业招聘会 计划招聘1.2万余人",
+    "url": "https://finance.sina.com.cn/roll/2026-10-23/doc-iniwfmnk5019220.shtml",
+    "summary": "中新网南昌10月23日电 (记者 刘力鑫)23日，江西省2027届高校毕业生综合类专场就业招聘会在南昌大学举行，两百多家企业招聘需求总人数达1。据初步统计，本次招聘会已收到简历1",
+    "source": "就业报告",
+    "category": "就业",
+    "published": "2026-10-23T04:33:00.000Z",
+    "image": "//n.sinaimg.cn/sinakd20261023s/269/w700h369/20261023/4c46-4e4ce7748c6e444ce934ec975e6c2079.jpg",
     "score": 50,
     "tags": []
   },
@@ -1017,6 +1079,18 @@
     "tags": []
   },
   {
+    "id": "591341fe37d5",
+    "title": "公司裁掉两个年薪50+万元工程师，花2小时教他用Claude Code「接盘」 ...",
+    "url": "https://www.sohu.com/a/1091210103_115128",
+    "summary": "“ 公司裁掉了两名高薪工程师，然后让我和 Claude Code 接手他们的工作，而我的年薪只有 2。” 本周，一名来自西班牙的系统管理员 Nash 在 Reddit 上发帖求助，讲述了自己遭遇的一场",
+    "source": "就业报告",
+    "category": "就业",
+    "published": "2026-10-22T08:14:00.000Z",
+    "image": "https://q8.itc.cn/q_70/images03/20261022/8241914734964d4fb6cdf9c6ff5fd838.png",
+    "score": 50,
+    "tags": []
+  },
+  {
     "id": "0fe61a130bfc",
     "title": "华清远见9月高薪就业榜单出炉，榜首20K！",
     "url": "https://www.sohu.com/a/1086079389_121123998",
@@ -1025,6 +1099,18 @@
     "category": "就业",
     "published": "2026-10-10T09:19:00.000Z",
     "image": "https://q5.itc.cn/q_70/images03/20261010/4863e9c4455b4347bd1fec7a3ab8dd04.png",
+    "score": 50,
+    "tags": []
+  },
+  {
+    "id": "5e89837c1f9e",
+    "title": "世界技能大赛项目的科技含量有多高｜世赛里的科技范",
+    "url": "https://news.cyol.com/gb/keji/articles/2026-09/07/content_o6BW3mF5pd.html",
+    "summary": "第48届世界技能大赛即将拉开序幕，大赛新增轨道车辆技术、无人机系统、智慧安防技术、软件测试、数字交互媒体设计、口腔修复工艺技术、零售等7个比赛项目。这些项目紧跟产业前沿，直接反映了数字化、智能化和绿色",
+    "source": "测试开发·就业分析",
+    "category": "就业",
+    "published": "2026-09-06T17:00:00.000Z",
+    "image": "",
     "score": 50,
     "tags": []
   },
@@ -1077,14 +1163,14 @@
     "tags": []
   },
   {
-    "id": "eed9381f91fb",
-    "title": "2026年度中级注册安全工程师考试开始报名！报名入口+考试安排",
-    "url": "https://news.qq.com/rain/a/20260810A0CHRU00",
-    "summary": "2026年度中级注册安全工程师职业资格考试 已经开始报名 具体报名入口及考试安排 一起来了解一下 2026年度中级注册安全工程师职业资格考试 凡遵守中华人民共和国宪法、法律、法规，具有良好的业务素质和",
+    "id": "23d0e0f326c9",
+    "title": "2026年度中级注册安全工程师职业资格考试（莆田考区）顺利举行",
+    "url": "https://www.sohu.com/a/1092551923_121106994",
+    "summary": "10月24-25日，中级注册安全工程师职业资格考试(莆田考区)在莆田科技职业技术学校顺利举行，市人社局党组书记、局长蔡金春到莆田科技职业技术学校巡视指导考务工作。 蔡金春局长与考点负责人深入交流，细致",
     "source": "安全工程师·就业分析",
     "category": "就业",
-    "published": "2026-08-10T14:01:00.000Z",
-    "image": "https://inews.gtimg.com/om_ls/OKTFEuor3Ryi6_64_mTPnKrxN5Pb2-6f_U29ckt8DjJiMAA_640330/0",
+    "published": "2026-10-25T12:06:00.000Z",
+    "image": "https://q6.itc.cn/q_70/images03/20261025/6cb5300a31e14b55b98e14d6c6c6286b.png",
     "score": 50,
     "tags": []
   },
@@ -1161,29 +1247,6 @@
     "tags": []
   },
   {
-    "id": "11d796c8bac4",
-    "title": "海南电网公司2027年校园招聘公告",
-    "url": "https://news.qq.com/rain/a/20261022A0AHNL00",
-    "summary": "一、企业简介海南电网有限责任公司是中央管理国有骨干企业、世界500强企业中国南方电网有限责任公司的全资子公司，负责海南电网规划、建设、运营、管理。公司始终秉承“人民电业为人民”的企业宗旨，不断满足人民",
-    "source": "Bing·校园招聘",
-    "category": "就业",
-    "published": "2026-10-22T10:22:00.000Z",
-    "score": 40,
-    "tags": []
-  },
-  {
-    "id": "0727e27b9521",
-    "title": "四川省大健康产业专场招聘月送岗进校园",
-    "url": "https://www.sc.chinanews.com.cn/scxw/2026-10-25/251189.html",
-    "summary": "中新网四川新闻10月25日电 四川省大健康产业专场招聘月暨工会就业服务进校园活动近日在德阳启动。活动由四川省总工会、四川省人力资源和社会保障厅、四川省卫生健康委员会、四川省妇女联合会共同举办，是推动2",
-    "source": "Bing·校园招聘",
-    "category": "就业",
-    "published": "2026-10-25T04:13:00.000Z",
-    "image": "//i2.chinanews.com/thumbnailzhi44.png",
-    "score": 40,
-    "tags": []
-  },
-  {
     "id": "fc2176e5d795",
     "title": "招聘 FPGA 工程师，欢迎投递",
     "url": "https://www.v2ex.com/t/1250883#reply8",
@@ -1196,14 +1259,14 @@
     "tags": []
   },
   {
-    "id": "53eb96694d7c",
-    "title": "LLM 应用研发工程师 远程 急急急",
-    "url": "https://www.v2ex.com/t/1250726#reply7",
-    "summary": "LLM 应用研发工程师 远程 急急急",
-    "source": "V2EX·招聘",
-    "category": "就业",
-    "published": "2026-10-21T11:26:37.000Z",
-    "image": "https://cdn.v2ex.com/gravatar/6d6da22880f66b5dbf771ca04f35d887?s=73&d=retro",
+    "id": "50d1dd92a8f4",
+    "title": "全国大学生创业工作推进会议召开",
+    "url": "https://www.sohu.com/a/1091988830_243614",
+    "summary": "本报讯（记者 郑翅）近日，教育部在湖南长沙召开全国大学生创业工作推进会议。 会议指出，推进大学生创业，是增强创业带动就业效应、实现高校毕业生高质量充分就业的重要支撑，是推动科技创新与产业创新深度融合、",
+    "source": "Bing·大学生就业政策",
+    "category": "政策",
+    "published": "2026-10-24T01:15:00.000Z",
+    "image": "",
     "score": 40,
     "tags": []
   },
@@ -1220,14 +1283,14 @@
     "tags": []
   },
   {
-    "id": "c9d74b30d653",
-    "title": "济南市举办大学生创业项目资助资金发放仪式",
-    "url": "https://news.qq.com/rain/a/20261023A05V4Y00",
-    "summary": "齐鲁网&#183;闪电新闻10月23日讯&#160;为持续优化创新创业生态，精准落实大学生创业项目资助政策，10月22日，济南市第一批大学生新创办企业资助项目资金发放仪式在中国（济南）人力资源服务产业",
+    "id": "daf19dd85e87",
+    "title": "我市组织大学生创业项目资助资金集中发放",
+    "url": "https://www.sohu.com/a/1092076114_121106991",
+    "summary": "为持续优化创新创业生态，精准落实大学生创业项目资助政策，10月22日，济南市第一批大学生新创办企业资助项目资金集中发放活动在中国（济南）人力资源服务产业园举办。活动现场为获扶持的企业代表集中发放专项资",
     "source": "Bing·大学生创业扶持政策",
     "category": "政策",
-    "published": "2026-10-23T04:37:00.000Z",
-    "image": "https://inews.gtimg.com/om_ls/O0E4g1ZvjmtP7DtcWNyknZTohTsppkgvGHqlFiD1CrMA4AA_640330/0",
+    "published": "2026-10-24T04:22:00.000Z",
+    "image": "https://q9.itc.cn/q_70/images03/20261024/6c7a5fba845b47b3bae97da87c05b9e2.jpeg",
     "score": 40,
     "tags": []
   },
@@ -1263,7 +1326,7 @@
     "source": "BOSS直聘",
     "category": "就业",
     "published": "2026-10-21T15:58:00.000Z",
-    "image": "https://img3.utuku.imgcdc.com/300x300/news/20261028/496f2aea-6900-48cb-bef7-2645e8df9277.jpg",
+    "image": "https://img1.utuku.imgcdc.com/300x300/news/20261029/5c0747c3-e6da-47e7-ae33-a5d6c413ccaf.jpg",
     "score": 40,
     "tags": []
   },
@@ -1280,94 +1343,121 @@
     "tags": []
   },
   {
-    "id": "8145fe5ddb51",
-    "title": "Re:Build, which spun out Slate Auto, raises $2.1B",
-    "url": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
+    "id": "78bf8376ee0d",
+    "title": "Meta has a new AI pet app called Waddle World",
+    "url": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/",
     "source": "TechCrunch",
     "category": "科技",
-    "published": "2026-10-27T20:31:17.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/slate-auto-truck-tesla-charging.jpg?resize=1200,800"
+    "published": "2026-10-28T13:53:31.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=1024"
   },
   {
-    "id": "fc5f9bdbfc14",
-    "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
-    "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+    "id": "bdf7a460d91c",
+    "title": "Free Fire returns to India as Garena launches localized version four years after ban",
+    "url": "https://techcrunch.com/2026/10/28/free-fire-returns-to-india-as-garena-launches-localized-version-four-years-after-ban/",
     "source": "TechCrunch",
     "category": "科技",
-    "published": "2026-10-27T18:55:35.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1191380440.jpg?resize=1200,800"
+    "published": "2026-10-28T13:39:18.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/free-fire-india.jpg?resize=1200,800"
   },
   {
-    "id": "636498a83af9",
-    "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-    "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+    "id": "1d44ed33defb",
+    "title": "Kodiak lands first commercial deal to supply driverless trucks for public highways",
+    "url": "https://techcrunch.com/2026/10/28/kodiak-lands-first-commercial-deal-to-supply-driverless-trucks-for-public-highways/",
     "source": "TechCrunch",
     "category": "科技",
-    "published": "2026-10-27T17:08:08.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-14-at-7.00.44-PM.png?resize=1200,783"
+    "published": "2026-10-28T13:00:00.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Kodiak_DTL.jpg?resize=1200,675"
   },
   {
-    "id": "3ddb9b3e3bda",
-    "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
-    "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+    "id": "313f7a5d4fe7",
+    "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
+    "url": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
     "source": "TechCrunch",
     "category": "科技",
-    "published": "2026-10-27T16:30:57.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Genie-4-blog-header.png?resize=1200,675"
+    "published": "2026-10-28T13:00:00.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-audience.jpg?resize=1200,800"
   },
   {
-    "id": "afdc5264df2f",
-    "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-    "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+    "id": "298e50473163",
+    "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
+    "url": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
     "source": "TechCrunch",
     "category": "科技",
-    "published": "2026-10-27T14:59:09.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/rohit-5.jpg?resize=1200,800"
+    "published": "2026-10-28T05:20:32.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/jio-akash-ambani.jpg?resize=1200,800"
   },
   {
-    "id": "d8d562a2d870",
-    "title": "Ford Fathom will be the cheapest American EV capable of powering a house",
-    "url": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
+    "id": "c372745ec78a",
+    "title": "VCs will make billions on Anthropic&#8217;s IPO, but Amazon is set to make much (much) more",
+    "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
     "source": "TechCrunch",
     "category": "科技",
-    "published": "2026-10-27T14:51:33.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Home-Power-Station_1920x1080.jpg?resize=1200,675"
+    "published": "2026-10-28T01:15:28.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798"
   },
   {
-    "id": "a2f5e7f0b175",
-    "title": "US government says hackers are now exploiting critical PHP web bugs",
-    "url": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/",
+    "id": "092cb86201fb",
+    "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+    "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
     "source": "TechCrunch",
     "category": "科技",
-    "published": "2026-10-27T14:40:39.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/php-outage-2300859754.jpg?resize=1200,867"
+    "published": "2026-10-27T23:34:27.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2191707579.jpg?w=1024"
   },
   {
-    "id": "e02efc157895",
-    "title": "Apple unveils new 14-inch MacBook Pro with M6 chip",
-    "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+    "id": "5ac9e6d4ee78",
+    "title": "The data center boom has an upside: innovation for the US grid",
+    "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
     "source": "TechCrunch",
     "category": "科技",
-    "published": "2026-10-27T14:25:11.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-MacBook-Pro-14-in-with-M6-hero-261027_big.jpg.medium_2x.jpg?resize=1200,675"
+    "published": "2026-10-27T22:55:41.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/55589499263_7ac8a28eb3_k.jpg?resize=1200,800"
   },
   {
-    "id": "ca3d25d89dc6",
-    "title": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
-    "url": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/",
+    "id": "87e2d1810ab9",
+    "title": "Guidewire buys Hyperexponential for $1.7B in cash",
+    "url": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
     "source": "TechCrunch",
     "category": "科技",
-    "published": "2026-10-27T13:54:51.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Siri-feat-iOS-27.jpg?resize=1200,648"
+    "published": "2026-10-27T22:26:03.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Golden-AI-finance-collage.png?resize=1200,600"
   },
   {
-    "id": "96e811b7a717",
-    "title": "Japan internet giant GMO says hackers posted stolen customer data",
-    "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+    "id": "f7925f86d825",
+    "title": "From 8VC to Benchmark, here&#8217;s what&#8217;s hiding in October SEC filings",
+    "url": "https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/",
     "source": "TechCrunch",
     "category": "科技",
-    "published": "2026-10-27T13:32:57.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/07/data-breach-overview-v2.jpg?resize=1200,675"
+    "published": "2026-10-27T22:17:18.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/12/GettyImages-1650189797.jpg?resize=1200,900"
+  },
+  {
+    "id": "1378e4570778",
+    "title": "Buckle up for more body-swapping hijinks in Jumanji: Open World trailer",
+    "url": "https://arstechnica.com/culture/2026/10/buckle-up-for-more-body-swapping-hijinks-in-jumanji-open-world-trailer/",
+    "source": "Ars Technica",
+    "category": "科技",
+    "published": "2026-10-28T15:48:12.000Z",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/jumanji1-1152x648.jpg"
+  },
+  {
+    "id": "043d57e2548a",
+    "title": "A hidden ocean change near Antarctica could have global consequences",
+    "url": "https://arstechnica.com/science/2026/10/antarctic-sea-ice-loss-could-reshape-weather-far-beyond-the-pole/",
+    "source": "Ars Technica",
+    "category": "科技",
+    "published": "2026-10-28T13:38:53.000Z",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/antarctic-seaice-1024x648.jpg"
+  },
+  {
+    "id": "c3668f008886",
+    "title": "China’s snooping around Pacific undersea cables raises risks for Big Tech",
+    "url": "https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/",
+    "source": "Ars Technica",
+    "category": "科技",
+    "published": "2026-10-28T11:00:49.000Z",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Trans-Pacific-cables-at-risk-1071x648.jpg"
   },
   {
     "id": "1c96b2fd3a95",
@@ -1523,31 +1613,94 @@
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/02/microsoft-1152x648.jpg"
   },
   {
-    "id": "fc006e2830ca",
-    "title": "Worms mate in man's eyes, get plucked out right before larvae burst out",
-    "url": "https://arstechnica.com/health/2026/10/whats-worse-than-having-eye-worms-having-eye-worms-with-babies/",
-    "source": "Ars Technica",
-    "category": "科技",
-    "published": "2026-10-26T20:27:00.000Z",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/larvae-released-1152x648.jpg"
+    "id": "47555b0ff81d",
+    "title": "甘肃保安腰刀启“工厂模式” 传统技艺焕发新生机",
+    "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722480.shtml",
+    "source": "中新网社会",
+    "category": "社会",
+    "published": "2026-10-28T14:37:22.000Z",
+    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
   },
   {
-    "id": "14be99450567",
-    "title": "Meet the real-life Scottish surgeon who inspired Sherlock Holmes",
-    "url": "https://arstechnica.com/science/2026/10/meet-the-real-life-scottish-surgeon-who-inspired-sherlock-holmes/",
-    "source": "Ars Technica",
-    "category": "科技",
-    "published": "2026-10-26T20:15:07.000Z",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/sleuthTOP-1152x648-1792956138.jpg"
+    "id": "87cdbf544cd3",
+    "title": "大病留本地 外转降下来：跨省医疗帮扶让云南澄江大病不出市",
+    "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722474.shtml",
+    "source": "中新网社会",
+    "category": "社会",
+    "published": "2026-10-28T14:18:21.000Z",
+    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
   },
   {
-    "id": "25b40a661f74",
-    "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
-    "url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
-    "source": "Ars Technica",
-    "category": "科技",
-    "published": "2026-10-26T20:04:16.000Z",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Siri-AI-1152x648.png"
+    "id": "d88d312ea218",
+    "title": "西藏巴青震区安置一线：一群基层干部，守护牧区每一户",
+    "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722458.shtml",
+    "source": "中新网社会",
+    "category": "社会",
+    "published": "2026-10-28T14:00:58.000Z",
+    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+  },
+  {
+    "id": "20cc0e94fee3",
+    "title": "广交会二期交通部门疏运客商51.65万人次",
+    "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722460.shtml",
+    "source": "中新网社会",
+    "category": "社会",
+    "published": "2026-10-28T13:55:45.000Z",
+    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+  },
+  {
+    "id": "a36c0b4fb5ed",
+    "title": "上海中医药大学庆祝建校70周年 30项中医药国际标准同步发布",
+    "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722446.shtml",
+    "source": "中新网社会",
+    "category": "社会",
+    "published": "2026-10-28T13:23:20.000Z",
+    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+  },
+  {
+    "id": "085d9fd5d644",
+    "title": "青海藏医火灸走向标准化",
+    "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722448.shtml",
+    "source": "中新网社会",
+    "category": "社会",
+    "published": "2026-10-28T13:23:14.000Z",
+    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+  },
+  {
+    "id": "53bd33bda8d4",
+    "title": "第九届进博会4561名“小叶子”宣誓上岗",
+    "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722443.shtml",
+    "source": "中新网社会",
+    "category": "社会",
+    "published": "2026-10-28T13:20:44.000Z",
+    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+  },
+  {
+    "id": "76ec9c74d040",
+    "title": "自然资源部：前三季度我国海洋生产总值同比增长4.9%",
+    "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722427.shtml",
+    "source": "中新网社会",
+    "category": "社会",
+    "published": "2026-10-28T13:18:39.000Z",
+    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+  },
+  {
+    "id": "ff09ee2b35e2",
+    "title": "青科会“AI＋”中外青年科学家圆桌会在瓯江实验室举行",
+    "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722345.shtml",
+    "source": "中新网社会",
+    "category": "社会",
+    "published": "2026-10-28T11:13:47.000Z",
+    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+  },
+  {
+    "id": "761f9f646665",
+    "title": "40亩水稻留作候鸟“口粮” 武汉安山湿地护万羽迁徙",
+    "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722356.shtml",
+    "source": "中新网社会",
+    "category": "社会",
+    "published": "2026-10-28T11:05:30.000Z",
+    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
   },
   {
     "id": "046010366485",
@@ -1721,93 +1874,12 @@
     "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
   },
   {
-    "id": "fd34f4b82c90",
-    "title": "黑龙江省梯度培育智能工厂实现新突破",
-    "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722240.shtml",
-    "source": "中新网社会",
+    "id": "5db00a26ad7e",
+    "title": "第九届“中国—东盟青年风汇”在京举行",
+    "url": "https://www.chinanews.com.cn/edu/2026/10-28/10722381.shtml",
+    "source": "中新网教育",
     "category": "社会",
-    "published": "2026-10-28T08:32:38.000Z",
-    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-  },
-  {
-    "id": "8502be2f6371",
-    "title": "黑龙江呼玛县成功救助国家二级保护野生动物貉",
-    "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722242.shtml",
-    "source": "中新网社会",
-    "category": "社会",
-    "published": "2026-10-28T08:31:50.000Z",
-    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-  },
-  {
-    "id": "d9af8219c987",
-    "title": "三地免跑 京津冀实现全域营业执照异地“办、发、领”",
-    "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722257.shtml",
-    "source": "中新网社会",
-    "category": "社会",
-    "published": "2026-10-28T08:31:28.000Z",
-    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-  },
-  {
-    "id": "b7c127c407e5",
-    "title": "哈伊高铁开行“满月” 45.3万人次搭乘列车奔赴“千里找北”之旅",
-    "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722245.shtml",
-    "source": "中新网社会",
-    "category": "社会",
-    "published": "2026-10-28T08:31:04.000Z",
-    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-  },
-  {
-    "id": "5150196e9600",
-    "title": "（长征胜利90周年）从支援红军筹粮到高原果蔬出山：四川藏地小镇焕发新貌",
-    "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722248.shtml",
-    "source": "中新网社会",
-    "category": "社会",
-    "published": "2026-10-28T08:25:00.000Z",
-    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-  },
-  {
-    "id": "4863405372fa",
-    "title": "四川攀枝花通报“摊贩疑似将杀虫剂喷到水果上”",
-    "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722235.shtml",
-    "source": "中新网社会",
-    "category": "社会",
-    "published": "2026-10-28T08:23:19.000Z",
-    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-  },
-  {
-    "id": "a2941574364b",
-    "title": "港科大医学院筹建工作顺利 将于2028/2029学年录取50人",
-    "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722239.shtml",
-    "source": "中新网社会",
-    "category": "社会",
-    "published": "2026-10-28T08:20:39.000Z",
-    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-  },
-  {
-    "id": "19e35d7ff4b8",
-    "title": "贵州建成490个乡镇（街道）区域养老服务中心",
-    "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722236.shtml",
-    "source": "中新网社会",
-    "category": "社会",
-    "published": "2026-10-28T08:17:45.000Z",
-    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-  },
-  {
-    "id": "4ec8cb684619",
-    "title": "智驾“小蓝灯”谁能装？车灯趣味图案还能用吗？最新明确→",
-    "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722244.shtml",
-    "source": "中新网社会",
-    "category": "社会",
-    "published": "2026-10-28T08:16:49.000Z",
-    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-  },
-  {
-    "id": "3a25edb7aa10",
-    "title": "6公里外云端下指令 毫秒级响应 5G-A撑起百台无人矿卡",
-    "url": "https://www.chinanews.com.cn/sh/2026/10-28/10722225.shtml",
-    "source": "中新网社会",
-    "category": "社会",
-    "published": "2026-10-28T07:42:35.000Z",
+    "published": "2026-10-28T11:57:49.000Z",
     "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
   },
   {
@@ -1847,13 +1919,22 @@
     "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
   },
   {
-    "id": "0101f178786e",
-    "title": "快乐向前冲･乐业在山东!就业政策进校园暨 “金秋启航” 临沂大学 ...",
-    "url": "https://news.qq.com/rain/a/20261027A0BULZ00",
+    "id": "96e651035a4d",
+    "title": "北京市属国企2027届高校毕业生秋季校园专场招聘活动举办",
+    "url": "https://www.chinanews.com.cn/gn/2026/10-28/10722418.shtml",
     "source": "Bing·校园招聘",
     "category": "就业",
-    "published": "2026-10-27T11:22:00.000Z",
-    "image": "https://inews.gtimg.com/om_ls/OjTD0PyJFLX_3HdA9Icaherg0C4cpijSknUl9Ame_VEf4AA_640330/0"
+    "published": "2026-10-28T00:04:00.000Z",
+    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+  },
+  {
+    "id": "e707a939372a",
+    "title": "539个优质岗位！开福区赴武汉高校招聘人气旺",
+    "url": "https://news.qq.com/rain/a/20261028A0DVKW00",
+    "source": "Bing·校园招聘",
+    "category": "就业",
+    "published": "2026-10-28T00:53:00.000Z",
+    "image": "https://inews.gtimg.com/om_ls/Otsqpm0siHl0XUrI1As47ANIKq1ZOWjASOwFgtgb5phFQAA_640330/0"
   },
   {
     "id": "d85cc6a259b4",
@@ -1865,15 +1946,6 @@
     "image": ""
   },
   {
-    "id": "cbaeef0dcbfa",
-    "title": "襄阳职大秋招爆火！200+企业抢人，8000岗位秒变‘就业直通车’",
-    "url": "https://www.sohu.com/a/1092999103_122066679",
-    "source": "Bing·秋招",
-    "category": "就业",
-    "published": "2026-10-26T11:50:00.000Z",
-    "image": ""
-  },
-  {
     "id": "311105c7e584",
     "title": "百万英才汇南粤卫生健康秋招,近六千岗位精准对接医学生",
     "url": "https://www.sohu.com/a/1093280329_161795",
@@ -1881,24 +1953,6 @@
     "category": "就业",
     "published": "2026-10-27T05:04:00.000Z",
     "image": "//q1.itc.cn/q_70/images03/20261027/1562adc5dac84d5ea1614ec900dc471c.png"
-  },
-  {
-    "id": "97ec8dd740cd",
-    "title": "2026年陕西秋招观察：求职“脚步”更实 服务“托底”更暖",
-    "url": "http://news.cnwest.com/sxxw/a/2026/10/28/23461400.html",
-    "source": "Bing·秋招",
-    "category": "就业",
-    "published": "2026-10-28T01:32:00.000Z",
-    "image": "http://res.cnwest.com/t/site/10001/a209bcf3e52b0593bd2c51ae47c9d6ab/assets/public2018/images/logo300/logoQidian.png"
-  },
-  {
-    "id": "0906dc315ee3",
-    "title": "银行秋招释放信号：“AI+金融”复合型人才需求升温",
-    "url": "https://www.news.cn/money/20261027/119a506540b84bd99eb4477d5091bcee/c.html",
-    "source": "Bing·秋招",
-    "category": "就业",
-    "published": "2026-10-26T17:00:00.000Z",
-    "image": "https://www.news.cn/detail2020/images/ewm.png"
   },
   {
     "id": "e7bae591a43a",
@@ -1919,22 +1973,13 @@
     "image": "https://q0.itc.cn/q_70/images03/20261028/67eaeba025004cbb9be2215de1543294.jpeg"
   },
   {
-    "id": "23c8f4296659",
-    "title": "智联招聘报告揭示人工智能工程师薪酬显著高于平均水平",
-    "url": "https://www.sohu.com/a/1093487234_122066678",
-    "source": "Bing·智联招聘",
+    "id": "c139466a45b9",
+    "title": "[远程 / 全职] SmartDeer 招聘信息安全工程师",
+    "url": "https://www.v2ex.com/t/1252654#reply0",
+    "source": "V2EX·招聘",
     "category": "就业",
-    "published": "2026-10-27T11:30:00.000Z",
-    "image": ""
-  },
-  {
-    "id": "ffade282a662",
-    "title": "BOSS直聘收跌0.06%，成交额4742.8万美元",
-    "url": "https://finance.sina.com.cn/stock/usstock/notice/2026-10-28/doc-iniwtiah6728789.shtml",
-    "source": "Bing·BOSS直聘",
-    "category": "就业",
-    "published": "2026-10-27T17:00:00.000Z",
-    "image": ""
+    "published": "2026-10-28T13:05:38.000Z",
+    "image": "https://cdn.v2ex.com/avatar/378f/b9f5/5532_large.png?m=1786082696"
   },
   {
     "id": "f566996198b9",
@@ -1982,9 +2027,9 @@
     "image": "https://cdn.v2ex.com/avatar/baf1/dea9/274099_large.png?m=1605772139"
   },
   {
-    "id": "02b5a50cd8a3",
+    "id": "09a047a70686",
     "title": "[广州番禺 Java 岗 HC 多] SHEIN 商品中心社招内推：高级 Java 工程师 ×5、供应链算法工程师 ×2、测试 ×1",
-    "url": "https://www.v2ex.com/t/1252484#reply0",
+    "url": "https://www.v2ex.com/t/1252484#reply1",
     "source": "V2EX·招聘",
     "category": "就业",
     "published": "2026-10-28T03:23:05.000Z",
@@ -2036,58 +2081,22 @@
     "image": "https://cdn.v2ex.com/avatar/f658/9f20/858748_xlarge.png?m=1793070969"
   },
   {
-    "id": "8c0a0ebf75d0",
+    "id": "9fd613912292",
     "title": "[全英文 HC] RMB 42–85 万/年 Senior AI Inference Infrastructure | LLM Data | Speech AI 东京 Voice AI / AI Agent 公司",
-    "url": "https://www.v2ex.com/t/1252151#reply2",
+    "url": "https://www.v2ex.com/t/1252151#reply3",
     "source": "V2EX·招聘",
     "category": "就业",
     "published": "2026-10-27T02:44:34.000Z",
     "image": "https://cdn.v2ex.com/avatar/b278/8fc2/634609_xlarge.png?m=1712121309"
   },
   {
-    "id": "5a571cd2744e",
-    "title": "[广州/西安][外包][汇丰项目] 帮 HR 找英语好的 Java 开发， Senior DevRel 方向（不支持长期远程）",
-    "url": "https://www.v2ex.com/t/1252035#reply3",
-    "source": "V2EX·招聘",
-    "category": "就业",
-    "published": "2026-10-26T13:46:25.000Z",
-    "image": "https://cdn.v2ex.com/avatar/7dfb/e3c7/733315_xlarge.png?m=1793021969"
-  },
-  {
-    "id": "accc43ed29bb",
-    "title": "太原学院，来了一场就业“及时雨”",
-    "url": "https://www.sohu.com/a/1093932627_121106991",
-    "source": "Bing·大学生就业政策",
-    "category": "政策",
-    "published": "2026-10-27T19:53:00.000Z",
-    "image": "https://q8.itc.cn/q_70/images03/20261028/0efd996fd2c64319b70fcb04ee37b7b5.jpeg"
-  },
-  {
-    "id": "098cb661bc03",
-    "title": "快乐向前冲，乐业在山东！2026年劳动力调查和就业政策进校园宣传 ...",
-    "url": "https://news.qq.com/rain/a/20261027A0BUKP00",
-    "source": "Bing·大学生就业政策",
-    "category": "政策",
-    "published": "2026-10-27T11:22:00.000Z",
-    "image": "https://inews.gtimg.com/om_ls/O_wy5w6RukOD0c6_Qea3EBP2c89z_SXLBcB5NylOIC2isAA_640330/0"
-  },
-  {
-    "id": "d31499a1e027",
-    "title": "有为青年创始人李宁出席四川青创公益百校行，受聘川影大学生创新 ...",
-    "url": "https://www.dzwww.com/xinwen/jishixinwen/202610/t20261027_18242545.htm",
-    "source": "Bing·大学生就业政策",
-    "category": "政策",
-    "published": "2026-10-26T17:00:00.000Z",
-    "image": "https://www.dzwww.com/tpl/v2019/xilan/images/logo1.png"
-  },
-  {
-    "id": "0fa13bc96a33",
-    "title": "奋进“十五五” 共绘新图景丨做实就业创业 托起民生幸福",
-    "url": "https://www.sohu.com/a/1093906448_121106832",
+    "id": "d909ba6a09de",
+    "title": "专栏丨“乐小业带你看政策”——高校毕业生篇（第三话）",
+    "url": "https://www.sohu.com/a/1093975453_121106991",
     "source": "Bing·高校毕业生就业创业政策",
     "category": "政策",
-    "published": "2026-10-27T19:03:00.000Z",
-    "image": "https://q8.itc.cn/q_70/images03/20261028/e6c7ae04854745a6935599420e331851.jpeg"
+    "published": "2026-10-27T20:47:00.000Z",
+    "image": "https://q9.itc.cn/q_70/images03/20261028/78d5659d3c774f1a89dd3215b836d098.jpeg"
   },
   {
     "id": "2917826e218e",
@@ -2099,13 +2108,13 @@
     "image": "https://q5.itc.cn/q_70/images03/20261027/f085e392a2e5448a8a91a078affe973d.jpeg"
   },
   {
-    "id": "c9e0e2c9da46",
-    "title": "《中国劳动保障报》头版头条报道我市传承红色血脉推进人社事业高 ...",
-    "url": "https://www.sohu.com/a/1092991077_121106832",
-    "source": "Bing·人社部就业创业政策",
+    "id": "98b0715d600e",
+    "title": "奋进“十五五” 共绘新图景丨做实就业创业 托起民生幸福",
+    "url": "https://finance.sina.com.cn/wm/2026-10-28/doc-iniwukpu6610572.shtml",
+    "source": "Bing·高校毕业生就业创业政策",
     "category": "政策",
-    "published": "2026-10-26T12:05:00.000Z",
-    "image": "https://q2.itc.cn/q_70/images03/20261026/ed258561f0cd4217ba2a37f62beaa829.jpeg"
+    "published": "2026-10-28T01:27:00.000Z",
+    "image": "//n.sinaimg.cn/front20261028ac/739/w1080h459/20261028/f4e9-58f414e03573159e2b20d6143c6afa6f.jpg"
   },
   {
     "id": "b1016b249dba",
@@ -2115,6 +2124,177 @@
     "category": "政策",
     "published": "2026-10-27T17:00:00.000Z",
     "image": "//n.sinaimg.cn/front20261028ac/640/w720h720/20261028/d1df-da5d92beb144714b183bdd54d7f96582.jpg"
+  },
+  {
+    "id": "dc0fda951a14",
+    "title": "前三季度中国海洋生产总值同比增4.9%",
+    "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722469.shtml",
+    "source": "中新网财经",
+    "category": "财经",
+    "published": "2026-10-28T14:16:53.000Z",
+    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+  },
+  {
+    "id": "82de3e4857f1",
+    "title": "川渝人工智能赛道吸引境内外投融资机构关注",
+    "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722468.shtml",
+    "source": "中新网财经",
+    "category": "财经",
+    "published": "2026-10-28T14:16:47.000Z",
+    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+  },
+  {
+    "id": "a1fb228cb82a",
+    "title": "世界海拔最高风电场升压站建成 华电措美哲古一期风电项目全容量投产",
+    "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722462.shtml",
+    "source": "中新网财经",
+    "category": "财经",
+    "published": "2026-10-28T14:02:48.000Z",
+    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+  },
+  {
+    "id": "e0e424120bd5",
+    "title": "专家学者广州共议零碳能源如何驱动下一轮全球增长",
+    "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722451.shtml",
+    "source": "中新网财经",
+    "category": "财经",
+    "published": "2026-10-28T13:29:04.000Z",
+    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+  },
+  {
+    "id": "ba76b4a04838",
+    "title": "北京已推动17家跨国公司参与高版本资金池试点",
+    "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722433.shtml",
+    "source": "中新网财经",
+    "category": "财经",
+    "published": "2026-10-28T13:23:20.000Z",
+    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+  },
+  {
+    "id": "8a173ce1e98e",
+    "title": "“算力之都”邂逅OPC 河北张家口助力创业者“单人成军”",
+    "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722447.shtml",
+    "source": "中新网财经",
+    "category": "财经",
+    "published": "2026-10-28T13:23:16.000Z",
+    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+  },
+  {
+    "id": "e1efbf481701",
+    "title": "中国石油前三季度归母净利润逾1557亿元 业绩创历史新高",
+    "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722431.shtml",
+    "source": "中新网财经",
+    "category": "财经",
+    "published": "2026-10-28T13:22:46.000Z",
+    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+  },
+  {
+    "id": "d6f8363b9c4e",
+    "title": "浙江发布十条举措 加速推进人工智能OPC创新发展",
+    "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722426.shtml",
+    "source": "中新网财经",
+    "category": "财经",
+    "published": "2026-10-28T13:22:38.000Z",
+    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+  },
+  {
+    "id": "f7c3536148ee",
+    "title": "青海柴达木好物常驻长三角核心商圈",
+    "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722441.shtml",
+    "source": "中新网财经",
+    "category": "财经",
+    "published": "2026-10-28T13:20:52.000Z",
+    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+  },
+  {
+    "id": "a953bbe3a804",
+    "title": "生物制造如何从实验室走向市场？专家在沪共话标准支撑",
+    "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722439.shtml",
+    "source": "中新网财经",
+    "category": "财经",
+    "published": "2026-10-28T13:18:31.000Z",
+    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+  },
+  {
+    "id": "092c6520cce4",
+    "title": "从价格指数到质量标尺：五省市联动做强羽绒服产业链",
+    "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722438.shtml",
+    "source": "中新网财经",
+    "category": "财经",
+    "published": "2026-10-28T13:17:23.000Z",
+    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+  },
+  {
+    "id": "fa87b91f1111",
+    "title": "新一代智能终端蓬勃发展 业界乘势夯实产业底座",
+    "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722417.shtml",
+    "source": "中新网财经",
+    "category": "财经",
+    "published": "2026-10-28T13:06:33.000Z",
+    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+  },
+  {
+    "id": "c9e34a0e7f1b",
+    "title": "当智力可被“计量”，Token经济将带来什么？",
+    "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722411.shtml",
+    "source": "中新网财经",
+    "category": "财经",
+    "published": "2026-10-28T12:51:30.000Z",
+    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+  },
+  {
+    "id": "c8668cebb53b",
+    "title": "中国平安前三季度实现稳健增长 归母营运利润同比增8.3%",
+    "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722394.shtml",
+    "source": "中新网财经",
+    "category": "财经",
+    "published": "2026-10-28T12:24:16.000Z",
+    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+  },
+  {
+    "id": "39b052883b77",
+    "title": "海外“AI”不释手！中国造爆款 订单排到明年→",
+    "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722386.shtml",
+    "source": "中新网财经",
+    "category": "财经",
+    "published": "2026-10-28T12:01:15.000Z",
+    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+  },
+  {
+    "id": "de7884a2bcf4",
+    "title": "中国品牌凭实力海外圈粉",
+    "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722379.shtml",
+    "source": "中新网财经",
+    "category": "财经",
+    "published": "2026-10-28T11:56:05.000Z",
+    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+  },
+  {
+    "id": "33f100aee524",
+    "title": "锚定长期主义，共创增长新未来，美孚1号车养护2026“1号领创会”在沪举办",
+    "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722343.shtml",
+    "source": "中新网财经",
+    "category": "财经",
+    "published": "2026-10-28T11:13:51.000Z",
+    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+  },
+  {
+    "id": "169b89fd532e",
+    "title": "郑州出台培育钻石产业三年行动方案 到2028年产业规模达200亿元",
+    "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722346.shtml",
+    "source": "中新网财经",
+    "category": "财经",
+    "published": "2026-10-28T11:13:45.000Z",
+    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+  },
+  {
+    "id": "f099b180ecd1",
+    "title": "浙江“经济第一区”的三个转变",
+    "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722358.shtml",
+    "source": "中新网财经",
+    "category": "财经",
+    "published": "2026-10-28T11:05:34.000Z",
+    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
   },
   {
     "id": "6d2bb531010c",
@@ -2216,175 +2396,49 @@
     "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
   },
   {
-    "id": "4314c262ef32",
-    "title": "解析三季报：电子行业与高技术制造业贡献突出",
-    "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722289.shtml",
-    "source": "中新网财经",
-    "category": "财经",
-    "published": "2026-10-28T09:31:17.000Z",
-    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    "id": "747a23c7cf7d",
+    "title": "不再逐个生成 Token：扩散模型迈向 35B，开始挑战 Agent 编程",
+    "url": "https://www.infoq.cn/article/0tgCLAMXFiFo0Dco5P9m?utm_source=rss&amp;utm_medium=article",
+    "source": "InfoQ中文",
+    "category": "开发",
+    "published": "2026-10-28T22:53:53.000Z",
+    "image": "https://static001.infoq.cn/resource/image/65/59/65b8f62defda53450bd90fed1c454059.png"
   },
   {
-    "id": "f8e19887985f",
-    "title": "北京计划“十五五”时期新能源汽车保有量达240万辆",
-    "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722275.shtml",
-    "source": "中新网财经",
-    "category": "财经",
-    "published": "2026-10-28T08:53:47.000Z",
-    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    "id": "446d2e944c1d",
+    "title": "别再只写提示词了，开始真正雇用智能体：智能体企业管理实践 ｜ 技术实践",
+    "url": "https://www.infoq.cn/article/II91QKxeaEg7RuZR2rrf?utm_source=rss&amp;utm_medium=article",
+    "source": "InfoQ中文",
+    "category": "开发",
+    "published": "2026-10-28T22:05:40.000Z",
+    "image": "https://static001.infoq.cn/resource/image/d8/b0/d89b404a9a1ac8ed5366a33a8f3960b0.jpeg"
   },
   {
-    "id": "b2808fa46ffd",
-    "title": "小螺蛳撬动大产业 广西柳江做强螺蛳粉配套产业",
-    "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722243.shtml",
-    "source": "中新网财经",
-    "category": "财经",
-    "published": "2026-10-28T08:24:58.000Z",
-    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    "id": "64dac671804a",
+    "title": "当 AI 智能体代表用户行动时，企业治理将面临哪些新问题？ ｜ 技术趋势",
+    "url": "https://www.infoq.cn/article/CxWoiprQltg8YXmwmghd?utm_source=rss&amp;utm_medium=article",
+    "source": "InfoQ中文",
+    "category": "开发",
+    "published": "2026-10-28T21:39:45.000Z",
+    "image": "https://static001.infoq.cn/resource/image/86/b3/8688f20261d50eeeece730a13a5689b3.jpeg"
   },
   {
-    "id": "f0ecd50b2523",
-    "title": "国内外专家湖北五峰共商食用菌产业创新发展",
-    "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722250.shtml",
-    "source": "中新网财经",
-    "category": "财经",
-    "published": "2026-10-28T08:21:09.000Z",
-    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    "id": "033c30d79bf2",
+    "title": "Instagram 采用原生 AI 架构对用户界面进行了现代化改造，将 token 成本降低了 33%",
+    "url": "https://www.infoq.cn/article/bXKVgLdpf7HONYHIi6Su?utm_source=rss&amp;utm_medium=article",
+    "source": "InfoQ中文",
+    "category": "开发",
+    "published": "2026-10-28T21:00:00.000Z",
+    "image": "https://static001.infoq.cn/resource/image/80/59/8071d0ba1242f32e7418ec952c633559.jpg"
   },
   {
-    "id": "b1e38de5b2f9",
-    "title": "2026南康家具秋季订货会举行 中外客商觅合作机遇",
-    "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722233.shtml",
-    "source": "中新网财经",
-    "category": "财经",
-    "published": "2026-10-28T08:12:51.000Z",
-    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-  },
-  {
-    "id": "6b7be7554bda",
-    "title": "五年累计近30万亿元 黄河流域外贸规模稳步攀升",
-    "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722229.shtml",
-    "source": "中新网财经",
-    "category": "财经",
-    "published": "2026-10-28T08:05:54.000Z",
-    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-  },
-  {
-    "id": "f263232921a4",
-    "title": "商务部：消费品以旧换新带动销售额超2万亿元 惠及超2.5亿人次",
-    "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722218.shtml",
-    "source": "中新网财经",
-    "category": "财经",
-    "published": "2026-10-28T07:32:15.000Z",
-    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-  },
-  {
-    "id": "c2aacec88873",
-    "title": "A股收评：超4100只个股飘红，三大指数集体收涨",
-    "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722197.shtml",
-    "source": "中新网财经",
-    "category": "财经",
-    "published": "2026-10-28T07:20:46.000Z",
-    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-  },
-  {
-    "id": "bdc1d40be344",
-    "title": "云南前三季度中药材进口量值双居全国首位",
-    "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722188.shtml",
-    "source": "中新网财经",
-    "category": "财经",
-    "published": "2026-10-28T07:12:20.000Z",
-    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-  },
-  {
-    "id": "d3afdff5b7e8",
-    "title": "10月28日“农产品批发价格200指数”比昨天下降0.05个点",
-    "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722176.shtml",
-    "source": "中新网财经",
-    "category": "财经",
-    "published": "2026-10-28T06:56:47.000Z",
-    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-  },
-  {
-    "id": "5e314643495c",
-    "title": "全国家庭健康主题推进活动基层行盐城亭湖专场举行",
-    "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722172.shtml",
-    "source": "中新网财经",
-    "category": "财经",
-    "published": "2026-10-28T06:47:48.000Z",
-    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-  },
-  {
-    "id": "0344fd28fdef",
-    "title": "现场签约金额超109亿元 第三十三届中国杨凌农高会推介大会暨集中签约活动举办",
-    "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722171.shtml",
-    "source": "中新网财经",
-    "category": "财经",
-    "published": "2026-10-28T06:46:08.000Z",
-    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-  },
-  {
-    "id": "b6a3274f83dc",
-    "title": "“谢谢你们，在这种时候还能上门服务”",
-    "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722168.shtml",
-    "source": "中新网财经",
-    "category": "财经",
-    "published": "2026-10-28T06:38:28.000Z",
-    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-  },
-  {
-    "id": "ae22e9a56c24",
-    "title": "港珠澳大桥珠海公路口岸开通以来对APEC经济体进出口突破万亿元",
-    "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722167.shtml",
-    "source": "中新网财经",
-    "category": "财经",
-    "published": "2026-10-28T06:31:31.000Z",
-    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-  },
-  {
-    "id": "448aafb95bd1",
-    "title": "中国国际石油化工大会首次落地湛江 发布多项行业成果",
-    "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722155.shtml",
-    "source": "中新网财经",
-    "category": "财经",
-    "published": "2026-10-28T06:15:04.000Z",
-    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-  },
-  {
-    "id": "8098c65bdebd",
-    "title": "从“一人成军”到“群落共生” 湘江畔兴起AI轻创业",
-    "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722152.shtml",
-    "source": "中新网财经",
-    "category": "财经",
-    "published": "2026-10-28T06:12:54.000Z",
-    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-  },
-  {
-    "id": "48db4df2cad7",
-    "title": "“村超”当“红娘”  贵州榕江香杉牵手南康家具产业",
-    "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722147.shtml",
-    "source": "中新网财经",
-    "category": "财经",
-    "published": "2026-10-28T06:08:24.000Z",
-    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-  },
-  {
-    "id": "aa5044aa4ae2",
-    "title": "全国首单水利设施发电REITs在深交所上市",
-    "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722139.shtml",
-    "source": "中新网财经",
-    "category": "财经",
-    "published": "2026-10-28T05:45:09.000Z",
-    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-  },
-  {
-    "id": "b7e0e4a9a2d2",
-    "title": "全国首单水利设施发电不动产投资信托基金上市",
-    "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722141.shtml",
-    "source": "中新网财经",
-    "category": "财经",
-    "published": "2026-10-28T05:43:53.000Z",
-    "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    "id": "684fe8eb484c",
+    "title": "谷歌 Antigravity SDK 新增本地模型支持，提升 Token 效率和代码隐私性",
+    "url": "https://www.infoq.cn/article/TusFJkx6F151otgzliu2?utm_source=rss&amp;utm_medium=article",
+    "source": "InfoQ中文",
+    "category": "开发",
+    "published": "2026-10-28T20:00:00.000Z",
+    "image": "https://static001.infoq.cn/resource/image/bf/a8/bf449b380cd887bf6bfe6238effb26a8.jpg"
   },
   {
     "id": "978054b1c7f4",
@@ -2522,49 +2576,103 @@
     "image": "https://static001.infoq.cn/resource/image/54/f0/542ce741e7cc444fbcb65a99e8a3e4f0.jpg"
   },
   {
-    "id": "9e9ea53fe356",
-    "title": "在AI时代如何提升软件工程能力",
-    "url": "https://www.infoq.cn/article/Qwr9oqOSAdmi1YibHVWr?utm_source=rss&amp;utm_medium=article",
-    "source": "InfoQ中文",
+    "id": "6ac430d3f7d8",
+    "title": ".NET 也能直接调用 Dubbo：开源客户端 DubboNet，几行 C# 接入 Java 服务 - lulianqi15",
+    "url": "https://www.cnblogs.com/lulianqi/p/23472985",
+    "source": "博客园",
     "category": "开发",
-    "published": "2026-10-28T09:07:00.000Z",
-    "image": "https://static001.infoq.cn/resource/image/7b/03/7b58477c3c62157727ed50f6b2026d03.jpg"
+    "published": "2026-10-28T15:31:00.000Z",
+    "image": "https://assets.cnblogs.com/images/wechat-share.jpg"
   },
   {
-    "id": "2326480b8012",
-    "title": "亿万工程师，同饮五粮春——五粮春携手GTLC为构建者举杯",
-    "url": "https://www.infoq.cn/article/rYaRAYC7xR5D28AaNdN7?utm_source=rss&amp;utm_medium=article",
-    "source": "InfoQ中文",
+    "id": "044beae0b8f5",
+    "title": "从零搭建后台？Vite8+Vue3.5 通用Admin模板，开箱即用！ - yxybox",
+    "url": "https://www.cnblogs.com/yxybox/p/23472987",
+    "source": "博客园",
     "category": "开发",
-    "published": "2026-10-27T18:39:03.000Z",
-    "image": "https://static001.infoq.cn/resource/image/19/92/1997b88537d1e71cd375ea1682126a92.jpg"
+    "published": "2026-10-28T15:25:00.000Z",
+    "image": "https://img2024.cnblogs.com/blog/221743/202610/221743-20261028230526071-1990232978.png"
   },
   {
-    "id": "f8bef67b2a04",
-    "title": "Azure Container Apps Express在新的通用沙箱层上正式发布",
-    "url": "https://www.infoq.cn/article/ChONW7EYk5Vuj0VF7AkZ?utm_source=rss&amp;utm_medium=article",
-    "source": "InfoQ中文",
+    "id": "734c1489e322",
+    "title": "从零搭建华为云 EVS 每日自动快照：hcloud + PowerShell + 邮件报告实战 - JoePotter",
+    "url": "https://www.cnblogs.com/JoePotter/p/23472977",
+    "source": "博客园",
     "category": "开发",
-    "published": "2026-10-27T17:17:00.000Z",
-    "image": "https://static001.infoq.cn/resource/image/f2/d8/f2f05356b8b5f2f5938ccb030242a0d8.jpg"
+    "published": "2026-10-28T15:21:00.000Z",
+    "image": "https://assets.cnblogs.com/images/wechat-share.jpg"
   },
   {
-    "id": "4b283a039aaa",
-    "title": "亚马逊云科技要给欧洲主权云“拔网线”，IAM 和 DNS 怎么办？",
-    "url": "https://www.infoq.cn/article/2jjIKte1WiTC0PyovkIJ?utm_source=rss&amp;utm_medium=article",
-    "source": "InfoQ中文",
+    "id": "858345d2f5b9",
+    "title": "B站视频解析下载到本地：一个免安装网页工具实测，直接存MP4 - brilliance_dad",
+    "url": "https://www.cnblogs.com/brilliancedad/p/23472715",
+    "source": "博客园",
     "category": "开发",
-    "published": "2026-10-27T16:00:00.000Z",
-    "image": "https://static001.infoq.cn/resource/image/76/02/769fa8996c3aed2306a4651310d0f702.jpeg"
+    "published": "2026-10-28T14:27:00.000Z",
+    "image": "https://img2024.cnblogs.com/blog/3243864/202610/3243864-20261028134020483-1532791398.jpg"
   },
   {
-    "id": "59094bff9478",
-    "title": "TypeSafe AI发布Jev：一种只返回类型化概率而非文本的决策模型",
-    "url": "https://www.infoq.cn/article/3o7gwgKJt2SbH8AhdpkU?utm_source=rss&amp;utm_medium=article",
-    "source": "InfoQ中文",
+    "id": "9735d9ccb6e0",
+    "title": "寻找志同道合的创业者，一起把 VirtuaMesh 做大 - e天下小熊",
+    "url": "https://www.cnblogs.com/wmlunge/p/23472508",
+    "source": "博客园",
     "category": "开发",
-    "published": "2026-10-27T15:22:00.000Z",
-    "image": "https://static001.infoq.cn/resource/image/db/ef/dbe30d9a2a9c850b5380fyy0133719ef.jpg"
+    "published": "2026-10-28T13:50:00.000Z",
+    "image": "https://assets.cnblogs.com/images/wechat-share.jpg"
+  },
+  {
+    "id": "74bac3e3ec28",
+    "title": "个人分析：2026 CSP-S 考察方向预测与备考建议 - lvwangshu",
+    "url": "https://www.cnblogs.com/lvwangshuOI/p/23472339",
+    "source": "博客园",
+    "category": "开发",
+    "published": "2026-10-28T13:25:00.000Z",
+    "image": "https://assets.cnblogs.com/images/wechat-share.jpg"
+  },
+  {
+    "id": "1625e2504b34",
+    "title": "【Agentic Memory】MemTrace 如何做到自动溯源和自动优化 - 罗西的思考",
+    "url": "https://www.cnblogs.com/rossiXYZ/p/23472086",
+    "source": "博客园",
+    "category": "开发",
+    "published": "2026-10-28T12:34:00.000Z",
+    "image": "https://img2024.cnblogs.com/blog/1850883/202608/1850883-20260801120046259-740656445.png"
+  },
+  {
+    "id": "a4513e0dcb38",
+    "title": "spec-superflow 2.0：小任务快跑，复杂任务不漂移 - 码哥字节",
+    "url": "https://www.cnblogs.com/uniqueDong/p/23471783",
+    "source": "博客园",
+    "category": "开发",
+    "published": "2026-10-28T12:07:00.000Z",
+    "image": "https://img2024.cnblogs.com/blog/735767/202605/735767-20260526114014236-744639895.png"
+  },
+  {
+    "id": "cde0fa3070b6",
+    "title": "04 · 给 AI 的流程做减法：三个目标砍成两个的取舍 - lishen2",
+    "url": "https://www.cnblogs.com/lishen2/p/23471732",
+    "source": "博客园",
+    "category": "开发",
+    "published": "2026-10-28T12:00:00.000Z",
+    "image": "https://img2024.cnblogs.com/blog/143918/202610/143918-20261028200004737-2141157249.png"
+  },
+  {
+    "id": "5aba8d892fba",
+    "title": "I love Power BI 2 - 哥本哈士奇(aspnetx)",
+    "url": "https://www.cnblogs.com/aspnetx/p/23471635",
+    "source": "博客园",
+    "category": "开发",
+    "published": "2026-10-28T11:44:00.000Z",
+    "image": "https://img2024.cnblogs.com/blog/8622/202610/8622-20261028193948579-497557433.png"
+  },
+  {
+    "id": "595aef4504ca",
+    "title": "java 多线程开发系列之九：玩转线程池（线程池的简介和简单使用） - 王若伊_恩赐解脱",
+    "url": "https://www.cnblogs.com/jilodream/p/23471356",
+    "source": "博客园",
+    "category": "开发",
+    "published": "2026-10-28T11:04:00.000Z",
+    "image": "https://img2024.cnblogs.com/blog/704073/202610/704073-20261028185141292-1969248442.png"
   },
   {
     "id": "0946c04fb16d",
@@ -2648,105 +2756,6 @@
     "image": "https://img2024.cnblogs.com/blog/739056/202610/739056-20261028095134212-1443061247.png"
   },
   {
-    "id": "aa5f77c91696",
-    "title": "我做了一个正刊子刊风格的科研论文图片学习库 - 疯狂学习GIS",
-    "url": "https://www.cnblogs.com/fkxxgis/p/23463631",
-    "source": "博客园",
-    "category": "开发",
-    "published": "2026-10-28T01:53:00.000Z",
-    "image": "https://img2024.cnblogs.com/blog/3080295/202610/3080295-20261028095125258-1720518654.png"
-  },
-  {
-    "id": "8783681f1aad",
-    "title": "GGUF 量化内幕：第4章 Q4_0：块量化的起点 - 绝不原创的飞龙",
-    "url": "https://www.cnblogs.com/apachecn/p/23463542",
-    "source": "博客园",
-    "category": "开发",
-    "published": "2026-10-28T01:49:00.000Z",
-    "image": "https://assets.cnblogs.com/images/wechat-share.jpg"
-  },
-  {
-    "id": "a7cf5075336c",
-    "title": "三个“位置”，三种语义：读懂 Oracle Redo Log 的 SCN、RBA 与 XID - 刘子毅",
-    "url": "https://www.cnblogs.com/liuziyi1/p/23463446",
-    "source": "博客园",
-    "category": "开发",
-    "published": "2026-10-28T01:43:00.000Z",
-    "image": "https://assets.cnblogs.com/images/wechat-share.jpg"
-  },
-  {
-    "id": "a7bacc80d82d",
-    "title": "自动化流水线的“最后一公里“：任务监听与报告通知服务 - EXIORAN",
-    "url": "https://www.cnblogs.com/exioran/p/23463097",
-    "source": "博客园",
-    "category": "开发",
-    "published": "2026-10-28T01:22:00.000Z",
-    "image": "https://img2024.cnblogs.com/blog/2198843/202610/2198843-20261028092157465-779994307.png"
-  },
-  {
-    "id": "0bc0b620355d",
-    "title": "太实用了！推荐一款 AI Agent 的浏览器 ego-lite，跑Web 自动化太爽了！ - 狂师",
-    "url": "https://www.cnblogs.com/jinjiangongzuoshi/p/23462657",
-    "source": "博客园",
-    "category": "开发",
-    "published": "2026-10-28T00:48:00.000Z",
-    "image": "https://assets.cnblogs.com/images/wechat-share.jpg"
-  },
-  {
-    "id": "53523e4ed9c0",
-    "title": "用 IP 地址搭一套自签名 HTTPS：够用、可控、不折腾域名 - AlfredZhao",
-    "url": "https://www.cnblogs.com/jyzhao/p/23462475",
-    "source": "博客园",
-    "category": "开发",
-    "published": "2026-10-28T00:17:00.000Z",
-    "image": "https://assets.cnblogs.com/images/wechat-share.jpg"
-  },
-  {
-    "id": "722cc39b5d71",
-    "title": "《HelloGitHub》第 127 期 - 削微寒",
-    "url": "https://www.cnblogs.com/xueweihan/p/23459802",
-    "source": "博客园",
-    "category": "开发",
-    "published": "2026-10-28T00:11:00.000Z",
-    "image": "https://img2024.cnblogs.com/blog/759200/202610/759200-20261027212653798-1992263114.jpg"
-  },
-  {
-    "id": "c4e4ecab6416",
-    "title": "Flink实时同步Oracle到StarRocks的几个踩坑经验分享 - 一个码农的日常",
-    "url": "https://www.cnblogs.com/zhangs1986/p/23209171",
-    "source": "博客园",
-    "category": "开发",
-    "published": "2026-10-28T00:06:00.000Z",
-    "image": "https://img2024.cnblogs.com/blog/273387/202610/273387-20261006160539478-468093156.png"
-  },
-  {
-    "id": "97b362005e3b",
-    "title": "一文读懂 RSI：大模型递归自进化五大技术路线全景解析 - AI-Frontiers",
-    "url": "https://www.cnblogs.com/aifrontiers/p/23432044",
-    "source": "博客园",
-    "category": "开发",
-    "published": "2026-10-27T23:32:00.000Z",
-    "image": "https://img2024.cnblogs.com/blog/3719074/202610/3719074-20261025152539250-424160646.png"
-  },
-  {
-    "id": "2282fc1fcb76",
-    "title": "MQTT实战 - MQTT 5.0新特性实战：共享订阅、Topic Alias、流控（十） - IT规划师",
-    "url": "https://www.cnblogs.com/hugogoos/p/23461845",
-    "source": "博客园",
-    "category": "开发",
-    "published": "2026-10-27T23:02:00.000Z",
-    "image": "https://img2024.cnblogs.com/blog/386841/202610/386841-20261028015457273-1440576426.png"
-  },
-  {
-    "id": "d8388f063194",
-    "title": "[随笔] 续：关于我在机房安装Arch Linux - Ghost-Face",
-    "url": "https://www.cnblogs.com/SilverGo/p/23459544",
-    "source": "博客园",
-    "category": "开发",
-    "published": "2026-10-27T22:22:00.000Z",
-    "image": "https://img2024.cnblogs.com/blog/3357339/202610/3357339-20261027210041452-1427848671.png"
-  },
-  {
     "id": "92e955bd9bc1",
     "title": "支持济青烟率先打造北方区域性就业聚集地！山东印发实施就业优先 ...",
     "url": "https://news.qq.com/rain/a/20261027A05SP200",
@@ -2756,30 +2765,21 @@
     "image": "https://inews.gtimg.com/om_ls/OvRH0XxNoKV2dR3Rto8d_YactKHbp8NvtZ2AgxjkLnH3kAA_640330/0"
   },
   {
-    "id": "8e695e6263db",
-    "title": "三大城市群49座城市，谁对数字经济人才最具吸引力？",
-    "url": "https://news.qq.com/rain/a/20261027A0C5VY00",
+    "id": "86ba87072003",
+    "title": "数字岗位平均月薪居首，上海人才引力位列49城第二",
+    "url": "https://www.sohu.com/a/1093434162_121286085",
     "source": "智联招聘",
     "category": "就业",
-    "published": "2026-10-27T11:50:00.000Z",
-    "image": "https://inews.gtimg.com/om_ls/Obz_BmRBUQ4IsTdBBnhsl6qvG86jjZvRGci6kH7waiVzwAA_640330/0"
+    "published": "2026-10-27T10:02:00.000Z",
+    "image": "https://q9.itc.cn/q_70/images03/20261027/1622731863dc4a3a96d564b94aff0aae.jpeg"
   },
   {
-    "id": "93ee5738f8ea",
-    "title": "智联招聘：人工智能工程师薪酬溢价五至六成",
-    "url": "https://fund.eastmoney.com/a/202610273909646378.html",
-    "source": "智联招聘",
+    "id": "97ec8dd740cd",
+    "title": "2026年陕西秋招观察：求职“脚步”更实 服务“托底”更暖",
+    "url": "http://news.cnwest.com/sxxw/a/2026/10/28/23461400.html",
+    "source": "就业报告",
     "category": "就业",
-    "published": "2026-10-26T17:00:00.000Z",
-    "image": "https://j5.dfcfw.com/image/201511/20151125162150.png"
-  },
-  {
-    "id": "ee4941b71c56",
-    "title": "鞍山考区2026年度中级注册安全工程师职业资格考试圆满结束",
-    "url": "https://www.sohu.com/a/1093403684_121106822",
-    "source": "安全工程师·就业分析",
-    "category": "就业",
-    "published": "2026-10-27T09:05:00.000Z",
-    "image": "https://q3.itc.cn/q_70/images03/20261027/cc48258f67f8443087e8212541022fe8.jpeg"
+    "published": "2026-10-28T01:32:00.000Z",
+    "image": "http://res.cnwest.com/t/site/10001/a209bcf3e52b0593bd2c51ae47c9d6ab/assets/public2018/images/logo300/logoQidian.png"
   }
 ]

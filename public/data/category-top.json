@@ -1,139 +1,113 @@
 {
-  "财经": [
-    {
-      "id": "298e50473163",
-      "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
-      "url": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
-      "summary": "Jio shares surge 21% in market debut after blockbuster India IPO",
-      "source": "TechCrunch",
-      "category": "财经",
-      "published": "2026-10-28T05:20:32.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/jio-akash-ambani.jpg?resize=1200,800",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "6d2bb531010c",
-      "title": "8000亿元新型政策性金融工具投放完成",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722352.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-10-28T10:54:16.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "8a12ac2196b1",
-      "title": "逾六千名中外采购商山东临沂对接洽谈合作",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722341.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-10-28T10:43:01.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "5db1081cc528",
-      "title": "央行：前三季度人民币贷款增加11.52万亿元",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722329.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-10-28T10:19:16.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "5fd235490cd1",
-      "title": "中国造船业保持快速发展势头 订单排至未来四年",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722324.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-10-28T10:17:30.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    }
-  ],
   "AI": [
     {
-      "id": "092cb86201fb",
-      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
-      "summary": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "id": "4de33f2bccf5",
+      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+      "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+      "summary": "Voice AI in vogue: Nvidia releases new open transcription model",
       "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-10-27T23:34:27.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2191707579.jpg?w=1024",
-      "score": 70,
+      "published": "2026-10-28T15:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/AI-on-the-tongue.png?resize=1200,600",
+      "score": 85,
       "tags": []
     },
     {
-      "id": "e36bd78a13d6",
-      "title": "Bank of America kindly asks that you don&#8217;t share your banking password with your AI assistant",
-      "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
-      "summary": "Bank of America kindly asks that you don&#8217;t share your banking password with your AI assistant",
+      "id": "7fbbcf0aac9e",
+      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+      "summary": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
       "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-10-27T21:44:34.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
-      "score": 65,
+      "published": "2026-10-28T17:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/ConnectedAppshero.width-2200.format-webp.webp?resize=1200,675",
+      "score": 80,
+      "tags": []
+    },
+    {
+      "id": "b01917f8b2b4",
+      "title": "AI execs may be too out of touch to build for the general public",
+      "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+      "summary": "AI execs may be too out of touch to build for the general public",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-28T15:53:52.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1172241499.jpg?resize=1200,728",
+      "score": 80,
+      "tags": []
+    },
+    {
+      "id": "7a28b9ee4e28",
+      "title": "Chrome&#8217;s AI-powered Autofill can now dig through your Gmail to fill out forms",
+      "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+      "summary": "Chrome&#8217;s AI-powered Autofill can now dig through your Gmail to fill out forms",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-28T17:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/autofill-ai-chrome.jpg?resize=1200,643",
+      "score": 70,
       "tags": []
     }
   ],
   "科技": [
     {
-      "id": "5ac9e6d4ee78",
-      "title": "The data center boom has an upside: innovation for the US grid",
-      "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
-      "summary": "The data center boom has an upside: innovation for the US grid",
+      "id": "8e8192c56429",
+      "title": "Xreal Aura is a new wired headset powered by Android XR",
+      "url": "https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/",
+      "summary": "Xreal Aura is a new wired headset powered by Android XR",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-10-27T22:55:41.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/55589499263_7ac8a28eb3_k.jpg?resize=1200,800",
-      "score": 70,
+      "published": "2026-10-28T17:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Xreal-Aura.jpg?resize=1200,675",
+      "score": 75,
       "tags": []
     },
     {
-      "id": "87e2d1810ab9",
-      "title": "Guidewire buys Hyperexponential for $1.7B in cash",
-      "url": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
-      "summary": "Guidewire buys Hyperexponential for $1。7B in cash",
+      "id": "85b585a85336",
+      "title": "Reddit is the latest platform to embrace the &#8216;For You&#8217; feed",
+      "url": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/",
+      "summary": "Reddit is the latest platform to embrace the &#8216;For You&#8217; feed",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-10-27T22:26:03.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Golden-AI-finance-collage.png?resize=1200,600",
-      "score": 70,
+      "published": "2026-10-28T16:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/03/reddit-e1708636699632.jpg?resize=1200,800",
+      "score": 75,
       "tags": []
     },
     {
-      "id": "f7925f86d825",
-      "title": "From 8VC to Benchmark, here&#8217;s what&#8217;s hiding in October SEC filings",
-      "url": "https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/",
-      "summary": "From 8VC to Benchmark, here&#8217;s what&#8217;s hiding in October SEC filings",
+      "id": "9f7133723eef",
+      "title": "Trump DOE loans $5B to nuclear plants that will power data centers",
+      "url": "https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/",
+      "summary": "Trump DOE loans $5B to nuclear plants that will power data centers",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-10-27T22:17:18.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/12/GettyImages-1650189797.jpg?resize=1200,900",
-      "score": 70,
+      "published": "2026-10-28T15:53:21.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-129268875.jpg?resize=1200,900",
+      "score": 75,
       "tags": []
     },
     {
-      "id": "7deffe7eded2",
-      "title": "GM is embracing hybrids now",
-      "url": "https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now/",
-      "summary": "GM is embracing hybrids now",
+      "id": "a25dd0954bef",
+      "title": "South Korea&#8217;s financial industry hit by fresh wave of cyberattacks",
+      "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+      "summary": "South Korea&#8217;s financial industry hit by fresh wave of cyberattacks",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-10-27T21:47:02.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/01/2024-chevrolet-corvette-e-ray-3lz-010.jpg?resize=1200,899",
-      "score": 70,
+      "published": "2026-10-28T15:41:18.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/05/south-korea-money-growth.jpg?resize=1200,675",
+      "score": 75,
       "tags": []
     },
     {
-      "id": "0ec9dae75184",
-      "title": "Who&#8217;s really in charge at Anthropic after the IPO?",
-      "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
-      "summary": "Who&#8217;s really in charge at Anthropic after the IPO",
+      "id": "797632f9083c",
+      "title": "TikTok expands into restaurant guides with &#8216;Must Eat&#8217; feature",
+      "url": "https://techcrunch.com/2026/10/28/tiktok-expands-into-restaurant-guides-with-must-eat-feature/",
+      "summary": "TikTok expands into restaurant guides with &#8216;Must Eat&#8217; feature",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-10-27T21:38:28.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2151610601.jpg?resize=1200,799",
-      "score": 70,
+      "published": "2026-10-28T14:26:36.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/TikTok-MustEat.jpg?w=1200",
+      "score": 75,
       "tags": []
     }
   ],
@@ -175,6 +149,18 @@
       "tags": []
     },
     {
+      "id": "0906dc315ee3",
+      "title": "银行秋招释放信号：“AI+金融”复合型人才需求升温",
+      "url": "https://www.news.cn/money/20261027/119a506540b84bd99eb4477d5091bcee/c.html",
+      "summary": "近期银行业秋季校园招聘全面展开，多家银行面向具体金融场景的AI复合型岗位需求旺盛，设置了科技菁英、数智金融培训生、金融科技培训生等岗位。中国证券报记者调研发现，既懂AI大模型等前沿技术，又熟悉具体金融",
+      "source": "Bing·秋招",
+      "category": "就业",
+      "published": "2026-10-26T17:00:00.000Z",
+      "image": "https://www.news.cn/detail2020/images/ewm.png",
+      "score": 60,
+      "tags": []
+    },
+    {
       "id": "858c4ad50b2a",
       "title": "BOSS 直聘旗下 Nanbeige 开源 Nanbeige4.3-33B",
       "url": "https://www.sohu.com/a/1092769811_100106801",
@@ -185,17 +171,67 @@
       "image": "https://q4.itc.cn/q_70/images03/20261026/a103e5ae943b4be795cb3916b34ce2e2.png",
       "score": 60,
       "tags": []
+    }
+  ],
+  "政策": [
+    {
+      "id": "a5767b3599ca",
+      "title": "政策+岗位+AI赋能！黄浦2026秋季招聘会发布高质量就业创业新政",
+      "url": "https://news.qq.com/rain/a/20261022A09LHN00",
+      "summary": "今天下午，黄浦区“秋送岗位下基层&#183;服务群众零距离”2026年秋季专场招聘暨就业创业高质量发展政策发布活动在外滩・中央广场举行。活动整合政策、产业、岗位等多方资源，采用内场主仪式+外场专场招聘",
+      "source": "Bing·大学生就业政策",
+      "category": "政策",
+      "published": "2026-10-22T09:31:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/OTecPa3-rwtH-Hv9G6MaW563q8-wIDfUVbEeH-mmWwqOYAA_640330/0",
+      "score": 60,
+      "tags": []
     },
     {
-      "id": "4cc46aca7d5c",
-      "title": "AI 低代码重构前端开发，11 月技术选型大洗牌",
-      "url": "https://www.sohu.com/a/1092855946_120620706",
-      "summary": "权威信号落地，往往比技术本身更能扰动市场。 2026 年 9 月底，Gartner 接连发布了两份与 AI 低代码直接相关的报告——《AI 增强低代码应用平台魔力象限》和配套的《关键能力》研究",
-      "source": "前端开发·就业分析",
-      "category": "就业",
-      "published": "2026-10-26T09:14:00.000Z",
-      "image": "//q1.itc.cn/images01/20261026/8eb9863287b047fc862126ea56b27394.png",
-      "score": 60,
+      "id": "c9e0e2c9da46",
+      "title": "《中国劳动保障报》头版头条报道我市传承红色血脉推进人社事业高 ...",
+      "url": "https://www.sohu.com/a/1092991077_121106832",
+      "summary": "10月20日，《中国劳动保障报》头版头条刊发《红军出发地 民生新答卷——江西瑞金传承红色血脉推进人社事业高质量发展纪实》，报道赣州瑞金市以红色血脉赋能民生保障、推动人社事业高质量发展的经验做法和实际成",
+      "source": "Bing·人社部就业创业政策",
+      "category": "政策",
+      "published": "2026-10-26T12:05:00.000Z",
+      "image": "https://q2.itc.cn/q_70/images03/20261026/ed258561f0cd4217ba2a37f62beaa829.jpeg",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "e6c32086fd86",
+      "title": "最高可贷50万元，湖南优化政策为大学生创业送上金融“活水”",
+      "url": "https://edu.rednet.cn/content/646043/52/16288673.html",
+      "summary": "近日，湖南省出台《关于进一步优化创业担保贷款政策全力支持大学生等重点群体创业的通知》，扩大创业担保贷款覆盖范围、提高贷款额度、降低融资成本，拿出实打实举措，助力青年创新创业。 按照新政策，创业担保贷款",
+      "source": "就业创业政策",
+      "category": "政策",
+      "published": "2026-09-18T01:57:00.000Z",
+      "image": "",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "d31499a1e027",
+      "title": "有为青年创始人李宁出席四川青创公益百校行，受聘川影大学生创新 ...",
+      "url": "https://www.dzwww.com/xinwen/jishixinwen/202610/t20261027_18242545.htm",
+      "summary": "为深入推进青年创业就业工作，助力大学生创新创业实践，2026年10月22日，由四川省青年创业就业基金会、四川电影电视学院主办的“创响青春 聚力成长”四川青创公益百校行活动（四川电影电视学院专场），在川",
+      "source": "Bing·大学生就业政策",
+      "category": "政策",
+      "published": "2026-10-26T17:00:00.000Z",
+      "image": "https://www.dzwww.com/tpl/v2019/xilan/images/logo1.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "94bf11e98121",
+      "title": "2026年甘肃省大学生就业引航示范宣讲会举办",
+      "url": "https://qnzz.youth.cn/qckc/202610/t20261025_16932241.htm",
+      "summary": "中国青年报客户端讯（中青报&#183;中青网记者 马富春 通讯员 张文琪）10月23日，由共青团甘肃省委、甘肃省学生联合会主办的“出彩人生‘就’在基层”2026年甘肃省大学生就业引航示范宣讲会（第三期",
+      "source": "Bing·大学生就业政策",
+      "category": "政策",
+      "published": "2026-10-24T17:00:00.000Z",
+      "image": "https://qnzz.youth.cn/images/20210809_tuanqi_new.png",
+      "score": 50,
       "tags": []
     }
   ],
@@ -261,112 +297,98 @@
       "tags": []
     }
   ],
-  "政策": [
+  "财经": [
     {
-      "id": "538546c3a0e0",
-      "title": "黄南州开展2026年“百日千万” 西宁一黄南高校毕业生就业协作系列 ...",
-      "url": "https://finance.sina.com.cn/wm/2026-10-26/doc-iniwpfmx9251129.shtml",
-      "summary": "近日，西宁市、黄南州两地人社部门联合开展高校毕业生定向专场招聘系列活动。活动广泛征集省、州内外及西宁市各类企业100余家，通过就业服务下沉基层牧区、优质岗位直达求职群众模式，服务求职群众千余人次，发布",
-      "source": "Bing·高校毕业生就业创业政策",
-      "category": "政策",
-      "published": "2026-10-25T17:00:00.000Z",
-      "image": "//n.sinaimg.cn/front20261026ac/198/w499h499/20261026/20a2-7de78ef1740e0a3fc508ae540e25f521.jpg",
-      "score": 55,
-      "tags": []
+      "id": "dc0fda951a14",
+      "title": "前三季度中国海洋生产总值同比增4.9%",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722469.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-10-28T14:16:53.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "e6c32086fd86",
-      "title": "最高可贷50万元，湖南优化政策为大学生创业送上金融“活水”",
-      "url": "https://edu.rednet.cn/content/646043/52/16288673.html",
-      "summary": "近日，湖南省出台《关于进一步优化创业担保贷款政策全力支持大学生等重点群体创业的通知》，扩大创业担保贷款覆盖范围、提高贷款额度、降低融资成本，拿出实打实举措，助力青年创新创业。 按照新政策，创业担保贷款",
-      "source": "就业创业政策",
-      "category": "政策",
-      "published": "2026-09-18T01:57:00.000Z",
-      "image": "",
-      "score": 55,
-      "tags": []
+      "id": "82de3e4857f1",
+      "title": "川渝人工智能赛道吸引境内外投融资机构关注",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722468.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-10-28T14:16:47.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "530da61be111",
-      "title": "太原市大学生就业人才补贴政策，留学归国就业享福利",
-      "url": "https://www.sohu.com/a/1091588085_121124029",
-      "summary": "太原市为吸引各类优秀大学生及高技能人才，出台了极具竞争力的人才政策体系，政策有效期已延长至2028年。针对全日制博士研究生、世界排名前200名大学（不含境内）及“双一流”建设高校（含建设学科）的全日制",
-      "source": "Bing·大学生就业政策",
-      "category": "政策",
-      "published": "2026-10-23T03:54:00.000Z",
-      "image": "https://q5.itc.cn/q_70/images03/20261023/85077128df1d4127a67ce80c0e90ec2a.jpeg",
-      "score": 50,
-      "tags": []
+      "id": "a1fb228cb82a",
+      "title": "世界海拔最高风电场升压站建成 华电措美哲古一期风电项目全容量投产",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722462.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-10-28T14:02:48.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "94bf11e98121",
-      "title": "2026年甘肃省大学生就业引航示范宣讲会举办",
-      "url": "https://qnzz.youth.cn/qckc/202610/t20261025_16932241.htm",
-      "summary": "中国青年报客户端讯（中青报&#183;中青网记者 马富春 通讯员 张文琪）10月23日，由共青团甘肃省委、甘肃省学生联合会主办的“出彩人生‘就’在基层”2026年甘肃省大学生就业引航示范宣讲会（第三期",
-      "source": "Bing·大学生就业政策",
-      "category": "政策",
-      "published": "2026-10-24T17:00:00.000Z",
-      "score": 50,
-      "tags": []
+      "id": "e0e424120bd5",
+      "title": "专家学者广州共议零碳能源如何驱动下一轮全球增长",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722451.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-10-28T13:29:04.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "d95d7ee7b34a",
-      "title": "区县联播丨历下 市中 长清 钢城：大学生新创办企业资助资金发放 ...",
-      "url": "https://www.sohu.com/a/1091848553_121106991",
-      "summary": "历下人社：举办济南市第一批大学生新创办企业资助项目资金发放仪式 精准赋能青年创业发展 10月22日上午，历下区人社局正式举办济南市第一批大学生新创办企业资助项目资金发放仪式暨创业项目指导座谈会，切实落",
-      "source": "Bing·大学生创业扶持政策",
-      "category": "政策",
-      "published": "2026-10-23T12:20:00.000Z",
-      "image": "https://q7.itc.cn/q_70/images03/20261023/a179553337e444c78bf9504ff2701c99.jpeg",
-      "score": 50,
-      "tags": []
+      "id": "ba76b4a04838",
+      "title": "北京已推动17家跨国公司参与高版本资金池试点",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722433.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-10-28T13:23:20.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ],
   "开发": [
     {
-      "id": "978054b1c7f4",
-      "title": "Meta 利用私有处理技术将机密计算扩展至 AI 眼镜",
-      "url": "https://www.infoq.cn/article/r1ibrq9kmZ1qFAWAtzJf?utm_source=rss&amp;utm_medium=article",
+      "id": "747a23c7cf7d",
+      "title": "不再逐个生成 Token：扩散模型迈向 35B，开始挑战 Agent 编程",
+      "url": "https://www.infoq.cn/article/0tgCLAMXFiFo0Dco5P9m?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-10-28T19:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/2e/98/2e5a1cc47d4e6eb0b94bf7f589288898.jpg"
+      "published": "2026-10-28T22:53:53.000Z",
+      "image": "https://static001.infoq.cn/resource/image/65/59/65b8f62defda53450bd90fed1c454059.png"
     },
     {
-      "id": "59dbc9e3b5e8",
-      "title": "大客户直接打1折、模型四个月降价80%：大模型价格战没有退路",
-      "url": "https://www.infoq.cn/article/ejtljxPixrIuUsGYi5xa?utm_source=rss&amp;utm_medium=article",
+      "id": "446d2e944c1d",
+      "title": "别再只写提示词了，开始真正雇用智能体：智能体企业管理实践 ｜ 技术实践",
+      "url": "https://www.infoq.cn/article/II91QKxeaEg7RuZR2rrf?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-10-28T18:14:48.000Z",
-      "image": "https://static001.infoq.cn/resource/image/68/65/6899a97e57fd14897509c83947271865.png"
+      "published": "2026-10-28T22:05:40.000Z",
+      "image": "https://static001.infoq.cn/resource/image/d8/b0/d89b404a9a1ac8ed5366a33a8f3960b0.jpeg"
     },
     {
-      "id": "1cf3927ba4b5",
-      "title": "全网恐慌48小时，拯救互联网的却是一个“无名之辈”",
-      "url": "https://www.infoq.cn/article/3HgfVzt6tQpQjrdE2x9J?utm_source=rss&amp;utm_medium=article",
+      "id": "64dac671804a",
+      "title": "当 AI 智能体代表用户行动时，企业治理将面临哪些新问题？ ｜ 技术趋势",
+      "url": "https://www.infoq.cn/article/CxWoiprQltg8YXmwmghd?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-10-28T18:08:49.000Z",
-      "image": "https://static001.infoq.cn/resource/image/45/22/45dd80c6720eb9396b77867a4684b322.png"
+      "published": "2026-10-28T21:39:45.000Z",
+      "image": "https://static001.infoq.cn/resource/image/86/b3/8688f20261d50eeeece730a13a5689b3.jpeg"
     },
     {
-      "id": "2d869fd6a4a5",
-      "title": "可组合商品套餐：Shipt Kits 平台内部解析",
-      "url": "https://www.infoq.cn/article/xBgiKNRRaMe5ORxXy16Q?utm_source=rss&amp;utm_medium=article",
+      "id": "033c30d79bf2",
+      "title": "Instagram 采用原生 AI 架构对用户界面进行了现代化改造，将 token 成本降低了 33%",
+      "url": "https://www.infoq.cn/article/bXKVgLdpf7HONYHIi6Su?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-10-28T18:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/00/f9/00c47514971d8417be08f174d187f9f9.jpg"
+      "published": "2026-10-28T21:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/80/59/8071d0ba1242f32e7418ec952c633559.jpg"
     },
     {
-      "id": "fa40fc86a07b",
-      "title": "Anthropic 内部系统被 AI Agent 12 小时攻破！会议记录、员工薪酬、内部模型讨论遭访问",
-      "url": "https://www.infoq.cn/article/mFXr0u4z0XftUGUg5Wm7?utm_source=rss&amp;utm_medium=article",
+      "id": "684fe8eb484c",
+      "title": "谷歌 Antigravity SDK 新增本地模型支持，提升 Token 效率和代码隐私性",
+      "url": "https://www.infoq.cn/article/TusFJkx6F151otgzliu2?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-10-28T17:54:54.000Z",
-      "image": "https://static001.infoq.cn/resource/image/c1/d4/c1320be7459f200d3035f090717c8cd4.png"
+      "published": "2026-10-28T20:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/bf/a8/bf449b380cd887bf6bfe6238effb26a8.jpg"
     }
   ]
 }
