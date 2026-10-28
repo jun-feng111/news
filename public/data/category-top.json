@@ -1,4 +1,54 @@
 {
+  "财经": [
+    {
+      "id": "298e50473163",
+      "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
+      "url": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
+      "summary": "Jio shares surge 21% in market debut after blockbuster India IPO",
+      "source": "TechCrunch",
+      "category": "财经",
+      "published": "2026-10-28T05:20:32.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/jio-akash-ambani.jpg?resize=1200,800",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "6d2bb531010c",
+      "title": "8000亿元新型政策性金融工具投放完成",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722352.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-10-28T10:54:16.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "8a12ac2196b1",
+      "title": "逾六千名中外采购商山东临沂对接洽谈合作",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722341.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-10-28T10:43:01.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "5db1081cc528",
+      "title": "央行：前三季度人民币贷款增加11.52万亿元",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722329.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-10-28T10:19:16.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "5fd235490cd1",
+      "title": "中国造船业保持快速发展势头 订单排至未来四年",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722324.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-10-28T10:17:30.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    }
+  ],
   "AI": [
     {
       "id": "092cb86201fb",
@@ -9,18 +59,6 @@
       "category": "AI",
       "published": "2026-10-27T23:34:27.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2191707579.jpg?w=1024",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "8145fe5ddb51",
-      "title": "Re:Build, which spun out Slate Auto, raises $2.1B",
-      "url": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
-      "summary": "Re:Build, which spun out Slate Auto, raises $2",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-27T20:31:17.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/slate-auto-truck-tesla-charging.jpg?resize=1200,800",
       "score": 70,
       "tags": []
     },
@@ -47,7 +85,7 @@
       "category": "科技",
       "published": "2026-10-27T22:55:41.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/55589499263_7ac8a28eb3_k.jpg?resize=1200,800",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -137,18 +175,6 @@
       "tags": []
     },
     {
-      "id": "33cd9ab660d0",
-      "title": "大模型秋招中，那些零Offer的名校应届生们",
-      "url": "https://news.qq.com/rain/a/20261020A0D3NP00?adChannelId=tech",
-      "summary": "“你想得太好了，从7月开始准备到现在，我一个Offer也没有。”被问及今年的秋招结果，双211高校应届生西木有点沮丧地回答",
-      "source": "Bing·秋招",
-      "category": "就业",
-      "published": "2026-10-21T05:10:00.000Z",
-      "image": "https://inews.gtimg.com/news_ls/Odto1_HT-gErP4WeNfoW7JTfSVJyrsDjX0AbjGt7EcvNkAA_640330/0",
-      "score": 60,
-      "tags": []
-    },
-    {
       "id": "858c4ad50b2a",
       "title": "BOSS 直聘旗下 Nanbeige 开源 Nanbeige4.3-33B",
       "url": "https://www.sohu.com/a/1092769811_100106801",
@@ -159,67 +185,17 @@
       "image": "https://q4.itc.cn/q_70/images03/20261026/a103e5ae943b4be795cb3916b34ce2e2.png",
       "score": 60,
       "tags": []
-    }
-  ],
-  "政策": [
+    },
     {
-      "id": "a5767b3599ca",
-      "title": "政策+岗位+AI赋能！黄浦2026秋季招聘会发布高质量就业创业新政",
-      "url": "https://news.qq.com/rain/a/20261022A09LHN00",
-      "summary": "今天下午，黄浦区“秋送岗位下基层&#183;服务群众零距离”2026年秋季专场招聘暨就业创业高质量发展政策发布活动在外滩・中央广场举行。活动整合政策、产业、岗位等多方资源，采用内场主仪式+外场专场招聘",
-      "source": "Bing·大学生就业政策",
-      "category": "政策",
-      "published": "2026-10-22T09:31:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/OTecPa3-rwtH-Hv9G6MaW563q8-wIDfUVbEeH-mmWwqOYAA_640330/0",
+      "id": "4cc46aca7d5c",
+      "title": "AI 低代码重构前端开发，11 月技术选型大洗牌",
+      "url": "https://www.sohu.com/a/1092855946_120620706",
+      "summary": "权威信号落地，往往比技术本身更能扰动市场。 2026 年 9 月底，Gartner 接连发布了两份与 AI 低代码直接相关的报告——《AI 增强低代码应用平台魔力象限》和配套的《关键能力》研究",
+      "source": "前端开发·就业分析",
+      "category": "就业",
+      "published": "2026-10-26T09:14:00.000Z",
+      "image": "//q1.itc.cn/images01/20261026/8eb9863287b047fc862126ea56b27394.png",
       "score": 60,
-      "tags": []
-    },
-    {
-      "id": "538546c3a0e0",
-      "title": "黄南州开展2026年“百日千万” 西宁一黄南高校毕业生就业协作系列 ...",
-      "url": "https://finance.sina.com.cn/wm/2026-10-26/doc-iniwpfmx9251129.shtml",
-      "summary": "近日，西宁市、黄南州两地人社部门联合开展高校毕业生定向专场招聘系列活动。活动广泛征集省、州内外及西宁市各类企业100余家，通过就业服务下沉基层牧区、优质岗位直达求职群众模式，服务求职群众千余人次，发布",
-      "source": "Bing·高校毕业生就业创业政策",
-      "category": "政策",
-      "published": "2026-10-25T17:00:00.000Z",
-      "image": "//n.sinaimg.cn/front20261026ac/198/w499h499/20261026/20a2-7de78ef1740e0a3fc508ae540e25f521.jpg",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "e6c32086fd86",
-      "title": "最高可贷50万元，湖南优化政策为大学生创业送上金融“活水”",
-      "url": "https://edu.rednet.cn/content/646043/52/16288673.html",
-      "summary": "近日，湖南省出台《关于进一步优化创业担保贷款政策全力支持大学生等重点群体创业的通知》，扩大创业担保贷款覆盖范围、提高贷款额度、降低融资成本，拿出实打实举措，助力青年创新创业。 按照新政策，创业担保贷款",
-      "source": "就业创业政策",
-      "category": "政策",
-      "published": "2026-09-18T01:57:00.000Z",
-      "image": "",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "94bf11e98121",
-      "title": "2026年甘肃省大学生就业引航示范宣讲会举办",
-      "url": "https://qnzz.youth.cn/qckc/202610/t20261025_16932241.htm",
-      "summary": "中国青年报客户端讯（中青报&#183;中青网记者 马富春 通讯员 张文琪）10月23日，由共青团甘肃省委、甘肃省学生联合会主办的“出彩人生‘就’在基层”2026年甘肃省大学生就业引航示范宣讲会（第三期",
-      "source": "Bing·大学生就业政策",
-      "category": "政策",
-      "published": "2026-10-24T17:00:00.000Z",
-      "image": "https://qnzz.youth.cn/images/20210809_tuanqi_new.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "d95d7ee7b34a",
-      "title": "区县联播丨历下 市中 长清 钢城：大学生新创办企业资助资金发放 ...",
-      "url": "https://www.sohu.com/a/1091848553_121106991",
-      "summary": "历下人社：举办济南市第一批大学生新创办企业资助项目资金发放仪式 精准赋能青年创业发展 10月22日上午，历下区人社局正式举办济南市第一批大学生新创办企业资助项目资金发放仪式暨创业项目指导座谈会，切实落",
-      "source": "Bing·大学生创业扶持政策",
-      "category": "政策",
-      "published": "2026-10-23T12:20:00.000Z",
-      "image": "https://q7.itc.cn/q_70/images03/20261023/a179553337e444c78bf9504ff2701c99.jpeg",
-      "score": 50,
       "tags": []
     }
   ],
@@ -273,110 +249,124 @@
       "tags": []
     },
     {
-      "id": "50aa172508b4",
-      "title": "业界专家学者齐聚重庆 共探通用人工智能人才培养新路径",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-23/10719597.shtml",
-      "summary": "中新网重庆10月23日电 (杨梦逸)10月22日，通用人工智能人才培养论坛在重庆举行。该论坛是通用人工智能大会核心议程之一",
+      "id": "83fff91c3987",
+      "title": "全新岗位快速涌现 职业教育如何“跟得上”？",
+      "url": "https://www.chinanews.com.cn/edu/2026/10-26/10721086.shtml",
+      "summary": "当前，新技术迭代速度持续加快，一批全新岗位快速涌现；与此同时，不少传统岗位随着产业升级不断萎缩。职业教育如何对接产业需求",
       "source": "中新网教育",
       "category": "社会",
-      "published": "2026-10-23T03:15:13.000Z",
+      "published": "2026-10-26T05:53:20.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 55,
+      "score": 50,
       "tags": []
     }
   ],
-  "财经": [
+  "政策": [
     {
-      "id": "9a429792cb81",
-      "title": "第三季度国家标准下载量超1200万人次 同比增长78%",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722097.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-10-28T03:38:50.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+      "id": "538546c3a0e0",
+      "title": "黄南州开展2026年“百日千万” 西宁一黄南高校毕业生就业协作系列 ...",
+      "url": "https://finance.sina.com.cn/wm/2026-10-26/doc-iniwpfmx9251129.shtml",
+      "summary": "近日，西宁市、黄南州两地人社部门联合开展高校毕业生定向专场招聘系列活动。活动广泛征集省、州内外及西宁市各类企业100余家，通过就业服务下沉基层牧区、优质岗位直达求职群众模式，服务求职群众千余人次，发布",
+      "source": "Bing·高校毕业生就业创业政策",
+      "category": "政策",
+      "published": "2026-10-25T17:00:00.000Z",
+      "image": "//n.sinaimg.cn/front20261026ac/198/w499h499/20261026/20a2-7de78ef1740e0a3fc508ae540e25f521.jpg",
+      "score": 55,
+      "tags": []
     },
     {
-      "id": "1de8e49b5cf9",
-      "title": "我国农用无人机保有量超30万架 居全球首位",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722092.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-10-28T03:20:31.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+      "id": "e6c32086fd86",
+      "title": "最高可贷50万元，湖南优化政策为大学生创业送上金融“活水”",
+      "url": "https://edu.rednet.cn/content/646043/52/16288673.html",
+      "summary": "近日，湖南省出台《关于进一步优化创业担保贷款政策全力支持大学生等重点群体创业的通知》，扩大创业担保贷款覆盖范围、提高贷款额度、降低融资成本，拿出实打实举措，助力青年创新创业。 按照新政策，创业担保贷款",
+      "source": "就业创业政策",
+      "category": "政策",
+      "published": "2026-09-18T01:57:00.000Z",
+      "image": "",
+      "score": 55,
+      "tags": []
     },
     {
-      "id": "f3b8648fa5f1",
-      "title": "希望的田野上一幅秋粮抢收画卷正徐徐展开 秸秆“二次增收”走出共赢新路径",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722091.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-10-28T03:17:47.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+      "id": "530da61be111",
+      "title": "太原市大学生就业人才补贴政策，留学归国就业享福利",
+      "url": "https://www.sohu.com/a/1091588085_121124029",
+      "summary": "太原市为吸引各类优秀大学生及高技能人才，出台了极具竞争力的人才政策体系，政策有效期已延长至2028年。针对全日制博士研究生、世界排名前200名大学（不含境内）及“双一流”建设高校（含建设学科）的全日制",
+      "source": "Bing·大学生就业政策",
+      "category": "政策",
+      "published": "2026-10-23T03:54:00.000Z",
+      "image": "https://q5.itc.cn/q_70/images03/20261023/85077128df1d4127a67ce80c0e90ec2a.jpeg",
+      "score": 50,
+      "tags": []
     },
     {
-      "id": "c638d25d4a8e",
-      "title": "第九届进博会布展启动 展品直通最快仅需35分钟",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722028.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-10-28T02:06:53.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+      "id": "94bf11e98121",
+      "title": "2026年甘肃省大学生就业引航示范宣讲会举办",
+      "url": "https://qnzz.youth.cn/qckc/202610/t20261025_16932241.htm",
+      "summary": "中国青年报客户端讯（中青报&#183;中青网记者 马富春 通讯员 张文琪）10月23日，由共青团甘肃省委、甘肃省学生联合会主办的“出彩人生‘就’在基层”2026年甘肃省大学生就业引航示范宣讲会（第三期",
+      "source": "Bing·大学生就业政策",
+      "category": "政策",
+      "published": "2026-10-24T17:00:00.000Z",
+      "score": 50,
+      "tags": []
     },
     {
-      "id": "b239d9e78de6",
-      "title": "从广交会爆款展品看中国外贸新图景",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-28/10722023.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-10-28T01:58:10.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+      "id": "d95d7ee7b34a",
+      "title": "区县联播丨历下 市中 长清 钢城：大学生新创办企业资助资金发放 ...",
+      "url": "https://www.sohu.com/a/1091848553_121106991",
+      "summary": "历下人社：举办济南市第一批大学生新创办企业资助项目资金发放仪式 精准赋能青年创业发展 10月22日上午，历下区人社局正式举办济南市第一批大学生新创办企业资助项目资金发放仪式暨创业项目指导座谈会，切实落",
+      "source": "Bing·大学生创业扶持政策",
+      "category": "政策",
+      "published": "2026-10-23T12:20:00.000Z",
+      "image": "https://q7.itc.cn/q_70/images03/20261023/a179553337e444c78bf9504ff2701c99.jpeg",
+      "score": 50,
+      "tags": []
     }
   ],
   "开发": [
     {
-      "id": "5a22037c4eb8",
-      "title": "轻量化异构双臂 × VLA/世界模型：家庭服务具身机器人的落地实践",
-      "url": "https://www.infoq.cn/article/7yOK6Ri9Dt4VfITmA7Vb?utm_source=rss&amp;utm_medium=article",
+      "id": "978054b1c7f4",
+      "title": "Meta 利用私有处理技术将机密计算扩展至 AI 眼镜",
+      "url": "https://www.infoq.cn/article/r1ibrq9kmZ1qFAWAtzJf?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-10-28T12:05:43.000Z",
-      "image": "https://static001.infoq.cn/resource/image/4a/8d/4ac931107558322b906bcab8036fe78d.jpg"
+      "published": "2026-10-28T19:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/2e/98/2e5a1cc47d4e6eb0b94bf7f589288898.jpg"
     },
     {
-      "id": "efd2ce693517",
-      "title": "GPT-6.1 Terra 发布：比旗舰快 3 倍，价格仅1/10！事实错误率暴降近 70%",
-      "url": "https://www.infoq.cn/article/28VVsANi9FBYRKfUz8vA?utm_source=rss&amp;utm_medium=article",
+      "id": "59dbc9e3b5e8",
+      "title": "大客户直接打1折、模型四个月降价80%：大模型价格战没有退路",
+      "url": "https://www.infoq.cn/article/ejtljxPixrIuUsGYi5xa?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-10-28T10:37:05.000Z",
-      "image": "https://static001.infoq.cn/resource/image/54/f0/542ce741e7cc444fbcb65a99e8a3e4f0.jpg"
+      "published": "2026-10-28T18:14:48.000Z",
+      "image": "https://static001.infoq.cn/resource/image/68/65/6899a97e57fd14897509c83947271865.png"
     },
     {
-      "id": "9e9ea53fe356",
-      "title": "在AI时代如何提升软件工程能力",
-      "url": "https://www.infoq.cn/article/Qwr9oqOSAdmi1YibHVWr?utm_source=rss&amp;utm_medium=article",
+      "id": "1cf3927ba4b5",
+      "title": "全网恐慌48小时，拯救互联网的却是一个“无名之辈”",
+      "url": "https://www.infoq.cn/article/3HgfVzt6tQpQjrdE2x9J?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-10-28T09:07:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/7b/03/7b58477c3c62157727ed50f6b2026d03.jpg"
+      "published": "2026-10-28T18:08:49.000Z",
+      "image": "https://static001.infoq.cn/resource/image/45/22/45dd80c6720eb9396b77867a4684b322.png"
     },
     {
-      "id": "2326480b8012",
-      "title": "亿万工程师，同饮五粮春——五粮春携手GTLC为构建者举杯",
-      "url": "https://www.infoq.cn/article/rYaRAYC7xR5D28AaNdN7?utm_source=rss&amp;utm_medium=article",
+      "id": "2d869fd6a4a5",
+      "title": "可组合商品套餐：Shipt Kits 平台内部解析",
+      "url": "https://www.infoq.cn/article/xBgiKNRRaMe5ORxXy16Q?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-10-27T18:39:03.000Z",
-      "image": "https://static001.infoq.cn/resource/image/19/92/1997b88537d1e71cd375ea1682126a92.jpg"
+      "published": "2026-10-28T18:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/00/f9/00c47514971d8417be08f174d187f9f9.jpg"
     },
     {
-      "id": "f8bef67b2a04",
-      "title": "Azure Container Apps Express在新的通用沙箱层上正式发布",
-      "url": "https://www.infoq.cn/article/ChONW7EYk5Vuj0VF7AkZ?utm_source=rss&amp;utm_medium=article",
+      "id": "fa40fc86a07b",
+      "title": "Anthropic 内部系统被 AI Agent 12 小时攻破！会议记录、员工薪酬、内部模型讨论遭访问",
+      "url": "https://www.infoq.cn/article/mFXr0u4z0XftUGUg5Wm7?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-10-27T17:17:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/f2/d8/f2f05356b8b5f2f5938ccb030242a0d8.jpg"
+      "published": "2026-10-28T17:54:54.000Z",
+      "image": "https://static001.infoq.cn/resource/image/c1/d4/c1320be7459f200d3035f090717c8cd4.png"
     }
   ]
 }

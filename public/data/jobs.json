@@ -1,14 +1,61 @@
 {
-  "updated": "2026-10-28T04:18:37.526Z",
-  "count": 118,
+  "updated": "2026-10-28T11:02:16.187Z",
+  "count": 119,
   "sources": {
     "V2EX": 9,
     "RemoteOK": 99,
-    "Remotive": 10,
+    "Remotive": 11,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1252554",
+      "title": "AI 全栈工程师（Agent 方向）",
+      "company": "wanghua1299",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "python",
+        "go",
+        "rust",
+        "typescript",
+        "react",
+        "vue",
+        "node",
+        "docker"
+      ],
+      "category": "全栈",
+      "postedDate": "2026-10-28",
+      "url": "https://www.v2ex.com/t/1252554",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1252526",
+      "title": "杭州 AI 岗位招聘",
+      "company": "ceeji",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "python",
+        "java",
+        "javascript"
+      ],
+      "category": "算法/AI",
+      "postedDate": "2026-10-28",
+      "url": "https://www.v2ex.com/t/1252526",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1252502",
       "title": "remote 高级前端开发工程师（Vue3） 20-30K 工作经验： 9 年及以上（40 以内）",
@@ -172,47 +219,6 @@
       "region": "domestic"
     },
     {
-      "id": "v2ex-1252264",
-      "title": "人在国内也能投：日本 IT 会社直招-GSD 招聘 PG/SE/PM・PL/IT 营业（年收 300-1000 万日元，可办理工签）",
-      "company": "GSDgsd",
-      "location": "东京",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "java"
-      ],
-      "category": "产品",
-      "postedDate": "2026-10-27",
-      "url": "https://www.v2ex.com/t/1252264",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1252175",
-      "title": "[全职到岗][税前 15K] 招 IT 与自动化工程师｜跨境网络维护＋ AI 工作流",
-      "company": "Amorelle",
-      "location": "上海杨浦",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "python",
-        "java",
-        "javascript",
-        "linux"
-      ],
-      "category": "算法/AI",
-      "postedDate": "2026-10-27",
-      "url": "https://www.v2ex.com/t/1252175",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
       "id": "remoteok-1137573",
       "title": "Account Executive",
       "company": "Huzzle",
@@ -266,6 +272,28 @@
       "postedDate": "2026-10-26",
       "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-latam-wagmo-1137572",
       "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remotive-2091134",
+      "title": "Head of Engineering",
+      "company": "Lemon.io",
+      "location": "Worldwide",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "AI/ML",
+        "startup",
+        "marketplace",
+        "fundraising"
+      ],
+      "category": "Software Development",
+      "postedDate": "2026-10-26",
+      "url": "https://remotive.com/remote-jobs/software-development/head-of-engineering-2091134",
+      "source": "Remotive",
       "region": "foreign"
     },
     {
