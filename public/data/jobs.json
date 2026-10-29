@@ -1,31 +1,14 @@
 {
-  "updated": "2026-10-28T22:17:16.815Z",
-  "count": 119,
+  "updated": "2026-10-29T02:10:23.430Z",
+  "count": 118,
   "sources": {
-    "V2EX": 9,
+    "V2EX": 8,
     "RemoteOK": 99,
     "Remotive": 11,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
   "jobs": [
-    {
-      "id": "v2ex-1252654",
-      "title": "SmartDeer 招聘信息安全工程师",
-      "company": "jollychang",
-      "location": "远程 / 全职",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [],
-      "category": "人力/HR",
-      "postedDate": "2026-10-28",
-      "url": "https://www.v2ex.com/t/1252654",
-      "source": "V2EX",
-      "region": "domestic"
-    },
     {
       "id": "v2ex-1252554",
       "title": "AI 全栈工程师（Agent 方向）",
@@ -74,29 +57,6 @@
       "region": "domestic"
     },
     {
-      "id": "v2ex-1252502",
-      "title": "remote 高级前端开发工程师（Vue3） 20-30K 工作经验： 9 年及以上（40 以内）",
-      "company": "andyxinweimin",
-      "location": "国内",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "java",
-        "javascript",
-        "typescript",
-        "react",
-        "vue"
-      ],
-      "category": "前端",
-      "postedDate": "2026-10-28",
-      "url": "https://www.v2ex.com/t/1252502",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
       "id": "v2ex-1252499",
       "title": "[行业头部互联网] 招聘 AI Agent 算法相关工程师， Agentic、安全、虚拟陪伴相关",
       "company": "hdzsj2010",
@@ -136,28 +96,6 @@
       "category": "算法/AI",
       "postedDate": "2026-10-28",
       "url": "https://www.v2ex.com/t/1252484",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1252471",
-      "title": "[远程] 薪资 40 万-80 万 RMB/年, AI 数据采集/逆向/爬虫工程师， Golang",
-      "company": "hmily8810",
-      "location": "海外",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "python",
-        "go",
-        "golang",
-        "node"
-      ],
-      "category": "算法/AI",
-      "postedDate": "2026-10-28",
-      "url": "https://www.v2ex.com/t/1252471",
       "source": "V2EX",
       "region": "domestic"
     },
@@ -209,6 +147,48 @@
       "category": "后端",
       "postedDate": "2026-10-27",
       "url": "https://www.v2ex.com/t/1252375",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1252363",
+      "title": "💻 技术 × AI × 数据｜ 37 个远程岗位，附薪资范围",
+      "company": "loser7758",
+      "location": "国内",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "java",
+        "go",
+        "golang",
+        "vue",
+        "flutter"
+      ],
+      "category": "算法/AI",
+      "postedDate": "2026-10-27",
+      "url": "https://www.v2ex.com/t/1252363",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1252264",
+      "title": "人在国内也能投：日本 IT 会社直招-GSD 招聘 PG/SE/PM・PL/IT 营业（年收 300-1000 万日元，可办理工签）",
+      "company": "GSDgsd",
+      "location": "东京",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "java"
+      ],
+      "category": "产品",
+      "postedDate": "2026-10-27",
+      "url": "https://www.v2ex.com/t/1252264",
       "source": "V2EX",
       "region": "domestic"
     },
