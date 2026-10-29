@@ -1,14 +1,62 @@
 {
-  "updated": "2026-10-29T02:10:23.430Z",
-  "count": 118,
+  "updated": "2026-10-29T09:28:32.651Z",
+  "count": 119,
   "sources": {
     "V2EX": 8,
     "RemoteOK": 99,
-    "Remotive": 11,
+    "Remotive": 12,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1252876",
+      "title": "ai 应用创业公司招聘-北京",
+      "company": "shazhouyouren",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "python",
+        "java",
+        "go",
+        "javascript",
+        "react",
+        "vue",
+        "spring",
+        "django"
+      ],
+      "category": "算法/AI",
+      "postedDate": "2026-10-29",
+      "url": "https://www.v2ex.com/t/1252876",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1252864",
+      "title": "Base 厦门，招后端工程师主 Java 。薪资 12-16K。有没有比较 Geek、动手能力强的小伙子。",
+      "company": "ngduncent",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "java",
+        "spring",
+        "mysql",
+        "redis"
+      ],
+      "category": "后端",
+      "postedDate": "2026-10-29",
+      "url": "https://www.v2ex.com/t/1252864",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1252554",
       "title": "AI 全栈工程师（Agent 方向）",
@@ -151,46 +199,34 @@
       "region": "domestic"
     },
     {
-      "id": "v2ex-1252363",
-      "title": "💻 技术 × AI × 数据｜ 37 个远程岗位，附薪资范围",
-      "company": "loser7758",
-      "location": "国内",
+      "id": "remotive-2091135",
+      "title": "Senior Back-end Developer",
+      "company": "Lemon.io",
+      "location": "Europe, USA, Canada, Australia, Singapore, Mexico, Saudi Arabia",
       "remote": true,
       "salaryText": "",
       "salaryMin": null,
       "salaryMax": null,
-      "salaryCurrency": "CNY",
+      "salaryCurrency": "",
       "skills": [
-        "java",
-        "go",
+        ".Net",
+        "android",
+        "C",
+        "C#",
+        "C++",
+        "cloud",
+        "data science",
         "golang",
-        "vue",
-        "flutter"
+        "ios",
+        "java",
+        "javascript",
+        "kubernetes"
       ],
-      "category": "算法/AI",
+      "category": "Software Development",
       "postedDate": "2026-10-27",
-      "url": "https://www.v2ex.com/t/1252363",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1252264",
-      "title": "人在国内也能投：日本 IT 会社直招-GSD 招聘 PG/SE/PM・PL/IT 营业（年收 300-1000 万日元，可办理工签）",
-      "company": "GSDgsd",
-      "location": "东京",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "java"
-      ],
-      "category": "产品",
-      "postedDate": "2026-10-27",
-      "url": "https://www.v2ex.com/t/1252264",
-      "source": "V2EX",
-      "region": "domestic"
+      "url": "https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135",
+      "source": "Remotive",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137573",
