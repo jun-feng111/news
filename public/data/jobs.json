@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T21:35:48.740Z",
+  "updated": "2026-10-30T01:37:38.022Z",
   "count": 119,
   "sources": {
     "V2EX": 8,
@@ -9,26 +9,6 @@
     "Adzuna": 0
   },
   "jobs": [
-    {
-      "id": "v2ex-1252960",
-      "title": "大佬们看看我这简历怎么优化",
-      "company": "gy123",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "java",
-        "spring"
-      ],
-      "category": "其他",
-      "postedDate": "2026-10-29",
-      "url": "https://www.v2ex.com/t/1252960",
-      "source": "V2EX",
-      "region": "domestic"
-    },
     {
       "id": "v2ex-1252953",
       "title": "招聘： Rust 工程师（量化交易系统）",
@@ -185,6 +165,43 @@
       "url": "https://www.v2ex.com/t/1252484",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "v2ex-1252412",
+      "title": "寻弱电设计工程师",
+      "company": "inbox",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [],
+      "category": "设计",
+      "postedDate": "2026-10-28",
+      "url": "https://www.v2ex.com/t/1252412",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "remoteok-1137597",
+      "title": "Front End Developer",
+      "company": "Edconic",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "other",
+        "front end"
+      ],
+      "category": "other",
+      "postedDate": "2026-10-28",
+      "url": "https://remoteOK.com/remote-jobs/remote-front-end-developer-edconic-1137597",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137595",
@@ -2157,45 +2174,6 @@
       "region": "foreign"
     },
     {
-      "id": "remoteok-1137451",
-      "title": "Enterprise Sales Development Representative",
-      "company": "Toptal",
-      "location": "Remote",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "customer support",
-        "sales"
-      ],
-      "category": "customer support",
-      "postedDate": "2026-09-30",
-      "url": "https://remoteOK.com/remote-jobs/remote-enterprise-sales-development-representative-toptal-1137451",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137439",
-      "title": "Client Advisor",
-      "company": "Toptal",
-      "location": "Remote",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "customer support"
-      ],
-      "category": "customer support",
-      "postedDate": "2026-09-30",
-      "url": "https://remoteOK.com/remote-jobs/remote-client-advisor-toptal-1137439",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
       "id": "remotive-2091132",
       "title": "Senior back-end Engineer",
       "company": "Lemon.io",
@@ -3097,6 +3075,36 @@
       "category": "saas",
       "postedDate": "2026-08-16",
       "url": "https://remoteOK.com/remote-jobs/remote-strategic-account-executive-lodging-freedompay-1136797",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1136796",
+      "title": "Staff Software Development Engineer SDM",
+      "company": "Delinea",
+      "location": "Redwood City",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "dev",
+        "design",
+        "saas",
+        "sys admin",
+        "infosec",
+        "vfx",
+        "technical",
+        "web dev",
+        "exec",
+        "devops",
+        "education",
+        "finance"
+      ],
+      "category": "dev",
+      "postedDate": "2026-08-16",
+      "url": "https://remoteOK.com/remote-jobs/remote-staff-software-development-engineer-sdm-delinea-1136796",
       "source": "RemoteOK",
       "region": "foreign"
     }
