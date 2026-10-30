@@ -1,41 +1,27 @@
 {
-  "AI": [
+  "科技": [
     {
-      "id": "223b05929cb3",
-      "title": "Rivian expands joint venture with VW to include AI assistant",
-      "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
-      "summary": "Rivian expands joint venture with VW to include AI assistant",
+      "id": "98f03f499cf5",
+      "title": "Waymo taps Toyota to supply robotaxis for Japan and the U.K.",
+      "url": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
+      "summary": "Waymo taps Toyota to supply robotaxis for Japan and the U",
       "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-29T20:05:47.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/12/rivian-assisant-event.png?resize=1200,672",
-      "score": 80,
+      "category": "科技",
+      "published": "2026-10-30T07:01:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Waymo_Toyota_bZ4X.jpg?resize=1200,675",
+      "score": 75,
       "tags": []
     },
     {
-      "id": "4585bce5af53",
-      "title": "You don&#8217;t need to believe in a god to get a religious exemption from using AI at work",
-      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-      "summary": "You don&#8217;t need to believe in a god to get a religious exemption from using AI at work",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-30T01:20:48.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2274650383.jpg?resize=1200,840",
-      "score": 70,
-      "tags": []
-    }
-  ],
-  "科技": [
-    {
       "id": "ee09513d3b25",
-      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
       "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-      "summary": "AWS will be a $1T business, Jassy says。 But first, it will spend big",
+      "summary": "AWS will be a $1T business, Jassy says — but first, it will spend big",
       "source": "TechCrunch",
       "category": "科技",
       "published": "2026-10-29T23:42:22.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1415078085.jpg?resize=1200,721",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -47,7 +33,7 @@
       "category": "科技",
       "published": "2026-10-29T22:27:23.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2023/12/GettyImages-1258513563.jpg?resize=1200,800",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -59,7 +45,7 @@
       "category": "科技",
       "published": "2026-10-29T21:51:29.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2024/07/vladimir-putin-russia-kremlin.jpg?resize=1200,800",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -71,19 +57,21 @@
       "category": "科技",
       "published": "2026-10-29T21:20:47.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1252468735.jpg?resize=1200,800",
-      "score": 75,
+      "score": 70,
       "tags": []
-    },
+    }
+  ],
+  "AI": [
     {
-      "id": "ba269d0165e4",
-      "title": "GM reaches $220M settlement over selling drivers&#8217; private data",
-      "url": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/",
-      "summary": "GM reaches $220M settlement over selling drivers&#8217; private data",
+      "id": "4585bce5af53",
+      "title": "You don&#8217;t need to believe in a god to get a religious exemption from using AI at work",
+      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+      "summary": "You don&#8217;t need to believe in a god to get a religious exemption from using AI at work",
       "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-10-29T21:01:04.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2020/11/Chevrolet-OnStar-Santa-01.jpg?resize=1200,800",
-      "score": 75,
+      "category": "AI",
+      "published": "2026-10-30T01:20:48.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2274650383.jpg?resize=1200,840",
+      "score": 65,
       "tags": []
     }
   ],
@@ -101,18 +89,6 @@
       "tags": []
     },
     {
-      "id": "eb8173a64861",
-      "title": "美国网络安全招聘市场降温：岗位发布量大降26% AI安全工程师需求 ...",
-      "url": "https://www.msn.com/zh-cn/money/通用/美国网络安全招聘市场降温-岗位发布量大降26-ai安全工程师需求激增268/ar-AA2fyjrC",
-      "summary": "最新发布的一份美国网络安全就业市场报告显示，尽管整体招聘需求持续下滑并跌至近四年来最低水平，但与人工智能相关的网络安全岗位却逆势增长，其中AI安全工程师成为增长最快的职位之一。该报告由CyberSN发",
-      "source": "安全工程师·就业分析",
-      "category": "就业",
-      "published": "2026-10-19T01:15:30.000Z",
-      "image": "",
-      "score": 65,
-      "tags": []
-    },
-    {
       "id": "26c8ab7c2bbb",
       "title": "CyberSN：2026年1-9月美国网络安全职位发布量235786个，同比下降26.4%",
       "url": "https://finance.sina.com.cn/tech/roll/2026-10-19/doc-inivumam6837930.shtml",
@@ -125,26 +101,38 @@
       "tags": []
     },
     {
-      "id": "0906dc315ee3",
+      "id": "eb8173a64861",
+      "title": "美国网络安全招聘市场降温：岗位发布量大降26% AI安全工程师需求 ...",
+      "url": "https://www.msn.com/zh-cn/money/通用/美国网络安全招聘市场降温-岗位发布量大降26-ai安全工程师需求激增268/ar-AA2fyjrC",
+      "summary": "最新发布的一份美国网络安全就业市场报告显示，尽管整体招聘需求持续下滑并跌至近四年来最低水平，但与人工智能相关的网络安全岗位却逆势增长，其中AI安全工程师成为增长最快的职位之一。该报告由CyberSN发",
+      "source": "安全工程师·就业分析",
+      "category": "就业",
+      "published": "2026-10-19T01:15:30.000Z",
+      "image": "",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "bff8e5262301",
       "title": "银行秋招释放信号：“AI+金融”复合型人才需求升温",
-      "url": "https://www.news.cn/money/20261027/119a506540b84bd99eb4477d5091bcee/c.html",
+      "url": "https://finance.sina.com.cn/money/bank/bank_hydt/2026-10-27/doc-iniwrecf1670507.shtml",
       "summary": "近期银行业秋季校园招聘全面展开，多家银行面向具体金融场景的AI复合型岗位需求旺盛，设置了科技菁英、数智金融培训生、金融科技培训生等岗位。中国证券报记者调研发现，既懂AI大模型等前沿技术，又熟悉具体金融",
       "source": "Bing·秋招",
       "category": "就业",
-      "published": "2026-10-26T17:00:00.000Z",
-      "image": "https://www.news.cn/detail2020/images/ewm.png",
+      "published": "2026-10-26T21:53:00.000Z",
+      "image": "https://n.sinaimg.cn/finance/180/w800h180/20190129/kfZE-hshmsth9099480.jpg",
       "score": 60,
       "tags": []
     },
     {
-      "id": "23c8f4296659",
-      "title": "智联招聘报告揭示人工智能工程师薪酬显著高于平均水平",
-      "url": "https://www.sohu.com/a/1093487234_122066678",
-      "summary": "10月27日，上海财经大学数字经济研究院与智联招聘联合发布了《2026全国主要城市数字经济人才引力指数报告》。报告显示，全国数字经济人才的吸引力呈现出明显的地域差异，形成“三极引领、七城卓越、分层清晰",
-      "source": "Bing·智联招聘",
+      "id": "858c4ad50b2a",
+      "title": "BOSS 直聘旗下 Nanbeige 开源 Nanbeige4.3-33B",
+      "url": "https://www.sohu.com/a/1092769811_100106801",
+      "summary": "10月26日消息，BOSS 直聘（Kanzhun Limited）旗下大模型实验室 Nanbeige（南北阁）通过官方 X 账号 @nanbeige 宣布开源 Nanbeige4。这是一个 33",
+      "source": "Bing·BOSS直聘",
       "category": "就业",
-      "published": "2026-10-27T11:30:00.000Z",
-      "image": "",
+      "published": "2026-10-26T03:54:00.000Z",
+      "image": "https://q4.itc.cn/q_70/images03/20261026/a103e5ae943b4be795cb3916b34ce2e2.png",
       "score": 60,
       "tags": []
     }
@@ -213,18 +201,6 @@
   ],
   "政策": [
     {
-      "id": "c9e0e2c9da46",
-      "title": "《中国劳动保障报》头版头条报道我市传承红色血脉推进人社事业高 ...",
-      "url": "https://www.sohu.com/a/1092991077_121106832",
-      "summary": "10月20日，《中国劳动保障报》头版头条刊发《红军出发地 民生新答卷——江西瑞金传承红色血脉推进人社事业高质量发展纪实》，报道赣州瑞金市以红色血脉赋能民生保障、推动人社事业高质量发展的经验做法和实际成",
-      "source": "Bing·人社部就业创业政策",
-      "category": "政策",
-      "published": "2026-10-26T12:05:00.000Z",
-      "image": "https://q2.itc.cn/q_70/images03/20261026/ed258561f0cd4217ba2a37f62beaa829.jpeg",
-      "score": 55,
-      "tags": []
-    },
-    {
       "id": "e6c32086fd86",
       "title": "最高可贷50万元，湖南优化政策为大学生创业送上金融“活水”",
       "url": "https://edu.rednet.cn/content/646043/52/16288673.html",
@@ -237,134 +213,146 @@
       "tags": []
     },
     {
-      "id": "92e955bd9bc1",
-      "title": "支持济青烟率先打造北方区域性就业聚集地！山东印发实施就业优先 ...",
-      "url": "https://news.qq.com/rain/a/20261027A05SP200",
-      "summary": "山东省人民政府关于印发《山东省实施就业优先战略“十五五”规划》的通知鲁政发〔2026〕21号各市人民政府，各县（市、区）人民政府，省政府各部门、各直属机构，各大企业，各高等院校：现将《山东省实施就业优",
+      "id": "4dbe49f89217",
+      "title": "支持济青烟率先打造北方区域性就业聚集地！山东印发就业优先战略 ...",
+      "url": "https://sd.dzwww.com/sdnews/202610/t20261027_18244512.htm",
+      "summary": "（四）增强区域就业承载力。支持济南、青岛、烟台率先打造北方区域性就业聚集地，鼓励其他市立足功能定位、产业基础、人力资源增强就业带动能力",
       "source": "就业创业政策",
       "category": "政策",
-      "published": "2026-10-27T04:26:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/OvRH0XxNoKV2dR3Rto8d_YactKHbp8NvtZ2AgxjkLnH3kAA_640330/0",
+      "published": "2026-10-27T06:24:00.000Z",
+      "image": "https://www.dzwww.com/tpl/v2019/xilan/images/logo1.png",
       "score": 55,
       "tags": []
     },
     {
-      "id": "94bf11e98121",
-      "title": "2026年甘肃省大学生就业引航示范宣讲会举办",
-      "url": "https://qnzz.youth.cn/qckc/202610/t20261025_16932241.htm",
-      "summary": "中国青年报客户端讯（中青报&#183;中青网记者 马富春 通讯员 张文琪）10月23日，由共青团甘肃省委、甘肃省学生联合会主办的“出彩人生‘就’在基层”2026年甘肃省大学生就业引航示范宣讲会（第三期",
-      "source": "Bing·大学生就业政策",
+      "id": "f5cb39eaf8f6",
+      "title": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
+      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202606/t20260602_1438600.html",
+      "summary": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
+      "source": "教育部",
       "category": "政策",
-      "published": "2026-10-24T17:00:00.000Z",
-      "image": "https://qnzz.youth.cn/images/20210809_tuanqi_new.png",
+      "published": "2026-06-02T00:00:00.000Z",
+      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
       "score": 50,
       "tags": []
     },
     {
-      "id": "d31499a1e027",
-      "title": "有为青年创始人李宁出席四川青创公益百校行，受聘川影大学生创新 ...",
-      "url": "https://www.dzwww.com/xinwen/jishixinwen/202610/t20261027_18242545.htm",
-      "summary": "为深入推进青年创业就业工作，助力大学生创新创业实践，2026年10月22日，由四川省青年创业就业基金会、四川电影电视学院主办的“创响青春 聚力成长”四川青创公益百校行活动（四川电影电视学院专场），在川",
-      "source": "Bing·大学生就业政策",
+      "id": "a3af074b2b9b",
+      "title": "2026-05-22教育部等八部门办公厅关于联合开展2026年度高校毕业生等重点群体促就业“国聘行动”的通知",
+      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202605/t20260522_1437356.html",
+      "summary": "2026-05-22教育部等八部门办公厅关于联合开展2026年度高校毕业生等重点群体促就业“国聘行动”的通知",
+      "source": "教育部",
       "category": "政策",
-      "published": "2026-10-26T17:00:00.000Z",
-      "image": "https://www.dzwww.com/tpl/v2019/xilan/images/logo1.png",
+      "published": "2026-05-22T00:00:00.000Z",
+      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "20eed286abd8",
+      "title": "2026-04-24教育部办公厅 人力资源社会保障部办公厅关于开展2026年高校毕业生就业政策宣传活动的通知",
+      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202604/t20260423_1434600.html",
+      "summary": "2026-04-24教育部办公厅 人力资源社会保障部办公厅关于开展2026年高校毕业生就业政策宣传活动的通知",
+      "source": "教育部",
+      "category": "政策",
+      "published": "2026-04-23T00:00:00.000Z",
+      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
       "score": 50,
       "tags": []
     }
   ],
   "财经": [
     {
-      "id": "cc1889da0a55",
-      "title": "2025年欧盟和欧元区宏观税负水平双双走高",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723100.shtml",
+      "id": "aab03f50c683",
+      "title": "“十五五”启新程 浙江工业大市大县锻造发展新引擎",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723385.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-29T23:59:25.000Z",
+      "published": "2026-10-30T07:59:03.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "4af81258551a",
-      "title": "美国稀土计划遭重挫",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723095.shtml",
+      "id": "6e6110b344d8",
+      "title": "一“硫”难求，硫磺价格波动如何向中下游传导？",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723367.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-29T23:49:01.000Z",
+      "published": "2026-10-30T07:41:16.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "70a3319924a0",
-      "title": "2026年中国贵金属论坛在昆明举行 AI与贵金属“双向奔赴”成焦点",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723082.shtml",
+      "id": "2184b90af61d",
+      "title": "第十六届中国国际薯业博览会·第十二届四川农博会在成都开幕",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723349.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-29T15:51:56.000Z",
+      "published": "2026-10-30T07:31:22.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "6336d9e8e972",
-      "title": "广西加快打造国内国际双循环市场经营便利地",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723079.shtml",
+      "id": "219ba2d04069",
+      "title": "国台破局之道：从创新产品、构建市场秩序到回归消费者价值",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723340.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-29T15:48:52.000Z",
+      "published": "2026-10-30T07:30:28.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "918d8feb46c7",
-      "title": "“北京太古坊”正式启用，为太古地产在中国内地单体投资额最高项目",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-29/10723071.shtml",
+      "id": "df5a079ddecf",
+      "title": "湖南江永晚香姜错峰上市 特色产业铺就富民路",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723342.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-29T15:37:10.000Z",
+      "published": "2026-10-30T07:25:17.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ],
   "开发": [
     {
-      "id": "f9b943cee6b1",
-      "title": "Chainguard 推出面向 AI 编码智能体的安全工作区与安全校验能力",
-      "url": "https://www.infoq.cn/article/UNli8x0wc8XUNjI5ETya?utm_source=rss&amp;utm_medium=article",
+      "id": "2adce142cb7b",
+      "title": "超节点火了一年后，“算力不够就加机器”的扩张逻辑正在被改写",
+      "url": "https://www.infoq.cn/article/ZolBIJdvK5Icdqg6FB0X?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-10-30T09:23:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/41/d0/417b2d2b8438807c30fed17bd6529cd0.jpg"
+      "published": "2026-10-30T15:45:06.000Z",
+      "image": "https://static001.infoq.cn/resource/image/ec/61/ec4159e9e0c9b43f0480dc06efbdc661.png"
     },
     {
-      "id": "a1a617aac159",
-      "title": "Java 近期资讯：JDK 28 JEP、Azul Payara、Gatherers4j、Google ADK、Yupiik 与 Apache Camel CVE",
-      "url": "https://www.infoq.cn/article/dfj1fLfP8iVLKFtEfr69?utm_source=rss&amp;utm_medium=article",
+      "id": "ea27ed29f156",
+      "title": ".NET 11 第 2 个候选版本发布，带来生产环境部署许可以及针对库、F#、MAUI 和 WinForms 的更新",
+      "url": "https://www.infoq.cn/article/A8YgLsG4VOhoJkUVq9Jq?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-10-30T08:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/a2/8e/a2f3cc222bd865699cf1c80f8d6e588e.png"
+      "published": "2026-10-30T15:09:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/ab/fa/ab0d4ce5318d1e9063f3254ff534b1fa.jpg"
     },
     {
-      "id": "46f2c7b4941c",
-      "title": "启元 CEO 田华：启元机器人接入WorkBuddy，不仅看见你的世界，还能走得到你身边",
-      "url": "https://www.infoq.cn/article/fHXiS2bsEFHDXdwVK6KP?utm_source=rss&amp;utm_medium=article",
+      "id": "9b69d7758e40",
+      "title": "2026年AI技术演进与2027年趋势前瞻报告",
+      "url": "https://www.infoq.cn/minibook/lmVM6XjSDMpMb6QTbK0l?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-10-29T20:22:05.000Z",
-      "image": "https://static001.infoq.cn/resource/image/32/4f/328d6b9cb0378b88870da5d07b7b4f4f.png"
+      "published": "2026-10-30T14:41:36.000Z",
+      "image": "https://static001.geekbang.org/static/infoq/img/infoq_icon.jpg"
     },
     {
-      "id": "7aaaf3294850",
-      "title": "谷歌赢了 AI 排行榜，却没赢下华尔街：Gemini 4 Carbon 登顶背后的昂贵代价",
-      "url": "https://www.infoq.cn/article/dXwHCW7kjGX1kjPqtla9?utm_source=rss&amp;utm_medium=article",
+      "id": "37bc06d2bef5",
+      "title": "NestJS 12：ESM 包、标准模式验证和原生可观测性",
+      "url": "https://www.infoq.cn/article/cyfZ34rycDPzIrzohosZ?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-10-29T20:13:07.000Z",
-      "image": "https://static001.infoq.cn/resource/image/40/b8/408d0c16b22f702685b6643c24b2d5b8.png"
+      "published": "2026-10-30T13:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/4c/2d/4c1c4fc1f5ef6fdc70da6e1cc4290c2d.jpg"
     },
     {
-      "id": "7ff9803bf974",
-      "title": "概率、插座与5000个爱因斯坦：专访阿里云研发副总裁周琦",
-      "url": "https://www.infoq.cn/article/5xCWuR8CMGosWrEuNbix?utm_source=rss&amp;utm_medium=article",
+      "id": "6c45a4e442d4",
+      "title": "谷歌推出 EnvHarness，支持自进化智能体动态环境学习",
+      "url": "https://www.infoq.cn/article/FJqN3mFVyN1lMqHOiegs?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-10-29T18:37:11.000Z",
-      "image": "https://static001.infoq.cn/resource/image/42/01/421c26c093be9yyc83308yyd7818cb01.jpg"
+      "published": "2026-10-30T11:22:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/42/9e/42790ce7ec5dd9bb1cbc0511d98d839e.jpg"
     }
   ]
 }
