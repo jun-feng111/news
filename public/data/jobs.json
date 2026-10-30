@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T08:11:04.603Z",
+  "updated": "2026-10-30T15:37:30.617Z",
   "count": 118,
   "sources": {
     "V2EX": 7,
@@ -9,6 +9,65 @@
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1253279",
+      "title": "Kimi AI ｜体验运营实习生（Harness）",
+      "company": "lhclaudiochak",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "python"
+      ],
+      "category": "算法/AI",
+      "postedDate": "2026-10-30",
+      "url": "https://www.v2ex.com/t/1253279",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1253272",
+      "title": "Kimi AI ｜ 体验运营实习生（Kimi Code 业务方向）",
+      "company": "lhclaudiochak",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [],
+      "category": "算法/AI",
+      "postedDate": "2026-10-30",
+      "url": "https://www.v2ex.com/t/1253272",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1253233",
+      "title": "上海大模型评测工程师岗位！",
+      "company": "Uki99",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "python",
+        "go",
+        "c++",
+        "typescript",
+        "docker"
+      ],
+      "category": "其他",
+      "postedDate": "2026-10-30",
+      "url": "https://www.v2ex.com/t/1253233",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1253074",
       "title": "信息化工程师 | 信息化系统 / AI 应用研发 / Go / Python 15-25K 无偿内推",
@@ -103,77 +162,6 @@
       "category": "后端",
       "postedDate": "2026-10-29",
       "url": "https://www.v2ex.com/t/1252864",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1252554",
-      "title": "AI 全栈工程师（Agent 方向）",
-      "company": "wanghua1299",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "python",
-        "go",
-        "rust",
-        "typescript",
-        "react",
-        "vue",
-        "node",
-        "docker"
-      ],
-      "category": "全栈",
-      "postedDate": "2026-10-28",
-      "url": "https://www.v2ex.com/t/1252554",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1252526",
-      "title": "杭州 AI 岗位招聘",
-      "company": "ceeji",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "python",
-        "java",
-        "javascript"
-      ],
-      "category": "算法/AI",
-      "postedDate": "2026-10-28",
-      "url": "https://www.v2ex.com/t/1252526",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1252499",
-      "title": "[行业头部互联网] 招聘 AI Agent 算法相关工程师， Agentic、安全、虚拟陪伴相关",
-      "company": "hdzsj2010",
-      "location": "杭州",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "python",
-        "java",
-        "react",
-        "spark",
-        "pytorch",
-        "tensorflow"
-      ],
-      "category": "算法/AI",
-      "postedDate": "2026-10-28",
-      "url": "https://www.v2ex.com/t/1252499",
       "source": "V2EX",
       "region": "domestic"
     },
