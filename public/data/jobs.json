@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-31T06:43:45.959Z",
-  "count": 118,
+  "updated": "2026-10-31T13:23:03.263Z",
+  "count": 119,
   "sources": {
     "V2EX": 7,
     "RemoteOK": 99,
-    "Remotive": 12,
+    "Remotive": 13,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
@@ -166,6 +166,29 @@
       "region": "domestic"
     },
     {
+      "id": "remoteok-1137604",
+      "title": "Online Client Support &amp; Travel Booking We Will Train You",
+      "company": "Destination Careers",
+      "location": "Dallas, Texas",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "travel",
+        "education",
+        "customer support",
+        "virtual assistant",
+        "non tech"
+      ],
+      "category": "travel",
+      "postedDate": "2026-10-30",
+      "url": "https://remoteOK.com/remote-jobs/remote-online-client-support-amp-travel-booking-we-will-train-you-destination-careers-1137604",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
       "id": "remoteok-1137603",
       "title": "Competent Wind Turbine Technicians EU UK APAC 2027",
       "company": "GEV Wind Power",
@@ -270,6 +293,36 @@
       "postedDate": "2026-10-29",
       "url": "https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600",
       "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remotive-2091165",
+      "title": "Full-Stack Developer",
+      "company": "Fluence International, Inc.",
+      "location": "Worldwide",
+      "remote": true,
+      "salaryText": "$3.5k–$5k/month",
+      "salaryMin": 3500,
+      "salaryMax": 5000,
+      "salaryCurrency": "USD",
+      "skills": [
+        "admin",
+        "api",
+        "AWS",
+        "backend",
+        "cloud",
+        "docker",
+        "frontend",
+        "fullstack",
+        "javascript",
+        "react",
+        "security",
+        "UI/UX"
+      ],
+      "category": "Software Development",
+      "postedDate": "2026-10-29",
+      "url": "https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165",
+      "source": "Remotive",
       "region": "foreign"
     },
     {
@@ -3083,36 +3136,6 @@
       "category": "design",
       "postedDate": "2026-08-16",
       "url": "https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-engineering-physical-superintelligence-1136798",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1136797",
-      "title": "Strategic Account Executive Lodging",
-      "company": "FreedomPay",
-      "location": "Select USA Remote Locations",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "saas",
-        "infosec",
-        "game dev",
-        "consulting",
-        "marketing",
-        "travel",
-        "speech",
-        "exec",
-        "finance",
-        "education",
-        "api",
-        "mobile"
-      ],
-      "category": "saas",
-      "postedDate": "2026-08-16",
-      "url": "https://remoteOK.com/remote-jobs/remote-strategic-account-executive-lodging-freedompay-1136797",
       "source": "RemoteOK",
       "region": "foreign"
     }
