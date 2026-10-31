@@ -1,6 +1,30 @@
 {
   "AI": [
     {
+      "id": "d319498a5eb3",
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "summary": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-30T22:56:13.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Ollie_Hero.png?resize=1200,847",
+      "score": 80,
+      "tags": []
+    },
+    {
+      "id": "d2ae3dfb1d7f",
+      "title": "Cracks are emerging in the AI spending boom",
+      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "summary": "Cracks are emerging in the AI spending boom",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-30T21:17:40.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/mick-haupt-7Kv1Elbagcc-unsplash.jpg?resize=1200,800",
+      "score": 80,
+      "tags": []
+    },
+    {
       "id": "d50acd2d8b62",
       "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
       "url": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
@@ -21,47 +45,73 @@
       "category": "AI",
       "published": "2026-10-30T17:47:12.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/zest.jpg?resize=1200,764",
-      "score": 80,
+      "score": 75,
       "tags": []
-    },
+    }
+  ],
+  "财经": [
     {
-      "id": "12c5b28f8540",
-      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
-      "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
-      "summary": "Can AI data centers be mass-produced like cars。 This startup aims to find out",
+      "id": "c6d867f631df",
+      "title": "Intel&#8217;s stock crashes, knocking $12B from government&#8217;s stake",
+      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+      "summary": "Intel&#8217;s stock crashes, knocking $12B from government&#8217;s stake",
       "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-30T13:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Runware-Factory-.jpg?w=1200",
+      "category": "财经",
+      "published": "2026-10-30T21:54:34.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Intel-Lip-Bu-Tan-1.jpg?resize=1200,800",
       "score": 75,
       "tags": []
     },
     {
-      "id": "9baf1e5f5ceb",
-      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is &#8216;a great opportunity to go deceive people&#8217;",
-      "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
-      "summary": "Theranos whistleblower Tyler Shultz warns that the AI boom is &#8216;a great opportunity to go decei",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-30T16:03:45.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1465332173.jpg?resize=1200,800",
-      "score": 70,
-      "tags": []
+      "id": "ba988e9366ba",
+      "title": "上海以战略耐心培育卫星互联网产业",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723740.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-10-30T23:58:10.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "30b5f07a33cd",
-      "title": "DoorDash said it&#8217;s only received &#8216;several hundred&#8217; orders from AI agents",
-      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-      "summary": "DoorDash said it&#8217;s only received &#8216;several hundred&#8217; orders from AI agents",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-30T13:54:25.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1232015093.jpg?resize=1200,800",
-      "score": 65,
-      "tags": []
+      "id": "d4bb5bc6d66d",
+      "title": "“水、陆、铁”轮番接力！渝黔背靠背联网工程首台换流变压器运抵施工现场",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723734.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-10-30T23:46:23.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "2b48da4c4b8e",
+      "title": "今年广西消费品以旧换新政策已带动消费额超400亿元",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723729.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-10-30T23:42:53.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "d56e62896d35",
+      "title": "华南首个“邮轮无目的地海上游”航次启航",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723728.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-10-30T23:42:49.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ],
   "科技": [
+    {
+      "id": "62efadaf1b1a",
+      "title": "Last-minute Halloween costumes for tech nerds",
+      "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+      "summary": "Last-minute Halloween costumes for tech nerds",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-10-30T21:26:59.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2170662558.jpg?resize=1200,800",
+      "score": 75,
+      "tags": []
+    },
     {
       "id": "a106b02a6b2e",
       "title": "Satlyt takes another step toward turning satellites into space data centers",
@@ -71,53 +121,44 @@
       "category": "科技",
       "published": "2026-10-30T18:01:24.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Just_Super-Getty.jpg?resize=1200,750",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "d4c3a958104a",
-      "title": "Google&#8217;s first data center satellite is online and writing poetry",
-      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
-      "summary": "Google&#8217;s first data center satellite is online and writing poetry",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-10-30T17:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/DSC_0298.jpg?resize=1200,800",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "8bb964836bc7",
-      "title": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
-      "url": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/",
-      "summary": "North Korean hackers blamed for stealing record $6。3B in Binance breach",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-10-30T14:00:25.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/binance-2206279918.jpg?resize=1200,800",
       "score": 70,
       "tags": []
     },
     {
-      "id": "11a724be2b39",
-      "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
-      "url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
-      "summary": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+      "id": "0f484a6d1367",
+      "title": "Salesforce’s M&#038;A spree continues with a reported $375M deal for defense tech startup Rune",
+      "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
+      "summary": "Salesforce’s M&#038;A spree continues with a reported $375M deal for defense tech startup Rune",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-10-30T13:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-Breakout-Session.jpg?resize=1200,800",
-      "score": 60,
+      "published": "2026-10-30T23:21:23.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2221463618.jpg?resize=1200,800",
+      "score": 65,
       "tags": []
     },
     {
-      "id": "98f03f499cf5",
-      "title": "Waymo taps Toyota to supply robotaxis for Japan and the UK",
-      "url": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
+      "id": "d12607a6e474",
+      "title": "Anthropic expected to receive high &#8216;junk&#8217; rating from credit agencies following IPO, FT report says",
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "summary": "Anthropic expected to receive high &#8216;junk&#8217; rating from credit agencies following IPO, FT ",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-10-30T07:01:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Waymo_Toyota_bZ4X.jpg?resize=1200,675"
+      "published": "2026-10-30T21:52:03.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2282033342.jpg?w=1024",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "3f35d1d70306",
+      "title": "Applebee&#8217;s exposed customers&#8217; personal data after leaving database password in app",
+      "url": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/",
+      "summary": "Applebee&#8217;s exposed customers&#8217; personal data after leaving database password in app",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-10-30T21:48:53.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/applebees-501705240.jpg?resize=1200,899",
+      "score": 65,
+      "tags": []
     }
   ],
   "就业": [
@@ -134,50 +175,50 @@
       "tags": []
     },
     {
-      "id": "e2276e17b266",
-      "title": "[杭州][行业头部互联网] 招聘 AI Agent 算法相关工程师， Agentic、安全、虚拟陪伴相关",
-      "url": "https://www.v2ex.com/t/1252499#reply3",
-      "summary": "[杭州][行业头部互联网] 招聘 AI Agent 算法相关工程师， Agentic、安全、虚拟陪伴相关",
-      "source": "V2EX·招聘",
+      "id": "eb8173a64861",
+      "title": "美国网络安全招聘市场降温：岗位发布量大降26% AI安全工程师需求 ...",
+      "url": "https://www.msn.com/zh-cn/money/通用/美国网络安全招聘市场降温-岗位发布量大降26-ai安全工程师需求激增268/ar-AA2fyjrC",
+      "summary": "最新发布的一份美国网络安全就业市场报告显示，尽管整体招聘需求持续下滑并跌至近四年来最低水平，但与人工智能相关的网络安全岗位却逆势增长，其中AI安全工程师成为增长最快的职位之一。该报告由CyberSN发",
+      "source": "安全工程师·就业分析",
       "category": "就业",
-      "published": "2026-10-28T03:59:49.000Z",
-      "image": "https://cdn.v2ex.com/avatar/baf1/dea9/274099_large.png?m=1605772139",
+      "published": "2026-10-19T01:15:30.000Z",
+      "image": "",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "26c8ab7c2bbb",
+      "title": "CyberSN：2026年1-9月美国网络安全职位发布量235786个，同比下降26.4%",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-19/doc-inivumam6837930.shtml",
+      "summary": "从整体趋势来看，企业对于人工智能知识和技能的需求依然旺盛。2026年前九个月，接近15%的网络安全职位招聘信息提及AI相关能力，与2025年同期15",
+      "source": "安全工程师·就业分析",
+      "category": "就业",
+      "published": "2026-10-19T13:23:00.000Z",
+      "image": "https://n.sinaimg.cn/tech/zcapp2018/doc_qrcode1.png",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "858c4ad50b2a",
+      "title": "BOSS 直聘旗下 Nanbeige 开源 Nanbeige4.3-33B",
+      "url": "https://www.sohu.com/a/1092769811_100106801",
+      "summary": "10月26日消息，BOSS 直聘（Kanzhun Limited）旗下大模型实验室 Nanbeige（南北阁）通过官方 X 账号 @nanbeige 宣布开源 Nanbeige4。这是一个 33",
+      "source": "Bing·BOSS直聘",
+      "category": "就业",
+      "published": "2026-10-26T03:54:00.000Z",
+      "image": "https://q4.itc.cn/q_70/images03/20261026/a103e5ae943b4be795cb3916b34ce2e2.png",
       "score": 60,
       "tags": []
     },
     {
-      "id": "4cc46aca7d5c",
-      "title": "AI 低代码重构前端开发，11 月技术选型大洗牌",
-      "url": "https://www.sohu.com/a/1092855946_120620706",
-      "summary": "权威信号落地，往往比技术本身更能扰动市场。 2026 年 9 月底，Gartner 接连发布了两份与 AI 低代码直接相关的报告——《AI 增强低代码应用平台魔力象限》和配套的《关键能力》研究",
-      "source": "前端开发·就业分析",
+      "id": "4982b96f270a",
+      "title": "BOSS直聘Nanbeige开源33B语言模型，助力智能办公新趋势",
+      "url": "https://www.sohu.com/a/1092807322_122004016",
+      "summary": "10月26日消息，BOSS直聘旗下的Nanbeige（南北阁）大模型实验室通过官方X账号@nanbeige宣布，已开源其最新的语言模型——Nanbeige4。该模型拥有33",
+      "source": "Bing·BOSS直聘",
       "category": "就业",
-      "published": "2026-10-26T09:14:00.000Z",
-      "image": "//q1.itc.cn/images01/20261026/8eb9863287b047fc862126ea56b27394.png",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "bae180077cb0",
-      "title": "【罗曼股份】看好端侧推理发展，公司全栈模式有望抢占先机",
-      "url": "https://news.qq.com/rain/a/20261008A00I7200",
-      "summary": "近期，阿里旗下半导体公司平头哥在2026云栖大会主论坛上发布新一代训推一体AI芯片真武V900。此外，9月22日，海光信息在深圳发布1000系列CPU，这是海光首款嵌入式工控芯片，面向工业控制等物理世",
-      "source": "全栈工程师·就业分析",
-      "category": "就业",
-      "published": "2026-10-08T01:49:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/OHmQKg_KqZogWInsEdwyjiQxnuE7UHqJBmxK54ztnwpmYAA_640330/0",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "8564e2cbc333",
-      "title": "面了一个 AI Agent 全栈工程师，服了…… | 极客时间",
-      "url": "https://finance.sina.com.cn/roll/2026-09-21/doc-inisqeua8942355.shtml",
-      "summary": "我相信大家经过用 AI 干活这几年，可能已经离不开它了——写代码让它补，改 bug 让它查，看代码让它讲，分析表格，制作 PPT 等工作，感觉效率翻倍。 作为一名研发，可能老板丢下一句「你搭一个能用的",
-      "source": "全栈工程师·就业分析",
-      "category": "就业",
-      "published": "2026-09-20T21:21:00.000Z",
-      "image": "//n.sinaimg.cn/sinakd20260921s/400/w600h600/20260921/a0cf-c0fdf67bc2a043a53244f004ae58e76f.jpg",
+      "published": "2026-10-26T03:54:00.000Z",
+      "image": "",
       "score": 60,
       "tags": []
     }
@@ -246,14 +287,14 @@
   ],
   "政策": [
     {
-      "id": "c9e0e2c9da46",
-      "title": "《中国劳动保障报》头版头条报道我市传承红色血脉推进人社事业高 ...",
-      "url": "https://www.sohu.com/a/1092991077_121106832",
-      "summary": "10月20日，《中国劳动保障报》头版头条刊发《红军出发地 民生新答卷——江西瑞金传承红色血脉推进人社事业高质量发展纪实》，报道赣州瑞金市以红色血脉赋能民生保障、推动人社事业高质量发展的经验做法和实际成",
-      "source": "Bing·人社部就业创业政策",
+      "id": "e6c32086fd86",
+      "title": "最高可贷50万元，湖南优化政策为大学生创业送上金融“活水”",
+      "url": "https://edu.rednet.cn/content/646043/52/16288673.html",
+      "summary": "近日，湖南省出台《关于进一步优化创业担保贷款政策全力支持大学生等重点群体创业的通知》，扩大创业担保贷款覆盖范围、提高贷款额度、降低融资成本，拿出实打实举措，助力青年创新创业。 按照新政策，创业担保贷款",
+      "source": "就业创业政策",
       "category": "政策",
-      "published": "2026-10-26T12:05:00.000Z",
-      "image": "https://q2.itc.cn/q_70/images03/20261026/ed258561f0cd4217ba2a37f62beaa829.jpeg",
+      "published": "2026-09-18T01:57:00.000Z",
+      "image": "",
       "score": 55,
       "tags": []
     },
@@ -270,90 +311,52 @@
       "tags": []
     },
     {
-      "id": "f5cb39eaf8f6",
-      "title": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
-      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202606/t20260602_1438600.html",
-      "summary": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
-      "source": "教育部",
+      "id": "0101f178786e",
+      "title": "快乐向前冲･乐业在山东!就业政策进校园暨 “金秋启航” 临沂大学 ...",
+      "url": "https://news.qq.com/rain/a/20261027A0BULZ00",
+      "summary": "金秋筑梦，职启芳华。10月23日,“快乐向前冲･乐业在山东”2026年劳动力调查和就业政策进校园宣传服务活动暨 “金秋启航” 临沂大学校园招聘会在临沂大学举办",
+      "source": "Bing·大学生就业政策",
       "category": "政策",
-      "published": "2026-06-02T00:00:00.000Z",
-      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+      "published": "2026-10-27T11:22:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/OjTD0PyJFLX_3HdA9Icaherg0C4cpijSknUl9Ame_VEf4AA_640330/0",
       "score": 50,
       "tags": []
     },
     {
-      "id": "a3af074b2b9b",
-      "title": "2026-05-22教育部等八部门办公厅关于联合开展2026年度高校毕业生等重点群体促就业“国聘行动”的通知",
-      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202605/t20260522_1437356.html",
-      "summary": "2026-05-22教育部等八部门办公厅关于联合开展2026年度高校毕业生等重点群体促就业“国聘行动”的通知",
-      "source": "教育部",
+      "id": "94bf11e98121",
+      "title": "2026年甘肃省大学生就业引航示范宣讲会举办",
+      "url": "https://qnzz.youth.cn/qckc/202610/t20261025_16932241.htm",
+      "summary": "中国青年报客户端讯（中青报&#183;中青网记者 马富春 通讯员 张文琪）10月23日，由共青团甘肃省委、甘肃省学生联合会主办的“出彩人生‘就’在基层”2026年甘肃省大学生就业引航示范宣讲会（第三期",
+      "source": "Bing·大学生就业政策",
       "category": "政策",
-      "published": "2026-05-22T00:00:00.000Z",
-      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+      "published": "2026-10-24T17:00:00.000Z",
+      "image": "https://qnzz.youth.cn/images/20210809_tuanqi_new.png",
       "score": 50,
       "tags": []
     },
     {
-      "id": "20eed286abd8",
-      "title": "2026-04-24教育部办公厅 人力资源社会保障部办公厅关于开展2026年高校毕业生就业政策宣传活动的通知",
-      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202604/t20260423_1434600.html",
-      "summary": "2026-04-24教育部办公厅 人力资源社会保障部办公厅关于开展2026年高校毕业生就业政策宣传活动的通知",
-      "source": "教育部",
+      "id": "d31499a1e027",
+      "title": "有为青年创始人李宁出席四川青创公益百校行，受聘川影大学生创新 ...",
+      "url": "https://www.dzwww.com/xinwen/jishixinwen/202610/t20261027_18242545.htm",
+      "summary": "为深入推进青年创业就业工作，助力大学生创新创业实践，2026年10月22日，由四川省青年创业就业基金会、四川电影电视学院主办的“创响青春 聚力成长”四川青创公益百校行活动（四川电影电视学院专场），在川",
+      "source": "Bing·大学生就业政策",
       "category": "政策",
-      "published": "2026-04-23T00:00:00.000Z",
-      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+      "published": "2026-10-26T17:00:00.000Z",
+      "image": "https://www.dzwww.com/tpl/v2019/xilan/images/logo1.png",
       "score": 50,
       "tags": []
-    }
-  ],
-  "财经": [
-    {
-      "id": "ced966b21caf",
-      "title": "青海都兰：“蚕豆+”轮作解锁高原农业“绿色密码”",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723710.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-10-30T16:26:03.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "d33c65a8b472",
-      "title": "广东省制造业赋能陶瓷卫浴专场对接活动在潮州启动",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723703.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-10-30T16:22:55.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "d0d97a205e5f",
-      "title": "河北以数智化改革提升生态环境执法服务质效",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723692.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-10-30T16:10:50.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "3ebddc688592",
-      "title": "前9月中国国有企业利润总额同比增长3%",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-31/10723690.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-10-30T16:01:28.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "ab9cd395f176",
-      "title": "前三季度中国文化企业营业收入同比增长4.3%",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-30/10723686.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-10-30T15:59:17.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ],
   "开发": [
+    {
+      "id": "298e27644158",
+      "title": "终于不是 AI 了：Lambda 直接运行 Express，API Gateway 还需要吗？",
+      "url": "https://www.infoq.cn/article/fcdAAd69U452t9b39rLU?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-10-31T08:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/be/3f/bed55503e10aae7784f071a8e19e513f.jpg"
+    },
     {
       "id": "e9f07045e737",
       "title": "27 岁程序员获无限 Token，挑战两个月重写思科 98% 的遗留代码",
@@ -389,15 +392,6 @@
       "category": "开发",
       "published": "2026-10-30T17:00:00.000Z",
       "image": "https://static001.infoq.cn/resource/image/eb/13/eb87c01cff4b2eebd0421b75f6f45213.jpg"
-    },
-    {
-      "id": "2adce142cb7b",
-      "title": "超节点火了一年后，“算力不够就加机器”的扩张逻辑正在被改写",
-      "url": "https://www.infoq.cn/article/ZolBIJdvK5Icdqg6FB0X?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-10-30T15:45:06.000Z",
-      "image": "https://static001.infoq.cn/resource/image/ec/61/ec4159e9e0c9b43f0480dc06efbdc661.png"
     }
   ]
 }
