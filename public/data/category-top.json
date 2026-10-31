@@ -1,6 +1,30 @@
 {
   "AI": [
     {
+      "id": "8462b9fc7109",
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "summary": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-31T21:41:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2302418320.jpg?w=1024",
+      "score": 80,
+      "tags": []
+    },
+    {
+      "id": "9a46afb49d1d",
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "summary": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-31T21:17:03.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
+      "score": 80,
+      "tags": []
+    },
+    {
       "id": "149be8f7454b",
       "title": "OpenAI reportedly lowers funding target for new round",
       "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
@@ -9,7 +33,7 @@
       "category": "AI",
       "published": "2026-10-31T16:12:55.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
-      "score": 80,
+      "score": 75,
       "tags": []
     },
     {
@@ -47,7 +71,7 @@
       "category": "科技",
       "published": "2026-10-31T15:41:57.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259084458.jpg?resize=1200,801",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -59,7 +83,7 @@
       "category": "科技",
       "published": "2026-10-31T14:00:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-duo.jpeg?resize=1200,675",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -75,6 +99,18 @@
       "tags": []
     },
     {
+      "id": "ec476f3f219d",
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "summary": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-10-31T21:36:07.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-audience.jpg?resize=1200,800",
+      "score": 65,
+      "tags": []
+    },
+    {
       "id": "0f484a6d1367",
       "title": "Salesforce’s M&#038;A spree continues with a reported $375M deal for defense tech startup Rune",
       "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
@@ -85,71 +121,21 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2221463618.jpg?resize=1200,800",
       "score": 60,
       "tags": []
-    },
-    {
-      "id": "d12607a6e474",
-      "title": "Anthropic expected to receive high &#8216;junk&#8217; rating from credit agencies following IPO, FT report says",
-      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-      "summary": "Anthropic expected to receive high &#8216;junk&#8217; rating from credit agencies following IPO, FT ",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-10-30T21:52:03.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2282033342.jpg?w=1024",
-      "score": 60,
-      "tags": []
-    }
-  ],
-  "财经": [
-    {
-      "id": "c6d867f631df",
-      "title": "Intel&#8217;s stock crashes, knocking $12B from government&#8217;s stake",
-      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-      "summary": "Intel&#8217;s stock crashes, knocking $12B from government&#8217;s stake",
-      "source": "TechCrunch",
-      "category": "财经",
-      "published": "2026-10-30T21:54:34.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Intel-Lip-Bu-Tan-1.jpg?resize=1200,800",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "16934b0a827e",
-      "title": "广交会观察：彰显时尚价值 中国非遗潮品走俏海外市场",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724109.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-10-31T14:26:05.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "97dd4adbadc7",
-      "title": "国际金价跌回一年前，发生了什么？",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724098.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-10-31T14:12:16.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "fd5e38fbf0f5",
-      "title": "湖南株洲以“市+集+秀”激活时尚消费新生态",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724087.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-10-31T13:46:59.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "ec9b6b92dd4a",
-      "title": "海水养殖产量超2000万吨！深海好鱼如何“游”上百姓餐桌",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724079.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-10-31T13:14:47.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ],
   "就业": [
+    {
+      "id": "0955340deee2",
+      "title": "高顿携手腾讯WorkBuddy生态发布首款大学生实习就业AI Agent",
+      "url": "https://cn.chinadaily.com.cn/a/202609/03/WS6a98e41ce4b09a165c787b27.html",
+      "summary": "9月2日，腾讯WorkBuddy宣布开放平台正式上线，首批引入超百家生态伙伴，面向智能硬件、行业应用与开发者等开放底层Agent能力。其中高顿自主研发的“大学生实习就业助手”作为实习就业场景的标杆产品",
+      "source": "就业报告",
+      "category": "就业",
+      "published": "2026-09-03T03:36:00.000Z",
+      "image": "https://img3.chinadaily.com.cn/static/2024cn_articleandcolumn/img/Mobile/Artical_Share_Icon1.png",
+      "score": 65,
+      "tags": []
+    },
     {
       "id": "38ff1e7024fa",
       "title": "不会写代码也能做测试？校招测试岗的技能要求正在悄悄改变",
@@ -163,18 +149,6 @@
       "tags": []
     },
     {
-      "id": "26c8ab7c2bbb",
-      "title": "CyberSN：2026年1-9月美国网络安全职位发布量235786个，同比下降26.4%",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-10-19/doc-inivumam6837930.shtml",
-      "summary": "从整体趋势来看，企业对于人工智能知识和技能的需求依然旺盛。2026年前九个月，接近15%的网络安全职位招聘信息提及AI相关能力，与2025年同期15",
-      "source": "安全工程师·就业分析",
-      "category": "就业",
-      "published": "2026-10-19T13:23:00.000Z",
-      "image": "https://n.sinaimg.cn/tech/zcapp2018/doc_qrcode1.png",
-      "score": 65,
-      "tags": []
-    },
-    {
       "id": "eb8173a64861",
       "title": "美国网络安全招聘市场降温：岗位发布量大降26% AI安全工程师需求 ...",
       "url": "https://www.msn.com/zh-cn/money/通用/美国网络安全招聘市场降温-岗位发布量大降26-ai安全工程师需求激增268/ar-AA2fyjrC",
@@ -182,7 +156,20 @@
       "source": "安全工程师·就业分析",
       "category": "就业",
       "published": "2026-10-19T01:15:30.000Z",
+      "image": "",
       "score": 65,
+      "tags": []
+    },
+    {
+      "id": "858c4ad50b2a",
+      "title": "BOSS 直聘旗下 Nanbeige 开源 Nanbeige4.3-33B",
+      "url": "https://www.sohu.com/a/1092769811_100106801",
+      "summary": "10月26日消息，BOSS 直聘（Kanzhun Limited）旗下大模型实验室 Nanbeige（南北阁）通过官方 X 账号 @nanbeige 宣布开源 Nanbeige4。这是一个 33",
+      "source": "Bing·BOSS直聘",
+      "category": "就业",
+      "published": "2026-10-26T03:54:00.000Z",
+      "image": "https://q4.itc.cn/q_70/images03/20261026/a103e5ae943b4be795cb3916b34ce2e2.png",
+      "score": 60,
       "tags": []
     },
     {
@@ -194,18 +181,6 @@
       "category": "就业",
       "published": "2026-10-28T03:59:49.000Z",
       "image": "https://cdn.v2ex.com/avatar/baf1/dea9/274099_large.png?m=1605772139",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "4cc46aca7d5c",
-      "title": "AI 低代码重构前端开发，11 月技术选型大洗牌",
-      "url": "https://www.sohu.com/a/1092855946_120620706",
-      "summary": "权威信号落地，往往比技术本身更能扰动市场。 2026 年 9 月底，Gartner 接连发布了两份与 AI 低代码直接相关的报告——《AI 增强低代码应用平台魔力象限》和配套的《关键能力》研究",
-      "source": "前端开发·就业分析",
-      "category": "就业",
-      "published": "2026-10-26T09:14:00.000Z",
-      "image": "//q1.itc.cn/images01/20261026/8eb9863287b047fc862126ea56b27394.png",
       "score": 60,
       "tags": []
     }
@@ -274,18 +249,6 @@
   ],
   "政策": [
     {
-      "id": "c9e0e2c9da46",
-      "title": "《中国劳动保障报》头版头条报道我市传承红色血脉推进人社事业高 ...",
-      "url": "https://www.sohu.com/a/1092991077_121106832",
-      "summary": "10月20日，《中国劳动保障报》头版头条刊发《红军出发地 民生新答卷——江西瑞金传承红色血脉推进人社事业高质量发展纪实》，报道赣州瑞金市以红色血脉赋能民生保障、推动人社事业高质量发展的经验做法和实际成",
-      "source": "Bing·人社部就业创业政策",
-      "category": "政策",
-      "published": "2026-10-26T12:05:00.000Z",
-      "image": "https://q2.itc.cn/q_70/images03/20261026/ed258561f0cd4217ba2a37f62beaa829.jpeg",
-      "score": 55,
-      "tags": []
-    },
-    {
       "id": "e6c32086fd86",
       "title": "最高可贷50万元，湖南优化政策为大学生创业送上金融“活水”",
       "url": "https://edu.rednet.cn/content/646043/52/16288673.html",
@@ -295,30 +258,6 @@
       "published": "2026-09-18T01:57:00.000Z",
       "image": "",
       "score": 55,
-      "tags": []
-    },
-    {
-      "id": "b81f5f1dd29e",
-      "title": "“雏鹰计划”推广暨湖南省大学生（湘潭）创业投资基金签约投放 ...",
-      "url": "https://www.sohu.com/a/1094590273_121123789",
-      "summary": "10月29日，雏鹰振翅&#183;莲城启航——“雏鹰计划”推广暨湖南省大学生（湘潭）创业投资基金签约投放仪式在湘潭大学举行。市委书记胡贺波致辞，省财政事务中心党委书记、主任张明出席，湖南财信金融控股集",
-      "source": "Bing·大学生创业扶持政策",
-      "category": "政策",
-      "published": "2026-10-29T14:44:00.000Z",
-      "image": "https://q5.itc.cn/q_70/images03/20261029/ec56a0fc39334e958a9bb78dd337e53b.jpeg",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "b1016b249dba",
-      "title": "最高20万！济南集中发放525万创业启动金，79家大学生初创企业受惠",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-28/doc-iniwttsf9751863.shtml",
-      "summary": "“真金白银”的支持，是初创企业最需要的“及时雨”。 日前，济南市第一批大学生新创办企业资助项目资金集中发放活动在中国（济南）人力资源服务产业园举办",
-      "source": "Bing·大学生创业扶持政策",
-      "category": "政策",
-      "published": "2026-10-27T17:00:00.000Z",
-      "image": "//n.sinaimg.cn/front20261028ac/640/w720h720/20261028/d1df-da5d92beb144714b183bdd54d7f96582.jpg",
-      "score": 50,
       "tags": []
     },
     {
@@ -332,6 +271,89 @@
       "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
       "score": 50,
       "tags": []
+    },
+    {
+      "id": "a3af074b2b9b",
+      "title": "2026-05-22教育部等八部门办公厅关于联合开展2026年度高校毕业生等重点群体促就业“国聘行动”的通知",
+      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202605/t20260522_1437356.html",
+      "summary": "2026-05-22教育部等八部门办公厅关于联合开展2026年度高校毕业生等重点群体促就业“国聘行动”的通知",
+      "source": "教育部",
+      "category": "政策",
+      "published": "2026-05-22T00:00:00.000Z",
+      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "20eed286abd8",
+      "title": "2026-04-24教育部办公厅 人力资源社会保障部办公厅关于开展2026年高校毕业生就业政策宣传活动的通知",
+      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202604/t20260423_1434600.html",
+      "summary": "2026-04-24教育部办公厅 人力资源社会保障部办公厅关于开展2026年高校毕业生就业政策宣传活动的通知",
+      "source": "教育部",
+      "category": "政策",
+      "published": "2026-04-23T00:00:00.000Z",
+      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "4a7d237a17a2",
+      "title": "2026-01-16教育部办公厅等四部门关于开展高校毕业生异地求职“双惠”行动的通知",
+      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202601/t20260115_1426697.html",
+      "summary": "2026-01-16教育部办公厅等四部门关于开展高校毕业生异地求职“双惠”行动的通知",
+      "source": "教育部",
+      "category": "政策",
+      "published": "2026-01-15T00:00:00.000Z",
+      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+      "score": 50,
+      "tags": []
+    }
+  ],
+  "财经": [
+    {
+      "id": "16934b0a827e",
+      "title": "广交会观察：彰显时尚价值 中国非遗潮品走俏海外市场",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724109.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-10-31T14:26:05.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "97dd4adbadc7",
+      "title": "国际金价跌回一年前，发生了什么？",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724098.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-10-31T14:12:16.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "fd5e38fbf0f5",
+      "title": "湖南株洲以“市+集+秀”激活时尚消费新生态",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724087.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-10-31T13:46:59.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "ec9b6b92dd4a",
+      "title": "海水养殖产量超2000万吨！深海好鱼如何“游”上百姓餐桌",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724079.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-10-31T13:14:47.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "8b7b4a8c45e7",
+      "title": "今年前三季度 我国钢铁品种不断调整优化",
+      "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724078.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-10-31T13:12:45.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ],
   "开发": [
