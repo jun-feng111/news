@@ -1,4 +1,66 @@
 {
+  "科技": [
+    {
+      "id": "4d58d84f4f6a",
+      "title": "Pixel 11 Pro Fold: Sturdy rectengale in a wide wide world",
+      "url": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
+      "summary": "Pixel 11 Pro Fold: Sturdy rectengale in a wide wide world",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-01T15:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Pixel-11-fold-feat.jpg?resize=1200,675",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "308d14e49d9d",
+      "title": "Here’s what &#8216;renoa&#8217; — the first new fiber in 25 years — feels like",
+      "url": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
+      "summary": "Here’s what &#8216;renoa&#8217; — the first new fiber in 25 years — feels like",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-01T14:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_6045.jpeg?resize=1200,900",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "4876e27ef4f7",
+      "title": "Data centers are now a midterm issue, even in Brooklyn",
+      "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+      "summary": "Data centers are now a midterm issue, even in Brooklyn",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-01T02:22:10.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Newsreel-Midterm-Madness-22.jpg?resize=1200,800",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "5d341a2e3e3e",
+      "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
+      "url": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
+      "summary": "From restaurant guides to payments, here’s how TikTok is building a super app",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-10-31T15:41:57.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259084458.jpg?resize=1200,801",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "e94c7a3be5c3",
+      "title": "I took two iPhones on vacation. The Duo won me over.",
+      "url": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
+      "summary": "I took two iPhones on vacation。 The Duo won me over",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-10-31T14:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-duo.jpeg?resize=1200,675",
+      "score": 65,
+      "tags": []
+    }
+  ],
   "AI": [
     {
       "id": "8462b9fc7109",
@@ -35,83 +97,21 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
       "score": 75,
       "tags": []
-    },
-    {
-      "id": "ec6501562529",
-      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-      "summary": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-31T01:20:05.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2235971874.jpg?resize=1200,800",
-      "score": 70,
-      "tags": []
-    }
-  ],
-  "科技": [
-    {
-      "id": "4876e27ef4f7",
-      "title": "Data centers are now a midterm issue, even in Brooklyn",
-      "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
-      "summary": "Data centers are now a midterm issue, even in Brooklyn",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-01T02:22:10.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Newsreel-Midterm-Madness-22.jpg?resize=1200,800",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "5d341a2e3e3e",
-      "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
-      "url": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
-      "summary": "From restaurant guides to payments, here’s how TikTok is building a super app",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-10-31T15:41:57.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259084458.jpg?resize=1200,801",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "e94c7a3be5c3",
-      "title": "I took two iPhones on vacation. The Duo won me over.",
-      "url": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
-      "summary": "I took two iPhones on vacation。 The Duo won me over",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-10-31T14:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-duo.jpeg?resize=1200,675",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "254f6dcb91de",
-      "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
-      "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
-      "summary": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-10-31T04:16:50.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Beezer-and-Amit.jpg?w=799",
-      "score": 65,
-      "tags": []
-    },
-    {
-      "id": "ec476f3f219d",
-      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-      "summary": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-10-31T21:36:07.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-audience.jpg?resize=1200,800",
-      "score": 60,
-      "tags": []
     }
   ],
   "就业": [
+    {
+      "id": "e82658404d5d",
+      "title": "嵌入HR工作流，智联招聘发布B端Agent“智联小招”",
+      "url": "https://www.sohu.com/a/1095053127_110683",
+      "summary": "10月29日，智联招聘在2026腾讯全球数字生态大会上推出自主研发的B端招聘Agent（智能体）产品“智联小招”。同时，智联招聘与办公协同平台WorkBuddy达成深度生态合作，首次将“智联小招”的A",
+      "source": "Bing·智联招聘",
+      "category": "就业",
+      "published": "2026-10-30T11:53:00.000Z",
+      "image": "//q7.itc.cn/images01/20261030/c272d2c4791442868ff625fb7d90645c.jpeg",
+      "score": 65,
+      "tags": []
+    },
     {
       "id": "0955340deee2",
       "title": "高顿携手腾讯WorkBuddy生态发布首款大学生实习就业AI Agent",
@@ -132,7 +132,6 @@
       "source": "测试开发·就业分析",
       "category": "就业",
       "published": "2026-10-25T10:31:00.000Z",
-      "image": "",
       "score": 65,
       "tags": []
     },
@@ -144,7 +143,6 @@
       "source": "安全工程师·就业分析",
       "category": "就业",
       "published": "2026-10-19T01:15:30.000Z",
-      "image": "",
       "score": 65,
       "tags": []
     },
@@ -156,20 +154,7 @@
       "source": "安全工程师·就业分析",
       "category": "就业",
       "published": "2026-10-19T13:23:00.000Z",
-      "image": "https://n.sinaimg.cn/tech/zcapp2018/doc_qrcode1.png",
       "score": 65,
-      "tags": []
-    },
-    {
-      "id": "858c4ad50b2a",
-      "title": "BOSS 直聘旗下 Nanbeige 开源 Nanbeige4.3-33B",
-      "url": "https://www.sohu.com/a/1092769811_100106801",
-      "summary": "10月26日消息，BOSS 直聘（Kanzhun Limited）旗下大模型实验室 Nanbeige（南北阁）通过官方 X 账号 @nanbeige 宣布开源 Nanbeige4。这是一个 33",
-      "source": "Bing·BOSS直聘",
-      "category": "就业",
-      "published": "2026-10-26T03:54:00.000Z",
-      "image": "https://q4.itc.cn/q_70/images03/20261026/a103e5ae943b4be795cb3916b34ce2e2.png",
-      "score": 60,
       "tags": []
     }
   ],
@@ -187,43 +172,64 @@
       "tags": []
     },
     {
-      "id": "7eb3e6f85fde",
-      "title": "移动身份系统的密码学基础：ISO/IEC 18013-5 企业架构蓝图",
-      "url": "https://www.infoq.cn/article/9aUBUMmhC4s5mEJgXHDL?utm_source=rss&amp;utm_medium=article",
+      "id": "ea27ed29f156",
+      "title": ".NET 11 第 2 个候选版本发布，带来生产环境部署许可以及针对库、F#、MAUI 和 WinForms 的更新",
+      "url": "https://www.infoq.cn/article/A8YgLsG4VOhoJkUVq9Jq?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/A8YgLsG4VOhoJkUVq9Jq",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-11-01T14:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/cb/f4/cbe40a27bba1b1bc3aa7a2101dc63ef4.jpg"
+      "published": "2026-10-30T15:09:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/ab/fa/ab0d4ce5318d1e9063f3254ff534b1fa.jpg",
+      "score": 55,
+      "tags": []
     },
     {
-      "id": "10e6ad508732",
-      "title": "如果 AI 幻觉也有预算，超支之后该怎么办？",
-      "url": "https://www.infoq.cn/article/z8vQa2zzGyLiTxIZ8PXH?utm_source=rss&amp;utm_medium=article",
+      "id": "9b69d7758e40",
+      "title": "2026年AI技术演进与2027年趋势前瞻报告",
+      "url": "https://www.infoq.cn/minibook/lmVM6XjSDMpMb6QTbK0l?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/minibook/lmVM6XjSDMpMb6QTbK0l",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-11-01T10:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/75/5c/75a869d88a6f6a644fde1854ec7bfd5c.jpg"
+      "published": "2026-10-30T14:41:36.000Z",
+      "image": "https://static001.geekbang.org/static/infoq/img/infoq_icon.jpg",
+      "score": 55,
+      "tags": []
     },
     {
-      "id": "eaaca1f6d39e",
-      "title": "AI 编程导师挑战低端 Android 手机！不用服务器，Python 和 SQL 直接在浏览器里运行",
-      "url": "https://www.infoq.cn/article/HHgKMMKa8BNZYQuMFSMS?utm_source=rss&amp;utm_medium=article",
+      "id": "2adce142cb7b",
+      "title": "超节点火了一年后，“算力不够就加机器”的扩张逻辑正在被改写",
+      "url": "https://www.infoq.cn/article/ZolBIJdvK5Icdqg6FB0X?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/ZolBIJdvK5Icdqg6FB0X",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-10-31T20:43:05.000Z",
-      "image": "https://static001.infoq.cn/resource/image/25/04/25015ae7cff901afccf5a933f31fef04.png"
+      "published": "2026-10-30T15:45:06.000Z",
+      "image": "https://static001.infoq.cn/resource/image/ec/61/ec4159e9e0c9b43f0480dc06efbdc661.png",
+      "score": 50,
+      "tags": []
     },
     {
-      "id": "5fd133f8f2a1",
-      "title": "每天上千万次创建：Agent Sandbox 为什么会成为新算力形态？",
-      "url": "https://www.infoq.cn/video/4qjamMQLVIoZvytUQwpI?utm_source=rss&amp;utm_medium=article",
+      "id": "a7eef9dc3b6e",
+      "title": "复用已有计算结果，动态表增量刷新如何实现性能与成本双优化 ｜ 技术实践",
+      "url": "https://www.infoq.cn/article/xCFDK8KZvvDY5V1R0fqM?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-10-31T16:15:46.000Z",
-      "image": "https://static001.geekbang.org/static/infoq/img/infoq_icon.jpg"
+      "published": "2026-11-01T19:12:53.000Z",
+      "image": "https://static001.infoq.cn/resource/image/a4/a7/a4614f4c000aa734f68f5f75a874baa7.jpeg"
     }
   ],
   "政策": [
+    {
+      "id": "7e0649d6d0c5",
+      "title": "内地高校澳门大学生求职技能提升系列辅导讲座在京举办",
+      "url": "https://news.ifeng.com/c/8xeZfFj0k1y",
+      "summary": "新华社北京10月30日电（记者许晓静）以“AI赋能 职业启航”为主题的内地高校澳门大学生求职技能提升系列辅导讲座29至30日在京举办。就读于北京、天津、上海等地高校的200余名澳门大学生参加活动",
+      "source": "Bing·大学生就业政策",
+      "category": "政策",
+      "published": "2026-10-30T15:45:00.000Z",
+      "image": "https://x0.ifengimg.com/ucms/2019_38/AC5B8A2AE18AB61C7067AFFDBBCD12D16295DDA2_w121_h75.jpg",
+      "score": 55,
+      "tags": []
+    },
     {
       "id": "c9e0e2c9da46",
       "title": "《中国劳动保障报》头版头条报道我市传承红色血脉推进人社事业高 ...",
@@ -244,6 +250,7 @@
       "source": "就业创业政策",
       "category": "政策",
       "published": "2026-09-18T01:57:00.000Z",
+      "image": "",
       "score": 55,
       "tags": []
     },
@@ -260,18 +267,6 @@
       "tags": []
     },
     {
-      "id": "443b259f1ebe",
-      "title": "台山“家门口”创业就业服务站揭牌！返乡创业就业，一站搞定",
-      "url": "https://finance.sina.com.cn/wm/2026-10-29/doc-iniwwaxc8971452.shtml",
-      "summary": "为深化台山全市“村情大调研”成果转化运用，做好返乡人才回引“后半篇文章”，精准回应杰出乡亲、返乡大学生等群体创业就业需求，由台山市委组织部牵头打造的台山市“家门口”创业就业服务站10月27日正式揭牌运",
-      "source": "Bing·大学生就业政策",
-      "category": "政策",
-      "published": "2026-10-28T17:00:00.000Z",
-      "image": "//n.sinaimg.cn/front20261029ac/415/w608h607/20261029/66e6-649ef0c5ff3eba99207a6df37a05af5b.jpg",
-      "score": 50,
-      "tags": []
-    },
-    {
       "id": "d31499a1e027",
       "title": "有为青年创始人李宁出席四川青创公益百校行，受聘川影大学生创新 ...",
       "url": "https://www.dzwww.com/xinwen/jishixinwen/202610/t20261027_18242545.htm",
@@ -285,6 +280,18 @@
     }
   ],
   "社会": [
+    {
+      "id": "457cca3ec071",
+      "title": "北京发布人工智能赋能基础教育应用蓝皮书",
+      "url": "https://www.chinanews.com.cn/edu/2026/10-30/10723575.shtml",
+      "summary": "中新网北京10月30日电 (记者 陈杭)2026年北京市人工智能赋能基础教育实践创新研讨会29日在北京第五实验学校举办。本次研讨会以“数智赋能育人场景、课题驱动创新探索”为主题，汇聚市区教育管理者、一",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-10-30T12:24:46.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
+    },
     {
       "id": "789a1e47036d",
       "title": "推动岐黄“出海” 专家学者热议中医药高等教育国际合作",
@@ -310,6 +317,18 @@
       "tags": []
     },
     {
+      "id": "93b571a12777",
+      "title": "2026中国国际教育展今天在京开幕",
+      "url": "https://www.chinanews.com.cn/edu/2026/10-30/10723473.shtml",
+      "summary": "今天(30日)，作为第27届中国国际教育年会的重要活动之一 ，2026中国国际教育展在京开幕，吸引35个国家和地区的415所院校与机构参展，规模创过去五年新高。有留学打算的学生和家长可以和意向高校面对",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-10-30T09:15:45.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 40,
+      "tags": []
+    },
+    {
       "id": "5db00a26ad7e",
       "title": "第九届“中国—东盟青年风汇”在京举行",
       "url": "https://www.chinanews.com.cn/edu/2026/10-28/10722381.shtml",
@@ -320,73 +339,52 @@
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 40,
       "tags": []
-    },
-    {
-      "id": "bc0214083eab",
-      "title": "事关孩子健康 4项新规11月起将正式实施",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-28/10722228.shtml",
-      "summary": "11月1日起，四项与孩子健康息息相关的新规将正式实施——教室照明更讲究，护眼标准从“看得清”升级为“看得健康”；体育培训有规矩，师资、场地、人数、安全都要守底线；儿童用品有了首个全品类强制性国标，通用",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-10-28T08:03:00.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 40,
-      "tags": []
-    },
-    {
-      "id": "6f8622683988",
-      "title": "打着“无硫”旗号实则超标！熏硫白芷线上线下仍在偷偷售卖",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724332.shtml",
-      "source": "中新网社会",
-      "category": "社会",
-      "published": "2026-11-01T08:22:42.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ],
   "财经": [
     {
-      "id": "60ae16e07ee2",
-      "title": "山西开行首列储备粮公铁联运班列   “门到门”助储备粮运输降本增效",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724327.shtml",
+      "id": "d2fbd7eb0716",
+      "title": "厦门首条邮轮无目的地海上游航线启航",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724517.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-01T08:39:31.000Z",
+      "published": "2026-11-01T15:22:53.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "fe4eb92aee2d",
-      "title": "一支钢笔、一件毛衫，如何打开全球市场？",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724336.shtml",
+      "id": "fc3d0793bc47",
+      "title": "“理财产品要变相保本了”是误读政策",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724506.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-01T08:28:49.000Z",
+      "published": "2026-11-01T13:41:36.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "d0fb2af992f6",
-      "title": "前三季度中国物流业总收入达11.1万亿元 保持扩张态势",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724321.shtml",
+      "id": "9410368adee2",
+      "title": "胶囊胃镜、手术机器人亮相广交会 中国医疗设备加速出海",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724504.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-01T08:17:48.000Z",
+      "published": "2026-11-01T13:28:09.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "e1e438749c72",
-      "title": "广交会观察：AI玩具陪伴交互功能助企业收获海外订单",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724304.shtml",
+      "id": "63f19a16e6f0",
+      "title": "以一座城的名义致敬企业家 海内外宁商齐聚福建宁德叙乡谊话发展",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724500.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-01T07:23:53.000Z",
+      "published": "2026-11-01T13:16:02.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "00950fdda78c",
-      "title": "中国铁路部门启动“双11”网购高峰期快件运输服务",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724288.shtml",
+      "id": "3f32ae337c82",
+      "title": "钢铁智能制造相关国家标准发布 让智能体系建设有章可循",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724492.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-01T06:42:13.000Z",
+      "published": "2026-11-01T12:51:47.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]

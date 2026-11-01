@@ -1,0 +1,7 @@
+{
+  "id": "f537921bd71b",
+  "title": "汉字典籍关系库 - 周永恒",
+  "url": "https://www.cnblogs.com/Zhouyongh/p/23513102",
+  "contentZh": "",
+  "contentFull": "\n　　上一篇 整理了汉字字形 SVG 库：每字一个文件，建立起了字形。\n　　这一篇建立一套以汉字为索引、贯穿多部典籍的关系库。查一个汉字，就能看到各个典籍对它的解释、注解、部首、字形、异体、构件之间的关系。\n预览\n　　预览地址： https://zhouyongh.github.io/hanzi-relations/viewer/index.html\n\n　　输入字即可查看，包括同部、异体、同声符的字格，其中正文按来源分块，每块标条数。\n　　如「和」：康熙 10 条、段注 2 条、許慎原文 2 条。没有收录时，显示「未收此字」，《爾雅》这一列就是这种情形。\n有什么\n\n\n\n列\n字头\n陈述\n例\n\n\n\n\n《康熙字典》\n46,815\n138,645\n说解 + 条目内引书、注音、义项\n\n\n段玉裁《說文解字注》\n9,343\n34,482\n逐句注文，回指所注原文\n\n\n許慎《說文解字》原文\n11,037\n21,506\n释义 + 反切\n\n\n《爾雅》\n997\n1,388\n「月在甲曰畢」一类训释\n\n\n\n　　共 57,917 个字头、196,021 条陈述、371,276 条关系。另有 540 部、字形指针 9,746 条。\n查询\nSELECT edition_id, COUNT(*) AS n\nFROM statements\nWHERE char_id IN (SELECT char_id FROM characters WHERE head = '和')\nGROUP BY edition_id ORDER BY n DESC;\n-- kangxi_dict 10 / shuowen_xu_shen 2 / shuowen_duan_yucai 2\n\n储存方式\n　　列储存，可扩展。\n　　data/ 里是 JSONL，一条陈述一行：原文、出处、许可、定位（卷/部/条号）。按来源分目录，一源一块，需要时可整块移除。\n　　关系单独一张边表，只存指针：字持有哪些陈述、哪条注在哪条原文上、字属哪部、字与字是否异体。内容与关系分开，改关系不动原文。\n　　SQLite 与浏览页都是产物，python src/build_sqlite.py、python src/build_viewer.py 重建，不入库。\n扩展方式\n　　加一部典籍，四样东西：\n\n来源：data/sources.jsonl 加一条，写许可、地址、能否再分发。\n描述列：data/columns.jsonl 加一条，这一列是什么书、提供哪几类内容。\n陈述：data/provenance/<source_id>/ 一个目录，一条一行，带出处。\n关系库：db/bundle-<name>.db，装这一列的陈述与相关边。\n\n　　然后重建 SQLite 与浏览页。装上一个 .db 查一列，删除是整体删。列可以只装一部分——想要段注加《玉篇》对照，可只装两列。\n仓库\n　　https://github.com/zhouyongh/hanzi-relations\n结语\n　　数据带出处与许可，逐条可查。\n　　逐步搭建中，期望把汉字应用的基础搭好。\n\n\n"
+}

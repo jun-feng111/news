@@ -1,31 +1,14 @@
 {
-  "updated": "2026-11-01T08:48:44.000Z",
-  "count": 120,
+  "updated": "2026-11-01T15:50:07.883Z",
+  "count": 118,
   "sources": {
-    "V2EX": 8,
+    "V2EX": 7,
     "RemoteOK": 99,
-    "Remotive": 13,
+    "Remotive": 12,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
   "jobs": [
-    {
-      "id": "v2ex-1253538",
-      "title": "[内推]交易所长期招聘开发/测试/安全/运维/产品/运营等远程岗位",
-      "company": "szRECU",
-      "location": "远程/全职",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [],
-      "category": "测试",
-      "postedDate": "2026-11-01",
-      "url": "https://www.v2ex.com/t/1253538",
-      "source": "V2EX",
-      "region": "domestic"
-    },
     {
       "id": "v2ex-1253332",
       "title": "我新上线一个小项目，帮大家快速查找大厂外企工作的，求职者营地： qzzyd.com。",
@@ -2365,36 +2348,6 @@
       "category": "Software Development",
       "postedDate": "2026-10-02",
       "url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091133",
-      "source": "Remotive",
-      "region": "foreign"
-    },
-    {
-      "id": "remotive-2091132",
-      "title": "Senior back-end Engineer",
-      "company": "Lemon.io",
-      "location": "Europe, USA, UK, Canada, Australia, Ireland, Switzerland, Singapore, Mexico, Iceland, Norway",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        ".Net",
-        "android",
-        "C",
-        "C#",
-        "C++",
-        "data science",
-        "golang",
-        "ios",
-        "java",
-        "javascript",
-        "kubernetes",
-        "node.js"
-      ],
-      "category": "Software Development",
-      "postedDate": "2026-09-30",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132",
       "source": "Remotive",
       "region": "foreign"
     },
