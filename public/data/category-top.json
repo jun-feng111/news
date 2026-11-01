@@ -1,10 +1,34 @@
 {
   "科技": [
     {
+      "id": "164b9e817196",
+      "title": "TechCrunch Mobility: A new, bigger AV boom is here",
+      "url": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
+      "summary": "TechCrunch Mobility: A new, bigger AV boom is here",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-01T17:04:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/robotaxi-illustration.jpg?resize=1200,1058",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "b8ce70dc3eb8",
+      "title": "Binance resumes withdrawals following $6.3 billion breach",
+      "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
+      "summary": "Binance resumes withdrawals following $6。3 billion breach",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-01T16:20:10.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/binance-2206279918.jpg?resize=1200,800",
+      "score": 75,
+      "tags": []
+    },
+    {
       "id": "4d58d84f4f6a",
-      "title": "Pixel 11 Pro Fold: Sturdy rectengale in a wide wide world",
+      "title": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
       "url": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
-      "summary": "Pixel 11 Pro Fold: Sturdy rectengale in a wide wide world",
+      "summary": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
       "source": "TechCrunch",
       "category": "科技",
       "published": "2026-11-01T15:00:00.000Z",
@@ -21,7 +45,7 @@
       "category": "科技",
       "published": "2026-11-01T14:00:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_6045.jpeg?resize=1200,900",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -34,30 +58,6 @@
       "published": "2026-11-01T02:22:10.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Newsreel-Midterm-Madness-22.jpg?resize=1200,800",
       "score": 70,
-      "tags": []
-    },
-    {
-      "id": "5d341a2e3e3e",
-      "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
-      "url": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
-      "summary": "From restaurant guides to payments, here’s how TikTok is building a super app",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-10-31T15:41:57.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259084458.jpg?resize=1200,801",
-      "score": 65,
-      "tags": []
-    },
-    {
-      "id": "e94c7a3be5c3",
-      "title": "I took two iPhones on vacation. The Duo won me over.",
-      "url": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
-      "summary": "I took two iPhones on vacation。 The Duo won me over",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-10-31T14:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-duo.jpeg?resize=1200,675",
-      "score": 65,
       "tags": []
     }
   ],
@@ -95,7 +95,7 @@
       "category": "AI",
       "published": "2026-10-31T16:12:55.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
-      "score": 75,
+      "score": 70,
       "tags": []
     }
   ],
@@ -132,6 +132,7 @@
       "source": "测试开发·就业分析",
       "category": "就业",
       "published": "2026-10-25T10:31:00.000Z",
+      "image": "",
       "score": 65,
       "tags": []
     },
@@ -143,6 +144,7 @@
       "source": "安全工程师·就业分析",
       "category": "就业",
       "published": "2026-10-19T01:15:30.000Z",
+      "image": "",
       "score": 65,
       "tags": []
     },
@@ -154,11 +156,24 @@
       "source": "安全工程师·就业分析",
       "category": "就业",
       "published": "2026-10-19T13:23:00.000Z",
+      "image": "https://n.sinaimg.cn/tech/zcapp2018/doc_qrcode1.png",
       "score": 65,
       "tags": []
     }
   ],
   "开发": [
+    {
+      "id": "d67ed2c774c2",
+      "title": "AI+垂类Agent：任务跑得久、工具用得熟，撑不起Agent公司长期竞争力｜贝联珠贯创始人兼CEO 毕玄分享",
+      "url": "https://www.infoq.cn/article/sCKczimP9lSEl0rgJ7VY?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/sCKczimP9lSEl0rgJ7VY",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-10-30T19:27:01.000Z",
+      "image": "https://static001.infoq.cn/resource/image/34/f6/340f7be06b3af34438bb2df87a042bf6.jpg",
+      "score": 60,
+      "tags": []
+    },
     {
       "id": "8060ae2fb442",
       "title": "科技爱好者周刊（第 417 期）：不要让 AI 代表你",
@@ -169,6 +184,18 @@
       "published": "2026-10-30T00:13:03.000Z",
       "image": "",
       "score": 60,
+      "tags": []
+    },
+    {
+      "id": "6ee5c11a991a",
+      "title": "AI+社区：「模力工场」连接AI供需，补上信任缺口｜极客邦科技创始人兼CEO 霍太稳分享",
+      "url": "https://www.infoq.cn/article/f3FdeDczctAdHMhvBdKw?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/f3FdeDczctAdHMhvBdKw",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-10-30T18:53:48.000Z",
+      "image": "https://static001.infoq.cn/resource/image/7a/63/7a8eb3bfd2d9e3efe30ccb43db905b63.jpg",
+      "score": 55,
       "tags": []
     },
     {
@@ -194,42 +221,9 @@
       "image": "https://static001.geekbang.org/static/infoq/img/infoq_icon.jpg",
       "score": 55,
       "tags": []
-    },
-    {
-      "id": "2adce142cb7b",
-      "title": "超节点火了一年后，“算力不够就加机器”的扩张逻辑正在被改写",
-      "url": "https://www.infoq.cn/article/ZolBIJdvK5Icdqg6FB0X?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/ZolBIJdvK5Icdqg6FB0X",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-10-30T15:45:06.000Z",
-      "image": "https://static001.infoq.cn/resource/image/ec/61/ec4159e9e0c9b43f0480dc06efbdc661.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "a7eef9dc3b6e",
-      "title": "复用已有计算结果，动态表增量刷新如何实现性能与成本双优化 ｜ 技术实践",
-      "url": "https://www.infoq.cn/article/xCFDK8KZvvDY5V1R0fqM?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-01T19:12:53.000Z",
-      "image": "https://static001.infoq.cn/resource/image/a4/a7/a4614f4c000aa734f68f5f75a874baa7.jpeg"
     }
   ],
   "政策": [
-    {
-      "id": "7e0649d6d0c5",
-      "title": "内地高校澳门大学生求职技能提升系列辅导讲座在京举办",
-      "url": "https://news.ifeng.com/c/8xeZfFj0k1y",
-      "summary": "新华社北京10月30日电（记者许晓静）以“AI赋能 职业启航”为主题的内地高校澳门大学生求职技能提升系列辅导讲座29至30日在京举办。就读于北京、天津、上海等地高校的200余名澳门大学生参加活动",
-      "source": "Bing·大学生就业政策",
-      "category": "政策",
-      "published": "2026-10-30T15:45:00.000Z",
-      "image": "https://x0.ifengimg.com/ucms/2019_38/AC5B8A2AE18AB61C7067AFFDBBCD12D16295DDA2_w121_h75.jpg",
-      "score": 55,
-      "tags": []
-    },
     {
       "id": "c9e0e2c9da46",
       "title": "《中国劳动保障报》头版头条报道我市传承红色血脉推进人社事业高 ...",
@@ -250,7 +244,6 @@
       "source": "就业创业政策",
       "category": "政策",
       "published": "2026-09-18T01:57:00.000Z",
-      "image": "",
       "score": 55,
       "tags": []
     },
@@ -267,14 +260,26 @@
       "tags": []
     },
     {
-      "id": "d31499a1e027",
-      "title": "有为青年创始人李宁出席四川青创公益百校行，受聘川影大学生创新 ...",
-      "url": "https://www.dzwww.com/xinwen/jishixinwen/202610/t20261027_18242545.htm",
-      "summary": "为深入推进青年创业就业工作，助力大学生创新创业实践，2026年10月22日，由四川省青年创业就业基金会、四川电影电视学院主办的“创响青春 聚力成长”四川青创公益百校行活动（四川电影电视学院专场），在川",
+      "id": "92e955bd9bc1",
+      "title": "支持济青烟率先打造北方区域性就业聚集地！山东印发实施就业优先 ...",
+      "url": "https://news.qq.com/rain/a/20261027A05SP200",
+      "summary": "山东省人民政府关于印发《山东省实施就业优先战略“十五五”规划》的通知鲁政发〔2026〕21号各市人民政府，各县（市、区）人民政府，省政府各部门、各直属机构，各大企业，各高等院校：现将《山东省实施就业优",
+      "source": "就业创业政策",
+      "category": "政策",
+      "published": "2026-10-27T04:26:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/OvRH0XxNoKV2dR3Rto8d_YactKHbp8NvtZ2AgxjkLnH3kAA_640330/0",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "1906a6a90d32",
+      "title": "快乐向前冲&#183;乐业在山东！ 2026劳动力调查和就业政策进校园宣传服务 ...",
+      "url": "https://news.qq.com/rain/a/20261028A0AC6C00",
+      "summary": "10月29日 14:30，2026劳动力调查和就业政策进校园宣传服务活动山东政法学院站等你来。 地点：山东政法学院茂岭山校区东操场西侧 找工作这事，光靠刷手机可不够",
       "source": "Bing·大学生就业政策",
       "category": "政策",
-      "published": "2026-10-26T17:00:00.000Z",
-      "image": "https://www.dzwww.com/tpl/v2019/xilan/images/logo1.png",
+      "published": "2026-10-28T10:03:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/OxRpe2VeANzTzvChNaum1faJezT3hGDbxeYjv2fgmKtMMAA_640330/0",
       "score": 50,
       "tags": []
     }
@@ -343,6 +348,15 @@
   ],
   "财经": [
     {
+      "id": "4fd3a296e121",
+      "title": "“欧佩克+”主要产油国决定12月维持产量不变",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724524.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-11-01T16:29:51.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
       "id": "d2fbd7eb0716",
       "title": "厦门首条邮轮无目的地海上游航线启航",
       "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724517.shtml",
@@ -376,15 +390,6 @@
       "source": "中新网财经",
       "category": "财经",
       "published": "2026-11-01T13:16:02.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "3f32ae337c82",
-      "title": "钢铁智能制造相关国家标准发布 让智能体系建设有章可循",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724492.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-11-01T12:51:47.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
