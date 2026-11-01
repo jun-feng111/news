@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T22:17:32.148Z",
+  "updated": "2026-11-01T01:55:37.744Z",
   "count": 119,
   "sources": {
     "V2EX": 7,
@@ -164,6 +164,35 @@
       "url": "https://www.v2ex.com/t/1252864",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "remoteok-1137608",
+      "title": "Scientific Account Executive",
+      "company": "Adaptyv",
+      "location": "Lausanne",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "design",
+        "technical",
+        "customer support",
+        "dev",
+        "api",
+        "exec",
+        "sales",
+        "golang",
+        "biotech",
+        "engineer",
+        "digital nomad"
+      ],
+      "category": "design",
+      "postedDate": "2026-10-31",
+      "url": "https://remoteOK.com/remote-jobs/remote-scientific-account-executive-adaptyv-1137608",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137607",
@@ -3112,31 +3141,6 @@
       "category": "infosec",
       "postedDate": "2026-08-17",
       "url": "https://remoteOK.com/remote-jobs/remote-hotline-paralegal-legal-services-nyc-1136861",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1136844",
-      "title": "Senior Contracts and Budget Associate",
-      "company": "Precision Medicine Group",
-      "location": "South Korea",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "supervisor",
-        "customer support",
-        "exec",
-        "senior",
-        "ops",
-        "legal",
-        "biotech"
-      ],
-      "category": "supervisor",
-      "postedDate": "2026-08-17",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-contracts-and-budget-associate-precision-medicine-group-1136844",
       "source": "RemoteOK",
       "region": "foreign"
     }
