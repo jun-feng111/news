@@ -9,7 +9,7 @@
       "category": "AI",
       "published": "2026-10-31T21:41:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2302418320.jpg?w=1024",
-      "score": 80,
+      "score": 75,
       "tags": []
     },
     {
@@ -21,7 +21,7 @@
       "category": "AI",
       "published": "2026-10-31T21:17:03.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
-      "score": 80,
+      "score": 75,
       "tags": []
     },
     {
@@ -47,21 +47,21 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2235971874.jpg?resize=1200,800",
       "score": 70,
       "tags": []
-    },
-    {
-      "id": "d319498a5eb3",
-      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-      "summary": "Ollie, a privacy-focused AI assistant, is shutting down",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-30T22:56:13.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Ollie_Hero.png?resize=1200,847",
-      "score": 70,
-      "tags": []
     }
   ],
   "科技": [
+    {
+      "id": "4876e27ef4f7",
+      "title": "Data centers are now a midterm issue, even in Brooklyn",
+      "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+      "summary": "Data centers are now a midterm issue, even in Brooklyn",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-01T02:22:10.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Newsreel-Midterm-Madness-22.jpg?resize=1200,800",
+      "score": 70,
+      "tags": []
+    },
     {
       "id": "5d341a2e3e3e",
       "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
@@ -95,7 +95,7 @@
       "category": "科技",
       "published": "2026-10-31T04:16:50.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Beezer-and-Amit.jpg?w=799",
-      "score": 70,
+      "score": 65,
       "tags": []
     },
     {
@@ -107,19 +107,7 @@
       "category": "科技",
       "published": "2026-10-31T21:36:07.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-audience.jpg?resize=1200,800",
-      "score": 65,
-      "tags": []
-    },
-    {
-      "id": "0f484a6d1367",
-      "title": "Salesforce’s M&#038;A spree continues with a reported $375M deal for defense tech startup Rune",
-      "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
-      "summary": "Salesforce’s M&#038;A spree continues with a reported $375M deal for defense tech startup Rune",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-10-30T23:21:23.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2221463618.jpg?resize=1200,800",
-      "score": 55,
+      "score": 60,
       "tags": []
     }
   ],
@@ -199,6 +187,24 @@
       "tags": []
     },
     {
+      "id": "7eb3e6f85fde",
+      "title": "移动身份系统的密码学基础：ISO/IEC 18013-5 企业架构蓝图",
+      "url": "https://www.infoq.cn/article/9aUBUMmhC4s5mEJgXHDL?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-01T14:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/cb/f4/cbe40a27bba1b1bc3aa7a2101dc63ef4.jpg"
+    },
+    {
+      "id": "10e6ad508732",
+      "title": "如果 AI 幻觉也有预算，超支之后该怎么办？",
+      "url": "https://www.infoq.cn/article/z8vQa2zzGyLiTxIZ8PXH?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-01T10:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/75/5c/75a869d88a6f6a644fde1854ec7bfd5c.jpg"
+    },
+    {
       "id": "eaaca1f6d39e",
       "title": "AI 编程导师挑战低端 Android 手机！不用服务器，Python 和 SQL 直接在浏览器里运行",
       "url": "https://www.infoq.cn/article/HHgKMMKa8BNZYQuMFSMS?utm_source=rss&amp;utm_medium=article",
@@ -215,24 +221,6 @@
       "category": "开发",
       "published": "2026-10-31T16:15:46.000Z",
       "image": "https://static001.geekbang.org/static/infoq/img/infoq_icon.jpg"
-    },
-    {
-      "id": "d88a2bc9e5f0",
-      "title": "一边拥抱 JDK 27，一边保留 JDK 21：Helidon 开启双轨发布",
-      "url": "https://www.infoq.cn/article/qRZCxTQbL1CwAUy28Zm8?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-10-31T15:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/b7/2b/b7fa112fa68f59ea586eea8590879c2b.jpeg"
-    },
-    {
-      "id": "10ce773c691d",
-      "title": "当AI从“会想”走向“会干”——腾讯云与英特尔共筑Agentic AI执行新底座",
-      "url": "https://www.infoq.cn/article/acC46slIVKJg1O0ac8w4?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-10-31T14:49:01.000Z",
-      "image": "https://static001.infoq.cn/resource/image/69/e4/699a625c708d36b143755b859fc461e4.png"
     }
   ],
   "政策": [
@@ -256,7 +244,6 @@
       "source": "就业创业政策",
       "category": "政策",
       "published": "2026-09-18T01:57:00.000Z",
-      "image": "",
       "score": 55,
       "tags": []
     },
@@ -273,6 +260,18 @@
       "tags": []
     },
     {
+      "id": "443b259f1ebe",
+      "title": "台山“家门口”创业就业服务站揭牌！返乡创业就业，一站搞定",
+      "url": "https://finance.sina.com.cn/wm/2026-10-29/doc-iniwwaxc8971452.shtml",
+      "summary": "为深化台山全市“村情大调研”成果转化运用，做好返乡人才回引“后半篇文章”，精准回应杰出乡亲、返乡大学生等群体创业就业需求，由台山市委组织部牵头打造的台山市“家门口”创业就业服务站10月27日正式揭牌运",
+      "source": "Bing·大学生就业政策",
+      "category": "政策",
+      "published": "2026-10-28T17:00:00.000Z",
+      "image": "//n.sinaimg.cn/front20261029ac/415/w608h607/20261029/66e6-649ef0c5ff3eba99207a6df37a05af5b.jpg",
+      "score": 50,
+      "tags": []
+    },
+    {
       "id": "d31499a1e027",
       "title": "有为青年创始人李宁出席四川青创公益百校行，受聘川影大学生创新 ...",
       "url": "https://www.dzwww.com/xinwen/jishixinwen/202610/t20261027_18242545.htm",
@@ -281,18 +280,6 @@
       "category": "政策",
       "published": "2026-10-26T17:00:00.000Z",
       "image": "https://www.dzwww.com/tpl/v2019/xilan/images/logo1.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "b81f5f1dd29e",
-      "title": "“雏鹰计划”推广暨湖南省大学生（湘潭）创业投资基金签约投放 ...",
-      "url": "https://www.sohu.com/a/1094590273_121123789",
-      "summary": "10月29日，雏鹰振翅&#183;莲城启航——“雏鹰计划”推广暨湖南省大学生（湘潭）创业投资基金签约投放仪式在湘潭大学举行。市委书记胡贺波致辞，省财政事务中心党委书记、主任张明出席，湖南财信金融控股集",
-      "source": "Bing·大学生创业扶持政策",
-      "category": "政策",
-      "published": "2026-10-29T14:44:00.000Z",
-      "image": "https://q5.itc.cn/q_70/images03/20261029/ec56a0fc39334e958a9bb78dd337e53b.jpeg",
       "score": 50,
       "tags": []
     }
@@ -347,59 +334,59 @@
       "tags": []
     },
     {
-      "id": "11223076d99a",
-      "title": "最大风力15级 台风“烟花”今日原地回旋",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724132.shtml",
+      "id": "6f8622683988",
+      "title": "打着“无硫”旗号实则超标！熏硫白芷线上线下仍在偷偷售卖",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-01/10724332.shtml",
       "source": "中新网社会",
       "category": "社会",
-      "published": "2026-11-01T00:28:03.000Z",
+      "published": "2026-11-01T08:22:42.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ],
   "财经": [
     {
-      "id": "a4bb2dd7b4d6",
-      "title": "老裘都遇见新科技 AI赋能衡水大营裘皮产业拓时尚新局",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724161.shtml",
+      "id": "60ae16e07ee2",
+      "title": "山西开行首列储备粮公铁联运班列   “门到门”助储备粮运输降本增效",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724327.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-01T01:28:44.000Z",
+      "published": "2026-11-01T08:39:31.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "f8ee7bb62205",
-      "title": "中瑞自贸协定升级 瑞士商会人士看好合作新机遇",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724153.shtml",
+      "id": "fe4eb92aee2d",
+      "title": "一支钢笔、一件毛衫，如何打开全球市场？",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724336.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-01T01:14:21.000Z",
+      "published": "2026-11-01T08:28:49.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "4dbf2905efa2",
-      "title": "三大创新特征显现！2027年度中国汽车十大技术趋势发布",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724134.shtml",
+      "id": "d0fb2af992f6",
+      "title": "前三季度中国物流业总收入达11.1万亿元 保持扩张态势",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724321.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-01T00:28:53.000Z",
+      "published": "2026-11-01T08:17:48.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "16934b0a827e",
-      "title": "广交会观察：彰显时尚价值 中国非遗潮品走俏海外市场",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724109.shtml",
+      "id": "e1e438749c72",
+      "title": "广交会观察：AI玩具陪伴交互功能助企业收获海外订单",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724304.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-31T14:26:05.000Z",
+      "published": "2026-11-01T07:23:53.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "97dd4adbadc7",
-      "title": "国际金价跌回一年前，发生了什么？",
-      "url": "https://www.chinanews.com.cn/cj/2026/10-31/10724098.shtml",
+      "id": "00950fdda78c",
+      "title": "中国铁路部门启动“双11”网购高峰期快件运输服务",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724288.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-10-31T14:12:16.000Z",
+      "published": "2026-11-01T06:42:13.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
