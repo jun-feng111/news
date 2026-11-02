@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T20:15:59.078Z",
+  "updated": "2026-11-02T00:21:22.824Z",
   "count": 118,
   "sources": {
     "V2EX": 7,
@@ -164,6 +164,36 @@
       "url": "https://www.v2ex.com/t/1252864",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "remoteok-1137609",
+      "title": "Partner Operations Manager",
+      "company": "Mecka",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "exec",
+        "design",
+        "education",
+        "customer support",
+        "marketing",
+        "quality assurance",
+        "finance",
+        "robotics",
+        "ops",
+        "recruiter",
+        "engineer",
+        "digital nomad"
+      ],
+      "category": "exec",
+      "postedDate": "2026-11-01",
+      "url": "https://remoteOK.com/remote-jobs/remote-partner-operations-manager-mecka-1137609",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137608",
@@ -2270,27 +2300,6 @@
       "postedDate": "2026-10-04",
       "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
       "source": "Remotive",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137461",
-      "title": "Head of Operations",
-      "company": "Leverage Live Local",
-      "location": "Remote",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "non tech",
-        "ops",
-        "exec"
-      ],
-      "category": "non tech",
-      "postedDate": "2026-10-03",
-      "url": "https://remoteOK.com/remote-jobs/remote-head-of-operations-leverage-live-local-1137461",
-      "source": "RemoteOK",
       "region": "foreign"
     },
     {
