@@ -1,55 +1,17 @@
 {
-  "AI": [
-    {
-      "id": "cf5e1b5d84c4",
-      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-      "summary": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-11-01T21:55:23.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "b3a6357c7fdd",
-      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-      "summary": "AI can make tech CEOs’ lives easier。 What about everyone else",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-11-01T20:57:58.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-1481617564.jpg?resize=1200,680",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "8462b9fc7109",
-      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-      "summary": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-31T21:41:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2302418320.jpg?w=1024",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "9a46afb49d1d",
-      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-      "summary": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-10-31T21:17:03.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
-      "score": 70,
-      "tags": []
-    }
-  ],
   "科技": [
+    {
+      "id": "bd3abffa9691",
+      "title": "Borrowed reading: stories from our extended colleagues",
+      "url": "https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/",
+      "summary": "Borrowed reading: stories from our extended colleagues",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-02T04:23:48.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/03/newspaper-stack_GettyImages648942926.jpeg?resize=1200,800",
+      "score": 75,
+      "tags": []
+    },
     {
       "id": "164b9e817196",
       "title": "TechCrunch Mobility: A new, bigger AV boom is here",
@@ -97,21 +59,71 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_6045.jpeg?resize=1200,900",
       "score": 70,
       "tags": []
+    }
+  ],
+  "AI": [
+    {
+      "id": "cf5e1b5d84c4",
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "summary": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-11-01T21:55:23.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
+      "score": 75,
+      "tags": []
     },
     {
-      "id": "4876e27ef4f7",
-      "title": "Data centers are now a midterm issue, even in Brooklyn",
-      "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
-      "summary": "Data centers are now a midterm issue, even in Brooklyn",
+      "id": "b3a6357c7fdd",
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "summary": "AI can make tech CEOs’ lives easier。 What about everyone else",
       "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-01T02:22:10.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Newsreel-Midterm-Madness-22.jpg?resize=1200,800",
+      "category": "AI",
+      "published": "2026-11-01T20:57:58.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-1481617564.jpg?resize=1200,680",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "8462b9fc7109",
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "summary": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-10-31T21:41:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2302418320.jpg?w=1024",
       "score": 70,
       "tags": []
     }
   ],
   "就业": [
+    {
+      "id": "e82658404d5d",
+      "title": "嵌入HR工作流，智联招聘发布B端Agent“智联小招”",
+      "url": "https://www.sohu.com/a/1095053127_110683",
+      "summary": "10月29日，智联招聘在2026腾讯全球数字生态大会上推出自主研发的B端招聘Agent（智能体）产品“智联小招”。同时，智联招聘与办公协同平台WorkBuddy达成深度生态合作，首次将“智联小招”的A",
+      "source": "Bing·智联招聘",
+      "category": "就业",
+      "published": "2026-10-30T11:53:00.000Z",
+      "image": "//q7.itc.cn/images01/20261030/c272d2c4791442868ff625fb7d90645c.jpeg",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "6eb44e1e8726",
+      "title": "智联招聘发布B端Agent“智联小招”，并在WorkBuddy首发开放体验",
+      "url": "https://www.sohu.com/a/1095019363_122014422",
+      "summary": "新浪科技讯 10月29日晚间消息，在2026腾讯全球数字生态大会现场，智联招聘正式宣布推出自主研发的B端招聘Agent（智能体）产品——“智联小招”。同时，智联招聘与办公协同平台WorkBuddy达成",
+      "source": "Bing·智联招聘",
+      "category": "就业",
+      "published": "2026-10-30T10:43:00.000Z",
+      "image": "//q4.itc.cn/q_70/images03/20261030/95a2f355c8b2418f93d69456107a596b.jpeg",
+      "score": 65,
+      "tags": []
+    },
     {
       "id": "0955340deee2",
       "title": "高顿携手腾讯WorkBuddy生态发布首款大学生实习就业AI Agent",
@@ -137,18 +149,6 @@
       "tags": []
     },
     {
-      "id": "eb8173a64861",
-      "title": "美国网络安全招聘市场降温：岗位发布量大降26% AI安全工程师需求 ...",
-      "url": "https://www.msn.com/zh-cn/money/通用/美国网络安全招聘市场降温-岗位发布量大降26-ai安全工程师需求激增268/ar-AA2fyjrC",
-      "summary": "最新发布的一份美国网络安全就业市场报告显示，尽管整体招聘需求持续下滑并跌至近四年来最低水平，但与人工智能相关的网络安全岗位却逆势增长，其中AI安全工程师成为增长最快的职位之一。该报告由CyberSN发",
-      "source": "安全工程师·就业分析",
-      "category": "就业",
-      "published": "2026-10-19T01:15:30.000Z",
-      "image": "",
-      "score": 65,
-      "tags": []
-    },
-    {
       "id": "e2276e17b266",
       "title": "[杭州][行业头部互联网] 招聘 AI Agent 算法相关工程师， Agentic、安全、虚拟陪伴相关",
       "url": "https://www.v2ex.com/t/1252499#reply3",
@@ -159,17 +159,67 @@
       "image": "https://cdn.v2ex.com/avatar/baf1/dea9/274099_large.png?m=1605772139",
       "score": 60,
       "tags": []
+    }
+  ],
+  "社会": [
+    {
+      "id": "5fc1bfd9bbe9",
+      "title": "从交出答案到读懂答案：学者共议AI时代教育新挑战",
+      "url": "https://www.chinanews.com.cn/edu/2026/10-31/10723830.shtml",
+      "summary": "中新网上海10月31日电(李姝徵 杨海燕 郑莹莹)当人工智能可以参与实验、撰写甚至审核论文，论文还能否反映一个人的研究能力。学生应该培养什么能力，才能做出有长期影响力的工作",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-10-31T04:30:01.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 60,
+      "tags": []
     },
     {
-      "id": "bae180077cb0",
-      "title": "【罗曼股份】看好端侧推理发展，公司全栈模式有望抢占先机",
-      "url": "https://news.qq.com/rain/a/20261008A00I7200",
-      "summary": "近期，阿里旗下半导体公司平头哥在2026云栖大会主论坛上发布新一代训推一体AI芯片真武V900。此外，9月22日，海光信息在深圳发布1000系列CPU，这是海光首款嵌入式工控芯片，面向工业控制等物理世",
-      "source": "全栈工程师·就业分析",
-      "category": "就业",
-      "published": "2026-10-08T01:49:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/OHmQKg_KqZogWInsEdwyjiQxnuE7UHqJBmxK54ztnwpmYAA_640330/0",
+      "id": "560de81939bb",
+      "title": "AI赋能教育装备产业发展 第88届中国教育装备展示会长沙启幕",
+      "url": "https://www.chinanews.com.cn/edu/2026/10-31/10723819.shtml",
+      "summary": "中新网长沙10月31日电 (记者 邓霞)10月30日，第88届中国教育装备展示会在长沙国际会展中心开幕。本届展示会以“人工智能引领教育装备高质量发展”为主题，集中展示人工智能、大数据、云计算、虚拟现实",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-10-31T03:09:28.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 60,
+      "tags": []
+    },
+    {
+      "id": "50b26cb86166",
+      "title": "重庆开州“烹”出职教新局：课堂连灶台，毕业能上岗",
+      "url": "https://www.chinanews.com.cn/edu/2026/10-31/10723905.shtml",
+      "summary": "中新网重庆10月31日电 题：重庆开州“烹”出职教新局：课堂连灶台，毕业能上岗",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-10-31T07:04:57.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "9f21edb232d5",
+      "title": "教育部2026年“百校学子地方行”活动走进长沙",
+      "url": "https://www.chinanews.com.cn/edu/2026/10-31/10723881.shtml",
+      "summary": "中新网长沙10月31日电 (张雪盈)教育部2026年“百校学子地方行”(长沙站)暨长沙“双肩包”人才行动31日在中南大学举行。182家国企、产业链重点企业、上市公司、事业单位及科研机构设展，现场提供优",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-10-31T06:04:12.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "0d8a5d89e09b",
+      "title": "甘肃高校：车间 “搬进” 课堂 赛训相融对接产业一线",
+      "url": "https://www.chinanews.com.cn/edu/2026/10-31/10723815.shtml",
+      "summary": "中新网兰州10月31日电 (田鹏鹤)“以前在课本上看智能制造，感觉比较抽象，总觉得智能装备只应用在大型工厂。但这次做中药材黑斑剔除项目我才发现，中药材这类传统行业，同样可以依靠智能装备提质增效",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-10-31T03:11:04.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
       "tags": []
     }
   ],
@@ -211,28 +261,25 @@
       "tags": []
     },
     {
-      "id": "ea27ed29f156",
-      "title": ".NET 11 第 2 个候选版本发布，带来生产环境部署许可以及针对库、F#、MAUI 和 WinForms 的更新",
-      "url": "https://www.infoq.cn/article/A8YgLsG4VOhoJkUVq9Jq?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/A8YgLsG4VOhoJkUVq9Jq",
+      "id": "e9f07045e737",
+      "title": "27 岁程序员获无限 Token，挑战两个月重写思科 98% 的遗留代码",
+      "url": "https://www.infoq.cn/article/C9FJGQ0ptRp8F8kHRRdZ?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/C9FJGQ0ptRp8F8kHRRdZ",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-10-30T15:09:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/ab/fa/ab0d4ce5318d1e9063f3254ff534b1fa.jpg",
-      "score": 55,
+      "published": "2026-10-30T21:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/f7/72/f73442c00b42fa6b9985157f7c45bb72.png",
+      "score": 50,
       "tags": []
     },
     {
-      "id": "9b69d7758e40",
-      "title": "2026年AI技术演进与2027年趋势前瞻报告",
-      "url": "https://www.infoq.cn/minibook/lmVM6XjSDMpMb6QTbK0l?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/minibook/lmVM6XjSDMpMb6QTbK0l",
+      "id": "2c42a5278fbe",
+      "title": "TornadoVM 7 支持 Java 应用程序运行原生 GPU 工作负载",
+      "url": "https://www.infoq.cn/article/X8cwbyO4O3tS1jTTdtBq?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-10-30T14:41:36.000Z",
-      "image": "https://static001.geekbang.org/static/infoq/img/infoq_icon.jpg",
-      "score": 55,
-      "tags": []
+      "published": "2026-11-02T11:11:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/58/2a/58bdb99292f697d72c0634be54ca5e2a.jpg"
     }
   ],
   "政策": [
@@ -249,26 +296,26 @@
       "tags": []
     },
     {
-      "id": "92e955bd9bc1",
-      "title": "支持济青烟率先打造北方区域性就业聚集地！山东印发实施就业优先 ...",
-      "url": "https://news.qq.com/rain/a/20261027A05SP200",
-      "summary": "山东省人民政府关于印发《山东省实施就业优先战略“十五五”规划》的通知鲁政发〔2026〕21号各市人民政府，各县（市、区）人民政府，省政府各部门、各直属机构，各大企业，各高等院校：现将《山东省实施就业优",
+      "id": "4dbe49f89217",
+      "title": "支持济青烟率先打造北方区域性就业聚集地！山东印发就业优先战略 ...",
+      "url": "https://sd.dzwww.com/sdnews/202610/t20261027_18244512.htm",
+      "summary": "（四）增强区域就业承载力。支持济南、青岛、烟台率先打造北方区域性就业聚集地，鼓励其他市立足功能定位、产业基础、人力资源增强就业带动能力",
       "source": "就业创业政策",
       "category": "政策",
-      "published": "2026-10-27T04:26:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/OvRH0XxNoKV2dR3Rto8d_YactKHbp8NvtZ2AgxjkLnH3kAA_640330/0",
+      "published": "2026-10-27T06:24:00.000Z",
+      "image": "https://www.dzwww.com/tpl/v2019/xilan/images/logo1.png",
       "score": 55,
       "tags": []
     },
     {
-      "id": "115a7f26b6ce",
-      "title": "“雏鹰计划”推广暨湖南省大学生（湘潭）创业投资基金签约投放 ...",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-30/doc-iniwyncy2323690.shtml",
-      "summary": "10月29日，雏鹰振翅&#183;莲城启航——“雏鹰计划”推广暨湖南省大学生（湘潭）创业投资基金签约投放仪式在湘潭大学举行。市委书记胡贺波致辞，省财政事务中心党委书记、主任张明出席，湖南财信金融控股集",
-      "source": "Bing·大学生创业扶持政策",
+      "id": "f1324f1267f6",
+      "title": "区市动态丨城阳区：政策宣讲“打包”进校园 扎实推进高校毕业生 ...",
+      "url": "https://www.sohu.com/a/1094167299_121106991",
+      "summary": "眼下正值高校毕业生就业创业的关键期，面对档案转递、落户办理、住房补贴申领、社保参保等一系列繁杂事项，不少毕业生面临“多头跑、政策盲、流程繁”的困扰。为有效破解这一痛点，扎实推进高校毕业生服务“一类事”",
+      "source": "Bing·高校毕业生就业创业政策",
       "category": "政策",
-      "published": "2026-10-29T17:01:00.000Z",
-      "image": "//n.sinaimg.cn/front20261030ac/739/w1080h459/20261030/bb4c-9a248d9f74cefc5c7ea9c219b6d8a4bc.jpg",
+      "published": "2026-10-29T00:57:00.000Z",
+      "image": "https://q4.itc.cn/q_70/images03/20261029/71b396a602de4adc9b2cb6ed499c2a47.jpeg",
       "score": 50,
       "tags": []
     },
@@ -285,124 +332,62 @@
       "tags": []
     },
     {
-      "id": "f5cb39eaf8f6",
-      "title": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
-      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202606/t20260602_1438600.html",
-      "summary": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
-      "source": "教育部",
+      "id": "115a7f26b6ce",
+      "title": "“雏鹰计划”推广暨湖南省大学生（湘潭）创业投资基金签约投放 ...",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-30/doc-iniwyncy2323690.shtml",
+      "summary": "10月29日，雏鹰振翅&#183;莲城启航——“雏鹰计划”推广暨湖南省大学生（湘潭）创业投资基金签约投放仪式在湘潭大学举行。市委书记胡贺波致辞，省财政事务中心党委书记、主任张明出席，湖南财信金融控股集",
+      "source": "Bing·大学生创业扶持政策",
       "category": "政策",
-      "published": "2026-06-02T00:00:00.000Z",
-      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+      "published": "2026-10-29T17:01:00.000Z",
+      "image": "//n.sinaimg.cn/front20261030ac/739/w1080h459/20261030/bb4c-9a248d9f74cefc5c7ea9c219b6d8a4bc.jpg",
       "score": 50,
-      "tags": []
-    }
-  ],
-  "社会": [
-    {
-      "id": "457cca3ec071",
-      "title": "北京发布人工智能赋能基础教育应用蓝皮书",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-30/10723575.shtml",
-      "summary": "中新网北京10月30日电 (记者 陈杭)2026年北京市人工智能赋能基础教育实践创新研讨会29日在北京第五实验学校举办。本次研讨会以“数智赋能育人场景、课题驱动创新探索”为主题，汇聚市区教育管理者、一",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-10-30T12:24:46.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "789a1e47036d",
-      "title": "推动岐黄“出海” 专家学者热议中医药高等教育国际合作",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-29/10723077.shtml",
-      "summary": "中新网上海10月29日电 (记者 陈静)“在欧洲，人们对中医药有着浓厚兴趣，对中国文化也是如此。”意大利威尼斯大学校长李集雅28日接受记者采访时直言，“但人们对中国文化和医学的了解比较浅，我们需要有更",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-10-29T15:48:34.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "610b72f6c96d",
-      "title": "500余位教育领域专家齐聚山东济南 共研基础教育扩优提质实施路径",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-29/10722988.shtml",
-      "summary": "中新网济南10月29日电 (记者 孙婷婷)中国教育学会区域教育创新与发展研讨会暨第五次教育现场会10月29日在济南高新技术产业开发区举行。500余位教育领域的专家、中小学教师参会，围绕“创新·提质·共",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-10-29T13:09:19.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "93b571a12777",
-      "title": "2026中国国际教育展今天在京开幕",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-30/10723473.shtml",
-      "summary": "今天(30日)，作为第27届中国国际教育年会的重要活动之一 ，2026中国国际教育展在京开幕，吸引35个国家和地区的415所院校与机构参展，规模创过去五年新高。有留学打算的学生和家长可以和意向高校面对",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-10-30T09:15:45.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 40,
-      "tags": []
-    },
-    {
-      "id": "5db00a26ad7e",
-      "title": "第九届“中国—东盟青年风汇”在京举行",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-28/10722381.shtml",
-      "summary": "中新网北京10月28日电 (记者 曾玥)第九届“中国—东盟青年风汇”27日在北京大学举行。活动以“在希望的田野上：东南亚研究中的田野实践、方法反思与知识生产”为主题，设置“青年田野对话”与“田野海报展",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-10-28T11:57:49.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 40,
       "tags": []
     }
   ],
   "财经": [
     {
-      "id": "4e7ddae28c99",
-      "title": "雪季还没到 南方人已经掀起“追雪热”",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724537.shtml",
+      "id": "f74c1936b1c3",
+      "title": "交通运输部：10月26日—11月1日国家铁路运输货物8349.6万吨",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724766.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-01T23:40:36.000Z",
+      "published": "2026-11-02T07:04:02.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "37780a438087",
-      "title": "“银十”跑赢“金九”：上海10月二手房网签同比大涨33%",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724535.shtml",
+      "id": "88e5754227ab",
+      "title": "初瑞雪双十一首战告捷：辛选全员列阵，引领“不烧心”无忧消费",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724737.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-01T23:37:46.000Z",
+      "published": "2026-11-02T06:27:02.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "4fd3a296e121",
-      "title": "“欧佩克+”主要产油国决定12月维持产量不变",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724524.shtml",
+      "id": "018429d661e0",
+      "title": "度小满与香港科技大学联合发布轩辕4.5金融大模型",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724736.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-01T16:29:51.000Z",
+      "published": "2026-11-02T06:25:46.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "d2fbd7eb0716",
-      "title": "厦门首条邮轮无目的地海上游航线启航",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724517.shtml",
+      "id": "0b409c1d5402",
+      "title": "重商、亲商、安商、富商 福建宁德打造一方近悦远来的营商沃土",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724730.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-01T15:22:53.000Z",
+      "published": "2026-11-02T05:58:17.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "fc3d0793bc47",
-      "title": "“理财产品要变相保本了”是误读政策",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-01/10724506.shtml",
+      "id": "cf2e4a8c08a5",
+      "title": "大庆油田杏南开发区破解老区块注水治理难题",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-02/10724707.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-01T13:41:36.000Z",
+      "published": "2026-11-02T05:46:16.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
