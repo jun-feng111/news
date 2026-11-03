@@ -1,27 +1,15 @@
 {
   "AI": [
     {
-      "id": "8f6f2c9dfcc5",
-      "title": "Apple Watch&#8217;s AI features for rewinding and recapping conversations begin beta testing",
-      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
-      "summary": "Apple Watch&#8217;s AI features for rewinding and recapping conversations begin beta testing",
+      "id": "74ef1aa5540c",
+      "title": "Apple restricts dating apps and AI companions to users 18 and up",
+      "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+      "summary": "Apple restricts dating apps and AI companions to users 18 and up",
       "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-11-03T07:20:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/live-rewind-restaurant.jpg?resize=1200,669",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "36719bfa3896",
-      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
-      "summary": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-11-03T03:30:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/google-dreambeans.jpg?resize=1200,800",
-      "score": 70,
+      "published": "2026-11-03T15:38:27.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/Screenshot-2025-04-22-at-1.24.23PM.png?resize=1200,672",
+      "score": 80,
       "tags": []
     },
     {
@@ -37,6 +25,30 @@
       "tags": []
     },
     {
+      "id": "8f6f2c9dfcc5",
+      "title": "Apple Watch&#8217;s AI features for rewinding and recapping conversations begin beta testing",
+      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+      "summary": "Apple Watch&#8217;s AI features for rewinding and recapping conversations begin beta testing",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-11-03T07:20:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/live-rewind-restaurant.jpg?resize=1200,669",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "36719bfa3896",
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+      "summary": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-11-03T03:30:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/google-dreambeans.jpg?resize=1200,800",
+      "score": 65,
+      "tags": []
+    },
+    {
       "id": "dc645454d4f3",
       "title": "Apple may try to increase revenue by doing&#8230;something with third-party AI apps",
       "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
@@ -47,18 +59,59 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2302418320.jpg?w=1024",
       "score": 65,
       "tags": []
+    }
+  ],
+  "开发": [
+    {
+      "id": "e25f63209aaf",
+      "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe&#8217;s startup scene",
+      "url": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
+      "summary": "Yvonne Bajela is bringing $17M in fresh capital to Europe&#8217;s startup scene",
+      "source": "TechCrunch",
+      "category": "开发",
+      "published": "2026-11-03T08:01:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Yvonne.jpg?resize=1171,1200",
+      "score": 70,
+      "tags": []
     },
     {
-      "id": "30470ccd0474",
-      "title": "Y Combinator&#8217;s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-      "summary": "Y Combinator&#8217;s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-11-03T00:35:52.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801",
-      "score": 65,
+      "id": "8060ae2fb442",
+      "title": "科技爱好者周刊（第 417 期）：不要让 AI 代表你",
+      "url": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html",
+      "summary": "这里记录每周值得分享的科技内容，周五发布",
+      "source": "阮一峰",
+      "category": "开发",
+      "published": "2026-10-30T00:13:03.000Z",
+      "image": "",
+      "score": 60,
       "tags": []
+    },
+    {
+      "id": "eede4f7dc5a8",
+      "title": "AI教AI开车！百度首次披露Apollo World世界模型，让无人驾驶突破“不可能三角”",
+      "url": "https://www.infoq.cn/article/tIt75FRqU2hwy4eWrOIu?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-03T21:26:32.000Z",
+      "image": "https://static001.infoq.cn/resource/image/0a/18/0a6a25b17b756a08cfbe397743f72e18.png"
+    },
+    {
+      "id": "13a3d81c56b4",
+      "title": "AI 改变的是数据接口，而不是查询引擎",
+      "url": "https://www.infoq.cn/article/fvNWWYEmke5xJVsHEIIi?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-03T17:07:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/98/06/9842bf34361ff907ac155b198262c806.jpg"
+    },
+    {
+      "id": "f20d86838d50",
+      "title": "前迪士尼 AI 高管出任 CPO，Utopai Studios 技术布局再提速",
+      "url": "https://www.infoq.cn/article/z1ZeGD2FDqi6xLvSJjSl?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-03T16:11:29.000Z",
+      "image": "https://static001.infoq.cn/resource/image/15/b5/1524b6600b85cba1277bea8d3506b1b5.jpg"
     }
   ],
   "科技": [
@@ -75,43 +128,108 @@
       "tags": []
     },
     {
-      "id": "08479b99df48",
-      "title": "Apple&#8217;s inventory surges 154% as memory chip costs climb",
-      "url": "https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/",
-      "summary": "Apple&#8217;s inventory surges 154% as memory chip costs climb",
+      "id": "6e35125c5685",
+      "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
+      "url": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
+      "summary": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-11-02T23:04:57.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/06/apple-on-phone.jpg?resize=1200,800",
-      "score": 70,
+      "published": "2026-11-03T14:30:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-networking_2.jpg?resize=1200,800",
+      "score": 65,
       "tags": []
     },
     {
-      "id": "3854fe6e4c53",
-      "title": "Germany says lawmakers&#8217; iPhones may have been hacked with spyware",
-      "url": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/",
+      "id": "1c0da3afe6ce",
+      "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
+      "url": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
+      "summary": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-11-02T19:45:54.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/ios-notification-threat-apple-hero.jpg?resize=1200,814"
+      "published": "2026-11-03T14:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-audience.jpg?resize=1200,800",
+      "score": 65,
+      "tags": []
     },
     {
-      "id": "fb0e372c442d",
-      "title": "Web host Squarespace lays off 19% of its employees",
-      "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+      "id": "3715e03db825",
+      "title": "Apple says it&#8217;s &#8216;hard to predict&#8217; when iPhone Duo constraints will improve",
+      "url": "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-11-02T19:25:59.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/10/F064_Q324_Refresh_Product_BlueprintPersonalityStep_Press_1920x1080-Logo.jpg?resize=1200,675"
+      "published": "2026-11-02T23:25:32.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-duo.jpeg?resize=1200,675"
     },
     {
-      "id": "a72f414af34a",
-      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+      "id": "c368c304bd55",
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-11-02T19:19:17.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/08/brave-browser.jpg?resize=1200,800"
+      "published": "2026-11-02T23:13:53.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Trajectory_3.jpg?resize=1200,900"
+    }
+  ],
+  "社会": [
+    {
+      "id": "711869a294b9",
+      "title": "多份报告聚焦AI与国际教育：技术越便捷，人的判断越关键",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-01/10724391.shtml",
+      "summary": "中新网北京11月1日电 (记者 徐文欣)人工智能正重塑各行业面貌，国际教育面临由此带来的机遇与挑战。近日，多份聚焦人工智能时代国际教育的报告在北京发布并指出，AI正在改变国际教育的工具、场景与评价方式",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-11-01T10:06:02.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "7fcced798fa7",
+      "title": "中英20余所高校聚首南京 发布重塑全球教育未来倡议",
+      "url": "https://www.chinanews.com.cn/edu/2026/10-31/10723945.shtml",
+      "summary": "中新网南京10月31日电 (吴涵玉 吕晔灵)10月30日，由东南大学主办的以“重塑教育边界·共创全球未来”为主题的中英卓越大学校长论坛在南京举行。来自牛津大学、剑桥大学、东南大学等20余所中英两国高校",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-10-31T09:11:12.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "5fc1bfd9bbe9",
+      "title": "从交出答案到读懂答案：学者共议AI时代教育新挑战",
+      "url": "https://www.chinanews.com.cn/edu/2026/10-31/10723830.shtml",
+      "summary": "中新网上海10月31日电(李姝徵 杨海燕 郑莹莹)当人工智能可以参与实验、撰写甚至审核论文，论文还能否反映一个人的研究能力。学生应该培养什么能力，才能做出有长期影响力的工作",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-10-31T04:30:01.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "560de81939bb",
+      "title": "AI赋能教育装备产业发展 第88届中国教育装备展示会长沙启幕",
+      "url": "https://www.chinanews.com.cn/edu/2026/10-31/10723819.shtml",
+      "summary": "中新网长沙10月31日电 (记者 邓霞)10月30日，第88届中国教育装备展示会在长沙国际会展中心开幕。本届展示会以“人工智能引领教育装备高质量发展”为主题，集中展示人工智能、大数据、云计算、虚拟现实",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-10-31T03:09:28.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "c5f4db9bb77c",
+      "title": "复旦大学哲学学院（系）迎来七十周岁“生日”",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-01/10724459.shtml",
+      "summary": "中新网上海11月1日电 (记者 陈静)今年是复旦大学哲学学院(系)成立七十周年。国际哲学学会联合会(FISP)前任主席卢卡·斯卡兰蒂诺1日在此间指出，复旦大学哲学学院始终走在拓展哲学文化视野的前沿，是",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-11-01T12:06:28.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
     }
   ],
   "就业": [
@@ -124,6 +242,18 @@
       "category": "就业",
       "published": "2026-10-30T11:53:00.000Z",
       "image": "//q7.itc.cn/images01/20261030/c272d2c4791442868ff625fb7d90645c.jpeg",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "6eb44e1e8726",
+      "title": "智联招聘发布B端Agent“智联小招”，并在WorkBuddy首发开放体验",
+      "url": "https://www.sohu.com/a/1095019363_122014422",
+      "summary": "新浪科技讯 10月29日晚间消息，在2026腾讯全球数字生态大会现场，智联招聘正式宣布推出自主研发的B端招聘Agent（智能体）产品——“智联小招”。同时，智联招聘与办公协同平台WorkBuddy达成",
+      "source": "Bing·智联招聘",
+      "category": "就业",
+      "published": "2026-10-30T10:43:00.000Z",
+      "image": "//q4.itc.cn/q_70/images03/20261030/95a2f355c8b2418f93d69456107a596b.jpeg",
       "score": 65,
       "tags": []
     },
@@ -162,155 +292,19 @@
       "image": "",
       "score": 65,
       "tags": []
-    },
-    {
-      "id": "26c8ab7c2bbb",
-      "title": "CyberSN：2026年1-9月美国网络安全职位发布量235786个，同比下降26.4%",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-10-19/doc-inivumam6837930.shtml",
-      "summary": "从整体趋势来看，企业对于人工智能知识和技能的需求依然旺盛。2026年前九个月，接近15%的网络安全职位招聘信息提及AI相关能力，与2025年同期15",
-      "source": "安全工程师·就业分析",
-      "category": "就业",
-      "published": "2026-10-19T13:23:00.000Z",
-      "image": "https://n.sinaimg.cn/tech/zcapp2018/doc_qrcode1.png",
-      "score": 65,
-      "tags": []
-    }
-  ],
-  "社会": [
-    {
-      "id": "7fcced798fa7",
-      "title": "中英20余所高校聚首南京 发布重塑全球教育未来倡议",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-31/10723945.shtml",
-      "summary": "中新网南京10月31日电 (吴涵玉 吕晔灵)10月30日，由东南大学主办的以“重塑教育边界·共创全球未来”为主题的中英卓越大学校长论坛在南京举行。来自牛津大学、剑桥大学、东南大学等20余所中英两国高校",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-10-31T09:11:12.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "5fc1bfd9bbe9",
-      "title": "从交出答案到读懂答案：学者共议AI时代教育新挑战",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-31/10723830.shtml",
-      "summary": "中新网上海10月31日电(李姝徵 杨海燕 郑莹莹)当人工智能可以参与实验、撰写甚至审核论文，论文还能否反映一个人的研究能力。学生应该培养什么能力，才能做出有长期影响力的工作",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-10-31T04:30:01.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "560de81939bb",
-      "title": "AI赋能教育装备产业发展 第88届中国教育装备展示会长沙启幕",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-31/10723819.shtml",
-      "summary": "中新网长沙10月31日电 (记者 邓霞)10月30日，第88届中国教育装备展示会在长沙国际会展中心开幕。本届展示会以“人工智能引领教育装备高质量发展”为主题，集中展示人工智能、大数据、云计算、虚拟现实",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-10-31T03:09:28.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "f15af729c8bd",
-      "title": "第三届“人民艺术论坛”举办 成立红色美育共同体",
-      "url": "https://www.chinanews.com.cn/edu/2026/11-01/10724302.shtml",
-      "summary": "中新网北京11月1日电 (记者 高凯)以“赓续红色血脉·铸魂时代新人”为主题中国人民大学第三届“人民艺术论坛”日前在北京举办。论坛现场，中国人民大学联合全国41所高校、文博文艺机构发起成立“红色铸魂·",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-11-01T07:33:22.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "a287d21c0950",
-      "title": "（文化中国行·校馆弦歌）“无用”阅读恰所需 西南交通大学图书馆的阅读与健心",
-      "url": "https://www.chinanews.com.cn/edu/2026/11-01/10724178.shtml",
-      "summary": "中新网成都11月1日电 题：“无用”阅读恰所需 西南交通大学图书馆的阅读与健心",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-11-01T01:52:17.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
-    }
-  ],
-  "开发": [
-    {
-      "id": "8060ae2fb442",
-      "title": "科技爱好者周刊（第 417 期）：不要让 AI 代表你",
-      "url": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html",
-      "summary": "这里记录每周值得分享的科技内容，周五发布",
-      "source": "阮一峰",
-      "category": "开发",
-      "published": "2026-10-30T00:13:03.000Z",
-      "image": "",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "c7de5e3b72f1",
-      "title": "AI 复刻 Adobe 系列软件开发者坦言：项目远未准备就绪",
-      "url": "https://www.infoq.cn/article/a2X4KVOXOt6lACRv8IWh?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-03T15:12:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/88/yy/882bfbee93ae3287a085f09807d391yy.jpg"
-    },
-    {
-      "id": "62d1a7a69717",
-      "title": "从模型调用到任务交付：MaaS 如何走进 Agent 生产",
-      "url": "https://www.infoq.cn/article/zZutPTX8bsr6NWQYNC3A?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-03T14:40:18.000Z",
-      "image": "https://static001.infoq.cn/resource/image/37/ff/37dd37aa33f5f7c9a03eca0c4d2e36ff.png"
-    },
-    {
-      "id": "cd350802b17b",
-      "title": "Netflix 通过工作负载认证将 AWS IAM 与内部身份系统连接了起来",
-      "url": "https://www.infoq.cn/article/PJdTzbUNPBhvKEd6QuxZ?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-03T13:04:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/16/6b/16f9a72349e779b8eb4452a619eb416b.jpg"
-    },
-    {
-      "id": "854f721d2a99",
-      "title": "微软向6万员工发出自愿离职邀请：覆盖全球超四分之一员工，副总裁也在列",
-      "url": "https://www.infoq.cn/article/UNTqkzASI7dJuq65kSNZ?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-03T13:03:43.000Z",
-      "image": "https://static001.infoq.cn/resource/image/42/0f/423b4ff572cb072be48ed509d698590f.png"
     }
   ],
   "政策": [
     {
-      "id": "7e0649d6d0c5",
-      "title": "内地高校澳门大学生求职技能提升系列辅导讲座在京举办",
-      "url": "https://news.ifeng.com/c/8xeZfFj0k1y",
-      "summary": "新华社北京10月30日电（记者许晓静）以“AI赋能 职业启航”为主题的内地高校澳门大学生求职技能提升系列辅导讲座29至30日在京举办。就读于北京、天津、上海等地高校的200余名澳门大学生参加活动",
-      "source": "Bing·大学生就业政策",
+      "id": "92e955bd9bc1",
+      "title": "支持济青烟率先打造北方区域性就业聚集地！山东印发实施就业优先 ...",
+      "url": "https://news.qq.com/rain/a/20261027A05SP200",
+      "summary": "山东省人民政府关于印发《山东省实施就业优先战略“十五五”规划》的通知鲁政发〔2026〕21号各市人民政府，各县（市、区）人民政府，省政府各部门、各直属机构，各大企业，各高等院校：现将《山东省实施就业优",
+      "source": "就业创业政策",
       "category": "政策",
-      "published": "2026-10-30T15:45:00.000Z",
-      "image": "https://x0.ifengimg.com/ucms/2019_38/AC5B8A2AE18AB61C7067AFFDBBCD12D16295DDA2_w121_h75.jpg",
+      "published": "2026-10-27T04:26:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/OvRH0XxNoKV2dR3Rto8d_YactKHbp8NvtZ2AgxjkLnH3kAA_640330/0",
       "score": 55,
-      "tags": []
-    },
-    {
-      "id": "f1324f1267f6",
-      "title": "区市动态丨城阳区：政策宣讲“打包”进校园 扎实推进高校毕业生 ...",
-      "url": "https://www.sohu.com/a/1094167299_121106991",
-      "summary": "眼下正值高校毕业生就业创业的关键期，面对档案转递、落户办理、住房补贴申领、社保参保等一系列繁杂事项，不少毕业生面临“多头跑、政策盲、流程繁”的困扰。为有效破解这一痛点，扎实推进高校毕业生服务“一类事”",
-      "source": "Bing·高校毕业生就业创业政策",
-      "category": "政策",
-      "published": "2026-10-29T00:57:00.000Z",
-      "image": "https://q4.itc.cn/q_70/images03/20261029/71b396a602de4adc9b2cb6ed499c2a47.jpeg",
-      "score": 50,
       "tags": []
     },
     {
@@ -326,74 +320,86 @@
       "tags": []
     },
     {
-      "id": "421bc4b2d00b",
-      "title": "“雏鹰计划”推广暨湖南省大学生（湘潭）创业投资基金签约投放 ...",
-      "url": "https://www.sohu.com/a/1094922216_121106908",
-      "summary": "10月29日，雏鹰振翅&#183;莲城启航——“雏鹰计划”推广暨湖南省大学生（湘潭）创业投资基金签约投放仪式在湘潭大学举行。市委书记胡贺波致辞，省财政事务中心党委书记、主任张明出席，湖南财信金融控股集",
+      "id": "443b259f1ebe",
+      "title": "台山“家门口”创业就业服务站揭牌！返乡创业就业，一站搞定",
+      "url": "https://finance.sina.com.cn/wm/2026-10-29/doc-iniwwaxc8971452.shtml",
+      "summary": "为深化台山全市“村情大调研”成果转化运用，做好返乡人才回引“后半篇文章”，精准回应杰出乡亲、返乡大学生等群体创业就业需求，由台山市委组织部牵头打造的台山市“家门口”创业就业服务站10月27日正式揭牌运",
       "source": "Bing·大学生创业扶持政策",
       "category": "政策",
-      "published": "2026-10-30T03:47:00.000Z",
-      "image": "//q8.itc.cn/q_70/images03/20261030/20582048c7bf40628a369015e10bc380.jpeg",
+      "published": "2026-10-28T17:00:00.000Z",
+      "image": "//n.sinaimg.cn/front20261029ac/415/w608h607/20261029/66e6-649ef0c5ff3eba99207a6df37a05af5b.jpg",
       "score": 50,
       "tags": []
     },
     {
-      "id": "b1016b249dba",
-      "title": "最高20万！济南集中发放525万创业启动金，79家大学生初创企业受惠",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-28/doc-iniwttsf9751863.shtml",
-      "summary": "“真金白银”的支持，是初创企业最需要的“及时雨”。 日前，济南市第一批大学生新创办企业资助项目资金集中发放活动在中国（济南）人力资源服务产业园举办",
+      "id": "115a7f26b6ce",
+      "title": "“雏鹰计划”推广暨湖南省大学生（湘潭）创业投资基金签约投放 ...",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-30/doc-iniwyncy2323690.shtml",
+      "summary": "10月29日，雏鹰振翅&#183;莲城启航——“雏鹰计划”推广暨湖南省大学生（湘潭）创业投资基金签约投放仪式在湘潭大学举行。市委书记胡贺波致辞，省财政事务中心党委书记、主任张明出席，湖南财信金融控股集",
       "source": "Bing·大学生创业扶持政策",
       "category": "政策",
-      "published": "2026-10-27T17:00:00.000Z",
-      "image": "//n.sinaimg.cn/front20261028ac/640/w720h720/20261028/d1df-da5d92beb144714b183bdd54d7f96582.jpg",
+      "published": "2026-10-29T17:01:00.000Z",
+      "image": "//n.sinaimg.cn/front20261030ac/739/w1080h459/20261030/bb4c-9a248d9f74cefc5c7ea9c219b6d8a4bc.jpg",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "c2b882425333",
+      "title": "荆州市2026年度“能人返乡”特色创业项目和大学生创业扶持项目路演 ...",
+      "url": "https://news.cjn.cn/zjjjdpd/yw_20048/202610/t5354540.htm",
+      "summary": "10月30日，荆州市2026年度“能人返乡”特色创业项目和大学生创业扶持项目路演活动在湖北中医药高等专科学校举行。返乡创业能人与大学生创业者同台竞技，首次以市县联动路演模式展示风采，并推出创业扶持及金",
+      "source": "Bing·大学生创业扶持政策",
+      "category": "政策",
+      "published": "2026-10-31T00:50:00.000Z",
+      "image": "http://img.cjn.cn/2023cjn/page/img/wlcjx.jpg",
       "score": 50,
       "tags": []
     }
   ],
   "财经": [
     {
-      "id": "d66558248377",
-      "title": "广交会观察：70年，一扇“窗”，世界看见一个怎样的中国？",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725340.shtml",
+      "id": "1a4577278b7e",
+      "title": "纺织业“牵手”广交会探寻科技赋能新路径",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725669.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-03T07:24:14.000Z",
+      "published": "2026-11-03T15:40:45.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "8a0d9c196950",
-      "title": "中国央行决定上调金融机构外汇存款准备金率至6%",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725306.shtml",
+      "id": "57d272c34154",
+      "title": "山西吕梁“十五五”规划：旧产能提质 新链条起势",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725667.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-03T06:58:53.000Z",
+      "published": "2026-11-03T15:38:25.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "f24f46ed2117",
-      "title": "我国广电视听形成“两个10亿”超大规模市场格局",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725332.shtml",
+      "id": "48903f29deb2",
+      "title": "宁夏特色农产品亮相全国粮油和大豆产业博览会 产销对接收获颇丰",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725666.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-03T06:49:18.000Z",
+      "published": "2026-11-03T15:35:53.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "e4be5e0bafc7",
-      "title": "金融机构外汇存款准备金率提高到6%有何意义？",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725310.shtml",
+      "id": "8d39047476c1",
+      "title": "海南侨乡万宁兴隆咖啡 “买全球、卖全球”",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725665.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-03T06:29:05.000Z",
+      "published": "2026-11-03T15:35:19.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "62ae627308b9",
-      "title": "到2030年中国海洋生产总值预计突破13万亿元",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725291.shtml",
+      "id": "a3c99367e143",
+      "title": "浙江海事金融探索迎新突破 落地首笔自贸区船舶授信业务",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725661.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-03T06:27:07.000Z",
+      "published": "2026-11-03T15:31:19.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
