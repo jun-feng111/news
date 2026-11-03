@@ -1,4 +1,66 @@
 {
+  "AI": [
+    {
+      "id": "8f6f2c9dfcc5",
+      "title": "Apple Watch&#8217;s AI features for rewinding and recapping conversations begin beta testing",
+      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+      "summary": "Apple Watch&#8217;s AI features for rewinding and recapping conversations begin beta testing",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-11-03T07:20:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/live-rewind-restaurant.jpg?resize=1200,669",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "36719bfa3896",
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+      "summary": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-11-03T03:30:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/google-dreambeans.jpg?resize=1200,800",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "245a9ef26d7e",
+      "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
+      "url": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
+      "summary": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-11-03T01:12:55.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1388071988.jpg?resize=1200,798",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "dc645454d4f3",
+      "title": "Apple may try to increase revenue by doing&#8230;something with third-party AI apps",
+      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "summary": "Apple may try to increase revenue by doing&#8230;something with third-party AI apps",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-11-03T01:49:52.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2302418320.jpg?w=1024",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "30470ccd0474",
+      "title": "Y Combinator&#8217;s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "summary": "Y Combinator&#8217;s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-11-03T00:35:52.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801",
+      "score": 65,
+      "tags": []
+    }
+  ],
   "科技": [
     {
       "id": "1b2f094911d2",
@@ -9,7 +71,7 @@
       "category": "科技",
       "published": "2026-11-03T00:14:51.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2024/05/hinge-app.jpeg?resize=1200,790",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -21,135 +83,35 @@
       "category": "科技",
       "published": "2026-11-02T23:04:57.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2025/06/apple-on-phone.jpg?resize=1200,800",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
       "id": "3854fe6e4c53",
       "title": "Germany says lawmakers&#8217; iPhones may have been hacked with spyware",
       "url": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/",
-      "summary": "Germany says lawmakers&#8217; iPhones may have been hacked with spyware",
       "source": "TechCrunch",
       "category": "科技",
       "published": "2026-11-02T19:45:54.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/ios-notification-threat-apple-hero.jpg?resize=1200,814",
-      "score": 75,
-      "tags": []
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/ios-notification-threat-apple-hero.jpg?resize=1200,814"
     },
     {
       "id": "fb0e372c442d",
       "title": "Web host Squarespace lays off 19% of its employees",
       "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
-      "summary": "Web host Squarespace lays off 19% of its employees",
       "source": "TechCrunch",
       "category": "科技",
       "published": "2026-11-02T19:25:59.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/10/F064_Q324_Refresh_Product_BlueprintPersonalityStep_Press_1920x1080-Logo.jpg?resize=1200,675",
-      "score": 75,
-      "tags": []
+      "image": "https://techcrunch.com/wp-content/uploads/2024/10/F064_Q324_Refresh_Product_BlueprintPersonalityStep_Press_1920x1080-Logo.jpg?resize=1200,675"
     },
-    {
-      "id": "94857e285856",
-      "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
-      "url": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/",
-      "summary": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-02T17:54:11.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Chip-chips-dollar-signs-money.png?resize=1200,960",
-      "score": 70,
-      "tags": []
-    }
-  ],
-  "AI": [
-    {
-      "id": "c368c304bd55",
-      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-      "summary": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-11-02T23:13:53.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Trajectory_3.jpg?resize=1200,900",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "b86b88ec9ca0",
-      "title": "Anthropic warns that it&#8217;s very close to RSI capability, aka self-building AI",
-      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-      "summary": "Anthropic warns that it&#8217;s very close to RSI capability, aka self-building AI",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-11-02T22:14:50.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Recursive-Neural-Spiral-in-Circuitry.png?resize=1200,600",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "3715e03db825",
-      "title": "Apple says it&#8217;s &#8216;hard to predict&#8217; when iPhone Duo constraints will improve",
-      "url": "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/",
-      "summary": "Apple says it&#8217;s &#8216;hard to predict&#8217; when iPhone Duo constraints will improve",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-11-02T23:25:32.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-duo.jpeg?resize=1200,675",
-      "score": 65,
-      "tags": []
-    }
-  ],
-  "开发": [
     {
       "id": "a72f414af34a",
       "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
       "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-      "summary": "New York Times and other outlets sue web browser Brave over alleged content scraping",
       "source": "TechCrunch",
-      "category": "开发",
+      "category": "科技",
       "published": "2026-11-02T19:19:17.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/08/brave-browser.jpg?resize=1200,800",
-      "score": 65,
-      "tags": []
-    },
-    {
-      "id": "8060ae2fb442",
-      "title": "科技爱好者周刊（第 417 期）：不要让 AI 代表你",
-      "url": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html",
-      "summary": "这里记录每周值得分享的科技内容，周五发布",
-      "source": "阮一峰",
-      "category": "开发",
-      "published": "2026-10-30T00:13:03.000Z",
-      "image": "",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "0b44b3c4138c",
-      "title": "从英伟达到 Pika，硅谷巨头为何“反向借力”这个国产模型？",
-      "url": "https://www.infoq.cn/article/h1310kHD9CWD1mO8aTAc?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-02T22:48:56.000Z",
-      "image": "https://static001.infoq.cn/resource/image/33/a5/33172dc63332e261a6e83727fc4689a5.png"
-    },
-    {
-      "id": "98d068f1cd3a",
-      "title": "微软推出 dotnetup：多版本管理更省心，安装方式却让开发者皱眉",
-      "url": "https://www.infoq.cn/article/7lNPPkEUVjtMYYvmXaA6?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-02T21:46:33.000Z",
-      "image": "https://static001.infoq.cn/resource/image/e5/5e/e5d5c62b40136988feb041e9722edc5e.jpeg"
-    },
-    {
-      "id": "15601147ba15",
-      "title": "Cilium 1.20 扩展了 Gateway API 并为 Kubernetes 开放了 eBPF 数据路径",
-      "url": "https://www.infoq.cn/article/E3wARaqEN7UZx8wM9TNg?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-02T20:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/95/58/956b7b96031d275100e9534588a41858.jpg"
+      "image": "https://techcrunch.com/wp-content/uploads/2024/08/brave-browser.jpg?resize=1200,800"
     }
   ],
   "就业": [
@@ -166,6 +128,18 @@
       "tags": []
     },
     {
+      "id": "0955340deee2",
+      "title": "高顿携手腾讯WorkBuddy生态发布首款大学生实习就业AI Agent",
+      "url": "https://cn.chinadaily.com.cn/a/202609/03/WS6a98e41ce4b09a165c787b27.html",
+      "summary": "9月2日，腾讯WorkBuddy宣布开放平台正式上线，首批引入超百家生态伙伴，面向智能硬件、行业应用与开发者等开放底层Agent能力。其中高顿自主研发的“大学生实习就业助手”作为实习就业场景的标杆产品",
+      "source": "就业报告",
+      "category": "就业",
+      "published": "2026-09-03T03:36:00.000Z",
+      "image": "https://img3.chinadaily.com.cn/static/2024cn_articleandcolumn/img/Mobile/Artical_Share_Icon1.png",
+      "score": 65,
+      "tags": []
+    },
+    {
       "id": "38ff1e7024fa",
       "title": "不会写代码也能做测试？校招测试岗的技能要求正在悄悄改变",
       "url": "https://www.sohu.com/a/1092535398_120635785",
@@ -174,18 +148,6 @@
       "category": "就业",
       "published": "2026-10-25T10:31:00.000Z",
       "image": "",
-      "score": 65,
-      "tags": []
-    },
-    {
-      "id": "26c8ab7c2bbb",
-      "title": "CyberSN：2026年1-9月美国网络安全职位发布量235786个，同比下降26.4%",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-10-19/doc-inivumam6837930.shtml",
-      "summary": "从整体趋势来看，企业对于人工智能知识和技能的需求依然旺盛。2026年前九个月，接近15%的网络安全职位招聘信息提及AI相关能力，与2025年同期15",
-      "source": "安全工程师·就业分析",
-      "category": "就业",
-      "published": "2026-10-19T13:23:00.000Z",
-      "image": "https://n.sinaimg.cn/tech/zcapp2018/doc_qrcode1.png",
       "score": 65,
       "tags": []
     },
@@ -202,15 +164,15 @@
       "tags": []
     },
     {
-      "id": "c4610a185fe7",
-      "title": "智联招聘发布B端Agent“智联小招”，并在WorkBuddy首发开放体验",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-30/doc-iniwzazt8143274.shtml",
-      "summary": "值得关注的是，本次发布的另一大亮点是与WorkBuddy的场景融合。双方打通后，HR可以直接在WorkBuddy工作台表达招聘需求，一键生成岗位JD并发布至智联招聘平台，随后由“智联小招”无缝接续后续",
-      "source": "Bing·智联招聘",
+      "id": "26c8ab7c2bbb",
+      "title": "CyberSN：2026年1-9月美国网络安全职位发布量235786个，同比下降26.4%",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-19/doc-inivumam6837930.shtml",
+      "summary": "从整体趋势来看，企业对于人工智能知识和技能的需求依然旺盛。2026年前九个月，接近15%的网络安全职位招聘信息提及AI相关能力，与2025年同期15",
+      "source": "安全工程师·就业分析",
       "category": "就业",
-      "published": "2026-10-30T10:43:00.000Z",
-      "image": "//n.sinaimg.cn/finance/transform/116/w550h366/20261030/74b7-8c544775d771f67fcafb1e530bb44bbc.jpg",
-      "score": 60,
+      "published": "2026-10-19T13:23:00.000Z",
+      "image": "https://n.sinaimg.cn/tech/zcapp2018/doc_qrcode1.png",
+      "score": 65,
       "tags": []
     }
   ],
@@ -252,52 +214,126 @@
       "tags": []
     },
     {
-      "id": "4debffd760f9",
-      "title": "教室采光照明新国标11月1日起实施 如何让学生们“看得舒适”？",
-      "url": "https://www.chinanews.com.cn/edu/2026/11-01/10724126.shtml",
-      "summary": "11月1日，强制性国家标准《中小学校教室采光和照明卫生标准》正式实施",
+      "id": "f15af729c8bd",
+      "title": "第三届“人民艺术论坛”举办 成立红色美育共同体",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-01/10724302.shtml",
+      "summary": "中新网北京11月1日电 (记者 高凯)以“赓续红色血脉·铸魂时代新人”为主题中国人民大学第三届“人民艺术论坛”日前在北京举办。论坛现场，中国人民大学联合全国41所高校、文博文艺机构发起成立“红色铸魂·",
       "source": "中新网教育",
       "category": "社会",
-      "published": "2026-10-31T22:39:35.000Z",
+      "published": "2026-11-01T07:33:22.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 50,
       "tags": []
     },
     {
-      "id": "3ca9bd716635",
-      "title": "一份服务包如何打开家庭教育的“沟通之门”？",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-31/10723968.shtml",
-      "summary": "中新网上海10月31日电 (记者 缪璐)没有一本辅导书，家长们却觉得获益良多。这是很多家长在近日举行的“家在浦东”小升初家庭服务包试点发放暨座谈会上谈及的感受",
+      "id": "a287d21c0950",
+      "title": "（文化中国行·校馆弦歌）“无用”阅读恰所需 西南交通大学图书馆的阅读与健心",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-01/10724178.shtml",
+      "summary": "中新网成都11月1日电 题：“无用”阅读恰所需 西南交通大学图书馆的阅读与健心",
       "source": "中新网教育",
       "category": "社会",
-      "published": "2026-10-31T10:33:41.000Z",
+      "published": "2026-11-01T01:52:17.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 50,
       "tags": []
     }
   ],
+  "开发": [
+    {
+      "id": "8060ae2fb442",
+      "title": "科技爱好者周刊（第 417 期）：不要让 AI 代表你",
+      "url": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html",
+      "summary": "这里记录每周值得分享的科技内容，周五发布",
+      "source": "阮一峰",
+      "category": "开发",
+      "published": "2026-10-30T00:13:03.000Z",
+      "image": "",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "c7de5e3b72f1",
+      "title": "AI 复刻 Adobe 系列软件开发者坦言：项目远未准备就绪",
+      "url": "https://www.infoq.cn/article/a2X4KVOXOt6lACRv8IWh?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-03T15:12:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/88/yy/882bfbee93ae3287a085f09807d391yy.jpg"
+    },
+    {
+      "id": "62d1a7a69717",
+      "title": "从模型调用到任务交付：MaaS 如何走进 Agent 生产",
+      "url": "https://www.infoq.cn/article/zZutPTX8bsr6NWQYNC3A?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-03T14:40:18.000Z",
+      "image": "https://static001.infoq.cn/resource/image/37/ff/37dd37aa33f5f7c9a03eca0c4d2e36ff.png"
+    },
+    {
+      "id": "cd350802b17b",
+      "title": "Netflix 通过工作负载认证将 AWS IAM 与内部身份系统连接了起来",
+      "url": "https://www.infoq.cn/article/PJdTzbUNPBhvKEd6QuxZ?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-03T13:04:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/16/6b/16f9a72349e779b8eb4452a619eb416b.jpg"
+    },
+    {
+      "id": "854f721d2a99",
+      "title": "微软向6万员工发出自愿离职邀请：覆盖全球超四分之一员工，副总裁也在列",
+      "url": "https://www.infoq.cn/article/UNTqkzASI7dJuq65kSNZ?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-03T13:03:43.000Z",
+      "image": "https://static001.infoq.cn/resource/image/42/0f/423b4ff572cb072be48ed509d698590f.png"
+    }
+  ],
   "政策": [
     {
-      "id": "4dbe49f89217",
-      "title": "支持济青烟率先打造北方区域性就业聚集地！山东印发就业优先战略 ...",
-      "url": "https://sd.dzwww.com/sdnews/202610/t20261027_18244512.htm",
-      "summary": "（四）增强区域就业承载力。支持济南、青岛、烟台率先打造北方区域性就业聚集地，鼓励其他市立足功能定位、产业基础、人力资源增强就业带动能力",
-      "source": "就业创业政策",
+      "id": "7e0649d6d0c5",
+      "title": "内地高校澳门大学生求职技能提升系列辅导讲座在京举办",
+      "url": "https://news.ifeng.com/c/8xeZfFj0k1y",
+      "summary": "新华社北京10月30日电（记者许晓静）以“AI赋能 职业启航”为主题的内地高校澳门大学生求职技能提升系列辅导讲座29至30日在京举办。就读于北京、天津、上海等地高校的200余名澳门大学生参加活动",
+      "source": "Bing·大学生就业政策",
       "category": "政策",
-      "published": "2026-10-27T06:24:00.000Z",
-      "image": "https://www.dzwww.com/tpl/v2019/xilan/images/logo1.png",
+      "published": "2026-10-30T15:45:00.000Z",
+      "image": "https://x0.ifengimg.com/ucms/2019_38/AC5B8A2AE18AB61C7067AFFDBBCD12D16295DDA2_w121_h75.jpg",
       "score": 55,
       "tags": []
     },
     {
-      "id": "115a7f26b6ce",
+      "id": "f1324f1267f6",
+      "title": "区市动态丨城阳区：政策宣讲“打包”进校园 扎实推进高校毕业生 ...",
+      "url": "https://www.sohu.com/a/1094167299_121106991",
+      "summary": "眼下正值高校毕业生就业创业的关键期，面对档案转递、落户办理、住房补贴申领、社保参保等一系列繁杂事项，不少毕业生面临“多头跑、政策盲、流程繁”的困扰。为有效破解这一痛点，扎实推进高校毕业生服务“一类事”",
+      "source": "Bing·高校毕业生就业创业政策",
+      "category": "政策",
+      "published": "2026-10-29T00:57:00.000Z",
+      "image": "https://q4.itc.cn/q_70/images03/20261029/71b396a602de4adc9b2cb6ed499c2a47.jpeg",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "a9d1d5eb1544",
+      "title": "走出象牙塔，百企促就业！ 宝山区高校毕业生就业创业嘉年华活动暨 ...",
+      "url": "https://www.sohu.com/a/1095655183_121123723",
+      "summary": "10月31日上午，“乐业上海优+”行动——宝山区高校毕业生就业创业嘉年华活动暨鸿蒙人才双选会（上海站）举行。活动以“走出象牙塔”为主题，聚焦高校毕业生等群体，集中推出“一揽子”就业服务举措，搭建劳动者",
+      "source": "Bing·高校毕业生就业创业政策",
+      "category": "政策",
+      "published": "2026-11-01T03:29:00.000Z",
+      "image": "https://q6.itc.cn/q_70/images03/20261101/857d6b83f1ce486292cdd1c2ea363caf.jpeg",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "421bc4b2d00b",
       "title": "“雏鹰计划”推广暨湖南省大学生（湘潭）创业投资基金签约投放 ...",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-30/doc-iniwyncy2323690.shtml",
+      "url": "https://www.sohu.com/a/1094922216_121106908",
       "summary": "10月29日，雏鹰振翅&#183;莲城启航——“雏鹰计划”推广暨湖南省大学生（湘潭）创业投资基金签约投放仪式在湘潭大学举行。市委书记胡贺波致辞，省财政事务中心党委书记、主任张明出席，湖南财信金融控股集",
       "source": "Bing·大学生创业扶持政策",
       "category": "政策",
-      "published": "2026-10-29T17:01:00.000Z",
-      "image": "//n.sinaimg.cn/front20261030ac/739/w1080h459/20261030/bb4c-9a248d9f74cefc5c7ea9c219b6d8a4bc.jpg",
+      "published": "2026-10-30T03:47:00.000Z",
+      "image": "//q8.itc.cn/q_70/images03/20261030/20582048c7bf40628a369015e10bc380.jpeg",
       "score": 50,
       "tags": []
     },
@@ -312,76 +348,52 @@
       "image": "//n.sinaimg.cn/front20261028ac/640/w720h720/20261028/d1df-da5d92beb144714b183bdd54d7f96582.jpg",
       "score": 50,
       "tags": []
-    },
-    {
-      "id": "c2b882425333",
-      "title": "荆州市2026年度“能人返乡”特色创业项目和大学生创业扶持项目路演 ...",
-      "url": "https://news.cjn.cn/zjjjdpd/yw_20048/202610/t5354540.htm",
-      "summary": "10月30日，荆州市2026年度“能人返乡”特色创业项目和大学生创业扶持项目路演活动在湖北中医药高等专科学校举行。返乡创业能人与大学生创业者同台竞技，首次以市县联动路演模式展示风采，并推出创业扶持及金",
-      "source": "Bing·大学生创业扶持政策",
-      "category": "政策",
-      "published": "2026-10-31T00:50:00.000Z",
-      "image": "http://img.cjn.cn/2023cjn/page/img/wlcjx.jpg",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "7dc759097667",
-      "title": "巾帼创业“贷”来希望！市妇联开展创业担保贷款政策宣传活动",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34384995",
-      "summary": "为落实《中国人民银行 金融监管总局 全国妇联关于进一步加强金融支持妇女就业发展的实施意见》部署要求，人行临汾市分行、市财政局、市人社局、市妇联联合印发《关于进一步加强创业担保贷款政策宣传工作的通知》，",
-      "source": "就业创业政策",
-      "category": "政策",
-      "published": "2026-10-31T12:47:00.000Z",
-      "image": "https://file.thepaper.cn/clt/img/gov_small.png",
-      "score": 50,
-      "tags": []
     }
   ],
   "财经": [
     {
-      "id": "80deeac0a9b0",
-      "title": "从“净进口”到“净出口” 鸡肉出口反转折射产业进步",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725106.shtml",
+      "id": "d66558248377",
+      "title": "广交会观察：70年，一扇“窗”，世界看见一个怎样的中国？",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725340.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-03T00:17:25.000Z",
+      "published": "2026-11-03T07:24:14.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "9aaf4d367357",
-      "title": "算力用电年均新增一千亿度以上，怎么接住？",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725099.shtml",
+      "id": "8a0d9c196950",
+      "title": "中国央行决定上调金融机构外汇存款准备金率至6%",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725306.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-02T23:46:45.000Z",
+      "published": "2026-11-03T06:58:53.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "ce56370394d4",
-      "title": "Token登上“双十一”货架",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725098.shtml",
+      "id": "f24f46ed2117",
+      "title": "我国广电视听形成“两个10亿”超大规模市场格局",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725332.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-02T23:45:19.000Z",
+      "published": "2026-11-03T06:49:18.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "6192fd8db0a9",
-      "title": "港交所扩大人民币债券抵押品适用范围 首日抵押总值超4亿元人民币",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-02/10725078.shtml",
+      "id": "e4be5e0bafc7",
+      "title": "金融机构外汇存款准备金率提高到6%有何意义？",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725310.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-02T15:40:28.000Z",
+      "published": "2026-11-03T06:29:05.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "47c995b0e4d9",
-      "title": "证监会：在风险总体可控的基础上，适度释放融资空间",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-02/10725063.shtml",
+      "id": "62ae627308b9",
+      "title": "到2030年中国海洋生产总值预计突破13万亿元",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725291.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-02T14:14:38.000Z",
+      "published": "2026-11-03T06:27:07.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]

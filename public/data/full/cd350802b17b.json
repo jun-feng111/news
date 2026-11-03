@@ -1,0 +1,7 @@
+{
+  "id": "cd350802b17b",
+  "title": "Netflix 通过工作负载认证将 AWS IAM 与内部身份系统连接了起来",
+  "url": "https://www.infoq.cn/article/PJdTzbUNPBhvKEd6QuxZ?utm_source=rss&amp;utm_medium=article",
+  "contentZh": "",
+  "contentFull": "Netflix 开发了一种工作负载认证机制，允许在 Amazon EMR 上运行的 Apache Spark 任务将其 AWS 执行身份替换为一个短效的内部工作负载身份。该方法将 AWS IAM 与 Netflix 内部的 Metatron PKI 相连接，使托管的计算工作负载无需手动注入凭据即可向内部服务进行身份验证。在 LinkedIn 上的一篇博文中，Netflix 大数据平台工程师 Dhruv Pratap 是这样描述该设计的：在自行构建的基础设施上，你可以随心所欲地初始化自己的身份。Netflix 运行着两个身份识别系统。AWS 为托管工作负载提供 IAM 执行角色，而内部服务则使用 Metatron——这是一个私有 PKI，用于为双向 TLS 签发短效 X.509 证书。Netflix 还使用 Data Project 作为数据访问的所有权和身份边界。因此，在 EMR 上运行的 Spark 作业需要验证其 AWS 身份是否与 Data Project 关联的内部身份相对应。该设计将每个 Data Project 映射到一个专用的 IAM 角色。由于 Netflix 预计 Data Project 的数量将达到数万个，所以这些角色会以确定性地方式分布在专用的 AWS 账户池中，而非集中于单个账户里。当提交一个任务时，Netflix 的控制平面会验证该请求，解析 Data Project 的 IAM 角色，并创建一个已签名的工作负载元数据有效载荷，用于标识目标工作负载。控制平面是唯一有权创建这些声明的服务。Spark 驱动程序使用与其执行角色关联的凭据，向 AWS 安全令牌服务 (STS) 的 GetCallerIdentity 端点发送一个预签名的请求。Netflix 身份服务从 AWS STS 检索该请求，以确定是哪个 IAM 角色对其进行了签名，从而提供一份可独立验证的工作负载 AWS 身份标识。随后，Identity 服务会将 AWS 的响应与来自控制平面的签名元数据进行比对。AWS 响应证明持有预期的 IAM 角色，而签名元数据则标识了目标工作负载。通过两者的交叉验证，该服务便可以签发 Metatron 证书。该架构还解决了 Spark 执行器的扇出问题。Netflix 没有对数千个执行器进行独立认证，而是让驱动程序进行一次认证，并通过经过身份验证和加密的 Spark RPC 分发凭据。这既避免了与执行器数量成正比的认证流量，又使驱动程序成为额外的凭据分发信任边界。凭证续期与初始引导是分开处理的。在其短效证书过期前，驱动程序会定期进行重新认证，而执行器则不会单独进行凭证续期。Netflix 指出，对于长期运行的工作负载，可重复认证至关重要。该模式将内部工作负载的身份与托管计算提供商相分离，同时又保留提供商的身份作为加密证明。Netflix 表示，该方法也可以应用于其他托管环境——这些环境中，虽然工作负载获得了云身份，但仍然需要创建独立的组织身份。原文链接：https://www.infoq.com/news/2026/10/netflix-workload-attestation-aws/"
+}
