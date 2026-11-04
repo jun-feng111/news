@@ -1,6 +1,30 @@
 {
   "AI": [
     {
+      "id": "bf81805a5ae8",
+      "title": "Anthropic is working on a system to prove AI models&#8217; identity",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "summary": "Anthropic is working on a system to prove AI models&#8217; identity",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-11-03T22:41:03.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294192768.jpg?resize=1200,798",
+      "score": 80,
+      "tags": []
+    },
+    {
+      "id": "4970a06a586c",
+      "title": "Data centers are turning to old jet engines as the wait for power grows",
+      "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+      "summary": "Data centers are turning to old jet engines as the wait for power grows",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-11-03T22:19:53.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Commercial-plane-clouds.jpg?w=719",
+      "score": 75,
+      "tags": []
+    },
+    {
       "id": "0018ea6e4618",
       "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
       "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
@@ -9,30 +33,18 @@
       "category": "AI",
       "published": "2026-11-03T19:34:43.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1268605503.jpg?resize=1200,420",
-      "score": 80,
+      "score": 75,
       "tags": []
     },
     {
-      "id": "b0c96602861b",
-      "title": "Netflix&#8217;s new AI Discover tab helps you find something to watch based on your mood",
-      "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
-      "summary": "Netflix&#8217;s new AI Discover tab helps you find something to watch based on your mood",
+      "id": "0835e4c1adb3",
+      "title": "Ted Schlein&#8217;s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+      "summary": "Ted Schlein&#8217;s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
       "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-11-03T18:42:16.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2235383828.jpg?resize=1200,800",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "72683f747424",
-      "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
-      "url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
-      "summary": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents t",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-11-03T17:56:52.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2281430305.jpg?w=1024",
+      "published": "2026-11-03T21:43:08.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/Ballistic-Ventures-GP-team.jpg?resize=1200,801",
       "score": 70,
       "tags": []
     }
@@ -52,9 +64,9 @@
     },
     {
       "id": "6eee28ac063d",
-      "title": "Orbital Matter 3D printed the first rigid beam in the vacuum of space",
+      "title": "Orbital Matter 3D-printed the first rigid beam in the vacuum of space",
       "url": "https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/",
-      "summary": "Orbital Matter 3D printed the first rigid beam in the vacuum of space",
+      "summary": "Orbital Matter 3D-printed the first rigid beam in the vacuum of space",
       "source": "TechCrunch",
       "category": "科技",
       "published": "2026-11-03T20:57:17.000Z",
@@ -71,19 +83,7 @@
       "category": "科技",
       "published": "2026-11-03T18:51:33.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/ferrari-luce-getty.jpg?resize=1200,799",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "741c3465b3a0",
-      "title": "Anthropic is still grappling with the economics of compute",
-      "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
-      "summary": "Anthropic is still grappling with the economics of compute",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-03T17:07:01.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294935494.jpg?resize=1200,800",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -95,7 +95,19 @@
       "category": "科技",
       "published": "2026-11-03T19:45:48.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/dprk-kim-2252780532.jpg?resize=1200,801",
-      "score": 65,
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "a6f623d2e805",
+      "title": "Reddit tests ads in search results as traffic declines and growth concerns mount",
+      "url": "https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount/",
+      "summary": "Reddit tests ads in search results as traffic declines and growth concerns mount",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-03T19:24:37.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1048288996.jpg?resize=1200,675",
+      "score": 60,
       "tags": []
     }
   ],
@@ -149,13 +161,13 @@
       "tags": []
     },
     {
-      "id": "c5f4db9bb77c",
-      "title": "复旦大学哲学学院（系）迎来七十周岁“生日”",
-      "url": "https://www.chinanews.com.cn/edu/2026/11-01/10724459.shtml",
-      "summary": "中新网上海11月1日电 (记者 陈静)今年是复旦大学哲学学院(系)成立七十周年。国际哲学学会联合会(FISP)前任主席卢卡·斯卡兰蒂诺1日在此间指出，复旦大学哲学学院始终走在拓展哲学文化视野的前沿，是",
+      "id": "889810785bd3",
+      "title": "每周至少半天校外实践教学将在全国推行 专家建议：课时进课表经费进预算责任进清单",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-02/10724533.shtml",
+      "summary": "本报记者 赵丽",
       "source": "中新网教育",
       "category": "社会",
-      "published": "2026-11-01T12:06:28.000Z",
+      "published": "2026-11-01T23:28:54.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 50,
       "tags": []
@@ -194,7 +206,6 @@
       "source": "测试开发·就业分析",
       "category": "就业",
       "published": "2026-10-25T10:31:00.000Z",
-      "image": "",
       "score": 65,
       "tags": []
     },
@@ -337,48 +348,48 @@
   ],
   "财经": [
     {
-      "id": "66e617e539dd",
-      "title": "“京港国际会客厅”在北京揭牌",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725688.shtml",
+      "id": "7cc5cb27c50b",
+      "title": "市场监管总局就《市场监督管理行政处罚裁量规定》答记者问",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725749.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-03T15:54:32.000Z",
+      "published": "2026-11-04T01:40:52.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "2e493a4510e9",
-      "title": "宁夏健全奶产业标准体系筑牢质量防线 21家乳企取得HACCP等体系认证",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725682.shtml",
+      "id": "b8d5ae20c146",
+      "title": "爱奇艺“爆前计划”高口碑武侠片《杯雪·一战成名》举办线下观影会 主创揭秘幕后创作故事现场获赞",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725767.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-03T15:50:58.000Z",
+      "published": "2026-11-04T01:40:14.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "2b2aa74ce25a",
-      "title": "昆明长水国际机场T2航站楼主体混凝土结构实现全面封顶",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725678.shtml",
+      "id": "48148faec9b4",
+      "title": "量贩零食店越开越多 是真低价还是定价魔术？",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725768.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-03T15:47:03.000Z",
+      "published": "2026-11-04T01:38:46.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "d0381e729392",
-      "title": "麦后复种油葵测产喜获佳绩 引黄灌区一地双收拓宽增收路",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725675.shtml",
+      "id": "38faa9666ffc",
+      "title": "瑞幸2026Q3净增门店2599家 全球门店总数达38909家",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725764.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-03T15:43:51.000Z",
+      "published": "2026-11-04T01:37:26.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "495845afd7b7",
-      "title": "一栋楼链全球 广州南沙打造跨境贸易“一站式”出海枢纽",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-03/10725673.shtml",
+      "id": "e3ebb2c306a4",
+      "title": "A股开盘：沪指低开，深指、创业板指高开，超2600只个股飘红",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10725765.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-03T15:43:21.000Z",
+      "published": "2026-11-04T01:34:32.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
