@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T01:57:38.072Z",
+  "updated": "2026-11-04T08:43:35.207Z",
   "count": 116,
   "sources": {
     "V2EX": 7,
@@ -9,6 +9,29 @@
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1254351",
+      "title": "OmnixDrive 人才招募",
+      "company": "OrbitDrive",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "python",
+        "go",
+        "c++",
+        "pytorch",
+        "tensorflow"
+      ],
+      "category": "其他",
+      "postedDate": "2026-11-04",
+      "url": "https://www.v2ex.com/t/1254351",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1254321",
       "title": "想在 Upwork 接点活，现在新号买 Connects 进去是纯当韭菜吗？求做过的老哥拍醒",
@@ -166,21 +189,34 @@
       "region": "domestic"
     },
     {
-      "id": "v2ex-1253866",
-      "title": "Token Foundry Infra（Qwen 大模型底座）社招内推",
-      "company": "lxlzyc233",
-      "location": "阿里",
-      "remote": false,
+      "id": "remoteok-1137624",
+      "title": "Senior Property Manager ENG",
+      "company": "StaffRight",
+      "location": "Remote",
+      "remote": true,
       "salaryText": "",
       "salaryMin": null,
       "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [],
-      "category": "其他",
-      "postedDate": "2026-11-02",
-      "url": "https://www.v2ex.com/t/1253866",
-      "source": "V2EX",
-      "region": "domestic"
+      "salaryCurrency": "",
+      "skills": [
+        "exec",
+        "hr",
+        "technical",
+        "customer support",
+        "dev",
+        "travel",
+        "finance",
+        "php",
+        "microsoft",
+        "senior",
+        "junior",
+        "ops"
+      ],
+      "category": "exec",
+      "postedDate": "2026-11-03",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-property-manager-eng-staffright-1137624",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137622",
@@ -3072,36 +3108,6 @@
       "category": "exec",
       "postedDate": "2026-08-05",
       "url": "https://remoteOK.com/remote-jobs/remote-head-of-security-tremendous-1136210",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1136778",
-      "title": "Operations Engineer II",
-      "company": "AWeber",
-      "location": "Uluberia-II,",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "infosec",
-        "javascript",
-        "technical",
-        "exec",
-        "sys admin",
-        "customer support",
-        "web dev",
-        "virtual assistant",
-        "video",
-        "api",
-        "ops",
-        "marketing"
-      ],
-      "category": "infosec",
-      "postedDate": "2026-08-04",
-      "url": "https://remoteOK.com/remote-jobs/remote-operations-engineer-ii-aweber-1136778",
       "source": "RemoteOK",
       "region": "foreign"
     }
