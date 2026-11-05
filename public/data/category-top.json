@@ -1,120 +1,117 @@
 {
-  "科技": [
-    {
-      "id": "2eb6a6c5dd16",
-      "title": "Amazon ditches GrubHub, taps Uber Eats for Prime",
-      "url": "https://techcrunch.com/2026/11/05/amazon-ditches-grubhub-taps-uber-eats-for-prime/",
-      "summary": "Amazon ditches GrubHub, taps Uber Eats for Prime",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-05T11:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/amazon-uber.jpg?resize=1200,675",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "487fe86018a1",
-      "title": "After the midterms, a bigger clash over data centers could be coming",
-      "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
-      "summary": "After the midterms, a bigger clash over data centers could be coming",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-05T01:02:14.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/11/us-congress-at-night.jpg?resize=1200,677",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "07455c8ab57d",
-      "title": "Hackers stole DreamHost customer files and inboxes during months-long attack",
-      "url": "https://techcrunch.com/2026/11/04/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-attack/",
-      "summary": "Hackers stole DreamHost customer files and inboxes during months-long attack",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-04T20:36:57.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2249547675.jpg?w=1024",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "2685c0ac9723",
-      "title": "Open source AI is booming. Hugging Face explains who profits.",
-      "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-04T19:30:04.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024"
-    },
-    {
-      "id": "cbd69ab726f5",
-      "title": "DuckDuckGo pitches itself to schools amid backlash over Google&#8217;s AI policy",
-      "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-04T19:29:52.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/DuckDuckGo_NoAI.png?resize=1200,784"
-    }
-  ],
   "AI": [
     {
-      "id": "87cd57a95fdb",
-      "title": "Apple is reportedly cutting budgets for its internal AI usage",
-      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
-      "summary": "Apple is reportedly cutting budgets for its internal AI usage",
+      "id": "2bf787a301ee",
+      "title": "OpenAI released a new cybersecurity model. Is that enough?",
+      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+      "summary": "OpenAI released a new cybersecurity model。 Is that enough",
       "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-11-05T01:26:22.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/iphone-usb-cable.jpg?resize=1200,800",
+      "published": "2026-11-05T19:06:12.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/openai-daybreak.jpg?resize=1200,798",
+      "score": 85,
+      "tags": []
+    },
+    {
+      "id": "3cbf932ea50c",
+      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+      "summary": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-11-05T18:02:27.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/10/Greg-Brockman-OpenAIDSC02862.jpg?resize=1200,800",
+      "score": 80,
+      "tags": []
+    },
+    {
+      "id": "7dac5ce0cdad",
+      "title": "Axiom Math wants to keep AI slop out of mathematics",
+      "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+      "summary": "Axiom Math wants to keep AI slop out of mathematics",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-11-05T16:16:45.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Axiom-Team-2.jpg?resize=1200,800",
+      "score": 80,
+      "tags": []
+    },
+    {
+      "id": "ecdcd39295ca",
+      "title": "Claude can now analyze your spending with its new Personal Finance tool",
+      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+      "summary": "Claude can now analyze your spending with its new Personal Finance tool",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-11-05T18:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Claude-Personal-Finance-2.png?resize=1200,675",
       "score": 75,
       "tags": []
     },
     {
-      "id": "2a45f43e41ba",
-      "title": "AI PACs spent millions trying to shape Congress — here&#8217;s how they fared",
-      "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
-      "summary": "AI PACs spent millions trying to shape Congress — here&#8217;s how they fared",
+      "id": "91add19a8cd7",
+      "title": "Harbinger raises $240M after expanding into defense",
+      "url": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
+      "summary": "Harbinger raises $240M after expanding into defense",
       "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-11-04T22:45:09.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2264644532.jpg?resize=1200,800",
+      "published": "2026-11-05T17:52:44.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Harbinger-Newsroom-Thumbnail-260610.jpeg?resize=1200,800",
+      "score": 75,
+      "tags": []
+    }
+  ],
+  "科技": [
+    {
+      "id": "6247b6836c7e",
+      "title": "Food delivery startup Wonder files for IPO as it explores its next big bite",
+      "url": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/",
+      "summary": "Food delivery startup Wonder files for IPO as it explores its next big bite",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-05T17:11:48.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/wonder.jpg?resize=1200,800",
       "score": 75,
       "tags": []
     },
     {
-      "id": "d13217a5b492",
-      "title": "Almost no one uses AI agents to book their Uber, company says",
-      "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
-      "summary": "Almost no one uses AI agents to book their Uber, company says",
+      "id": "5a2872a71ffa",
+      "title": "Bluesky hit peak usage for the year on election night",
+      "url": "https://techcrunch.com/2026/11/05/bluesky-hit-peak-usage-for-the-year-on-election-night/",
+      "summary": "Bluesky hit peak usage for the year on election night",
       "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-11-04T21:56:01.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/uber-getty.jpg?resize=1200,800",
+      "category": "科技",
+      "published": "2026-11-05T15:44:58.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/bluesky-GettyImages-2185144073.jpg?w=1024",
       "score": 75,
       "tags": []
     },
     {
-      "id": "423e16ab4854",
-      "title": "OpenAI is already trying to shape the 2028 election",
-      "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
-      "summary": "OpenAI is already trying to shape the 2028 election",
+      "id": "3ceac8608e40",
+      "title": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
+      "url": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
       "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-11-04T21:25:44.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
-      "score": 75,
-      "tags": []
+      "category": "科技",
+      "published": "2026-11-05T15:40:34.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/09/Zipline-Package-Drop.jpg?resize=1200,675"
     },
     {
-      "id": "421e2b40f3bf",
-      "title": "Meta acquires AI coding startup Conductor",
-      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-      "summary": "Meta acquires AI coding startup Conductor",
+      "id": "0344dd949fcd",
+      "title": "TikTok quietly launches a stand-alone TikTok Shop app",
+      "url": "https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/",
       "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-11-04T21:10:56.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-ray-bans.png?resize=1200,653",
-      "score": 75,
-      "tags": []
+      "category": "科技",
+      "published": "2026-11-05T15:33:58.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/tiktok-shop-app.png?resize=1200,819"
+    },
+    {
+      "id": "939524e97f24",
+      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-05T15:19:05.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1211180751.jpg?w=1024"
     }
   ],
   "社会": [
@@ -181,18 +178,6 @@
   ],
   "就业": [
     {
-      "id": "e82658404d5d",
-      "title": "嵌入HR工作流，智联招聘发布B端Agent“智联小招”",
-      "url": "https://www.sohu.com/a/1095053127_110683",
-      "summary": "10月29日，智联招聘在2026腾讯全球数字生态大会上推出自主研发的B端招聘Agent（智能体）产品“智联小招”。同时，智联招聘与办公协同平台WorkBuddy达成深度生态合作，首次将“智联小招”的A",
-      "source": "Bing·智联招聘",
-      "category": "就业",
-      "published": "2026-10-30T11:53:00.000Z",
-      "image": "//q7.itc.cn/images01/20261030/c272d2c4791442868ff625fb7d90645c.jpeg",
-      "score": 65,
-      "tags": []
-    },
-    {
       "id": "0955340deee2",
       "title": "高顿携手腾讯WorkBuddy生态发布首款大学生实习就业AI Agent",
       "url": "https://cn.chinadaily.com.cn/a/202609/03/WS6a98e41ce4b09a165c787b27.html",
@@ -238,6 +223,18 @@
       "published": "2026-10-19T13:23:00.000Z",
       "image": "https://n.sinaimg.cn/tech/zcapp2018/doc_qrcode1.png",
       "score": 65,
+      "tags": []
+    },
+    {
+      "id": "c4610a185fe7",
+      "title": "智联招聘发布B端Agent“智联小招”，并在WorkBuddy首发开放体验",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-30/doc-iniwzazt8143274.shtml",
+      "summary": "值得关注的是，本次发布的另一大亮点是与WorkBuddy的场景融合。双方打通后，HR可以直接在WorkBuddy工作台表达招聘需求，一键生成岗位JD并发布至智联招聘平台，随后由“智联小招”无缝接续后续",
+      "source": "Bing·智联招聘",
+      "category": "就业",
+      "published": "2026-10-30T10:43:00.000Z",
+      "image": "//n.sinaimg.cn/finance/transform/116/w550h366/20261030/74b7-8c544775d771f67fcafb1e530bb44bbc.jpg",
+      "score": 60,
       "tags": []
     }
   ],
@@ -293,14 +290,14 @@
   ],
   "政策": [
     {
-      "id": "ed0822808f9b",
-      "title": "温州发布专项政策指南 为残疾人大学生就业创业“撑腰”",
-      "url": "https://news.66wz.com/system/2026/07/16/105805829.shtml",
-      "summary": "市人社局与市残联携手对现行最实用、最优惠的就创业补贴政策进行全面梳理，并形成《温州市残疾人大学生就业创业政策指南》，助力这一特殊群体跨越障碍，实现更加充分、更高质量的就业和创业。 温州网讯 为支持更多",
-      "source": "就业创业政策",
+      "id": "3d54da0059ab",
+      "title": "人社部发布：2026年前三季度人力资源和社会保障工作主要进展情况及 ...",
+      "url": "https://www.sohu.com/a/1096063102_123016950",
+      "summary": "今年以来，在以习近平同志为核心的党中央坚强领导下，各级人力资源社会保障部门认真贯彻落实党中央、国务院决策部署，坚持稳中求进工作总基调，积极进取、扎实工作，各项工作进展顺利。 一、就业 工作进展情况：1",
+      "source": "Bing·人社部就业创业政策",
       "category": "政策",
-      "published": "2026-07-16T01:51:00.000Z",
-      "image": "https://news.66wz.com/pic/003/013/337/00301333742_93765919.gif",
+      "published": "2026-11-02T05:37:00.000Z",
+      "image": "",
       "score": 55,
       "tags": []
     },
@@ -317,14 +314,14 @@
       "tags": []
     },
     {
-      "id": "45c6ee878915",
-      "title": "大兴区启动“兴采&#183;青苗”高校大学生实习计划",
-      "url": "https://www.sohu.com/a/1096199502_163278",
-      "summary": "为持续深化“政校企”协同促就业服务机制，促进高校毕业生实现高质量充分就业，近日，大兴区人力社保局启动“兴采&#183;青苗”高校大学生实习计划。 启动会上，大兴区相关部门分别介绍了辖区人才政策及服务措",
-      "source": "Bing·大学生就业政策",
+      "id": "5c9119c0eb21",
+      "title": "【西盟县】党建搭台 政银联动——县人社局党支部以“三联”聚力 ...",
+      "url": "https://www.sohu.com/a/1096640927_121106902",
+      "summary": "就业是最大的民生，创业是就业之源。如何让就业创业政策真正惠及群众",
+      "source": "Bing·人社部就业创业政策",
       "category": "政策",
-      "published": "2026-11-02T09:47:00.000Z",
-      "image": "https://q1.itc.cn/q_70/images03/20261102/f06e892d936e4fdc92477255dec8d833.jpeg",
+      "published": "2026-11-03T08:49:00.000Z",
+      "image": "https://q9.itc.cn/q_70/images03/20261103/b1555ba4adb6449a8ee0f9688870f93d.jpeg",
       "score": 50,
       "tags": []
     },
@@ -355,48 +352,48 @@
   ],
   "财经": [
     {
-      "id": "1bea5e3cc199",
-      "title": "（第九届进博会）出口中国能力发展报告首次发布",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726828.shtml",
+      "id": "b3355a55ddb4",
+      "title": "（第九届进博会）从“展示窗口”到“创新加速器”：进博会医疗创新孵化专区强力链接全球双循环",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726967.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-05T11:48:08.000Z",
+      "published": "2026-11-05T15:48:25.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "671e6ca67b69",
-      "title": "第140届广交会期间广州口岸出入境人员达126万人次",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726796.shtml",
+      "id": "71773c5bb476",
+      "title": "黑龙江电力外送签约电量首破200亿千瓦时",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726965.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-05T11:23:02.000Z",
+      "published": "2026-11-05T15:43:07.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "b283059df2e6",
-      "title": "多场景“上岗” 安徽机器人“新员工”加速就位",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726779.shtml",
+      "id": "1bfbb311f9bd",
+      "title": "第四届广西农民工创业大赛收官 创业成果集中亮相",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726963.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-05T10:52:49.000Z",
+      "published": "2026-11-05T15:42:23.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "4af334ae50b0",
-      "title": "（经济观察）20余城落地“现房销售制” 房地产发展新模式加速构建",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726776.shtml",
+      "id": "418e8feab377",
+      "title": "邯郸（鸡泽）国际物流产业园十年“织”就出海路",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726953.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-05T10:31:18.000Z",
+      "published": "2026-11-05T15:23:04.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "a0cd4c54b763",
-      "title": "全国首个“电力鸿蒙”兆瓦级液冷超充重卡补能示范站落地昆明",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726772.shtml",
+      "id": "1573a10a0067",
+      "title": "向北开放势能持续释放 绥芬河迎来新增长极",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726940.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-05T10:27:33.000Z",
+      "published": "2026-11-05T15:04:01.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
