@@ -1,67 +1,17 @@
 {
-  "AI": [
+  "科技": [
     {
-      "id": "87cd57a95fdb",
-      "title": "Apple is reportedly cutting budgets for its internal AI usage",
-      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
-      "summary": "Apple is reportedly cutting budgets for its internal AI usage",
+      "id": "2eb6a6c5dd16",
+      "title": "Amazon ditches GrubHub, taps Uber Eats for Prime",
+      "url": "https://techcrunch.com/2026/11/05/amazon-ditches-grubhub-taps-uber-eats-for-prime/",
+      "summary": "Amazon ditches GrubHub, taps Uber Eats for Prime",
       "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-11-05T01:26:22.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/iphone-usb-cable.jpg?resize=1200,800",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "2a45f43e41ba",
-      "title": "AI PACs spent millions trying to shape Congress — here&#8217;s how they fared",
-      "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
-      "summary": "AI PACs spent millions trying to shape Congress — here&#8217;s how they fared",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-11-04T22:45:09.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2264644532.jpg?resize=1200,800",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "d13217a5b492",
-      "title": "Almost no one uses AI agents to book their Uber, company says",
-      "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
-      "summary": "Almost no one uses AI agents to book their Uber, company says",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-11-04T21:56:01.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/uber-getty.jpg?resize=1200,800",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "423e16ab4854",
-      "title": "OpenAI is already trying to shape the 2028 election",
-      "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
-      "summary": "OpenAI is already trying to shape the 2028 election",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-11-04T21:25:44.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "b794bf9cbb16",
-      "title": "Snapchat surpasses 30M paid subscribers",
-      "url": "https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/",
-      "summary": "Snapchat surpasses 30M paid subscribers",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-11-04T21:49:29.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-647104884.jpg?resize=1200,800",
+      "category": "科技",
+      "published": "2026-11-05T11:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/amazon-uber.jpg?resize=1200,675",
       "score": 75,
       "tags": []
-    }
-  ],
-  "科技": [
+    },
     {
       "id": "487fe86018a1",
       "title": "After the midterms, a bigger clash over data centers could be coming",
@@ -71,7 +21,7 @@
       "category": "科技",
       "published": "2026-11-05T01:02:14.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2025/11/us-congress-at-night.jpg?resize=1200,677",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -87,6 +37,15 @@
       "tags": []
     },
     {
+      "id": "2685c0ac9723",
+      "title": "Open source AI is booming. Hugging Face explains who profits.",
+      "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-04T19:30:04.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024"
+    },
+    {
       "id": "cbd69ab726f5",
       "title": "DuckDuckGo pitches itself to schools amid backlash over Google&#8217;s AI policy",
       "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
@@ -94,24 +53,68 @@
       "category": "科技",
       "published": "2026-11-04T19:29:52.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/DuckDuckGo_NoAI.png?resize=1200,784"
+    }
+  ],
+  "AI": [
+    {
+      "id": "87cd57a95fdb",
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "summary": "Apple is reportedly cutting budgets for its internal AI usage",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-11-05T01:26:22.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/iphone-usb-cable.jpg?resize=1200,800",
+      "score": 75,
+      "tags": []
     },
     {
-      "id": "2b08cd023332",
-      "title": "Waymo confirms it&#8217;s shaking up its Uber relationship in January 2028",
-      "url": "https://techcrunch.com/2026/11/04/waymo-confirms-its-shaking-up-its-uber-relationship-in-january-2028/",
+      "id": "2a45f43e41ba",
+      "title": "AI PACs spent millions trying to shape Congress — here&#8217;s how they fared",
+      "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+      "summary": "AI PACs spent millions trying to shape Congress — here&#8217;s how they fared",
       "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-04T18:12:30.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/waymo-ojai-getty.jpg?resize=1200,800"
+      "category": "AI",
+      "published": "2026-11-04T22:45:09.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2264644532.jpg?resize=1200,800",
+      "score": 75,
+      "tags": []
     },
     {
-      "id": "4e245489c077",
-      "title": "&#8216;You Can See Everything&#8217; is getting an outer space release and it hasn&#8217;t even come out in Europe yet",
-      "url": "https://techcrunch.com/2026/11/04/you-can-see-everything-is-getting-an-outer-space-release-and-it-hasnt-even-come-out-in-europe-yet/",
+      "id": "d13217a5b492",
+      "title": "Almost no one uses AI agents to book their Uber, company says",
+      "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+      "summary": "Almost no one uses AI agents to book their Uber, company says",
       "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-04T18:10:11.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/V8_PHASE-1_LOBTS.jpg?resize=1200,900"
+      "category": "AI",
+      "published": "2026-11-04T21:56:01.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/uber-getty.jpg?resize=1200,800",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "423e16ab4854",
+      "title": "OpenAI is already trying to shape the 2028 election",
+      "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+      "summary": "OpenAI is already trying to shape the 2028 election",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-11-04T21:25:44.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "421e2b40f3bf",
+      "title": "Meta acquires AI coding startup Conductor",
+      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+      "summary": "Meta acquires AI coding startup Conductor",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-11-04T21:10:56.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-ray-bans.png?resize=1200,653",
+      "score": 75,
+      "tags": []
     }
   ],
   "社会": [
@@ -125,6 +128,18 @@
       "published": "2026-11-01T10:06:02.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 65,
+      "tags": []
+    },
+    {
+      "id": "f4fcde740208",
+      "title": "第五届“京彩大创”北京大学生创新创业大赛收官",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-03/10725470.shtml",
+      "summary": "中新网北京11月3日电 (记者 陈杭)第五届“京彩大创”北京大学生创新创业大赛总决赛冠军赛暨颁奖典礼2日在北京中关村国际技术交易中心举办。北京大学鑫研微末团队摘得本届大赛冠军桂冠",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-11-03T10:12:49.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
       "tags": []
     },
     {
@@ -162,18 +177,6 @@
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 50,
       "tags": []
-    },
-    {
-      "id": "715279cb5c4f",
-      "title": "天津启动学科专业融入支撑生物医药和脑机接口产业发展项目",
-      "url": "https://www.chinanews.com.cn/edu/2026/11-01/10724407.shtml",
-      "summary": "中新网天津11月1日电 (记者 周亚强)10月31日，天津市学科专业融入支撑产业发展项目启动会暨产教融合创新工作推动会在天津医科大学举行。会议启动生物医药、脑机接口两大重点产业链产教融合项目，并集中为",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-11-01T10:28:21.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
     }
   ],
   "就业": [
@@ -202,6 +205,18 @@
       "tags": []
     },
     {
+      "id": "33e036e2efdf",
+      "title": "2027届校招AI人才市场洞察：需求持续扩容，头部算法岗起薪2.7万元",
+      "url": "https://news.qq.com/rain/a/20260825A05VB300",
+      "summary": "2026年，随着一众大模型引领的AI热潮持续外溢，“人工智能+”对各行业的渗透进一步加深，AI人才争夺战已从局部试点走向体系化布局，并延伸至即将到来的2027届高校毕业生招聘市场。国内领先的人力资源服",
+      "source": "算法工程师·就业分析",
+      "category": "就业",
+      "published": "2026-08-25T05:15:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/On-JXNrgfoYm6qHklPYLPf2JUJgzl4e7-hnz7jI5lWtbQAA_640330/0",
+      "score": 65,
+      "tags": []
+    },
+    {
       "id": "38ff1e7024fa",
       "title": "不会写代码也能做测试？校招测试岗的技能要求正在悄悄改变",
       "url": "https://www.sohu.com/a/1092535398_120635785",
@@ -224,18 +239,6 @@
       "image": "https://n.sinaimg.cn/tech/zcapp2018/doc_qrcode1.png",
       "score": 65,
       "tags": []
-    },
-    {
-      "id": "c4610a185fe7",
-      "title": "智联招聘发布B端Agent“智联小招”，并在WorkBuddy首发开放体验",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-30/doc-iniwzazt8143274.shtml",
-      "summary": "值得关注的是，本次发布的另一大亮点是与WorkBuddy的场景融合。双方打通后，HR可以直接在WorkBuddy工作台表达招聘需求，一键生成岗位JD并发布至智联招聘平台，随后由“智联小招”无缝接续后续",
-      "source": "Bing·智联招聘",
-      "category": "就业",
-      "published": "2026-10-30T10:43:00.000Z",
-      "image": "//n.sinaimg.cn/finance/transform/116/w550h366/20261030/74b7-8c544775d771f67fcafb1e530bb44bbc.jpg",
-      "score": 60,
-      "tags": []
     }
   ],
   "开发": [
@@ -252,64 +255,52 @@
       "tags": []
     },
     {
-      "id": "357018abf84a",
-      "title": "谷歌用 Gemini 4 Argon 一夜优化 ADK 代码库的 20 万行代码",
-      "url": "https://www.infoq.cn/article/u4fAoAH5vZPCV4TVqAcO?utm_source=rss&amp;utm_medium=article",
+      "id": "3a2170816893",
+      "title": "模型之外，腾讯还在补什么？",
+      "url": "https://www.infoq.cn/article/UMlHzxNiS9tFfG9KadYs?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-11-05T11:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/b1/d1/b1387a0c7084cd72f391d650783757d1.jpg"
+      "published": "2026-11-05T19:13:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/26/8d/2654b94b875af353157572520052a28d.jpg"
     },
     {
-      "id": "5b102336bf37",
-      "title": "AI Coding 增量风险管控：Skill 门禁与 Harness 落地实践｜AICon北京",
-      "url": "https://www.infoq.cn/article/XieGrL5pws7jG1zxKPle?utm_source=rss&amp;utm_medium=article",
+      "id": "c8fc60693a4d",
+      "title": "PHP 修复了两处已遭到攻击的严重远程代码执行漏洞",
+      "url": "https://www.infoq.cn/article/qUEjcWbwOj5RO59250Lu?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-11-05T10:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/7a/57/7a7e031f57f1bf25a08fba7c82e49557.jpg"
+      "published": "2026-11-05T17:06:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/56/8e/563ca04e50e8f0a20802179ba8fcbd8e.jpg"
     },
     {
-      "id": "637a1acf8a16",
-      "title": "混元 Hy4 实测：腾讯的产品基因，模型继承了几分？",
-      "url": "https://www.infoq.cn/article/C61Q16LQIDq45l0iCCzV?utm_source=rss&amp;utm_medium=article",
+      "id": "167e2e207bea",
+      "title": "Claude Code 产品负责人Cut Wu 官宣加入 OpenAI",
+      "url": "https://www.infoq.cn/article/cDERcarozbrsCBNs5sWM?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-11-05T09:44:25.000Z",
-      "image": "https://static001.infoq.cn/resource/image/04/f2/04ca59ed02eea514015fc729916byyf2.png"
+      "published": "2026-11-05T16:53:21.000Z",
+      "image": "https://static001.infoq.cn/resource/image/ec/b0/ecd3e27a3739bc3395ab8fd471694cb0.png"
     },
     {
-      "id": "a1fb80c87147",
-      "title": "Cloudflare 通过优化一致性哈希节省了 100 TB 内存",
-      "url": "https://www.infoq.cn/article/yRvSUCFFcZEEXCgxyAO2?utm_source=rss&amp;utm_medium=article",
+      "id": "f967031da764",
+      "title": "MCP C# SDK 2.0 默认启用 HTTP 无状态模式，新增多轮请求能力",
+      "url": "https://www.infoq.cn/article/80iUxvCNB59aOgyXB7LN?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-11-05T09:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/2c/5c/2cd946a83db44ceef8b5ac27d4e8e35c.jpg"
+      "published": "2026-11-05T15:19:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/d7/8b/d71582585760e18439199bcea7b96e8b.jpg"
     }
   ],
   "政策": [
     {
-      "id": "7e0649d6d0c5",
-      "title": "内地高校澳门大学生求职技能提升系列辅导讲座在京举办",
-      "url": "https://news.ifeng.com/c/8xeZfFj0k1y",
-      "summary": "新华社北京10月30日电（记者许晓静）以“AI赋能 职业启航”为主题的内地高校澳门大学生求职技能提升系列辅导讲座29至30日在京举办。就读于北京、天津、上海等地高校的200余名澳门大学生参加活动",
-      "source": "Bing·大学生就业政策",
+      "id": "ed0822808f9b",
+      "title": "温州发布专项政策指南 为残疾人大学生就业创业“撑腰”",
+      "url": "https://news.66wz.com/system/2026/07/16/105805829.shtml",
+      "summary": "市人社局与市残联携手对现行最实用、最优惠的就创业补贴政策进行全面梳理，并形成《温州市残疾人大学生就业创业政策指南》，助力这一特殊群体跨越障碍，实现更加充分、更高质量的就业和创业。 温州网讯 为支持更多",
+      "source": "就业创业政策",
       "category": "政策",
-      "published": "2026-10-30T15:45:00.000Z",
-      "image": "https://x0.ifengimg.com/ucms/2019_38/AC5B8A2AE18AB61C7067AFFDBBCD12D16295DDA2_w121_h75.jpg",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "3d54da0059ab",
-      "title": "人社部发布：2026年前三季度人力资源和社会保障工作主要进展情况及 ...",
-      "url": "https://www.sohu.com/a/1096063102_123016950",
-      "summary": "今年以来，在以习近平同志为核心的党中央坚强领导下，各级人力资源社会保障部门认真贯彻落实党中央、国务院决策部署，坚持稳中求进工作总基调，积极进取、扎实工作，各项工作进展顺利。 一、就业 工作进展情况：1",
-      "source": "Bing·人社部就业创业政策",
-      "category": "政策",
-      "published": "2026-11-02T05:37:00.000Z",
-      "image": "",
+      "published": "2026-07-16T01:51:00.000Z",
+      "image": "https://news.66wz.com/pic/003/013/337/00301333742_93765919.gif",
       "score": 55,
       "tags": []
     },
@@ -326,14 +317,14 @@
       "tags": []
     },
     {
-      "id": "412a0fd0b396",
-      "title": "“出彩人生 ‘就’在基层”2026年全国大学生“就业引航”示范宣讲 ...",
-      "url": "https://news.qq.com/rain/a/20261030A0BJHW00",
-      "summary": "中国青年报客户端讯（中青报&#183;中青网记者 田嘉硕 王鑫昕）10月27日，2026年全国大学生“就业引航”示范宣讲暨四川共青团“逐梦计划”示范活动（第二场）在成都工业学院（宜宾校区）举行。活动以",
+      "id": "45c6ee878915",
+      "title": "大兴区启动“兴采&#183;青苗”高校大学生实习计划",
+      "url": "https://www.sohu.com/a/1096199502_163278",
+      "summary": "为持续深化“政校企”协同促就业服务机制，促进高校毕业生实现高质量充分就业，近日，大兴区人力社保局启动“兴采&#183;青苗”高校大学生实习计划。 启动会上，大兴区相关部门分别介绍了辖区人才政策及服务措",
       "source": "Bing·大学生就业政策",
       "category": "政策",
-      "published": "2026-10-30T11:09:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/O3uv5rDzyrEZkw0vp4KngMqPj7OSyv-XYA6BbN9h3OZqAAA_640330/0",
+      "published": "2026-11-02T09:47:00.000Z",
+      "image": "https://q1.itc.cn/q_70/images03/20261102/f06e892d936e4fdc92477255dec8d833.jpeg",
       "score": 50,
       "tags": []
     },
@@ -348,52 +339,64 @@
       "image": "http://img.cjn.cn/2023cjn/page/img/wlcjx.jpg",
       "score": 50,
       "tags": []
+    },
+    {
+      "id": "f5cb39eaf8f6",
+      "title": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
+      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202606/t20260602_1438600.html",
+      "summary": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
+      "source": "教育部",
+      "category": "政策",
+      "published": "2026-06-02T00:00:00.000Z",
+      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+      "score": 50,
+      "tags": []
     }
   ],
   "财经": [
     {
-      "id": "5343ff0237ea",
-      "title": "《企业风险管理有效性评价指南》国家标准发布",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726455.shtml",
+      "id": "1bea5e3cc199",
+      "title": "（第九届进博会）出口中国能力发展报告首次发布",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726828.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-05T02:54:35.000Z",
+      "published": "2026-11-05T11:48:08.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "60a83d44d7e6",
-      "title": "10月物流业景气指数处于扩张区间 预期向好",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726458.shtml",
+      "id": "671e6ca67b69",
+      "title": "第140届广交会期间广州口岸出入境人员达126万人次",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726796.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-05T02:51:07.000Z",
+      "published": "2026-11-05T11:23:02.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "6e50dadc3f7a",
-      "title": "市场监管总局依法废止《绵羊绒交易技术规范》团体标准",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726452.shtml",
+      "id": "b283059df2e6",
+      "title": "多场景“上岗” 安徽机器人“新员工”加速就位",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726779.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-05T02:48:09.000Z",
+      "published": "2026-11-05T10:52:49.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "74d70cbe434e",
-      "title": "第一批新车次列车本月开行 车票将陆续发售、兑现",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726447.shtml",
+      "id": "4af334ae50b0",
+      "title": "（经济观察）20余城落地“现房销售制” 房地产发展新模式加速构建",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726776.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-05T02:34:58.000Z",
+      "published": "2026-11-05T10:31:18.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "79ae3a33c622",
-      "title": "广交会采购商创新高 中国制造为全球产供链稳定注入确定性",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726443.shtml",
+      "id": "a0cd4c54b763",
+      "title": "全国首个“电力鸿蒙”兆瓦级液冷超充重卡补能示范站落地昆明",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726772.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-05T02:24:57.000Z",
+      "published": "2026-11-05T10:27:33.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
