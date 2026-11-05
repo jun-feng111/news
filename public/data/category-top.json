@@ -1,6 +1,30 @@
 {
   "AI": [
     {
+      "id": "87cd57a95fdb",
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "summary": "Apple is reportedly cutting budgets for its internal AI usage",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-11-05T01:26:22.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/iphone-usb-cable.jpg?resize=1200,800",
+      "score": 80,
+      "tags": []
+    },
+    {
+      "id": "2a45f43e41ba",
+      "title": "AI PACs spent millions trying to shape Congress — here&#8217;s how they fared",
+      "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+      "summary": "AI PACs spent millions trying to shape Congress — here&#8217;s how they fared",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-11-04T22:45:09.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2264644532.jpg?resize=1200,800",
+      "score": 80,
+      "tags": []
+    },
+    {
       "id": "d13217a5b492",
       "title": "Almost no one uses AI agents to book their Uber, company says",
       "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
@@ -25,30 +49,6 @@
       "tags": []
     },
     {
-      "id": "421e2b40f3bf",
-      "title": "Meta acquires AI coding startup Conductor",
-      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-      "summary": "Meta acquires AI coding startup Conductor",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-11-04T21:10:56.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-ray-bans.png?resize=1200,653",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "2685c0ac9723",
-      "title": "Open source AI is booming. Hugging Face explains who profits.",
-      "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
-      "summary": "Open source AI is booming。 Hugging Face explains who profits",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-11-04T19:30:04.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024",
-      "score": 80,
-      "tags": []
-    },
-    {
       "id": "b794bf9cbb16",
       "title": "Snapchat surpasses 30M paid subscribers",
       "url": "https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/",
@@ -63,6 +63,18 @@
   ],
   "科技": [
     {
+      "id": "487fe86018a1",
+      "title": "After the midterms, a bigger clash over data centers could be coming",
+      "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+      "summary": "After the midterms, a bigger clash over data centers could be coming",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-05T01:02:14.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/11/us-congress-at-night.jpg?resize=1200,677",
+      "score": 75,
+      "tags": []
+    },
+    {
       "id": "07455c8ab57d",
       "title": "Hackers stole DreamHost customer files and inboxes during months-long attack",
       "url": "https://techcrunch.com/2026/11/04/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-attack/",
@@ -71,50 +83,35 @@
       "category": "科技",
       "published": "2026-11-04T20:36:57.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2249547675.jpg?w=1024",
-      "score": 75,
+      "score": 70,
       "tags": []
+    },
+    {
+      "id": "cbd69ab726f5",
+      "title": "DuckDuckGo pitches itself to schools amid backlash over Google&#8217;s AI policy",
+      "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-04T19:29:52.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/DuckDuckGo_NoAI.png?resize=1200,784"
     },
     {
       "id": "2b08cd023332",
       "title": "Waymo confirms it&#8217;s shaking up its Uber relationship in January 2028",
       "url": "https://techcrunch.com/2026/11/04/waymo-confirms-its-shaking-up-its-uber-relationship-in-january-2028/",
-      "summary": "Waymo confirms it&#8217;s shaking up its Uber relationship in January 2028",
       "source": "TechCrunch",
       "category": "科技",
       "published": "2026-11-04T18:12:30.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/waymo-ojai-getty.jpg?resize=1200,800",
-      "score": 75,
-      "tags": []
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/waymo-ojai-getty.jpg?resize=1200,800"
     },
     {
       "id": "4e245489c077",
       "title": "&#8216;You Can See Everything&#8217; is getting an outer space release and it hasn&#8217;t even come out in Europe yet",
       "url": "https://techcrunch.com/2026/11/04/you-can-see-everything-is-getting-an-outer-space-release-and-it-hasnt-even-come-out-in-europe-yet/",
-      "summary": "&#8216;You Can See Everything&#8217; is getting an outer space release and it hasn&#8217;t even come",
       "source": "TechCrunch",
       "category": "科技",
       "published": "2026-11-04T18:10:11.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/V8_PHASE-1_LOBTS.jpg?resize=1200,900",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "626a0cda25c4",
-      "title": "Sequoia hits rewind, undoing 20 years of expansion",
-      "url": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-04T17:11:15.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/01/Screen-Shot-2023-01-13-at-3.33.43-PM.png?resize=1200,649"
-    },
-    {
-      "id": "fcbae52d16c9",
-      "title": "I tried Apple&#8217;s Siri Recaps. They&#8217;re surprisingly useful — and a little unsettling",
-      "url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-04T16:51:35.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/live-rewind-restaurant.jpg?resize=1200,669"
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/V8_PHASE-1_LOBTS.jpg?resize=1200,900"
     }
   ],
   "社会": [
@@ -128,30 +125,6 @@
       "published": "2026-11-01T10:06:02.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 65,
-      "tags": []
-    },
-    {
-      "id": "7fcced798fa7",
-      "title": "中英20余所高校聚首南京 发布重塑全球教育未来倡议",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-31/10723945.shtml",
-      "summary": "中新网南京10月31日电 (吴涵玉 吕晔灵)10月30日，由东南大学主办的以“重塑教育边界·共创全球未来”为主题的中英卓越大学校长论坛在南京举行。来自牛津大学、剑桥大学、东南大学等20余所中英两国高校",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-10-31T09:11:12.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "5fc1bfd9bbe9",
-      "title": "从交出答案到读懂答案：学者共议AI时代教育新挑战",
-      "url": "https://www.chinanews.com.cn/edu/2026/10-31/10723830.shtml",
-      "summary": "中新网上海10月31日电(李姝徵 杨海燕 郑莹莹)当人工智能可以参与实验、撰写甚至审核论文，论文还能否反映一个人的研究能力。学生应该培养什么能力，才能做出有长期影响力的工作",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-10-31T04:30:01.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 60,
       "tags": []
     },
     {
@@ -174,6 +147,30 @@
       "source": "中新网教育",
       "category": "社会",
       "published": "2026-11-01T23:28:54.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "c5f4db9bb77c",
+      "title": "复旦大学哲学学院（系）迎来七十周岁“生日”",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-01/10724459.shtml",
+      "summary": "中新网上海11月1日电 (记者 陈静)今年是复旦大学哲学学院(系)成立七十周年。国际哲学学会联合会(FISP)前任主席卢卡·斯卡兰蒂诺1日在此间指出，复旦大学哲学学院始终走在拓展哲学文化视野的前沿，是",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-11-01T12:06:28.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "715279cb5c4f",
+      "title": "天津启动学科专业融入支撑生物医药和脑机接口产业发展项目",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-01/10724407.shtml",
+      "summary": "中新网天津11月1日电 (记者 周亚强)10月31日，天津市学科专业融入支撑产业发展项目启动会暨产教融合创新工作推动会在天津医科大学举行。会议启动生物医药、脑机接口两大重点产业链产教融合项目，并集中为",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-11-01T10:28:21.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 50,
       "tags": []
@@ -217,6 +214,18 @@
       "tags": []
     },
     {
+      "id": "26c8ab7c2bbb",
+      "title": "CyberSN：2026年1-9月美国网络安全职位发布量235786个，同比下降26.4%",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-19/doc-inivumam6837930.shtml",
+      "summary": "从整体趋势来看，企业对于人工智能知识和技能的需求依然旺盛。2026年前九个月，接近15%的网络安全职位招聘信息提及AI相关能力，与2025年同期15",
+      "source": "安全工程师·就业分析",
+      "category": "就业",
+      "published": "2026-10-19T13:23:00.000Z",
+      "image": "https://n.sinaimg.cn/tech/zcapp2018/doc_qrcode1.png",
+      "score": 65,
+      "tags": []
+    },
+    {
       "id": "c4610a185fe7",
       "title": "智联招聘发布B端Agent“智联小招”，并在WorkBuddy首发开放体验",
       "url": "https://finance.sina.com.cn/jjxw/2026-10-30/doc-iniwzazt8143274.shtml",
@@ -225,18 +234,6 @@
       "category": "就业",
       "published": "2026-10-30T10:43:00.000Z",
       "image": "//n.sinaimg.cn/finance/transform/116/w550h366/20261030/74b7-8c544775d771f67fcafb1e530bb44bbc.jpg",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "90c54aec883a",
-      "title": "上海｜外企｜黄浦区淮海中路｜ WLB｜ AI Agent 应用开发工程师招聘｜ 15K",
-      "url": "https://www.v2ex.com/t/1253828#reply7",
-      "summary": "上海｜外企｜黄浦区淮海中路｜ WLB｜ AI Agent 应用开发工程师招聘｜ 15K",
-      "source": "V2EX·招聘",
-      "category": "就业",
-      "published": "2026-11-02T07:12:29.000Z",
-      "image": "https://cdn.v2ex.com/gravatar/694bfc205bc3a2460a7758809b0f2bd7?s=73&d=retro",
       "score": 60,
       "tags": []
     }
@@ -255,40 +252,40 @@
       "tags": []
     },
     {
-      "id": "8db554353835",
-      "title": "当 Agent 成为数据库新用户，腾讯云如何解决“未知”的难题？",
-      "url": "https://www.infoq.cn/article/TeOb9MgqfeLOoNdxtMH2?utm_source=rss&amp;utm_medium=article",
+      "id": "357018abf84a",
+      "title": "谷歌用 Gemini 4 Argon 一夜优化 ADK 代码库的 20 万行代码",
+      "url": "https://www.infoq.cn/article/u4fAoAH5vZPCV4TVqAcO?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-11-04T22:00:23.000Z",
-      "image": "https://static001.infoq.cn/resource/image/66/80/660603be1b838fe7b00a7cd0be063280.png"
+      "published": "2026-11-05T11:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/b1/d1/b1387a0c7084cd72f391d650783757d1.jpg"
     },
     {
-      "id": "f25bcdd99fa2",
-      "title": "Token 暴涨 5000 倍之后，企业 Agent 落地还卡在哪里？",
-      "url": "https://www.infoq.cn/article/VUmIUJ0ST9xIlPoViXmz?utm_source=rss&amp;utm_medium=article",
+      "id": "5b102336bf37",
+      "title": "AI Coding 增量风险管控：Skill 门禁与 Harness 落地实践｜AICon北京",
+      "url": "https://www.infoq.cn/article/XieGrL5pws7jG1zxKPle?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-11-04T21:56:58.000Z",
-      "image": "https://static001.infoq.cn/resource/image/62/6f/62a7ca02e5cd5f7dd330613bf4ed1d6f.png"
+      "published": "2026-11-05T10:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/7a/57/7a7e031f57f1bf25a08fba7c82e49557.jpg"
     },
     {
-      "id": "a74e519cb315",
-      "title": "谷歌 Data Agent Kit 正式发布：安全防护分为 Skill 与 IAM",
-      "url": "https://www.infoq.cn/article/UtKS9EofSoyd2P7Otx7e?utm_source=rss&amp;utm_medium=article",
+      "id": "637a1acf8a16",
+      "title": "混元 Hy4 实测：腾讯的产品基因，模型继承了几分？",
+      "url": "https://www.infoq.cn/article/C61Q16LQIDq45l0iCCzV?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-11-04T20:01:56.000Z",
-      "image": "https://static001.infoq.cn/resource/image/80/59/8071d0ba1242f32e7418ec952c633559.jpg"
+      "published": "2026-11-05T09:44:25.000Z",
+      "image": "https://static001.infoq.cn/resource/image/04/f2/04ca59ed02eea514015fc729916byyf2.png"
     },
     {
-      "id": "a4c42c60da4d",
-      "title": "Anthropic 为重要开源项目新增可选安全扫描服务",
-      "url": "https://www.infoq.cn/article/hdmi6FdjpYSEvuMhPOAa?utm_source=rss&amp;utm_medium=article",
+      "id": "a1fb80c87147",
+      "title": "Cloudflare 通过优化一致性哈希节省了 100 TB 内存",
+      "url": "https://www.infoq.cn/article/yRvSUCFFcZEEXCgxyAO2?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-11-04T19:53:34.000Z",
-      "image": "https://static001.infoq.cn/resource/image/ab/fc/ab81ce78a80b8519ffc5988da99197fc.jpg"
+      "published": "2026-11-05T09:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/2c/5c/2cd946a83db44ceef8b5ac27d4e8e35c.jpg"
     }
   ],
   "政策": [
@@ -305,6 +302,18 @@
       "tags": []
     },
     {
+      "id": "3d54da0059ab",
+      "title": "人社部发布：2026年前三季度人力资源和社会保障工作主要进展情况及 ...",
+      "url": "https://www.sohu.com/a/1096063102_123016950",
+      "summary": "今年以来，在以习近平同志为核心的党中央坚强领导下，各级人力资源社会保障部门认真贯彻落实党中央、国务院决策部署，坚持稳中求进工作总基调，积极进取、扎实工作，各项工作进展顺利。 一、就业 工作进展情况：1",
+      "source": "Bing·人社部就业创业政策",
+      "category": "政策",
+      "published": "2026-11-02T05:37:00.000Z",
+      "image": "",
+      "score": 55,
+      "tags": []
+    },
+    {
       "id": "66ae93a33ef7",
       "title": "齐鲁青未了&#183;职路正当时 滨州市大学生就业指导巡回宣讲鲁北技师 ...",
       "url": "https://www.sohu.com/a/1096192664_121106991",
@@ -317,14 +326,14 @@
       "tags": []
     },
     {
-      "id": "f1324f1267f6",
-      "title": "区市动态丨城阳区：政策宣讲“打包”进校园 扎实推进高校毕业生 ...",
-      "url": "https://www.sohu.com/a/1094167299_121106991",
-      "summary": "眼下正值高校毕业生就业创业的关键期，面对档案转递、落户办理、住房补贴申领、社保参保等一系列繁杂事项，不少毕业生面临“多头跑、政策盲、流程繁”的困扰。为有效破解这一痛点，扎实推进高校毕业生服务“一类事”",
-      "source": "Bing·高校毕业生就业创业政策",
+      "id": "412a0fd0b396",
+      "title": "“出彩人生 ‘就’在基层”2026年全国大学生“就业引航”示范宣讲 ...",
+      "url": "https://news.qq.com/rain/a/20261030A0BJHW00",
+      "summary": "中国青年报客户端讯（中青报&#183;中青网记者 田嘉硕 王鑫昕）10月27日，2026年全国大学生“就业引航”示范宣讲暨四川共青团“逐梦计划”示范活动（第二场）在成都工业学院（宜宾校区）举行。活动以",
+      "source": "Bing·大学生就业政策",
       "category": "政策",
-      "published": "2026-10-29T00:57:00.000Z",
-      "image": "https://q4.itc.cn/q_70/images03/20261029/71b396a602de4adc9b2cb6ed499c2a47.jpeg",
+      "published": "2026-10-30T11:09:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/O3uv5rDzyrEZkw0vp4KngMqPj7OSyv-XYA6BbN9h3OZqAAA_640330/0",
       "score": 50,
       "tags": []
     },
@@ -339,64 +348,52 @@
       "image": "http://img.cjn.cn/2023cjn/page/img/wlcjx.jpg",
       "score": 50,
       "tags": []
-    },
-    {
-      "id": "c8fc3a00593a",
-      "title": "从武汉到长沙，王庆和他的国潮球鞋美学 丨“你的背包”大学生创新 ...",
-      "url": "https://news.ifeng.com/c/8xfUHGVzotL",
-      "summary": "编者按： 每一个选择湖南的背包，装着无数个奔向湖南的青春故事。这里承载着大学生们的热爱、勇气与未来",
-      "source": "Bing·大学生创业扶持政策",
-      "category": "政策",
-      "published": "2026-10-31T04:44:00.000Z",
-      "image": "https://x0.ifengimg.com/res/2026/2E0B8CABC0D879C6431A8B8F2EA74B901684A1FF_size342_w800_h533.jpg",
-      "score": 50,
-      "tags": []
     }
   ],
   "财经": [
     {
-      "id": "55241abac4e3",
-      "title": "进博会接力广交会 合作共赢如何再走深？",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726333.shtml",
+      "id": "5343ff0237ea",
+      "title": "《企业风险管理有效性评价指南》国家标准发布",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726455.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-04T15:45:50.000Z",
+      "published": "2026-11-05T02:54:35.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "b454debb720c",
-      "title": "（经济观察）香港渐成中企“跨境架构中枢”和“国际标准试验场”",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726325.shtml",
+      "id": "60a83d44d7e6",
+      "title": "10月物流业景气指数处于扩张区间 预期向好",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726458.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-04T15:45:42.000Z",
+      "published": "2026-11-05T02:51:07.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "38e621a8b4e1",
-      "title": "“十五五”末中国社会消费品零售总额预计达60万亿元左右",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726323.shtml",
+      "id": "6e50dadc3f7a",
+      "title": "市场监管总局依法废止《绵羊绒交易技术规范》团体标准",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726452.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-04T15:34:23.000Z",
+      "published": "2026-11-05T02:48:09.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "c20fdfd4bdbb",
-      "title": "“十五五”时期中国将新建约1.5万公里铁路",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726322.shtml",
+      "id": "74d70cbe434e",
+      "title": "第一批新车次列车本月开行 车票将陆续发售、兑现",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726447.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-04T15:28:01.000Z",
+      "published": "2026-11-05T02:34:58.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "088828e6d33c",
-      "title": "平陆运河通航满月 沿线用电负荷持续攀升",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-04/10726329.shtml",
+      "id": "79ae3a33c622",
+      "title": "广交会采购商创新高 中国制造为全球产供链稳定注入确定性",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726443.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-04T14:56:41.000Z",
+      "published": "2026-11-05T02:24:57.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
