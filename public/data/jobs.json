@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T15:43:46.926Z",
+  "updated": "2026-11-06T21:20:36.449Z",
   "count": 119,
   "sources": {
     "V2EX": 8,
@@ -167,6 +167,36 @@
       "url": "https://www.v2ex.com/t/1254553",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "remoteok-1137691",
+      "title": "Feltsense AI Engineer",
+      "company": "Silver.dev",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "design",
+        "sys admin",
+        "exec",
+        "technical",
+        "customer support",
+        "dev",
+        "testing",
+        "javascript",
+        "cloud",
+        "postgres",
+        "typescript",
+        "node"
+      ],
+      "category": "design",
+      "postedDate": "2026-11-05",
+      "url": "https://remoteOK.com/remote-jobs/remote-feltsense-ai-engineer-silver-dev-1137691",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137690",
@@ -968,7 +998,7 @@
     {
       "id": "remoteok-1137597",
       "title": "Front End Developer",
-      "company": "Edconic",
+      "company": "Cambridge Information Group",
       "location": "Remote",
       "remote": true,
       "salaryText": "",
@@ -981,7 +1011,7 @@
       ],
       "category": "front end",
       "postedDate": "2026-10-28",
-      "url": "https://remoteOK.com/remote-jobs/remote-front-end-developer-edconic-1137597",
+      "url": "https://remoteOK.com/remote-jobs/remote-front-end-developer-cambridge-information-group-1137597",
       "source": "RemoteOK",
       "region": "foreign"
     },
@@ -2054,29 +2084,6 @@
       "postedDate": "2026-10-07",
       "url": "https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045",
       "source": "Remotive",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137466",
-      "title": "Project Manager",
-      "company": "Spiralyze",
-      "location": "Worldwide",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "project manager",
-        "exec",
-        "ops",
-        "marketing",
-        "cro"
-      ],
-      "category": "project manager",
-      "postedDate": "2026-10-06",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-spiralyze-1137466",
-      "source": "RemoteOK",
       "region": "foreign"
     },
     {
