@@ -1,0 +1,7 @@
+{
+  "id": "78003a06f7ee",
+  "title": "如何在汇川AUTOSHOP中作为客户端实现 TCP 协议 - 不会通讯的凡果",
+  "url": "https://www.cnblogs.com/FanGuo123/p/23568716",
+  "contentZh": "",
+  "contentFull": "\n一、实验环境\n\n\nAUTOSHOP小型机编程软件\n\n2.新建一个项目，设备选择汇川小型机easy系列easy523\n\n3.tcp协议测试工具netassistant\n\n网页下载链接：\n\n\n二、当easy523做 TCP 客户端Client\n1.建立TCP通讯客户端连接，拖出“TCP_Connect”功能块，作为TCP通讯客户端\n用M8013作为触发连接信号，每1s周期进行TCP连接，防止断链。Socket接口填入一个20个int数组，IPAddress填入ip类型数据，port参数为int类型，需要和服            务器保持一致。\n\n三、 进行数据的读取\n1.在pcl程序中，拖出“TCP_Receive”功能块，进行TCP通讯数据读取\n创建触发信号bExTcpRead，Socket接口填入和“TCP_Connect”功能块中获取的Socket参数，Buffer接口为读取数据缓冲区可自定义数据长度但是必须为Int类型,Size接口的数据需与和缓存区长度一致。\n\n2.NetAssistant服务器端建立\n打开软件后，点击创建服务端连接。\n\n因为在仿真测试，所有ip为127.0.0.1本地回环地址，端口和plc中填入的5000保持一致，选择TCP协议通讯。\n\n3.读取测试\nPLC开启仿真，进行程序下载，可��库句柄已经获取有数值。\n\nNetAssistant中点击开始后，发一个字符串HELLO，现在去PLC侧进行读取触发看有没有数值。\n\n在仿真对触发信号bExTcpRead写入为“ON”后，可以看到读取缓存区中有数据。\n\n四、 进行数据的发送\n1.在pcl程序中，拖出“TCP_Send”功能块，进行TCP通讯数据发送\n创建触发信号bExTcpSend，Socket接口填入和“TCP_Connect”功能块中获取的Socket参数，Buffer接口为读取数据缓冲区可自定义数据长度但是必须为Int类型,Size接口的数据需与和缓存区长度一致。\n\n2.发送测试\n向数据缓存区内写入“HELLO”转换的Int16数值如图。\n\n在仿真对触发信号bExTcpSend写入为“ON”后，可以看到NetAssistant中有\"HELLO\"。\n\n\n\n"
+}
