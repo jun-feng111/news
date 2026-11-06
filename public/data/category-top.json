@@ -1,6 +1,18 @@
 {
   "AI": [
     {
+      "id": "560f077b27e2",
+      "title": "Airbnb says it&#8217;s launching an AI travel agent in the first half of 2027",
+      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "summary": "Airbnb says it&#8217;s launching an AI travel agent in the first half of 2027",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-11-05T22:40:55.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/05/Airbnb-Summer-feat.jpg?resize=1200,675",
+      "score": 85,
+      "tags": []
+    },
+    {
       "id": "2bf787a301ee",
       "title": "OpenAI released a new cybersecurity model. Is that enough?",
       "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
@@ -13,6 +25,18 @@
       "tags": []
     },
     {
+      "id": "759260a1403a",
+      "title": "Meta says US users can now video chat with their Muse AI avatar",
+      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "summary": "Meta says US users can now video chat with their Muse AI avatar",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-11-05T19:48:28.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
+      "score": 80,
+      "tags": []
+    },
+    {
       "id": "3cbf932ea50c",
       "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
       "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
@@ -21,162 +45,91 @@
       "category": "AI",
       "published": "2026-11-05T18:02:27.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2019/10/Greg-Brockman-OpenAIDSC02862.jpg?resize=1200,800",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "1eac0b195a3b",
+      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+      "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+      "summary": "Meta warns that election backlash against data centers could make AI expansion harder",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-11-05T19:12:39.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/data-center-2.jpg?resize=1200,899",
+      "score": 70,
+      "tags": []
+    }
+  ],
+  "科技": [
+    {
+      "id": "c5054bed6a07",
+      "title": "Serve Robotics launches new business to become the AWS for robots",
+      "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
+      "summary": "Serve Robotics launches new business to become the AWS for robots",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-05T21:15:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/08/Serve_robot_05.jpg?resize=1200,800",
       "score": 80,
       "tags": []
     },
     {
-      "id": "7dac5ce0cdad",
-      "title": "Axiom Math wants to keep AI slop out of mathematics",
-      "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-      "summary": "Axiom Math wants to keep AI slop out of mathematics",
+      "id": "1407b9b1f518",
+      "title": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
+      "url": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/",
+      "summary": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
       "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-11-05T16:16:45.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Axiom-Team-2.jpg?resize=1200,800",
-      "score": 80,
+      "category": "科技",
+      "published": "2026-11-06T00:07:18.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2198481572_7937f4.jpg?resize=1200,800",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "bb81aad158cf",
+      "title": "Meta, Google, and TikTok sue California AG over teen social media law",
+      "url": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
+      "summary": "Meta, Google, and TikTok sue California AG over teen social media law",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-06T00:01:38.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2268918823.jpg?resize=1200,800",
+      "score": 75,
       "tags": []
     },
     {
       "id": "ecdcd39295ca",
       "title": "Claude can now analyze your spending with its new Personal Finance tool",
       "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-      "summary": "Claude can now analyze your spending with its new Personal Finance tool",
       "source": "TechCrunch",
-      "category": "AI",
+      "category": "科技",
       "published": "2026-11-05T18:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Claude-Personal-Finance-2.png?resize=1200,675",
-      "score": 75,
-      "tags": []
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Claude-Personal-Finance-2.png?resize=1200,675"
     },
     {
       "id": "91add19a8cd7",
       "title": "Harbinger raises $240M after expanding into defense",
       "url": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
-      "summary": "Harbinger raises $240M after expanding into defense",
       "source": "TechCrunch",
-      "category": "AI",
+      "category": "科技",
       "published": "2026-11-05T17:52:44.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Harbinger-Newsroom-Thumbnail-260610.jpeg?resize=1200,800",
-      "score": 75,
-      "tags": []
-    }
-  ],
-  "科技": [
-    {
-      "id": "6247b6836c7e",
-      "title": "Food delivery startup Wonder files for IPO as it explores its next big bite",
-      "url": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/",
-      "summary": "Food delivery startup Wonder files for IPO as it explores its next big bite",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-05T17:11:48.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/wonder.jpg?resize=1200,800",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "5a2872a71ffa",
-      "title": "Bluesky hit peak usage for the year on election night",
-      "url": "https://techcrunch.com/2026/11/05/bluesky-hit-peak-usage-for-the-year-on-election-night/",
-      "summary": "Bluesky hit peak usage for the year on election night",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-05T15:44:58.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/bluesky-GettyImages-2185144073.jpg?w=1024",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "3ceac8608e40",
-      "title": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
-      "url": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-05T15:40:34.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/09/Zipline-Package-Drop.jpg?resize=1200,675"
-    },
-    {
-      "id": "0344dd949fcd",
-      "title": "TikTok quietly launches a stand-alone TikTok Shop app",
-      "url": "https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-05T15:33:58.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/tiktok-shop-app.png?resize=1200,819"
-    },
-    {
-      "id": "939524e97f24",
-      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-05T15:19:05.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1211180751.jpg?w=1024"
-    }
-  ],
-  "社会": [
-    {
-      "id": "711869a294b9",
-      "title": "多份报告聚焦AI与国际教育：技术越便捷，人的判断越关键",
-      "url": "https://www.chinanews.com.cn/edu/2026/11-01/10724391.shtml",
-      "summary": "中新网北京11月1日电 (记者 徐文欣)人工智能正重塑各行业面貌，国际教育面临由此带来的机遇与挑战。近日，多份聚焦人工智能时代国际教育的报告在北京发布并指出，AI正在改变国际教育的工具、场景与评价方式",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-11-01T10:06:02.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 65,
-      "tags": []
-    },
-    {
-      "id": "f4fcde740208",
-      "title": "第五届“京彩大创”北京大学生创新创业大赛收官",
-      "url": "https://www.chinanews.com.cn/edu/2026/11-03/10725470.shtml",
-      "summary": "中新网北京11月3日电 (记者 陈杭)第五届“京彩大创”北京大学生创新创业大赛总决赛冠军赛暨颁奖典礼2日在北京中关村国际技术交易中心举办。北京大学鑫研微末团队摘得本届大赛冠军桂冠",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-11-03T10:12:49.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "b46aeb7a9d1f",
-      "title": "每周至少半天校外实践教学将在全国推行 专家建议",
-      "url": "https://www.chinanews.com.cn/edu/2026/11-02/10724637.shtml",
-      "summary": "每周至少半天校外实践教学将在全国推行 专家建议",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-11-02T02:45:41.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "889810785bd3",
-      "title": "每周至少半天校外实践教学将在全国推行 专家建议：课时进课表经费进预算责任进清单",
-      "url": "https://www.chinanews.com.cn/edu/2026/11-02/10724533.shtml",
-      "summary": "本报记者 赵丽",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-11-01T23:28:54.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "c5f4db9bb77c",
-      "title": "复旦大学哲学学院（系）迎来七十周岁“生日”",
-      "url": "https://www.chinanews.com.cn/edu/2026/11-01/10724459.shtml",
-      "summary": "中新网上海11月1日电 (记者 陈静)今年是复旦大学哲学学院(系)成立七十周年。国际哲学学会联合会(FISP)前任主席卢卡·斯卡兰蒂诺1日在此间指出，复旦大学哲学学院始终走在拓展哲学文化视野的前沿，是",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-11-01T12:06:28.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Harbinger-Newsroom-Thumbnail-260610.jpeg?resize=1200,800"
     }
   ],
   "就业": [
+    {
+      "id": "e82658404d5d",
+      "title": "嵌入HR工作流，智联招聘发布B端Agent“智联小招”",
+      "url": "https://www.sohu.com/a/1095053127_110683",
+      "summary": "10月29日，智联招聘在2026腾讯全球数字生态大会上推出自主研发的B端招聘Agent（智能体）产品“智联小招”。同时，智联招聘与办公协同平台WorkBuddy达成深度生态合作，首次将“智联小招”的A",
+      "source": "Bing·智联招聘",
+      "category": "就业",
+      "published": "2026-10-30T11:53:00.000Z",
+      "image": "//q7.itc.cn/images01/20261030/c272d2c4791442868ff625fb7d90645c.jpeg",
+      "score": 65,
+      "tags": []
+    },
     {
       "id": "0955340deee2",
       "title": "高顿携手腾讯WorkBuddy生态发布首款大学生实习就业AI Agent",
@@ -214,18 +167,6 @@
       "tags": []
     },
     {
-      "id": "26c8ab7c2bbb",
-      "title": "CyberSN：2026年1-9月美国网络安全职位发布量235786个，同比下降26.4%",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-10-19/doc-inivumam6837930.shtml",
-      "summary": "从整体趋势来看，企业对于人工智能知识和技能的需求依然旺盛。2026年前九个月，接近15%的网络安全职位招聘信息提及AI相关能力，与2025年同期15",
-      "source": "安全工程师·就业分析",
-      "category": "就业",
-      "published": "2026-10-19T13:23:00.000Z",
-      "image": "https://n.sinaimg.cn/tech/zcapp2018/doc_qrcode1.png",
-      "score": 65,
-      "tags": []
-    },
-    {
       "id": "c4610a185fe7",
       "title": "智联招聘发布B端Agent“智联小招”，并在WorkBuddy首发开放体验",
       "url": "https://finance.sina.com.cn/jjxw/2026-10-30/doc-iniwzazt8143274.shtml",
@@ -238,18 +179,195 @@
       "tags": []
     }
   ],
+  "社会": [
+    {
+      "id": "f4fcde740208",
+      "title": "第五届“京彩大创”北京大学生创新创业大赛收官",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-03/10725470.shtml",
+      "summary": "中新网北京11月3日电 (记者 陈杭)第五届“京彩大创”北京大学生创新创业大赛总决赛冠军赛暨颁奖典礼2日在北京中关村国际技术交易中心举办。北京大学鑫研微末团队摘得本届大赛冠军桂冠",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-11-03T10:12:49.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "b46aeb7a9d1f",
+      "title": "每周至少半天校外实践教学将在全国推行 专家建议",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-02/10724637.shtml",
+      "summary": "每周至少半天校外实践教学将在全国推行 专家建议",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-11-02T02:45:41.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "889810785bd3",
+      "title": "每周至少半天校外实践教学将在全国推行 专家建议：课时进课表经费进预算责任进清单",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-02/10724533.shtml",
+      "summary": "本报记者 赵丽",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-11-01T23:28:54.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "c2f8e4eceb7d",
+      "title": "黑龙江百余名小学教师研修人工智能通识课",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-03/10725369.shtml",
+      "summary": "中新网哈尔滨11月3日电 (韩雪)11月2日，“国培计划(2026)”黑龙江省人工智能通识课教师培训在哈尔滨市建工小学举行。来自黑龙江省各地的百余名小学教师参加培训，观摩人工智能通识课程现场教学，并就",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-11-03T07:58:40.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 45,
+      "tags": []
+    },
+    {
+      "id": "02653888153a",
+      "title": "湖南农业生物合成研究院成立",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-03/10725586.shtml",
+      "summary": "中新网长沙11月3日电 (唐小晴 王薇薇 庹炼 青晓彤)校院地室企共建、院士领衔。11月3日，湖南农业生物合成研究院在湖南农业大学揭牌成立",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-11-03T13:13:19.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 40,
+      "tags": []
+    }
+  ],
+  "政策": [
+    {
+      "id": "66ae93a33ef7",
+      "title": "齐鲁青未了&#183;职路正当时 滨州市大学生就业指导巡回宣讲鲁北技师 ...",
+      "url": "https://www.sohu.com/a/1096192664_121106991",
+      "summary": "为进一步强化高校毕业生就业指导服务，帮助大学生更好地了解当前就业形势政策，明确自身定位和发展方向，提升就业竞争力，10月30日上午，由滨州市人力资源和社会保障局主办的 齐鲁青未了&#183;职路正当时",
+      "source": "Bing·大学生就业政策",
+      "category": "政策",
+      "published": "2026-11-02T09:32:00.000Z",
+      "image": "https://q9.itc.cn/q_70/images03/20261102/a76a753a82c04c16aa81ad10c6833800.jpeg",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "45c6ee878915",
+      "title": "大兴区启动“兴采&#183;青苗”高校大学生实习计划",
+      "url": "https://www.sohu.com/a/1096199502_163278",
+      "summary": "为持续深化“政校企”协同促就业服务机制，促进高校毕业生实现高质量充分就业，近日，大兴区人力社保局启动“兴采&#183;青苗”高校大学生实习计划。 启动会上，大兴区相关部门分别介绍了辖区人才政策及服务措",
+      "source": "Bing·大学生就业政策",
+      "category": "政策",
+      "published": "2026-11-02T09:47:00.000Z",
+      "image": "https://q1.itc.cn/q_70/images03/20261102/f06e892d936e4fdc92477255dec8d833.jpeg",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "c8fc3a00593a",
+      "title": "从武汉到长沙，王庆和他的国潮球鞋美学 丨“你的背包”大学生创新 ...",
+      "url": "https://news.ifeng.com/c/8xfUHGVzotL",
+      "summary": "编者按： 每一个选择湖南的背包，装着无数个奔向湖南的青春故事。这里承载着大学生们的热爱、勇气与未来",
+      "source": "Bing·大学生创业扶持政策",
+      "category": "政策",
+      "published": "2026-10-31T04:44:00.000Z",
+      "image": "https://x0.ifengimg.com/res/2026/2E0B8CABC0D879C6431A8B8F2EA74B901684A1FF_size342_w800_h533.jpg",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "f5cb39eaf8f6",
+      "title": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
+      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202606/t20260602_1438600.html",
+      "summary": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
+      "source": "教育部",
+      "category": "政策",
+      "published": "2026-06-02T00:00:00.000Z",
+      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "a3af074b2b9b",
+      "title": "2026-05-22教育部等八部门办公厅关于联合开展2026年度高校毕业生等重点群体促就业“国聘行动”的通知",
+      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202605/t20260522_1437356.html",
+      "summary": "2026-05-22教育部等八部门办公厅关于联合开展2026年度高校毕业生等重点群体促就业“国聘行动”的通知",
+      "source": "教育部",
+      "category": "政策",
+      "published": "2026-05-22T00:00:00.000Z",
+      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+      "score": 50,
+      "tags": []
+    }
+  ],
+  "财经": [
+    {
+      "id": "30cf5e70974b",
+      "title": "价格不再是壁垒，只是入场券？万元级人形机器人迎来“真交付”新竞赛",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727016.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-11-06T00:34:46.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "cac10deb05fe",
+      "title": "从“集体下架”到“密集返场”，大额存单回来了",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727014.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-11-06T00:31:32.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "89175851c178",
+      "title": "新雪季提前开启 多地雪场人工造雪抢占“首滑”流量",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727013.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-11-06T00:27:54.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "0eeadf34b6c5",
+      "title": "年内熊猫债发行超2500亿元 再创历史新高",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727011.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-11-06T00:26:20.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "702cadab44b9",
+      "title": "美股芯片股遭大规模抛售 纳指重挫逾5.5%",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-06/10726992.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-11-05T23:56:30.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    }
+  ],
   "开发": [
     {
-      "id": "8060ae2fb442",
-      "title": "科技爱好者周刊（第 417 期）：不要让 AI 代表你",
-      "url": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html",
-      "summary": "这里记录每周值得分享的科技内容，周五发布",
-      "source": "阮一峰",
+      "id": "e7da96a49c2f",
+      "title": "AI 狂烧 2000亿美元，谷歌全球启动“自愿买断”计划：最高补偿12个月工资",
+      "url": "https://www.infoq.cn/article/vMSj216sQUhmeDH4H0G7?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-10-30T00:13:03.000Z",
-      "image": "",
-      "score": 60,
-      "tags": []
+      "published": "2026-11-06T08:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/8a/8e/8a25ff05d0395058ec3ca9fdc85a248e.png"
+    },
+    {
+      "id": "3c2c3bdef4e6",
+      "title": "当 Coding Agent 走进研发团队：我们打造并开源了自进化研发平台 LoopForge",
+      "url": "https://www.infoq.cn/article/QGaIWSgd9uwx2WGw0yFv?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-06T07:14:48.000Z",
+      "image": "https://static001.infoq.cn/resource/image/ee/7c/ee390869373e9d5ec74cf94d454ee87c.png"
     },
     {
       "id": "3a2170816893",
@@ -277,124 +395,6 @@
       "category": "开发",
       "published": "2026-11-05T16:53:21.000Z",
       "image": "https://static001.infoq.cn/resource/image/ec/b0/ecd3e27a3739bc3395ab8fd471694cb0.png"
-    },
-    {
-      "id": "f967031da764",
-      "title": "MCP C# SDK 2.0 默认启用 HTTP 无状态模式，新增多轮请求能力",
-      "url": "https://www.infoq.cn/article/80iUxvCNB59aOgyXB7LN?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-05T15:19:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/d7/8b/d71582585760e18439199bcea7b96e8b.jpg"
-    }
-  ],
-  "政策": [
-    {
-      "id": "3d54da0059ab",
-      "title": "人社部发布：2026年前三季度人力资源和社会保障工作主要进展情况及 ...",
-      "url": "https://www.sohu.com/a/1096063102_123016950",
-      "summary": "今年以来，在以习近平同志为核心的党中央坚强领导下，各级人力资源社会保障部门认真贯彻落实党中央、国务院决策部署，坚持稳中求进工作总基调，积极进取、扎实工作，各项工作进展顺利。 一、就业 工作进展情况：1",
-      "source": "Bing·人社部就业创业政策",
-      "category": "政策",
-      "published": "2026-11-02T05:37:00.000Z",
-      "image": "",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "66ae93a33ef7",
-      "title": "齐鲁青未了&#183;职路正当时 滨州市大学生就业指导巡回宣讲鲁北技师 ...",
-      "url": "https://www.sohu.com/a/1096192664_121106991",
-      "summary": "为进一步强化高校毕业生就业指导服务，帮助大学生更好地了解当前就业形势政策，明确自身定位和发展方向，提升就业竞争力，10月30日上午，由滨州市人力资源和社会保障局主办的 齐鲁青未了&#183;职路正当时",
-      "source": "Bing·大学生就业政策",
-      "category": "政策",
-      "published": "2026-11-02T09:32:00.000Z",
-      "image": "https://q9.itc.cn/q_70/images03/20261102/a76a753a82c04c16aa81ad10c6833800.jpeg",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "5c9119c0eb21",
-      "title": "【西盟县】党建搭台 政银联动——县人社局党支部以“三联”聚力 ...",
-      "url": "https://www.sohu.com/a/1096640927_121106902",
-      "summary": "就业是最大的民生，创业是就业之源。如何让就业创业政策真正惠及群众",
-      "source": "Bing·人社部就业创业政策",
-      "category": "政策",
-      "published": "2026-11-03T08:49:00.000Z",
-      "image": "https://q9.itc.cn/q_70/images03/20261103/b1555ba4adb6449a8ee0f9688870f93d.jpeg",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "c2b882425333",
-      "title": "荆州市2026年度“能人返乡”特色创业项目和大学生创业扶持项目路演 ...",
-      "url": "https://news.cjn.cn/zjjjdpd/yw_20048/202610/t5354540.htm",
-      "summary": "10月30日，荆州市2026年度“能人返乡”特色创业项目和大学生创业扶持项目路演活动在湖北中医药高等专科学校举行。返乡创业能人与大学生创业者同台竞技，首次以市县联动路演模式展示风采，并推出创业扶持及金",
-      "source": "Bing·大学生创业扶持政策",
-      "category": "政策",
-      "published": "2026-10-31T00:50:00.000Z",
-      "image": "http://img.cjn.cn/2023cjn/page/img/wlcjx.jpg",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "f5cb39eaf8f6",
-      "title": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
-      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202606/t20260602_1438600.html",
-      "summary": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
-      "source": "教育部",
-      "category": "政策",
-      "published": "2026-06-02T00:00:00.000Z",
-      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
-      "score": 50,
-      "tags": []
-    }
-  ],
-  "财经": [
-    {
-      "id": "b3355a55ddb4",
-      "title": "（第九届进博会）从“展示窗口”到“创新加速器”：进博会医疗创新孵化专区强力链接全球双循环",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726967.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-11-05T15:48:25.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "71773c5bb476",
-      "title": "黑龙江电力外送签约电量首破200亿千瓦时",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726965.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-11-05T15:43:07.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "1bfbb311f9bd",
-      "title": "第四届广西农民工创业大赛收官 创业成果集中亮相",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726963.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-11-05T15:42:23.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "418e8feab377",
-      "title": "邯郸（鸡泽）国际物流产业园十年“织”就出海路",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726953.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-11-05T15:23:04.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "1573a10a0067",
-      "title": "向北开放势能持续释放 绥芬河迎来新增长极",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-05/10726940.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-11-05T15:04:01.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
 }
