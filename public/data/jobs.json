@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T00:49:59.058Z",
+  "updated": "2026-11-06T07:44:04.480Z",
   "count": 118,
   "sources": {
     "V2EX": 9,
@@ -9,6 +9,48 @@
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1254939",
+      "title": "招聘汇总｜ 345 个岗位，涵盖技术、AI、产品、运营与内容创作",
+      "company": "loser7758",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [],
+      "category": "产品",
+      "postedDate": "2026-11-06",
+      "url": "https://www.v2ex.com/t/1254939",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1254890",
+      "title": "招聘： C++低延迟交易系统工程师， C++ 交易引擎系统开发工程师（必须具备实际开发经验）",
+      "company": "justinX",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "python",
+        "rust",
+        "c++",
+        "k8s",
+        "linux",
+        "mysql",
+        "redis"
+      ],
+      "category": "运维/SRE",
+      "postedDate": "2026-11-06",
+      "url": "https://www.v2ex.com/t/1254890",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1254733",
       "title": "Harness & Agentic AI，找几位能挑大梁的资深工程师",
@@ -154,46 +196,6 @@
       "category": "后端",
       "postedDate": "2026-11-04",
       "url": "https://www.v2ex.com/t/1254493",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1254471",
-      "title": "我们在做 AI 时代的 Dropbox，寻找一位产品设计师与一位全栈工程师",
-      "company": "cs1707",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [],
-      "category": "全栈",
-      "postedDate": "2026-11-04",
-      "url": "https://www.v2ex.com/t/1254471",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1254351",
-      "title": "OmnixDrive 人才招募",
-      "company": "OrbitDrive",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "python",
-        "go",
-        "c++",
-        "pytorch",
-        "tensorflow"
-      ],
-      "category": "其他",
-      "postedDate": "2026-11-04",
-      "url": "https://www.v2ex.com/t/1254351",
       "source": "V2EX",
       "region": "domestic"
     },
