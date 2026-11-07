@@ -1,6 +1,18 @@
 {
   "科技": [
     {
+      "id": "be545ac37e7a",
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "summary": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-07T22:07:22.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2207245107-1.jpg?resize=1200,765",
+      "score": 75,
+      "tags": []
+    },
+    {
       "id": "274da77cbef3",
       "title": "Parents want safer phones for kids. These companies are answering the call.",
       "url": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
@@ -46,44 +58,6 @@
       "published": "2026-11-07T01:40:28.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?resize=1200,800",
       "score": 70,
-      "tags": []
-    },
-    {
-      "id": "b30360389155",
-      "title": "The Duo apps are coming, says Apple",
-      "url": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
-      "summary": "The Duo apps are coming, says Apple",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-06T21:38:05.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-duo.jpeg?resize=1200,675",
-      "score": 70,
-      "tags": []
-    }
-  ],
-  "AI": [
-    {
-      "id": "37d75a0fa379",
-      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-      "summary": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-11-06T18:44:38.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?resize=1200,800",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "41cd6da548e0",
-      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-      "summary": "OpenAI reportedly raises an additional $11 billion at a $1。25 trillion valuation",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-11-06T22:53:46.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
-      "score": 65,
       "tags": []
     }
   ],
@@ -145,6 +119,20 @@
       "category": "就业",
       "published": "2026-11-04T07:04:00.000Z",
       "image": "//q5.itc.cn/q_70/images03/20261105/148adae0f4d340659fc3099f3a672b21.jpeg",
+      "score": 60,
+      "tags": []
+    }
+  ],
+  "AI": [
+    {
+      "id": "41cd6da548e0",
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "summary": "OpenAI reportedly raises an additional $11 billion at a $1。25 trillion valuation",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-11-06T22:53:46.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
       "score": 60,
       "tags": []
     }
@@ -333,6 +321,53 @@
       "image": "https://q4.itc.cn/q_70/images03/20261106/c7374845549b484a97c603dc59fabe9b.png",
       "score": 50,
       "tags": []
+    }
+  ],
+  "财经": [
+    {
+      "id": "3bfdc71f9ee3",
+      "title": "（第九届进博会）多国风物初登进博 借开放中国链接世界",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728169.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-11-07T15:00:42.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "8e3c966fa9c6",
+      "title": "（第九届进博会）百年茶缘续新篇 斯里兰卡红茶借进博会“回家”",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728165.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-11-07T13:47:14.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "6d4535fa4821",
+      "title": "（第九届进博会）华商侨企接入进博“引力场”：从商品贸易到生态共生",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728124.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-11-07T13:26:22.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "406bc423ecc5",
+      "title": "（第九届进博会）广西借进博会平台邀全球客商加大投资力度",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728135.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-11-07T13:25:20.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "f103f83269f7",
+      "title": "专访越南驻华大使范清平：越中纺织产业优势互补",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-07/10728119.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-11-07T13:24:46.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
 }
