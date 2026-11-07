@@ -1,55 +1,17 @@
 {
-  "AI": [
-    {
-      "id": "37d75a0fa379",
-      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-      "summary": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-11-06T18:44:38.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?resize=1200,800",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "8f51c7b390aa",
-      "title": "After the midterms, is the AI industry in for a rough two years?",
-      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-      "summary": "After the midterms, is the AI industry in for a rough two years",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-11-06T17:23:52.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2236543888.jpg?resize=1200,800",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "7b5a2965d87a",
-      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-      "summary": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-11-06T15:54:47.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/ara-stripe-5.png?resize=1200,779",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "6d72973eed55",
-      "title": "Physicl raises $10M to make the digital world real enough for robots",
-      "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
-      "summary": "Physicl raises $10M to make the digital world real enough for robots",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-11-06T13:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/physicl-studio-hero-kitchen-16x9-1.jpg?resize=1200,675",
-      "score": 70,
-      "tags": []
-    }
-  ],
   "科技": [
+    {
+      "id": "b30360389155",
+      "title": "The Duo apps are coming, says Apple",
+      "url": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
+      "summary": "The Duo apps are coming, says Apple",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-06T21:38:05.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-duo.jpeg?resize=1200,675",
+      "score": 75,
+      "tags": []
+    },
     {
       "id": "dcfedcc7440b",
       "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
@@ -59,7 +21,7 @@
       "category": "科技",
       "published": "2026-11-06T18:44:20.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -71,7 +33,7 @@
       "category": "科技",
       "published": "2026-11-06T16:50:01.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2157883094.jpeg?resize=1200,742",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -83,7 +45,7 @@
       "category": "科技",
       "published": "2026-11-06T16:05:36.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2024/03/roku-glitch.jpg?resize=1200,778",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -97,16 +59,54 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/Alexa-Shopping-Text-Hero.jpeg?resize=1200,725",
       "score": 70,
       "tags": []
+    }
+  ],
+  "AI": [
+    {
+      "id": "37d75a0fa379",
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "summary": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-11-06T18:44:38.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?resize=1200,800",
+      "score": 75,
+      "tags": []
     },
     {
-      "id": "9ae489964215",
-      "title": "Underdog shows off a 32MB speech model in new demo",
-      "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
-      "summary": "Underdog shows off a 32MB speech model in new demo",
+      "id": "8f51c7b390aa",
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+      "summary": "After the midterms, is the AI industry in for a rough two years",
       "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-06T13:02:16.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-7.02.34-PM.jpg?resize=1200,542",
+      "category": "AI",
+      "published": "2026-11-06T17:23:52.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2236543888.jpg?resize=1200,800",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "7b5a2965d87a",
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "summary": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-11-06T15:54:47.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/ara-stripe-5.png?resize=1200,779",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "41cd6da548e0",
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "summary": "OpenAI reportedly raises an additional $11 billion at a $1。25 trillion valuation",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-11-06T22:53:46.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
       "score": 70,
       "tags": []
     }
@@ -187,6 +187,18 @@
       "tags": []
     },
     {
+      "id": "ac813ceac161",
+      "title": "陕西省教育厅通报“延安大学教师白某某离世”：已成立联合调查组",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-05/10726385.shtml",
+      "summary": "中新网11月5日电 据“陕西省教育厅”微信公众号消息，11月4日晚，陕西省教育厅发布情况通报：",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-11-05T01:19:38.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 55,
+      "tags": []
+    },
+    {
       "id": "5eb1282defd3",
       "title": "代办高考报名资格？教育部提醒，这几类骗局要警惕",
       "url": "https://www.chinanews.com.cn/edu/2026/11-04/10726007.shtml",
@@ -221,30 +233,18 @@
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 50,
       "tags": []
-    },
-    {
-      "id": "c7e65e715cbe",
-      "title": "“报名失败”“名额紧张”？高考报名季警惕这些骗局",
-      "url": "https://www.chinanews.com.cn/edu/2026/11-04/10726110.shtml",
-      "summary": "记者从全国教育辟谣平台获悉，2027年普通高校招生考试报名工作已陆续启动。部分省市于10月中下旬至11月初集中开展网上报名，艺术类、体育类等考试报名与高考报名同期进行",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-11-04T09:44:06.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
     }
   ],
   "政策": [
     {
-      "id": "45c6ee878915",
-      "title": "大兴区启动“兴采&#183;青苗”高校大学生实习计划",
-      "url": "https://www.sohu.com/a/1096199502_163278",
-      "summary": "为持续深化“政校企”协同促就业服务机制，促进高校毕业生实现高质量充分就业，近日，大兴区人力社保局启动“兴采&#183;青苗”高校大学生实习计划。 启动会上，大兴区相关部门分别介绍了辖区人才政策及服务措",
+      "id": "66ae93a33ef7",
+      "title": "齐鲁青未了&#183;职路正当时 滨州市大学生就业指导巡回宣讲鲁北技师 ...",
+      "url": "https://www.sohu.com/a/1096192664_121106991",
+      "summary": "为进一步强化高校毕业生就业指导服务，帮助大学生更好地了解当前就业形势政策，明确自身定位和发展方向，提升就业竞争力，10月30日上午，由滨州市人力资源和社会保障局主办的 齐鲁青未了&#183;职路正当时",
       "source": "Bing·大学生就业政策",
       "category": "政策",
-      "published": "2026-11-02T09:47:00.000Z",
-      "image": "https://q1.itc.cn/q_70/images03/20261102/f06e892d936e4fdc92477255dec8d833.jpeg",
+      "published": "2026-11-02T09:32:00.000Z",
+      "image": "https://q9.itc.cn/q_70/images03/20261102/a76a753a82c04c16aa81ad10c6833800.jpeg",
       "score": 50,
       "tags": []
     },
@@ -273,31 +273,58 @@
       "tags": []
     },
     {
-      "id": "c8fc3a00593a",
-      "title": "从武汉到长沙，王庆和他的国潮球鞋美学 丨“你的背包”大学生创新 ...",
-      "url": "https://news.ifeng.com/c/8xfUHGVzotL",
-      "summary": "编者按： 每一个选择湖南的背包，装着无数个奔向湖南的青春故事。这里承载着大学生们的热爱、勇气与未来",
+      "id": "d1154ca24d33",
+      "title": "【关注】绵阳市2026年“创梦科技城”创业服务行动10月活动集锦",
+      "url": "https://www.sohu.com/a/1096217727_121106884",
+      "summary": "为深入贯彻党的二十大和二十届历次全会精神，全面落实省委十二届八次全会、市委八届十一次全会部署，持续优化全市创业服务体系，绵阳市人社部门以“发挥中国科技城优势加快建成省域经济副中心”为总牵引，以服务新质",
       "source": "Bing·大学生创业扶持政策",
       "category": "政策",
-      "published": "2026-10-31T04:44:00.000Z",
-      "image": "https://x0.ifengimg.com/res/2026/2E0B8CABC0D879C6431A8B8F2EA74B901684A1FF_size342_w800_h533.jpg",
+      "published": "2026-11-02T10:13:00.000Z",
+      "image": "https://q9.itc.cn/q_70/images03/20261102/f830131ac8ea488baaf5fb2c7dc1ab34.png",
       "score": 50,
       "tags": []
     },
     {
-      "id": "c2b882425333",
-      "title": "荆州市2026年度“能人返乡”特色创业项目和大学生创业扶持项目路演 ...",
-      "url": "https://news.cjn.cn/zjjjdpd/yw_20048/202610/t5354540.htm",
-      "summary": "10月30日，荆州市2026年度“能人返乡”特色创业项目和大学生创业扶持项目路演活动在湖北中医药高等专科学校举行。返乡创业能人与大学生创业者同台竞技，首次以市县联动路演模式展示风采，并推出创业扶持及金",
-      "source": "Bing·大学生创业扶持政策",
+      "id": "f5cb39eaf8f6",
+      "title": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
+      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202606/t20260602_1438600.html",
+      "summary": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
+      "source": "教育部",
       "category": "政策",
-      "published": "2026-10-31T00:50:00.000Z",
-      "image": "http://img.cjn.cn/2023cjn/page/img/wlcjx.jpg",
+      "published": "2026-06-02T00:00:00.000Z",
+      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
       "score": 50,
       "tags": []
     }
   ],
   "财经": [
+    {
+      "id": "05755043ce6d",
+      "title": "商务部新闻发言人就美制裁中国企业答记者问",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727763.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-11-07T01:24:56.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "34860ac9a079",
+      "title": "前三季度科技、涉农贷款数据出炉 金融支持实体力度持续显现",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727756.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-11-07T01:04:08.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "5df0ea95d499",
+      "title": "中国证监会同意葵花籽油、氢氧化锂期货和期权注册",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-07/10727741.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-11-06T23:44:20.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
     {
       "id": "5c727a886af3",
       "title": "（第九届进博会）拓展合作、深耕中国 跨国企业进博会上签约忙",
@@ -315,36 +342,18 @@
       "category": "财经",
       "published": "2026-11-06T15:53:06.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "8f9fc94f6285",
-      "title": "台企在江苏无锡开建AI算力高端电子基板材料研发制造总部",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727708.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-11-06T15:52:22.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "ef0959372ee3",
-      "title": "AI电商合规治理与消费环境共建行动在浙江启动",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727699.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-11-06T15:38:07.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "671abcebf6a8",
-      "title": "白皮书：数字化平台与AI成汽车消费服务业升级关键变量",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-06/10727693.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-11-06T15:35:39.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ],
   "开发": [
+    {
+      "id": "95b910f06116",
+      "title": "线上 Worker 变慢，本地却复现不了？Cloudflare 让开发者直接看生产环境火焰图",
+      "url": "https://www.infoq.cn/article/pMNGPheLLJ8hkfikmjUU?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-07T09:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/a4/e4/a4a783580e12c16a87c818eba478bee4.jpg"
+    },
     {
       "id": "1604b7e989e2",
       "title": "Cloudflare 与 VoidZero 联合推出 tsrs：由 AI 生成的 TypeScript 编译器 Rust 移植版",
@@ -380,15 +389,6 @@
       "category": "开发",
       "published": "2026-11-06T14:01:37.000Z",
       "image": "https://static001.infoq.cn/resource/image/fb/86/fb084ec344857fdcf56f36d10e9bda86.jpg"
-    },
-    {
-      "id": "745615d68073",
-      "title": "智能体 Harness 的演进：从链、图到代码化",
-      "url": "https://www.infoq.cn/article/B7tsA5tjD08k2gd0OtXd?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-06T13:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/f2/14/f2c425a4f63b41a0df6c22466051yy14.jpg"
     }
   ]
 }
