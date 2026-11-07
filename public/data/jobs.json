@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T15:29:59.380Z",
+  "updated": "2026-11-07T19:57:10.099Z",
   "count": 119,
   "sources": {
     "V2EX": 8,
@@ -1887,29 +1887,6 @@
       "region": "foreign"
     },
     {
-      "id": "remoteok-1137512",
-      "title": "Customer Support Specialist",
-      "company": "Ultimate Marketing",
-      "location": "Remote",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "customer support",
-        "Remote Work",
-        "Social Media",
-        "Communication",
-        "Worldwide"
-      ],
-      "category": "customer support",
-      "postedDate": "2026-10-14",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-specialist-ultimate-marketing-1137512",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
       "id": "remotive-2069746",
       "title": "Tech Lead Full-Stack Rails Engineer",
       "company": "Mitre Media",
@@ -3110,6 +3087,36 @@
       "category": "design",
       "postedDate": "2026-08-04",
       "url": "https://remoteOK.com/remote-jobs/remote-marketing-specialist-innergy-1136094",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1136222",
+      "title": "Data Analyst",
+      "company": "SEAhub Asia",
+      "location": "Kuala Lumpur, Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "saas",
+        "customer support",
+        "marketing",
+        "exec",
+        "ops",
+        "sales",
+        "analyst",
+        "virtual assistant",
+        "infosec",
+        "consulting",
+        "dev",
+        "finance"
+      ],
+      "category": "saas",
+      "postedDate": "2026-08-04",
+      "url": "https://remoteOK.com/remote-jobs/remote-data-analyst-seahub-asia-1136222",
       "source": "RemoteOK",
       "region": "foreign"
     }
