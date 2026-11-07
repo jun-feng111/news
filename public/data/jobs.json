@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T01:41:00.873Z",
+  "updated": "2026-11-07T08:26:17.538Z",
   "count": 119,
   "sources": {
     "V2EX": 8,
@@ -167,6 +167,31 @@
       "url": "https://www.v2ex.com/t/1254512",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "remoteok-1137695",
+      "title": "Registered Nurse",
+      "company": "Caringhand Home Health Solutions, Inc.",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "education",
+        "supervisor",
+        "customer support",
+        "travel",
+        "exec",
+        "medical",
+        "full time"
+      ],
+      "category": "education",
+      "postedDate": "2026-11-06",
+      "url": "https://remoteOK.com/remote-jobs/remote-registered-nurse-caringhand-home-health-solutions-inc-1137695",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137694",
@@ -3091,36 +3116,6 @@
       "category": "design",
       "postedDate": "2026-08-04",
       "url": "https://remoteOK.com/remote-jobs/remote-marketing-specialist-innergy-1136094",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1136222",
-      "title": "Data Analyst",
-      "company": "SEAhub Asia",
-      "location": "Kuala Lumpur, Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "saas",
-        "customer support",
-        "marketing",
-        "exec",
-        "ops",
-        "sales",
-        "analyst",
-        "virtual assistant",
-        "infosec",
-        "consulting",
-        "dev",
-        "finance"
-      ],
-      "category": "saas",
-      "postedDate": "2026-08-04",
-      "url": "https://remoteOK.com/remote-jobs/remote-data-analyst-seahub-asia-1136222",
       "source": "RemoteOK",
       "region": "foreign"
     }
