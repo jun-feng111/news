@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T23:29:30.894Z",
+  "updated": "2026-11-08T04:45:42.823Z",
   "count": 119,
   "sources": {
     "V2EX": 8,
@@ -175,6 +175,36 @@
       "url": "https://www.v2ex.com/t/1254553",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "remoteok-1137701",
+      "title": "AI Developer",
+      "company": "Salvo Software",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "dev",
+        "grafana",
+        "infosec",
+        "python",
+        "docker",
+        "technical",
+        "customer support",
+        "devops",
+        "c",
+        "c plus plus",
+        "cloud",
+        "git"
+      ],
+      "category": "dev",
+      "postedDate": "2026-11-07",
+      "url": "https://remoteOK.com/remote-jobs/remote-ai-developer-salvo-software-1137701",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137700",
@@ -3087,36 +3117,6 @@
       "category": "design",
       "postedDate": "2026-08-04",
       "url": "https://remoteOK.com/remote-jobs/remote-marketing-specialist-innergy-1136094",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1136222",
-      "title": "Data Analyst",
-      "company": "SEAhub Asia",
-      "location": "Kuala Lumpur, Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "saas",
-        "customer support",
-        "marketing",
-        "exec",
-        "ops",
-        "sales",
-        "analyst",
-        "virtual assistant",
-        "infosec",
-        "consulting",
-        "dev",
-        "finance"
-      ],
-      "category": "saas",
-      "postedDate": "2026-08-04",
-      "url": "https://remoteOK.com/remote-jobs/remote-data-analyst-seahub-asia-1136222",
       "source": "RemoteOK",
       "region": "foreign"
     }
