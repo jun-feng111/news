@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T21:47:20.066Z",
+  "updated": "2026-11-09T01:29:26.067Z",
   "count": 120,
   "sources": {
     "V2EX": 8,
@@ -175,6 +175,36 @@
       "url": "https://www.v2ex.com/t/1254613",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "remoteok-1137703",
+      "title": "Account Executive Enterprise",
+      "company": "Harvey",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "saas",
+        "technical",
+        "customer support",
+        "dev",
+        "marketing",
+        "finance",
+        "exec",
+        "legal",
+        "sales",
+        "engineer",
+        "recruiter",
+        "digital nomad"
+      ],
+      "category": "saas",
+      "postedDate": "2026-11-08",
+      "url": "https://remoteOK.com/remote-jobs/remote-account-executive-enterprise-harvey-1137703",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137701",
@@ -3117,36 +3147,6 @@
       "category": "design",
       "postedDate": "2026-08-04",
       "url": "https://remoteOK.com/remote-jobs/remote-marketing-specialist-innergy-1136094",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1136222",
-      "title": "Data Analyst",
-      "company": "SEAhub Asia",
-      "location": "Kuala Lumpur, Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "saas",
-        "customer support",
-        "marketing",
-        "exec",
-        "ops",
-        "sales",
-        "analyst",
-        "virtual assistant",
-        "infosec",
-        "consulting",
-        "dev",
-        "finance"
-      ],
-      "category": "saas",
-      "postedDate": "2026-08-04",
-      "url": "https://remoteOK.com/remote-jobs/remote-data-analyst-seahub-asia-1136222",
       "source": "RemoteOK",
       "region": "foreign"
     }
