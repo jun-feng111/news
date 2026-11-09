@@ -9,7 +9,7 @@
       "category": "科技",
       "published": "2026-11-08T22:00:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2149461717.jpg?resize=1200,900",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -21,7 +21,7 @@
       "category": "科技",
       "published": "2026-11-08T19:51:30.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2025/10/2243688557.jpg?resize=1200,800",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -37,6 +37,18 @@
       "tags": []
     },
     {
+      "id": "13f4eae92136",
+      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+      "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+      "summary": "Is Jensen Huang’s job on the line。 Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-09T05:26:29.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800",
+      "score": 65,
+      "tags": []
+    },
+    {
       "id": "d417e4f21505",
       "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
       "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
@@ -45,19 +57,7 @@
       "category": "科技",
       "published": "2026-11-08T21:00:11.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
-      "score": 65,
-      "tags": []
-    },
-    {
-      "id": "c2f6bfd6c6c1",
-      "title": "If Snap&#8217;s Specs are still ridiculously expensive, they&#8217;re also a lot more comfortable than they used to be",
-      "url": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/",
-      "summary": "If Snap&#8217;s Specs are still ridiculously expensive, they&#8217;re also a lot more comfortable th",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-08T21:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/SPECS27_52_Front_View81.png?resize=1200,675",
-      "score": 65,
+      "score": 60,
       "tags": []
     }
   ],
@@ -125,18 +125,6 @@
   ],
   "社会": [
     {
-      "id": "f417b697e754",
-      "title": "AI加速赋能高校招培就工作 兼顾效率与育人温度",
-      "url": "https://www.chinanews.com.cn/edu/2026/11-04/10726289.shtml",
-      "summary": "中新网合肥11月4日电 (记者 张俊)2026年全国高校招培就工作交流大会4日在安徽省合肥市举办，来自全国800余所高校的专家共同探讨人工智能如何赋能招生、人才培养与就业服务",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-11-04T14:03:40.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 60,
-      "tags": []
-    },
-    {
       "id": "ac813ceac161",
       "title": "陕西省教育厅通报“延安大学教师白某某离世”：已成立联合调查组",
       "url": "https://www.chinanews.com.cn/edu/2026/11-05/10726385.shtml",
@@ -144,30 +132,6 @@
       "source": "中新网教育",
       "category": "社会",
       "published": "2026-11-05T01:19:38.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "5eb1282defd3",
-      "title": "代办高考报名资格？教育部提醒，这几类骗局要警惕",
-      "url": "https://www.chinanews.com.cn/edu/2026/11-04/10726007.shtml",
-      "summary": "中新网北京11月4日电 目前，各地2027年普通高校招生考试报名工作陆续启动。从往年情况来看，报名节点正是涉考诈骗的集中冒头期",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-11-04T07:55:46.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "577d0c960659",
-      "title": "下半年中小学教师资格考试（笔试）成绩6日可查",
-      "url": "https://www.chinanews.com.cn/edu/2026/11-04/10725997.shtml",
-      "summary": "中新网11月4日电 据“微言教育”微信公众号4日消息，2026年下半年中小学教师资格考试(笔试)成绩将于11月6日发布，并明确2026年下半年中小学教师资格考试(面试)报名工作将同步开始",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-11-04T07:38:03.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 55,
       "tags": []
@@ -183,68 +147,92 @@
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 50,
       "tags": []
+    },
+    {
+      "id": "c3e5675a6d53",
+      "title": "120支火炬传递百廿暨南侨校薪火 苏炳添全红婵参加",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-06/10727262.shtml",
+      "summary": "中新网广州11月6日电 (记者 郭军)11月3日至5日，暨南大学“百廿相传 弦歌不辍”薪火传递活动在广州、珠海、深圳三地五个校区接续上演。120支火炬、120名来自不同代际的暨南人接力奔跑，以一场跨越",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-11-06T06:58:35.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "78252c69a2a0",
+      "title": "付费“导师红黑榜”走红 择校焦虑不该被流量收割",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-06/10727180.shtml",
+      "summary": "付费“导师红黑榜”走红 择校焦虑不该被流量收割",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-11-06T05:14:11.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "c006083f36e9",
+      "title": "“智慧教室”会侵犯学生隐私？全国教育辟谣平台发文谈误读套路",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-06/10727073.shtml",
+      "summary": "中新网北京11月6日电 近日，南京大学启用智慧教室系统事件引发热议。11月6日，全国教育辟谣平台发文称，跳出单一现象来看，“智慧教室”引发的争议并非孤例",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-11-06T02:25:52.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
     }
   ],
   "开发": [
     {
-      "id": "3c2c3bdef4e6",
-      "title": "当 Coding Agent 走进研发团队：我们打造并开源了自进化研发平台 LoopForge",
-      "url": "https://www.infoq.cn/article/QGaIWSgd9uwx2WGw0yFv?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/QGaIWSgd9uwx2WGw0yFv",
-      "source": "InfoQ中文",
+      "id": "f23fcd07900a",
+      "title": "科技爱好者周刊（第 418 期）：如果科技停止在21世纪初",
+      "url": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html",
+      "summary": "这里记录每周值得分享的科技内容，周五发布",
+      "source": "阮一峰",
       "category": "开发",
-      "published": "2026-11-06T07:14:48.000Z",
-      "image": "https://static001.infoq.cn/resource/image/ee/7c/ee390869373e9d5ec74cf94d454ee87c.png",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "1604b7e989e2",
-      "title": "Cloudflare 与 VoidZero 联合推出 tsrs：由 AI 生成的 TypeScript 编译器 Rust 移植版",
-      "url": "https://www.infoq.cn/article/lGoA1ZSw6ojeh68GVlBl?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/lGoA1ZSw6ojeh68GVlBl",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-06T17:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/41/20/417c0785efd96c03fef863a73e642520.jpg",
+      "published": "2026-11-05T23:43:55.000Z",
+      "image": "",
       "score": 55,
       "tags": []
     },
     {
-      "id": "2aa377d83f63",
-      "title": "DigitalOcean 推出学习与数据服务，帮助 AI 智能体进行自我迭代",
-      "url": "https://www.infoq.cn/article/upfROwtEl8R75H24D13J?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/upfROwtEl8R75H24D13J",
+      "id": "fdc95908e810",
+      "title": "千问“死磕”Personal Agent：为什么下限比上限更重要？",
+      "url": "https://www.infoq.cn/article/1g0PWSVhNkb0sgud4heO?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-11-06T15:25:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/8a/8b/8a35a8eb1e39b918d06f55e016d7608b.jpg",
-      "score": 55,
-      "tags": []
+      "published": "2026-11-09T17:02:39.000Z",
+      "image": "https://static001.infoq.cn/resource/image/5d/af/5df8bd30535e371681b14c11803319af.png"
     },
     {
-      "id": "b838e299e603",
-      "title": "NgRx 22 发布：引入 Resource Extensions 和动态 DeepSignal，增强 Angular 状态管理能力",
-      "url": "https://www.infoq.cn/article/zJmwNj2Erc0Ol10eSIIY?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/zJmwNj2Erc0Ol10eSIIY",
+      "id": "d3d00089e63e",
+      "title": "AI越来越聪明，企业却快管不住了：Gartner 2027年十大趋势，智能体治理成新战场",
+      "url": "https://www.infoq.cn/article/CUgMFMX7uRJNMec1pfYo?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-11-06T14:01:37.000Z",
-      "image": "https://static001.infoq.cn/resource/image/fb/86/fb084ec344857fdcf56f36d10e9bda86.jpg",
-      "score": 55,
-      "tags": []
+      "published": "2026-11-09T16:55:59.000Z",
+      "image": "https://static001.infoq.cn/resource/image/0e/0d/0ea7e3c7654c51ba107c17ba61e9640d.jpg"
     },
     {
-      "id": "baf9bdf3553d",
-      "title": "“超脑”统一指挥，“狼族”协同作战：京东物流打造供应链 AI 机器人军团",
-      "url": "https://www.infoq.cn/article/1YeowHagkg1Or6wwy23P?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/1YeowHagkg1Or6wwy23P",
+      "id": "bbe00843e2ce",
+      "title": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
+      "url": "https://www.infoq.cn/article/1Mz0ADa02PxcDsVfpVEb?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-11-06T11:32:10.000Z",
-      "image": "https://static001.infoq.cn/resource/image/84/af/8474a2aeebce482b4d638c8e511288af.jpeg",
-      "score": 55,
-      "tags": []
+      "published": "2026-11-09T16:26:51.000Z",
+      "image": "https://static001.infoq.cn/resource/image/e9/dc/e9f71de3af2249fdcd407feed134e7dc.jpg"
+    },
+    {
+      "id": "fcc72579ba18",
+      "title": "不能把整个安全体系押在大模型上：AI 分诊 CVE，人工审查仍不能少",
+      "url": "https://www.infoq.cn/article/mBvmvcQ8a8ty2Ob1xN64?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-09T16:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/60/a1/60b63b5c557a098a39567540e6053ea1.jpg"
     }
   ],
   "政策": [
@@ -297,62 +285,62 @@
       "tags": []
     },
     {
-      "id": "65cb3b2846fe",
-      "title": "宝鸡地区残疾人大学生就业能力提升培训暨校园专场招聘活动在宝鸡 ...",
-      "url": "https://www.sohu.com/a/1098192351_121246714",
-      "summary": "11月4日至5日，陕西省（宝鸡地区）残疾人大学生就业能力提升培训暨校园专场招聘活动在宝鸡职院举办。70余名残疾人大学生参加培训，20余家优质企业进场招聘，提供就业岗位500余个",
-      "source": "Bing·大学生就业政策",
+      "id": "d375d345ea49",
+      "title": "七部门联合发文！2026年福建高校毕业生就业工作这样干",
+      "url": "https://www.sohu.com/a/1097784121_121117462",
+      "summary": "近日，福建省人社厅等七部门联合印发《关于做好2026年高校毕业生等青年就业工作的通知》，从岗位挖掘、企业吸纳、基层就业、创业扶持到服务保障，一揽子政策集中发力：国企一次性增人增资政策延续至年底，小微企",
+      "source": "Bing·高校毕业生就业创业政策",
       "category": "政策",
-      "published": "2026-11-06T12:52:00.000Z",
-      "image": "//q1.itc.cn/images01/20261106/4f0b4ae386ac43678c1c5433cc3f0d91.jpeg",
+      "published": "2026-11-05T11:26:00.000Z",
+      "image": "https://q4.itc.cn/q_70/images03/20261106/c7374845549b484a97c603dc59fabe9b.png",
       "score": 50,
       "tags": []
     }
   ],
   "财经": [
     {
-      "id": "581f90869af9",
-      "title": "金观平：依法依规治理低价无序竞争",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728608.shtml",
+      "id": "57527208face",
+      "title": "10月中国乘用车出口量同比增长68.5%",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728936.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-09T00:40:48.000Z",
+      "published": "2026-11-09T09:00:45.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "d57bdc49370e",
-      "title": "打蚊子、陪聊天、认小鸟 中国AI消费品海外走俏",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728587.shtml",
+      "id": "ee7364a8620d",
+      "title": "报告：中外企业气候行动整体呈现向好趋势 碳数据披露持续完善",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728910.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-08T23:24:58.000Z",
+      "published": "2026-11-09T08:51:26.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "18d48c91db00",
-      "title": "畅通教育科技人才良性循环 为新质生产力蓄势赋能",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728567.shtml",
+      "id": "f2347d20b8bf",
+      "title": "商务部：继续暂停对韩华海洋株式会社5家美国相关子公司实施反制措施2个月",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728894.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-08T14:53:10.000Z",
+      "published": "2026-11-09T08:41:50.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "f00a721ccdcc",
-      "title": "专访美中贸易全国委员会会长：美企不希望看到贸易保护主义抬头",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728551.shtml",
+      "id": "ca48e7a9c2ba",
+      "title": "山西恒山黄芪全产业链产值突破15亿元 远销60多个国家和地区",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728892.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-08T13:35:05.000Z",
+      "published": "2026-11-09T08:40:10.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "82aef03f50cb",
-      "title": "对接、洽谈、签约 进博会各项配套活动全面展开",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-08/10728550.shtml",
+      "id": "0ac325472468",
+      "title": "第九届进博会|虹桥论坛聚焦全球经济热点议题",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-09/10728891.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-08T13:31:25.000Z",
+      "published": "2026-11-09T08:33:29.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]

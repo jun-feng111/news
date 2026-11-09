@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T01:29:26.067Z",
+  "updated": "2026-11-09T09:15:14.310Z",
   "count": 120,
   "sources": {
     "V2EX": 8,
@@ -9,6 +9,51 @@
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1255601",
+      "title": "推薦算法工程師 | 港币 30K-50K/月",
+      "company": "sighforever",
+      "location": "香港招聘",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "python",
+        "go",
+        "c++",
+        "pytorch",
+        "tensorflow"
+      ],
+      "category": "算法/AI",
+      "postedDate": "2026-11-09",
+      "url": "https://www.v2ex.com/t/1255601",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1255478",
+      "title": "千问事业部-助手 Agent 交互技术专家-杭州",
+      "company": "liuxinglanyue",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "java",
+        "go",
+        "golang",
+        "linux"
+      ],
+      "category": "其他",
+      "postedDate": "2026-11-09",
+      "url": "https://www.v2ex.com/t/1255478",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1255353",
       "title": "杭州下沙｜找一起做 Agent 与算法的队友，实习 / 正式均可",
@@ -133,46 +178,6 @@
       "category": "算法/AI",
       "postedDate": "2026-11-05",
       "url": "https://www.v2ex.com/t/1254730",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1254673",
-      "title": "济南招聘｜ Java 2-5 年 初级开发工程师｜ 8-11K | 氛围轻松，适合摸鱼养老",
-      "company": "heyline",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "java",
-        "linux"
-      ],
-      "category": "人力/HR",
-      "postedDate": "2026-11-05",
-      "url": "https://www.v2ex.com/t/1254673",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1254613",
-      "title": "远程招聘｜ AI、技术、产品与运营高薪岗位合集",
-      "company": "loser7758",
-      "location": "国内",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "java",
-        "go"
-      ],
-      "category": "产品",
-      "postedDate": "2026-11-05",
-      "url": "https://www.v2ex.com/t/1254613",
       "source": "V2EX",
       "region": "domestic"
     },
