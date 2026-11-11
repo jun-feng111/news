@@ -1,64 +1,29 @@
 {
-  "科技": [
-    {
-      "id": "844ff10dd21c",
-      "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
-      "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
-      "summary": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-11T07:30:51.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-503116193.jpeg?resize=1200,800",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "99cf28c285f7",
-      "title": "X launches its own clipping feature to spur influencer engagement",
-      "url": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
-      "summary": "X launches its own clipping feature to spur influencer engagement",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-11T01:02:13.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/twitter-x-musk-graffiti-hand.jpg?resize=1200,675",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "a5d03cba15e5",
-      "title": "X-energy gets green light to build its first small modular nuclear reactors",
-      "url": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/",
-      "summary": "X-energy gets green light to build its first small modular nuclear reactors",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-10T20:43:55.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-129268875.jpg?resize=1200,900",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "6fc8f319c68f",
-      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
-      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
-      "summary": "All 7 Anthropic founders will each cash out about $250M in IPO",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-10T19:57:52.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/04/Jared-Kaplan_headshot2.jpg?resize=900,1200",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "0aa80f859e9a",
-      "title": "Pixel Tag, Google&#8217;s $30 Android-ready answer to Apple&#8217;s AirTag, is now available",
-      "url": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-10T18:49:19.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Tag_Lifestyle_Keys.png?resize=1166,1200"
-    }
-  ],
   "AI": [
+    {
+      "id": "b577d6b06f32",
+      "title": "OpenAI&#8217;s quarterly revenue reportedly crosses $10B for the first time",
+      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+      "summary": "OpenAI&#8217;s quarterly revenue reportedly crosses $10B for the first time",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-11-11T16:14:44.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/05/openAI-spiral-rose.jpg?resize=1200,675",
+      "score": 80,
+      "tags": []
+    },
+    {
+      "id": "a12c5f3d8f2d",
+      "title": "Databricks&#8217; new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+      "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+      "summary": "Databricks&#8217; new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-11-11T15:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/04/Ali_Ghodsi.jpg?resize=1200,1200",
+      "score": 80,
+      "tags": []
+    },
     {
       "id": "24b56e0e82fb",
       "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
@@ -84,40 +49,75 @@
       "tags": []
     },
     {
-      "id": "d29090d0b774",
-      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-      "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
-      "summary": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+      "id": "c469d7bbc40a",
+      "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+      "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+      "summary": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars",
       "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-11-10T19:23:34.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2296609700.jpg?resize=1200,799",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "a032a0b0222a",
-      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
-      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
-      "summary": "PSI is trying to make a business out of AI-driven scientific discovery",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-11-10T19:03:52.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-10-at-10.00.33-AM.png?w=683",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "4b68cc7db805",
-      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
-      "summary": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-11-10T18:49:52.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-10-at-8.46.19-AM.png?resize=1200,677",
+      "published": "2026-11-11T14:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Plurai-team-photo.-Credit-Guy-Hamoy.jpg?resize=1200,800",
       "score": 70,
       "tags": []
+    }
+  ],
+  "科技": [
+    {
+      "id": "bb7e05135d40",
+      "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+      "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+      "summary": "Is Jensen Huang’s bad behavior more commonplace than it seems",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-11T16:16:07.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2266475966.jpg?w=1024",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "70c564bfdb73",
+      "title": "Siri co-founder backs Helix for its voice ID tech",
+      "url": "https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/",
+      "summary": "Siri co-founder backs Helix for its voice ID tech",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-11T15:02:47.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Helix-Co-Founders-Credit_-Coy-Gutierrez.jpg?resize=1200,800",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "99cf28c285f7",
+      "title": "X launches its own clipping feature to spur influencer engagement",
+      "url": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
+      "summary": "X launches its own clipping feature to spur influencer engagement",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-11T01:02:13.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/twitter-x-musk-graffiti-hand.jpg?resize=1200,675",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "844ff10dd21c",
+      "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+      "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+      "summary": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-11T07:30:51.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-503116193.jpeg?resize=1200,800",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "a5d03cba15e5",
+      "title": "X-energy gets green light to build its first small modular nuclear reactors",
+      "url": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-10T20:43:55.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-129268875.jpg?resize=1200,900"
     }
   ],
   "就业": [
@@ -130,18 +130,6 @@
       "category": "就业",
       "published": "2026-09-03T03:36:00.000Z",
       "image": "https://img3.chinadaily.com.cn/static/2024cn_articleandcolumn/img/Mobile/Artical_Share_Icon1.png",
-      "score": 65,
-      "tags": []
-    },
-    {
-      "id": "33e036e2efdf",
-      "title": "2027届校招AI人才市场洞察：需求持续扩容，头部算法岗起薪2.7万元",
-      "url": "https://news.qq.com/rain/a/20260825A05VB300",
-      "summary": "2026年，随着一众大模型引领的AI热潮持续外溢，“人工智能+”对各行业的渗透进一步加深，AI人才争夺战已从局部试点走向体系化布局，并延伸至即将到来的2027届高校毕业生招聘市场。国内领先的人力资源服",
-      "source": "算法工程师·就业分析",
-      "category": "就业",
-      "published": "2026-08-25T05:15:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/On-JXNrgfoYm6qHklPYLPf2JUJgzl4e7-hnz7jI5lWtbQAA_640330/0",
       "score": 65,
       "tags": []
     },
@@ -167,6 +155,18 @@
       "published": "2026-10-19T13:23:00.000Z",
       "image": "https://n.sinaimg.cn/tech/zcapp2018/doc_qrcode1.png",
       "score": 65,
+      "tags": []
+    },
+    {
+      "id": "f9c86b268efa",
+      "title": "[香港招聘] AI Agent 開發工程師 | 港币 25K-35K/月",
+      "url": "https://www.v2ex.com/t/1255630#reply20",
+      "summary": "[香港招聘] AI Agent 開發工程師 | 港币 25K-35K/月",
+      "source": "V2EX·招聘",
+      "category": "就业",
+      "published": "2026-11-09T09:45:50.000Z",
+      "image": "https://cdn.v2ex.com/gravatar/8ffca9dadfaa88224e8ef4b794368c03?s=73&d=retro",
+      "score": 60,
       "tags": []
     },
     {
@@ -196,6 +196,18 @@
       "tags": []
     },
     {
+      "id": "e4b9a8731744",
+      "title": "百廿暨南续学术薪火 《暨南大先生朱杰勤》新书发布",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-09/10729035.shtml",
+      "summary": "中新网广州11月9日电 (记者 郭军)恰逢暨南大学建校120周年，《暨南大先生朱杰勤》新书发布会暨“陆海丝路视阈下的中外文明交往”学术研讨会近日在暨南大学举行。来自国内高校、科研院所的专家学者、朱杰勤",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-11-09T12:13:09.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 55,
+      "tags": []
+    },
+    {
       "id": "845fe927ad52",
       "title": "从能力标准到教育生态：大学如何“育见”未来？",
       "url": "https://www.chinanews.com.cn/edu/2026/11-08/10728284.shtml",
@@ -208,37 +220,25 @@
       "tags": []
     },
     {
-      "id": "2a505877331b",
-      "title": "“根深才能行远” 外籍校长在华探索中西融合教育实践",
-      "url": "https://www.chinanews.com.cn/edu/2026/11-09/10728816.shtml",
-      "summary": "中新网重庆11月9日电 题：“根深才能行远” 　外籍校长在华探索中西融合教育实践",
+      "id": "abd0dad4f141",
+      "title": "新疆最潮非遗新势力，年轻人扎堆的刺绣创业高地",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-09/10729106.shtml",
+      "summary": "青春华章 疆来可期｜新疆最潮非遗新势力，年轻人扎堆的刺绣创业高地",
       "source": "中新网教育",
       "category": "社会",
-      "published": "2026-11-09T06:46:30.000Z",
+      "published": "2026-11-09T13:00:06.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 50,
       "tags": []
     },
     {
-      "id": "31055eed01a7",
-      "title": "暨南大学公共管理学院举行建院15周年高质量发展大会",
-      "url": "https://www.chinanews.com.cn/edu/2026/11-09/10728778.shtml",
-      "summary": "中新网广州11月9日电 (记者 郭军)暨南大学公共管理学院建院15周年高质量发展大会8日在该校石牌校区举办。大会以“中国式现代化背景下公共管理学自主知识体系建构与学科高质量发展”为主题，系统回顾学院十",
+      "id": "defa32b752df",
+      "title": "山东青岛秋假撬动文旅消费 “研学”“追秋”带动市场升温",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-09/10729078.shtml",
+      "summary": "中新网青岛11月9日电 (王禹)11月5日至9日，山东青岛中小学迎来首个秋假，当地文旅市场同步进入“秋假时间”。滨海休闲与集中研学需求叠加，带动文博场馆、亲子景区、赏秋目的地全线热度攀升",
       "source": "中新网教育",
       "category": "社会",
-      "published": "2026-11-09T05:56:55.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "21d54c208c17",
-      "title": "20所高校齐聚暨大 共探党建与公管学科深度融合之道",
-      "url": "https://www.chinanews.com.cn/edu/2026/11-09/10728716.shtml",
-      "summary": "中新网广州11月9日电 (记者 郭军)“高质量党建引领一流公共管理学科建设研讨会”7日在暨南大学举行。来自河南、湖北、湖南、广东、广西、海南六省区20所高校公共管理学科所在院系的党组织书记、党务干部4",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-11-09T04:13:45.000Z",
+      "published": "2026-11-09T12:56:48.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 50,
       "tags": []
@@ -258,54 +258,43 @@
       "tags": []
     },
     {
-      "id": "c6fffa489186",
-      "title": "阿里云发布基于 AMD 第六代 EPYC 处理器的第十代 ECS 企业级实例",
-      "url": "https://www.infoq.cn/article/xCQx0qBofJYfBdVrxVxt?utm_source=rss&amp;utm_medium=article",
+      "id": "fd514283ab42",
+      "title": "谷歌最强模型 Gemini 4 Carbon 全面开放：一夜重写 OpenCode 桌面应用、价格仅为 Fable 5.2 的 1/4",
+      "url": "https://www.infoq.cn/article/YiANe38yfSYitvZOtab0?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-11-11T14:44:48.000Z",
-      "image": "https://static001.infoq.cn/resource/image/53/e9/5352fb27e6e7e6a73b095a1ace0f7fe9.jpg"
+      "published": "2026-11-11T21:05:37.000Z",
+      "image": "https://static001.infoq.cn/resource/image/9a/b4/9ab6fa10bf7116766ec98669d9da10b4.png"
     },
     {
-      "id": "24af6127cf30",
-      "title": "Agent 从 Demo 到生产，究竟还差几步？4周实战课来了",
-      "url": "https://www.infoq.cn/article/gzNdPqAMp1Wh1JQ9d2JA?utm_source=rss&amp;utm_medium=article",
+      "id": "5b4e2f557f26",
+      "title": "Anthropic 一夜逼疯微软？Claude 杀入办公软件腹地：能自己参会、做表格、生成PPT",
+      "url": "https://www.infoq.cn/article/1PdshF8SLevbGZbbZHoP?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-11-11T12:02:05.000Z",
-      "image": "https://static001.infoq.cn/resource/image/0b/da/0b6cfdf27b411f3a72f9593f51f4a5da.png"
+      "published": "2026-11-11T20:52:45.000Z",
+      "image": "https://static001.infoq.cn/resource/image/6b/54/6b563e5563cde48cdbe48977bayy6154.png"
     },
     {
-      "id": "3ad1a9320322",
-      "title": "Cloudflare 推出面向 AI 应用程序的 Web Search API",
-      "url": "https://www.infoq.cn/article/SgXuVvzbHr8lKrihTAZW?utm_source=rss&amp;utm_medium=article",
+      "id": "18a4dbc8ad67",
+      "title": "上下文也是成本：Agent 效率优化的新思路 ｜ 技术趋势",
+      "url": "https://www.infoq.cn/article/iaCUbU8Fwz6G6bDlQ9BV?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-11-11T11:06:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/af/9c/affbd33df868fd9ef06cb50841709a9c.jpg"
+      "published": "2026-11-11T19:05:46.000Z",
+      "image": "https://static001.infoq.cn/resource/image/c8/1f/c8614e40481e3707f192d462f3336b1f.jpeg"
     },
     {
-      "id": "8887ade0ec3a",
-      "title": "基于 AgentKit 重塑研发协作：从编码提效到组织效能跃迁｜AICon北京",
-      "url": "https://www.infoq.cn/article/I49cXCJFBpOW3PcgPTW3?utm_source=rss&amp;utm_medium=article",
+      "id": "71fa382d5c1a",
+      "title": "从 AI 工具到业务落地：兰州安宁 OPC 大会将聚焦 FDE 实践与企业 AI 转型",
+      "url": "https://www.infoq.cn/article/P2UWjVdAmPzOBaxd0v4f?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-11-11T10:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/72/7d/72e9d60e44d2ea2174dbc6207a08407d.jpg"
+      "published": "2026-11-11T18:36:17.000Z",
+      "image": "https://static001.infoq.cn/resource/image/c5/a5/c5a3385b33f2c0fb51a74d582f9803a5.png"
     }
   ],
   "政策": [
-    {
-      "id": "ed0822808f9b",
-      "title": "温州发布专项政策指南 为残疾人大学生就业创业“撑腰”",
-      "url": "https://news.66wz.com/system/2026/07/16/105805829.shtml",
-      "summary": "市人社局与市残联携手对现行最实用、最优惠的就创业补贴政策进行全面梳理，并形成《温州市残疾人大学生就业创业政策指南》，助力这一特殊群体跨越障碍，实现更加充分、更高质量的就业和创业。 温州网讯 为支持更多",
-      "source": "就业创业政策",
-      "category": "政策",
-      "published": "2026-07-16T01:51:00.000Z",
-      "score": 55,
-      "tags": []
-    },
     {
       "id": "e6c32086fd86",
       "title": "最高可贷50万元，湖南优化政策为大学生创业送上金融“活水”",
@@ -343,6 +332,18 @@
       "tags": []
     },
     {
+      "id": "b8041cc76c30",
+      "title": "知形势、明方向、懂政策、享指导——柳州市2026年高校毕业生就业 ...",
+      "url": "https://www.sohu.com/a/1098157748_121106875",
+      "summary": "9月9日至11月3日， 2026年柳州市高校毕业生就业政策宣讲进校园系列活动顺利举办。我市人社部门 深入全市7所驻柳高校开展10场专题活动，把宣讲送进校园，助力高校毕业生知形势、明方向、懂政策、享指导",
+      "source": "Bing·高校毕业生就业创业政策",
+      "category": "政策",
+      "published": "2026-11-06T09:49:00.000Z",
+      "image": "https://q3.itc.cn/q_70/images03/20261106/d4b6c9fe787a4046a6191859088943a7.jpeg",
+      "score": 50,
+      "tags": []
+    },
+    {
       "id": "f5cb39eaf8f6",
       "title": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
       "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202606/t20260602_1438600.html",
@@ -357,48 +358,48 @@
   ],
   "财经": [
     {
-      "id": "f9eae0f9509f",
-      "title": "答题闯关！21个经济体“线下见面”，这个“群”的群规你摸清了吗？",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730272.shtml",
+      "id": "dc9d4bbd8914",
+      "title": "报告显示：中国旅游市场人气旺盛 “流量转化”考题待解",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730553.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-11T08:38:59.000Z",
+      "published": "2026-11-11T14:01:04.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "cbfb9b2b8555",
-      "title": "离岸信托收益征税平稳有序推进",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730270.shtml",
+      "id": "4d2e95037411",
+      "title": "中国（内蒙古）自由贸易试验区法治研究中心揭牌",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730546.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-11T08:35:36.000Z",
+      "published": "2026-11-11T13:58:34.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "429d24e38314",
-      "title": "多元发展向绿向智 进博会折射新能源汽车产业新动向",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730269.shtml",
+      "id": "d0da5e345f07",
+      "title": "浙江发布可持续发展开发区蓝皮书 擦亮绿色发展底色",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730520.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-11T08:35:14.000Z",
+      "published": "2026-11-11T13:31:06.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "6ab594742b43",
-      "title": "高技术产品成出口新名片 中国外贸的APEC底色更浓",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730267.shtml",
+      "id": "29527c78f557",
+      "title": "AI“店长”助商家出海 “双十一”海外潜力市场成交量大涨",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730521.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-11T08:33:42.000Z",
+      "published": "2026-11-11T13:27:28.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "525179ab848a",
-      "title": "从AI赛道读懂外贸转型地方样本",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730247.shtml",
+      "id": "4dfd40e6e78f",
+      "title": "中（非）埃塞芝麻研究联合实验室揭牌",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730519.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-11T08:11:05.000Z",
+      "published": "2026-11-11T13:27:06.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
