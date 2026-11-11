@@ -1,5 +1,29 @@
 [
   {
+    "id": "844ff10dd21c",
+    "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+    "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+    "summary": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+    "source": "TechCrunch",
+    "category": "科技",
+    "published": "2026-11-11T07:30:51.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-503116193.jpeg?resize=1200,800",
+    "score": 75,
+    "tags": []
+  },
+  {
+    "id": "99cf28c285f7",
+    "title": "X launches its own clipping feature to spur influencer engagement",
+    "url": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
+    "summary": "X launches its own clipping feature to spur influencer engagement",
+    "source": "TechCrunch",
+    "category": "科技",
+    "published": "2026-11-11T01:02:13.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/twitter-x-musk-graffiti-hand.jpg?resize=1200,675",
+    "score": 75,
+    "tags": []
+  },
+  {
     "id": "24b56e0e82fb",
     "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
     "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
@@ -8,7 +32,7 @@
     "category": "AI",
     "published": "2026-11-10T21:08:52.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2207801992.jpg?resize=1200,801",
-    "score": 80,
+    "score": 75,
     "tags": []
   },
   {
@@ -20,7 +44,7 @@
     "category": "AI",
     "published": "2026-11-10T20:52:13.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2302996653.jpg?w=1024",
-    "score": 80,
+    "score": 75,
     "tags": []
   },
   {
@@ -32,30 +56,6 @@
     "category": "AI",
     "published": "2026-11-10T19:23:34.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2296609700.jpg?resize=1200,799",
-    "score": 80,
-    "tags": []
-  },
-  {
-    "id": "a5d03cba15e5",
-    "title": "X-energy gets green light to build its first small modular nuclear reactors",
-    "url": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/",
-    "summary": "X-energy gets green light to build its first small modular nuclear reactors",
-    "source": "TechCrunch",
-    "category": "科技",
-    "published": "2026-11-10T20:43:55.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-129268875.jpg?resize=1200,900",
-    "score": 75,
-    "tags": []
-  },
-  {
-    "id": "6fc8f319c68f",
-    "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
-    "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
-    "summary": "All 7 Anthropic founders will each cash out about $250M in IPO",
-    "source": "TechCrunch",
-    "category": "科技",
-    "published": "2026-11-10T19:57:52.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/04/Jared-Kaplan_headshot2.jpg?resize=900,1200",
     "score": 75,
     "tags": []
   },
@@ -72,14 +72,26 @@
     "tags": []
   },
   {
-    "id": "f6a56026a345",
-    "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
-    "url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
-    "summary": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+    "id": "a5d03cba15e5",
+    "title": "X-energy gets green light to build its first small modular nuclear reactors",
+    "url": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/",
+    "summary": "X-energy gets green light to build its first small modular nuclear reactors",
     "source": "TechCrunch",
-    "category": "AI",
-    "published": "2026-11-10T20:47:05.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/headshot-Proximal.jpg?resize=1200,675",
+    "category": "科技",
+    "published": "2026-11-10T20:43:55.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-129268875.jpg?resize=1200,900",
+    "score": 70,
+    "tags": []
+  },
+  {
+    "id": "6fc8f319c68f",
+    "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+    "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+    "summary": "All 7 Anthropic founders will each cash out about $250M in IPO",
+    "source": "TechCrunch",
+    "category": "科技",
+    "published": "2026-11-10T19:57:52.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/Jared-Kaplan_headshot2.jpg?resize=900,1200",
     "score": 70,
     "tags": []
   },
@@ -96,26 +108,14 @@
     "tags": []
   },
   {
-    "id": "994129552b18",
-    "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-    "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
-    "summary": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+    "id": "f6a56026a345",
+    "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+    "url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
+    "summary": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
     "source": "TechCrunch",
     "category": "AI",
-    "published": "2026-11-10T17:30:00.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Claude-Meetings.png?resize=1200,675",
-    "score": 65,
-    "tags": []
-  },
-  {
-    "id": "0955340deee2",
-    "title": "高顿携手腾讯WorkBuddy生态发布首款大学生实习就业AI Agent",
-    "url": "https://cn.chinadaily.com.cn/a/202609/03/WS6a98e41ce4b09a165c787b27.html",
-    "summary": "9月2日，腾讯WorkBuddy宣布开放平台正式上线，首批引入超百家生态伙伴，面向智能硬件、行业应用与开发者等开放底层Agent能力。其中高顿自主研发的“大学生实习就业助手”作为实习就业场景的标杆产品",
-    "source": "就业报告",
-    "category": "就业",
-    "published": "2026-09-03T03:36:00.000Z",
-    "image": "https://img3.chinadaily.com.cn/static/2024cn_articleandcolumn/img/Mobile/Artical_Share_Icon1.png",
+    "published": "2026-11-10T20:47:05.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/headshot-Proximal.jpg?resize=1200,675",
     "score": 65,
     "tags": []
   }
