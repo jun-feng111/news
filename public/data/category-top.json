@@ -1,6 +1,30 @@
 {
   "AI": [
     {
+      "id": "24b56e0e82fb",
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+      "summary": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-11-10T21:08:52.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2207801992.jpg?resize=1200,801",
+      "score": 80,
+      "tags": []
+    },
+    {
+      "id": "eb94be6281ea",
+      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "summary": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-11-10T20:52:13.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2302996653.jpg?w=1024",
+      "score": 80,
+      "tags": []
+    },
+    {
       "id": "d29090d0b774",
       "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
       "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
@@ -21,47 +45,35 @@
       "category": "AI",
       "published": "2026-11-10T19:03:52.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-10-at-10.00.33-AM.png?w=683",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "af325a13228f",
-      "title": "Google broadens its AI hardware portfolio with two new specialized chips",
-      "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
-      "summary": "Google broadens its AI hardware portfolio with two new specialized chips",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-11-10T15:54:08.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-1484622878.jpeg?resize=1200,800",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "4b68cc7db805",
-      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
-      "summary": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-11-10T18:49:52.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-10-at-8.46.19-AM.png?resize=1200,677",
       "score": 75,
       "tags": []
     },
     {
-      "id": "5d35c297f500",
-      "title": "Nvidia CEO Jensen Huang&#8217;s affair with alleged Chinese spy: a timeline",
-      "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "summary": "Nvidia CEO Jensen Huang&#8217;s affair with alleged Chinese spy: a timeline",
+      "id": "f6a56026a345",
+      "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+      "url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
+      "summary": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
       "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-11-10T17:04:19.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024",
-      "score": 75,
+      "published": "2026-11-10T20:47:05.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/headshot-Proximal.jpg?resize=1200,675",
+      "score": 70,
       "tags": []
     }
   ],
   "科技": [
+    {
+      "id": "a5d03cba15e5",
+      "title": "X-energy gets green light to build its first small modular nuclear reactors",
+      "url": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/",
+      "summary": "X-energy gets green light to build its first small modular nuclear reactors",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-10T20:43:55.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-129268875.jpg?resize=1200,900",
+      "score": 75,
+      "tags": []
+    },
     {
       "id": "6fc8f319c68f",
       "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
@@ -75,43 +87,31 @@
       "tags": []
     },
     {
+      "id": "5d35c297f500",
+      "title": "Nvidia CEO Jensen Huang&#8217;s affair with alleged Chinese spy: a timeline",
+      "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-10T17:04:19.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024"
+    },
+    {
+      "id": "64385383014a",
+      "title": "Sundrop turns your endless baby photos into recaps, time lapses, and more — without AI",
+      "url": "https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-10T16:50:38.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/sundrop-promo.jpg?resize=1200,675"
+    },
+    {
       "id": "4a764cf5bac7",
       "title": "Apple TV makes sign language interpretation a built-in accessibility feature",
       "url": "https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/",
-      "summary": "Apple TV makes sign language interpretation a built-in accessibility feature",
       "source": "TechCrunch",
       "category": "科技",
       "published": "2026-11-10T16:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Apple-TV-ASL-Sign-Language-interpretation.jpg?resize=1200,800",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "b4da20579111",
-      "title": "N-able takes its remote access service offline after researcher publishes dozens of zero-day bugs",
-      "url": "https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-10T15:45:27.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/05/cybersecurity-data-sharing-2024-v1.jpg?resize=1200,675"
-    },
-    {
-      "id": "5ab46a1f966a",
-      "title": "Meta&#8217;s AI agent Muse lands on Apple Watch and Android Wear OS",
-      "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-10T15:29:30.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/11/MuseCharm.png?w=1200"
-    },
-    {
-      "id": "906867629eba",
-      "title": "Reddit is turning user conversations into AI-powered product reviews",
-      "url": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-10T15:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1048288996.jpg?resize=1200,675"
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Apple-TV-ASL-Sign-Language-interpretation.jpg?resize=1200,800"
     }
   ],
   "就业": [
@@ -164,14 +164,14 @@
       "tags": []
     },
     {
-      "id": "1e2498f15375",
-      "title": "智联招聘CTO王昊曾是B站副总裁 刚推出的AI全流程托管安全吗？",
-      "url": "https://finance.sina.com.cn/jjxw/2026-11-04/doc-inixqaay1661218.shtml",
-      "summary": "智联招聘近日发布报告，披露了各行业招聘岗位增速相关数据，运营商财经网由此注意到智联招聘任职四年的CTO王昊。 王昊，2008年硕士毕业后加入百度，是百度搜索体系培养出来的技术管理者，天眼查显示他曾担任",
-      "source": "Bing·智联招聘",
+      "id": "fb95a6027b9e",
+      "title": "上海社招， AI Infra / Agent Infra 工程师",
+      "url": "https://www.v2ex.com/t/1255084#reply0",
+      "summary": "上海社招， AI Infra / Agent Infra 工程师",
+      "source": "V2EX·招聘",
       "category": "就业",
-      "published": "2026-11-03T23:06:00.000Z",
-      "image": "//n.sinaimg.cn/spider20261104/75/w550h325/20261104/018c-8802d385cc086c85415b430fd04f9e8f.jpg",
+      "published": "2026-11-06T12:57:06.000Z",
+      "image": "https://cdn.v2ex.com/gravatar/9e57aedb99a5a23cef518c98496da6b0?s=73&d=retro",
       "score": 60,
       "tags": []
     }
@@ -326,18 +326,6 @@
       "tags": []
     },
     {
-      "id": "646c949b6919",
-      "title": "【创响陇原 就在甘肃】夯实民生保障根基——我省聚力推进高质量 ...",
-      "url": "https://news.ifeng.com/c/8xmGl8SMge1",
-      "summary": "今年以来，我省牢牢把握促进高质量充分就业新定位新使命，把稳就业置于经济社会发展优先位置。前三季度，全省实现城镇新增就业27",
-      "source": "Bing·大学生就业政策",
-      "category": "政策",
-      "published": "2026-11-04T05:45:00.000Z",
-      "image": "https://x0.ifengimg.com/ucms/2026_37/B5386C60FC0C61B7FC703ADF10A02577AE167763_size569_w540_h540.png",
-      "score": 50,
-      "tags": []
-    },
-    {
       "id": "d375d345ea49",
       "title": "七部门联合发文！2026年福建高校毕业生就业工作这样干",
       "url": "https://www.sohu.com/a/1097784121_121117462",
@@ -346,6 +334,18 @@
       "category": "政策",
       "published": "2026-11-05T11:26:00.000Z",
       "image": "https://q4.itc.cn/q_70/images03/20261106/c7374845549b484a97c603dc59fabe9b.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "0bd8cc1fb364",
+      "title": "黄河流域大学生就业创业优质项目落地对接会在济南起步区黄河创立 ...",
+      "url": "https://www.sohu.com/a/1096940910_673626",
+      "summary": "鲁网11月4日讯 近日，黄河流域大学生就业创业优质项目落地对接会在黄河流域（山东）大学生创新创业孵化基地（简称“黄河创立方”）举办，推动优质项目匹配产业空间与配套资源，为区域高质量发展积蓄青年创新力量",
+      "source": "Bing·大学生创业扶持政策",
+      "category": "政策",
+      "published": "2026-11-04T02:13:00.000Z",
+      "image": "",
       "score": 50,
       "tags": []
     }
