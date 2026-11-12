@@ -1,31 +1,14 @@
 {
-  "updated": "2026-11-12T14:55:34.239Z",
-  "count": 121,
+  "updated": "2026-11-12T21:47:26.208Z",
+  "count": 120,
   "sources": {
-    "V2EX": 9,
+    "V2EX": 8,
     "RemoteOK": 98,
     "Remotive": 14,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
   "jobs": [
-    {
-      "id": "v2ex-1256588",
-      "title": "一个大龄失业光棍 IT 运维在老家独居躺平了等死的日子。。。",
-      "company": "aaabababa",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [],
-      "category": "运维/SRE",
-      "postedDate": "2026-11-12",
-      "url": "https://www.v2ex.com/t/1256588",
-      "source": "V2EX",
-      "region": "domestic"
-    },
     {
       "id": "v2ex-1256572",
       "title": "长沙 - 电商 Java 后端",
@@ -2345,25 +2328,6 @@
       "region": "foreign"
     },
     {
-      "id": "remoteok-1137506",
-      "title": "Technical Customer Support",
-      "company": "QuickMail",
-      "location": "Remote",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "customer support"
-      ],
-      "category": "customer support",
-      "postedDate": "2026-10-12",
-      "url": "https://remoteOK.com/remote-jobs/remote-technical-customer-support-quickmail-1137506",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
       "id": "remoteok-1137482",
       "title": "Technical Account Manager",
       "company": "DEUNA",
@@ -3148,6 +3112,36 @@
       "category": "testing",
       "postedDate": "2026-08-15",
       "url": "https://remoteOK.com/remote-jobs/remote-qa-tester-entry-level-ace-it-careers-1136701",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1136687",
+      "title": "Brand Protection & Marketplace Compliance Analyst",
+      "company": "MultiplyMii",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "analyst",
+        "amazon",
+        "salesforce",
+        "technical",
+        "recruiter",
+        "customer support",
+        "marketing",
+        "speech",
+        "exec",
+        "content writing",
+        "excel",
+        "sales"
+      ],
+      "category": "analyst",
+      "postedDate": "2026-08-14",
+      "url": "https://remoteOK.com/remote-jobs/remote-brand-protection-marketplace-compliance-analyst-multiplymii-1136687",
       "source": "RemoteOK",
       "region": "foreign"
     }
