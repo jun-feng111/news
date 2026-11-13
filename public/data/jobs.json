@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-12T21:47:26.208Z",
-  "count": 120,
+  "updated": "2026-11-13T02:27:49.765Z",
+  "count": 119,
   "sources": {
-    "V2EX": 8,
+    "V2EX": 7,
     "RemoteOK": 98,
     "Remotive": 14,
     "Arbeitnow": 0,
@@ -70,23 +70,6 @@
       "category": "其他",
       "postedDate": "2026-11-12",
       "url": "https://www.v2ex.com/t/1256509",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1256400",
-      "title": "旧时代的纯前端",
-      "company": "uuuuuuuuuuuuuuuu",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [],
-      "category": "前端",
-      "postedDate": "2026-11-12",
-      "url": "https://www.v2ex.com/t/1256400",
       "source": "V2EX",
       "region": "domestic"
     },

@@ -1,6 +1,18 @@
 {
   "科技": [
     {
+      "id": "3896780f3062",
+      "title": "Muse can now place calls to US businesses — if you pay",
+      "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+      "summary": "Muse can now place calls to US businesses — if you pay",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-12T22:22:28.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/muse-calls.jpg?w=1104",
+      "score": 75,
+      "tags": []
+    },
+    {
       "id": "e4e424eaad3a",
       "title": "The unfolding Jensen Huang scandal: a timeline",
       "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
@@ -25,6 +37,18 @@
       "tags": []
     },
     {
+      "id": "8f90ee80710e",
+      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang&#8217;s &#8216;scheme&#8217; with Trump",
+      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+      "summary": "Democrats launch Nvidia investigation, write scathing letter on Huang&#8217;s &#8216;scheme&#8217; w",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-12T22:42:51.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205211212-1.jpg?resize=1200,800",
+      "score": 70,
+      "tags": []
+    },
+    {
       "id": "d56c2fc89bca",
       "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
       "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
@@ -33,29 +57,8 @@
       "category": "科技",
       "published": "2026-11-12T18:39:23.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2290097570.jpg?w=1024",
-      "score": 75,
+      "score": 70,
       "tags": []
-    },
-    {
-      "id": "ff1cec4cf32f",
-      "title": "Google&#8217;s latest Search upgrade promises better answers to your most complicated questions",
-      "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
-      "summary": "Google&#8217;s latest Search upgrade promises better answers to your most complicated questions",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-12T19:27:45.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/hydrogen-at-2.01.42-PM.jpg?resize=1200,589",
-      "score": 65,
-      "tags": []
-    },
-    {
-      "id": "6c6681e03d76",
-      "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
-      "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-12T17:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/04_Holiday_Lights_before_after.jpg?resize=1200,867"
     }
   ],
   "AI": [
@@ -68,7 +71,7 @@
       "category": "AI",
       "published": "2026-11-12T20:26:47.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -80,7 +83,7 @@
       "category": "AI",
       "published": "2026-11-12T19:11:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2023/10/misbahfarah-together.jpg?resize=1200,676",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -92,7 +95,7 @@
       "category": "AI",
       "published": "2026-11-12T19:03:39.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2017/09/gettyimages-632791848-e1720623049887.jpg?resize=1200,676",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -104,19 +107,7 @@
       "category": "AI",
       "published": "2026-11-12T17:36:40.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/07/Hugging-Face-CEO-Clem-Delangue.png?resize=1200,675",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "0deb78fa341d",
-      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
-      "summary": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-11-12T17:17:58.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/united-airlines-2231866642.jpg?resize=1200,801",
-      "score": 70,
+      "score": 65,
       "tags": []
     }
   ],
@@ -244,18 +235,132 @@
       "tags": []
     }
   ],
-  "开发": [
+  "政策": [
     {
-      "id": "f23fcd07900a",
-      "title": "科技爱好者周刊（第 418 期）：如果科技停止在21世纪初",
-      "url": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html",
-      "summary": "这里记录每周值得分享的科技内容，周五发布",
-      "source": "阮一峰",
-      "category": "开发",
-      "published": "2026-11-05T23:43:55.000Z",
+      "id": "0b11574415b4",
+      "title": "加快塑造现代化人力资源 开创人社事业高质量发展新局面",
+      "url": "https://www.sohu.com/a/1098394699_121337370",
+      "summary": "本报6日讯（记者李播）6日，由省委宣传部、省政府新闻办主办的“开局起步‘十五五’——奋力谱写中国式现代化黑龙江新篇章”系列主题新闻发布会第六场在哈尔滨举行，省人社厅党组书记、厅长钟兆斌介绍了黑龙江省“",
+      "source": "Bing·人社部就业创业政策",
+      "category": "政策",
+      "published": "2026-11-07T03:23:00.000Z",
       "image": "",
       "score": 55,
       "tags": []
+    },
+    {
+      "id": "ed0822808f9b",
+      "title": "温州发布专项政策指南 为残疾人大学生就业创业“撑腰”",
+      "url": "https://news.66wz.com/system/2026/07/16/105805829.shtml",
+      "summary": "市人社局与市残联携手对现行最实用、最优惠的就创业补贴政策进行全面梳理，并形成《温州市残疾人大学生就业创业政策指南》，助力这一特殊群体跨越障碍，实现更加充分、更高质量的就业和创业。 温州网讯 为支持更多",
+      "source": "就业创业政策",
+      "category": "政策",
+      "published": "2026-07-16T01:51:00.000Z",
+      "image": "https://news.66wz.com/pic/003/013/337/00301333742_93765919.gif",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "e6c32086fd86",
+      "title": "最高可贷50万元，湖南优化政策为大学生创业送上金融“活水”",
+      "url": "https://edu.rednet.cn/content/646043/52/16288673.html",
+      "summary": "近日，湖南省出台《关于进一步优化创业担保贷款政策全力支持大学生等重点群体创业的通知》，扩大创业担保贷款覆盖范围、提高贷款额度、降低融资成本，拿出实打实举措，助力青年创新创业。 按照新政策，创业担保贷款",
+      "source": "就业创业政策",
+      "category": "政策",
+      "published": "2026-09-18T01:57:00.000Z",
+      "image": "",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "5bfcf1db7fec",
+      "title": "柳州市举行2026年高校毕业生就业政策宣讲进校园系列活动",
+      "url": "https://gx.people.com.cn/n2/2026/1111/c179462-41748219.html",
+      "summary": "近日，2026年柳州市高校毕业生就业政策宣讲进校园系列活动顺利举办。该市人社部门深入全市7所驻柳高校开展10场专题活动，把宣讲送进校园，助力高校毕业生知形势、明方向、懂政策、享指导，累计提供就业指导服",
+      "source": "Bing·高校毕业生就业创业政策",
+      "category": "政策",
+      "published": "2026-11-06T16:00:00.000Z",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "2e1d76c75683",
+      "title": "别错过！高校毕业生提升就业能力的三大补贴政策",
+      "url": "https://www.sohu.com/a/1099776000_121956425",
+      "summary": "随着高校毕业生的不断增多，就业形势愈加严峻。为了帮助毕业生提升就业能力，各地政府纷纷推出了多项补贴政策",
+      "source": "就业创业政策",
+      "category": "政策",
+      "published": "2026-11-10T12:23:00.000Z",
+      "image": "",
+      "score": 50,
+      "tags": []
+    }
+  ],
+  "财经": [
+    {
+      "id": "737badad1dfa",
+      "title": "蜀道新长征，中国铁塔打通巴蜀深山的“信息动脉”",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731315.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-11-13T02:04:09.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "fe680d3c44df",
+      "title": "A股开盘：超2700只个股飘红，三大指数集体高开",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731319.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-11-13T02:04:03.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "cfd853cad408",
+      "title": "（深圳APEC）澳大利亚政商界人士：期待借APEC会议拓展对华合作",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731278.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-11-13T01:57:16.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "225eac199658",
+      "title": "点一点，投资债券触手可及",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731305.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-11-13T01:55:24.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "9c2eb71235b9",
+      "title": "11月13日央行开展3640亿元隔夜逆回购操作",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731291.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-11-13T01:30:27.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    }
+  ],
+  "开发": [
+    {
+      "id": "129d4dd25064",
+      "title": "GFlow：面向游戏设计的多 Agent 协作与验证实践｜AICon北京",
+      "url": "https://www.infoq.cn/article/dkQAAL0SSdhIq1h61eKx?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-13T10:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/28/e0/285bf985da825d57d75ac729f87da7e0.jpg"
+    },
+    {
+      "id": "e744975f18b8",
+      "title": "谷歌推出 LiteRT Tensor API，用于构建、定制与优化端侧机器学习模型",
+      "url": "https://www.infoq.cn/article/joYjCTbwWFSkbACK5lje?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-13T09:17:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/61/0b/615d53151d88e09d0de5ccd2cc96ba0b.jpg"
     },
     {
       "id": "d1e440ca68d2",
@@ -283,123 +388,6 @@
       "category": "开发",
       "published": "2026-11-12T13:00:00.000Z",
       "image": "https://static001.infoq.cn/resource/image/1c/54/1c629549726e92e7fa8a9247fea5bd54.jpg"
-    },
-    {
-      "id": "8495fbedb46d",
-      "title": "谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%",
-      "url": "https://www.infoq.cn/article/E7QKIMUz3h0G0IE5Paii?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-12T11:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/ef/04/ef65132fb1df4bcda9975dyye55b8a04.png"
-    }
-  ],
-  "政策": [
-    {
-      "id": "ed0822808f9b",
-      "title": "温州发布专项政策指南 为残疾人大学生就业创业“撑腰”",
-      "url": "https://news.66wz.com/system/2026/07/16/105805829.shtml",
-      "summary": "市人社局与市残联携手对现行最实用、最优惠的就创业补贴政策进行全面梳理，并形成《温州市残疾人大学生就业创业政策指南》，助力这一特殊群体跨越障碍，实现更加充分、更高质量的就业和创业。 温州网讯 为支持更多",
-      "source": "就业创业政策",
-      "category": "政策",
-      "published": "2026-07-16T01:51:00.000Z",
-      "image": "https://news.66wz.com/pic/003/013/337/00301333742_93765919.gif",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "e6c32086fd86",
-      "title": "最高可贷50万元，湖南优化政策为大学生创业送上金融“活水”",
-      "url": "https://edu.rednet.cn/content/646043/52/16288673.html",
-      "summary": "近日，湖南省出台《关于进一步优化创业担保贷款政策全力支持大学生等重点群体创业的通知》，扩大创业担保贷款覆盖范围、提高贷款额度、降低融资成本，拿出实打实举措，助力青年创新创业。 按照新政策，创业担保贷款",
-      "source": "就业创业政策",
-      "category": "政策",
-      "published": "2026-09-18T01:57:00.000Z",
-      "image": "",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "902bcf5b9ade",
-      "title": "海北州高校毕业生 帮扶就业率达94.34%",
-      "url": "https://finance.sina.com.cn/jjxw/2026-11-10/doc-iniyepfr3038767.shtml",
-      "summary": "本报海北讯 （记者 王晶） 今年1至11月，海北藏族自治州人力资源和社会保障局聚焦拓岗位、提能力、优服务、强保障，着力打造高校毕业生就业“服务链”和创业“生态圈”，全力保持高校毕业生就业形势持续稳定。",
-      "source": "Bing·高校毕业生就业创业政策",
-      "category": "政策",
-      "published": "2026-11-09T16:00:00.000Z",
-      "image": "",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "5bfcf1db7fec",
-      "title": "柳州市举行2026年高校毕业生就业政策宣讲进校园系列活动",
-      "url": "https://gx.people.com.cn/n2/2026/1111/c179462-41748219.html",
-      "summary": "近日，2026年柳州市高校毕业生就业政策宣讲进校园系列活动顺利举办。该市人社部门深入全市7所驻柳高校开展10场专题活动，把宣讲送进校园，助力高校毕业生知形势、明方向、懂政策、享指导，累计提供就业指导服",
-      "source": "Bing·高校毕业生就业创业政策",
-      "category": "政策",
-      "published": "2026-11-06T16:00:00.000Z",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "f5cb39eaf8f6",
-      "title": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
-      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202606/t20260602_1438600.html",
-      "summary": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
-      "source": "教育部",
-      "category": "政策",
-      "published": "2026-06-02T00:00:00.000Z",
-      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
-      "score": 50,
-      "tags": []
-    }
-  ],
-  "财经": [
-    {
-      "id": "3b2ff5ed5063",
-      "title": "英伟达宣布黄仁勋辞职 将遴选新CEO",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731235.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-11-12T20:44:39.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "aee25b9d9922",
-      "title": "成渝三地联合进京推介文旅 西部国际AI漫剧产业园亮相",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731214.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-11-12T14:05:47.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "4703619added",
-      "title": "7吨级大型运投无人机“长鹰-8”完成运输投送试验",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731213.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-11-12T14:05:07.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "307cf774e61f",
-      "title": "内蒙古搭建起自贸试验区建设的“四梁八柱”",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731210.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-11-12T14:00:33.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "7cbff7219b3d",
-      "title": "海南新组建空天集团 注册资金100亿元",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-12/10731206.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-11-12T13:56:39.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
 }
