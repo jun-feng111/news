@@ -1,0 +1,7 @@
+{
+  "id": "9bd7857c42e4",
+  "title": "在 Linux 上把 PPT 转成长图：office2pdf + PyMuPDF 的选型与踩坑 - yuexiliuli",
+  "url": "https://www.cnblogs.com/yuexiliuli/p/23651985",
+  "contentZh": "",
+  "contentFull": "\n介绍\n群里收到 PPT 时，仅看文件名往往判断不了内容。按常规流程要下载、打开 Office、等加载、再翻页，多个文件下来很耗时间。我做了个小工具：在 Linux 服务器上把 PPT 转成一张纵向长图，用户在聊天窗口或手机里点开就能滑动浏览，不需要安装或打开 Office。\n本文记录选型过程、关键实现和两个实际踩过的坑。\n背景\n工作群里经常直接发 PPT。只看文件名，很难判断是不是自己要找的那份。常规做法是：下载 → 打开 Office → 等待加载 → 翻页确认。如果同一份 PPT 被反复查看，或者一次收到多个 PPT，这套流程会不断重复。\n图片点击就能看，那我就把PPT变成图片。这就是这个工具的出发点。\n目标\n一开始想达到Office那种，用导出功能导出为图片所展示的效果。如果服务器是Windows，那么很简单，调用Office就行了，但服务器是Linux，这就带来了很多问题，不能直接调用 Office 导出。这排除了最省事、还原度最高的方案。\n目标：在 Linux 服务器上，不依赖 Microsoft Office，把 PPT 转成可快速浏览的长图；排版尽量接近 Office 导出效果；单页转换耗时可接受；失败时能定位原因。\n方案\n\n\n\n方案\n做法\n结果\n放弃/采用原因\n\n\n\n\n一\n纯 Python 解析\n排版问题千奇百怪，修不过来\n复杂版式还原成本太高\n\n\n二\nLibreOffice headless\n格式较稳，但速度极慢\n未深入调优，初步观察无法接受\n\n\n三\noffice2pdf\n绝大多数 PPT 排版可用，约 0.35s/页\n采用\n\n\n\n最终方案是office2pdf+PyMuPDF，先转PDF，再转Image。速度非常快，实际测试发现绝大多数PPT的排版都能应对。\noffice2pdf GitHub地址：https://github.com/developer0hye/office2pdf\n架构\n\n遇到的坑：\n\n\n中文变方块 / 图形变字母 q\n现象：转换后中文显示为方块，部分符号图形变成字母 “q”。\n原因：服务器缺少对应字体。中文需要 Noto CJK 等字体，Wingdings 等符号字体也需要单独安装。\n\n\nEMF/WMF/WDP 丢失\n现象：含 EMF/WMF/WDP 图片的页面出现空白，日志里有 image omitted。\n原因：office2pdf 不支持这些格式，转换时直接跳过。\n\n\n\n\n"
+}
