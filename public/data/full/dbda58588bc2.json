@@ -1,0 +1,7 @@
+{
+  "id": "dbda58588bc2",
+  "title": "桌面日历+AI 小秘书:月历·日程·待办·黄历·天气·番茄钟.便签等,单文件绿色免安装 - ucfar",
+  "url": "https://www.cnblogs.com/ucfar/p/23659846",
+  "contentZh": "",
+  "contentFull": "\n\n\n\n\nUCalendar v2.8.1\n新增桌面组件：\n项目进度（Pro）：进行中项目按截止日排序，显示当前阶段 / 进度 / 逾期；点行直达项目\n股票行情（Pro）：自选最多 20 只，实时行情 + K 线，多源自动回退，支持红涨绿跌 / 绿涨红跌\n音乐播放（Pro）：接管 Windows 媒体��话，封面 / 歌名 / 进度与播放控制，不用登录\n改进\n\n设置页支持搜索：顶栏输入设置名、同义词或英文关键词即可定位；结果显示所属分类，点击后跳到对应分区并滚动高亮，Esc 清空，无结果时给出搜索建议。\n股票 K 线回包增加周期长度校验，修复日 K / 1 年共用 klt=101、5 分钟图与迷你走势共用 klt=5 时偶发串图的问题；同时修正 5 分钟周期标签。\n\n修复\n\n修复黄历七日条的 React key 警告。\n修复 AI 会话抽屉、图片/粘贴预览使用 antd 6 已弃用 API 产生的控制台警告。\n设置窗关闭前刷新 250ms 防抖中的最后一次改动，避免刚改的设置丢失。\n股票组件卸载时清理搜索防抖定时器；迷你走势请求传输失败后允许重试。\n\n验证\n\ncheck.cmd 全绿：tsc、45 个前端自检、297 个 Rust 测试（3 ignored）、菜单/设置页浏览器自检、clippy -D warnings。\n设置搜索在 520×560 与 480×480 窗口实测无横向溢出、无 JS 报错；字体、热键、语音、AI、桌面组件等条目跳转与高亮正常。\n股票 K 线周期切换实测：日 K、1 年、5 分钟、15 分钟数据不再互相覆盖。\n\n下载与交流\n下载：https://github.com/tobaba/UCalendar/releases/latest （单文件 exe，双击即用）\n项目主页：https://tobaba.github.io/ucalendar-site/\n反馈：https://github.com/tobaba/UCalendar/issues\n蓝奏云：https://wwawo.lanzoub.com/b00ctihkwf 密码:19t5\n\n\n"
+}
