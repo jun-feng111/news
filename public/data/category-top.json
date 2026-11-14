@@ -83,7 +83,7 @@
       "category": "科技",
       "published": "2026-11-13T14:44:48.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-13-at-7.19.18-PM.jpg?resize=1200,774",
-      "score": 70,
+      "score": 65,
       "tags": []
     },
     {
@@ -187,6 +187,30 @@
       "tags": []
     },
     {
+      "id": "2bee8efffaf7",
+      "title": "当秋招遇上AI面试 高校学生该如何避免被算法误判？",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-12/10731062.shtml",
+      "summary": "正值秋招季，如今，越来越多的企业在招聘环节引入了AI面试官，统一出题、批量打分，用算法替代真人对求职者进行初步筛选",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-11-12T11:36:45.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "07388459be7a",
+      "title": "让AI创新走向产业实践 高校AI应用创新挑战赛开放报名",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-12/10731023.shtml",
+      "summary": "中新网上海11月12日电 (李秋莹)近日，由上海市浙江商会主办、语生科学承办的“浙商灵珠杯·高校AI应用创新挑战赛”正式开赛。大赛以“寻找善用AI的人”为主题，面向高校在读学生开放报名，不限专业背景",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-11-12T11:00:15.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 55,
+      "tags": []
+    },
+    {
       "id": "3fec6cebaa2f",
       "title": "国家发改委：多渠道增加普通高中和高等教育学位供给",
       "url": "https://www.chinanews.com.cn/edu/2026/11-10/10729572.shtml",
@@ -209,42 +233,80 @@
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 55,
       "tags": []
-    },
+    }
+  ],
+  "开发": [
     {
-      "id": "e4b9a8731744",
-      "title": "百廿暨南续学术薪火 《暨南大先生朱杰勤》新书发布",
-      "url": "https://www.chinanews.com.cn/edu/2026/11-09/10729035.shtml",
-      "summary": "中新网广州11月9日电 (记者 郭军)恰逢暨南大学建校120周年，《暨南大先生朱杰勤》新书发布会暨“陆海丝路视阈下的中外文明交往”学术研讨会近日在暨南大学举行。来自国内高校、科研院所的专家学者、朱杰勤",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-11-09T12:13:09.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "id": "e8677c493ece",
+      "title": "智能体 AI 架构中记忆、知识与上下文的系统化方案",
+      "url": "https://www.infoq.cn/article/COuPKpA6rTf05C6JM10y?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/COuPKpA6rTf05C6JM10y",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-12T13:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/1c/54/1c629549726e92e7fa8a9247fea5bd54.jpg",
       "score": 55,
       "tags": []
     },
     {
-      "id": "5eac08a64126",
-      "title": "北京一零一中教育集团校长熊永昌：让生态文明扎根孩子心中",
-      "url": "https://www.chinanews.com.cn/edu/2026/11-10/10729857.shtml",
-      "summary": "中新网安塔利亚11月10日电(记者 魏园 王庆凯)“让绿色成为校园底色，让生态文明扎根孩子心中",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-11-10T14:59:43.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "id": "8495fbedb46d",
+      "title": "谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%",
+      "url": "https://www.infoq.cn/article/E7QKIMUz3h0G0IE5Paii?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/E7QKIMUz3h0G0IE5Paii",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-12T11:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/ef/04/ef65132fb1df4bcda9975dyye55b8a04.png",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "8c8a0f75fdaa",
+      "title": "InfoQ 2026 年趋势报告：AI、ML与数据工程",
+      "url": "https://www.infoq.cn/article/7Pecd1CshYIMvCTeBhrm?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/7Pecd1CshYIMvCTeBhrm",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-12T10:23:32.000Z",
+      "image": "https://static001.infoq.cn/resource/image/67/a3/67786861f433723fa3ccc07ea104b0a3.jpg",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "28fe7a2bfbd1",
+      "title": "Google 终于让 PyTorch 原生跑上 TPU，开发者：“早该如此！”",
+      "url": "https://www.infoq.cn/article/Fikt82HLToqb6ZANB2xj?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/Fikt82HLToqb6ZANB2xj",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-12T15:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/d2/66/d26cc0b823699480b6130d7340617b66.jpg",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "4930c37a5789",
+      "title": "Token越烧越多，利润却没涨：李彦宏要重新设计企业组织",
+      "url": "https://www.infoq.cn/article/JPf7ud6wuk9fYmUDoMjo?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/JPf7ud6wuk9fYmUDoMjo",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-12T10:45:05.000Z",
+      "image": "https://static001.infoq.cn/resource/image/f4/18/f49f904698a00a00c73350689f890218.jpg",
       "score": 50,
       "tags": []
     }
   ],
   "政策": [
     {
-      "id": "e4bc71f39f64",
-      "title": "提升就业能力有补贴！高校毕业生别错过这项政策",
-      "url": "https://www.sohu.com/a/1100198522_121956425",
-      "summary": "随着高校毕业生就业形势的日益严峻，国家出台了一系列政策来支持毕业生提升就业能力。最近，人力资源和社会保障部发布了一项重要通知，针对毕业年度高校毕业生提供职业培训补贴、职业技能评价补贴以及就业见习补贴等",
+      "id": "ed0822808f9b",
+      "title": "温州发布专项政策指南 为残疾人大学生就业创业“撑腰”",
+      "url": "https://news.66wz.com/system/2026/07/16/105805829.shtml",
+      "summary": "市人社局与市残联携手对现行最实用、最优惠的就创业补贴政策进行全面梳理，并形成《温州市残疾人大学生就业创业政策指南》，助力这一特殊群体跨越障碍，实现更加充分、更高质量的就业和创业。 温州网讯 为支持更多",
       "source": "就业创业政策",
       "category": "政策",
-      "published": "2026-11-11T08:25:00.000Z",
-      "image": "",
+      "published": "2026-07-16T01:51:00.000Z",
+      "image": "https://news.66wz.com/pic/003/013/337/00301333742_93765919.gif",
       "score": 55,
       "tags": []
     },
@@ -256,6 +318,7 @@
       "source": "就业创业政策",
       "category": "政策",
       "published": "2026-09-18T01:57:00.000Z",
+      "image": "",
       "score": 55,
       "tags": []
     },
@@ -298,96 +361,49 @@
   ],
   "财经": [
     {
-      "id": "7f3a4d21ae65",
-      "title": "A股新经济公司数量、营收、市值占比均超一半",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732010.shtml",
+      "id": "ecbe9def351c",
+      "title": "跨越山海照亮万家！一度电，如何点亮亚太合作之光？",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732204.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-14T07:12:12.000Z",
+      "published": "2026-11-14T14:38:36.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "15261ce1b20b",
-      "title": "一颗蓝莓的“最鲜一公里”——广州市花都区政协以提案履职助推设施农业提质增效",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732011.shtml",
+      "id": "4b46309b670a",
+      "title": "APEC朋友圈丨中国无人机如何改变智利农田",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732203.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-14T07:07:21.000Z",
+      "published": "2026-11-14T14:35:00.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "c70c6624e756",
-      "title": "中美举行中美经贸磋商机制项下贸易理事会首次会议",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732003.shtml",
+      "id": "ead57c8bfe2d",
+      "title": "解锁多样化主题乐园IP密码 把“看热闹”一次性消费拉长为复合消费",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732201.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-14T06:53:05.000Z",
+      "published": "2026-11-14T14:20:51.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "5fa20ac468ac",
-      "title": "（深圳APEC）榴莲、龙虾漂洋过海 APEC生鲜奔赴中国餐桌",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731997.shtml",
+      "id": "21fb242f9059",
+      "title": "WWF气候负责人：气候行动走向落实 中国发挥关键桥梁作用",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732198.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-14T06:51:38.000Z",
+      "published": "2026-11-14T13:54:21.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "b5dcf6132b36",
-      "title": "“南京—东南亚”滚装外贸新通道开通",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731985.shtml",
+      "id": "a312c50f8c63",
+      "title": "“开板”是拥抱冬天的独特方式 八方雪友乐享火热冰雪赛事",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732196.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-14T06:26:01.000Z",
+      "published": "2026-11-14T13:39:30.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    }
-  ],
-  "开发": [
-    {
-      "id": "de5ccc8aa6a0",
-      "title": "GitHub Actions 锁文件功能正式可用，保障工作流依赖安全",
-      "url": "https://www.infoq.cn/article/XrW1cdg9NFRkemvqLiZc?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-14T15:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/31/c4/31c571ccea0c2eb804abe89ecaf906c4.jpg"
-    },
-    {
-      "id": "4d9f6cf94aea",
-      "title": "AI 自动写 PR，模型反而最简单：Inkitt 如何应对 Webhook 重复、CI 失败与合并冲突",
-      "url": "https://www.infoq.cn/article/YRXscVHsTh0g6CVCJJ0D?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-14T10:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/31/c4/31c571ccea0c2eb804abe89ecaf906c4.jpg"
-    },
-    {
-      "id": "c7fbbeca2350",
-      "title": "从提效到扩能：AI 驱动小团队的能力突破与组织演进｜AICon北京",
-      "url": "https://www.infoq.cn/article/eTz8pt2LoALMvzvxj4aa?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-14T10:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/52/53/52c371d1b2704f04036176ed47f7ee53.jpg"
-    },
-    {
-      "id": "61ec315a23c5",
-      "title": "从快速部署到记忆共享，数据库如何支撑 Agent 应用？",
-      "url": "https://www.infoq.cn/video/FwbOyyfoAmkQPMTItMDN?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-13T20:54:12.000Z",
-      "image": "https://static001.geekbang.org/static/infoq/img/infoq_icon.jpg"
-    },
-    {
-      "id": "426383c41220",
-      "title": "智能互动 Agent 在快手商业场景的落地实践",
-      "url": "https://www.infoq.cn/article/e0aglHW78pZuik3CWqdo?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-13T19:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/a0/03/a048922169534bb1a148df266cbbca03.jpg"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T07:25:02.031Z",
+  "updated": "2026-11-14T14:50:36.687Z",
   "count": 120,
   "sources": {
     "V2EX": 7,
@@ -9,6 +9,23 @@
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1257106",
+      "title": "最近被领导叫去涨薪了",
+      "company": "FreshOldMan",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [],
+      "category": "其他",
+      "postedDate": "2026-11-14",
+      "url": "https://www.v2ex.com/t/1257106",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1256780",
       "title": "GSD 招 IT 软件工程师： Java / .NET / PHP / C++ / Python",
@@ -138,23 +155,51 @@
       "region": "domestic"
     },
     {
-      "id": "v2ex-1256374",
-      "title": "广州招两个 go， 3 年。15k 起",
-      "company": "hanliang",
-      "location": "国内",
+      "id": "remoteok-1137796",
+      "title": "Global Partnerships BD Lead",
+      "company": "Fuku",
+      "location": "Paris",
       "remote": false,
       "salaryText": "",
       "salaryMin": null,
       "salaryMax": null,
-      "salaryCurrency": "CNY",
+      "salaryCurrency": "",
       "skills": [
-        "go"
+        "web3",
+        "sys admin",
+        "finance",
+        "exec",
+        "content writing",
+        "senior",
+        "marketing"
       ],
-      "category": "其他",
-      "postedDate": "2026-11-12",
-      "url": "https://www.v2ex.com/t/1256374",
-      "source": "V2EX",
-      "region": "domestic"
+      "category": "web3",
+      "postedDate": "2026-11-13",
+      "url": "https://remoteOK.com/remote-jobs/remote-global-partnerships-bd-lead-fuku-1137796",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1137795",
+      "title": "Scaled Account Manager EMEA",
+      "company": "DoiT",
+      "location": "Estonia",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "exec",
+        "marketing",
+        "cloud",
+        "microsoft"
+      ],
+      "category": "exec",
+      "postedDate": "2026-11-13",
+      "url": "https://remoteOK.com/remote-jobs/remote-scaled-account-manager-emea-doit-1137795",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137793",
@@ -3105,66 +3150,6 @@
       "category": "design",
       "postedDate": "2026-08-18",
       "url": "https://remoteOK.com/remote-jobs/remote-team-lead-education-chaos-1136949",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1136841",
-      "title": "Lead Product Designer",
-      "company": "HighLevel",
-      "location": "India",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "product designer",
-        "design",
-        "saas",
-        "sys admin",
-        "designer",
-        "technical",
-        "customer support",
-        "testing",
-        "marketing",
-        "api",
-        "exec",
-        "content writing"
-      ],
-      "category": "product designer",
-      "postedDate": "2026-08-17",
-      "url": "https://remoteOK.com/remote-jobs/remote-lead-product-designer-highlevel-1136841",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1136797",
-      "title": "Strategic Account Executive Lodging",
-      "company": "FreedomPay",
-      "location": "Select USA Remote Locations",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "saas",
-        "infosec",
-        "game dev",
-        "consulting",
-        "marketing",
-        "travel",
-        "speech",
-        "exec",
-        "finance",
-        "education",
-        "api",
-        "mobile"
-      ],
-      "category": "saas",
-      "postedDate": "2026-08-16",
-      "url": "https://remoteOK.com/remote-jobs/remote-strategic-account-executive-lodging-freedompay-1136797",
       "source": "RemoteOK",
       "region": "foreign"
     }
