@@ -1,15 +1,77 @@
 {
+  "科技": [
+    {
+      "id": "6741c7c310ea",
+      "title": "Got an iPhone Duo? These 9 settings make it easier to use",
+      "url": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
+      "summary": "Got an iPhone Duo。 These 9 settings make it easier to use",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-14T18:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-iPhone-Duo-closed-and-open.jpg?resize=1200,675",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "4392222fa3b0",
+      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "summary": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-14T16:34:15.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang.jpg?w=1024",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "2cc6f71479ff",
+      "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+      "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
+      "summary": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-13T23:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_3403.jpg?resize=1200,925",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "0f30e4537472",
+      "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+      "url": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
+      "summary": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-14T17:45:04.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2304506223.jpg?w=1024",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "2fd1b18314fc",
+      "title": "US government grounds all flights across the United States &#8216;due to extraordinary circumstances&#8217;",
+      "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
+      "summary": "US government grounds all flights across the United States &#8216;due to extraordinary circumstances",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-13T21:44:38.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/10/alaska-airlines-san-francisco-Getty.jpg?resize=1200,800",
+      "score": 60,
+      "tags": []
+    }
+  ],
   "AI": [
     {
-      "id": "a89e40511448",
-      "title": "ChatGPT&#8217;s new Wallet lets AI agents shop and check out for you",
-      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-      "summary": "ChatGPT&#8217;s new Wallet lets AI agents shop and check out for you",
+      "id": "17dd6d164624",
+      "title": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "summary": "The AI graveyard: a running list of projects and startups that didn&#8217;t make it",
       "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-11-13T16:00:12.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/chatgpt-wallet.jpg?resize=1200,729",
-      "score": 80,
+      "published": "2026-11-14T17:30:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797",
+      "score": 70,
       "tags": []
     },
     {
@@ -21,7 +83,7 @@
       "category": "AI",
       "published": "2026-11-13T19:37:57.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/Raising-money.jpg?resize=1200,829",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -45,68 +107,6 @@
       "category": "AI",
       "published": "2026-11-13T18:40:30.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2301327883.jpg?resize=1200,795",
-      "score": 65,
-      "tags": []
-    }
-  ],
-  "科技": [
-    {
-      "id": "2cc6f71479ff",
-      "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
-      "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
-      "summary": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-13T23:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_3403.jpg?resize=1200,925",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "9c558a7ae326",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "summary": "The unfolding Jensen Huang scandal: a timeline",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-13T15:58:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "c6494705d362",
-      "title": "ElevenLabs&#8217; new app combines meeting note-taking and dictation for teams",
-      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
-      "summary": "ElevenLabs&#8217; new app combines meeting note-taking and dictation for teams",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-13T14:44:48.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-13-at-7.19.18-PM.jpg?resize=1200,774",
-      "score": 65,
-      "tags": []
-    },
-    {
-      "id": "2fd1b18314fc",
-      "title": "US government grounds all flights across the United States &#8216;due to extraordinary circumstances&#8217;",
-      "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
-      "summary": "US government grounds all flights across the United States &#8216;due to extraordinary circumstances",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-13T21:44:38.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/10/alaska-airlines-san-francisco-Getty.jpg?resize=1200,800",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "3f072eacd83e",
-      "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
-      "url": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
-      "summary": "This young startup wants to power floating data centers with the ocean’s heat, and investors are alr",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-13T20:07:24.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/drogue-team.jpeg?resize=1200,900",
       "score": 60,
       "tags": []
     }
@@ -273,6 +273,18 @@
       "tags": []
     },
     {
+      "id": "d1e440ca68d2",
+      "title": "LinkedIn 基于 OpenTelemetry 追踪用户动作全链路：从前端点击到后端服务",
+      "url": "https://www.infoq.cn/article/3u1PmO0HqQXBFNibKZoe?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/3u1PmO0HqQXBFNibKZoe",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-12T16:44:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/bd/3d/bd9fc83df70c00a501dfc12a7a3e1f3d.jpg",
+      "score": 50,
+      "tags": []
+    },
+    {
       "id": "28fe7a2bfbd1",
       "title": "Google 终于让 PyTorch 原生跑上 TPU，开发者：“早该如此！”",
       "url": "https://www.infoq.cn/article/Fikt82HLToqb6ZANB2xj?utm_source=rss&amp;utm_medium=article",
@@ -281,18 +293,6 @@
       "category": "开发",
       "published": "2026-11-12T15:00:00.000Z",
       "image": "https://static001.infoq.cn/resource/image/d2/66/d26cc0b823699480b6130d7340617b66.jpg",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "4930c37a5789",
-      "title": "Token越烧越多，利润却没涨：李彦宏要重新设计企业组织",
-      "url": "https://www.infoq.cn/article/JPf7ud6wuk9fYmUDoMjo?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/JPf7ud6wuk9fYmUDoMjo",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-12T10:45:05.000Z",
-      "image": "https://static001.infoq.cn/resource/image/f4/18/f49f904698a00a00c73350689f890218.jpg",
       "score": 50,
       "tags": []
     }
@@ -335,6 +335,18 @@
       "tags": []
     },
     {
+      "id": "3f3efb5d58aa",
+      "title": "我市发放1600多万元补贴助力高校毕业生求职创业",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-13/doc-iniypzqc1061021.shtml",
+      "summary": "11月10日，崇左市人力资源和社会保障局召开2027届高校毕业生一次性求职创业补贴发放工作协调会，围绕补贴发放、审核流程等事项沟通交流，细化工作举措，推动就业惠民政策落地落细。 高校毕业生一次性求职创",
+      "source": "Bing·高校毕业生就业创业政策",
+      "category": "政策",
+      "published": "2026-11-12T16:00:00.000Z",
+      "image": "//n.sinaimg.cn/front20261113ac/280/w140h140/20261113/ee30-30438defc9e6b6b23ee9957bf2933e0b.jpg",
+      "score": 50,
+      "tags": []
+    },
+    {
       "id": "3984fd2f69f1",
       "title": "扬州全链条护航高校毕业生从“校园门”走向“就业门”",
       "url": "https://finance.sina.com.cn/roll/2026-11-12/doc-iniymsip3967151.shtml",
@@ -343,18 +355,6 @@
       "category": "政策",
       "published": "2026-11-11T16:00:00.000Z",
       "image": "https://n.sinaimg.cn/finance/transform/260/w880h180/20180326/zi4T-fysqfnf9377213.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "1cebe3ae0bff",
-      "title": "到2030年全省城镇新增就业550万人！|晚上好，怀集",
-      "url": "https://finance.sina.com.cn/wm/2026-11-11/doc-iniykkpw8438766.shtml",
-      "summary": "近日，广东省人民政府印发《广东省人力资源和社会保障事业发展“十五五”规划》（下称“规划”）， 提出到2030年全省城镇新增就业550万人， 企业（职业）年金基金规模达到9670亿元，新增取得职业资格证",
-      "source": "Bing·人社部就业创业政策",
-      "category": "政策",
-      "published": "2026-11-11T11:00:00.000Z",
-      "image": "//n.sinaimg.cn/front20261111ac/224/w1280h544/20261111/9e13-34a811b9c8e3e4ca35f9910d906859d8.jpg",
       "score": 50,
       "tags": []
     }
