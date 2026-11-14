@@ -1,6 +1,18 @@
 {
   "AI": [
     {
+      "id": "26d265ce671c",
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "summary": "AI agent startup LangChain hits $3B valuation",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-11-13T19:37:57.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Raising-money.jpg?resize=1200,829",
+      "score": 80,
+      "tags": []
+    },
+    {
       "id": "a89e40511448",
       "title": "ChatGPT&#8217;s new Wallet lets AI agents shop and check out for you",
       "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
@@ -9,23 +21,47 @@
       "category": "AI",
       "published": "2026-11-13T16:00:12.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/chatgpt-wallet.jpg?resize=1200,729",
-      "score": 85,
+      "score": 80,
       "tags": []
     },
     {
-      "id": "de92575e0d50",
-      "title": "Microsoft&#8217;s latest email outage turned into a full blown global cloud crisis",
-      "url": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
-      "summary": "Microsoft&#8217;s latest email outage turned into a full blown global cloud crisis",
+      "id": "8d23e88a0f9b",
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "summary": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
       "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-11-13T13:15:20.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/ms-outage-hero-2304360163.jpg?resize=1200,894",
-      "score": 65,
+      "published": "2026-11-13T22:43:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-nvidia.jpg?w=1024",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "3bcb8ca81cba",
+      "title": "Export-banned Nvidia chips are behind China&#8217;s most powerful AI models — uh-oh, Jensen!",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "summary": "Export-banned Nvidia chips are behind China&#8217;s most powerful AI models — uh-oh, Jensen",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-11-13T18:40:30.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2301327883.jpg?resize=1200,795",
+      "score": 70,
       "tags": []
     }
   ],
   "科技": [
+    {
+      "id": "2cc6f71479ff",
+      "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+      "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
+      "summary": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-13T23:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_3403.jpg?resize=1200,925",
+      "score": 75,
+      "tags": []
+    },
     {
       "id": "9c558a7ae326",
       "title": "The unfolding Jensen Huang scandal: a timeline",
@@ -35,7 +71,7 @@
       "category": "科技",
       "published": "2026-11-13T15:58:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -47,43 +83,31 @@
       "category": "科技",
       "published": "2026-11-13T14:44:48.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-13-at-7.19.18-PM.jpg?resize=1200,774",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "eac079c142ed",
-      "title": "Israel&#8217;s VCs see opportunity for challengers in Nvidia&#8217;s turmoil",
-      "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
-      "summary": "Israel&#8217;s VCs see opportunity for challengers in Nvidia&#8217;s turmoil",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-13T12:52:19.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2303769281.jpg?resize=1200,800",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "a1cf766582ed",
-      "title": "Jensen Huang didn&#8217;t show confidence in his successor, report says",
-      "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
-      "summary": "Jensen Huang didn&#8217;t show confidence in his successor, report says",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-13T12:28:23.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/colette-1920x1920_4d360fa4-e97d-4505-9857-284d03141162-prv-e1794568317250.jpg?resize=1200,676",
       "score": 70,
       "tags": []
     },
     {
-      "id": "3896780f3062",
-      "title": "Muse can now place calls to US businesses — if you pay",
-      "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
-      "summary": "Muse can now place calls to US businesses — if you pay",
+      "id": "2fd1b18314fc",
+      "title": "US government grounds all flights across the United States &#8216;due to extraordinary circumstances&#8217;",
+      "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
+      "summary": "US government grounds all flights across the United States &#8216;due to extraordinary circumstances",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-11-12T22:22:28.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/muse-calls.jpg?w=1104",
-      "score": 70,
+      "published": "2026-11-13T21:44:38.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/10/alaska-airlines-san-francisco-Getty.jpg?resize=1200,800",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "3f072eacd83e",
+      "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
+      "url": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
+      "summary": "This young startup wants to power floating data centers with the ocean’s heat, and investors are alr",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-13T20:07:24.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/drogue-team.jpeg?resize=1200,900",
+      "score": 65,
       "tags": []
     }
   ],
@@ -97,18 +121,6 @@
       "category": "就业",
       "published": "2026-09-03T03:36:00.000Z",
       "image": "https://img3.chinadaily.com.cn/static/2024cn_articleandcolumn/img/Mobile/Artical_Share_Icon1.png",
-      "score": 65,
-      "tags": []
-    },
-    {
-      "id": "38ff1e7024fa",
-      "title": "不会写代码也能做测试？校招测试岗的技能要求正在悄悄改变",
-      "url": "https://www.sohu.com/a/1092535398_120635785",
-      "summary": "关注 「软件测试就业联盟」公众号，陪你走好校招求职的每一步 前两天有个学弟把两张招聘截图发给我，问我是不是其中一张写错了。 第一张是某大厂测试开发岗：年薪30万起，要求“扎实的数据结构和算法基础”“熟",
-      "source": "测试开发·就业分析",
-      "category": "就业",
-      "published": "2026-10-25T10:31:00.000Z",
-      "image": "",
       "score": 65,
       "tags": []
     },
@@ -145,6 +157,18 @@
       "category": "就业",
       "published": "2026-11-03T23:06:00.000Z",
       "image": "//n.sinaimg.cn/spider20261104/75/w550h325/20261104/018c-8802d385cc086c85415b430fd04f9e8f.jpg",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "f4c3ce7ed668",
+      "title": "前端岗位一年减少51%，FDE暴涨4.6倍：AI没有赶走工程师，却正在拆掉 ...",
+      "url": "https://www.sohu.com/a/1100186883_115128",
+      "summary": "AI 到底会先替代谁。 过去两年，人们反复讨论程序员、产品经理和设计师谁会最先受到冲击",
+      "source": "就业报告",
+      "category": "就业",
+      "published": "2026-11-11T08:30:00.000Z",
+      "image": "https://q9.itc.cn/q_70/images03/20261111/f6b72d0aae1d4b949235dfd3e1793fe3.png",
       "score": 60,
       "tags": []
     }
@@ -213,18 +237,6 @@
   ],
   "政策": [
     {
-      "id": "ed0822808f9b",
-      "title": "温州发布专项政策指南 为残疾人大学生就业创业“撑腰”",
-      "url": "https://news.66wz.com/system/2026/07/16/105805829.shtml",
-      "summary": "市人社局与市残联携手对现行最实用、最优惠的就创业补贴政策进行全面梳理，并形成《温州市残疾人大学生就业创业政策指南》，助力这一特殊群体跨越障碍，实现更加充分、更高质量的就业和创业。 温州网讯 为支持更多",
-      "source": "就业创业政策",
-      "category": "政策",
-      "published": "2026-07-16T01:51:00.000Z",
-      "image": "https://news.66wz.com/pic/003/013/337/00301333742_93765919.gif",
-      "score": 55,
-      "tags": []
-    },
-    {
       "id": "e4bc71f39f64",
       "title": "提升就业能力有补贴！高校毕业生别错过这项政策",
       "url": "https://www.sohu.com/a/1100198522_121956425",
@@ -271,6 +283,68 @@
       "image": "https://n.sinaimg.cn/finance/transform/260/w880h180/20180326/zi4T-fysqfnf9377213.png",
       "score": 50,
       "tags": []
+    },
+    {
+      "id": "1cebe3ae0bff",
+      "title": "到2030年全省城镇新增就业550万人！|晚上好，怀集",
+      "url": "https://finance.sina.com.cn/wm/2026-11-11/doc-iniykkpw8438766.shtml",
+      "summary": "近日，广东省人民政府印发《广东省人力资源和社会保障事业发展“十五五”规划》（下称“规划”）， 提出到2030年全省城镇新增就业550万人， 企业（职业）年金基金规模达到9670亿元，新增取得职业资格证",
+      "source": "Bing·人社部就业创业政策",
+      "category": "政策",
+      "published": "2026-11-11T11:00:00.000Z",
+      "image": "//n.sinaimg.cn/front20261111ac/224/w1280h544/20261111/9e13-34a811b9c8e3e4ca35f9910d906859d8.jpg",
+      "score": 50,
+      "tags": []
+    }
+  ],
+  "开发": [
+    {
+      "id": "fd514283ab42",
+      "title": "谷歌最强模型 Gemini 4 Carbon 全面开放：一夜重写 OpenCode 桌面应用、价格仅为 Fable 5.2 的 1/4",
+      "url": "https://www.infoq.cn/article/YiANe38yfSYitvZOtab0?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/YiANe38yfSYitvZOtab0",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-11T21:05:37.000Z",
+      "image": "https://static001.infoq.cn/resource/image/9a/b4/9ab6fa10bf7116766ec98669d9da10b4.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "61ec315a23c5",
+      "title": "从快速部署到记忆共享，数据库如何支撑 Agent 应用？",
+      "url": "https://www.infoq.cn/video/FwbOyyfoAmkQPMTItMDN?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-13T20:54:12.000Z",
+      "image": "https://static001.geekbang.org/static/infoq/img/infoq_icon.jpg"
+    },
+    {
+      "id": "426383c41220",
+      "title": "智能互动 Agent 在快手商业场景的落地实践",
+      "url": "https://www.infoq.cn/article/e0aglHW78pZuik3CWqdo?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-13T19:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/a0/03/a048922169534bb1a148df266cbbca03.jpg"
+    },
+    {
+      "id": "f8b943322b11",
+      "title": "容器隔离还不够：Edera 从虚拟机监控器层限制 AI 智能体",
+      "url": "https://www.infoq.cn/article/MU0txcPXXuGdGKBNa6a2?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-13T17:06:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/f0/0c/f0b47280cfe735ayy898ca1590d4a90c.jpg"
+    },
+    {
+      "id": "8c5a8d170fb8",
+      "title": "在银行业为基于 Kubernetes 的平台打造云原生文化",
+      "url": "https://www.infoq.cn/article/AVoPIHgU8BvWY12j1sQ5?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-13T15:18:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/1f/7d/1f213bde1bf978a1f925dec59175477d.jpg"
     }
   ],
   "财经": [
@@ -318,53 +392,6 @@
       "category": "财经",
       "published": "2026-11-13T13:42:28.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    }
-  ],
-  "开发": [
-    {
-      "id": "61ec315a23c5",
-      "title": "从快速部署到记忆共享，数据库如何支撑 Agent 应用？",
-      "url": "https://www.infoq.cn/video/FwbOyyfoAmkQPMTItMDN?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-13T20:54:12.000Z",
-      "image": "https://static001.geekbang.org/static/infoq/img/infoq_icon.jpg"
-    },
-    {
-      "id": "426383c41220",
-      "title": "智能互动 Agent 在快手商业场景的落地实践",
-      "url": "https://www.infoq.cn/article/e0aglHW78pZuik3CWqdo?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-13T19:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/a0/03/a048922169534bb1a148df266cbbca03.jpg"
-    },
-    {
-      "id": "f8b943322b11",
-      "title": "容器隔离还不够：Edera 从虚拟机监控器层限制 AI 智能体",
-      "url": "https://www.infoq.cn/article/MU0txcPXXuGdGKBNa6a2?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-13T17:06:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/f0/0c/f0b47280cfe735ayy898ca1590d4a90c.jpg"
-    },
-    {
-      "id": "8c5a8d170fb8",
-      "title": "在银行业为基于 Kubernetes 的平台打造云原生文化",
-      "url": "https://www.infoq.cn/article/AVoPIHgU8BvWY12j1sQ5?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-13T15:18:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/1f/7d/1f213bde1bf978a1f925dec59175477d.jpg"
-    },
-    {
-      "id": "fe193982d204",
-      "title": "奥运史上第一次，一朵云整体留给了举办国",
-      "url": "https://www.infoq.cn/article/7Wih8vL541W3vkq1WAHi?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-13T14:21:31.000Z",
-      "image": "https://static001.infoq.cn/resource/image/1c/54/1c629549726e92e7fa8a9247fea5bd54.jpg"
     }
   ]
 }

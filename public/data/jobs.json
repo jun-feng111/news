@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-13T18:26:30.612Z",
-  "count": 122,
+  "updated": "2026-11-14T00:14:45.011Z",
+  "count": 121,
   "sources": {
     "V2EX": 8,
-    "RemoteOK": 98,
+    "RemoteOK": 97,
     "Remotive": 16,
     "Arbeitnow": 0,
     "Adzuna": 0
@@ -172,6 +172,36 @@
       "url": "https://www.v2ex.com/t/1256374",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "remoteok-1137793",
+      "title": "Software Engineer AI Tooling",
+      "company": "Supabase",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "dev",
+        "design",
+        "front end",
+        "customer support",
+        "testing",
+        "marketing",
+        "virtual assistant",
+        "javascript",
+        "education",
+        "typescript",
+        "sys admin",
+        "medical"
+      ],
+      "category": "dev",
+      "postedDate": "2026-11-13",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-tooling-supabase-1137793",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137792",
@@ -838,31 +868,6 @@
       "category": "finance",
       "postedDate": "2026-11-06",
       "url": "https://remoteOK.com/remote-jobs/remote-junior-market-analyst-meya-holdings-1137700",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137695",
-      "title": "Registered Nurse",
-      "company": "Caringhand Home Health Solutions, Inc.",
-      "location": "Remote",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "education",
-        "supervisor",
-        "customer support",
-        "travel",
-        "exec",
-        "medical",
-        "full time"
-      ],
-      "category": "education",
-      "postedDate": "2026-11-06",
-      "url": "https://remoteOK.com/remote-jobs/remote-registered-nurse-caringhand-home-health-solutions-inc-1137695",
       "source": "RemoteOK",
       "region": "foreign"
     },
@@ -3177,36 +3182,6 @@
       "category": "saas",
       "postedDate": "2026-08-16",
       "url": "https://remoteOK.com/remote-jobs/remote-strategic-account-executive-lodging-freedompay-1136797",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1136795",
-      "title": "Senior Software Engineer Case Execution",
-      "company": "Pivotal Health",
-      "location": "New York City",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "dev",
-        "front end",
-        "python",
-        "customer support",
-        "design",
-        "admin",
-        "exec",
-        "senior",
-        "ops",
-        "sys admin",
-        "medical",
-        "engineer"
-      ],
-      "category": "dev",
-      "postedDate": "2026-08-16",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-case-execution-pivotal-health-1136795",
       "source": "RemoteOK",
       "region": "foreign"
     }
