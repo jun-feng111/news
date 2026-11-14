@@ -1,17 +1,5 @@
 [
   {
-    "id": "26d265ce671c",
-    "title": "AI agent startup LangChain hits $3B valuation",
-    "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-    "summary": "AI agent startup LangChain hits $3B valuation",
-    "source": "TechCrunch",
-    "category": "AI",
-    "published": "2026-11-13T19:37:57.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Raising-money.jpg?resize=1200,829",
-    "score": 80,
-    "tags": []
-  },
-  {
     "id": "a89e40511448",
     "title": "ChatGPT&#8217;s new Wallet lets AI agents shop and check out for you",
     "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
@@ -24,6 +12,18 @@
     "tags": []
   },
   {
+    "id": "26d265ce671c",
+    "title": "AI agent startup LangChain hits $3B valuation",
+    "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+    "summary": "AI agent startup LangChain hits $3B valuation",
+    "source": "TechCrunch",
+    "category": "AI",
+    "published": "2026-11-13T19:37:57.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Raising-money.jpg?resize=1200,829",
+    "score": 75,
+    "tags": []
+  },
+  {
     "id": "2cc6f71479ff",
     "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
     "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
@@ -32,30 +32,6 @@
     "category": "科技",
     "published": "2026-11-13T23:00:00.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_3403.jpg?resize=1200,925",
-    "score": 75,
-    "tags": []
-  },
-  {
-    "id": "8d23e88a0f9b",
-    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-    "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-    "summary": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-    "source": "TechCrunch",
-    "category": "AI",
-    "published": "2026-11-13T22:43:00.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-nvidia.jpg?w=1024",
-    "score": 70,
-    "tags": []
-  },
-  {
-    "id": "3bcb8ca81cba",
-    "title": "Export-banned Nvidia chips are behind China&#8217;s most powerful AI models — uh-oh, Jensen!",
-    "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-    "summary": "Export-banned Nvidia chips are behind China&#8217;s most powerful AI models — uh-oh, Jensen",
-    "source": "TechCrunch",
-    "category": "AI",
-    "published": "2026-11-13T18:40:30.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2301327883.jpg?resize=1200,795",
     "score": 70,
     "tags": []
   },
@@ -84,26 +60,26 @@
     "tags": []
   },
   {
-    "id": "2fd1b18314fc",
-    "title": "US government grounds all flights across the United States &#8216;due to extraordinary circumstances&#8217;",
-    "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
-    "summary": "US government grounds all flights across the United States &#8216;due to extraordinary circumstances",
+    "id": "8d23e88a0f9b",
+    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+    "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+    "summary": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
     "source": "TechCrunch",
-    "category": "科技",
-    "published": "2026-11-13T21:44:38.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/10/alaska-airlines-san-francisco-Getty.jpg?resize=1200,800",
+    "category": "AI",
+    "published": "2026-11-13T22:43:00.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-nvidia.jpg?w=1024",
     "score": 65,
     "tags": []
   },
   {
-    "id": "3f072eacd83e",
-    "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
-    "url": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
-    "summary": "This young startup wants to power floating data centers with the ocean’s heat, and investors are alr",
+    "id": "3bcb8ca81cba",
+    "title": "Export-banned Nvidia chips are behind China&#8217;s most powerful AI models — uh-oh, Jensen!",
+    "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+    "summary": "Export-banned Nvidia chips are behind China&#8217;s most powerful AI models — uh-oh, Jensen",
     "source": "TechCrunch",
-    "category": "科技",
-    "published": "2026-11-13T20:07:24.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/drogue-team.jpeg?resize=1200,900",
+    "category": "AI",
+    "published": "2026-11-13T18:40:30.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2301327883.jpg?resize=1200,795",
     "score": 65,
     "tags": []
   },
@@ -117,6 +93,30 @@
     "published": "2026-09-03T03:36:00.000Z",
     "image": "https://img3.chinadaily.com.cn/static/2024cn_articleandcolumn/img/Mobile/Artical_Share_Icon1.png",
     "score": 65,
+    "tags": []
+  },
+  {
+    "id": "26c8ab7c2bbb",
+    "title": "CyberSN：2026年1-9月美国网络安全职位发布量235786个，同比下降26.4%",
+    "url": "https://finance.sina.com.cn/tech/roll/2026-10-19/doc-inivumam6837930.shtml",
+    "summary": "从整体趋势来看，企业对于人工智能知识和技能的需求依然旺盛。2026年前九个月，接近15%的网络安全职位招聘信息提及AI相关能力，与2025年同期15",
+    "source": "安全工程师·就业分析",
+    "category": "就业",
+    "published": "2026-10-19T13:23:00.000Z",
+    "image": "https://n.sinaimg.cn/tech/zcapp2018/doc_qrcode1.png",
+    "score": 65,
+    "tags": []
+  },
+  {
+    "id": "2fd1b18314fc",
+    "title": "US government grounds all flights across the United States &#8216;due to extraordinary circumstances&#8217;",
+    "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
+    "summary": "US government grounds all flights across the United States &#8216;due to extraordinary circumstances",
+    "source": "TechCrunch",
+    "category": "科技",
+    "published": "2026-11-13T21:44:38.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/10/alaska-airlines-san-francisco-Getty.jpg?resize=1200,800",
+    "score": 60,
     "tags": []
   }
 ]

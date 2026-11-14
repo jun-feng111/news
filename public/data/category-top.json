@@ -1,18 +1,6 @@
 {
   "AI": [
     {
-      "id": "26d265ce671c",
-      "title": "AI agent startup LangChain hits $3B valuation",
-      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-      "summary": "AI agent startup LangChain hits $3B valuation",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-11-13T19:37:57.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Raising-money.jpg?resize=1200,829",
-      "score": 80,
-      "tags": []
-    },
-    {
       "id": "a89e40511448",
       "title": "ChatGPT&#8217;s new Wallet lets AI agents shop and check out for you",
       "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
@@ -25,6 +13,18 @@
       "tags": []
     },
     {
+      "id": "26d265ce671c",
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "summary": "AI agent startup LangChain hits $3B valuation",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-11-13T19:37:57.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Raising-money.jpg?resize=1200,829",
+      "score": 75,
+      "tags": []
+    },
+    {
       "id": "8d23e88a0f9b",
       "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
       "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
@@ -33,7 +33,7 @@
       "category": "AI",
       "published": "2026-11-13T22:43:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-nvidia.jpg?w=1024",
-      "score": 70,
+      "score": 65,
       "tags": []
     },
     {
@@ -45,7 +45,7 @@
       "category": "AI",
       "published": "2026-11-13T18:40:30.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2301327883.jpg?resize=1200,795",
-      "score": 70,
+      "score": 65,
       "tags": []
     }
   ],
@@ -59,7 +59,7 @@
       "category": "科技",
       "published": "2026-11-13T23:00:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_3403.jpg?resize=1200,925",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -95,7 +95,7 @@
       "category": "科技",
       "published": "2026-11-13T21:44:38.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2024/10/alaska-airlines-san-francisco-Getty.jpg?resize=1200,800",
-      "score": 65,
+      "score": 60,
       "tags": []
     },
     {
@@ -107,7 +107,7 @@
       "category": "科技",
       "published": "2026-11-13T20:07:24.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/drogue-team.jpeg?resize=1200,900",
-      "score": 65,
+      "score": 60,
       "tags": []
     }
   ],
@@ -125,15 +125,15 @@
       "tags": []
     },
     {
-      "id": "c2720ecd08c9",
-      "title": "秋招启动不久已有学生先“上岸”，他们各有啥秘诀?",
-      "url": "https://www.msn.cn/zh-cn/news/other/秋招启动不久已有学生先-上岸-他们各有啥秘诀/ar-AA2hb0B6",
-      "summary": "正值秋招季，2027届高校毕业生就业迎来新变化：AI（人工智能）技术全面渗透招聘流程，“00后”择业观跳出传统赛道，高校也从“办招聘会”转向全链条赋能。北京日报客户端记者采访发现，秋招启动不久就已有学",
-      "source": "Bing·秋招",
+      "id": "26c8ab7c2bbb",
+      "title": "CyberSN：2026年1-9月美国网络安全职位发布量235786个，同比下降26.4%",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-19/doc-inivumam6837930.shtml",
+      "summary": "从整体趋势来看，企业对于人工智能知识和技能的需求依然旺盛。2026年前九个月，接近15%的网络安全职位招聘信息提及AI相关能力，与2025年同期15",
+      "source": "安全工程师·就业分析",
       "category": "就业",
-      "published": "2026-11-10T18:46:08.000Z",
-      "image": "",
-      "score": 60,
+      "published": "2026-10-19T13:23:00.000Z",
+      "image": "https://n.sinaimg.cn/tech/zcapp2018/doc_qrcode1.png",
+      "score": 65,
       "tags": []
     },
     {
@@ -256,7 +256,6 @@
       "source": "就业创业政策",
       "category": "政策",
       "published": "2026-09-18T01:57:00.000Z",
-      "image": "",
       "score": 55,
       "tags": []
     },
@@ -297,18 +296,80 @@
       "tags": []
     }
   ],
+  "财经": [
+    {
+      "id": "7f3a4d21ae65",
+      "title": "A股新经济公司数量、营收、市值占比均超一半",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732010.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-11-14T07:12:12.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "15261ce1b20b",
+      "title": "一颗蓝莓的“最鲜一公里”——广州市花都区政协以提案履职助推设施农业提质增效",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732011.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-11-14T07:07:21.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "c70c6624e756",
+      "title": "中美举行中美经贸磋商机制项下贸易理事会首次会议",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732003.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-11-14T06:53:05.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "5fa20ac468ac",
+      "title": "（深圳APEC）榴莲、龙虾漂洋过海 APEC生鲜奔赴中国餐桌",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731997.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-11-14T06:51:38.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "b5dcf6132b36",
+      "title": "“南京—东南亚”滚装外贸新通道开通",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731985.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-11-14T06:26:01.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    }
+  ],
   "开发": [
     {
-      "id": "fd514283ab42",
-      "title": "谷歌最强模型 Gemini 4 Carbon 全面开放：一夜重写 OpenCode 桌面应用、价格仅为 Fable 5.2 的 1/4",
-      "url": "https://www.infoq.cn/article/YiANe38yfSYitvZOtab0?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/YiANe38yfSYitvZOtab0",
+      "id": "de5ccc8aa6a0",
+      "title": "GitHub Actions 锁文件功能正式可用，保障工作流依赖安全",
+      "url": "https://www.infoq.cn/article/XrW1cdg9NFRkemvqLiZc?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-11-11T21:05:37.000Z",
-      "image": "https://static001.infoq.cn/resource/image/9a/b4/9ab6fa10bf7116766ec98669d9da10b4.png",
-      "score": 50,
-      "tags": []
+      "published": "2026-11-14T15:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/31/c4/31c571ccea0c2eb804abe89ecaf906c4.jpg"
+    },
+    {
+      "id": "4d9f6cf94aea",
+      "title": "AI 自动写 PR，模型反而最简单：Inkitt 如何应对 Webhook 重复、CI 失败与合并冲突",
+      "url": "https://www.infoq.cn/article/YRXscVHsTh0g6CVCJJ0D?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-14T10:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/31/c4/31c571ccea0c2eb804abe89ecaf906c4.jpg"
+    },
+    {
+      "id": "c7fbbeca2350",
+      "title": "从提效到扩能：AI 驱动小团队的能力突破与组织演进｜AICon北京",
+      "url": "https://www.infoq.cn/article/eTz8pt2LoALMvzvxj4aa?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-14T10:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/52/53/52c371d1b2704f04036176ed47f7ee53.jpg"
     },
     {
       "id": "61ec315a23c5",
@@ -327,71 +388,6 @@
       "category": "开发",
       "published": "2026-11-13T19:00:00.000Z",
       "image": "https://static001.infoq.cn/resource/image/a0/03/a048922169534bb1a148df266cbbca03.jpg"
-    },
-    {
-      "id": "f8b943322b11",
-      "title": "容器隔离还不够：Edera 从虚拟机监控器层限制 AI 智能体",
-      "url": "https://www.infoq.cn/article/MU0txcPXXuGdGKBNa6a2?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-13T17:06:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/f0/0c/f0b47280cfe735ayy898ca1590d4a90c.jpg"
-    },
-    {
-      "id": "8c5a8d170fb8",
-      "title": "在银行业为基于 Kubernetes 的平台打造云原生文化",
-      "url": "https://www.infoq.cn/article/AVoPIHgU8BvWY12j1sQ5?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-13T15:18:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/1f/7d/1f213bde1bf978a1f925dec59175477d.jpg"
-    }
-  ],
-  "财经": [
-    {
-      "id": "8741e7890588",
-      "title": "全球首座半潜式风电制氢平台拖航启程",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731848.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-11-13T14:27:53.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "15d7c58e7b8f",
-      "title": "海南首票“两头在外”保税航空煤油适用国际标准检验业务落地",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731838.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-11-13T13:55:21.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "16d7f78071ac",
-      "title": "引来全国新材料创新资源 广东茂名首届新材料创新创业大赛落幕",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731834.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-11-13T13:54:53.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "1ec1a64cf462",
-      "title": "浙江：到2030年全域旅游综合收入达1.5万亿元",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731822.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-11-13T13:42:30.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "36db79b54083",
-      "title": "科技赋能储粮 七台河市勃利县31万吨智慧粮库即将投用",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-13/10731794.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-11-13T13:42:28.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
 }

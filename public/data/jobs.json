@@ -1,31 +1,14 @@
 {
-  "updated": "2026-11-14T00:14:45.011Z",
-  "count": 121,
+  "updated": "2026-11-14T07:25:02.031Z",
+  "count": 120,
   "sources": {
-    "V2EX": 8,
+    "V2EX": 7,
     "RemoteOK": 97,
     "Remotive": 16,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
   "jobs": [
-    {
-      "id": "v2ex-1256871",
-      "title": "现在形势确实很差了，刚才面试了一个 30 年经验的 PE 工程师，现在要找个电子厂产线维修测试的工作。",
-      "company": "handsome198311",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [],
-      "category": "测试",
-      "postedDate": "2026-11-13",
-      "url": "https://www.v2ex.com/t/1256871",
-      "source": "V2EX",
-      "region": "domestic"
-    },
     {
       "id": "v2ex-1256780",
       "title": "GSD 招 IT 软件工程师： Java / .NET / PHP / C++ / Python",
