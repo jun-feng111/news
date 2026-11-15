@@ -1,6 +1,18 @@
 {
   "科技": [
     {
+      "id": "0cbac1debe31",
+      "title": "Where was Nvidia&#8217;s security team?",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "summary": "Where was Nvidia&#8217;s security team",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-15T00:08:07.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-1.jpg?w=1024",
+      "score": 75,
+      "tags": []
+    },
+    {
       "id": "6741c7c310ea",
       "title": "Got an iPhone Duo? These 9 settings make it easier to use",
       "url": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
@@ -9,7 +21,7 @@
       "category": "科技",
       "published": "2026-11-14T18:00:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-iPhone-Duo-closed-and-open.jpg?resize=1200,675",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -25,30 +37,6 @@
       "tags": []
     },
     {
-      "id": "7502b262d99d",
-      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-      "summary": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-14T21:41:22.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024",
-      "score": 65,
-      "tags": []
-    },
-    {
-      "id": "05f1becd8950",
-      "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
-      "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
-      "summary": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-14T20:04:44.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/tesla-cybercab-getty.jpg?resize=1200,834",
-      "score": 65,
-      "tags": []
-    },
-    {
       "id": "2cc6f71479ff",
       "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
       "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
@@ -58,6 +46,18 @@
       "published": "2026-11-13T23:00:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_3403.jpg?resize=1200,925",
       "score": 65,
+      "tags": []
+    },
+    {
+      "id": "7502b262d99d",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "summary": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-14T21:41:22.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024",
+      "score": 60,
       "tags": []
     }
   ],
@@ -151,15 +151,15 @@
   ],
   "社会": [
     {
-      "id": "37b13c5c066e",
-      "title": "深化职教交流合作，多国留学生在华学到真本领",
-      "url": "https://www.chinanews.com.cn/edu/2026/11-10/10729493.shtml",
-      "summary": "新一轮科技革命和产业变革加速突破，给全球技能发展带来深刻影响，职业教育与技能人才培养的重要意义更加凸显。近年来，中国不断完善现代职业教育制度，夯实产业发展人才支撑，深化国际交流合作",
+      "id": "9ff4063346c0",
+      "title": "AI让论文更好写，学术诚信如何“不掉链子”",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-13/10731294.shtml",
+      "summary": "谈起这两年AI给编辑工作带来的变化，《科技通报》编辑吴頔最先想到的是“论文篇幅变长了，工作量变大了”",
       "source": "中新网教育",
       "category": "社会",
-      "published": "2026-11-10T08:19:27.000Z",
+      "published": "2026-11-13T01:34:05.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 60,
+      "score": 55,
       "tags": []
     },
     {
@@ -187,27 +187,27 @@
       "tags": []
     },
     {
-      "id": "3fec6cebaa2f",
-      "title": "国家发改委：多渠道增加普通高中和高等教育学位供给",
-      "url": "https://www.chinanews.com.cn/edu/2026/11-10/10729572.shtml",
-      "summary": "中新网11月10日电 10日，国家发改委举行奋进“十五五”系列新闻发布会，介绍增进民生福祉有关情况。针对当前我国学龄人口总量和结构发生深刻变化、高中学位比较紧张等问题，国家发展改革委社会发展司副司长黄",
+      "id": "4edb25272642",
+      "title": "2027年全国硕士研究生招生考试报名人数为347万",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-13/10731392.shtml",
+      "summary": "中新网11月13日电 据教育部网站消息，2027年全国硕士研究生招生考试将于2026年12月19日至20日举行。近日，教育部会同国家教育统一考试工作部际联席会议各成员单位，召开2027年全国硕士研究生",
       "source": "中新网教育",
       "category": "社会",
-      "published": "2026-11-10T09:22:49.000Z",
+      "published": "2026-11-13T03:33:37.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 55,
+      "score": 50,
       "tags": []
     },
     {
-      "id": "483a56f454d1",
-      "title": "随时被回应、按要求修改 AI正在培养“祈使句一代”？",
-      "url": "https://www.chinanews.com.cn/edu/2026/11-10/10729465.shtml",
-      "summary": "语言一直在“生成”并影响着思维 习惯与机器交谈后，我们将成为怎样的人",
+      "id": "4fa3135d2e98",
+      "title": "亚洲青年科学家基金已资助48位学者 首批获资助者成果斐然",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-12/10731104.shtml",
+      "summary": "中新网北京11月12日电 (记者 张素)记者12日采访获悉，亚洲青年科学家基金自2022年设立以来，已资助来自亚洲22家机构的48位青年学者",
       "source": "中新网教育",
       "category": "社会",
-      "published": "2026-11-10T07:47:01.000Z",
+      "published": "2026-11-12T12:38:42.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 55,
+      "score": 50,
       "tags": []
     }
   ],
@@ -237,14 +237,14 @@
       "tags": []
     },
     {
-      "id": "8c8a0f75fdaa",
-      "title": "InfoQ 2026 年趋势报告：AI、ML与数据工程",
-      "url": "https://www.infoq.cn/article/7Pecd1CshYIMvCTeBhrm?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/7Pecd1CshYIMvCTeBhrm",
-      "source": "InfoQ中文",
+      "id": "bd45c108af03",
+      "title": "科技爱好者周刊（第 419 期）：机房来了，写字楼走了",
+      "url": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html",
+      "summary": "这里记录每周值得分享的科技内容，周五发布",
+      "source": "阮一峰",
       "category": "开发",
-      "published": "2026-11-12T10:23:32.000Z",
-      "image": "https://static001.infoq.cn/resource/image/67/a3/67786861f433723fa3ccc07ea104b0a3.jpg",
+      "published": "2026-11-13T00:08:29.000Z",
+      "image": "",
       "score": 55,
       "tags": []
     },
@@ -282,6 +282,7 @@
       "source": "就业创业政策",
       "category": "政策",
       "published": "2026-09-18T01:57:00.000Z",
+      "image": "",
       "score": 55,
       "tags": []
     },
@@ -336,48 +337,48 @@
   ],
   "财经": [
     {
-      "id": "ecbe9def351c",
-      "title": "跨越山海照亮万家！一度电，如何点亮亚太合作之光？",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732204.shtml",
+      "id": "019349e04cbe",
+      "title": "首次落地海南的“博博会”：一场展会与自贸港的“双向奔赴”",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732306.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-14T14:38:36.000Z",
+      "published": "2026-11-15T04:16:37.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "4b46309b670a",
-      "title": "APEC朋友圈丨中国无人机如何改变智利农田",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732203.shtml",
+      "id": "107d66b9d0fb",
+      "title": "2026新华网思客年会在大同举办 聚焦能源安全与产业体系",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732304.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-14T14:35:00.000Z",
+      "published": "2026-11-15T04:13:04.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "ead57c8bfe2d",
-      "title": "解锁多样化主题乐园IP密码 把“看热闹”一次性消费拉长为复合消费",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732201.shtml",
+      "id": "82b94f6df67f",
+      "title": "BLG登顶S16全球总决赛冠军宝座，2000万人在B站见证LPL历史时刻",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732302.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-14T14:20:51.000Z",
+      "published": "2026-11-15T04:05:34.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "21fb242f9059",
-      "title": "WWF气候负责人：气候行动走向落实 中国发挥关键桥梁作用",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732198.shtml",
+      "id": "72f7f9aa6243",
+      "title": "1至10月份中国国家铁路发送货物34.2亿吨",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732295.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-14T13:54:21.000Z",
+      "published": "2026-11-15T04:03:30.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "a312c50f8c63",
-      "title": "“开板”是拥抱冬天的独特方式 八方雪友乐享火热冰雪赛事",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-14/10732196.shtml",
+      "id": "d11e42d816d7",
+      "title": "小辣椒大前景 “中国辣椒之乡”会龙把“椒”傲种进富民路",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732293.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-14T13:39:30.000Z",
+      "published": "2026-11-15T04:03:26.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]

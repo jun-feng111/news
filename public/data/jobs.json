@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T23:41:48.932Z",
+  "updated": "2026-11-15T05:03:37.976Z",
   "count": 120,
   "sources": {
     "V2EX": 7,
@@ -111,31 +111,6 @@
       "region": "domestic"
     },
     {
-      "id": "v2ex-1256563",
-      "title": "提供就业协助，并将求职申请推荐给合适的公司",
-      "company": "mxnhqi",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "java",
-        "go",
-        "javascript",
-        "typescript",
-        "react",
-        "node",
-        "docker"
-      ],
-      "category": "其他",
-      "postedDate": "2026-11-12",
-      "url": "https://www.v2ex.com/t/1256563",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
       "id": "v2ex-1256509",
       "title": "济南初级程序员几个月没招不到人，不是说行情不好，都不好找工作吗？",
       "company": "heyline",
@@ -151,6 +126,25 @@
       "category": "其他",
       "postedDate": "2026-11-12",
       "url": "https://www.v2ex.com/t/1256509",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1256374",
+      "title": "广州招两个 go， 3 年。15k 起",
+      "company": "hanliang",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "go"
+      ],
+      "category": "其他",
+      "postedDate": "2026-11-12",
+      "url": "https://www.v2ex.com/t/1256374",
       "source": "V2EX",
       "region": "domestic"
     },
@@ -811,36 +805,6 @@
       "postedDate": "2026-11-08",
       "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
       "source": "Remotive",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137701",
-      "title": "AI Developer",
-      "company": "Salvo Software",
-      "location": "Remote",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "dev",
-        "grafana",
-        "infosec",
-        "python",
-        "docker",
-        "technical",
-        "customer support",
-        "devops",
-        "c",
-        "c plus plus",
-        "cloud",
-        "git"
-      ],
-      "category": "dev",
-      "postedDate": "2026-11-07",
-      "url": "https://remoteOK.com/remote-jobs/remote-ai-developer-salvo-software-1137701",
-      "source": "RemoteOK",
       "region": "foreign"
     },
     {
@@ -3160,6 +3124,36 @@
       "category": "product designer",
       "postedDate": "2026-08-17",
       "url": "https://remoteOK.com/remote-jobs/remote-lead-product-designer-highlevel-1136841",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1136797",
+      "title": "Strategic Account Executive Lodging",
+      "company": "FreedomPay",
+      "location": "Select USA Remote Locations",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "saas",
+        "infosec",
+        "game dev",
+        "consulting",
+        "marketing",
+        "travel",
+        "speech",
+        "exec",
+        "finance",
+        "education",
+        "api",
+        "mobile"
+      ],
+      "category": "saas",
+      "postedDate": "2026-08-16",
+      "url": "https://remoteOK.com/remote-jobs/remote-strategic-account-executive-lodging-freedompay-1136797",
       "source": "RemoteOK",
       "region": "foreign"
     }
