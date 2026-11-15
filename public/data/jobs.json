@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T13:31:49.312Z",
+  "updated": "2026-11-15T19:35:52.671Z",
   "count": 121,
   "sources": {
     "V2EX": 8,
@@ -247,6 +247,33 @@
       "postedDate": "2026-11-13",
       "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-tooling-supabase-1137793",
       "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remotive-2091173",
+      "title": "Content Creator - YouTube",
+      "company": "Metics Media",
+      "location": "USA, Canada",
+      "remote": true,
+      "salaryText": "$85k - $155k",
+      "salaryMin": 85000,
+      "salaryMax": 155000,
+      "salaryCurrency": "USD",
+      "skills": [
+        "ecommerce",
+        "shopify",
+        "video",
+        "AI/ML",
+        "research",
+        "digital marketing",
+        "youtube",
+        "editing",
+        "video editing"
+      ],
+      "category": "Marketing",
+      "postedDate": "2026-11-13",
+      "url": "https://remotive.com/remote-jobs/marketing/content-creator-youtube-2091173",
+      "source": "Remotive",
       "region": "foreign"
     },
     {
@@ -2356,36 +2383,6 @@
       "postedDate": "2026-10-15",
       "url": "https://remoteOK.com/remote-jobs/remote-federal-account-manager-client-relationships-akicita-federal-llc-1137521",
       "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remotive-2069746",
-      "title": "Tech Lead Full-Stack Rails Engineer",
-      "company": "Mitre Media",
-      "location": "USA, Canada, USA timezones",
-      "remote": true,
-      "salaryText": "$170k - $200k",
-      "salaryMin": 170000,
-      "salaryMax": 200000,
-      "salaryCurrency": "USD",
-      "skills": [
-        "api",
-        "CSS",
-        "docker",
-        "elasticsearch",
-        "fullstack",
-        "html",
-        "javascript",
-        "kubernetes",
-        "postgresql",
-        "react",
-        "ror",
-        "ruby/rails"
-      ],
-      "category": "Software Development",
-      "postedDate": "2026-10-14",
-      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
-      "source": "Remotive",
       "region": "foreign"
     },
     {
