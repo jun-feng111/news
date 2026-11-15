@@ -9,7 +9,7 @@
       "category": "科技",
       "published": "2026-11-15T00:08:07.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-1.jpg?w=1024",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -101,18 +101,6 @@
       "tags": []
     },
     {
-      "id": "26c8ab7c2bbb",
-      "title": "CyberSN：2026年1-9月美国网络安全职位发布量235786个，同比下降26.4%",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-10-19/doc-inivumam6837930.shtml",
-      "summary": "从整体趋势来看，企业对于人工智能知识和技能的需求依然旺盛。2026年前九个月，接近15%的网络安全职位招聘信息提及AI相关能力，与2025年同期15",
-      "source": "安全工程师·就业分析",
-      "category": "就业",
-      "published": "2026-10-19T13:23:00.000Z",
-      "image": "https://n.sinaimg.cn/tech/zcapp2018/doc_qrcode1.png",
-      "score": 65,
-      "tags": []
-    },
-    {
       "id": "eaca4d13f38e",
       "title": "[香港招聘] AI Agent 開發工程師 | 港币 25K-35K/月",
       "url": "https://www.v2ex.com/t/1255630#reply21",
@@ -146,6 +134,80 @@
       "published": "2026-11-11T08:30:00.000Z",
       "image": "https://q9.itc.cn/q_70/images03/20261111/f6b72d0aae1d4b949235dfd3e1793fe3.png",
       "score": 60,
+      "tags": []
+    },
+    {
+      "id": "4cc46aca7d5c",
+      "title": "AI 低代码重构前端开发，11 月技术选型大洗牌",
+      "url": "https://www.sohu.com/a/1092855946_120620706",
+      "summary": "权威信号落地，往往比技术本身更能扰动市场。 2026 年 9 月底，Gartner 接连发布了两份与 AI 低代码直接相关的报告——《AI 增强低代码应用平台魔力象限》和配套的《关键能力》研究",
+      "source": "前端开发·就业分析",
+      "category": "就业",
+      "published": "2026-10-26T09:14:00.000Z",
+      "image": "//q1.itc.cn/images01/20261026/8eb9863287b047fc862126ea56b27394.png",
+      "score": 60,
+      "tags": []
+    }
+  ],
+  "开发": [
+    {
+      "id": "129d4dd25064",
+      "title": "GFlow：面向游戏设计的多 Agent 协作与验证实践｜AICon北京",
+      "url": "https://www.infoq.cn/article/dkQAAL0SSdhIq1h61eKx?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/dkQAAL0SSdhIq1h61eKx",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-13T10:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/28/e0/285bf985da825d57d75ac729f87da7e0.jpg",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "e8677c493ece",
+      "title": "智能体 AI 架构中记忆、知识与上下文的系统化方案",
+      "url": "https://www.infoq.cn/article/COuPKpA6rTf05C6JM10y?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/COuPKpA6rTf05C6JM10y",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-12T13:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/1c/54/1c629549726e92e7fa8a9247fea5bd54.jpg",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "8495fbedb46d",
+      "title": "谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%",
+      "url": "https://www.infoq.cn/article/E7QKIMUz3h0G0IE5Paii?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/E7QKIMUz3h0G0IE5Paii",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-12T11:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/ef/04/ef65132fb1df4bcda9975dyye55b8a04.png",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "bd45c108af03",
+      "title": "科技爱好者周刊（第 419 期）：机房来了，写字楼走了",
+      "url": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html",
+      "summary": "这里记录每周值得分享的科技内容，周五发布",
+      "source": "阮一峰",
+      "category": "开发",
+      "published": "2026-11-13T00:08:29.000Z",
+      "image": "",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "df06b8aa1a28",
+      "title": "应用只是冰山一角：构建大规模移动应用基础设施需要什么",
+      "url": "https://www.infoq.cn/article/oKGTGPNZuleM61QqQOVf?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/oKGTGPNZuleM61QqQOVf",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-13T13:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/1b/92/1beb4914ff24a6f2ccb98d9a2efe9e92.jpg",
+      "score": 50,
       "tags": []
     }
   ],
@@ -187,88 +249,26 @@
       "tags": []
     },
     {
-      "id": "4edb25272642",
-      "title": "2027年全国硕士研究生招生考试报名人数为347万",
-      "url": "https://www.chinanews.com.cn/edu/2026/11-13/10731392.shtml",
-      "summary": "中新网11月13日电 据教育部网站消息，2027年全国硕士研究生招生考试将于2026年12月19日至20日举行。近日，教育部会同国家教育统一考试工作部际联席会议各成员单位，召开2027年全国硕士研究生",
+      "id": "960b5dd18166",
+      "title": "浙江教育观察：温州托幼一体化如何让“小小孩”被看见？",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-13/10731737.shtml",
+      "summary": "中新网温州11月13日电(孙琳茹)“加油。”伴随着一声声稚嫩的呐喊，浙江省温州市第五幼儿园的操场上，机器狗正和小朋友互动",
       "source": "中新网教育",
       "category": "社会",
-      "published": "2026-11-13T03:33:37.000Z",
+      "published": "2026-11-13T13:30:30.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 50,
       "tags": []
     },
     {
-      "id": "4fa3135d2e98",
-      "title": "亚洲青年科学家基金已资助48位学者 首批获资助者成果斐然",
-      "url": "https://www.chinanews.com.cn/edu/2026/11-12/10731104.shtml",
-      "summary": "中新网北京11月12日电 (记者 张素)记者12日采访获悉，亚洲青年科学家基金自2022年设立以来，已资助来自亚洲22家机构的48位青年学者",
+      "id": "86c33116c919",
+      "title": "火锅、针灸与供应链，暨南人在欧洲搭起民间桥",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-13/10731592.shtml",
+      "summary": "中新网广州11月13日电 题：火锅、针灸与供应链，暨南人在欧洲搭起民间桥",
       "source": "中新网教育",
       "category": "社会",
-      "published": "2026-11-12T12:38:42.000Z",
+      "published": "2026-11-13T09:50:42.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
-    }
-  ],
-  "开发": [
-    {
-      "id": "e8677c493ece",
-      "title": "智能体 AI 架构中记忆、知识与上下文的系统化方案",
-      "url": "https://www.infoq.cn/article/COuPKpA6rTf05C6JM10y?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/COuPKpA6rTf05C6JM10y",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-12T13:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/1c/54/1c629549726e92e7fa8a9247fea5bd54.jpg",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "8495fbedb46d",
-      "title": "谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%",
-      "url": "https://www.infoq.cn/article/E7QKIMUz3h0G0IE5Paii?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/E7QKIMUz3h0G0IE5Paii",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-12T11:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/ef/04/ef65132fb1df4bcda9975dyye55b8a04.png",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "bd45c108af03",
-      "title": "科技爱好者周刊（第 419 期）：机房来了，写字楼走了",
-      "url": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html",
-      "summary": "这里记录每周值得分享的科技内容，周五发布",
-      "source": "阮一峰",
-      "category": "开发",
-      "published": "2026-11-13T00:08:29.000Z",
-      "image": "",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "d1e440ca68d2",
-      "title": "LinkedIn 基于 OpenTelemetry 追踪用户动作全链路：从前端点击到后端服务",
-      "url": "https://www.infoq.cn/article/3u1PmO0HqQXBFNibKZoe?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/3u1PmO0HqQXBFNibKZoe",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-12T16:44:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/bd/3d/bd9fc83df70c00a501dfc12a7a3e1f3d.jpg",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "28fe7a2bfbd1",
-      "title": "Google 终于让 PyTorch 原生跑上 TPU，开发者：“早该如此！”",
-      "url": "https://www.infoq.cn/article/Fikt82HLToqb6ZANB2xj?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/Fikt82HLToqb6ZANB2xj",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-12T15:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/d2/66/d26cc0b823699480b6130d7340617b66.jpg",
       "score": 50,
       "tags": []
     }
@@ -311,74 +311,74 @@
       "tags": []
     },
     {
-      "id": "3984fd2f69f1",
-      "title": "扬州全链条护航高校毕业生从“校园门”走向“就业门”",
-      "url": "https://finance.sina.com.cn/roll/2026-11-12/doc-iniymsip3967151.shtml",
-      "summary": "高校毕业生就业，一头连着民生基本盘，一头决定城市长远竞争力。 对即将走出校门的大学生来说，一份合适的工作固然重要，一座能为青年创业和安居提供全链条保障的城市更加重要",
+      "id": "cb514ec11bd4",
+      "title": "精准赋能促就业 蓄力启航助成长 ——我市开展高校毕业生一日启航 ...",
+      "url": "https://www.sohu.com/a/1101185017_121106884",
+      "summary": "为扎实推进高校毕业生就业创业提质增效工作，精准破解未就业高校毕业生职业规划模糊、求职能力不足、创业经验匮乏等突出问题，持续优化青年人才服务体系，全力促进高校毕业生高质量充分就业、规范有序创业，2026",
       "source": "Bing·高校毕业生就业创业政策",
       "category": "政策",
-      "published": "2026-11-11T16:00:00.000Z",
-      "image": "https://n.sinaimg.cn/finance/transform/260/w880h180/20180326/zi4T-fysqfnf9377213.png",
+      "published": "2026-11-13T08:57:00.000Z",
+      "image": "https://q2.itc.cn/q_70/images03/20261113/664d8f82913048a9bbb15abbd0d7aec4.png",
       "score": 50,
       "tags": []
     },
     {
-      "id": "1cebe3ae0bff",
-      "title": "到2030年全省城镇新增就业550万人！|晚上好，怀集",
-      "url": "https://finance.sina.com.cn/wm/2026-11-11/doc-iniykkpw8438766.shtml",
-      "summary": "近日，广东省人民政府印发《广东省人力资源和社会保障事业发展“十五五”规划》（下称“规划”）， 提出到2030年全省城镇新增就业550万人， 企业（职业）年金基金规模达到9670亿元，新增取得职业资格证",
-      "source": "Bing·人社部就业创业政策",
+      "id": "253148b2f53e",
+      "title": "基层动态 | 团红桥区委助力高校毕业生就业创业",
+      "url": "https://www.sohu.com/a/1100723834_121106842",
+      "summary": "近日，团红桥区委等部门共同开展“职引未来——红桥区2026年全国城市联合招聘高校毕业生秋季活动暨天津市大学软件学院专场招聘会”，把优质岗位、政策服务、青年发展资源送到高校毕业生身边。 活动现场，300",
+      "source": "Bing·高校毕业生就业创业政策",
       "category": "政策",
-      "published": "2026-11-11T11:00:00.000Z",
-      "image": "//n.sinaimg.cn/front20261111ac/224/w1280h544/20261111/9e13-34a811b9c8e3e4ca35f9910d906859d8.jpg",
+      "published": "2026-11-12T11:11:00.000Z",
+      "image": "https://q8.itc.cn/q_70/images03/20261112/8ee80e5cfb324892a28ac702ff3a842a.jpeg",
       "score": 50,
       "tags": []
     }
   ],
   "财经": [
     {
-      "id": "019349e04cbe",
-      "title": "首次落地海南的“博博会”：一场展会与自贸港的“双向奔赴”",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732306.shtml",
+      "id": "341cd5498cf2",
+      "title": "云南镇康：雨林深处种出富民“金豆子”",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732494.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-15T04:16:37.000Z",
+      "published": "2026-11-15T13:10:20.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "107d66b9d0fb",
-      "title": "2026新华网思客年会在大同举办 聚焦能源安全与产业体系",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732304.shtml",
+      "id": "bceb0ca68eaf",
+      "title": "云南提出建设RCEP国际教育合作区",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732492.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-15T04:13:04.000Z",
+      "published": "2026-11-15T13:10:06.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "82b94f6df67f",
-      "title": "BLG登顶S16全球总决赛冠军宝座，2000万人在B站见证LPL历史时刻",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732302.shtml",
+      "id": "4bcb3e8b2ecd",
+      "title": "乌鲁木齐地铁2号线北段开通运营",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732468.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-15T04:05:34.000Z",
+      "published": "2026-11-15T12:22:15.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "72f7f9aa6243",
-      "title": "1至10月份中国国家铁路发送货物34.2亿吨",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732295.shtml",
+      "id": "b6663efa8a20",
+      "title": "中国环境记协会主席：做好生态文明国际传播",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732467.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-15T04:03:30.000Z",
+      "published": "2026-11-15T12:21:59.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "d11e42d816d7",
-      "title": "小辣椒大前景 “中国辣椒之乡”会龙把“椒”傲种进富民路",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732293.shtml",
+      "id": "302ac9ef366f",
+      "title": "宁夏固原薛庄村铁路帮扶案例入选全球减贫案例",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-15/10732463.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-15T04:03:26.000Z",
+      "published": "2026-11-15T12:06:42.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
