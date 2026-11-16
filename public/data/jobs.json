@@ -1,14 +1,62 @@
 {
-  "updated": "2026-11-16T13:32:45.537Z",
-  "count": 122,
+  "updated": "2026-11-16T23:15:39.348Z",
+  "count": 123,
   "sources": {
     "V2EX": 9,
     "RemoteOK": 97,
-    "Remotive": 16,
+    "Remotive": 17,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1257560",
+      "title": "remote 算法工程师（偏重 TTS 真人语音合成方向）22K-35k 算法工程师（偏重生图生视频 & 人物一致性方向）22K-35k",
+      "company": "andyxinweimin",
+      "location": "国内",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "python"
+      ],
+      "category": "算法/AI",
+      "postedDate": "2026-11-16",
+      "url": "https://www.v2ex.com/t/1257560",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1257557",
+      "title": "remote 高级安全攻防工程师（管理经验优先）× 5HC",
+      "company": "andyxinweimin",
+      "location": "国内",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "java",
+        "go",
+        "docker",
+        "k8s",
+        "aws",
+        "阿里云",
+        "腾讯云",
+        "linux",
+        "redis",
+        "mongodb",
+        "php"
+      ],
+      "category": "其他",
+      "postedDate": "2026-11-16",
+      "url": "https://www.v2ex.com/t/1257557",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1257511",
       "title": "广州产品经理、后端、测试等岗位招人",
@@ -176,51 +224,34 @@
       "region": "domestic"
     },
     {
-      "id": "v2ex-1256780",
-      "title": "GSD 招 IT 软件工程师： Java / .NET / PHP / C++ / Python",
-      "company": "GSDgsd",
-      "location": "东京",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
+      "id": "remotive-2069746",
+      "title": "Tech Lead Full-Stack Rails Engineer",
+      "company": "Mitre Media",
+      "location": "USA, Canada, USA timezones",
+      "remote": true,
+      "salaryText": "$170k - $200k",
+      "salaryMin": 170000,
+      "salaryMax": 200000,
+      "salaryCurrency": "USD",
       "skills": [
-        "python",
-        "java",
-        "c++",
-        "php"
-      ],
-      "category": "其他",
-      "postedDate": "2026-11-13",
-      "url": "https://www.v2ex.com/t/1256780",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1256752",
-      "title": "千问办公 — 宜搭招聘 AI 全栈研发工程师",
-      "company": "maowua",
-      "location": "内推",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "python",
-        "java",
-        "go",
+        "api",
+        "CSS",
+        "docker",
+        "elasticsearch",
+        "fullstack",
+        "html",
         "javascript",
-        "typescript",
+        "kubernetes",
+        "postgresql",
         "react",
-        "node"
+        "ror",
+        "ruby/rails"
       ],
-      "category": "全栈",
-      "postedDate": "2026-11-13",
-      "url": "https://www.v2ex.com/t/1256752",
-      "source": "V2EX",
-      "region": "domestic"
+      "category": "Software Development",
+      "postedDate": "2026-11-14",
+      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+      "source": "Remotive",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137796",
@@ -2178,29 +2209,6 @@
       "region": "foreign"
     },
     {
-      "id": "remoteok-1137537",
-      "title": "Head of Technology",
-      "company": "Sanctuary Computer",
-      "location": "Remote",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "dev",
-        "engineer",
-        "senior",
-        "full stack",
-        "front end"
-      ],
-      "category": "dev",
-      "postedDate": "2026-10-16",
-      "url": "https://remoteOK.com/remote-jobs/remote-head-of-technology-sanctuary-computer-1137537",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
       "id": "remoteok-1137536",
       "title": "Director of Product Management and IT Operations",
       "company": "Self Bill Pro",
@@ -3218,6 +3226,36 @@
       "category": "testing",
       "postedDate": "2026-08-15",
       "url": "https://remoteOK.com/remote-jobs/remote-qa-tester-entry-level-ace-it-careers-1136701",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1136687",
+      "title": "Brand Protection & Marketplace Compliance Analyst",
+      "company": "MultiplyMii",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "analyst",
+        "amazon",
+        "salesforce",
+        "technical",
+        "recruiter",
+        "customer support",
+        "marketing",
+        "speech",
+        "exec",
+        "content writing",
+        "excel",
+        "sales"
+      ],
+      "category": "analyst",
+      "postedDate": "2026-08-14",
+      "url": "https://remoteOK.com/remote-jobs/remote-brand-protection-marketplace-compliance-analyst-multiplymii-1136687",
       "source": "RemoteOK",
       "region": "foreign"
     }
