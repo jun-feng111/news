@@ -1,0 +1,7 @@
+{
+  "id": "08d4a07e9acf",
+  "title": "杭州本地求职，移动端开发，10 年经验，坐班或远程都可以。",
+  "url": "https://www.v2ex.com/t/1257403#reply7",
+  "contentZh": "",
+  "contentFull": "本��一直在杭州，做移动端 10 年，之前以 Android 为主后来也写 flutter 。做过的产品包含数字交易产品，电商产品，教育产品相关。近两年重点投入 AI 辅助研发：Codex / Claude Code / Cursor 多工具协作、上下文与规则工程、MCP 集成，擅长把 AI 从“个人效率工具”变成团队可复用的开发流程。。\n基本情况\n\n坐标杭州，10 年 Android 开发经验\n方向：Android 客户端为主（Flutter / 小程序也能接）\n形式：杭州坐班、远程、混合办公都可以\n到岗时间：随时\n\n拥有的 AI 能力\n工具链\n\n日常同时使用 Codex、Claude Code、Cursor，按任务分工：批量重构 / 自动化任务走 CLI agent，界面层业务开发用 Cursor，复杂问题分析用 Claude Code\n\n上下文与规则工程\n\n上下文管理：项目上下文分层加载、按需注入、会话拆分与压缩，在控制 token 成本的同时保证输出质量\n规则文件：用 CLAUDE.md / AGENTS.md / .cursor/rules 把编码规范、架构约定、业务背景沉淀成模型可执行的规则，让 AI 产出直接符合项目约束\n常用任务（重构、补单测、Code Review、代码迁移）沉淀成可复用的 prompt / skill 模板\n\nMCP\n\n接入 MCP（Model Context Protocol）扩展 AI 能力：把代码库、文档、内部系统接给模型使用\n配置、调试 MCP server，控制工具权限和上下文开销\n\n技术栈\n\nAndroid：Kotlin / Java，Jetpack Compose、View 体系、自定义 View\n架构：MVVM / MVI、模块化、组件化\n常用：协程、Flow、Room、Retrofit、OkHttp\n性能：启动优化、内存泄漏、卡顿掉帧\n工程化：Gradle、CI/CD、多渠道打包、混淆加固\n跨端：（Flutter）\n其他：（服务端  / AI 工具链）\n还有就是一直没有什么面试，各位大佬能指导下是我的简历哪里有啥问题吗？\n\n\n\n"
+}

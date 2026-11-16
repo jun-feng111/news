@@ -1,6 +1,18 @@
 {
   "AI": [
     {
+      "id": "67c0dbdc21f2",
+      "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+      "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+      "summary": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-11-16T12:30:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/dreamteam-co-founders.jpg?resize=1200,800",
+      "score": 80,
+      "tags": []
+    },
+    {
       "id": "74c2539a1974",
       "title": "Apple launches new app to study how people use AI for health",
       "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
@@ -9,7 +21,7 @@
       "category": "AI",
       "published": "2026-11-16T01:30:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/Apple-Health-AI-Usage-Study.jpg?resize=1200,800",
-      "score": 85,
+      "score": 80,
       "tags": []
     },
     {
@@ -25,31 +37,55 @@
       "tags": []
     },
     {
-      "id": "22756b577313",
-      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
-      "summary": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "id": "da8f0a44e2fb",
+      "title": "Bedrock Energy raises $24M to build more AI-enabled geothermal drill rigs for enterprise buildings",
+      "url": "https://techcrunch.com/2026/11/16/bedrock-energy-raises-24m-to-build-more-ai-enabled-geothermal-drill-rigs-for-enterprise-buildings/",
+      "summary": "Bedrock Energy raises $24M to build more AI-enabled geothermal drill rigs for enterprise buildings",
       "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-11-15T23:30:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/bharat-semi-co-founders-vinayak-dalmia-vrinda-kapoor.jpg?resize=1200,800",
+      "published": "2026-11-16T13:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/12/GettyImages-2283442251.jpg?resize=1200,774",
       "score": 70,
       "tags": []
     },
     {
-      "id": "6d045c77a9be",
-      "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
-      "url": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
-      "summary": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
+      "id": "2b29f5d35738",
+      "title": "Helsing backer Plural raises $1.1B to fund Europe&#8217;s next moonshots",
+      "url": "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/",
+      "summary": "Helsing backer Plural raises $1。1B to fund Europe&#8217;s next moonshots",
       "source": "TechCrunch",
       "category": "AI",
-      "published": "2026-11-15T18:29:14.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-601797365.jpg?resize=1200,800",
-      "score": 60,
+      "published": "2026-11-16T07:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Plural-Partner-Photo-Fund-III.jpg?resize=1200,800",
+      "score": 70,
       "tags": []
     }
   ],
   "科技": [
+    {
+      "id": "394a8c508295",
+      "title": "After dodging death, battery startup Our Next Energy is now going public",
+      "url": "https://techcrunch.com/2026/11/16/after-dodging-death-battery-startup-our-next-energy-is-now-going-public/",
+      "summary": "After dodging death, battery startup Our Next Energy is now going public",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-16T13:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/09/ONE-Anode-Free-Cell-Technology-prismatic.jpg?resize=1200,800",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "564445943c98",
+      "title": "Zoox robotaxis are now on the Uber app in Las Vegas",
+      "url": "https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas/",
+      "summary": "Zoox robotaxis are now on the Uber app in Las Vegas",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-16T12:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/zoox-uber.jpg?resize=1200,801",
+      "score": 75,
+      "tags": []
+    },
     {
       "id": "a63866f99390",
       "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
@@ -63,52 +99,22 @@
       "tags": []
     },
     {
-      "id": "fa17e3f1ecbd",
-      "title": "The tech products we enthusiastically recommend this holiday season",
-      "url": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/",
-      "summary": "The tech products we enthusiastically recommend this holiday season",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-15T16:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-1350065490.jpg?resize=1200,800",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "0cbac1debe31",
-      "title": "Where was Nvidia&#8217;s security team?",
-      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-      "summary": "Where was Nvidia&#8217;s security team",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-15T00:08:07.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-1.jpg?w=1024",
-      "score": 65,
-      "tags": []
-    },
-    {
       "id": "0b239a8f1e5a",
       "title": "TechCrunch Mobility: The Nvidia backup plan for China&#8217;s self-driving industry",
       "url": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/",
-      "summary": "TechCrunch Mobility: The Nvidia backup plan for China&#8217;s self-driving industry",
       "source": "TechCrunch",
       "category": "科技",
       "published": "2026-11-15T17:05:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Pony-AI.jpg?w=1024",
-      "score": 60,
-      "tags": []
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Pony-AI.jpg?w=1024"
     },
     {
-      "id": "7502b262d99d",
-      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-      "summary": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "id": "fa17e3f1ecbd",
+      "title": "The tech products we enthusiastically recommend this holiday season",
+      "url": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/",
       "source": "TechCrunch",
       "category": "科技",
-      "published": "2026-11-14T21:41:22.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024",
-      "score": 55,
-      "tags": []
+      "published": "2026-11-15T16:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-1350065490.jpg?resize=1200,800"
     }
   ],
   "就业": [
@@ -137,88 +143,64 @@
       "tags": []
     },
     {
-      "id": "48e8bb9f9c46",
-      "title": "秋招启动不久已有学生先“上岸”，他们各有啥秘诀？",
-      "url": "https://www.msn.cn/zh-cn/技术/人工智能/秋招启动不久已有学生先-上岸-他们各有啥秘诀/ar-AA2hb0B6",
-      "summary": "正值秋招季，2027届高校毕业生就业迎来新变化：AI（人工智能）技术全面渗透招聘流程，“00后”择业观跳出传统赛道，高校也从“办招聘会”转向全链条赋能。北京日报客户端记者采访发现，秋招启动不久就已有学",
-      "source": "Bing·秋招",
+      "id": "f4c3ce7ed668",
+      "title": "前端岗位一年减少51%，FDE暴涨4.6倍：AI没有赶走工程师，却正在拆掉 ...",
+      "url": "https://www.sohu.com/a/1100186883_115128",
+      "summary": "AI 到底会先替代谁。 过去两年，人们反复讨论程序员、产品经理和设计师谁会最先受到冲击",
+      "source": "就业报告",
       "category": "就业",
-      "published": "2026-11-11T05:42:00.000Z",
-      "image": "",
+      "published": "2026-11-11T08:30:00.000Z",
+      "image": "https://q9.itc.cn/q_70/images03/20261111/f6b72d0aae1d4b949235dfd3e1793fe3.png",
       "score": 60,
       "tags": []
     },
     {
-      "id": "eaca4d13f38e",
-      "title": "[香港招聘] AI Agent 開發工程師 | 港币 25K-35K/月",
-      "url": "https://www.v2ex.com/t/1255630#reply21",
-      "summary": "[香港招聘] AI Agent 開發工程師 | 港币 25K-35K/月",
-      "source": "V2EX·招聘",
+      "id": "4cc46aca7d5c",
+      "title": "AI 低代码重构前端开发，11 月技术选型大洗牌",
+      "url": "https://www.sohu.com/a/1092855946_120620706",
+      "summary": "权威信号落地，往往比技术本身更能扰动市场。 2026 年 9 月底，Gartner 接连发布了两份与 AI 低代码直接相关的报告——《AI 增强低代码应用平台魔力象限》和配套的《关键能力》研究",
+      "source": "前端开发·就业分析",
       "category": "就业",
-      "published": "2026-11-09T09:45:50.000Z",
-      "image": "https://cdn.v2ex.com/gravatar/8ffca9dadfaa88224e8ef4b794368c03?s=73&d=retro",
+      "published": "2026-10-26T09:14:00.000Z",
+      "image": "//q1.itc.cn/images01/20261026/8eb9863287b047fc862126ea56b27394.png",
       "score": 60,
       "tags": []
     },
     {
-      "id": "1e2498f15375",
-      "title": "智联招聘CTO王昊曾是B站副总裁 刚推出的AI全流程托管安全吗？",
-      "url": "https://finance.sina.com.cn/jjxw/2026-11-04/doc-inixqaay1661218.shtml",
-      "summary": "智联招聘近日发布报告，披露了各行业招聘岗位增速相关数据，运营商财经网由此注意到智联招聘任职四年的CTO王昊。 王昊，2008年硕士毕业后加入百度，是百度搜索体系培养出来的技术管理者，天眼查显示他曾担任",
-      "source": "智联招聘",
+      "id": "cbc807bf7dc8",
+      "title": "AI 产品经理岗卷出新高度？本周六职计划拆解 6 大核心能力",
+      "url": "https://finance.ifeng.com/c/8xQw55KXPfK",
+      "summary": "秋招进入收尾阶段，AI产品经理仍是最炙手可热的岗位之一。行业调研显示，2026年传统产品经理岗位同比下滑42%，而AI产品经理岗位需求量暴涨455%，应届生年薪普遍30万至50万元",
+      "source": "产品经理·就业分析",
       "category": "就业",
-      "published": "2026-11-03T23:06:00.000Z",
-      "image": "//n.sinaimg.cn/spider20261104/75/w550h325/20261104/018c-8802d385cc086c85415b430fd04f9e8f.jpg",
+      "published": "2026-10-22T10:06:00.000Z",
+      "image": "https://x0.ifengimg.com/ucms/2026_43/62E44CDB052047FC3CC1B6249B6E1C6D640DEF8D_size69_w650_h365.jpg",
       "score": 60,
       "tags": []
     }
   ],
   "开发": [
     {
-      "id": "129d4dd25064",
-      "title": "GFlow：面向游戏设计的多 Agent 协作与验证实践｜AICon北京",
-      "url": "https://www.infoq.cn/article/dkQAAL0SSdhIq1h61eKx?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/dkQAAL0SSdhIq1h61eKx",
+      "id": "c7fbbeca2350",
+      "title": "从提效到扩能：AI 驱动小团队的能力突破与组织演进｜AICon北京",
+      "url": "https://www.infoq.cn/article/eTz8pt2LoALMvzvxj4aa?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/eTz8pt2LoALMvzvxj4aa",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-11-13T10:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/28/e0/285bf985da825d57d75ac729f87da7e0.jpg",
+      "published": "2026-11-14T10:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/52/53/52c371d1b2704f04036176ed47f7ee53.jpg",
       "score": 60,
       "tags": []
     },
     {
-      "id": "61ec315a23c5",
-      "title": "从快速部署到记忆共享，数据库如何支撑 Agent 应用？",
-      "url": "https://www.infoq.cn/video/FwbOyyfoAmkQPMTItMDN?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/video/FwbOyyfoAmkQPMTItMDN",
+      "id": "4d9f6cf94aea",
+      "title": "AI 自动写 PR，模型反而最简单：Inkitt 如何应对 Webhook 重复、CI 失败与合并冲突",
+      "url": "https://www.infoq.cn/article/YRXscVHsTh0g6CVCJJ0D?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/YRXscVHsTh0g6CVCJJ0D",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-11-13T20:54:12.000Z",
-      "image": "https://static001.geekbang.org/static/infoq/img/infoq_icon.jpg",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "426383c41220",
-      "title": "智能互动 Agent 在快手商业场景的落地实践",
-      "url": "https://www.infoq.cn/article/e0aglHW78pZuik3CWqdo?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/e0aglHW78pZuik3CWqdo",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-13T19:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/c2/b3/c2f47c80b62f6a5f336355c18dbd4eb3.jpg",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "f8b943322b11",
-      "title": "容器隔离还不够：Edera 从虚拟机监控器层限制 AI 智能体",
-      "url": "https://www.infoq.cn/article/MU0txcPXXuGdGKBNa6a2?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/MU0txcPXXuGdGKBNa6a2",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-13T17:06:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/f0/0c/f0b47280cfe735ayy898ca1590d4a90c.jpg",
+      "published": "2026-11-14T10:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/31/c4/31c571ccea0c2eb804abe89ecaf906c4.jpg",
       "score": 55,
       "tags": []
     },
@@ -233,6 +215,24 @@
       "image": "",
       "score": 55,
       "tags": []
+    },
+    {
+      "id": "52ddf417e4e8",
+      "title": "从自动扩缩容到跨池调度：作业帮如何让 Flink 计算资源节省 30%？",
+      "url": "https://www.infoq.cn/article/UTrbuCiAG5H9TiqcwgxI?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-16T18:01:06.000Z",
+      "image": "https://static001.infoq.cn/resource/image/9e/26/9e571f4798853736d65a7581d1df5d26.png"
+    },
+    {
+      "id": "e8d8319fd1f0",
+      "title": "亚马逊云科技为EventBridge推出增强型自定义事件总线",
+      "url": "https://www.infoq.cn/article/J4MJLMWsGagkT3eRVSJQ?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-16T17:36:39.000Z",
+      "image": "https://static001.infoq.cn/resource/image/9e/c0/9eebadc87d29950df1415860376cb2c0.jpg"
     }
   ],
   "社会": [
@@ -299,17 +299,6 @@
   ],
   "政策": [
     {
-      "id": "ed0822808f9b",
-      "title": "温州发布专项政策指南 为残疾人大学生就业创业“撑腰”",
-      "url": "https://news.66wz.com/system/2026/07/16/105805829.shtml",
-      "summary": "市人社局与市残联携手对现行最实用、最优惠的就创业补贴政策进行全面梳理，并形成《温州市残疾人大学生就业创业政策指南》，助力这一特殊群体跨越障碍，实现更加充分、更高质量的就业和创业。 温州网讯 为支持更多",
-      "source": "就业创业政策",
-      "category": "政策",
-      "published": "2026-07-16T01:51:00.000Z",
-      "score": 55,
-      "tags": []
-    },
-    {
       "id": "e6c32086fd86",
       "title": "最高可贷50万元，湖南优化政策为大学生创业送上金融“活水”",
       "url": "https://edu.rednet.cn/content/646043/52/16288673.html",
@@ -317,7 +306,6 @@
       "source": "就业创业政策",
       "category": "政策",
       "published": "2026-09-18T01:57:00.000Z",
-      "image": "",
       "score": 55,
       "tags": []
     },
@@ -356,52 +344,64 @@
       "image": "//n.sinaimg.cn/front20261114ac/224/w1280h544/20261114/4b08-d0754375e46126b801f26fdfed184b80.jpg",
       "score": 50,
       "tags": []
+    },
+    {
+      "id": "3f3efb5d58aa",
+      "title": "我市发放1600多万元补贴助力高校毕业生求职创业",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-13/doc-iniypzqc1061021.shtml",
+      "summary": "11月10日，崇左市人力资源和社会保障局召开2027届高校毕业生一次性求职创业补贴发放工作协调会，围绕补贴发放、审核流程等事项沟通交流，细化工作举措，推动就业惠民政策落地落细。 高校毕业生一次性求职创",
+      "source": "Bing·高校毕业生就业创业政策",
+      "category": "政策",
+      "published": "2026-11-12T16:00:00.000Z",
+      "image": "//n.sinaimg.cn/front20261113ac/280/w140h140/20261113/ee30-30438defc9e6b6b23ee9957bf2933e0b.jpg",
+      "score": 50,
+      "tags": []
     }
   ],
   "财经": [
     {
-      "id": "a805bca7ecae",
-      "title": "Token首次走进直播间 如何管住AI解决问题的能力？",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732705.shtml",
+      "id": "a823b42e9e07",
+      "title": "宠物消费市场稳步扩容 专家共话规范产业发展新路径",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-16/10733089.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-16T04:15:21.000Z",
+      "published": "2026-11-16T13:27:13.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "811060177669",
-      "title": "从“速度竞赛”转向“价值深耕” 小零食何以做出大声量",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732703.shtml",
+      "id": "187f5f214c63",
+      "title": "中国证监会召开国际顾问委员会第23次会议",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-16/10733088.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-16T04:09:51.000Z",
+      "published": "2026-11-16T13:25:43.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "65c1796b57bb",
-      "title": "中国与东盟宣布将2027年定为人工智能合作年",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732701.shtml",
+      "id": "828d17d31b69",
+      "title": "浙江夯实算力底座 以AI赋能千行百业",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-16/10733087.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-16T03:57:48.000Z",
+      "published": "2026-11-16T13:22:51.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "35feb20464dd",
-      "title": "中国－东盟自贸区3.0版升级议定书将于2026年12月1日生效",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732698.shtml",
+      "id": "3bc965102eba",
+      "title": "中国成功连任国际电信联盟理事国",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-16/10733083.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-16T03:53:44.000Z",
+      "published": "2026-11-16T13:21:47.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "1981281a24e9",
-      "title": "A股午评：超3500只个股飘绿，三大指数集体收跌",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732697.shtml",
+      "id": "104984c30836",
+      "title": "四川新能源汽车及动力电池产业链前三季度营收超5000亿元",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-16/10733078.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-16T03:48:18.000Z",
+      "published": "2026-11-16T13:11:24.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]

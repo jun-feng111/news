@@ -1,0 +1,7 @@
+{
+  "id": "d341e6ae0223",
+  "title": "腾讯混元发布Hy4 flash，单任务成本仅为 Hy4 的 5%",
+  "url": "https://www.infoq.cn/article/ejVJGwMvIIvplY8yio5r?utm_source=rss&amp;utm_medium=article",
+  "contentZh": "",
+  "contentFull": "11 月 16 日，腾讯混元最新语言模型 Hy4 flash 发布，模型总参数量为 224B（其中 64B Engram 参数），激活参数仅为 12B，支持多模态和 1M 上下文长度。Hy4 flash 是迄今为止最高性价比的 Hy 模型：每百万 Token 输入 0.5 元、输出 2 元，命中缓存时仅需 0.02  元，价格相比 Hy4 大幅降低。为了达到极致的性价比，同时兼顾智能水平和实用性，混元团队做了一系列工作：在预训练阶段，Hy4 flash 加入了混合注意力、LatentMoE、Engram 等架构特性，KV cache 大小仅为 Hy3 的 1/24、Hy4 的 1/6，且通过大量 scaling ladder 实验确保效果符合预期。在后训练阶段，通过自蒸馏 Hy4 获得了较强的综合智能水平，再通过强化学习使端到端任务输出长度降低 50%。在评估阶段，构建基于 WorkBuddy 典型任务的内部评测集 WorkIndex，并结合人评，聚焦日常工作的产物效果、单轮输出长度、端到端用时，而非远离日常工作的公开榜单分数。在推理阶段，结合 megakernel、4bit 量化、DFly 等手段极致优化，使 Hy4 flash 解码速度超过 150 tps，且可以大规模低成本部署运营。最终，Hy4 flash 在综合效果上略优于更大参数的 Hy4 preview（总参数为 770B，激活参数 49B），但成本显著降低。按内部评测集 WorkIndex（覆盖 PPT 制作与修改、文档编辑、表格修复、音视频处理及视觉理解等 WorkBuddy 典型任务）综合测算，Hy4 flash 单任务成本仅为 Hy4 preview 的 1/13、Hy4 的 1/20、DeepSeek-V4.1-Flash-1027（Max 档位，忙时价格）的 1/8。腾讯内部 85 位 WorkBuddy 用户盲测体验显示，在 27 类共 259 个任务中，Hy4 flash 的用户满意度接近 Claude Haiku 5.5，且单任务成本显著低于其他所有模型，任务时长也最短。目前，Hy4 flash 已在腾讯云 TokenHub、WorkBuddy、元宝、企业微信、QQ、ima、Marvis 等产品上线，即将接入 OpenRouter。11 月 30 日前，用户可在 WorkBuddy 限时免费使用，腾讯云 TokenHub API 限时 5 折使用。官方表示，腾讯混元始终以“模型实用性”为核心原则，在不断追求智能上限的同时，追求极致性价比。11 月 4 日发布的 Hy4 首次跻身最强开源模型之列，在国际权威模型测试榜单 Artificial Analysis 智能指数榜单上位列中国模型第二，Agent Arena 榜单居开源模型第一。此次发布 Hy4 flash 则在真实生产力任务中实现了智能和效率的更优平衡。混元团队表示，推荐用户在深度搜索、文档处理、PPT 生成、简单前端展示、Computer Use 等大部分日常任务中使用 Hy4 flash，在长程软件工程等复杂任务中使用智能上限更高的 Hy4。同时，混元计划开源 Hy4 flash 并高频迭代，不断提升真实工作的实用性和效率。"
+}
