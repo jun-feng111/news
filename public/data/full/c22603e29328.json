@@ -1,0 +1,7 @@
+{
+  "id": "c22603e29328",
+  "title": "17. a=b=5 谁的值变了？赋值运算符实战详解 - 老陈说编程",
+  "url": "https://www.cnblogs.com/halfcode/p/23692312",
+  "contentZh": "",
+  "contentFull": "\n等号\n最基本的赋值就是 =。右边算出一个值，放进左边的变量。\n动画视频在《a=b=5 谁的值变了？赋值运算符实战详解》。\n\nlet name: string = 'Cool';\nlet age: number = 18;\nconsole.log(name, age);\n\n连续赋值写成 x = y = 5。等号从右边算：先做 y = 5，再把这个 5 交给 x。两个变量都是 5。\n\nlet x: number;\nlet y: number;\nx = y = 5;\nconsole.log('x =', x, 'y =', y);\n\n\n 这样写能跑。要看清楚，就分开写成两行。\n\nlet x: number = 5;\nlet y: number = 5;\nconsole.log('x =', x, 'y =', y);\n\n先开启预览器，再打开日志面板，按 Ctrl + S 保存，才能看到输出。后面的 console.log 也一样。\n复合赋值\nnum = num + 5 写起来长。+=、-=、*=、/=、%=、**= 把运算和赋值合成一步。num += 5 就是 num = num + 5。\n\nlet num: number = 10;\nnum += 5;\nconsole.log('+= 5 后:', num);\nnum -= 3;\nconsole.log('-= 3 后:', num);\nnum *= 2;\nconsole.log('*= 2 后:', num);\nnum /= 4;\nconsole.log('/= 4 后:', num);\nnum %= 5;\nconsole.log('%= 5 后:', num);\n\n\n **= 是先做乘方，再赋回去。2 **= 3 就是 2 的 3 次方，得到 8。\n\nlet p: number = 2;\np **= 3;\nconsole.log('**= 3 后:', p);\n\n复合赋值的右边会先算完。v *= 3 + 1 不是先乘 3 再加 1。3 加 1 先得到 4，再用原来的 2 去乘 4，结果是 8。\n\nlet v: number = 2;\nv *= 3 + 1;\nconsole.log('v *= 3 + 1 的结果:', v);\n\n拿不准运算顺序，就加上括号。写出来和上面是同一个 8。\n\nlet v2: number = 2;\nv2 *= (3 + 1);\nconsole.log('v2 *= (3 + 1) 的结果:', v2);\n\n好了，赋值运算符讲完了，点赞关注不迷路！\n\n"
+}
