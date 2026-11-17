@@ -1,0 +1,7 @@
+{
+  "id": "fa72fa6aae05",
+  "title": "Leapwork Play 正式发布，提供面向 Playwright 测试的治理功能",
+  "url": "https://www.infoq.cn/article/3Aj3oiC9o6osKEW5X2sR?utm_source=rss&amp;utm_medium=article",
+  "contentZh": "",
+  "contentFull": "Leapwork 于 2026 年 9 月 30 日正式向管理 Playwright 测试套件的团队开放了 Play 服务。该服务为标准 Playwright 代码增加了需求可追溯性和审批工作流。团队可以在现有的持续集成（CI）管道中运行这些代码，也可以通过 Leapwork 的托管执行服务运行。Leapwork 在公告中表示，Play 可以原样导入现有的 Playwright 测试套件。工程师可以连接 Jira 和 Git 仓库以及产品文档，构建知识库，为生成的测试提供上下文信息。他们还可以录制浏览器操作流程，并将录屏内容转换为测试用例。Leapwork 表示，Play 会监控已连接的代码仓库，检测可能改变应用程序行为或界面的推送操作，随后推荐相应的测试更新。此外，其产品页面还介绍了一项“自愈”功能。该功能可以在测试步骤出现故障时进行修复，而非直接让测试运行失败。不过现有的公开资料并未说明，团队是否可以设置强制审批流程，要求定位器修复操作必须经过人工确认才能生效，也未说明此类修复如何记录在审计日志中。对于需要审查测试变更的团队，Play 会将每个测试与源头的需求、工单或文档建立关联。Leapwork 表示，该服务会保留测试编写历史和审批记录，以及完整的执行日志。团队可以将其导出作为证据。该服务还会报告不稳定的测试以及跨应用程序或团队的测试覆盖率。基于角色的权限和审批工作流可以控制谁可以创建和运行测试。Leapwork 的企业版套餐包含完整的治理、安全和审计功能，但该公告并未明确说明免费套餐中具体提供了哪些控制功能。Leapwork 开发者关系副总裁 Donovan Brady 在公告中描述了这一管理难题：“目前，阻碍企业团队效率的因素主要是追溯测试来源，以及在测试生成后管理数十个团队中成千上万个测试用例。”团队还可以通过基于 Model Context Protocol（MCP）服务器的 AI 编码助手来运行 Play。根据 Leapwork 产品页面的介绍，可以将 Claude Code、Codex 和 Cursor 作为客户端，而其托管执行是基于 Chromium 的。Leapwork 表示，其托管服务可以并行运行测试套件，包括环境和测试数据管理。开源的 Playwright 已通过 Trace Viewer 提供了故障诊断功能，包括操作详情、网络请求和屏幕截图。这些功能有助于工程师排查单次运行的问题；而 Play 的优势在于能够跨团队集中管理测试溯源和审批流程。声明：本文为 InfoQ 翻译，未经许可禁止转载。原文链接：https://www.infoq.com/news/2026/11/leapwork-play-playwright/"
+}
