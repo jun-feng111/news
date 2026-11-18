@@ -1,6 +1,30 @@
 {
   "科技": [
     {
+      "id": "1bbe22dae05f",
+      "title": "Nvidia promises that revenue will keep soaring — for now",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+      "summary": "Nvidia promises that revenue will keep soaring — for now",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-18T00:16:50.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-157503102.jpg?resize=1200,776",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "eef1411c3f55",
+      "title": "Stripe backer Atomico calls for Europe to own its success stories",
+      "url": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/",
+      "summary": "Stripe backer Atomico calls for Europe to own its success stories",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-18T00:01:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Tom-Wehmeier-Atomico.jpg?resize=1200,800",
+      "score": 70,
+      "tags": []
+    },
+    {
       "id": "a91e4c81d566",
       "title": "Nvidia is abandoning China after Jensen Huang&#8217;s ouster",
       "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
@@ -9,7 +33,7 @@
       "category": "科技",
       "published": "2026-11-17T23:37:48.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-getty.jpg?resize=1200,781",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -21,7 +45,7 @@
       "category": "科技",
       "published": "2026-11-17T22:42:27.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-nvidia.jpg?w=1024",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -33,59 +57,11 @@
       "category": "科技",
       "published": "2026-11-17T22:29:05.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1415078085.jpg?resize=1200,721",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "50f33a0b8068",
-      "title": "SEC reportedly investigating Nvidia amid Huang exit",
-      "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
-      "summary": "SEC reportedly investigating Nvidia amid Huang exit",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-17T21:48:07.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "cb376b92586c",
-      "title": "Google joins the tech outage trend by announcing it&#8217;s not having one",
-      "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
-      "summary": "Google joins the tech outage trend by announcing it&#8217;s not having one",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-17T21:34:50.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=1200,675",
-      "score": 75,
+      "score": 70,
       "tags": []
     }
   ],
   "AI": [
-    {
-      "id": "4744f1cb7fc5",
-      "title": "Model ML raises $250M to automate investment banking grunt work",
-      "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
-      "summary": "Model ML raises $250M to automate investment banking grunt work",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-11-17T19:32:11.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1283692332.jpg?resize=1200,633",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "8668252c7cb1",
-      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
-      "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
-      "summary": "Google expands access to Gemini Tasks, which can help with calls, purchases",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-11-17T19:02:20.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
-      "score": 75,
-      "tags": []
-    },
     {
       "id": "74fa1f5e6e2f",
       "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang&#8217;s exit",
@@ -95,7 +71,7 @@
       "category": "AI",
       "published": "2026-11-17T23:04:35.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2290097570.jpg?w=1024",
-      "score": 70,
+      "score": 65,
       "tags": []
     }
   ],
@@ -110,18 +86,6 @@
       "published": "2026-09-03T03:36:00.000Z",
       "image": "https://img3.chinadaily.com.cn/static/2024cn_articleandcolumn/img/Mobile/Artical_Share_Icon1.png",
       "score": 65,
-      "tags": []
-    },
-    {
-      "id": "48e8bb9f9c46",
-      "title": "秋招启动不久已有学生先“上岸”，他们各有啥秘诀？",
-      "url": "https://www.msn.cn/zh-cn/技术/人工智能/秋招启动不久已有学生先-上岸-他们各有啥秘诀/ar-AA2hb0B6",
-      "summary": "正值秋招季，2027届高校毕业生就业迎来新变化：AI（人工智能）技术全面渗透招聘流程，“00后”择业观跳出传统赛道，高校也从“办招聘会”转向全链条赋能。北京日报客户端记者采访发现，秋招启动不久就已有学",
-      "source": "Bing·秋招",
-      "category": "就业",
-      "published": "2026-11-11T05:42:00.000Z",
-      "image": "",
-      "score": 60,
       "tags": []
     },
     {
@@ -157,6 +121,18 @@
       "category": "就业",
       "published": "2026-10-26T09:14:00.000Z",
       "image": "//q1.itc.cn/images01/20261026/8eb9863287b047fc862126ea56b27394.png",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "cbc807bf7dc8",
+      "title": "AI 产品经理岗卷出新高度？本周六职计划拆解 6 大核心能力",
+      "url": "https://finance.ifeng.com/c/8xQw55KXPfK",
+      "summary": "秋招进入收尾阶段，AI产品经理仍是最炙手可热的岗位之一。行业调研显示，2026年传统产品经理岗位同比下滑42%，而AI产品经理岗位需求量暴涨455%，应届生年薪普遍30万至50万元",
+      "source": "产品经理·就业分析",
+      "category": "就业",
+      "published": "2026-10-22T10:06:00.000Z",
+      "image": "https://x0.ifengimg.com/ucms/2026_43/62E44CDB052047FC3CC1B6249B6E1C6D640DEF8D_size69_w650_h365.jpg",
       "score": 60,
       "tags": []
     }
@@ -211,13 +187,13 @@
       "tags": []
     },
     {
-      "id": "23d9a5d4e2c3",
-      "title": "今年中文水平考试考生人数首破百万人次",
-      "url": "https://www.chinanews.com.cn/edu/2026/11-15/10732224.shtml",
-      "summary": "11月13日至15日，2026世界中文大会在北京举行，来自160多个国家和地区的约5000名代表参会。记者从大会获悉，今年中文水平考试(HSK)考生人数首次突破100万人次",
+      "id": "3c39ffaf4b0e",
+      "title": "AI来到教学一线，如何帮助教师轻装上阵？",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-16/10732614.shtml",
+      "summary": "原标题：AI帮助教师轻装上阵",
       "source": "中新网教育",
       "category": "社会",
-      "published": "2026-11-15T00:40:17.000Z",
+      "published": "2026-11-16T01:59:56.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 45,
       "tags": []
@@ -299,86 +275,86 @@
       "tags": []
     },
     {
-      "id": "5cb2df34d9b1",
-      "title": "面向多智能体应用的大模型推理调度与缓存优化｜AICon北京",
-      "url": "https://www.infoq.cn/article/X8xujm6xovp7z2YzWbpM?utm_source=rss&amp;utm_medium=article",
+      "id": "bab0cc7bb625",
+      "title": "800 个 MCP Server、5000 个工具，AI 智能体的“微服务危机”来了",
+      "url": "https://www.infoq.cn/article/FrDlAvNIwkr8ttdvWMCC?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-11-17T18:53:07.000Z",
-      "image": "https://static001.infoq.cn/resource/image/ca/01/ca49590fd7a410c61e96c14862dfe401.png"
+      "published": "2026-11-18T14:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/32/4f/328d6b9cb0378b88870da5d07b7b4f4f.png"
     },
     {
-      "id": "b0c33fca210e",
-      "title": "Varlock 发布了 Bumpy：一种基于文件、可替代 Changesets 的版本控制方案",
-      "url": "https://www.infoq.cn/article/SR3rNIg8NsPC3tWq48EM?utm_source=rss&amp;utm_medium=article",
+      "id": "ba9938de8095",
+      "title": "基于昇腾算力的大模型推理加速研究与实践｜AICon北京",
+      "url": "https://www.infoq.cn/article/NbShAFtZqRSsFrsVu6aj?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-11-17T16:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/4f/1f/4fab4de4b8195c473ff866dd209ae91f.jpg"
+      "published": "2026-11-18T14:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/d6/6c/d6b851fb42c4e6ae44e25ae79d48676c.png"
     },
     {
-      "id": "8edc9230f419",
-      "title": "“AI生成的代码必须开源！”开发者吵翻了，被开源代码喂大的Anthropic怕是第一个不同意",
-      "url": "https://www.infoq.cn/article/m5arrx8021zHVI0ybFtI?utm_source=rss&amp;utm_medium=article",
+      "id": "5b170076ecef",
+      "title": "纳德拉回应微软首次给工程师发“离场费”：Claude Code 让微软措手不及，二十年 IDE 优势半年动摇",
+      "url": "https://www.infoq.cn/article/zUC0vHq9xm3BFHSqQlw3?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-11-17T15:09:45.000Z",
-      "image": "https://static001.infoq.cn/resource/image/b8/14/b8ef952yy13cddf4c9f2222eb769e314.png"
+      "published": "2026-11-18T13:55:35.000Z",
+      "image": "https://static001.infoq.cn/resource/image/d0/e8/d093313cf8f6a258f1ac83a8d9ed6ce8.png"
     },
     {
-      "id": "bcc6586b8796",
-      "title": "Agent演示惊艳，一进生产就不好用：SAP直指企业AI落地的最大幻觉",
-      "url": "https://www.infoq.cn/article/AsfcqUsutpSlPIBE1ok9?utm_source=rss&amp;utm_medium=article",
+      "id": "615099296e74",
+      "title": "“绝不愿再创办一次英伟达！”黄仁勋亲述创业33年背后的代价",
+      "url": "https://www.infoq.cn/article/e7Gtfwy4TI26o5elxRwT?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-11-17T15:00:05.000Z",
-      "image": "https://static001.infoq.cn/resource/image/40/b3/40cd121684a05763b3de7dd1fc0650b3.png"
+      "published": "2026-11-18T13:50:15.000Z",
+      "image": "https://static001.infoq.cn/resource/image/33/fd/3366f8c9537908d588288971e99f6efd.png"
     }
   ],
   "财经": [
     {
-      "id": "e3ad05b5a4f4",
-      "title": "出国干工程 未来五年，我国工程师这样“走出去”",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-18/10733842.shtml",
+      "id": "eba6b4017f7b",
+      "title": "一批台湾南部渔产品进入北京市场",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-18/10733997.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-17T23:41:04.000Z",
+      "published": "2026-11-18T05:56:16.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "724f7da57d3e",
-      "title": "新国货品牌，从“看见”到“记住”",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-18/10733836.shtml",
+      "id": "2e3b6e2ebcfe",
+      "title": "从消费到退税 深圳涉外支付越来越便利",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734036.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-17T23:38:14.000Z",
+      "published": "2026-11-18T05:50:24.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "653b813ab444",
-      "title": "新型电网，新在哪？",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-18/10733835.shtml",
+      "id": "84071e9dc7b1",
+      "title": "前10个月西部陆海新通道沿线经通道进出口超8700亿元",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734031.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-17T23:36:50.000Z",
+      "published": "2026-11-18T05:48:34.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "6524968d5c24",
-      "title": "从1.0到3.0 中国—东盟自贸区“升级包”带来哪些商机",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-18/10733820.shtml",
+      "id": "eba597cc40ed",
+      "title": "一张收款码，如何让小店接住国际客流？",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-18/10734000.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-17T22:12:05.000Z",
+      "published": "2026-11-18T04:57:09.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "89827e5b02d4",
-      "title": "（深圳APEC）1500把椅子的“亚太时刻”",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-17/10733795.shtml",
+      "id": "7125507ddb1e",
+      "title": "监管要求基金公司上报全部产品AI敞口？证监会：不属实",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-18/10733990.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-17T15:56:32.000Z",
+      "published": "2026-11-18T04:32:50.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]

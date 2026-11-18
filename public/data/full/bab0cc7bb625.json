@@ -1,0 +1,7 @@
+{
+  "id": "bab0cc7bb625",
+  "title": "800 个 MCP Server、5000 个工具，AI 智能体的“微服务危机”来了",
+  "url": "https://www.infoq.cn/article/FrDlAvNIwkr8ttdvWMCC?utm_source=rss&amp;utm_medium=article",
+  "contentZh": "",
+  "contentFull": "随着 AI 智能体在公司内部得到广泛采用，Uber 构建了一套 MCP Gateway，用于规范智能体发现和调用内部服务的方式，以解决集成碎片化、基础设施重复建设和安全实践不一致等问题。该平台支持 800 多个 MCP 服务器和 5000 多个工具，为服务发现、协议转换、授权和执行提供统一层。Uber 工程师将该方案描述为一种微服务架构，可以将现有 API 公开为 MCP 工具，而无需修改底层服务。整个架构将作为控制平面的 MCP Registry 与负责运行时执行的 Proxy Gateway 分离。Registry 维护工具定义、Schema、所有权和启用设置；Proxy 则将 MCP 请求转换为 HTTP、gRPC 或 TChannel 调用，再将响应转换回兼容 MCP 的结果。该架构被拿来与成熟的 API 网关模式比较。Microsoft CoreAI 首席软件工程师 Ajay Sharma 在一篇 LinkedIn 帖子中回复：Azure API Gateway 早就在做这件事了。这是一套将大语言模型带来的混乱重新整理为秩序的方法。Pipe17 总裁 Kelly Goetsch 也在一篇 LinkedIn 帖子中指出：Uber 的新 MCP 网关，看起来与过去几十年里我们为 API、后来又为 GraphQL 构建的网关完全相同。Tamir Dresher 在一篇 LinkedIn 帖子中强调，安全、服务发现、可观测性和治理等传统分布式系统问题，在今天仍然具有重要意义。Uber 的 AutoCrawler 使用 Cadence 自动发现工具。它会扫描内部接口定义语言（IDL）注册表，从 Protocol Buffers 和 Thrift Schema 中提取 API 定义，随后生成兼容 MCP 的 Schema，并使用大语言模型生成工具描述。新发现的工具默认保持禁用状态，直到其所属团队完成审核并明确启用。配置变更可以直接传播到数据平面，无需重启服务或重新部署。该网关通过 Uber 内部访问控制系统，在服务器和工具两个层级执行授权。它还支持对工具响应中的个人身份信息（PII）和其他敏感数据进行脱敏。对于 Jira 和 Google 等第三方集成，一项独立服务会将内部用户 Token 交换为相应的第三方身份验证 Token。随着工具目录不断扩张，将数千个工具的定义全部载入智能体上下文会变得低效。Uber 为此开发了 Omni MCP，支持渐进式发现，让智能体能够搜索服务器、发现相关工具、获取单个 Schema，并按需调用选定的工具。Response Projection 则允许智能体指定需要的响应字段，而不必接收完整载荷。Uber 的 aifx 命令行界面也支持编码智能体发现和调用工具，并将结果写入文件，以便选择性查看。原文链接：https://www.infoq.com/news/2026/11/uber-mcp-gateway-ai-agents/"
+}
