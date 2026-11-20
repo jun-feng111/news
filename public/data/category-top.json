@@ -1,6 +1,18 @@
 {
   "AI": [
     {
+      "id": "a2263c052fc4",
+      "title": "Six AI-powered gadgets that could make your home office smarter",
+      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+      "summary": "Six AI-powered gadgets that could make your home office smarter",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-11-20T14:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1348850409.jpg?resize=1200,800",
+      "score": 80,
+      "tags": []
+    },
+    {
       "id": "15417601d21a",
       "title": "Apple may be developing its own AI agent that runs your Mac",
       "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
@@ -9,18 +21,6 @@
       "category": "AI",
       "published": "2026-11-20T00:56:01.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/06/iphone-usb-cable.jpg?resize=1200,800",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "74e8068d1097",
-      "title": "These tech outages are giving Y2K, AI agent style",
-      "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
-      "summary": "These tech outages are giving Y2K, AI agent style",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-11-19T21:42:31.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Muharrem-huner.jpg?resize=1200,800",
       "score": 75,
       "tags": []
     },
@@ -39,6 +39,30 @@
   ],
   "科技": [
     {
+      "id": "df90abe9ffb5",
+      "title": "California AG subpoenas Nvidia over worries about Huang&#8217;s ties with China",
+      "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+      "summary": "California AG subpoenas Nvidia over worries about Huang&#8217;s ties with China",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-20T13:21:11.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/nemoclaw.jpg?resize=1200,675",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "9c652f409ab4",
+      "title": "The U.S. national cyber director is stepping down",
+      "url": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/",
+      "summary": " national cyber director is stepping down",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-20T09:14:19.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2264911748.jpg?resize=1200,705",
+      "score": 75,
+      "tags": []
+    },
+    {
       "id": "cc5563ff1b11",
       "title": "Anthropic&#8217;s 7 founders cashed out nearly $2B in record-breaking IPO",
       "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
@@ -47,7 +71,7 @@
       "category": "科技",
       "published": "2026-11-20T00:43:50.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/antrhopic-openingday-getty.jpg?resize=1200,801",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -58,8 +82,8 @@
       "source": "TechCrunch",
       "category": "科技",
       "published": "2026-11-20T00:26:03.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-20-at-12.43.24-AM.png?resize=1200,601",
-      "score": 75,
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Chenyu-Zhao.jpg?resize=1200,800",
+      "score": 70,
       "tags": []
     },
     {
@@ -73,33 +97,21 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/starlink.jpg?resize=1200,800",
       "score": 70,
       "tags": []
-    },
-    {
-      "id": "6b24f4e22080",
-      "title": "Meta&#8217;s new Muse Charm device may cost $300",
-      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-      "summary": "Meta&#8217;s new Muse Charm device may cost $300",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-19T21:58:06.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-charm.png?resize=1200,667",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "15a984f33604",
-      "title": "Uber tests rides for kids as young as 10, with extra pay for drivers",
-      "url": "https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/",
-      "summary": "Uber tests rides for kids as young as 10, with extra pay for drivers",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-19T21:33:24.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/07/uber-getty.jpg?resize=1200,800",
-      "score": 70,
-      "tags": []
     }
   ],
   "就业": [
+    {
+      "id": "8ff43e8c86cc",
+      "title": "AI 智能体应用工程师证书值不值得考？一笔算清楚的账",
+      "url": "https://www.sohu.com/a/1102183688_121304477",
+      "summary": "AI 智能体应用工程师是当前大模型落地岗位中需求量增长最快的方向之一。脉脉《2026 年 1–2 月中高端人才求职招聘洞察》显示，2026 年初 AI 岗位招聘量同比增长约 12 倍，样本岗位平均月薪",
+      "source": "Bing·算法工程师薪资",
+      "category": "就业",
+      "published": "2026-11-16T05:41:00.000Z",
+      "image": "//q1.itc.cn/images01/20261116/5dc10c2b9c2545eaad0b1f167fc6bb68.png",
+      "score": 65,
+      "tags": []
+    },
     {
       "id": "0955340deee2",
       "title": "高顿携手腾讯WorkBuddy生态发布首款大学生实习就业AI Agent",
@@ -125,38 +137,26 @@
       "tags": []
     },
     {
-      "id": "f4c3ce7ed668",
-      "title": "前端岗位一年减少51%，FDE暴涨4.6倍：AI没有赶走工程师，却正在拆掉 ...",
-      "url": "https://www.sohu.com/a/1100186883_115128",
-      "summary": "AI 到底会先替代谁。 过去两年，人们反复讨论程序员、产品经理和设计师谁会最先受到冲击",
-      "source": "就业报告",
+      "id": "757eb2c8cbe9",
+      "title": "跨省揽才、政策托底 今年“秋招”已提供超550万个岗位",
+      "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261117_3296485.shtml",
+      "summary": "在山东青岛举办的第二十六届蓝洽会“智引全球”招聘专场上，120家用人单位带来3050个岗位需求，全面覆盖智能装备、人工智能、生命健康、高端新材料等产业赛道，同步还发布了《青岛市重点产业急需紧缺岗位目录",
+      "source": "Bing·秋招",
       "category": "就业",
-      "published": "2026-11-11T08:30:00.000Z",
-      "image": "https://q9.itc.cn/q_70/images03/20261111/f6b72d0aae1d4b949235dfd3e1793fe3.png",
+      "published": "2026-11-16T23:48:00.000Z",
+      "image": "",
       "score": 60,
       "tags": []
     },
     {
-      "id": "4cc46aca7d5c",
-      "title": "AI 低代码重构前端开发，11 月技术选型大洗牌",
-      "url": "https://www.sohu.com/a/1092855946_120620706",
-      "summary": "权威信号落地，往往比技术本身更能扰动市场。 2026 年 9 月底，Gartner 接连发布了两份与 AI 低代码直接相关的报告——《AI 增强低代码应用平台魔力象限》和配套的《关键能力》研究",
-      "source": "前端开发·就业分析",
+      "id": "3f7e78c610c4",
+      "title": "[Microsoft] AI Agent 研发实习生 - 北京",
+      "url": "https://www.v2ex.com/t/1257980#reply2",
+      "summary": "[Microsoft] AI Agent 研发实习生 - 北京",
+      "source": "V2EX·招聘",
       "category": "就业",
-      "published": "2026-10-26T09:14:00.000Z",
-      "image": "//q1.itc.cn/images01/20261026/8eb9863287b047fc862126ea56b27394.png",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "cbc807bf7dc8",
-      "title": "AI 产品经理岗卷出新高度？本周六职计划拆解 6 大核心能力",
-      "url": "https://finance.ifeng.com/c/8xQw55KXPfK",
-      "summary": "秋招进入收尾阶段，AI产品经理仍是最炙手可热的岗位之一。行业调研显示，2026年传统产品经理岗位同比下滑42%，而AI产品经理岗位需求量暴涨455%，应届生年薪普遍30万至50万元",
-      "source": "产品经理·就业分析",
-      "category": "就业",
-      "published": "2026-10-22T10:06:00.000Z",
-      "image": "https://x0.ifengimg.com/ucms/2026_43/62E44CDB052047FC3CC1B6249B6E1C6D640DEF8D_size69_w650_h365.jpg",
+      "published": "2026-11-18T06:09:33.000Z",
+      "image": "https://cdn.v2ex.com/gravatar/56c411da8f7367126c773ab95985ac23?s=73&d=retro",
       "score": 60,
       "tags": []
     }
@@ -225,6 +225,18 @@
   ],
   "政策": [
     {
+      "id": "a1b398c49e13",
+      "title": "黄师荣誉 | 14个大学生创业项目获省级创业扶持，创历年新高！",
+      "url": "https://www.sohu.com/a/1101929781_121123725",
+      "summary": "近日，湖北省人力资源和社会保障厅、湖北省教育厅与共青团湖北省委员会联合发布2026年度湖北省大学生创业扶持项目拟扶持名单，我校14个大学生创业项目成功入选。其中，创业组9个项目共获50万元省级创业扶持",
+      "source": "Bing·大学生创业扶持政策",
+      "category": "政策",
+      "published": "2026-11-15T15:21:00.000Z",
+      "image": "https://q6.itc.cn/q_70/images03/20261115/fe4b930df48540c18caf14fb44b4894c.png",
+      "score": 55,
+      "tags": []
+    },
+    {
       "id": "e6c32086fd86",
       "title": "最高可贷50万元，湖南优化政策为大学生创业送上金融“活水”",
       "url": "https://edu.rednet.cn/content/646043/52/16288673.html",
@@ -232,7 +244,32 @@
       "source": "就业创业政策",
       "category": "政策",
       "published": "2026-09-18T01:57:00.000Z",
+      "image": "",
       "score": 55,
+      "tags": []
+    },
+    {
+      "id": "f528ca2ffd0c",
+      "title": "【好评中国】抢抓秋招黄金窗口期，让高校毕业生早就业就好业",
+      "url": "https://news.ifeng.com/c/8y6Sm4wc7f5",
+      "summary": "“职引未来——2026年全国城市联合招聘高校毕业生秋季专场”推出第三批131场就业服务活动，全力为高校毕业生提供精准化、多元化就业服务支持。 就业是最基本的民生，高校毕业生就业更是稳就业的重中之重",
+      "source": "Bing·高校毕业生就业创业政策",
+      "category": "政策",
+      "published": "2026-11-16T07:44:00.000Z",
+      "image": "https://x0.ifengimg.com/ucms/2019_38/AC5B8A2AE18AB61C7067AFFDBBCD12D16295DDA2_w121_h75.jpg",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "c52f3df3d10d",
+      "title": "西浦x 姑苏人社 | 2026年高校青年就业创业赋能行动—西交利物浦大学 ...",
+      "url": "https://www.sohu.com/a/1102332735_121124035",
+      "summary": "活动立足姑苏区特色资源，整合姑苏区优质创业导师资源，组织在校学生参与创业赋能活动。活动设置创业沙龙、政策解读、古城参观等环节",
+      "source": "Bing·人社部就业创业政策",
+      "category": "政策",
+      "published": "2026-11-16T10:25:00.000Z",
+      "image": "https://q7.itc.cn/q_70/images03/20261116/603420a43cb1428f8655329100c7f936.jpeg",
+      "score": 50,
       "tags": []
     },
     {
@@ -246,135 +283,100 @@
       "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
       "score": 50,
       "tags": []
-    },
-    {
-      "id": "a3af074b2b9b",
-      "title": "2026-05-22教育部等八部门办公厅关于联合开展2026年度高校毕业生等重点群体促就业“国聘行动”的通知",
-      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202605/t20260522_1437356.html",
-      "summary": "2026-05-22教育部等八部门办公厅关于联合开展2026年度高校毕业生等重点群体促就业“国聘行动”的通知",
-      "source": "教育部",
-      "category": "政策",
-      "published": "2026-05-22T00:00:00.000Z",
-      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "20eed286abd8",
-      "title": "2026-04-24教育部办公厅 人力资源社会保障部办公厅关于开展2026年高校毕业生就业政策宣传活动的通知",
-      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202604/t20260423_1434600.html",
-      "summary": "2026-04-24教育部办公厅 人力资源社会保障部办公厅关于开展2026年高校毕业生就业政策宣传活动的通知",
-      "source": "教育部",
-      "category": "政策",
-      "published": "2026-04-23T00:00:00.000Z",
-      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "4a7d237a17a2",
-      "title": "2026-01-16教育部办公厅等四部门关于开展高校毕业生异地求职“双惠”行动的通知",
-      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202601/t20260115_1426697.html",
-      "summary": "2026-01-16教育部办公厅等四部门关于开展高校毕业生异地求职“双惠”行动的通知",
-      "source": "教育部",
-      "category": "政策",
-      "published": "2026-01-15T00:00:00.000Z",
-      "score": 50,
-      "tags": []
     }
   ],
   "财经": [
     {
-      "id": "73f154ea6be1",
-      "title": "湖北职业技能大赛开幕 能工巧匠同台切磋技艺",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735175.shtml",
+      "id": "bf1c89e956e7",
+      "title": "宁夏出台干线公路勘察设计指导书 贴合本地地质筑牢公路建设源头关口",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735583.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-20T05:44:13.000Z",
+      "published": "2026-11-20T14:26:07.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "b8017329dc39",
-      "title": "双向联动拓新局 沪新理事会第七次会议在沪签约落地多项合作",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735173.shtml",
+      "id": "cb1083fd85ec",
+      "title": "种下“懒庄稼” 富了“勤快人”——记“中国黄精之乡”十八年产业路",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735582.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-20T05:32:10.000Z",
+      "published": "2026-11-20T14:25:03.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "849481de73f5",
-      "title": "A股午评：三大指数收跌，超4800只个股飘绿",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735178.shtml",
+      "id": "f9480e65dc18",
+      "title": "2026世界计算大会发布中国算力发展十大趋势",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735564.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-20T05:30:52.000Z",
+      "published": "2026-11-20T13:57:46.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "0dd30bda392c",
-      "title": "“援”定天山：智能工厂落地  新疆棉沪企造",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735134.shtml",
+      "id": "34471ef5edbd",
+      "title": "能源大市山西朔州：煤炭由燃料变原料 新能源装机瞄准1800万千瓦",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735562.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-20T04:27:59.000Z",
+      "published": "2026-11-20T13:56:53.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "017b2f3a0f58",
-      "title": "“援”定天山：克州组装电动车驶入中亚市场",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735132.shtml",
+      "id": "2aa4ef4c077b",
+      "title": "海南自贸港金融租赁创新“破题” “管理型项目公司+SPV”落地见效",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735555.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-20T04:22:42.000Z",
+      "published": "2026-11-20T13:51:39.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ],
   "开发": [
     {
-      "id": "8dbec1160d0f",
-      "title": "OpenBSD 8.0 带来了更广泛的硬件支持、安全性增强以及虚拟化改进",
-      "url": "https://www.infoq.cn/article/ENG8g3E0RX3IiuvgD7BG?utm_source=rss&amp;utm_medium=article",
+      "id": "1412e26d4851",
+      "title": "财报再亮眼也没用！黄仁勋想回去，英伟达董事会偏不让",
+      "url": "https://www.infoq.cn/article/3xzCDJBbDREm4EJFJWrH?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-11-20T13:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/cc/1f/cc6aeb188bd1d971cb9e1be40a7c3d1f.jpg"
+      "published": "2026-11-20T18:48:14.000Z",
+      "image": "https://static001.infoq.cn/resource/image/48/ab/48d478ba9eea1d6c384c4054cf71a8ab.png"
     },
     {
-      "id": "e453423a3f77",
-      "title": "Cloudflare 推出面向后量子时代 Web 安全的公共证书颁发机构",
-      "url": "https://www.infoq.cn/article/WGpi7vxi1pCiJeJBKbm7?utm_source=rss&amp;utm_medium=article",
+      "id": "f2ddfaf16f42",
+      "title": "AI 来了，团队究竟怎么变？",
+      "url": "https://www.infoq.cn/video/ODJ7iuw7swP8TlU4SiAB?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-11-20T12:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/a2/a4/a27yyd94428347337e443a471e0bdca4.jpg"
+      "published": "2026-11-20T18:43:54.000Z",
+      "image": "https://static001.geekbang.org/static/infoq/img/infoq_icon.jpg"
     },
     {
-      "id": "8771f9155258",
-      "title": "谷歌发布用于机器人控制、仿真和策略优化的 Gemini 4 Argon",
-      "url": "https://www.infoq.cn/article/S4LH5Z9zcbLokm5uNSKR?utm_source=rss&amp;utm_medium=article",
+      "id": "a9d8abccb3f4",
+      "title": "“美国大豆包”又发新模型，Neon 接入 Antigravity 后编程解题率升至三倍多",
+      "url": "https://www.infoq.cn/article/tDxNggErsJNeb53ZkYeF?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-11-20T11:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/b9/f1/b9cc507e9fa2178fb8e5a86942971af1.png"
+      "published": "2026-11-20T18:41:34.000Z",
+      "image": "https://static001.infoq.cn/resource/image/2d/8a/2de376bef857b35ae259d7b5e48e288a.png"
     },
     {
-      "id": "e99ecd04fbbe",
-      "title": "Snowflake Expedition 大会亮出哪些新能力？一文梳理重磅更新 ｜ 技术趋势",
-      "url": "https://www.infoq.cn/article/KBcjdx4ZlUj4hyI7zvdd?utm_source=rss&amp;utm_medium=article",
+      "id": "2723adeca224",
+      "title": "Agent 上岗，你敢放手吗？",
+      "url": "https://www.infoq.cn/video/qafOtORWUX0eD0WfSlYi?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-11-20T10:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/ea/ee/ea8f1f9f96827f4b06734c53e80f96ee.png"
+      "published": "2026-11-20T18:25:42.000Z",
+      "image": "https://static001.geekbang.org/static/infoq/img/infoq_icon.jpg"
     },
     {
-      "id": "abefa49c7e88",
-      "title": "Cloudflare 重构 D1 控制平面，支持数百万数据库规模",
-      "url": "https://www.infoq.cn/article/tfy0PQW5LMZCXlCugMo6?utm_source=rss&amp;utm_medium=article",
+      "id": "f5c81ce39b19",
+      "title": "华为云开源昇腾原生具身世界模型CloudRobo-WM1.2，两项评测均列第一",
+      "url": "https://www.infoq.cn/article/LCqRiGDSeMBfXo4iktdA?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-11-20T10:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/66/80/660603be1b838fe7b00a7cd0be063280.png"
+      "published": "2026-11-20T18:19:11.000Z",
+      "image": "https://static001.infoq.cn/resource/image/41/0e/41424535042971ef152bf708069e9e0e.png"
     }
   ]
 }
