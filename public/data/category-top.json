@@ -1,6 +1,18 @@
 {
   "AI": [
     {
+      "id": "15417601d21a",
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "summary": "Apple may be developing its own AI agent that runs your Mac",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-11-20T00:56:01.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/iphone-usb-cable.jpg?resize=1200,800",
+      "score": 80,
+      "tags": []
+    },
+    {
       "id": "74e8068d1097",
       "title": "These tech outages are giving Y2K, AI agent style",
       "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
@@ -9,18 +21,6 @@
       "category": "AI",
       "published": "2026-11-19T21:42:31.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/Muharrem-huner.jpg?resize=1200,800",
-      "score": 80,
-      "tags": []
-    },
-    {
-      "id": "ffcfd7e32e09",
-      "title": "Google gives Gemini the ability to use your Mac for you",
-      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-      "summary": "Google gives Gemini the ability to use your Mac for you",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-11-19T18:09:11.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/hero_header_CU_copy.width-2200.format-webp.jpeg?resize=1200,675",
       "score": 75,
       "tags": []
     },
@@ -33,35 +33,47 @@
       "category": "AI",
       "published": "2026-11-19T22:33:26.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/IconSwapper-Key-Art.jpg?resize=1200,630",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "4e6c3fbd0dea",
-      "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-      "summary": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-11-19T17:38:40.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "bd72c3200d90",
-      "title": "Former Alibaba exec&#8217;s Everful raises $48.5M to connect retailers with Chinese factories",
-      "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
-      "summary": "Former Alibaba exec&#8217;s Everful raises $48。5M to connect retailers with Chinese factories",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-11-19T17:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Everful-founders.jpg?resize=1200,800",
-      "score": 60,
+      "score": 65,
       "tags": []
     }
   ],
   "科技": [
+    {
+      "id": "cc5563ff1b11",
+      "title": "Anthropic&#8217;s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "summary": "Anthropic&#8217;s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-20T00:43:50.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/antrhopic-openingday-getty.jpg?resize=1200,801",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "9758db2d9ba3",
+      "title": "Anthropic rival says companies can (mostly) skip the pricey models",
+      "url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
+      "summary": "Anthropic rival says companies can (mostly) skip the pricey models",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-20T00:26:03.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-20-at-12.43.24-AM.png?resize=1200,601",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "762d204a9ccc",
+      "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
+      "url": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
+      "summary": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-19T23:37:56.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/starlink.jpg?resize=1200,800",
+      "score": 70,
+      "tags": []
+    },
     {
       "id": "6b24f4e22080",
       "title": "Meta&#8217;s new Muse Charm device may cost $300",
@@ -71,7 +83,7 @@
       "category": "科技",
       "published": "2026-11-19T21:58:06.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-charm.png?resize=1200,667",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -83,59 +95,11 @@
       "category": "科技",
       "published": "2026-11-19T21:33:24.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/07/uber-getty.jpg?resize=1200,800",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "1761ecaf8c5d",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "summary": "The unfolding Jensen Huang scandal: a timeline",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-19T20:18:49.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "38cbde179199",
-      "title": "Anthropic&#8217;s IPO could deliver $156B to charity",
-      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
-      "summary": "Anthropic&#8217;s IPO could deliver $156B to charity",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-19T19:10:45.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256664479.jpg?resize=1200,800",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "e73ee03b16d6",
-      "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-      "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
-      "summary": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-19T16:59:23.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/anthropic-opening-Getty.jpg?resize=1200,801",
       "score": 70,
       "tags": []
     }
   ],
   "就业": [
-    {
-      "id": "8ff43e8c86cc",
-      "title": "AI 智能体应用工程师证书值不值得考？一笔算清楚的账",
-      "url": "https://www.sohu.com/a/1102183688_121304477",
-      "summary": "AI 智能体应用工程师是当前大模型落地岗位中需求量增长最快的方向之一。脉脉《2026 年 1–2 月中高端人才求职招聘洞察》显示，2026 年初 AI 岗位招聘量同比增长约 12 倍，样本岗位平均月薪",
-      "source": "Bing·算法工程师薪资",
-      "category": "就业",
-      "published": "2026-11-16T05:41:00.000Z",
-      "image": "//q1.itc.cn/images01/20261116/5dc10c2b9c2545eaad0b1f167fc6bb68.png",
-      "score": 65,
-      "tags": []
-    },
     {
       "id": "0955340deee2",
       "title": "高顿携手腾讯WorkBuddy生态发布首款大学生实习就业AI Agent",
@@ -149,15 +113,15 @@
       "tags": []
     },
     {
-      "id": "a4e8d7dcdedc",
-      "title": "跨省揽才、政策托底 今年“秋招”已提供超550万个岗位",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-16/10733106.shtml",
-      "summary": "在山东青岛举办的第二十六届蓝洽会“智引全球”招聘专场上，120家用人单位带来3050个岗位需求，全面覆盖智能装备、人工智能、生命健康、高端新材料等产业赛道，同步还发布了《青岛市重点产业急需紧缺岗位目录",
-      "source": "Bing·秋招",
+      "id": "26c8ab7c2bbb",
+      "title": "CyberSN：2026年1-9月美国网络安全职位发布量235786个，同比下降26.4%",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-10-19/doc-inivumam6837930.shtml",
+      "summary": "从整体趋势来看，企业对于人工智能知识和技能的需求依然旺盛。2026年前九个月，接近15%的网络安全职位招聘信息提及AI相关能力，与2025年同期15",
+      "source": "安全工程师·就业分析",
       "category": "就业",
-      "published": "2026-11-16T13:50:00.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 60,
+      "published": "2026-10-19T13:23:00.000Z",
+      "image": "https://n.sinaimg.cn/tech/zcapp2018/doc_qrcode1.png",
+      "score": 65,
       "tags": []
     },
     {
@@ -181,6 +145,18 @@
       "category": "就业",
       "published": "2026-10-26T09:14:00.000Z",
       "image": "//q1.itc.cn/images01/20261026/8eb9863287b047fc862126ea56b27394.png",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "cbc807bf7dc8",
+      "title": "AI 产品经理岗卷出新高度？本周六职计划拆解 6 大核心能力",
+      "url": "https://finance.ifeng.com/c/8xQw55KXPfK",
+      "summary": "秋招进入收尾阶段，AI产品经理仍是最炙手可热的岗位之一。行业调研显示，2026年传统产品经理岗位同比下滑42%，而AI产品经理岗位需求量暴涨455%，应届生年薪普遍30万至50万元",
+      "source": "产品经理·就业分析",
+      "category": "就业",
+      "published": "2026-10-22T10:06:00.000Z",
+      "image": "https://x0.ifengimg.com/ucms/2026_43/62E44CDB052047FC3CC1B6249B6E1C6D640DEF8D_size69_w650_h365.jpg",
       "score": 60,
       "tags": []
     }
@@ -249,18 +225,6 @@
   ],
   "政策": [
     {
-      "id": "a1b398c49e13",
-      "title": "黄师荣誉 | 14个大学生创业项目获省级创业扶持，创历年新高！",
-      "url": "https://www.sohu.com/a/1101929781_121123725",
-      "summary": "近日，湖北省人力资源和社会保障厅、湖北省教育厅与共青团湖北省委员会联合发布2026年度湖北省大学生创业扶持项目拟扶持名单，我校14个大学生创业项目成功入选。其中，创业组9个项目共获50万元省级创业扶持",
-      "source": "Bing·大学生创业扶持政策",
-      "category": "政策",
-      "published": "2026-11-15T15:21:00.000Z",
-      "image": "https://q6.itc.cn/q_70/images03/20261115/fe4b930df48540c18caf14fb44b4894c.png",
-      "score": 55,
-      "tags": []
-    },
-    {
       "id": "e6c32086fd86",
       "title": "最高可贷50万元，湖南优化政策为大学生创业送上金融“活水”",
       "url": "https://edu.rednet.cn/content/646043/52/16288673.html",
@@ -268,31 +232,18 @@
       "source": "就业创业政策",
       "category": "政策",
       "published": "2026-09-18T01:57:00.000Z",
-      "image": "",
       "score": 55,
       "tags": []
     },
     {
-      "id": "3e1f5c0b67e6",
-      "title": "今日，房山青年人才招聘周暨首届大学生科创生活节活力启幕",
-      "url": "https://finance.sina.com.cn/wm/2026-11-14/doc-iniytfyz3964975.shtml",
-      "summary": "11月14日，房山青年人才招聘周暨首届房山大学生科创生活节在房山熙悦天街火热启幕。全新的“招聘+科创+文创+演艺”潮流模式融合了多种场景需求，打破大众对传统招聘会的固有认知，现场人潮涌动",
-      "source": "Bing·大学生就业政策",
+      "id": "f5cb39eaf8f6",
+      "title": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
+      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202606/t20260602_1438600.html",
+      "summary": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
+      "source": "教育部",
       "category": "政策",
-      "published": "2026-11-14T05:11:00.000Z",
-      "image": "//n.sinaimg.cn/front20261114ac/224/w1280h544/20261114/4b08-d0754375e46126b801f26fdfed184b80.jpg",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "c52f3df3d10d",
-      "title": "西浦x 姑苏人社 | 2026年高校青年就业创业赋能行动—西交利物浦大学 ...",
-      "url": "https://www.sohu.com/a/1102332735_121124035",
-      "summary": "活动立足姑苏区特色资源，整合姑苏区优质创业导师资源，组织在校学生参与创业赋能活动。活动设置创业沙龙、政策解读、古城参观等环节",
-      "source": "Bing·人社部就业创业政策",
-      "category": "政策",
-      "published": "2026-11-16T10:25:00.000Z",
-      "image": "https://q7.itc.cn/q_70/images03/20261116/603420a43cb1428f8655329100c7f936.jpeg",
+      "published": "2026-06-02T00:00:00.000Z",
+      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
       "score": 50,
       "tags": []
     },
@@ -307,103 +258,123 @@
       "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
       "score": 50,
       "tags": []
-    }
-  ],
-  "开发": [
+    },
     {
-      "id": "bd45c108af03",
-      "title": "科技爱好者周刊（第 419 期）：机房来了，写字楼走了",
-      "url": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html",
-      "summary": "这里记录每周值得分享的科技内容，周五发布",
-      "source": "阮一峰",
-      "category": "开发",
-      "published": "2026-11-13T00:08:29.000Z",
-      "image": "",
-      "score": 55,
+      "id": "20eed286abd8",
+      "title": "2026-04-24教育部办公厅 人力资源社会保障部办公厅关于开展2026年高校毕业生就业政策宣传活动的通知",
+      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202604/t20260423_1434600.html",
+      "summary": "2026-04-24教育部办公厅 人力资源社会保障部办公厅关于开展2026年高校毕业生就业政策宣传活动的通知",
+      "source": "教育部",
+      "category": "政策",
+      "published": "2026-04-23T00:00:00.000Z",
+      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+      "score": 50,
       "tags": []
     },
     {
-      "id": "97a1dd5ae507",
-      "title": "Sam Altman罕见发声：我不担心Anthropic先上市，市场上不缺投资者",
-      "url": "https://www.infoq.cn/article/Mf3Zbm9JF3RWbkvjMKYZ?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-19T22:57:55.000Z",
-      "image": "https://static001.infoq.cn/resource/image/db/f9/dbe8469d4c404e91faa8e63dbf7268f9.png"
-    },
-    {
-      "id": "820a6360304a",
-      "title": "模型刚接进业务，CEO又要换新：红帽如何接住企业AI落地难题？",
-      "url": "https://www.infoq.cn/article/6xqcZfMgJ99ZQiGFbjym?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-19T18:05:40.000Z",
-      "image": "https://static001.infoq.cn/resource/image/7a/43/7a3133551fac5b86dffe8dea64cd3743.png"
-    },
-    {
-      "id": "14c165dbfe19",
-      "title": "杀入Agent主场之后：两年内部分替代自回归，扩散智能的底气从何而来？| 专访",
-      "url": "https://www.infoq.cn/article/rtBT5s1opGGazFgQi0YS?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-19T16:32:33.000Z",
-      "image": "https://static001.infoq.cn/resource/image/2d/7f/2d44a3fb5dbb820a18d47e6d3fe26b7f.png"
-    },
-    {
-      "id": "5599f280f99b",
-      "title": "Agent 实干派：从人人可用到全栈工程进化 | InfoQ 小编探班",
-      "url": "https://www.infoq.cn/video/Cfrl4QYhD3dHMuhGt6hw?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-19T16:16:29.000Z",
-      "image": "https://static001.geekbang.org/static/infoq/img/infoq_icon.jpg"
+      "id": "4a7d237a17a2",
+      "title": "2026-01-16教育部办公厅等四部门关于开展高校毕业生异地求职“双惠”行动的通知",
+      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202601/t20260115_1426697.html",
+      "summary": "2026-01-16教育部办公厅等四部门关于开展高校毕业生异地求职“双惠”行动的通知",
+      "source": "教育部",
+      "category": "政策",
+      "published": "2026-01-15T00:00:00.000Z",
+      "score": 50,
+      "tags": []
     }
   ],
   "财经": [
     {
-      "id": "416cfa53b7ab",
-      "title": "钱凯港运营两周年 为中秘双边贸易带来哪些改变？",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-20/10734988.shtml",
+      "id": "73f154ea6be1",
+      "title": "湖北职业技能大赛开幕 能工巧匠同台切磋技艺",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735175.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-19T22:06:26.000Z",
+      "published": "2026-11-20T05:44:13.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "0b9efb57b8fc",
-      "title": "（深圳APEC）外媒镜头里的深圳：机器人群舞、无人机送餐，科幻走进现实",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734970.shtml",
+      "id": "b8017329dc39",
+      "title": "双向联动拓新局 沪新理事会第七次会议在沪签约落地多项合作",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735173.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-19T14:50:46.000Z",
+      "published": "2026-11-20T05:32:10.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "c77e16d288e5",
-      "title": "深圳APEC开启亚太合作新篇章",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734957.shtml",
+      "id": "849481de73f5",
+      "title": "A股午评：三大指数收跌，超4800只个股飘绿",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735178.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-19T14:38:47.000Z",
+      "published": "2026-11-20T05:30:52.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "0751e83e69c5",
-      "title": "数字种业“突围” 广西大石山区蹚出数字乡村新路",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734959.shtml",
+      "id": "0dd30bda392c",
+      "title": "“援”定天山：智能工厂落地  新疆棉沪企造",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735134.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-19T14:30:07.000Z",
+      "published": "2026-11-20T04:27:59.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "46e32c4a1102",
-      "title": "从“城市包围机场”到4F级枢纽：呼和浩特新机场“大”在哪？",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734954.shtml",
+      "id": "017b2f3a0f58",
+      "title": "“援”定天山：克州组装电动车驶入中亚市场",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735132.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-19T14:23:48.000Z",
+      "published": "2026-11-20T04:22:42.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    }
+  ],
+  "开发": [
+    {
+      "id": "8dbec1160d0f",
+      "title": "OpenBSD 8.0 带来了更广泛的硬件支持、安全性增强以及虚拟化改进",
+      "url": "https://www.infoq.cn/article/ENG8g3E0RX3IiuvgD7BG?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-20T13:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/cc/1f/cc6aeb188bd1d971cb9e1be40a7c3d1f.jpg"
+    },
+    {
+      "id": "e453423a3f77",
+      "title": "Cloudflare 推出面向后量子时代 Web 安全的公共证书颁发机构",
+      "url": "https://www.infoq.cn/article/WGpi7vxi1pCiJeJBKbm7?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-20T12:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/a2/a4/a27yyd94428347337e443a471e0bdca4.jpg"
+    },
+    {
+      "id": "8771f9155258",
+      "title": "谷歌发布用于机器人控制、仿真和策略优化的 Gemini 4 Argon",
+      "url": "https://www.infoq.cn/article/S4LH5Z9zcbLokm5uNSKR?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-20T11:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/b9/f1/b9cc507e9fa2178fb8e5a86942971af1.png"
+    },
+    {
+      "id": "e99ecd04fbbe",
+      "title": "Snowflake Expedition 大会亮出哪些新能力？一文梳理重磅更新 ｜ 技术趋势",
+      "url": "https://www.infoq.cn/article/KBcjdx4ZlUj4hyI7zvdd?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-20T10:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/ea/ee/ea8f1f9f96827f4b06734c53e80f96ee.png"
+    },
+    {
+      "id": "abefa49c7e88",
+      "title": "Cloudflare 重构 D1 控制平面，支持数百万数据库规模",
+      "url": "https://www.infoq.cn/article/tfy0PQW5LMZCXlCugMo6?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-20T10:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/66/80/660603be1b838fe7b00a7cd0be063280.png"
     }
   ]
 }

@@ -1,0 +1,7 @@
+{
+  "id": "161bea71276b",
+  "title": "19. ArkTS逻辑运算符实战：   || ! 一次讲透 - 老陈说编程",
+  "url": "https://www.cnblogs.com/halfcode/p/23728649",
+  "contentZh": "",
+  "contentFull": "\n逻辑与 &&\n两个布尔值用 &&，两边都是 true，结果才是 true。有一边是 false，结果就是 false。\n动画视频在《ArkTS逻辑运算符实战：&& || ! 一次讲透》。\n\nconsole.log(\"true && true:\", true && true);\nconsole.log(\"true && false:\", true && false);\n\n第一行是 true，第二行是 false。\n先开启预览器，再打开日志面板，按 Ctrl + S 保存，才能看到输出。后面的 console.log 也一样。\n&& 常跟比较写在一起，用来看几个条件是不是同时成立。比如年龄是不是落在能工作的范围里。\n\nlet age: number = 25;\nlet canWork: boolean = age >= 18 && age <= 60;\nconsole.log(\"可以工作:\", canWork);\n\nage >= 18 是 true，age <= 60 也是 true。两个都成立，可以工作: 后面是 true。\n\n逻辑或 ||\n|| 只要有一边是 true，结果就是 true。两边都是 false，结果才是 false。\n\nconsole.log(\"true || false:\", true || false);\nconsole.log(\"false || false:\", false || false);\n\n第一行是 true，第二行是 false。\n和比较搭在一起时，用来看几个条件里有没有一个成立。角色是管理员或者编辑，就可以编辑。\n\nlet role: string = \"editor\";\nlet canEdit: boolean = role === \"admin\" || role === \"editor\";\nconsole.log(\"可以编辑:\", canEdit);\n\nrole 是 \"editor\"。和 \"admin\" 不相等，第一个条件是 false。和 \"editor\" 相等，第二个条件是 true。有一边成立，可以编辑: 后面是 true。\n|| 还可以拿来补默认值。左边是假值，就用右边那个。\n\nlet input: string = \"\";\nlet display: string = input || \"默认昵称\";\nconsole.log(\"display:\", display);\n\n空字符串是假值，左边用不上，display 取右边，打印出来是 默认昵称。input 里如果已经有字，display 就是 input 自己。\n\n逻辑非 !\n! 把布尔值反过来。true 变成 false，false 变成 true。\n\nconsole.log(\"!true:\", !true);\nconsole.log(\"!false:\", !false);\n\n第一行是 false，第二行是 true。\n\n"
+}
