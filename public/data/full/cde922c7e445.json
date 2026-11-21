@@ -1,0 +1,7 @@
+{
+  "id": "cde922c7e445",
+  "title": "20. 重新认识三元运算符，不止简单二选一 - 老陈说编程",
+  "url": "https://www.cnblogs.com/halfcode/p/23738353",
+  "contentZh": "",
+  "contentFull": "\nArkTS 三元运算符的语法格式为： condition ? a : b。问号前面是条件。条件是 true，整个式子的值是问号和冒号中间那个；是 false，值是冒号后面那个。\n它是表达式，算完有个结果，可以直接写在等号右边。二选一不用再另起一段。\n动画视频在《重新认识三元运算符，不止简单二选一》。\n\nlet age: number = 20;\nlet status: string = age >= 18 ? '成年' : '未成年';\nconsole.log(\"status:\", status);\n\nage 是 20，age >= 18 是 true，status 取 '成年'。日志里 status: 后面是 成年。\n先开启预览器，再打开日志面板，按 Ctrl + S 保存，才能看到输出。后面的 console.log 也一样。\n\n字符串拼接\n三元不用单独赋给一个变量，可以放进别的式子里。下面先算出 \"在线\" 或 \"离线\"，再拼到前面那句后面。\n\nlet loggedIn: boolean = true;\nconsole.log(\"用户状态: \" + (loggedIn ? \"在线\" : \"离线\"));\n\nloggedIn 是 true，括号里是 \"在线\"。拼完打印 用户状态: 在线。\n括号要留着。+ 比三元先算。不包起来，会先算 \"用户状态: \" + loggedIn。拼出来的字符串不是空的，条件一直当成 true，冒号后面的 \"离线\" 用不上。\n\n  loggedIn 是 true，拼到句子里的是在线。\n\n"
+}

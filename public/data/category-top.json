@@ -1,4 +1,66 @@
 {
+  "AI": [
+    {
+      "id": "a2263c052fc4",
+      "title": "Six AI-powered gadgets that could make your home office smarter",
+      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+      "summary": "Six AI-powered gadgets that could make your home office smarter",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-11-20T14:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1348850409.jpg?resize=1200,800",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "e3a5bfebf397",
+      "title": "Bending Spoons buys Mailchimp for $3.68B",
+      "url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
+      "summary": "Bending Spoons buys Mailchimp for $3",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-11-20T16:16:06.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2150300479.jpg?resize=1200,800",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "e7c0769fe527",
+      "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+      "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
+      "summary": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-11-20T20:58:29.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Moor-Studio.jpg?resize=1200,705",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "cc0a4dad659b",
+      "title": "Daniel Ek backs AI researcher&#8217;s fusion power startup. Here&#8217;s what they&#8217;re building.",
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "summary": "Daniel Ek backs AI researcher&#8217;s fusion power startup。 Here&#8217;s what they&#8217;re building",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-11-20T19:53:41.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1500013882.jpg?resize=1200,812",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "f509e696672e",
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "summary": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-11-20T19:32:08.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1219382595.jpg?resize=1200,750",
+      "score": 65,
+      "tags": []
+    }
+  ],
   "科技": [
     {
       "id": "3f5a2dcba783",
@@ -9,7 +71,7 @@
       "category": "科技",
       "published": "2026-11-20T18:34:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/mazama-project-athena-rig-sunset.jpeg?resize=1200,675",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -21,7 +83,7 @@
       "category": "科技",
       "published": "2026-11-20T17:40:01.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/06/SpaceXAIsatrender.jpg?resize=1200,639",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -58,68 +120,6 @@
       "published": "2026-11-20T13:25:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2266464474.jpg?resize=1200,774",
       "score": 60,
-      "tags": []
-    }
-  ],
-  "AI": [
-    {
-      "id": "a2263c052fc4",
-      "title": "Six AI-powered gadgets that could make your home office smarter",
-      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
-      "summary": "Six AI-powered gadgets that could make your home office smarter",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-11-20T14:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1348850409.jpg?resize=1200,800",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "e7c0769fe527",
-      "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
-      "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
-      "summary": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-11-20T20:58:29.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Moor-Studio.jpg?resize=1200,705",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "cc0a4dad659b",
-      "title": "Daniel Ek backs AI researcher&#8217;s fusion power startup. Here&#8217;s what they&#8217;re building.",
-      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-      "summary": "Daniel Ek backs AI researcher&#8217;s fusion power startup。 Here&#8217;s what they&#8217;re building",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-11-20T19:53:41.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1500013882.jpg?resize=1200,812",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "f509e696672e",
-      "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
-      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
-      "summary": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-11-20T19:32:08.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1219382595.jpg?resize=1200,750",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "e3a5bfebf397",
-      "title": "Bending Spoons buys Mailchimp for $3.68B",
-      "url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
-      "summary": "Bending Spoons buys Mailchimp for $3",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-11-20T16:16:06.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2150300479.jpg?resize=1200,800",
-      "score": 70,
       "tags": []
     }
   ],
@@ -161,18 +161,6 @@
       "tags": []
     },
     {
-      "id": "a4e8d7dcdedc",
-      "title": "跨省揽才、政策托底 今年“秋招”已提供超550万个岗位",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-16/10733106.shtml",
-      "summary": "在山东青岛举办的第二十六届蓝洽会“智引全球”招聘专场上，120家用人单位带来3050个岗位需求，全面覆盖智能装备、人工智能、生命健康、高端新材料等产业赛道，同步还发布了《青岛市重点产业急需紧缺岗位目录",
-      "source": "Bing·秋招",
-      "category": "就业",
-      "published": "2026-11-16T13:50:00.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 60,
-      "tags": []
-    },
-    {
       "id": "3f7e78c610c4",
       "title": "[Microsoft] AI Agent 研发实习生 - 北京",
       "url": "https://www.v2ex.com/t/1257980#reply2",
@@ -181,6 +169,18 @@
       "category": "就业",
       "published": "2026-11-18T06:09:33.000Z",
       "image": "https://cdn.v2ex.com/gravatar/56c411da8f7367126c773ab95985ac23?s=73&d=retro",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "f4c3ce7ed668",
+      "title": "前端岗位一年减少51%，FDE暴涨4.6倍：AI没有赶走工程师，却正在拆掉 ...",
+      "url": "https://www.sohu.com/a/1100186883_115128",
+      "summary": "AI 到底会先替代谁。 过去两年，人们反复讨论程序员、产品经理和设计师谁会最先受到冲击",
+      "source": "就业报告",
+      "category": "就业",
+      "published": "2026-11-11T08:30:00.000Z",
+      "image": "https://q9.itc.cn/q_70/images03/20261111/f6b72d0aae1d4b949235dfd3e1793fe3.png",
       "score": 60,
       "tags": []
     }
@@ -196,6 +196,18 @@
       "published": "2026-11-16T12:00:54.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 55,
+      "tags": []
+    },
+    {
+      "id": "bf88bc426bcf",
+      "title": "上课点名、体育长跑、饭卡充值……校园App为何越装越多？",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-19/10734464.shtml",
+      "summary": "近年来，随着“智慧校园”建设推进，各类移动应用本应方便师生，如今却在一些高校变成了学生手机里的负担。体育环(长)跑、上课点名、接水饮水、饭卡充值……校园生活的每一处场景，几乎都对应着不同的App或小程",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-11-19T00:30:29.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
       "tags": []
     },
     {
@@ -233,18 +245,6 @@
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 50,
       "tags": []
-    },
-    {
-      "id": "68ec58e8091f",
-      "title": "10国学员齐聚重庆 研修西部陆海新通道跨境贸易与产业合作",
-      "url": "https://www.chinanews.com.cn/edu/2026/11-16/10733101.shtml",
-      "summary": "中新网重庆11月16日电 (记者 钟旖)16日，重庆市人民政府外国留学生市长奖学金丝路项目“陆海新通道沿线国家跨境贸易与产业合作人才研修班”在四川外国语大学开班",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-11-16T13:49:00.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
     }
   ],
   "政策": [
@@ -268,7 +268,6 @@
       "source": "就业创业政策",
       "category": "政策",
       "published": "2026-09-18T01:57:00.000Z",
-      "image": "",
       "score": 55,
       "tags": []
     },
@@ -311,52 +310,79 @@
   ],
   "财经": [
     {
-      "id": "22cb7d4161b4",
-      "title": "国际金价创一年多新低 黄金消费热潮背后这几点要知道",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735605.shtml",
+      "id": "d6000da83fc2",
+      "title": "产业规模破万亿元！高铁直达、夜场升级，冰雪消费提前升温",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735677.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-20T22:06:22.000Z",
+      "published": "2026-11-21T03:35:12.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "bf1c89e956e7",
-      "title": "宁夏出台干线公路勘察设计指导书 贴合本地地质筑牢公路建设源头关口",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735583.shtml",
+      "id": "46910e49069e",
+      "title": "“三医”协同持续发力 天津北辰探索公立医院改革新路径",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735666.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-20T14:26:07.000Z",
+      "published": "2026-11-21T03:19:45.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "cb1083fd85ec",
-      "title": "种下“懒庄稼” 富了“勤快人”——记“中国黄精之乡”十八年产业路",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735582.shtml",
+      "id": "0d8156680c11",
+      "title": "（经济观察）重庆构建NCD综合服务体系 激活西部陆海新通道贸易动能",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735667.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-20T14:25:03.000Z",
+      "published": "2026-11-21T03:19:25.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "f9480e65dc18",
-      "title": "2026世界计算大会发布中国算力发展十大趋势",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735564.shtml",
+      "id": "209fd4c352a0",
+      "title": "稳中有进有底气！10月我国经济向新向优发展",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735656.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-20T13:57:46.000Z",
+      "published": "2026-11-21T02:18:02.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "34471ef5edbd",
-      "title": "能源大市山西朔州：煤炭由燃料变原料 新能源装机瞄准1800万千瓦",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735562.shtml",
+      "id": "8d853104bca6",
+      "title": "前10个月邮政行业寄递量稳步增长 “小包裹”激活消费“新引擎”",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735644.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-20T13:56:53.000Z",
+      "published": "2026-11-21T01:59:47.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ],
   "开发": [
+    {
+      "id": "c85e5ebc5629",
+      "title": "智能体 AI 架构：当前挑战与未来机遇",
+      "url": "https://www.infoq.cn/article/TrWuo2vEZRl2xB2XXZNX?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-21T11:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/88/8f/88a9639cc86acfb239c271088d29998f.png"
+    },
+    {
+      "id": "d5dbc05a6f52",
+      "title": "TaoDesign 的知识工程实践：从设计资产到 Agent 持续进化｜AICon北京",
+      "url": "https://www.infoq.cn/article/vhoobUFbLs2hUlTBA4HZ?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-21T10:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/ca/01/ca49590fd7a410c61e96c14862dfe401.png"
+    },
+    {
+      "id": "7e05d372d70a",
+      "title": "Entire Git Forge：面向编码智能体重构 Git 协作方式",
+      "url": "https://www.infoq.cn/article/6swrOq5xUXwVqrREwJwc?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-21T10:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/e5/5e/e5d5c62b40136988feb041e9722edc5e.jpeg"
+    },
     {
       "id": "1412e26d4851",
       "title": "财报再亮眼也没用！黄仁勋想回去，英伟达董事会偏不让",
@@ -374,33 +400,6 @@
       "category": "开发",
       "published": "2026-11-20T18:43:54.000Z",
       "image": "https://static001.geekbang.org/static/infoq/img/infoq_icon.jpg"
-    },
-    {
-      "id": "a9d8abccb3f4",
-      "title": "“美国大豆包”又发新模型，Neon 接入 Antigravity 后编程解题率升至三倍多",
-      "url": "https://www.infoq.cn/article/tDxNggErsJNeb53ZkYeF?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-20T18:41:34.000Z",
-      "image": "https://static001.infoq.cn/resource/image/2d/8a/2de376bef857b35ae259d7b5e48e288a.png"
-    },
-    {
-      "id": "2723adeca224",
-      "title": "Agent 上岗，你敢放手吗？",
-      "url": "https://www.infoq.cn/video/qafOtORWUX0eD0WfSlYi?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-20T18:25:42.000Z",
-      "image": "https://static001.geekbang.org/static/infoq/img/infoq_icon.jpg"
-    },
-    {
-      "id": "f5c81ce39b19",
-      "title": "华为云开源昇腾原生具身世界模型CloudRobo-WM1.2，两项评测均列第一",
-      "url": "https://www.infoq.cn/article/LCqRiGDSeMBfXo4iktdA?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-20T18:19:11.000Z",
-      "image": "https://static001.infoq.cn/resource/image/41/0e/41424535042971ef152bf708069e9e0e.png"
     }
   ]
 }
