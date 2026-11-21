@@ -63,6 +63,18 @@
   ],
   "科技": [
     {
+      "id": "e262e9837ef1",
+      "title": "Startup sues Apple in India over tap-to-share contacts feature",
+      "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
+      "summary": "Startup sues Apple in India over tap-to-share contacts feature",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-21T04:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/apple-namedrop.jpg?resize=1200,800",
+      "score": 70,
+      "tags": []
+    },
+    {
       "id": "3f5a2dcba783",
       "title": "Super-hot rock geothermal could end data center energy woes",
       "url": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
@@ -83,18 +95,6 @@
       "category": "科技",
       "published": "2026-11-20T17:40:01.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/06/SpaceXAIsatrender.jpg?resize=1200,639",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "df90abe9ffb5",
-      "title": "California AG subpoenas Nvidia over worries about Huang&#8217;s ties with China",
-      "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
-      "summary": "California AG subpoenas Nvidia over worries about Huang&#8217;s ties with China",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-20T13:21:11.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/nemoclaw.jpg?resize=1200,675",
       "score": 70,
       "tags": []
     },
@@ -124,18 +124,6 @@
     }
   ],
   "就业": [
-    {
-      "id": "8ff43e8c86cc",
-      "title": "AI 智能体应用工程师证书值不值得考？一笔算清楚的账",
-      "url": "https://www.sohu.com/a/1102183688_121304477",
-      "summary": "AI 智能体应用工程师是当前大模型落地岗位中需求量增长最快的方向之一。脉脉《2026 年 1–2 月中高端人才求职招聘洞察》显示，2026 年初 AI 岗位招聘量同比增长约 12 倍，样本岗位平均月薪",
-      "source": "Bing·算法工程师薪资",
-      "category": "就业",
-      "published": "2026-11-16T05:41:00.000Z",
-      "image": "//q1.itc.cn/images01/20261116/5dc10c2b9c2545eaad0b1f167fc6bb68.png",
-      "score": 65,
-      "tags": []
-    },
     {
       "id": "0955340deee2",
       "title": "高顿携手腾讯WorkBuddy生态发布首款大学生实习就业AI Agent",
@@ -183,6 +171,18 @@
       "image": "https://q9.itc.cn/q_70/images03/20261111/f6b72d0aae1d4b949235dfd3e1793fe3.png",
       "score": 60,
       "tags": []
+    },
+    {
+      "id": "cbc807bf7dc8",
+      "title": "AI 产品经理岗卷出新高度？本周六职计划拆解 6 大核心能力",
+      "url": "https://finance.ifeng.com/c/8xQw55KXPfK",
+      "summary": "秋招进入收尾阶段，AI产品经理仍是最炙手可热的岗位之一。行业调研显示，2026年传统产品经理岗位同比下滑42%，而AI产品经理岗位需求量暴涨455%，应届生年薪普遍30万至50万元",
+      "source": "产品经理·就业分析",
+      "category": "就业",
+      "published": "2026-10-22T10:06:00.000Z",
+      "image": "https://x0.ifengimg.com/ucms/2026_43/62E44CDB052047FC3CC1B6249B6E1C6D640DEF8D_size69_w650_h365.jpg",
+      "score": 60,
+      "tags": []
     }
   ],
   "社会": [
@@ -196,6 +196,30 @@
       "published": "2026-11-16T12:00:54.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 55,
+      "tags": []
+    },
+    {
+      "id": "93e56ca100dd",
+      "title": "中国自研合成生物领域首个酶设计大模型发布",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-19/10734841.shtml",
+      "summary": "中新社天津11月19日电 (记者 周亚强)中国自主研发的酶设计大模型“天华开物”19日在天津大学发布。这是合成生物领域首个公开发布的大模型，目标是将工业酶研发从“碰运气”变为“算出来”",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-11-19T11:47:34.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "e2501fa9c2b6",
+      "title": "2027届全国普通高校毕业生规模预计1299万人",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-19/10734743.shtml",
+      "summary": "中新网11月19日电 据教育部网站消息，11月19日，中央教育工作领导小组秘书组、教育部、人力资源社会保障部、工业和信息化部、国务院国资委在京联合召开2027届全国普通高校毕业生就业创业工作会议。会议",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-11-19T09:08:47.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
       "tags": []
     },
     {
@@ -218,30 +242,6 @@
       "source": "中新网教育",
       "category": "社会",
       "published": "2026-11-17T07:19:10.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "2af9a0be8044",
-      "title": "中外学者在北京研讨文明互鉴与中国自主知识体系构建",
-      "url": "https://www.chinanews.com.cn/edu/2026/11-17/10733420.shtml",
-      "summary": "中新网北京11月17日电 (记者 韩禹)文明互鉴与中国自主知识体系构建学术研讨会16日在北京外国语大学举行。来自海内外高校、科研院所和文化交流机构的专家学者，围绕文明比较推动知识创新、汉学与世界中国学",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-11-17T06:53:55.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "a883eb322bd4",
-      "title": "暨南大学迎120周年华诞 校友师生共话“声教讫于四海”",
-      "url": "https://www.chinanews.com.cn/edu/2026/11-16/10733108.shtml",
-      "summary": "中新社广州11月16日电 (记者 孙秋霞)中国华侨最高学府暨南大学16日迎来建校120周年华诞。从1906年在南京创办至今，该校历经三落三起、五易其址，如今已成为国家“双一流”建设高校",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-11-16T13:58:55.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 50,
       "tags": []
@@ -272,18 +272,6 @@
       "tags": []
     },
     {
-      "id": "3e1f5c0b67e6",
-      "title": "今日，房山青年人才招聘周暨首届大学生科创生活节活力启幕",
-      "url": "https://finance.sina.com.cn/wm/2026-11-14/doc-iniytfyz3964975.shtml",
-      "summary": "11月14日，房山青年人才招聘周暨首届房山大学生科创生活节在房山熙悦天街火热启幕。全新的“招聘+科创+文创+演艺”潮流模式融合了多种场景需求，打破大众对传统招聘会的固有认知，现场人潮涌动",
-      "source": "Bing·大学生就业政策",
-      "category": "政策",
-      "published": "2026-11-14T05:11:00.000Z",
-      "image": "//n.sinaimg.cn/front20261114ac/224/w1280h544/20261114/4b08-d0754375e46126b801f26fdfed184b80.jpg",
-      "score": 50,
-      "tags": []
-    },
-    {
       "id": "f528ca2ffd0c",
       "title": "【好评中国】抢抓秋招黄金窗口期，让高校毕业生早就业就好业",
       "url": "https://news.ifeng.com/c/8y6Sm4wc7f5",
@@ -292,6 +280,18 @@
       "category": "政策",
       "published": "2026-11-16T07:44:00.000Z",
       "image": "https://x0.ifengimg.com/ucms/2019_38/AC5B8A2AE18AB61C7067AFFDBBCD12D16295DDA2_w121_h75.jpg",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "9fcc8996e6f0",
+      "title": "福建七部门下发通知 做好高校毕业生等青年就业工作",
+      "url": "https://www.qzwb.com/gb/content/2026-11/15/content_9262164.htm",
+      "summary": "泉州网11月15日讯 （融媒体记者吴宗宝）为促进高校毕业生就业创业，近日，省人社厅等七部门联合下发《关于做好2026年高校毕业生等青年就业工作的通知》，促进更多高校毕业生来闽留闽就业。 《通知》进一步",
+      "source": "Bing·高校毕业生就业创业政策",
+      "category": "政策",
+      "published": "2026-11-14T16:00:00.000Z",
+      "image": "https://www.qzwb.com/gb/img/2025-08/31/9187014_6a9d4884-dd8d-4393-8697-34d8302f40f6.jpg",
       "score": 50,
       "tags": []
     },
@@ -310,48 +310,48 @@
   ],
   "财经": [
     {
-      "id": "d6000da83fc2",
-      "title": "产业规模破万亿元！高铁直达、夜场升级，冰雪消费提前升温",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735677.shtml",
+      "id": "dbaf9814ca46",
+      "title": "浙江义乌办“校招”：530余家企业提供近1.6万个岗位",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735844.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-21T03:35:12.000Z",
+      "published": "2026-11-21T11:47:57.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "46910e49069e",
-      "title": "“三医”协同持续发力 天津北辰探索公立医院改革新路径",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735666.shtml",
+      "id": "6df4e9198814",
+      "title": "松原首批氢能试点超亿元奖励资金拨付到企",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735829.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-21T03:19:45.000Z",
+      "published": "2026-11-21T10:49:08.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "0d8156680c11",
-      "title": "（经济观察）重庆构建NCD综合服务体系 激活西部陆海新通道贸易动能",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735667.shtml",
+      "id": "a20e6d109926",
+      "title": "昆仑山下的国际陆港：连藏通疆 冬日繁忙",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735822.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-21T03:19:25.000Z",
+      "published": "2026-11-21T10:41:11.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "209fd4c352a0",
-      "title": "稳中有进有底气！10月我国经济向新向优发展",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735656.shtml",
+      "id": "01a5144d7651",
+      "title": "中国历史经典产业借新科技实现“当代表达”",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735831.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-21T02:18:02.000Z",
+      "published": "2026-11-21T10:38:43.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "8d853104bca6",
-      "title": "前10个月邮政行业寄递量稳步增长 “小包裹”激活消费“新引擎”",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735644.shtml",
+      "id": "b321ab17d35e",
+      "title": "报告称跨国企业将更多目标聚焦到中国 “为亚太乃至全球创造”",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-21/10735816.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-21T01:59:47.000Z",
+      "published": "2026-11-21T10:37:45.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ],
