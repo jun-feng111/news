@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T19:59:02.208Z",
+  "updated": "2026-11-22T00:12:32.971Z",
   "count": 125,
   "sources": {
     "V2EX": 9,
@@ -195,6 +195,74 @@
       "url": "https://www.v2ex.com/t/1258091",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "remoteok-1137917",
+      "title": "Senior Applied AI Engineer",
+      "company": "Wemolo",
+      "location": "MÃ¼nchen",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "embedded",
+        "sys admin",
+        "python",
+        "technical",
+        "dev",
+        "testing",
+        "marketing",
+        "speech",
+        "senior",
+        "ops",
+        "sales",
+        "medical"
+      ],
+      "category": "embedded",
+      "postedDate": "2026-11-21",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-applied-ai-engineer-wemolo-1137917",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1137916",
+      "title": "Strategic Account Executive, Financial Services - US Central",
+      "company": "GitLab",
+      "location": "US Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "sales"
+      ],
+      "category": "sales",
+      "postedDate": "2026-11-21",
+      "url": "https://remoteOK.com/remote-jobs/remote-strategic-account-executive-financial-services-us-central-gitlab-1137916",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1137915",
+      "title": "New Business Account Executive - Nordics",
+      "company": "GitLab",
+      "location": "EMEA",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "sales"
+      ],
+      "category": "sales",
+      "postedDate": "2026-11-21",
+      "url": "https://remoteOK.com/remote-jobs/remote-new-business-account-executive-nordics-gitlab-1137915",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137914",
@@ -2138,31 +2206,6 @@
       "region": "foreign"
     },
     {
-      "id": "remoteok-1137808",
-      "title": "Software Engineer AI Coding Tasks",
-      "company": "Askable",
-      "location": "Remote",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "dev",
-        "golang",
-        "python",
-        "javascript",
-        "typescript",
-        "java",
-        "c plus plus"
-      ],
-      "category": "dev",
-      "postedDate": "2026-11-19",
-      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137808",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
       "id": "remotive-2091177",
       "title": "Content Reviewer - United States",
       "company": "TELUS Digital",
@@ -2185,61 +2228,6 @@
       "postedDate": "2026-11-19",
       "url": "https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091177",
       "source": "Remotive",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137806",
-      "title": "Project Manager",
-      "company": "Syner-G",
-      "location": "Remote",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "project manager",
-        "exec",
-        "consulting",
-        "customer support",
-        "marketing",
-        "finance",
-        "video"
-      ],
-      "category": "project manager",
-      "postedDate": "2026-11-18",
-      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-syner-g-1137806",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137805",
-      "title": "SEO Full Stack Engineer",
-      "company": "Treatwell",
-      "location": "Remote",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "full stack",
-        "react",
-        "rabbitmq",
-        "front end",
-        "technical",
-        "customer support",
-        "dev",
-        "testing",
-        "marketing",
-        "design",
-        "web dev",
-        "exec"
-      ],
-      "category": "full stack",
-      "postedDate": "2026-11-18",
-      "url": "https://remoteOK.com/remote-jobs/remote-seo-full-stack-engineer-treatwell-1137805",
-      "source": "RemoteOK",
       "region": "foreign"
     },
     {
