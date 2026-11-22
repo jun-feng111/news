@@ -1,4 +1,66 @@
 {
+  "科技": [
+    {
+      "id": "c55215d90850",
+      "title": "Can a TV be too large? An investigation",
+      "url": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
+      "summary": "Can a TV be too large。 An investigation",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-22T15:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Image-from-iOS.jpg?resize=1200,900",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "6572e082b901",
+      "title": "A tale of two Nvidias",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "summary": "A tale of two Nvidias",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-21T21:07:42.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "6a6fe18fbb73",
+      "title": "Trump says reported FBI database hack is ‘not good’",
+      "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
+      "summary": "Trump says reported FBI database hack is ‘not good’",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-21T18:44:53.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/fbi-edgar-hoover-building-2288940613.jpg?resize=1200,800",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "e62267ab67ec",
+      "title": "Alaska, your next governor is a Wikipedia nerd",
+      "url": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/",
+      "summary": "Alaska, your next governor is a Wikipedia nerd",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-21T15:18:29.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2304454647.jpg?resize=1200,800",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "e262e9837ef1",
+      "title": "Startup sues Apple in India over tap-to-share contacts feature",
+      "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
+      "summary": "Startup sues Apple in India over tap-to-share contacts feature",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-21T04:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/apple-namedrop.jpg?resize=1200,800",
+      "score": 65,
+      "tags": []
+    }
+  ],
   "AI": [
     {
       "id": "f9419135fce5",
@@ -33,7 +95,7 @@
       "category": "AI",
       "published": "2026-11-21T16:00:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/Inevitable-Key-Art_3x4-full-size.jpg?resize=899,1200",
-      "score": 65,
+      "score": 60,
       "tags": []
     },
     {
@@ -61,78 +123,7 @@
       "tags": []
     }
   ],
-  "科技": [
-    {
-      "id": "6572e082b901",
-      "title": "A tale of two Nvidias",
-      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
-      "summary": "A tale of two Nvidias",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-21T21:07:42.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "6a6fe18fbb73",
-      "title": "Trump says reported FBI database hack is ‘not good’",
-      "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
-      "summary": "Trump says reported FBI database hack is ‘not good’",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-21T18:44:53.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/fbi-edgar-hoover-building-2288940613.jpg?resize=1200,800",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "e62267ab67ec",
-      "title": "Alaska, your next governor is a Wikipedia nerd",
-      "url": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/",
-      "summary": "Alaska, your next governor is a Wikipedia nerd",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-21T15:18:29.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2304454647.jpg?resize=1200,800",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "e262e9837ef1",
-      "title": "Startup sues Apple in India over tap-to-share contacts feature",
-      "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
-      "summary": "Startup sues Apple in India over tap-to-share contacts feature",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-21T04:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/apple-namedrop.jpg?resize=1200,800",
-      "score": 65,
-      "tags": []
-    },
-    {
-      "id": "3f5a2dcba783",
-      "title": "Super-hot rock geothermal could end data center energy woes",
-      "url": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-20T18:34:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/mazama-project-athena-rig-sunset.jpeg?resize=1200,675"
-    }
-  ],
   "就业": [
-    {
-      "id": "8ff43e8c86cc",
-      "title": "AI 智能体应用工程师证书值不值得考？一笔算清楚的账",
-      "url": "https://www.sohu.com/a/1102183688_121304477",
-      "summary": "AI 智能体应用工程师是当前大模型落地岗位中需求量增长最快的方向之一。脉脉《2026 年 1–2 月中高端人才求职招聘洞察》显示，2026 年初 AI 岗位招聘量同比增长约 12 倍，样本岗位平均月薪",
-      "source": "Bing·算法工程师薪资",
-      "category": "就业",
-      "published": "2026-11-16T05:41:00.000Z",
-      "image": "//q1.itc.cn/images01/20261116/5dc10c2b9c2545eaad0b1f167fc6bb68.png",
-      "score": 65,
-      "tags": []
-    },
     {
       "id": "0955340deee2",
       "title": "高顿携手腾讯WorkBuddy生态发布首款大学生实习就业AI Agent",
@@ -146,29 +137,6 @@
       "tags": []
     },
     {
-      "id": "26c8ab7c2bbb",
-      "title": "CyberSN：2026年1-9月美国网络安全职位发布量235786个，同比下降26.4%",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-10-19/doc-inivumam6837930.shtml",
-      "summary": "从整体趋势来看，企业对于人工智能知识和技能的需求依然旺盛。2026年前九个月，接近15%的网络安全职位招聘信息提及AI相关能力，与2025年同期15",
-      "source": "安全工程师·就业分析",
-      "category": "就业",
-      "published": "2026-10-19T13:23:00.000Z",
-      "image": "https://n.sinaimg.cn/tech/zcapp2018/doc_qrcode1.png",
-      "score": 65,
-      "tags": []
-    },
-    {
-      "id": "0c5af784d145",
-      "title": "视频丨跨省揽才、政策托底 今年“秋招”已提供超550万个岗位",
-      "url": "https://www.kunming.cn/news/c/2026-11-16/14086913.shtml",
-      "summary": "在山东青岛举办的第二十六届蓝洽会“智引全球”招聘专场上，120家用人单位带来3050个岗位需求，全面覆盖智能装备、人工智能、生命健康、高端新材料等产业赛道，同步还发布了《青岛市重点产业急需紧缺岗位目录",
-      "source": "Bing·秋招",
-      "category": "就业",
-      "published": "2026-11-16T14:00:00.000Z",
-      "score": 60,
-      "tags": []
-    },
-    {
       "id": "3f7e78c610c4",
       "title": "[Microsoft] AI Agent 研发实习生 - 北京",
       "url": "https://www.v2ex.com/t/1257980#reply2",
@@ -177,6 +145,42 @@
       "category": "就业",
       "published": "2026-11-18T06:09:33.000Z",
       "image": "https://cdn.v2ex.com/gravatar/56c411da8f7367126c773ab95985ac23?s=73&d=retro",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "53250bd99a1a",
+      "title": "65%的AI岗要求Java能力，薪资比纯后端高63%——Java没有被AI埋掉，是 ...",
+      "url": "https://www.sohu.com/a/1103952269_122839655",
+      "summary": "过去两年，写Java的人听到最多的一句话大概是“Java要完了”。但招聘数据给出的是另一个故事：65%的AI相关岗位要求候选人具备Java能力，同一批岗位薪资相对纯后端岗有约63%的溢价；AI应用开发",
+      "source": "Bing·Java开发薪资",
+      "category": "就业",
+      "published": "2026-11-20T01:43:00.000Z",
+      "image": "",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "f4c3ce7ed668",
+      "title": "前端岗位一年减少51%，FDE暴涨4.6倍：AI没有赶走工程师，却正在拆掉 ...",
+      "url": "https://www.sohu.com/a/1100186883_115128",
+      "summary": "AI 到底会先替代谁。 过去两年，人们反复讨论程序员、产品经理和设计师谁会最先受到冲击",
+      "source": "就业报告",
+      "category": "就业",
+      "published": "2026-11-11T08:30:00.000Z",
+      "image": "https://q9.itc.cn/q_70/images03/20261111/f6b72d0aae1d4b949235dfd3e1793fe3.png",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "cbc807bf7dc8",
+      "title": "AI 产品经理岗卷出新高度？本周六职计划拆解 6 大核心能力",
+      "url": "https://finance.ifeng.com/c/8xQw55KXPfK",
+      "summary": "秋招进入收尾阶段，AI产品经理仍是最炙手可热的岗位之一。行业调研显示，2026年传统产品经理岗位同比下滑42%，而AI产品经理岗位需求量暴涨455%，应届生年薪普遍30万至50万元",
+      "source": "产品经理·就业分析",
+      "category": "就业",
+      "published": "2026-10-22T10:06:00.000Z",
+      "image": "https://x0.ifengimg.com/ucms/2026_43/62E44CDB052047FC3CC1B6249B6E1C6D640DEF8D_size69_w650_h365.jpg",
       "score": 60,
       "tags": []
     }
@@ -207,55 +211,105 @@
       "tags": []
     },
     {
-      "id": "0c6fdffe6faa",
-      "title": "中国官方：2027届全国普通高校毕业生规模预计1299万人",
-      "url": "https://www.chinanews.com.cn/edu/2026/11-19/10734900.shtml",
-      "summary": "中新社北京11月19日电 (记者 曾玥)记者19日从中国教育部获悉，2027届全国普通高校毕业生规模预计1299万人",
+      "id": "3e697e022ad3",
+      "title": "浙江探路综合高中 给成长多留一段“缓冲期”",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-20/10735521.shtml",
+      "summary": "中新网杭州11月20日电 题：浙江探路综合高中 给成长多留一段“缓冲期”",
       "source": "中新网教育",
       "category": "社会",
-      "published": "2026-11-19T12:54:31.000Z",
+      "published": "2026-11-20T12:41:09.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 50,
       "tags": []
     },
     {
-      "id": "93e56ca100dd",
-      "title": "中国自研合成生物领域首个酶设计大模型发布",
-      "url": "https://www.chinanews.com.cn/edu/2026/11-19/10734841.shtml",
-      "summary": "中新社天津11月19日电 (记者 周亚强)中国自主研发的酶设计大模型“天华开物”19日在天津大学发布。这是合成生物领域首个公开发布的大模型，目标是将工业酶研发从“碰运气”变为“算出来”",
+      "id": "57bd2fe3581c",
+      "title": "访西安石油大学“油泥新生”团队：助力石化固废绿色资源化",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-20/10735520.shtml",
+      "summary": "中新网北京11月20日电 题：访西安石油大学“油泥新生”团队：助力石化固废绿色资源化",
       "source": "中新网教育",
       "category": "社会",
-      "published": "2026-11-19T11:47:34.000Z",
+      "published": "2026-11-20T12:40:45.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 50,
       "tags": []
     },
     {
-      "id": "e2501fa9c2b6",
-      "title": "2027届全国普通高校毕业生规模预计1299万人",
-      "url": "https://www.chinanews.com.cn/edu/2026/11-19/10734743.shtml",
-      "summary": "中新网11月19日电 据教育部网站消息，11月19日，中央教育工作领导小组秘书组、教育部、人力资源社会保障部、工业和信息化部、国务院国资委在京联合召开2027届全国普通高校毕业生就业创业工作会议。会议",
+      "id": "3bf0c1f42374",
+      "title": "中国高层次国际化人才培养创新实践项目惠及62.3万余名师生",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-20/10735503.shtml",
+      "summary": "中新网哈尔滨11月20日电 (史轶夫 邵明琛)11月19日至20日，“2026高层次国际化人才培养创新实践项目年度推进会”在黑龙江大学举办。“高层次国际化人才培养创新实践项目”实施以来，截至目前，项目",
       "source": "中新网教育",
       "category": "社会",
-      "published": "2026-11-19T09:08:47.000Z",
+      "published": "2026-11-20T12:21:16.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 50,
       "tags": []
     }
   ],
-  "政策": [
+  "开发": [
     {
-      "id": "a1b398c49e13",
-      "title": "黄师荣誉 | 14个大学生创业项目获省级创业扶持，创历年新高！",
-      "url": "https://www.sohu.com/a/1101929781_121123725",
-      "summary": "近日，湖北省人力资源和社会保障厅、湖北省教育厅与共青团湖北省委员会联合发布2026年度湖北省大学生创业扶持项目拟扶持名单，我校14个大学生创业项目成功入选。其中，创业组9个项目共获50万元省级创业扶持",
-      "source": "Bing·大学生创业扶持政策",
-      "category": "政策",
-      "published": "2026-11-15T15:21:00.000Z",
-      "image": "https://q6.itc.cn/q_70/images03/20261115/fe4b930df48540c18caf14fb44b4894c.png",
+      "id": "639d3cb0d448",
+      "title": "Grab 通过安全策略应对 AI 生成代码变更激增，提升移动端 App 稳定性",
+      "url": "https://www.infoq.cn/article/AH8deOIGb5hMHRPIKfrf?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/AH8deOIGb5hMHRPIKfrf",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-20T14:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/98/f5/983110b8655f728706d6c3f47e14f5f5.jpg",
       "score": 55,
       "tags": []
     },
+    {
+      "id": "8771f9155258",
+      "title": "谷歌发布用于机器人控制、仿真和策略优化的 Gemini 4 Argon",
+      "url": "https://www.infoq.cn/article/S4LH5Z9zcbLokm5uNSKR?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/S4LH5Z9zcbLokm5uNSKR",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-20T11:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/b9/f1/b9cc507e9fa2178fb8e5a86942971af1.png",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "7764942dfa67",
+      "title": "源码级拆解：开源 WAF 的底层流控与熔断机制是如何保护后端的？ - anye1991",
+      "url": "https://www.cnblogs.com/anye1991/p/23735610",
+      "summary": "做后端和运维的老哥应该都有过这种心惊肉跳的经历：某个业务接口突然被大量恶意脚本并发请求，或者某个核心服务突然响应超时。如果没有良好的流控和熔断机制，这种单点故障很快就会引发雪崩效应，导致整个服务器宕机",
+      "source": "博客园",
+      "category": "开发",
+      "published": "2026-11-20T15:54:00.000Z",
+      "image": "https://img2024.cnblogs.com/blog/3862860/202611/3862860-20261120235410725-1239980518.png",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "34e692a8f905",
+      "title": "科技爱好者周刊（第 420 期）：最分心的一年",
+      "url": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-420.html",
+      "summary": "这里记录每周值得分享的科技内容，周五发布",
+      "source": "阮一峰",
+      "category": "开发",
+      "published": "2026-11-20T00:07:30.000Z",
+      "image": "",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "8dbec1160d0f",
+      "title": "OpenBSD 8.0 带来了更广泛的硬件支持、安全性增强以及虚拟化改进",
+      "url": "https://www.infoq.cn/article/ENG8g3E0RX3IiuvgD7BG?utm_source=rss&amp;utm_medium=article",
+      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/ENG8g3E0RX3IiuvgD7BG",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-20T13:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/cc/1f/cc6aeb188bd1d971cb9e1be40a7c3d1f.jpg",
+      "score": 50,
+      "tags": []
+    }
+  ],
+  "政策": [
     {
       "id": "e6c32086fd86",
       "title": "最高可贷50万元，湖南优化政策为大学生创业送上金融“活水”",
@@ -302,105 +356,64 @@
       "image": "https://q7.itc.cn/q_70/images03/20261116/603420a43cb1428f8655329100c7f936.jpeg",
       "score": 50,
       "tags": []
-    }
-  ],
-  "开发": [
-    {
-      "id": "34e692a8f905",
-      "title": "科技爱好者周刊（第 420 期）：最分心的一年",
-      "url": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-420.html",
-      "summary": "这里记录每周值得分享的科技内容，周五发布",
-      "source": "阮一峰",
-      "category": "开发",
-      "published": "2026-11-20T00:07:30.000Z",
-      "image": "",
-      "score": 55,
-      "tags": []
     },
     {
-      "id": "97a1dd5ae507",
-      "title": "Sam Altman罕见发声：我不担心Anthropic先上市，市场上不缺投资者",
-      "url": "https://www.infoq.cn/article/Mf3Zbm9JF3RWbkvjMKYZ?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/Mf3Zbm9JF3RWbkvjMKYZ",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-19T22:57:55.000Z",
-      "image": "https://static001.infoq.cn/resource/image/db/f9/dbe8469d4c404e91faa8e63dbf7268f9.png",
+      "id": "f5cb39eaf8f6",
+      "title": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
+      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202606/t20260602_1438600.html",
+      "summary": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
+      "source": "教育部",
+      "category": "政策",
+      "published": "2026-06-02T00:00:00.000Z",
+      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
       "score": 50,
       "tags": []
-    },
-    {
-      "id": "92db06981ef1",
-      "title": "Pinterest 联合英特尔将开源性能分析推向互联网级规模",
-      "url": "https://www.infoq.cn/article/fs4IuBTjwIwR1xUgdjqt?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-22T11:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/98/45/983966ab1295ed5f5b70ba7aedd52245.png"
-    },
-    {
-      "id": "c46054c8e66e",
-      "title": "智能体身份国际标准化：体系布局与研制实践｜AICon北京",
-      "url": "https://www.infoq.cn/article/721YPdyIZ1D8xz20D22C?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-22T10:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/27/34/2714a234bbb3f65dfb313164e1a02234.png"
-    },
-    {
-      "id": "afc52804661e",
-      "title": "亚马逊云科技推出 TorchNeuron，可以直接在 AWS Trainium 上运行 PyTorch 模型，无需任何修改",
-      "url": "https://www.infoq.cn/article/XhtWUmaolJECUhPX2jzY?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-22T10:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/a0/0d/a0b70de959696be3ebc674582469d70d.png"
     }
   ],
   "财经": [
     {
-      "id": "70f506ccbf14",
-      "title": "中国超大规模“试验场” 助全球技术迭代 创新优势赋能亚太共同发展",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736072.shtml",
+      "id": "97f55113de2f",
+      "title": "创14个月新低 国际金价走势与地缘政治局势变化有何关联？",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736215.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-22T07:36:52.000Z",
+      "published": "2026-11-22T15:13:49.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "d30d1d84a29d",
-      "title": "“中国服务”迈上新台阶——中国经济三季报亮点解析",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736066.shtml",
+      "id": "01d9ffd63d82",
+      "title": "错峰秋假，让淡季旅游“热”起来",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736205.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-22T07:28:51.000Z",
+      "published": "2026-11-22T13:59:41.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "e30bbbc8a8c6",
-      "title": "15个创业项目登台“找市场” 东南大学举行OPC学生路演专场",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736058.shtml",
+      "id": "3c198cf7be08",
+      "title": "中国经济看“新”丨从“尝鲜”到“潮流”，智能穿戴打开消费新空间",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736203.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-22T07:09:50.000Z",
+      "published": "2026-11-22T13:52:36.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "5125dffb670f",
-      "title": "苏州“同心合锦”围巾登上国际舞台受热捧",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736062.shtml",
+      "id": "a88934dab99b",
+      "title": "重大工程有序推进 助力经济民生发展",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736202.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-22T07:07:28.000Z",
+      "published": "2026-11-22T13:50:42.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "00a4c456b973",
-      "title": "南珠高铁控制性工程文思隧道顺利贯通",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736063.shtml",
+      "id": "28a23570da94",
+      "title": "多方协同发力 保障冬季“菜篮子”量足价稳",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736204.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-22T07:06:56.000Z",
+      "published": "2026-11-22T13:48:50.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
