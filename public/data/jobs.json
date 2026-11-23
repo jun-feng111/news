@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T21:40:47.359Z",
+  "updated": "2026-11-23T02:19:09.232Z",
   "count": 125,
   "sources": {
     "V2EX": 9,
@@ -202,6 +202,272 @@
       "url": "https://www.v2ex.com/t/1258038",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "remoteok-1137977",
+      "title": "Product Manager, Developer Ecosystem",
+      "company": "Reddit",
+      "location": "US Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "product"
+      ],
+      "category": "product",
+      "postedDate": "2026-11-22",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-manager-developer-ecosystem-reddit-1137977",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1137976",
+      "title": "Manager, Technical Accounting and Equity Reporting",
+      "company": "ÅURA",
+      "location": "US Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "finance"
+      ],
+      "category": "finance",
+      "postedDate": "2026-11-22",
+      "url": "https://remoteOK.com/remote-jobs/remote-manager-technical-accounting-and-equity-reporting-oura-1137976",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1137975",
+      "title": "Senior SRE, Site Experience",
+      "company": "Reddit",
+      "location": "US Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "devops"
+      ],
+      "category": "devops",
+      "postedDate": "2026-11-22",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-sre-site-experience-reddit-1137975",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1137974",
+      "title": "Senior Staff SRE, Site Experience",
+      "company": "Reddit",
+      "location": "US Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "devops"
+      ],
+      "category": "devops",
+      "postedDate": "2026-11-22",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-staff-sre-site-experience-reddit-1137974",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1137973",
+      "title": "DRG Inpatient Coding Validator",
+      "company": "Clover Health",
+      "location": "US Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "other"
+      ],
+      "category": "other",
+      "postedDate": "2026-11-22",
+      "url": "https://remoteOK.com/remote-jobs/remote-drg-inpatient-coding-validator-clover-health-1137973",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1137972",
+      "title": "DRG Validation Auditor",
+      "company": "Clover Health",
+      "location": "US Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "other"
+      ],
+      "category": "other",
+      "postedDate": "2026-11-22",
+      "url": "https://remoteOK.com/remote-jobs/remote-drg-validation-auditor-clover-health-1137972",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1137970",
+      "title": "Sr. Forward Deployed Data Engineer",
+      "company": "Natera",
+      "location": "US Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "devops"
+      ],
+      "category": "devops",
+      "postedDate": "2026-11-22",
+      "url": "https://remoteOK.com/remote-jobs/remote-sr-forward-deployed-data-engineer-natera-1137970",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1137969",
+      "title": "1099 Bilingual NP/PA - Virtual Urgent Care",
+      "company": "Oscar Health",
+      "location": "Worldwide",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "other"
+      ],
+      "category": "other",
+      "postedDate": "2026-11-22",
+      "url": "https://remoteOK.com/remote-jobs/remote-1099-bilingual-np-pa-virtual-urgent-care-oscar-health-1137969",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1137968",
+      "title": "Advanced Practice Provider - Virtual Urgent Care",
+      "company": "Oscar Health",
+      "location": "Worldwide",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "other"
+      ],
+      "category": "other",
+      "postedDate": "2026-11-22",
+      "url": "https://remoteOK.com/remote-jobs/remote-advanced-practice-provider-virtual-urgent-care-oscar-health-1137968",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1137967",
+      "title": "Senior Clinical Trials Systems Manager",
+      "company": "Natera",
+      "location": "US Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "product"
+      ],
+      "category": "product",
+      "postedDate": "2026-11-22",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-clinical-trials-systems-manager-natera-1137967",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1137966",
+      "title": "Supv, Prior Authorization",
+      "company": "Natera",
+      "location": "US Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "other"
+      ],
+      "category": "other",
+      "postedDate": "2026-11-22",
+      "url": "https://remoteOK.com/remote-jobs/remote-supv-prior-authorization-natera-1137966",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1137965",
+      "title": "Business Development Representative, SLED - West",
+      "company": "GitLab",
+      "location": "US Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "sales"
+      ],
+      "category": "sales",
+      "postedDate": "2026-11-22",
+      "url": "https://remoteOK.com/remote-jobs/remote-business-development-representative-sled-west-gitlab-1137965",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1137964",
+      "title": "Regional Sales Director, Canada",
+      "company": "GitLab",
+      "location": "Canada Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "sales"
+      ],
+      "category": "sales",
+      "postedDate": "2026-11-22",
+      "url": "https://remoteOK.com/remote-jobs/remote-regional-sales-director-canada-gitlab-1137964",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1137963",
+      "title": "Strategic Account Executive - Spain",
+      "company": "GitLab",
+      "location": "Europe",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "sales"
+      ],
+      "category": "sales",
+      "postedDate": "2026-11-22",
+      "url": "https://remoteOK.com/remote-jobs/remote-strategic-account-executive-spain-gitlab-1137963",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1137962",
@@ -1865,310 +2131,6 @@
       "category": "programming",
       "postedDate": "2026-11-20",
       "url": "https://remoteOK.com/remote-jobs/remote-senior-software-developer-canada-clover-health-1137872",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137871",
-      "title": "Senior Software Engineer",
-      "company": "Clover Health",
-      "location": "US Only",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "programming"
-      ],
-      "category": "programming",
-      "postedDate": "2026-11-20",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-clover-health-1137871",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137870",
-      "title": "Lifecycle Value Manager (Enterprise Customer Success/ Expansion), UK",
-      "company": "Everpure",
-      "location": "UK Only",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "sales"
-      ],
-      "category": "sales",
-      "postedDate": "2026-11-20",
-      "url": "https://remoteOK.com/remote-jobs/remote-lifecycle-value-manager-enterprise-customer-success-expansion-uk-everpure-1137870",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137869",
-      "title": "Lifecycle Value Manager, Germany",
-      "company": "Everpure",
-      "location": "Europe",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "sales"
-      ],
-      "category": "sales",
-      "postedDate": "2026-11-20",
-      "url": "https://remoteOK.com/remote-jobs/remote-lifecycle-value-manager-germany-everpure-1137869",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137868",
-      "title": "Regional MSP Partner Manager, EMEA South (Paris)",
-      "company": "Everpure",
-      "location": "Europe",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "sales"
-      ],
-      "category": "sales",
-      "postedDate": "2026-11-20",
-      "url": "https://remoteOK.com/remote-jobs/remote-regional-msp-partner-manager-emea-south-paris-everpure-1137868",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137867",
-      "title": "Customer Success Engineer",
-      "company": "GitLab",
-      "location": "US Only",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "customer support"
-      ],
-      "category": "customer support",
-      "postedDate": "2026-11-20",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-engineer-gitlab-1137867",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137866",
-      "title": "Customer Success LATAM",
-      "company": "GitLab",
-      "location": "US Only",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "customer support"
-      ],
-      "category": "customer support",
-      "postedDate": "2026-11-20",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-latam-gitlab-1137866",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137865",
-      "title": "Senior Product Engineer",
-      "company": "Arbor Education",
-      "location": "Remote",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "design",
-        "react",
-        "backend",
-        "education",
-        "consulting",
-        "docker",
-        "customer support",
-        "dev",
-        "testing",
-        "scrum",
-        "exec",
-        "quality assurance"
-      ],
-      "category": "design",
-      "postedDate": "2026-11-20",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-product-engineer-arbor-education-1137865",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137864",
-      "title": "IT Manager",
-      "company": "1mind",
-      "location": "United States",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "exec",
-        "saas",
-        "infosec",
-        "recruiter",
-        "customer support",
-        "dev",
-        "marketing",
-        "speech",
-        "finance",
-        "ops",
-        "legal",
-        "golang"
-      ],
-      "category": "exec",
-      "postedDate": "2026-11-20",
-      "url": "https://remoteOK.com/remote-jobs/remote-it-manager-1mind-1137864",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137863",
-      "title": "Business Development Specialist Arabic speaker",
-      "company": "FP Markets",
-      "location": "Remote",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "crypto",
-        "education",
-        "customer support",
-        "marketing",
-        "travel",
-        "exec",
-        "content writing",
-        "bus dev",
-        "sales",
-        "full time"
-      ],
-      "category": "crypto",
-      "postedDate": "2026-11-20",
-      "url": "https://remoteOK.com/remote-jobs/remote-business-development-specialist-arabic-speaker-fp-markets-1137863",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137862",
-      "title": "Mental Health Clinical Supervisor",
-      "company": "Handspring",
-      "location": "New York",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "sys admin",
-        "education",
-        "supervisor",
-        "customer support",
-        "marketing",
-        "exec",
-        "medical",
-        "full time"
-      ],
-      "category": "sys admin",
-      "postedDate": "2026-11-20",
-      "url": "https://remoteOK.com/remote-jobs/remote-mental-health-clinical-supervisor-handspring-1137862",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137861",
-      "title": "Customer Success Architect - East",
-      "company": "GitLab",
-      "location": "US Only",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "customer support"
-      ],
-      "category": "customer support",
-      "postedDate": "2026-11-20",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-architect-east-gitlab-1137861",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137860",
-      "title": "Senior Atlassian Cloud Admininstrator",
-      "company": "Dropbox",
-      "location": "North America",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "devops"
-      ],
-      "category": "devops",
-      "postedDate": "2026-11-19",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-atlassian-cloud-admininstrator-dropbox-1137860",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137859",
-      "title": "Senior Manager, Commercial Learning and Development",
-      "company": "Elation Health",
-      "location": "US Only",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "product"
-      ],
-      "category": "product",
-      "postedDate": "2026-11-19",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-manager-commercial-learning-and-development-elation-health-1137859",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137858",
-      "title": "Principal DevSecOps Engineer",
-      "company": "Upgrade",
-      "location": "US Only",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "devops"
-      ],
-      "category": "devops",
-      "postedDate": "2026-11-19",
-      "url": "https://remoteOK.com/remote-jobs/remote-principal-devsecops-engineer-upgrade-1137858",
       "source": "RemoteOK",
       "region": "foreign"
     },
