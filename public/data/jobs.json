@@ -1,14 +1,52 @@
 {
-  "updated": "2026-11-23T11:54:00.622Z",
-  "count": 123,
+  "updated": "2026-11-23T23:28:56.687Z",
+  "count": 122,
   "sources": {
     "V2EX": 7,
     "RemoteOK": 100,
-    "Remotive": 16,
+    "Remotive": 15,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1259266",
+      "title": "招聘：设计工程师 欢迎介绍，感谢红包 10K",
+      "company": "yjpeminem0604",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [],
+      "category": "设计",
+      "postedDate": "2026-11-23",
+      "url": "https://www.v2ex.com/t/1259266",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1259236",
+      "title": "区块链行情开发工程师（Golang/On-Chain Data/实时计算）",
+      "company": "beyondsoft",
+      "location": "招聘",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "go",
+        "golang",
+        "redis"
+      ],
+      "category": "数据",
+      "postedDate": "2026-11-23",
+      "url": "https://www.v2ex.com/t/1259236",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1259160",
       "title": "线上远程全职 前端工程师/全栈开发工程师 岗位级别 高级 / 资深 25K-30K",
@@ -121,61 +159,6 @@
       "category": "前端",
       "postedDate": "2026-11-21",
       "url": "https://www.v2ex.com/t/1258720",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1258367",
-      "title": "软件工程师，外企内推",
-      "company": "ligiggy",
-      "location": "徕卡显微系统",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "c++",
-        "linux"
-      ],
-      "category": "其他",
-      "postedDate": "2026-11-19",
-      "url": "https://www.v2ex.com/t/1258367",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1258347",
-      "title": "全栈高级工程师（Web / Flutter / Go），AI 全栈工程师(UTC-5 至 UTC+5 时区)",
-      "company": "Brand001",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "python",
-        "java",
-        "go",
-        "golang",
-        "javascript",
-        "typescript",
-        "react",
-        "vue",
-        "node",
-        "docker",
-        "kubernetes",
-        "linux",
-        "mysql",
-        "redis",
-        "grpc",
-        "flutter",
-        "php"
-      ],
-      "category": "全栈",
-      "postedDate": "2026-11-19",
-      "url": "https://www.v2ex.com/t/1258347",
       "source": "V2EX",
       "region": "domestic"
     },
@@ -309,44 +292,6 @@
       "category": "devops",
       "postedDate": "2026-11-22",
       "url": "https://remoteOK.com/remote-jobs/remote-sr-forward-deployed-data-engineer-natera-1137970",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137969",
-      "title": "1099 Bilingual NP/PA - Virtual Urgent Care",
-      "company": "Oscar Health",
-      "location": "Worldwide",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "other"
-      ],
-      "category": "other",
-      "postedDate": "2026-11-22",
-      "url": "https://remoteOK.com/remote-jobs/remote-1099-bilingual-np-pa-virtual-urgent-care-oscar-health-1137969",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137968",
-      "title": "Advanced Practice Provider - Virtual Urgent Care",
-      "company": "Oscar Health",
-      "location": "Worldwide",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "other"
-      ],
-      "category": "other",
-      "postedDate": "2026-11-22",
-      "url": "https://remoteOK.com/remote-jobs/remote-advanced-practice-provider-virtual-urgent-care-oscar-health-1137968",
       "source": "RemoteOK",
       "region": "foreign"
     },
@@ -841,63 +786,6 @@
       "category": "devops",
       "postedDate": "2026-11-21",
       "url": "https://remoteOK.com/remote-jobs/remote-lead-office-of-software-assurance-natera-1137940",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137939",
-      "title": "Medical Science Liaison - Breast Oncology",
-      "company": "Natera",
-      "location": "US Only",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "other"
-      ],
-      "category": "other",
-      "postedDate": "2026-11-21",
-      "url": "https://remoteOK.com/remote-jobs/remote-medical-science-liaison-breast-oncology-natera-1137939",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137938",
-      "title": "Physician Assistant - Virtual Health Assessment",
-      "company": "Oscar Health",
-      "location": "Worldwide",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "other"
-      ],
-      "category": "other",
-      "postedDate": "2026-11-21",
-      "url": "https://remoteOK.com/remote-jobs/remote-physician-assistant-virtual-health-assessment-oscar-health-1137938",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137937",
-      "title": "Physician - Virtual Urgent Care (Part-Time)",
-      "company": "Oscar Health",
-      "location": "Worldwide",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "other"
-      ],
-      "category": "other",
-      "postedDate": "2026-11-21",
-      "url": "https://remoteOK.com/remote-jobs/remote-physician-virtual-urgent-care-part-time-oscar-health-1137937",
       "source": "RemoteOK",
       "region": "foreign"
     },
@@ -1693,25 +1581,6 @@
       "region": "foreign"
     },
     {
-      "id": "remoteok-1137895",
-      "title": "Virtual IOP Clinician â Florida & Texas",
-      "company": "Talkspace",
-      "location": "Worldwide",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "other"
-      ],
-      "category": "other",
-      "postedDate": "2026-11-20",
-      "url": "https://remoteOK.com/remote-jobs/remote-virtual-iop-clinician-florida-texas-talkspace-1137895",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
       "id": "remoteok-1137894",
       "title": "Product Manager, Ecosystem Relevance",
       "company": "Reddit",
@@ -1807,25 +1676,6 @@
       "region": "foreign"
     },
     {
-      "id": "remoteok-1137888",
-      "title": "Intake and Discharge Clinician",
-      "company": "Talkspace",
-      "location": "Worldwide",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "other"
-      ],
-      "category": "other",
-      "postedDate": "2026-11-20",
-      "url": "https://remoteOK.com/remote-jobs/remote-intake-and-discharge-clinician-talkspace-1137888",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
       "id": "remoteok-1137886",
       "title": "Sr. Product Manager",
       "company": "6sense",
@@ -1898,44 +1748,6 @@
       "category": "exec",
       "postedDate": "2026-11-20",
       "url": "https://remoteOK.com/remote-jobs/remote-technical-chief-of-staff-to-the-cto-clover-health-1137883",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137882",
-      "title": "Per Diem Digital Clinician | MD/DO (CA license)",
-      "company": "Galileo",
-      "location": "US Only",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "other"
-      ],
-      "category": "other",
-      "postedDate": "2026-11-20",
-      "url": "https://remoteOK.com/remote-jobs/remote-per-diem-digital-clinician-md-do-ca-license-galileo-1137882",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137881",
-      "title": "Per Diem Digital Clinician | NP (CA license)",
-      "company": "Galileo",
-      "location": "US Only",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "other"
-      ],
-      "category": "other",
-      "postedDate": "2026-11-20",
-      "url": "https://remoteOK.com/remote-jobs/remote-per-diem-digital-clinician-np-ca-license-galileo-1137881",
       "source": "RemoteOK",
       "region": "foreign"
     },
@@ -2107,6 +1919,208 @@
       "category": "programming",
       "postedDate": "2026-11-20",
       "url": "https://remoteOK.com/remote-jobs/remote-senior-software-developer-canada-clover-health-1137872",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1137871",
+      "title": "Senior Software Engineer",
+      "company": "Clover Health",
+      "location": "US Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "programming"
+      ],
+      "category": "programming",
+      "postedDate": "2026-11-20",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-clover-health-1137871",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1137870",
+      "title": "Lifecycle Value Manager (Enterprise Customer Success/ Expansion), UK",
+      "company": "Everpure",
+      "location": "UK Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "sales"
+      ],
+      "category": "sales",
+      "postedDate": "2026-11-20",
+      "url": "https://remoteOK.com/remote-jobs/remote-lifecycle-value-manager-enterprise-customer-success-expansion-uk-everpure-1137870",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1137869",
+      "title": "Lifecycle Value Manager, Germany",
+      "company": "Everpure",
+      "location": "Europe",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "sales"
+      ],
+      "category": "sales",
+      "postedDate": "2026-11-20",
+      "url": "https://remoteOK.com/remote-jobs/remote-lifecycle-value-manager-germany-everpure-1137869",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1137868",
+      "title": "Regional MSP Partner Manager, EMEA South (Paris)",
+      "company": "Everpure",
+      "location": "Europe",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "sales"
+      ],
+      "category": "sales",
+      "postedDate": "2026-11-20",
+      "url": "https://remoteOK.com/remote-jobs/remote-regional-msp-partner-manager-emea-south-paris-everpure-1137868",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1137867",
+      "title": "Customer Success Engineer",
+      "company": "GitLab",
+      "location": "US Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "customer support"
+      ],
+      "category": "customer support",
+      "postedDate": "2026-11-20",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-engineer-gitlab-1137867",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1137866",
+      "title": "Customer Success LATAM",
+      "company": "GitLab",
+      "location": "US Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "customer support"
+      ],
+      "category": "customer support",
+      "postedDate": "2026-11-20",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-latam-gitlab-1137866",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1137865",
+      "title": "Senior Product Engineer",
+      "company": "Arbor Education",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "design",
+        "react",
+        "backend",
+        "education",
+        "consulting",
+        "docker",
+        "customer support",
+        "dev",
+        "testing",
+        "scrum",
+        "exec",
+        "quality assurance"
+      ],
+      "category": "design",
+      "postedDate": "2026-11-20",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-product-engineer-arbor-education-1137865",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1137864",
+      "title": "IT Manager",
+      "company": "1mind",
+      "location": "United States",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "exec",
+        "saas",
+        "infosec",
+        "recruiter",
+        "customer support",
+        "dev",
+        "marketing",
+        "speech",
+        "finance",
+        "ops",
+        "legal",
+        "golang"
+      ],
+      "category": "exec",
+      "postedDate": "2026-11-20",
+      "url": "https://remoteOK.com/remote-jobs/remote-it-manager-1mind-1137864",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1137863",
+      "title": "Business Development Specialist Arabic speaker",
+      "company": "FP Markets",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "crypto",
+        "education",
+        "customer support",
+        "marketing",
+        "travel",
+        "exec",
+        "content writing",
+        "bus dev",
+        "sales",
+        "full time"
+      ],
+      "category": "crypto",
+      "postedDate": "2026-11-20",
+      "url": "https://remoteOK.com/remote-jobs/remote-business-development-specialist-arabic-speaker-fp-markets-1137863",
       "source": "RemoteOK",
       "region": "foreign"
     },
@@ -2479,7 +2493,7 @@
     },
     {
       "id": "remotive-2091135",
-      "title": "Senior Back-end Developer",
+      "title": "Senior Back-end Developerusa",
       "company": "Lemon.io",
       "location": "Europe, USA, Canada, Australia, Singapore, Mexico, Saudi Arabia",
       "remote": true,
@@ -2503,28 +2517,7 @@
       ],
       "category": "Software Development",
       "postedDate": "2026-10-27",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135",
-      "source": "Remotive",
-      "region": "foreign"
-    },
-    {
-      "id": "remotive-2091161",
-      "title": "AI Trainer - Video Annotation",
-      "company": "iMerit Technology",
-      "location": "Worldwide",
-      "remote": true,
-      "salaryText": "70K-80K",
-      "salaryMin": 70000,
-      "salaryMax": 80000,
-      "salaryCurrency": "USD",
-      "skills": [
-        "video",
-        "AI/ML",
-        "robotics"
-      ],
-      "category": "Artificial Intelligence",
-      "postedDate": "2026-10-22",
-      "url": "https://remotive.com/remote-jobs/artificial-intelligence/ai-trainer-video-annotation-2091161",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-back-end-developerusa-2091135",
       "source": "Remotive",
       "region": "foreign"
     }

@@ -1,101 +1,113 @@
 {
-  "AI": [
+  "科技": [
     {
-      "id": "772a602107ca",
-      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
-      "summary": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "id": "5d1c454ef7b7",
+      "title": "Figma employee sues, alleging company forced her to confront harassers",
+      "url": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/",
+      "summary": "Figma employee sues, alleging company forced her to confront harassers",
       "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-11-22T21:14:07.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+      "category": "科技",
+      "published": "2026-11-23T23:07:49.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-1222551151.jpg?resize=1200,877",
       "score": 75,
       "tags": []
     },
     {
-      "id": "ca5d392ce76c",
-      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
-      "summary": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "id": "b23fe2325ee9",
+      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+      "summary": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
       "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-11-23T01:25:53.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/antrhopic-openingday-getty.jpg?resize=1200,801",
-      "score": 60,
+      "category": "科技",
+      "published": "2026-11-23T21:47:41.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2227140868.jpg?w=1024",
+      "score": 65,
       "tags": []
     },
     {
-      "id": "f8ce89f0a31b",
-      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-      "summary": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "id": "b22bb97b417e",
+      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+      "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+      "summary": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
       "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-11-21T21:37:10.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/05/signal-app-icon-phone.jpg?resize=1200,800",
-      "score": 60,
+      "category": "科技",
+      "published": "2026-11-23T21:25:42.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2303986898.jpg?resize=1200,800",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "1f8997ce74a9",
+      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company&#8217;s HQ",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+      "summary": "Nvidia employees greet Jensen Huang like a hero as he returns to company&#8217;s HQ",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-23T20:38:53.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
+      "score": 65,
+      "tags": []
+    },
+    {
+      "id": "26cdaf273cc2",
+      "title": "&#8216;Outrageous,&#8217; &#8216;reckless,&#8217; &#8216;wow&#8217;: Here&#8217;s what politicians are saying about Jensen Huang&#8217;s return to Nvidia",
+      "url": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/",
+      "summary": "&#8216;Outrageous,&#8217; &#8216;reckless,&#8217; &#8216;wow&#8217;: Here&#8217;s what politicians a",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-23T19:31:41.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297764008.jpg?w=1024",
+      "score": 65,
       "tags": []
     }
   ],
-  "科技": [
+  "AI": [
     {
-      "id": "515b29c7e877",
-      "title": "‘You Can See Everything’ has made more than $100M worldwide",
-      "url": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
-      "summary": "‘You Can See Everything’ has made more than $100M worldwide",
+      "id": "fc410e023e94",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "summary": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
       "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-22T21:42:48.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/10/V8_PHASE-1_LOBTS.jpg?resize=1200,900",
+      "category": "AI",
+      "published": "2026-11-23T22:05:50.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2295579000.jpg?resize=1200,800",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "a42ef673b6ac",
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "summary": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-11-23T22:02:05.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/supertake-header.jpg?resize=1200,675",
       "score": 70,
       "tags": []
     },
     {
-      "id": "e485a29793b8",
-      "title": "The best apps to make new friends right now",
-      "url": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
-      "summary": "The best apps to make new friends right now",
+      "id": "389c89635cfd",
+      "title": "Google Search&#8217;s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "summary": "Google Search&#8217;s AI Mode can now tap into Drive and Wallet for more personalized responses",
       "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-22T21:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-596631439.jpg?resize=1200,800",
+      "category": "AI",
+      "published": "2026-11-23T19:14:46.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800",
       "score": 70,
       "tags": []
     },
     {
-      "id": "9d8fa306d219",
-      "title": "Why data centers are at the center of the Big Tech backlash",
-      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
-      "summary": "Why data centers are at the center of the Big Tech backlash",
+      "id": "e483a8800952",
+      "title": "Amazon snaps up Decart&#8217;s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+      "summary": "Amazon snaps up Decart&#8217;s AI optimization tech for $7。5B as it prepares to sell Trainium chips",
       "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-22T18:08:43.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "290d35fa760c",
-      "title": "TechCrunch Mobility: A/B testing robots vs. humans",
-      "url": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
-      "summary": "TechCrunch Mobility: A/B testing robots vs。 humans",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-22T17:06:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/zoox-las-vegas-Getty.jpg?resize=1200,800",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "c55215d90850",
-      "title": "Can a TV be too large? An investigation",
-      "url": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
-      "summary": "Can a TV be too large。 An investigation",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-22T15:00:00.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Image-from-iOS.jpg?resize=1200,900",
-      "score": 70,
+      "category": "AI",
+      "published": "2026-11-23T17:14:23.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2024/12/Decart-Founders-Dean-Leitersdorf-CEO-and-Moshe-Shalev-CPO.jpg?resize=1200,800",
+      "score": 65,
       "tags": []
     }
   ],
@@ -110,17 +122,6 @@
       "published": "2026-09-03T03:36:00.000Z",
       "image": "https://img3.chinadaily.com.cn/static/2024cn_articleandcolumn/img/Mobile/Artical_Share_Icon1.png",
       "score": 65,
-      "tags": []
-    },
-    {
-      "id": "0c5af784d145",
-      "title": "视频丨跨省揽才、政策托底 今年“秋招”已提供超550万个岗位",
-      "url": "https://www.kunming.cn/news/c/2026-11-16/14086913.shtml",
-      "summary": "在山东青岛举办的第二十六届蓝洽会“智引全球”招聘专场上，120家用人单位带来3050个岗位需求，全面覆盖智能装备、人工智能、生命健康、高端新材料等产业赛道，同步还发布了《青岛市重点产业急需紧缺岗位目录",
-      "source": "Bing·秋招",
-      "category": "就业",
-      "published": "2026-11-16T14:00:00.000Z",
-      "score": 60,
       "tags": []
     },
     {
@@ -156,6 +157,18 @@
       "category": "就业",
       "published": "2026-11-18T06:09:33.000Z",
       "image": "https://cdn.v2ex.com/gravatar/56c411da8f7367126c773ab95985ac23?s=73&d=retro",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "53250bd99a1a",
+      "title": "65%的AI岗要求Java能力，薪资比纯后端高63%——Java没有被AI埋掉，是 ...",
+      "url": "https://www.sohu.com/a/1103952269_122839655",
+      "summary": "过去两年，写Java的人听到最多的一句话大概是“Java要完了”。但招聘数据给出的是另一个故事：65%的AI相关岗位要求候选人具备Java能力，同一批岗位薪资相对纯后端岗有约63%的溢价；AI应用开发",
+      "source": "Bing·Java开发薪资",
+      "category": "就业",
+      "published": "2026-11-20T01:43:00.000Z",
+      "image": "",
       "score": 60,
       "tags": []
     }
@@ -222,68 +235,6 @@
       "tags": []
     }
   ],
-  "政策": [
-    {
-      "id": "21eb74c67082",
-      "title": "金融活水来 青创向阳生——长沙举办“向阳而生、创启湘江” 大 ...",
-      "url": "https://news.qq.com/rain/a/20261121A0407J00",
-      "summary": "红网时刻新闻11月21日讯（记者 李香枝 通讯员 侯英伦 ）11月20日，“向阳而生、创启湘江”长沙市大学生创业企业金融服务专场活动在中南大学科技园举行，吸引大学生创业企业、专精特新及科技型中小企业负",
-      "source": "Bing·大学生创业扶持政策",
-      "category": "政策",
-      "published": "2026-11-21T00:52:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/O0uCibTqNOKlMwtU4bIlLS84FfAcp4jMX3OhgvJmoNxnwAA_330330/0",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "e6c32086fd86",
-      "title": "最高可贷50万元，湖南优化政策为大学生创业送上金融“活水”",
-      "url": "https://edu.rednet.cn/content/646043/52/16288673.html",
-      "summary": "近日，湖南省出台《关于进一步优化创业担保贷款政策全力支持大学生等重点群体创业的通知》，扩大创业担保贷款覆盖范围、提高贷款额度、降低融资成本，拿出实打实举措，助力青年创新创业。 按照新政策，创业担保贷款",
-      "source": "就业创业政策",
-      "category": "政策",
-      "published": "2026-09-18T01:57:00.000Z",
-      "image": "",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "b9aa7e472882",
-      "title": "新产业催生更多新岗位 @高校毕业生，你准备好了吗？",
-      "url": "https://finance.sina.com.cn/jjxw/2026-11-21/doc-iniznakk6852976.shtml",
-      "summary": "央视网消息：记者从2027届全国普通高校毕业生就业创业工作会议上获悉，2027届全国普通高校毕业生规模预计1299万人，各地各部门将全力确保2027届高校毕业生就业总体稳定。 据了解，各地各有关部门将",
-      "source": "Bing·高校毕业生就业创业政策",
-      "category": "政策",
-      "published": "2026-11-20T18:10:00.000Z",
-      "image": "//n.sinaimg.cn/spider20261121/550/w936h414/20261121/7e28-175f87e515cae0e8faf7a685eaab24ea.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "5ea8aed8cb49",
-      "title": "2027届全国普通高校毕业生规模预计1299万人！多部门：以钉钉子精神 ...",
-      "url": "https://finance.sina.com.cn/jjxw/2026-11-19/doc-inizhmka7769537.shtml",
-      "summary": "11月19日，中央教育工作领导小组秘书组、教育部、人力资源社会保障部、工业和信息化部、国务院国资委在京联合召开2027届全国普通高校毕业生就业创业工作会议。会议强调，要提高政治站位，准确把握推进中国式",
-      "source": "Bing·高校毕业生就业创业政策",
-      "category": "政策",
-      "published": "2026-11-19T03:34:00.000Z",
-      "image": "//n.sinaimg.cn/front20261119ac/312/w556h556/20261119/a27d-da10d46bd09201e77562fad2f638976b.jpg",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "f523254d5b7b",
-      "title": "2027届全国普通高校毕业生预计1299万人",
-      "url": "https://news.youth.cn/hotnews_41880/202611/t20261120_16975192.htm",
-      "summary": "本报北京11月19日电 记者晋浩天 从教育部获悉，2027届全国普通高校毕业生就业创业工作会议19日在北京召开。2027届全国普通高校毕业生规模预计1299万人，各地各部门要强化部门协同、央地联动，以",
-      "source": "Bing·高校毕业生就业创业政策",
-      "category": "政策",
-      "published": "2026-11-19T21:06:00.000Z",
-      "image": "https://m.youth.cn/images/20230313youth_share_logo_new.jpg",
-      "score": 50,
-      "tags": []
-    }
-  ],
   "开发": [
     {
       "id": "34e692a8f905",
@@ -296,6 +247,15 @@
       "image": "",
       "score": 55,
       "tags": []
+    },
+    {
+      "id": "76062fb0b600",
+      "title": "企业 AI 发展新趋势：推动 AI Agent 迈向规模化应用的新阶段",
+      "url": "https://www.infoq.cn/video/its3v5OfmRuikL5SeWUu?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-23T19:52:07.000Z",
+      "image": "https://static001.geekbang.org/static/infoq/img/infoq_icon.jpg"
     },
     {
       "id": "d2df9d45fca7",
@@ -323,61 +283,114 @@
       "category": "开发",
       "published": "2026-11-23T19:16:30.000Z",
       "image": "https://static001.geekbang.org/static/infoq/img/infoq_icon.jpg"
+    }
+  ],
+  "政策": [
+    {
+      "id": "e6c32086fd86",
+      "title": "最高可贷50万元，湖南优化政策为大学生创业送上金融“活水”",
+      "url": "https://edu.rednet.cn/content/646043/52/16288673.html",
+      "summary": "近日，湖南省出台《关于进一步优化创业担保贷款政策全力支持大学生等重点群体创业的通知》，扩大创业担保贷款覆盖范围、提高贷款额度、降低融资成本，拿出实打实举措，助力青年创新创业。 按照新政策，创业担保贷款",
+      "source": "就业创业政策",
+      "category": "政策",
+      "published": "2026-09-18T01:57:00.000Z",
+      "image": "",
+      "score": 55,
+      "tags": []
     },
     {
-      "id": "938d91f49696",
-      "title": "构建主权 AI 技术栈：开放权重、前沿模型与企业控制平面",
-      "url": "https://www.infoq.cn/video/pZRYMTB7olLHTR3BuxaB?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-23T19:08:40.000Z",
-      "image": "https://static001.geekbang.org/static/infoq/img/infoq_icon.jpg"
+      "id": "bd3fbb30b110",
+      "title": "2027届全国普通高校毕业生就业创业工作会议召开",
+      "url": "https://www.sohu.com/a/1104059586_121106994",
+      "summary": "11月19日，中央教育工作领导小组秘书组、教育部、人力资源社会保障部、工业和信息化部、国务院国资委在京联合召开2027届全国普通高校毕业生就业创业工作会议。会议强调，要提高政治站位，准确把握推进中国式",
+      "source": "Bing·高校毕业生就业创业政策",
+      "category": "政策",
+      "published": "2026-11-20T04:50:00.000Z",
+      "image": "https://q0.itc.cn/q_70/images03/20261120/cba32fb2d8f64a5ab94a7bb1bbcbf334.jpeg",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "f5cb39eaf8f6",
+      "title": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
+      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202606/t20260602_1438600.html",
+      "summary": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
+      "source": "教育部",
+      "category": "政策",
+      "published": "2026-06-02T00:00:00.000Z",
+      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "a3af074b2b9b",
+      "title": "2026-05-22教育部等八部门办公厅关于联合开展2026年度高校毕业生等重点群体促就业“国聘行动”的通知",
+      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202605/t20260522_1437356.html",
+      "summary": "2026-05-22教育部等八部门办公厅关于联合开展2026年度高校毕业生等重点群体促就业“国聘行动”的通知",
+      "source": "教育部",
+      "category": "政策",
+      "published": "2026-05-22T00:00:00.000Z",
+      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "20eed286abd8",
+      "title": "2026-04-24教育部办公厅 人力资源社会保障部办公厅关于开展2026年高校毕业生就业政策宣传活动的通知",
+      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202604/t20260423_1434600.html",
+      "summary": "2026-04-24教育部办公厅 人力资源社会保障部办公厅关于开展2026年高校毕业生就业政策宣传活动的通知",
+      "source": "教育部",
+      "category": "政策",
+      "published": "2026-04-23T00:00:00.000Z",
+      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+      "score": 50,
+      "tags": []
     }
   ],
   "财经": [
     {
-      "id": "54f62b447a88",
-      "title": "中国发起成立的世界无线局域网应用发展联盟获国际认可",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736594.shtml",
+      "id": "7a38d6417d58",
+      "title": "10毫秒决断，电网如何守护万家灯火？",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736727.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-23T11:10:02.000Z",
+      "published": "2026-11-23T22:46:50.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "b7bcd2e48176",
-      "title": "多国咖啡专家点赞云南德宏：咖啡产业发展潜力巨大",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736595.shtml",
+      "id": "0aa33f14ebfe",
+      "title": "“月租”酒店划不划算？先分清“安居”与“旅居”",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736725.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-23T11:03:31.000Z",
+      "published": "2026-11-23T16:11:04.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "e8baadb95993",
-      "title": "上海地铁新票价方案落地 12月1日起执行",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736582.shtml",
+      "id": "e541e6438822",
+      "title": "业内人士：AI智能体正成为高端手机出海竞争的新变量",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736712.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-23T10:45:57.000Z",
+      "published": "2026-11-23T15:10:07.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "2e79382acad9",
-      "title": "A股周一放量上涨 创业板指收盘涨逾3％",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736585.shtml",
+      "id": "30672657bbfb",
+      "title": "张利忠：对接东盟市场实际需求，助力各类市场主体发掘合作商机",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736720.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-23T10:42:14.000Z",
+      "published": "2026-11-23T15:08:25.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "2f37a26e5467",
-      "title": "国内首批主动ETF今起上市 成交额均破亿元",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736583.shtml",
+      "id": "77c5d55b6c63",
+      "title": "今年10月欧盟油价同比增长近三成",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736716.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-23T10:39:08.000Z",
+      "published": "2026-11-23T15:08:13.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
