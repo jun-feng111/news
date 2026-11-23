@@ -1,0 +1,7 @@
+{
+  "id": "2ea9635e23fd",
+  "title": "谷歌采用Pyrefly以实现更快、更准确的Python类型检查",
+  "url": "https://www.infoq.cn/article/4mG1MEowzSqIg2cY1XZP?utm_source=rss&amp;utm_medium=article",
+  "contentZh": "",
+  "contentFull": "谷歌已经将其长期使用的Python类型检查器Pytype替换为Pyrefly，这是一款最初由 Meta 开发的开源工具。此次决策的驱动因素包括Pyrefly更快、更准确的类型检查能力，以及更低的基础设施成本。随着 Python 类型系统的快速演进，Pytype 面临着根本性挑战。由于它通过分析编译后的字节码而非源代码的抽象语法树（AST）来工作，而字节码在不同 Python 版本间并不稳定，因此要跟上现代 typing PEP（Python Enhancement Proposal）的步伐，维护负担日益加重。根据谷歌的内部基准测试，Pyrefly 的速度约为 Pytype 的 10 倍，将增量重建延迟降低了高达 98%，并将 Python 类型检查的峰值计算成本削减了 80%以上。谷歌还报告称，在干净构建的关键路径上，类型检查时间减少了 90%至 99%，实质上“消除了一项长期存在的开发瓶颈”。谷歌表示，Pyrefly 的关键优势之一是其对 Python 类型规范的高度遵从性，在一致性测试套件中通过了约 97%的测试。Pyrefly 还得到了社区的积极支持，这有助于它紧跟新语法的发展；其诊断信息也提供了更具可操作性的反馈，包括能准确指出错误根本原因的内联代码注释，并在某些情况下提供修复建议。社区对谷歌的公告反响热烈。虽然大多数评论者认同Pytype的表现不如Pyrefly，但也有人就 Pyrefly 与 Ty 和Ty and Mypy的相对优劣展开了讨论。Gushys指出：Pyrefly 成熟得多。它已经发布了 1.0 版本，性能速度与 Ty 相当，是一款经过验证的工具。Ty 还没达到这个水平。WindHawkeye观察到：“Mypy 在大型项目中的速度比人们想象的要快得多。它仍然拥有最快的增量类型检查。”对此，BeamMeUpBiscotti 回复道：Mypy 2.0 在大型项目的冷检查上应该能快 5 倍，但新一代的类型检查器甚至可以比这再快一个数量级。Python 开发者Amirrea Azadmher在LinkedIn上对这一公告发表了不同看法，他认为类型检查器的价值不仅仅在于为 CI 流水线节省 30 秒，更在于它如何改善开发过程中的“编辑-检查”循环。他还指出：如果你现在正在评估 Pyright、Pyrefly 和 Mypy，不要轻信别人在单体仓库上的数据。请在自己的代码树上测量冷启动和热启动时间，并将诊断质量与吞吐量一并评分，一个速度快但用噪声淹没你的检查器，其成本仍然会高于一个速度较慢但能准确指出真正问题的检查器。Meta于去年开源了Pyrefly。该工具专为高性能而设计，采用 Rust 实现以最大化效率。据 Meta 称，它可以在大型代码库上每秒检查180万行代码，使得在每次按键时进行类型检查成为可能。查看英文原文：Google Adopts Pyrefly for Faster, More Accurate Python Type Checking"
+}

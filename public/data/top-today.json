@@ -8,7 +8,7 @@
     "category": "AI",
     "published": "2026-11-22T21:14:07.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-    "score": 80,
+    "score": 75,
     "tags": []
   },
   {
@@ -20,7 +20,7 @@
     "category": "科技",
     "published": "2026-11-22T21:42:48.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/V8_PHASE-1_LOBTS.jpg?resize=1200,900",
-    "score": 75,
+    "score": 70,
     "tags": []
   },
   {
@@ -32,7 +32,7 @@
     "category": "科技",
     "published": "2026-11-22T21:00:00.000Z",
     "image": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-596631439.jpg?resize=1200,800",
-    "score": 75,
+    "score": 70,
     "tags": []
   },
   {
@@ -72,18 +72,6 @@
     "tags": []
   },
   {
-    "id": "ca5d392ce76c",
-    "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-    "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
-    "summary": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-    "source": "TechCrunch",
-    "category": "AI",
-    "published": "2026-11-23T01:25:53.000Z",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/11/antrhopic-openingday-getty.jpg?resize=1200,801",
-    "score": 65,
-    "tags": []
-  },
-  {
     "id": "6572e082b901",
     "title": "A tale of two Nvidias",
     "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
@@ -108,15 +96,27 @@
     "tags": []
   },
   {
-    "id": "8ff43e8c86cc",
-    "title": "AI 智能体应用工程师证书值不值得考？一笔算清楚的账",
-    "url": "https://www.sohu.com/a/1102183688_121304477",
-    "summary": "AI 智能体应用工程师是当前大模型落地岗位中需求量增长最快的方向之一。脉脉《2026 年 1–2 月中高端人才求职招聘洞察》显示，2026 年初 AI 岗位招聘量同比增长约 12 倍，样本岗位平均月薪",
-    "source": "Bing·算法工程师薪资",
+    "id": "0955340deee2",
+    "title": "高顿携手腾讯WorkBuddy生态发布首款大学生实习就业AI Agent",
+    "url": "https://cn.chinadaily.com.cn/a/202609/03/WS6a98e41ce4b09a165c787b27.html",
+    "summary": "9月2日，腾讯WorkBuddy宣布开放平台正式上线，首批引入超百家生态伙伴，面向智能硬件、行业应用与开发者等开放底层Agent能力。其中高顿自主研发的“大学生实习就业助手”作为实习就业场景的标杆产品",
+    "source": "就业报告",
     "category": "就业",
-    "published": "2026-11-16T05:41:00.000Z",
-    "image": "//q1.itc.cn/images01/20261116/5dc10c2b9c2545eaad0b1f167fc6bb68.png",
+    "published": "2026-09-03T03:36:00.000Z",
+    "image": "https://img3.chinadaily.com.cn/static/2024cn_articleandcolumn/img/Mobile/Artical_Share_Icon1.png",
     "score": 65,
+    "tags": []
+  },
+  {
+    "id": "ca5d392ce76c",
+    "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+    "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+    "summary": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+    "source": "TechCrunch",
+    "category": "AI",
+    "published": "2026-11-23T01:25:53.000Z",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/antrhopic-openingday-getty.jpg?resize=1200,801",
+    "score": 60,
     "tags": []
   }
 ]

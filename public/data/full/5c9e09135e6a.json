@@ -1,0 +1,7 @@
+{
+  "id": "5c9e09135e6a",
+  "title": "22. ArkTS switch语句实战：case、break、default 全面掌握 - 老陈说编程",
+  "url": "https://www.cnblogs.com/halfcode/p/23752260",
+  "contentZh": "",
+  "contentFull": "\nswitch 后面跟一个表达式。大括号里写 case，每个 case 后面是一个值和冒号。这个值和表达式对上了，就执行冒号后面的代码，碰到 break 就跳出 switch。\n动画视频在《ArkTS switch语句实战：case、break、default 全面掌握》。\n\nlet day: number = 3;\nswitch (day) {\n  case 1:\n    console.log('星期一');\n    break;\n  case 2:\n    console.log('星期二');\n    break;\n  case 3:\n    console.log('星期三');\n    break;\n  default:\n    console.log('其他');\n}\n\nday 是 3，对上 case 3，打出星期���。break 把 switch 结束掉，default 不会再执行。\ndefault 是兜底。前面的 case 都没对上，才走这里。可以不写。写的话，通常放在最后。\n先开启预览器，再打开日志面板，按 Ctrl + S 保存，才能看到输出。后面的 console.log 也一样。\n\n\nbreak 与贯穿\ncase 对上之后，这一段要是没写 break，不会停，会接着执行下面的 case。几个值做同一件事，中间的 case 就空着，代码只写在最后一个上面。判断工作日还是周末，就是这么写的。\n\nlet day: number = 6;\nswitch (day) {\n  case 1:\n  case 2:\n  case 3:\n  case 4:\n  case 5:\n    console.log('工作日');\n    break;\n  case 6:\n  case 7:\n    console.log('周末');\n    break;\n  default:\n    console.log('其他');\n}\n\nday 是 6。case 6 后面没有代码，直接落到 case 7，打出周末，然后 break。\n1 到 5 也是这样。case 1 到 case 4 都是空的，一路落到 case 5 那句输出，打出工作日。所以 1 到 5 都是工作日，6 和 7 都是周末。这两个范围以外的数走 default，打出其他。\n\n\n\n\n"
+}

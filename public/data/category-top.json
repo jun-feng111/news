@@ -9,7 +9,7 @@
       "category": "AI",
       "published": "2026-11-22T21:14:07.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-      "score": 80,
+      "score": 75,
       "tags": []
     },
     {
@@ -21,7 +21,7 @@
       "category": "AI",
       "published": "2026-11-23T01:25:53.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/antrhopic-openingday-getty.jpg?resize=1200,801",
-      "score": 65,
+      "score": 60,
       "tags": []
     },
     {
@@ -47,7 +47,7 @@
       "category": "科技",
       "published": "2026-11-22T21:42:48.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/V8_PHASE-1_LOBTS.jpg?resize=1200,900",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -59,7 +59,7 @@
       "category": "科技",
       "published": "2026-11-22T21:00:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-596631439.jpg?resize=1200,800",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -101,18 +101,6 @@
   ],
   "就业": [
     {
-      "id": "8ff43e8c86cc",
-      "title": "AI 智能体应用工程师证书值不值得考？一笔算清楚的账",
-      "url": "https://www.sohu.com/a/1102183688_121304477",
-      "summary": "AI 智能体应用工程师是当前大模型落地岗位中需求量增长最快的方向之一。脉脉《2026 年 1–2 月中高端人才求职招聘洞察》显示，2026 年初 AI 岗位招聘量同比增长约 12 倍，样本岗位平均月薪",
-      "source": "Bing·算法工程师薪资",
-      "category": "就业",
-      "published": "2026-11-16T05:41:00.000Z",
-      "image": "//q1.itc.cn/images01/20261116/5dc10c2b9c2545eaad0b1f167fc6bb68.png",
-      "score": 65,
-      "tags": []
-    },
-    {
       "id": "0955340deee2",
       "title": "高顿携手腾讯WorkBuddy生态发布首款大学生实习就业AI Agent",
       "url": "https://cn.chinadaily.com.cn/a/202609/03/WS6a98e41ce4b09a165c787b27.html",
@@ -125,38 +113,49 @@
       "tags": []
     },
     {
-      "id": "3f7e78c610c4",
+      "id": "0c5af784d145",
+      "title": "视频丨跨省揽才、政策托底 今年“秋招”已提供超550万个岗位",
+      "url": "https://www.kunming.cn/news/c/2026-11-16/14086913.shtml",
+      "summary": "在山东青岛举办的第二十六届蓝洽会“智引全球”招聘专场上，120家用人单位带来3050个岗位需求，全面覆盖智能装备、人工智能、生命健康、高端新材料等产业赛道，同步还发布了《青岛市重点产业急需紧缺岗位目录",
+      "source": "Bing·秋招",
+      "category": "就业",
+      "published": "2026-11-16T14:00:00.000Z",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "e173021fd5b4",
+      "title": "[上海 11.21 岗位更新] SHEIN 内推：算法/ Java /AI Agent/安全/测试/iOS/数据/数据库， 20-90k",
+      "url": "https://www.v2ex.com/t/1258789#reply2",
+      "summary": "[上海 11。21 岗位更新] SHEIN 内推：算法/ Java /AI Agent/安全/测试/iOS/数据/数据库， 20-90k",
+      "source": "V2EX·招聘",
+      "category": "就业",
+      "published": "2026-11-21T11:35:01.000Z",
+      "image": "https://cdn.v2ex.com/avatar/75c4/8976/45253_xlarge.png?m=1793157723",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "914ebd72f322",
+      "title": "[北京][火山引擎] 云平台基础研发工程师｜开发者工具 / AI Agent / IAM",
+      "url": "https://www.v2ex.com/t/1258747#reply0",
+      "summary": "[北京][火山引擎] 云平台基础研发工程师｜开发者工具 / AI Agent / IAM",
+      "source": "V2EX·招聘",
+      "category": "就业",
+      "published": "2026-11-21T06:58:50.000Z",
+      "image": "https://cdn.v2ex.com/avatar/e0a8/d0f7/54074_large.png?m=1390894008",
+      "score": 60,
+      "tags": []
+    },
+    {
+      "id": "66ec7d32ce53",
       "title": "[Microsoft] AI Agent 研发实习生 - 北京",
-      "url": "https://www.v2ex.com/t/1257980#reply2",
+      "url": "https://www.v2ex.com/t/1257980#reply3",
       "summary": "[Microsoft] AI Agent 研发实习生 - 北京",
       "source": "V2EX·招聘",
       "category": "就业",
       "published": "2026-11-18T06:09:33.000Z",
       "image": "https://cdn.v2ex.com/gravatar/56c411da8f7367126c773ab95985ac23?s=73&d=retro",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "53250bd99a1a",
-      "title": "65%的AI岗要求Java能力，薪资比纯后端高63%——Java没有被AI埋掉，是 ...",
-      "url": "https://www.sohu.com/a/1103952269_122839655",
-      "summary": "过去两年，写Java的人听到最多的一句话大概是“Java要完了”。但招聘数据给出的是另一个故事：65%的AI相关岗位要求候选人具备Java能力，同一批岗位薪资相对纯后端岗有约63%的溢价；AI应用开发",
-      "source": "Bing·Java开发薪资",
-      "category": "就业",
-      "published": "2026-11-20T01:43:00.000Z",
-      "image": "",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "f4c3ce7ed668",
-      "title": "前端岗位一年减少51%，FDE暴涨4.6倍：AI没有赶走工程师，却正在拆掉 ...",
-      "url": "https://www.sohu.com/a/1100186883_115128",
-      "summary": "AI 到底会先替代谁。 过去两年，人们反复讨论程序员、产品经理和设计师谁会最先受到冲击",
-      "source": "就业报告",
-      "category": "就业",
-      "published": "2026-11-11T08:30:00.000Z",
-      "image": "https://q9.itc.cn/q_70/images03/20261111/f6b72d0aae1d4b949235dfd3e1793fe3.png",
       "score": 60,
       "tags": []
     }
@@ -273,67 +272,19 @@
       "tags": []
     },
     {
-      "id": "f528ca2ffd0c",
-      "title": "【好评中国】抢抓秋招黄金窗口期，让高校毕业生早就业就好业",
-      "url": "https://news.ifeng.com/c/8y6Sm4wc7f5",
-      "summary": "“职引未来——2026年全国城市联合招聘高校毕业生秋季专场”推出第三批131场就业服务活动，全力为高校毕业生提供精准化、多元化就业服务支持。 就业是最基本的民生，高校毕业生就业更是稳就业的重中之重",
+      "id": "f523254d5b7b",
+      "title": "2027届全国普通高校毕业生预计1299万人",
+      "url": "https://news.youth.cn/hotnews_41880/202611/t20261120_16975192.htm",
+      "summary": "本报北京11月19日电 记者晋浩天 从教育部获悉，2027届全国普通高校毕业生就业创业工作会议19日在北京召开。2027届全国普通高校毕业生规模预计1299万人，各地各部门要强化部门协同、央地联动，以",
       "source": "Bing·高校毕业生就业创业政策",
       "category": "政策",
-      "published": "2026-11-16T07:44:00.000Z",
-      "image": "https://x0.ifengimg.com/ucms/2019_38/AC5B8A2AE18AB61C7067AFFDBBCD12D16295DDA2_w121_h75.jpg",
+      "published": "2026-11-19T21:06:00.000Z",
+      "image": "https://m.youth.cn/images/20230313youth_share_logo_new.jpg",
       "score": 50,
       "tags": []
     }
   ],
   "开发": [
-    {
-      "id": "f5c81ce39b19",
-      "title": "华为云开源昇腾原生具身世界模型CloudRobo-WM1.2，两项评测均列第一",
-      "url": "https://www.infoq.cn/article/LCqRiGDSeMBfXo4iktdA?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/LCqRiGDSeMBfXo4iktdA",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-20T18:19:11.000Z",
-      "image": "https://static001.infoq.cn/resource/image/41/0e/41424535042971ef152bf708069e9e0e.png",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "341171ec9a97",
-      "title": "AI 漫剧不缺作品，缺什么？｜QLab直播",
-      "url": "https://www.infoq.cn/article/27xI2tBkStO5qz52VBPw?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/27xI2tBkStO5qz52VBPw",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-20T17:14:29.000Z",
-      "image": "https://static001.infoq.cn/resource/image/b5/e9/b5be0e4e3ccbf4d4274db3572db347e9.png",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "639d3cb0d448",
-      "title": "Grab 通过安全策略应对 AI 生成代码变更激增，提升移动端 App 稳定性",
-      "url": "https://www.infoq.cn/article/AH8deOIGb5hMHRPIKfrf?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/AH8deOIGb5hMHRPIKfrf",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-20T14:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/98/f5/983110b8655f728706d6c3f47e14f5f5.jpg",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "8771f9155258",
-      "title": "谷歌发布用于机器人控制、仿真和策略优化的 Gemini 4 Argon",
-      "url": "https://www.infoq.cn/article/S4LH5Z9zcbLokm5uNSKR?utm_source=rss&amp;utm_medium=article",
-      "summary": "div align=&#39;right&#39;  a href=&#39;https://www。cn/article/S4LH5Z9zcbLokm5uNSKR",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-20T11:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/b9/f1/b9cc507e9fa2178fb8e5a86942971af1.png",
-      "score": 55,
-      "tags": []
-    },
     {
       "id": "34e692a8f905",
       "title": "科技爱好者周刊（第 420 期）：最分心的一年",
@@ -345,52 +296,88 @@
       "image": "",
       "score": 55,
       "tags": []
+    },
+    {
+      "id": "d2df9d45fca7",
+      "title": "AI 时代的数据工程：如何打造 AI 原生团队",
+      "url": "https://www.infoq.cn/video/qWRo8T0IdKoI7RBuQwNd?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-23T19:40:31.000Z",
+      "image": "https://static001.geekbang.org/static/infoq/img/infoq_icon.jpg"
+    },
+    {
+      "id": "eb8b5164d4c9",
+      "title": "重塑财务职能：引领 AI 时代的转型",
+      "url": "https://www.infoq.cn/video/zDX7VX1ZLsWM2BNMJLc1?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-23T19:33:50.000Z",
+      "image": "https://static001.geekbang.org/static/infoq/img/infoq_icon.jpg"
+    },
+    {
+      "id": "f4467496fe5d",
+      "title": "当你的下一位客户是 AI Agent：企业营销与销售的 AI 发展前景",
+      "url": "https://www.infoq.cn/video/cw3OFxCPlVBE625COukc?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-23T19:16:30.000Z",
+      "image": "https://static001.geekbang.org/static/infoq/img/infoq_icon.jpg"
+    },
+    {
+      "id": "938d91f49696",
+      "title": "构建主权 AI 技术栈：开放权重、前沿模型与企业控制平面",
+      "url": "https://www.infoq.cn/video/pZRYMTB7olLHTR3BuxaB?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-23T19:08:40.000Z",
+      "image": "https://static001.geekbang.org/static/infoq/img/infoq_icon.jpg"
     }
   ],
   "财经": [
     {
-      "id": "25b93be6aef0",
-      "title": "A股创业板指火速翻红",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736281.shtml",
+      "id": "54f62b447a88",
+      "title": "中国发起成立的世界无线局域网应用发展联盟获国际认可",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736594.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-23T01:55:04.000Z",
+      "published": "2026-11-23T11:10:02.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "7fc37685d2e0",
-      "title": "上海黄金交易所：近期贵金属价格波动显著加剧 做好市场风险控制工作",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736266.shtml",
+      "id": "b7bcd2e48176",
+      "title": "多国咖啡专家点赞云南德宏：咖啡产业发展潜力巨大",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736595.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-23T01:52:00.000Z",
+      "published": "2026-11-23T11:03:31.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "f433d067e352",
-      "title": "A股周一开盘：超5000只个股飘绿，三大指数集体低开",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736270.shtml",
+      "id": "e8baadb95993",
+      "title": "上海地铁新票价方案落地 12月1日起执行",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736582.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-23T01:38:21.000Z",
+      "published": "2026-11-23T10:45:57.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "1896c6a274da",
-      "title": "11月23日央行开展4995亿元隔夜逆回购操作",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736260.shtml",
+      "id": "2e79382acad9",
+      "title": "A股周一放量上涨 创业板指收盘涨逾3％",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736585.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-23T01:29:45.000Z",
+      "published": "2026-11-23T10:42:14.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "8a776a4c7d76",
-      "title": "11月23日人民币对美元中间价报6.7120 上调11个基点",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736257.shtml",
+      "id": "2f37a26e5467",
+      "title": "国内首批主动ETF今起上市 成交额均破亿元",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736583.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-23T01:28:05.000Z",
+      "published": "2026-11-23T10:39:08.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
