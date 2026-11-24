@@ -9,7 +9,7 @@
       "category": "科技",
       "published": "2026-11-23T23:07:49.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-1222551151.jpg?resize=1200,877",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -21,7 +21,7 @@
       "category": "科技",
       "published": "2026-11-23T21:47:41.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2227140868.jpg?w=1024",
-      "score": 65,
+      "score": 60,
       "tags": []
     },
     {
@@ -33,7 +33,7 @@
       "category": "科技",
       "published": "2026-11-23T21:25:42.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2303986898.jpg?resize=1200,800",
-      "score": 65,
+      "score": 60,
       "tags": []
     },
     {
@@ -45,7 +45,7 @@
       "category": "科技",
       "published": "2026-11-23T20:38:53.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
-      "score": 65,
+      "score": 60,
       "tags": []
     },
     {
@@ -57,7 +57,7 @@
       "category": "科技",
       "published": "2026-11-23T19:31:41.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297764008.jpg?w=1024",
-      "score": 65,
+      "score": 60,
       "tags": []
     }
   ],
@@ -71,7 +71,7 @@
       "category": "AI",
       "published": "2026-11-23T22:05:50.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2295579000.jpg?resize=1200,800",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -83,7 +83,7 @@
       "category": "AI",
       "published": "2026-11-23T22:02:05.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/supertake-header.jpg?resize=1200,675",
-      "score": 70,
+      "score": 65,
       "tags": []
     },
     {
@@ -95,7 +95,7 @@
       "category": "AI",
       "published": "2026-11-23T19:14:46.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800",
-      "score": 70,
+      "score": 65,
       "tags": []
     },
     {
@@ -173,19 +173,118 @@
       "tags": []
     }
   ],
-  "社会": [
+  "开发": [
     {
-      "id": "f0dc3aa57d84",
-      "title": "“未名·AI Park”在北京揭牌 共建人工智能创新转化高地",
-      "url": "https://www.chinanews.com.cn/edu/2026/11-19/10734878.shtml",
-      "summary": "中新网北京11月19日电 (记者 陈杭)“未名·AI Park”18日在北京市海淀区中关村国际创新大厦正式揭牌。“未名·AI Park”是百年京张AI创新带上的重要节点，其核心启动区选址北京大学西门外",
-      "source": "中新网教育",
-      "category": "社会",
-      "published": "2026-11-19T12:38:15.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
-      "score": 60,
+      "id": "34e692a8f905",
+      "title": "科技爱好者周刊（第 420 期）：最分心的一年",
+      "url": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-420.html",
+      "summary": "这里记录每周值得分享的科技内容，周五发布",
+      "source": "阮一峰",
+      "category": "开发",
+      "published": "2026-11-20T00:07:30.000Z",
+      "image": "",
+      "score": 55,
       "tags": []
     },
+    {
+      "id": "7a9158d38e90",
+      "title": "当 AI 改变一切，下一步如何构建？",
+      "url": "https://www.infoq.cn/article/iRm9lBSQj0OCvDdgLQrO?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-24T14:12:36.000Z",
+      "image": "https://static001.infoq.cn/resource/image/0f/2f/0fec8953a57a85ec8cba02445661602f.jpg"
+    },
+    {
+      "id": "09a7a09d6e61",
+      "title": "技术债务具有社会性：它是边做边学的代价",
+      "url": "https://www.infoq.cn/article/rdfEoVWlwvbrW0MCsFKs?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-24T14:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/c4/9c/c4adb4f5373b24b71c1a3c87c806e39c.jpg"
+    },
+    {
+      "id": "b5d7867c8f1e",
+      "title": "谷歌发现，技术债务会通过“智能体分心”导致编码智能体偏离正轨",
+      "url": "https://www.infoq.cn/article/sFmubmDWkulIOTBLX0Dr?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-24T13:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/ac/d1/ac383447f8771a8ac7e305ed98b404d1.jpg"
+    },
+    {
+      "id": "ccca60e98a60",
+      "title": "营销、销售与 RevOps 的单一可信源：每个答案背后的数据与上下文",
+      "url": "https://www.infoq.cn/video/cr6DkWNiQ4fKcs9yq0FP?utm_source=rss&amp;utm_medium=article",
+      "source": "InfoQ中文",
+      "category": "开发",
+      "published": "2026-11-24T12:43:28.000Z",
+      "image": "https://static001.geekbang.org/static/infoq/img/infoq_icon.jpg"
+    }
+  ],
+  "政策": [
+    {
+      "id": "e6c32086fd86",
+      "title": "最高可贷50万元，湖南优化政策为大学生创业送上金融“活水”",
+      "url": "https://edu.rednet.cn/content/646043/52/16288673.html",
+      "summary": "近日，湖南省出台《关于进一步优化创业担保贷款政策全力支持大学生等重点群体创业的通知》，扩大创业担保贷款覆盖范围、提高贷款额度、降低融资成本，拿出实打实举措，助力青年创新创业。 按照新政策，创业担保贷款",
+      "source": "就业创业政策",
+      "category": "政策",
+      "published": "2026-09-18T01:57:00.000Z",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "1c8be2fa148a",
+      "title": "2027届全国普通高校毕业生就业创业工作会议召开",
+      "url": "https://www.sohu.com/a/1104125214_121968648",
+      "summary": "11月19日，中央教育工作领导小组秘书组、教育部、人力资源社会保障部、工业和信息化部、国务院国资委在京联合召开2027届全国普通高校毕业生就业创业工作会议。会议强调，要提高政治站位，准确把握推进中国式",
+      "source": "Bing·高校毕业生就业创业政策",
+      "category": "政策",
+      "published": "2026-11-20T07:36:00.000Z",
+      "image": "//q4.itc.cn/images01/20261120/208b6d29c41549f7ba409b2b923cbf35.jpeg",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "f523254d5b7b",
+      "title": "2027届全国普通高校毕业生预计1299万人",
+      "url": "https://news.youth.cn/hotnews_41880/202611/t20261120_16975192.htm",
+      "summary": "本报北京11月19日电 记者晋浩天 从教育部获悉，2027届全国普通高校毕业生就业创业工作会议19日在北京召开。2027届全国普通高校毕业生规模预计1299万人，各地各部门要强化部门协同、央地联动，以",
+      "source": "Bing·高校毕业生就业创业政策",
+      "category": "政策",
+      "published": "2026-11-19T21:06:00.000Z",
+      "image": "https://m.youth.cn/images/20230313youth_share_logo_new.jpg",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "7928d7a25926",
+      "title": "2027届全国普通高校毕业生规模预计1299万人",
+      "url": "https://finance.eastmoney.com/a/202611193935341053.html",
+      "summary": "11月19日，中央教育工作领导小组秘书组、教育部、人力资源社会保障部、工业和信息化部、国务院国资委在京联合召开2027届全国普通高校毕业生就业创业工作会议。会议强调，要提高政治站位，准确把握推进中国式",
+      "source": "Bing·高校毕业生就业创业政策",
+      "category": "政策",
+      "published": "2026-11-18T16:01:00.000Z",
+      "image": "https://np-newspic.dfcfw.com/download/D25714165329007314449_w210h154.jpg",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "5ea8aed8cb49",
+      "title": "2027届全国普通高校毕业生规模预计1299万人！多部门：以钉钉子精神 ...",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-19/doc-inizhmka7769537.shtml",
+      "summary": "11月19日，中央教育工作领导小组秘书组、教育部、人力资源社会保障部、工业和信息化部、国务院国资委在京联合召开2027届全国普通高校毕业生就业创业工作会议。会议强调，要提高政治站位，准确把握推进中国式",
+      "source": "Bing·人社部就业创业政策",
+      "category": "政策",
+      "published": "2026-11-19T03:34:00.000Z",
+      "image": "//n.sinaimg.cn/front20261119ac/312/w556h556/20261119/a27d-da10d46bd09201e77562fad2f638976b.jpg",
+      "score": 50,
+      "tags": []
+    }
+  ],
+  "社会": [
     {
       "id": "3e697e022ad3",
       "title": "浙江探路综合高中 给成长多留一段“缓冲期”",
@@ -233,164 +332,64 @@
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 50,
       "tags": []
-    }
-  ],
-  "开发": [
-    {
-      "id": "34e692a8f905",
-      "title": "科技爱好者周刊（第 420 期）：最分心的一年",
-      "url": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-420.html",
-      "summary": "这里记录每周值得分享的科技内容，周五发布",
-      "source": "阮一峰",
-      "category": "开发",
-      "published": "2026-11-20T00:07:30.000Z",
-      "image": "",
-      "score": 55,
-      "tags": []
     },
     {
-      "id": "76062fb0b600",
-      "title": "企业 AI 发展新趋势：推动 AI Agent 迈向规模化应用的新阶段",
-      "url": "https://www.infoq.cn/video/its3v5OfmRuikL5SeWUu?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-23T19:52:07.000Z",
-      "image": "https://static001.geekbang.org/static/infoq/img/infoq_icon.jpg"
-    },
-    {
-      "id": "d2df9d45fca7",
-      "title": "AI 时代的数据工程：如何打造 AI 原生团队",
-      "url": "https://www.infoq.cn/video/qWRo8T0IdKoI7RBuQwNd?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-23T19:40:31.000Z",
-      "image": "https://static001.geekbang.org/static/infoq/img/infoq_icon.jpg"
-    },
-    {
-      "id": "eb8b5164d4c9",
-      "title": "重塑财务职能：引领 AI 时代的转型",
-      "url": "https://www.infoq.cn/video/zDX7VX1ZLsWM2BNMJLc1?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-23T19:33:50.000Z",
-      "image": "https://static001.geekbang.org/static/infoq/img/infoq_icon.jpg"
-    },
-    {
-      "id": "f4467496fe5d",
-      "title": "当你的下一位客户是 AI Agent：企业营销与销售的 AI 发展前景",
-      "url": "https://www.infoq.cn/video/cw3OFxCPlVBE625COukc?utm_source=rss&amp;utm_medium=article",
-      "source": "InfoQ中文",
-      "category": "开发",
-      "published": "2026-11-23T19:16:30.000Z",
-      "image": "https://static001.geekbang.org/static/infoq/img/infoq_icon.jpg"
-    }
-  ],
-  "政策": [
-    {
-      "id": "e6c32086fd86",
-      "title": "最高可贷50万元，湖南优化政策为大学生创业送上金融“活水”",
-      "url": "https://edu.rednet.cn/content/646043/52/16288673.html",
-      "summary": "近日，湖南省出台《关于进一步优化创业担保贷款政策全力支持大学生等重点群体创业的通知》，扩大创业担保贷款覆盖范围、提高贷款额度、降低融资成本，拿出实打实举措，助力青年创新创业。 按照新政策，创业担保贷款",
-      "source": "就业创业政策",
-      "category": "政策",
-      "published": "2026-09-18T01:57:00.000Z",
-      "image": "",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "bd3fbb30b110",
-      "title": "2027届全国普通高校毕业生就业创业工作会议召开",
-      "url": "https://www.sohu.com/a/1104059586_121106994",
-      "summary": "11月19日，中央教育工作领导小组秘书组、教育部、人力资源社会保障部、工业和信息化部、国务院国资委在京联合召开2027届全国普通高校毕业生就业创业工作会议。会议强调，要提高政治站位，准确把握推进中国式",
-      "source": "Bing·高校毕业生就业创业政策",
-      "category": "政策",
-      "published": "2026-11-20T04:50:00.000Z",
-      "image": "https://q0.itc.cn/q_70/images03/20261120/cba32fb2d8f64a5ab94a7bb1bbcbf334.jpeg",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "f5cb39eaf8f6",
-      "title": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
-      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202606/t20260602_1438600.html",
-      "summary": "2026-06-02教育部办公厅 文化和旅游部办公厅关于开展2026年“才聚文旅 职引未来”人才招聘专项行动的通知",
-      "source": "教育部",
-      "category": "政策",
-      "published": "2026-06-02T00:00:00.000Z",
-      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "a3af074b2b9b",
-      "title": "2026-05-22教育部等八部门办公厅关于联合开展2026年度高校毕业生等重点群体促就业“国聘行动”的通知",
-      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202605/t20260522_1437356.html",
-      "summary": "2026-05-22教育部等八部门办公厅关于联合开展2026年度高校毕业生等重点群体促就业“国聘行动”的通知",
-      "source": "教育部",
-      "category": "政策",
-      "published": "2026-05-22T00:00:00.000Z",
-      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "20eed286abd8",
-      "title": "2026-04-24教育部办公厅 人力资源社会保障部办公厅关于开展2026年高校毕业生就业政策宣传活动的通知",
-      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202604/t20260423_1434600.html",
-      "summary": "2026-04-24教育部办公厅 人力资源社会保障部办公厅关于开展2026年高校毕业生就业政策宣传活动的通知",
-      "source": "教育部",
-      "category": "政策",
-      "published": "2026-04-23T00:00:00.000Z",
-      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
+      "id": "a5d24c89d7b5",
+      "title": "以赛促学 上海职校学生比拼开瓶、斟酒等服务技艺",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-20/10735384.shtml",
+      "summary": "中新网上海11月20日电(范宇斌)为弘扬工匠精神，为技能人才搭建以赛促学、切磋交流的展示平台，由上海中华职业教育社、上海市人力资源和社会保障局主办的第十四届上海市“中华杯”职业技能竞赛“亮技·启程”一",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-11-20T10:03:51.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
       "score": 50,
       "tags": []
     }
   ],
   "财经": [
     {
-      "id": "7a38d6417d58",
-      "title": "10毫秒决断，电网如何守护万家灯火？",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736727.shtml",
+      "id": "55e581b08bb5",
+      "title": "江西首个工业制造具身智能软件工厂上线",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737013.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-23T22:46:50.000Z",
+      "published": "2026-11-24T08:35:56.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "0aa33f14ebfe",
-      "title": "“月租”酒店划不划算？先分清“安居”与“旅居”",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736725.shtml",
+      "id": "a540103934f1",
+      "title": "智能工厂典型场景标准化研究报告发布 供先进经验复制推广参考",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737009.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-23T16:11:04.000Z",
+      "published": "2026-11-24T08:35:16.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "e541e6438822",
-      "title": "业内人士：AI智能体正成为高端手机出海竞争的新变量",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736712.shtml",
+      "id": "7a006a8733e8",
+      "title": "第四届世界材料大会2027年1月在海南举办 共商材料科技发展大计",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-24/10737007.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-23T15:10:07.000Z",
+      "published": "2026-11-24T08:34:50.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "30672657bbfb",
-      "title": "张利忠：对接东盟市场实际需求，助力各类市场主体发掘合作商机",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736720.shtml",
+      "id": "5c28e46fe551",
+      "title": "AI走进生活日常：从近500款智能终端看“万物智联”",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736989.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-23T15:08:25.000Z",
+      "published": "2026-11-24T08:34:46.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "77c5d55b6c63",
-      "title": "今年10月欧盟油价同比增长近三成",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736716.shtml",
+      "id": "bfb8c383ed3f",
+      "title": "渝昆高铁宜宾至昆明南段进入静态验收阶段",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-24/10736984.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-23T15:08:13.000Z",
+      "published": "2026-11-24T08:34:16.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
