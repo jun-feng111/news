@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T08:41:11.436Z",
+  "updated": "2026-11-24T19:59:58.942Z",
   "count": 124,
   "sources": {
     "V2EX": 9,
@@ -9,6 +9,29 @@
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1259525",
+      "title": "[MoeGo] 技术 / 产品 / 设计 / 财务社招内推 15 薪",
+      "company": "yqwq",
+      "location": "深圳",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "python",
+        "java",
+        "go",
+        "node",
+        "kubernetes"
+      ],
+      "category": "产品",
+      "postedDate": "2026-11-24",
+      "url": "https://www.v2ex.com/t/1259525",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1259445",
       "title": "想问下现在的第三方背调的形式",
@@ -68,27 +91,6 @@
       "category": "算法/AI",
       "postedDate": "2026-11-24",
       "url": "https://www.v2ex.com/t/1259422",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1259419",
-      "title": "找工作，Go 或者 Rust",
-      "company": "daimaldd",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "go",
-        "rust",
-        "linux"
-      ],
-      "category": "其他",
-      "postedDate": "2026-11-24",
-      "url": "https://www.v2ex.com/t/1259419",
       "source": "V2EX",
       "region": "domestic"
     },
@@ -191,6 +193,71 @@
       "url": "https://www.v2ex.com/t/1259298",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "remoteok-1138074",
+      "title": "Strategic Technical Advisor",
+      "company": "Thrive",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "infosec",
+        "education",
+        "technical",
+        "customer support",
+        "finance",
+        "cloud",
+        "exec",
+        "ops",
+        "engineer"
+      ],
+      "category": "infosec",
+      "postedDate": "2026-11-23",
+      "url": "https://remoteOK.com/remote-jobs/remote-strategic-technical-advisor-thrive-1138074",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1138070",
+      "title": "Senior Software Engineer, Agentic AI",
+      "company": "Clover Health",
+      "location": "US Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "programming"
+      ],
+      "category": "programming",
+      "postedDate": "2026-11-23",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-agentic-ai-clover-health-1138070",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1138068",
+      "title": "Senior Software Developer, Agentic AI - Canada",
+      "company": "Clover Health",
+      "location": "Canada Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "programming"
+      ],
+      "category": "programming",
+      "postedDate": "2026-11-23",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-developer-agentic-ai-canada-clover-health-1138068",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1138067",
@@ -474,25 +541,6 @@
       "category": "sales",
       "postedDate": "2026-11-22",
       "url": "https://remoteOK.com/remote-jobs/remote-strategic-account-executive-spain-gitlab-1137963",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137962",
-      "title": "Sr Analyst, Analytics & Insights",
-      "company": "BeyondTrust",
-      "location": "North America",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "devops"
-      ],
-      "category": "devops",
-      "postedDate": "2026-11-21",
-      "url": "https://remoteOK.com/remote-jobs/remote-sr-analyst-analytics-insights-beyondtrust-1137962",
       "source": "RemoteOK",
       "region": "foreign"
     },
@@ -911,25 +959,6 @@
       "category": "finance",
       "postedDate": "2026-11-21",
       "url": "https://remoteOK.com/remote-jobs/remote-senior-financial-analyst-oura-1137935",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137934",
-      "title": "In-Home Care Admin Coordinator",
-      "company": "Clover Health",
-      "location": "US Only",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "other"
-      ],
-      "category": "other",
-      "postedDate": "2026-11-21",
-      "url": "https://remoteOK.com/remote-jobs/remote-in-home-care-admin-coordinator-clover-health-1137934",
       "source": "RemoteOK",
       "region": "foreign"
     },
@@ -1379,25 +1408,6 @@
       "category": "marketing",
       "postedDate": "2026-11-20",
       "url": "https://remoteOK.com/remote-jobs/remote-senior-manager-product-analytics-growth-ifit-1137912",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137911",
-      "title": "Inside Sales Specialist-Temp",
-      "company": "Natera",
-      "location": "US Only",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "sales"
-      ],
-      "category": "sales",
-      "postedDate": "2026-11-20",
-      "url": "https://remoteOK.com/remote-jobs/remote-inside-sales-specialist-temp-natera-1137911",
       "source": "RemoteOK",
       "region": "foreign"
     },
@@ -1896,25 +1906,6 @@
       "region": "foreign"
     },
     {
-      "id": "remoteok-1137877",
-      "title": "PreSales Solutions Engineer",
-      "company": "Sumo Logic",
-      "location": "US Only",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "devops"
-      ],
-      "category": "devops",
-      "postedDate": "2026-11-20",
-      "url": "https://remoteOK.com/remote-jobs/remote-presales-solutions-engineer-sumo-logic-1137877",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
       "id": "remoteok-1137876",
       "title": "P2P Regional Operations - Africa",
       "company": "Bybit",
@@ -2120,6 +2111,36 @@
       "category": "customer support",
       "postedDate": "2026-11-20",
       "url": "https://remoteOK.com/remote-jobs/remote-customer-success-latam-gitlab-1137866",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1137865",
+      "title": "Senior Product Engineer",
+      "company": "Arbor Education",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "design",
+        "react",
+        "backend",
+        "education",
+        "consulting",
+        "docker",
+        "customer support",
+        "dev",
+        "testing",
+        "scrum",
+        "exec",
+        "quality assurance"
+      ],
+      "category": "design",
+      "postedDate": "2026-11-20",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-product-engineer-arbor-education-1137865",
       "source": "RemoteOK",
       "region": "foreign"
     },
