@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-25T13:57:47.935Z",
-  "count": 124,
+  "updated": "2026-11-25T23:00:02.348Z",
+  "count": 125,
   "sources": {
     "V2EX": 9,
     "RemoteOK": 100,
-    "Remotive": 15,
+    "Remotive": 16,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
@@ -656,6 +656,28 @@
       "postedDate": "2026-11-24",
       "url": "https://remoteOK.com/remote-jobs/remote-senior-cx-platform-engineer-gitlab-1138075",
       "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remotive-2091179",
+      "title": "WordPress Theme & Plugin Developer",
+      "company": "Steward Web Development",
+      "location": "Americas, LATAM, Canada, USA timezones",
+      "remote": true,
+      "salaryText": "$57K - $67K",
+      "salaryMin": 57000,
+      "salaryMax": 67000,
+      "salaryCurrency": "USD",
+      "skills": [
+        "fullstack",
+        "wordpress",
+        "OOP",
+        "themes"
+      ],
+      "category": "Software Development",
+      "postedDate": "2026-11-24",
+      "url": "https://remotive.com/remote-jobs/software-development/wordpress-theme-plugin-developer-2091179",
+      "source": "Remotive",
       "region": "foreign"
     },
     {
@@ -1712,36 +1734,6 @@
       "region": "foreign"
     },
     {
-      "id": "remoteok-1137917",
-      "title": "Senior Applied AI Engineer",
-      "company": "Wemolo",
-      "location": "MÃ¼nchen",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "embedded",
-        "sys admin",
-        "python",
-        "technical",
-        "dev",
-        "testing",
-        "marketing",
-        "speech",
-        "senior",
-        "ops",
-        "sales",
-        "medical"
-      ],
-      "category": "embedded",
-      "postedDate": "2026-11-21",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-applied-ai-engineer-wemolo-1137917",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
       "id": "remoteok-1137916",
       "title": "Strategic Account Executive, Financial Services - US Central",
       "company": "GitLab",
@@ -2157,6 +2149,25 @@
       "category": "product",
       "postedDate": "2026-11-20",
       "url": "https://remoteOK.com/remote-jobs/remote-product-manager-ai-foundations-reddit-1137893",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1137892",
+      "title": "Analyst Relations Senior Manager",
+      "company": "Stripe",
+      "location": "US Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "exec"
+      ],
+      "category": "exec",
+      "postedDate": "2026-11-20",
+      "url": "https://remoteOK.com/remote-jobs/remote-analyst-relations-senior-manager-stripe-1137892",
       "source": "RemoteOK",
       "region": "foreign"
     },
