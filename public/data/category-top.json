@@ -1,67 +1,17 @@
 {
-  "科技": [
-    {
-      "id": "64a21a988138",
-      "title": "Trump reportedly says pardoning Jensen Huang is &#8216;an option&#8217;",
-      "url": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
-      "summary": "Trump reportedly says pardoning Jensen Huang is &#8216;an option&#8217;",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-25T00:10:27.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2297774940.jpg?resize=1200,832",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "493e269f01dc",
-      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
-      "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
-      "summary": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-24T22:27:52.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2192215566.jpg?resize=1200,800",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "1d2d0947e63b",
-      "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
-      "url": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/",
-      "summary": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-24T21:09:04.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/oil-tanker-1244308661.jpg?resize=1200,800",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "d7c3fae085f1",
-      "title": "Yale&#8217;s Sonnenfeld: Nvidia is a &#8216;detriment&#8217; to US industrial might — not a champion",
-      "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
-      "summary": "Yale&#8217;s Sonnenfeld: Nvidia is a &#8216;detriment&#8217; to US industrial might — not a champion",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-25T00:12:02.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-ChatGPT.png?resize=1200,675",
-      "score": 65,
-      "tags": []
-    },
-    {
-      "id": "dcfea5a712b9",
-      "title": "In all-hands meeting, Jensen Huang thanks White House and says he&#8217;s in therapy",
-      "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
-      "summary": "In all-hands meeting, Jensen Huang thanks White House and says he&#8217;s in therapy",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-24T21:48:27.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
-      "score": 65,
-      "tags": []
-    }
-  ],
   "AI": [
+    {
+      "id": "38c6ffe96a9a",
+      "title": "Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty",
+      "url": "https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/",
+      "summary": "Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty",
+      "source": "TechCrunch",
+      "category": "AI",
+      "published": "2026-11-25T13:08:19.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/flipkart-ceo-kalyan-krishnamurthy.jpg?resize=1200,800",
+      "score": 75,
+      "tags": []
+    },
     {
       "id": "84cfd1b9e3c3",
       "title": "Even the best AI agents struggle with everyday life",
@@ -87,30 +37,6 @@
       "tags": []
     },
     {
-      "id": "d52b76df83c9",
-      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
-      "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
-      "summary": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-11-24T18:30:42.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305298275.jpg?w=594",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "281e7b0eb8a2",
-      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
-      "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
-      "summary": "UK warns AI-driven cyberattacks are exposing years of weak security",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-11-24T18:02:59.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2023/08/password-stealing-malware.jpg?resize=1200,800",
-      "score": 75,
-      "tags": []
-    },
-    {
       "id": "f2826368332a",
       "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
       "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
@@ -120,6 +46,68 @@
       "published": "2026-11-24T21:19:52.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/01-maple-hero-chargebacks-photo-16x9-1.png?resize=1200,675",
       "score": 65,
+      "tags": []
+    }
+  ],
+  "科技": [
+    {
+      "id": "4621f767e4cf",
+      "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+      "summary": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-25T13:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2249127237.jpg?resize=1200,800",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "64a21a988138",
+      "title": "Trump reportedly says pardoning Jensen Huang is &#8216;an option&#8217;",
+      "url": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
+      "summary": "Trump reportedly says pardoning Jensen Huang is &#8216;an option&#8217;",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-25T00:10:27.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2297774940.jpg?resize=1200,832",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "493e269f01dc",
+      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+      "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+      "summary": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-24T22:27:52.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2192215566.jpg?resize=1200,800",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "1d2d0947e63b",
+      "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
+      "url": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/",
+      "summary": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-24T21:09:04.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/oil-tanker-1244308661.jpg?resize=1200,800",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "d7c3fae085f1",
+      "title": "Yale&#8217;s Sonnenfeld: Nvidia is a &#8216;detriment&#8217; to US industrial might — not a champion",
+      "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "summary": "Yale&#8217;s Sonnenfeld: Nvidia is a &#8216;detriment&#8217; to US industrial might — not a champion",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-25T00:12:02.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-ChatGPT.png?resize=1200,675",
+      "score": 60,
       "tags": []
     }
   ],
@@ -161,18 +149,6 @@
       "tags": []
     },
     {
-      "id": "66ec7d32ce53",
-      "title": "[Microsoft] AI Agent 研发实习生 - 北京",
-      "url": "https://www.v2ex.com/t/1257980#reply3",
-      "summary": "[Microsoft] AI Agent 研发实习生 - 北京",
-      "source": "V2EX·招聘",
-      "category": "就业",
-      "published": "2026-11-18T06:09:33.000Z",
-      "image": "https://cdn.v2ex.com/gravatar/56c411da8f7367126c773ab95985ac23?s=73&d=retro",
-      "score": 60,
-      "tags": []
-    },
-    {
       "id": "53250bd99a1a",
       "title": "65%的AI岗要求Java能力，薪资比纯后端高63%——Java没有被AI埋掉，是 ...",
       "url": "https://www.sohu.com/a/1103952269_122839655",
@@ -182,6 +158,79 @@
       "published": "2026-11-20T01:43:00.000Z",
       "image": "",
       "score": 60,
+      "tags": []
+    },
+    {
+      "id": "53f8c7c568b8",
+      "title": "一句自然语言，生成十几步设计流程！AMD Ross让嵌入式开发更省力",
+      "url": "https://news.qq.com/rain/a/20261019A099VZ00",
+      "summary": "这些年，AI芯片性能越发强大，而且越来越强的AI能力，也在反哺芯片设计，不少厂商都在芯片设计中融入AI能力，大大提升效率，尤其是随着AI智能体的兴起和普及，芯片设计更是走上了AI快车道。 近日，AMD",
+      "source": "嵌入式开发·就业分析",
+      "category": "就业",
+      "published": "2026-10-19T09:03:00.000Z",
+      "image": "https://inews.gtimg.com/om_ls/OYcWd2y5zyo41Xu1G-FJLVFGSv-PJX3u9q17E8f0euk8cAA_330330/0",
+      "score": 60,
+      "tags": []
+    }
+  ],
+  "政策": [
+    {
+      "id": "63277aad8665",
+      "title": "长沙举办“向阳而生、创启湘江” 大学生创业金融服务专场活动",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-23/doc-iniztwiy0456193.shtml",
+      "summary": "长沙晚报掌上长沙11月20日讯（通讯员 侯英伦）11月20日，“向阳而生、创启湘江”长沙市大学生创业企业金融服务专场活动在中南大学科技园举行，吸引大学生创业企业、专精特新及科技型中小企业负责人与银行、",
+      "source": "Bing·大学生创业扶持政策",
+      "category": "政策",
+      "published": "2026-11-23T05:32:00.000Z",
+      "image": "//n.sinaimg.cn/sinakd20261123s/481/w800h481/20261123/ffa0-f8043b75b287790975ca253b48eaef5d.png",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "e6c32086fd86",
+      "title": "最高可贷50万元，湖南优化政策为大学生创业送上金融“活水”",
+      "url": "https://edu.rednet.cn/content/646043/52/16288673.html",
+      "summary": "近日，湖南省出台《关于进一步优化创业担保贷款政策全力支持大学生等重点群体创业的通知》，扩大创业担保贷款覆盖范围、提高贷款额度、降低融资成本，拿出实打实举措，助力青年创新创业。 按照新政策，创业担保贷款",
+      "source": "就业创业政策",
+      "category": "政策",
+      "published": "2026-09-18T01:57:00.000Z",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "1d5cf2aeb7b0",
+      "title": "2026年“春蕾绽放”女大学生创业微计划项目高校宣讲活动走进自贡",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34547714",
+      "summary": "11月22日下午，由四川省妇女联合会主办，四川卫生康复职业学院、自贡市妇女联合会、四川省青年创业就业基金会承办的2026年“春蕾绽放”女大学生创业微计划项目高校宣讲活动，在四川卫生康复职业学院举行。自",
+      "source": "Bing·大学生就业政策",
+      "category": "政策",
+      "published": "2026-11-23T09:26:00.000Z",
+      "image": "https://file.thepaper.cn/clt/img/gov_small.png",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "5ea8aed8cb49",
+      "title": "2027届全国普通高校毕业生规模预计1299万人！多部门：以钉钉子精神 ...",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-19/doc-inizhmka7769537.shtml",
+      "summary": "11月19日，中央教育工作领导小组秘书组、教育部、人力资源社会保障部、工业和信息化部、国务院国资委在京联合召开2027届全国普通高校毕业生就业创业工作会议。会议强调，要提高政治站位，准确把握推进中国式",
+      "source": "Bing·高校毕业生就业创业政策",
+      "category": "政策",
+      "published": "2026-11-19T03:34:00.000Z",
+      "image": "//n.sinaimg.cn/front20261119ac/312/w556h556/20261119/a27d-da10d46bd09201e77562fad2f638976b.jpg",
+      "score": 50,
+      "tags": []
+    },
+    {
+      "id": "f523254d5b7b",
+      "title": "2027届全国普通高校毕业生预计1299万人",
+      "url": "https://news.youth.cn/hotnews_41880/202611/t20261120_16975192.htm",
+      "summary": "本报北京11月19日电 记者晋浩天 从教育部获悉，2027届全国普通高校毕业生就业创业工作会议19日在北京召开。2027届全国普通高校毕业生规模预计1299万人，各地各部门要强化部门协同、央地联动，以",
+      "source": "Bing·高校毕业生就业创业政策",
+      "category": "政策",
+      "published": "2026-11-19T21:06:00.000Z",
+      "image": "https://m.youth.cn/images/20230313youth_share_logo_new.jpg",
+      "score": 50,
       "tags": []
     }
   ],
@@ -199,105 +248,55 @@
       "tags": []
     },
     {
-      "id": "40b493a8fb46",
-      "title": "作者访谈：finprim——TypeScript 金融校验统一库实践案例",
-      "url": "https://www.infoq.cn/article/xcfFQPW9fF1hVHyOdE0R?utm_source=rss&amp;utm_medium=article",
+      "id": "6b25f6f7b387",
+      "title": "AMD 联合中科慧灵完成人形机器人端侧 AI 验证，探索“大小脑”双处理器架构",
+      "url": "https://www.infoq.cn/article/stLpgV1kNHuvr21qRH9x?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-11-25T11:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/25/0a/25f5f4f785acf8c46ebfd405469a840a.jpg"
+      "published": "2026-11-25T19:11:08.000Z",
+      "image": "https://static001.infoq.cn/resource/image/28/31/2805d874989yy69a333b7c349654c831.png"
     },
     {
-      "id": "601d0476b1a1",
-      "title": "Octop 托管 CodeBuddy 实战：打造 7×24 小时在线的 AI 程序员",
-      "url": "https://www.infoq.cn/article/cgiP7vstrXKH94L1zj76?utm_source=rss&amp;utm_medium=article",
+      "id": "1af6e8386167",
+      "title": "京东基于 Apache Doris 构建统一湖仓分析引擎，支撑日均百万级查询与 PB 级数据扫描",
+      "url": "https://www.infoq.cn/article/dcXaJcXchxExJfaxtveD?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-11-25T10:30:02.000Z",
-      "image": "https://static001.infoq.cn/resource/image/18/d1/1803a9532f3e3b5137d1df50624487d1.png"
+      "published": "2026-11-25T18:58:33.000Z",
+      "image": "https://static001.infoq.cn/resource/image/0d/d7/0d9db382aa82b1e66542786b29640fd7.png"
     },
     {
-      "id": "28d515af901a",
-      "title": "用 Super-agent 的理念，拆解 Octop 团队模式",
-      "url": "https://www.infoq.cn/article/xJVcbBYI4m86a9TIA6HH?utm_source=rss&amp;utm_medium=article",
+      "id": "b47cd950fb64",
+      "title": "比黑客入侵更难防的，是 AI 正在执行的“合法操作”：企业安全防线，可能守错了地方",
+      "url": "https://www.infoq.cn/article/LwwdlrNGE3tbxPO1wIcT?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-11-25T10:28:44.000Z",
-      "image": "https://static001.infoq.cn/resource/image/99/6c/99ce60a7f057923ee84dd73503ce416c.png"
+      "published": "2026-11-25T18:52:47.000Z",
+      "image": "https://static001.infoq.cn/resource/image/4b/81/4bb940a020d1acb157eced20cd6cd381.png"
     },
     {
-      "id": "309299fe4d5c",
-      "title": "Clipto首席科学家韩玫已确认出席 AICon北京，分享Agent 的长上下文从哪里来",
-      "url": "https://www.infoq.cn/article/XpM5q7sE88iSlxNsRrVu?utm_source=rss&amp;utm_medium=article",
+      "id": "99f8396bf7e4",
+      "title": "“我比黄仁勋更早看到英伟达的未来”！AI 教父回击黄仁勋，直言大规模失业是 AI 巨头赚钱的副作用",
+      "url": "https://www.infoq.cn/article/6i2DoIJiaTcKyR0UyurQ?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-11-25T10:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/c1/b8/c1ccc14195871yyc62613debd6d902b8.png"
-    }
-  ],
-  "政策": [
-    {
-      "id": "e6c32086fd86",
-      "title": "最高可贷50万元，湖南优化政策为大学生创业送上金融“活水”",
-      "url": "https://edu.rednet.cn/content/646043/52/16288673.html",
-      "summary": "近日，湖南省出台《关于进一步优化创业担保贷款政策全力支持大学生等重点群体创业的通知》，扩大创业担保贷款覆盖范围、提高贷款额度、降低融资成本，拿出实打实举措，助力青年创新创业。 按照新政策，创业担保贷款",
-      "source": "就业创业政策",
-      "category": "政策",
-      "published": "2026-09-18T01:57:00.000Z",
-      "image": "",
-      "score": 55,
-      "tags": []
-    },
-    {
-      "id": "5ea8aed8cb49",
-      "title": "2027届全国普通高校毕业生规模预计1299万人！多部门：以钉钉子精神 ...",
-      "url": "https://finance.sina.com.cn/jjxw/2026-11-19/doc-inizhmka7769537.shtml",
-      "summary": "11月19日，中央教育工作领导小组秘书组、教育部、人力资源社会保障部、工业和信息化部、国务院国资委在京联合召开2027届全国普通高校毕业生就业创业工作会议。会议强调，要提高政治站位，准确把握推进中国式",
-      "source": "Bing·高校毕业生就业创业政策",
-      "category": "政策",
-      "published": "2026-11-19T03:34:00.000Z",
-      "image": "//n.sinaimg.cn/front20261119ac/312/w556h556/20261119/a27d-da10d46bd09201e77562fad2f638976b.jpg",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "9cfa1bb6d8fd",
-      "title": "上海美术学院举办“源来好创业”大学生创新创业沙龙",
-      "url": "https://www.sohu.com/a/1104904186_121124742",
-      "summary": "11月20日，“源来好创业”大学生创新创业沙龙在延长校区上海美术学院A楼成功举办。本次沙龙活动立足美术学科专业特色，聚焦文创领域大学生创新创业实践，围绕科技园区孵化体系、创业实务流程、扶持政策解读、创",
-      "source": "Bing·大学生创业扶持政策",
-      "category": "政策",
-      "published": "2026-11-22T10:05:00.000Z",
-      "image": "https://q5.itc.cn/q_70/images03/20261122/658b036080f74ad99b88846b57b867e5.jpeg",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "2b9b79ef9cbf",
-      "title": "2026年吉林省大学生直播电商创业大赛颁奖仪式暨就业创业服务对接 ...",
-      "url": "https://www.sohu.com/a/1104065440_121106822",
-      "summary": "为深入实施就业优先战略，贯彻落实吉林省委省政府关于促进高校毕业生就业创业的决策部署，持续深化“学电商促就业”行动，吉林省委网信办联合省人社厅、省教育厅、团省委、省商务厅、省“吉字号”特色产业高质量发展",
-      "source": "Bing·大学生创业扶持政策",
-      "category": "政策",
-      "published": "2026-11-20T05:05:00.000Z",
-      "image": "//q5.itc.cn/q_70/images03/20261120/45cf375536884c81a4c2ee6c34199277.jpeg",
-      "score": 50,
-      "tags": []
-    },
-    {
-      "id": "581f66c36b06",
-      "title": "2026-07-01教育部办公厅 国家广播电视总局办公厅关于开展2026年高校毕业生就业典型宣传季活动的通知",
-      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202611/t20261123_1459236.html",
-      "summary": "2026-07-01教育部办公厅 国家广播电视总局办公厅关于开展2026年高校毕业生就业典型宣传季活动的通知",
-      "source": "教育部",
-      "category": "政策",
-      "published": "2026-11-23T00:00:00.000Z",
-      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
-      "score": 50,
-      "tags": []
+      "published": "2026-11-25T18:45:29.000Z",
+      "image": "https://static001.infoq.cn/resource/image/04/46/04f2ce28fb8a03d6c9f50d48f5386246.png"
     }
   ],
   "社会": [
+    {
+      "id": "8efc8b9753d6",
+      "title": "《教材管理条例（征求意见稿）》面向社会公开征求意见",
+      "url": "https://www.chinanews.com.cn/edu/2026/11-23/10736490.shtml",
+      "summary": "中新网11月23日电 据教育部网站消息，近日，教育部就《教材管理条例(征求意见稿)》(以下简称《条例(征求意见稿)》)面向社会公开征求意见",
+      "source": "中新网教育",
+      "category": "社会",
+      "published": "2026-11-23T08:42:54.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png",
+      "score": 50,
+      "tags": []
+    },
     {
       "id": "17e9fe1bcb50",
       "title": "两部门：实施数据领域高技能人才集群培养计划",
@@ -311,86 +310,77 @@
       "tags": []
     },
     {
-      "id": "cde93a2ccdae",
-      "title": "哈尔滨市阿城区：冰雪运动、研学康养、民俗体验深度融合",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737387.shtml",
+      "id": "9a7aaa218a57",
+      "title": "黑龙江迎大范围降雪 局地暴雪伴雨夹雪",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737825.shtml",
       "source": "中新网社会",
       "category": "社会",
-      "published": "2026-11-25T03:26:46.000Z",
+      "published": "2026-11-25T13:46:41.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "52d899f79354",
-      "title": "一根银针、一间间诊室：暨南人在非洲播撒民心相通的种子",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737385.shtml",
+      "id": "1c2fe96a85b4",
+      "title": "乡村小学联动社会爱心团队 微光成炬共答育人题",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737808.shtml",
       "source": "中新网社会",
       "category": "社会",
-      "published": "2026-11-25T03:24:24.000Z",
+      "published": "2026-11-25T13:38:55.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "ee47609e4cbf",
-      "title": "广西部署开展打击非法捕猎、贩卖、食用鸟类等野生动物专项行动",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737408.shtml",
+      "id": "18a1318f3c02",
+      "title": "“峡谷远，医者暖” 山海同心补齐边疆地区医疗短板",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737806.shtml",
       "source": "中新网社会",
       "category": "社会",
-      "published": "2026-11-25T03:20:03.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "be2d8cd7b891",
-      "title": "欧洲中期天气预报中心主任点赞重庆全民早期预警系统",
-      "url": "https://www.chinanews.com.cn/sh/2026/11-25/10737405.shtml",
-      "source": "中新网社会",
-      "category": "社会",
-      "published": "2026-11-25T03:19:35.000Z",
+      "published": "2026-11-25T13:36:33.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ],
   "财经": [
     {
-      "id": "6f096245f987",
-      "title": "（神州写真）东北传统“冻货”迭代出新   哈尔滨冰雪游热销“冷滋味”",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737414.shtml",
+      "id": "ea7eb7309c0e",
+      "title": "专家学者齐聚广州共探人工智能与硬科技产业协同",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737820.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-25T03:21:59.000Z",
+      "published": "2026-11-25T13:45:07.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "645a46354f39",
-      "title": "截至10月底全国累计发电装机容量同比增长10.9%",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737413.shtml",
+      "id": "96bb610f9a6b",
+      "title": "中马青年企业家广西南宁共探AI赋能企业出海",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737819.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-25T03:14:45.000Z",
+      "published": "2026-11-25T13:44:57.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "ffed9d85a4d7",
-      "title": "按吨计价→按克拉售卖 河南柘城“磨”出硬实力",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737412.shtml",
+      "id": "d7a433d9f96a",
+      "title": "黑龙江“吸睛”各国客商 共拓入境文旅合作通道",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737814.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-25T03:11:35.000Z",
+      "published": "2026-11-25T13:43:51.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "94f161f51807",
-      "title": "新动能是一步一步闯出来的(经济新方位·八大重点任务看落实)",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737391.shtml",
+      "id": "073e0343955b",
+      "title": "小鹏人形机器人IRON预计2027年1月进入硬件量产阶段",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737811.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-25T02:58:20.000Z",
+      "published": "2026-11-25T13:32:35.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "85664dd23b9c",
-      "title": "黄金又跌了，25日国际金价跌破3550美元",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737384.shtml",
+      "id": "318df8905d97",
+      "title": "广东发布综合运输服务发展“十五五”规划",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737805.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-25T02:55:34.000Z",
+      "published": "2026-11-25T13:30:14.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]

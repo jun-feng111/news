@@ -1,14 +1,72 @@
 {
-  "updated": "2026-11-25T03:29:54.662Z",
-  "count": 123,
+  "updated": "2026-11-25T13:57:47.935Z",
+  "count": 124,
   "sources": {
-    "V2EX": 8,
+    "V2EX": 9,
     "RemoteOK": 100,
     "Remotive": 15,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1259822",
+      "title": "VAST（Tripo）招 AI 全栈研发实习生，做运营工具和 Agent",
+      "company": "az09py",
+      "location": "北京五道口",
+      "remote": false,
+      "salaryText": "500 元/天",
+      "salaryMin": 500,
+      "salaryMax": 500,
+      "salaryCurrency": "USD",
+      "skills": [
+        "python",
+        "go",
+        "typescript",
+        "react",
+        "vue",
+        "node"
+      ],
+      "category": "全栈",
+      "postedDate": "2026-11-25",
+      "url": "https://www.v2ex.com/t/1259822",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1259710",
+      "title": "数据安全客户成功经理-CSM（To B 数据安全安全/零信任方向）",
+      "company": "michael2016",
+      "location": "上海/深圳",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [],
+      "category": "数据",
+      "postedDate": "2026-11-25",
+      "url": "https://www.v2ex.com/t/1259710",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1259704",
+      "title": "招聘： 资深合规 / 合规专家、资深产品/产品负责人、资深运营/运营负责人、资深商务/商务合作负责人",
+      "company": "justinX",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [],
+      "category": "产品",
+      "postedDate": "2026-11-25",
+      "url": "https://www.v2ex.com/t/1259704",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1259614",
       "title": "[硬件] 军工通信/低空经济方向-高级硬件工程师",
@@ -133,49 +191,357 @@
       "region": "domestic"
     },
     {
-      "id": "v2ex-1259381",
-      "title": "苏州/机器人人公司/嵌入式 Linux 软件工程师",
-      "company": "symbol16",
-      "location": "国内",
+      "id": "remoteok-1138100",
+      "title": "Senior Global Partner Specialist - USA",
+      "company": "Storyblok",
+      "location": "Worldwide",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "other"
+      ],
+      "category": "other",
+      "postedDate": "2026-11-24",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-global-partner-specialist-usa-storyblok-1138100",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1138099",
+      "title": "Senior Corporate Accountant - Tax",
+      "company": "Salesloft",
+      "location": "US Only",
       "remote": false,
       "salaryText": "",
       "salaryMin": null,
       "salaryMax": null,
-      "salaryCurrency": "CNY",
+      "salaryCurrency": "",
       "skills": [
-        "python",
-        "c++",
-        "linux"
+        "finance"
       ],
-      "category": "设计",
+      "category": "finance",
       "postedDate": "2026-11-24",
-      "url": "https://www.v2ex.com/t/1259381",
-      "source": "V2EX",
-      "region": "domestic"
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-corporate-accountant-tax-salesloft-1138099",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
-      "id": "v2ex-1259298",
-      "title": "AIPower 招全栈工程师｜虚拟卡 / Online Banking / AI Agent 支付",
-      "company": "Martianxhc",
-      "location": "远程",
-      "remote": true,
-      "salaryText": "30K–45K",
-      "salaryMin": 30000,
-      "salaryMax": 45000,
-      "salaryCurrency": "USD",
+      "id": "remoteok-1138098",
+      "title": "Sr EHR Implementation Manager",
+      "company": "Natera",
+      "location": "US Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
       "skills": [
-        "typescript",
-        "react",
-        "node",
-        "docker",
-        "postgresql",
-        "redis"
+        "exec"
       ],
-      "category": "全栈",
+      "category": "exec",
       "postedDate": "2026-11-24",
-      "url": "https://www.v2ex.com/t/1259298",
-      "source": "V2EX",
-      "region": "domestic"
+      "url": "https://remoteOK.com/remote-jobs/remote-sr-ehr-implementation-manager-natera-1138098",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1138097",
+      "title": "Regional Vice President, Biddable",
+      "company": "Doximity",
+      "location": "US Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "product"
+      ],
+      "category": "product",
+      "postedDate": "2026-11-24",
+      "url": "https://remoteOK.com/remote-jobs/remote-regional-vice-president-biddable-doximity-1138097",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1138096",
+      "title": "Security Engineer, Offensive Security",
+      "company": "Dropbox",
+      "location": "North America",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "devops"
+      ],
+      "category": "devops",
+      "postedDate": "2026-11-24",
+      "url": "https://remoteOK.com/remote-jobs/remote-security-engineer-offensive-security-dropbox-1138096",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1138095",
+      "title": "Principal Software Engineer",
+      "company": "Ping Identity",
+      "location": "US Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "devops"
+      ],
+      "category": "devops",
+      "postedDate": "2026-11-24",
+      "url": "https://remoteOK.com/remote-jobs/remote-principal-software-engineer-ping-identity-1138095",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1138093",
+      "title": "Senior Software Engineer, AI & Science Platform",
+      "company": "Reddit",
+      "location": "US Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "programming"
+      ],
+      "category": "programming",
+      "postedDate": "2026-11-24",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ai-science-platform-reddit-1138093",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1138092",
+      "title": "Staff Software Engineer, Control Plane",
+      "company": "Cribl",
+      "location": "US Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "programming"
+      ],
+      "category": "programming",
+      "postedDate": "2026-11-24",
+      "url": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-control-plane-cribl-1138092",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1138091",
+      "title": "Senior Web Engineer, Profile & Community",
+      "company": "Airbnb",
+      "location": "US Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "programming"
+      ],
+      "category": "programming",
+      "postedDate": "2026-11-24",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-web-engineer-profile-community-airbnb-1138091",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1138090",
+      "title": "Associate, Payment Integrity",
+      "company": "Oscar Health",
+      "location": "Worldwide",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "programming"
+      ],
+      "category": "programming",
+      "postedDate": "2026-11-24",
+      "url": "https://remoteOK.com/remote-jobs/remote-associate-payment-integrity-oscar-health-1138090",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1138089",
+      "title": "District Manager, Enterprise - Healthcare (Southeast)",
+      "company": "Everpure",
+      "location": "US Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "sales"
+      ],
+      "category": "sales",
+      "postedDate": "2026-11-24",
+      "url": "https://remoteOK.com/remote-jobs/remote-district-manager-enterprise-healthcare-southeast-everpure-1138089",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1138088",
+      "title": "Senior Account Executive - SaaS Industrials",
+      "company": "Salsify",
+      "location": "US Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "sales"
+      ],
+      "category": "sales",
+      "postedDate": "2026-11-24",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-account-executive-saas-industrials-salsify-1138088",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1138087",
+      "title": "Partner Sales Manager (Hindi Speaking) - Singapore",
+      "company": "Dropbox",
+      "location": "Asia",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "sales"
+      ],
+      "category": "sales",
+      "postedDate": "2026-11-24",
+      "url": "https://remoteOK.com/remote-jobs/remote-partner-sales-manager-hindi-speaking-singapore-dropbox-1138087",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1138086",
+      "title": "Sr. Account Executive, AI & HPC",
+      "company": "Everpure",
+      "location": "US Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "sales"
+      ],
+      "category": "sales",
+      "postedDate": "2026-11-24",
+      "url": "https://remoteOK.com/remote-jobs/remote-sr-account-executive-ai-hpc-everpure-1138086",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1138085",
+      "title": "Director, Product Marketing (Contractor)",
+      "company": "Glossier",
+      "location": "US Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "marketing"
+      ],
+      "category": "marketing",
+      "postedDate": "2026-11-24",
+      "url": "https://remoteOK.com/remote-jobs/remote-director-product-marketing-contractor-glossier-1138085",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1138083",
+      "title": "Portfolio Customer Success Manager",
+      "company": "LastPass",
+      "location": "Canada Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "customer support"
+      ],
+      "category": "customer support",
+      "postedDate": "2026-11-24",
+      "url": "https://remoteOK.com/remote-jobs/remote-portfolio-customer-success-manager-lastpass-1138083",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1138082",
+      "title": "Region Head, Asia",
+      "company": "Dropbox",
+      "location": "Asia",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "customer support"
+      ],
+      "category": "customer support",
+      "postedDate": "2026-11-24",
+      "url": "https://remoteOK.com/remote-jobs/remote-region-head-asia-dropbox-1138082",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1138081",
+      "title": "Revenue Operations Analyst",
+      "company": "Augment",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "analyst",
+        "saas",
+        "recruiter",
+        "customer support",
+        "marketing",
+        "exec",
+        "finance",
+        "admin",
+        "ops",
+        "excel",
+        "legal",
+        "sales"
+      ],
+      "category": "analyst",
+      "postedDate": "2026-11-24",
+      "url": "https://remoteOK.com/remote-jobs/remote-revenue-operations-analyst-augment-1138081",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1138079",
@@ -1327,25 +1693,6 @@
       "region": "foreign"
     },
     {
-      "id": "remoteok-1137919",
-      "title": "Business Development Representative, Financial Services - UKI",
-      "company": "GitLab",
-      "location": "EMEA",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "sales"
-      ],
-      "category": "sales",
-      "postedDate": "2026-11-21",
-      "url": "https://remoteOK.com/remote-jobs/remote-business-development-representative-financial-services-uki-gitlab-1137919",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
       "id": "remoteok-1137918",
       "title": "Regional MSP Partner Manager, Germany",
       "company": "Everpure",
@@ -1810,329 +2157,6 @@
       "category": "product",
       "postedDate": "2026-11-20",
       "url": "https://remoteOK.com/remote-jobs/remote-product-manager-ai-foundations-reddit-1137893",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137892",
-      "title": "Analyst Relations Senior Manager",
-      "company": "Stripe",
-      "location": "US Only",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "exec"
-      ],
-      "category": "exec",
-      "postedDate": "2026-11-20",
-      "url": "https://remoteOK.com/remote-jobs/remote-analyst-relations-senior-manager-stripe-1137892",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137891",
-      "title": "Sales Commissions Analyst",
-      "company": "LaunchDarkly",
-      "location": "US Only",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "finance"
-      ],
-      "category": "finance",
-      "postedDate": "2026-11-20",
-      "url": "https://remoteOK.com/remote-jobs/remote-sales-commissions-analyst-launchdarkly-1137891",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137890",
-      "title": "Sr Director, L2C Process Owner",
-      "company": "BeyondTrust",
-      "location": "US Only",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "devops"
-      ],
-      "category": "devops",
-      "postedDate": "2026-11-20",
-      "url": "https://remoteOK.com/remote-jobs/remote-sr-director-l2c-process-owner-beyondtrust-1137890",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137886",
-      "title": "Sr. Product Manager",
-      "company": "6sense",
-      "location": "US Only",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "product"
-      ],
-      "category": "product",
-      "postedDate": "2026-11-20",
-      "url": "https://remoteOK.com/remote-jobs/remote-sr-product-manager-6sense-1137886",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137885",
-      "title": "Senior Director of Product Management (R14361)",
-      "company": "Oportun",
-      "location": "US Only",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "product"
-      ],
-      "category": "product",
-      "postedDate": "2026-11-20",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-director-of-product-management-r14361-oportun-1137885",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137884",
-      "title": "Director, Sales",
-      "company": "Ping Identity",
-      "location": "US Only",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "devops"
-      ],
-      "category": "devops",
-      "postedDate": "2026-11-20",
-      "url": "https://remoteOK.com/remote-jobs/remote-director-sales-ping-identity-1137884",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137883",
-      "title": "Technical Chief of Staff to the CTO",
-      "company": "Clover Health",
-      "location": "US Only",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "exec"
-      ],
-      "category": "exec",
-      "postedDate": "2026-11-20",
-      "url": "https://remoteOK.com/remote-jobs/remote-technical-chief-of-staff-to-the-cto-clover-health-1137883",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137880",
-      "title": "Compliance Officer/MLRO",
-      "company": "Bybit",
-      "location": "Asia",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "product"
-      ],
-      "category": "product",
-      "postedDate": "2026-11-20",
-      "url": "https://remoteOK.com/remote-jobs/remote-compliance-officer-mlro-bybit-1137880",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137879",
-      "title": "Manager, Business Risk and AI Automation",
-      "company": "Reddit",
-      "location": "US Only",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "exec"
-      ],
-      "category": "exec",
-      "postedDate": "2026-11-20",
-      "url": "https://remoteOK.com/remote-jobs/remote-manager-business-risk-and-ai-automation-reddit-1137879",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137878",
-      "title": "Compensation Manager",
-      "company": "6sense",
-      "location": "US Only",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "exec"
-      ],
-      "category": "exec",
-      "postedDate": "2026-11-20",
-      "url": "https://remoteOK.com/remote-jobs/remote-compensation-manager-6sense-1137878",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137876",
-      "title": "P2P Regional Operations - Africa",
-      "company": "Bybit",
-      "location": "Africa",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "product"
-      ],
-      "category": "product",
-      "postedDate": "2026-11-20",
-      "url": "https://remoteOK.com/remote-jobs/remote-p2p-regional-operations-africa-bybit-1137876",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137875",
-      "title": "International People Ops Analyst, Benefits",
-      "company": "Cribl",
-      "location": "US Only",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "exec"
-      ],
-      "category": "exec",
-      "postedDate": "2026-11-20",
-      "url": "https://remoteOK.com/remote-jobs/remote-international-people-ops-analyst-benefits-cribl-1137875",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137874",
-      "title": "Senior Atlassian Cloud Administrator",
-      "company": "Dropbox",
-      "location": "Europe",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "devops"
-      ],
-      "category": "devops",
-      "postedDate": "2026-11-20",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-atlassian-cloud-administrator-dropbox-1137874",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137873",
-      "title": "Product Designer",
-      "company": "Tebra",
-      "location": "US Only",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "design"
-      ],
-      "category": "design",
-      "postedDate": "2026-11-20",
-      "url": "https://remoteOK.com/remote-jobs/remote-product-designer-tebra-1137873",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137872",
-      "title": "Senior Software Developer - Canada",
-      "company": "Clover Health",
-      "location": "Canada Only",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "programming"
-      ],
-      "category": "programming",
-      "postedDate": "2026-11-20",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-developer-canada-clover-health-1137872",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137871",
-      "title": "Senior Software Engineer",
-      "company": "Clover Health",
-      "location": "US Only",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "programming"
-      ],
-      "category": "programming",
-      "postedDate": "2026-11-20",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-clover-health-1137871",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137870",
-      "title": "Lifecycle Value Manager (Enterprise Customer Success/ Expansion), UK",
-      "company": "Everpure",
-      "location": "UK Only",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "sales"
-      ],
-      "category": "sales",
-      "postedDate": "2026-11-20",
-      "url": "https://remoteOK.com/remote-jobs/remote-lifecycle-value-manager-enterprise-customer-success-expansion-uk-everpure-1137870",
       "source": "RemoteOK",
       "region": "foreign"
     },
