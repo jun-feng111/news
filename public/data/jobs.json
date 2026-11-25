@@ -1,14 +1,50 @@
 {
-  "updated": "2026-11-24T19:59:58.942Z",
-  "count": 124,
+  "updated": "2026-11-25T03:29:54.662Z",
+  "count": 123,
   "sources": {
-    "V2EX": 9,
+    "V2EX": 8,
     "RemoteOK": 100,
     "Remotive": 15,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1259614",
+      "title": "[硬件] 军工通信/低空经济方向-高级硬件工程师",
+      "company": "fankcoder",
+      "location": "成都",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [],
+      "category": "其他",
+      "postedDate": "2026-11-25",
+      "url": "https://www.v2ex.com/t/1259614",
+      "source": "V2EX",
+      "region": "domestic"
+    },
+    {
+      "id": "v2ex-1259596",
+      "title": "都说前端完了，但是招个人也太难了",
+      "company": "oldersnail",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "vue"
+      ],
+      "category": "前端",
+      "postedDate": "2026-11-25",
+      "url": "https://www.v2ex.com/t/1259596",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1259525",
       "title": "[MoeGo] 技术 / 产品 / 设计 / 财务社招内推 15 薪",
@@ -29,23 +65,6 @@
       "category": "产品",
       "postedDate": "2026-11-24",
       "url": "https://www.v2ex.com/t/1259525",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1259445",
-      "title": "想问下现在的第三方背调的形式",
-      "company": "summertimesad",
-      "location": "背调",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [],
-      "category": "其他",
-      "postedDate": "2026-11-24",
-      "url": "https://www.v2ex.com/t/1259445",
       "source": "V2EX",
       "region": "domestic"
     },
@@ -95,23 +114,6 @@
       "region": "domestic"
     },
     {
-      "id": "v2ex-1259413",
-      "title": "寻找远程业务搭子，独立全栈开发干点自己的事",
-      "company": "neokill",
-      "location": "国内",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [],
-      "category": "全栈",
-      "postedDate": "2026-11-24",
-      "url": "https://www.v2ex.com/t/1259413",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
       "id": "v2ex-1259403",
       "title": "算法工程师（偏重 TTS 真人语音合成方向） 算法工程师（偏重生图生视频 & 人物一致性方向）",
       "company": "Brand001",
@@ -127,25 +129,6 @@
       "category": "算法/AI",
       "postedDate": "2026-11-24",
       "url": "https://www.v2ex.com/t/1259403",
-      "source": "V2EX",
-      "region": "domestic"
-    },
-    {
-      "id": "v2ex-1259389",
-      "title": "救救孩子吧！求职 Android，flutter，web 前端开发",
-      "company": "yoohob",
-      "location": "国内",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [
-        "flutter"
-      ],
-      "category": "前端",
-      "postedDate": "2026-11-24",
-      "url": "https://www.v2ex.com/t/1259389",
       "source": "V2EX",
       "region": "domestic"
     },
@@ -193,6 +176,121 @@
       "url": "https://www.v2ex.com/t/1259298",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "remoteok-1138079",
+      "title": "Senior Manager, Enterprise Application Development Engineering",
+      "company": "GitLab",
+      "location": "US Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "devops"
+      ],
+      "category": "devops",
+      "postedDate": "2026-11-24",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-manager-enterprise-application-development-engineering-gitlab-1138079",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1138078",
+      "title": "Real Estate Executive Assistant 21370",
+      "company": "Wing Assistant",
+      "location": "Philippines",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "virtual assistant",
+        "sys admin",
+        "infosec",
+        "education",
+        "technical",
+        "marketing",
+        "accounting",
+        "exec",
+        "ops",
+        "full time"
+      ],
+      "category": "virtual assistant",
+      "postedDate": "2026-11-24",
+      "url": "https://remoteOK.com/remote-jobs/remote-real-estate-executive-assistant-21370-wing-assistant-1138078",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1138077",
+      "title": "Senior Tax Associate",
+      "company": "Real REMAX Group",
+      "location": "Newark",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "design",
+        "technical",
+        "customer support",
+        "accounting",
+        "education",
+        "finance",
+        "c",
+        "microsoft",
+        "senior",
+        "junior",
+        "ops",
+        "excel"
+      ],
+      "category": "design",
+      "postedDate": "2026-11-24",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-tax-associate-real-remax-group-1138077",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1138076",
+      "title": "Revenue Operations Manager",
+      "company": "GitLab",
+      "location": "US Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "exec"
+      ],
+      "category": "exec",
+      "postedDate": "2026-11-24",
+      "url": "https://remoteOK.com/remote-jobs/remote-revenue-operations-manager-gitlab-1138076",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1138075",
+      "title": "Senior CX Platform Engineer",
+      "company": "GitLab",
+      "location": "Canada Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "devops"
+      ],
+      "category": "devops",
+      "postedDate": "2026-11-24",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-cx-platform-engineer-gitlab-1138075",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1138074",
@@ -2035,112 +2133,6 @@
       "category": "sales",
       "postedDate": "2026-11-20",
       "url": "https://remoteOK.com/remote-jobs/remote-lifecycle-value-manager-enterprise-customer-success-expansion-uk-everpure-1137870",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137869",
-      "title": "Lifecycle Value Manager, Germany",
-      "company": "Everpure",
-      "location": "Europe",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "sales"
-      ],
-      "category": "sales",
-      "postedDate": "2026-11-20",
-      "url": "https://remoteOK.com/remote-jobs/remote-lifecycle-value-manager-germany-everpure-1137869",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137868",
-      "title": "Regional MSP Partner Manager, EMEA South (Paris)",
-      "company": "Everpure",
-      "location": "Europe",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "sales"
-      ],
-      "category": "sales",
-      "postedDate": "2026-11-20",
-      "url": "https://remoteOK.com/remote-jobs/remote-regional-msp-partner-manager-emea-south-paris-everpure-1137868",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137867",
-      "title": "Customer Success Engineer",
-      "company": "GitLab",
-      "location": "US Only",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "customer support"
-      ],
-      "category": "customer support",
-      "postedDate": "2026-11-20",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-engineer-gitlab-1137867",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137866",
-      "title": "Customer Success LATAM",
-      "company": "GitLab",
-      "location": "US Only",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "customer support"
-      ],
-      "category": "customer support",
-      "postedDate": "2026-11-20",
-      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-latam-gitlab-1137866",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137865",
-      "title": "Senior Product Engineer",
-      "company": "Arbor Education",
-      "location": "Remote",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "design",
-        "react",
-        "backend",
-        "education",
-        "consulting",
-        "docker",
-        "customer support",
-        "dev",
-        "testing",
-        "scrum",
-        "exec",
-        "quality assurance"
-      ],
-      "category": "design",
-      "postedDate": "2026-11-20",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-product-engineer-arbor-education-1137865",
       "source": "RemoteOK",
       "region": "foreign"
     },
