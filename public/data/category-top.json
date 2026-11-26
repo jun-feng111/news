@@ -1,4 +1,66 @@
 {
+  "科技": [
+    {
+      "id": "4c9ff179b519",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "summary": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-26T20:03:54.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Taiwan-Nvidia.jpg?w=1024",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "17e6217a9137",
+      "title": "Is Alice Huang a spy or not?",
+      "url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
+      "summary": "Is Alice Huang a spy or not",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-26T20:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2297774940.jpg?resize=1200,832",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "cec1cc205576",
+      "title": "X finally gets parental controls after 20 years",
+      "url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
+      "summary": "X finally gets parental controls after 20 years",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-26T19:31:50.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/10/twitter-x-musk-graffiti-hand.jpg?resize=1200,675",
+      "score": 75,
+      "tags": []
+    },
+    {
+      "id": "d7e3971f7f9b",
+      "title": "A month with the iPhone Duo has changed how I use my phone",
+      "url": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/",
+      "summary": "A month with the iPhone Duo has changed how I use my phone",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-26T17:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/iphone-duo-GettyImages-2301595744.jpg?w=1024",
+      "score": 70,
+      "tags": []
+    },
+    {
+      "id": "ed1460477a26",
+      "title": "Grand Theft Auto VI proves why efficiency isn&#8217;t a virtue",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "summary": "Grand Theft Auto VI proves why efficiency isn&#8217;t a virtue",
+      "source": "TechCrunch",
+      "category": "科技",
+      "published": "2026-11-26T16:00:00.000Z",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jason_and_Lucia_17.117_b11r13mg5.jpg?resize=1200,675",
+      "score": 70,
+      "tags": []
+    }
+  ],
   "AI": [
     {
       "id": "3155b4590a8d",
@@ -9,31 +71,7 @@
       "category": "AI",
       "published": "2026-11-25T20:56:44.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/space-tesla-cybertruck.jpg?resize=1200,801",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "fd530c75c77a",
-      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
-      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
-      "summary": "Want to buy your kid an AI toy this Christmas。 Not in New York",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-11-25T18:11:46.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2237660127.jpg?resize=1200,800",
-      "score": 75,
-      "tags": []
-    },
-    {
-      "id": "a07adeabc9e7",
-      "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
-      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
-      "summary": "Character。AI’s plan to auction off users’ private chats challenged by state AGs",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-11-25T17:35:58.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2024/06/Character-Calls-Image-feat.jpg?resize=1200,675",
-      "score": 75,
+      "score": 70,
       "tags": []
     },
     {
@@ -45,79 +83,8 @@
       "category": "AI",
       "published": "2026-11-25T20:03:27.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/openai-chatgpt.jpg?resize=1200,800",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "bac2d3e3f4a6",
-      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
-      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
-      "summary": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
-      "source": "TechCrunch",
-      "category": "AI",
-      "published": "2026-11-25T19:44:24.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-viva-tech.jpg?w=1024",
       "score": 65,
       "tags": []
-    }
-  ],
-  "科技": [
-    {
-      "id": "a897a1306ac3",
-      "title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
-      "url": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/",
-      "summary": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-25T19:54:32.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/04/tesla-cybertruck-fleet.jpg?resize=1200,800",
-      "score": 70,
-      "tags": []
-    },
-    {
-      "id": "bf17d49ef61f",
-      "title": "S&#038;P considers Nvidia credit downgrade over governance and &#8216;key man&#8217; risks",
-      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
-      "summary": "S&#038;P considers Nvidia credit downgrade over governance and &#8216;key man&#8217; risks",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-25T22:44:32.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "dc74c9891a12",
-      "title": "Jensen Huang broke Nvidia&#8217;s code of conduct, and his employees may not forget it",
-      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
-      "summary": "Jensen Huang broke Nvidia&#8217;s code of conduct, and his employees may not forget it",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-25T19:54:57.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2227140868.jpg?w=1024",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "3dd7b93a9dfb",
-      "title": "DOJ accuses former cyber executive of defrauding ransomware victims by secretly paying hackers",
-      "url": "https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/",
-      "summary": "DOJ accuses former cyber executive of defrauding ransomware victims by secretly paying hackers",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-25T17:36:51.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/11/ransomware-screen-1186403530.jpg?resize=1200,749",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "3bcea7cbdeef",
-      "title": "X’s latest update for creators focuses on vertical video",
-      "url": "https://techcrunch.com/2026/11/25/xs-latest-update-for-creators-focuses-on-vertical-video/",
-      "source": "TechCrunch",
-      "category": "科技",
-      "published": "2026-11-25T17:28:29.000Z",
-      "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2258168632.jpg?w=1024"
     }
   ],
   "就业": [
@@ -246,18 +213,6 @@
   ],
   "政策": [
     {
-      "id": "144ab245fa39",
-      "title": "“津”彩人社 | 河西区：产业变局之下，青年如何突围？这场 AIGC+OPC ...",
-      "url": "https://www.sohu.com/a/1104208727_121106842",
-      "summary": "日前，河西区委组织部、河西区人力资源和社会保障局联合天津财经大学，举办“洞悉产业变局 解锁数智创业”——AIGC+OPC赋能&#183;产业出海就业创业沙龙。 本次活动作为第四届“河西人才节”系列活动",
-      "source": "Bing·人社部就业创业政策",
-      "category": "政策",
-      "published": "2026-11-20T08:51:00.000Z",
-      "image": "https://q7.itc.cn/q_70/images03/20261120/f0f32bccfc2244f48114bc30a67ff3c3.jpeg",
-      "score": 55,
-      "tags": []
-    },
-    {
       "id": "63277aad8665",
       "title": "长沙举办“向阳而生、创启湘江” 大学生创业金融服务专场活动",
       "url": "https://finance.sina.com.cn/jjxw/2026-11-23/doc-iniztwiy0456193.shtml",
@@ -266,6 +221,18 @@
       "category": "政策",
       "published": "2026-11-23T05:32:00.000Z",
       "image": "//n.sinaimg.cn/sinakd20261123s/481/w800h481/20261123/ffa0-f8043b75b287790975ca253b48eaef5d.png",
+      "score": 55,
+      "tags": []
+    },
+    {
+      "id": "e6c32086fd86",
+      "title": "最高可贷50万元，湖南优化政策为大学生创业送上金融“活水”",
+      "url": "https://edu.rednet.cn/content/646043/52/16288673.html",
+      "summary": "近日，湖南省出台《关于进一步优化创业担保贷款政策全力支持大学生等重点群体创业的通知》，扩大创业担保贷款覆盖范围、提高贷款额度、降低融资成本，拿出实打实举措，助力青年创新创业。 按照新政策，创业担保贷款",
+      "source": "就业创业政策",
+      "category": "政策",
+      "published": "2026-09-18T01:57:00.000Z",
+      "image": "",
       "score": 55,
       "tags": []
     },
@@ -294,14 +261,14 @@
       "tags": []
     },
     {
-      "id": "56a980231d61",
-      "title": "我市部署2027届高校毕业生就业创业工作 全力促进毕业生高质量充分就业",
-      "url": "https://www.sohu.com/a/1105399901_121106884",
-      "summary": "11月19日，市教委召开全市2027届高校毕业生就业创业工作会，贯彻落实全国会议精神，总结2026年就业工作成效，安排部署下一阶段重点任务。市委教育工委书记、市教委主任刘宴兵出席会议并讲话",
-      "source": "Bing·高校毕业生就业创业政策",
+      "id": "581f66c36b06",
+      "title": "2026-07-01教育部办公厅 国家广播电视总局办公厅关于开展2026年高校毕业生就业典型宣传季活动的通知",
+      "url": "https://www.moe.gov.cn/srcsite/A15/s3265/202611/t20261123_1459236.html",
+      "summary": "2026-07-01教育部办公厅 国家广播电视总局办公厅关于开展2026年高校毕业生就业典型宣传季活动的通知",
+      "source": "教育部",
       "category": "政策",
-      "published": "2026-11-23T12:22:00.000Z",
-      "image": "",
+      "published": "2026-11-23T00:00:00.000Z",
+      "image": "https://www.moe.gov.cn/srcsite/images/scy_jyb_lgo_03.png",
       "score": 50,
       "tags": []
     }
@@ -358,6 +325,24 @@
   ],
   "财经": [
     {
+      "id": "9f27e0a82eea",
+      "title": "“开”出百亿级大市场！义乌仿真花热销全球",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738481.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-11-26T23:23:30.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
+      "id": "4718fbbcdadd",
+      "title": "未来五年，我国服务贸易将迎来哪些新机遇？",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738480.shtml",
+      "source": "中新网财经",
+      "category": "财经",
+      "published": "2026-11-26T23:06:51.000Z",
+      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
+    },
+    {
       "id": "772fa3ddfd18",
       "title": "四大商业银行已与上市公司签订股票回购增持贷款合同超6000亿元",
       "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738467.shtml",
@@ -382,24 +367,6 @@
       "source": "中新网财经",
       "category": "财经",
       "published": "2026-11-26T14:02:09.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "f1716f22f87e",
-      "title": "黑龙江省工商联十二届八次常委会议召开",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738459.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-11-26T13:59:51.000Z",
-      "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
-    },
-    {
-      "id": "eca295c97da9",
-      "title": "北京支持创新医药发展 医企合作持续深化",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-26/10738448.shtml",
-      "source": "中新网财经",
-      "category": "财经",
-      "published": "2026-11-26T13:56:06.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ]
