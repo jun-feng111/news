@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T23:00:02.348Z",
+  "updated": "2026-11-26T04:52:44.162Z",
   "count": 125,
   "sources": {
     "V2EX": 9,
@@ -191,11 +191,30 @@
       "region": "domestic"
     },
     {
-      "id": "remoteok-1138100",
-      "title": "Senior Global Partner Specialist - USA",
-      "company": "Storyblok",
-      "location": "Worldwide",
-      "remote": true,
+      "id": "remoteok-1138104",
+      "title": "Intermediate Security Engineer, Security Incident Response Team (SIRT)",
+      "company": "GitLab",
+      "location": "US Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "devops"
+      ],
+      "category": "devops",
+      "postedDate": "2026-11-25",
+      "url": "https://remoteOK.com/remote-jobs/remote-intermediate-security-engineer-security-incident-response-team-sirt-gitlab-1138104",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1138103",
+      "title": "Senior Executive Assistant, Office of the CRO (EST / CST)",
+      "company": "GitLab",
+      "location": "US Only",
+      "remote": false,
       "salaryText": "",
       "salaryMin": null,
       "salaryMax": null,
@@ -204,8 +223,27 @@
         "other"
       ],
       "category": "other",
-      "postedDate": "2026-11-24",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-global-partner-specialist-usa-storyblok-1138100",
+      "postedDate": "2026-11-25",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-executive-assistant-office-of-the-cro-est-cst-gitlab-1138103",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1138102",
+      "title": "Junior Talent Operations Specialist",
+      "company": "GitLab",
+      "location": "US Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "other"
+      ],
+      "category": "other",
+      "postedDate": "2026-11-25",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-talent-operations-specialist-gitlab-1138102",
       "source": "RemoteOK",
       "region": "foreign"
     },
@@ -225,25 +263,6 @@
       "category": "finance",
       "postedDate": "2026-11-24",
       "url": "https://remoteOK.com/remote-jobs/remote-senior-corporate-accountant-tax-salesloft-1138099",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1138098",
-      "title": "Sr EHR Implementation Manager",
-      "company": "Natera",
-      "location": "US Only",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "exec"
-      ],
-      "category": "exec",
-      "postedDate": "2026-11-24",
-      "url": "https://remoteOK.com/remote-jobs/remote-sr-ehr-implementation-manager-natera-1138098",
       "source": "RemoteOK",
       "region": "foreign"
     },
@@ -1236,25 +1255,6 @@
       "category": "exec",
       "postedDate": "2026-11-21",
       "url": "https://remoteOK.com/remote-jobs/remote-revenue-operations-leader-strategy-planning-contentstack-1137951",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137949",
-      "title": "VP, Customer Experience Operations",
-      "company": "Ping Identity",
-      "location": "US Only",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "devops"
-      ],
-      "category": "devops",
-      "postedDate": "2026-11-21",
-      "url": "https://remoteOK.com/remote-jobs/remote-vp-customer-experience-operations-ping-identity-1137949",
       "source": "RemoteOK",
       "region": "foreign"
     },
