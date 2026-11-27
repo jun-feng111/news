@@ -1,14 +1,38 @@
 {
-  "updated": "2026-11-26T23:31:54.778Z",
-  "count": 124,
+  "updated": "2026-11-27T06:59:43.651Z",
+  "count": 125,
   "sources": {
-    "V2EX": 8,
+    "V2EX": 9,
     "RemoteOK": 100,
     "Remotive": 16,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1260282",
+      "title": "量子计算初创公司招聘发开运维工程师（50%基础设施运维 + 50%全栈开发）",
+      "company": "joywho",
+      "location": "上海张江",
+      "remote": false,
+      "salaryText": "35-45W/年",
+      "salaryMin": 35,
+      "salaryMax": 45,
+      "salaryCurrency": "USD",
+      "skills": [
+        "python",
+        "java",
+        "go",
+        "c++",
+        "kubernetes",
+        "linux"
+      ],
+      "category": "全栈",
+      "postedDate": "2026-11-27",
+      "url": "https://www.v2ex.com/t/1260282",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1260125",
       "title": "微软 CoreAI 团队，招人！",
@@ -162,6 +186,348 @@
       "url": "https://www.v2ex.com/t/1259596",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "remoteok-1138170",
+      "title": "Developer Advocate - Network APIs",
+      "company": "aduna",
+      "location": "US Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "marketing"
+      ],
+      "category": "marketing",
+      "postedDate": "2026-11-26",
+      "url": "https://remoteOK.com/remote-jobs/remote-developer-advocate-network-apis-aduna-1138170",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1138169",
+      "title": "Enterprise Account Executive - Western US",
+      "company": "agiloft",
+      "location": "US Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "sales"
+      ],
+      "category": "sales",
+      "postedDate": "2026-11-26",
+      "url": "https://remoteOK.com/remote-jobs/remote-enterprise-account-executive-western-us-agiloft-1138169",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1138168",
+      "title": "Sales Director - Quality",
+      "company": "Veeva Systems",
+      "location": "UK Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "sales"
+      ],
+      "category": "sales",
+      "postedDate": "2026-11-26",
+      "url": "https://remoteOK.com/remote-jobs/remote-sales-director-quality-veeva-systems-1138168",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1138167",
+      "title": "Partner Director, Federal",
+      "company": "Netomi",
+      "location": "US Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "sales"
+      ],
+      "category": "sales",
+      "postedDate": "2026-11-26",
+      "url": "https://remoteOK.com/remote-jobs/remote-partner-director-federal-netomi-1138167",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1138166",
+      "title": "Enterprise Account Executive - New York",
+      "company": "zimperium",
+      "location": "US Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "sales"
+      ],
+      "category": "sales",
+      "postedDate": "2026-11-26",
+      "url": "https://remoteOK.com/remote-jobs/remote-enterprise-account-executive-new-york-zimperium-1138166",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1138165",
+      "title": "Paid Media Manager (Remote)",
+      "company": "Silverback Strategies",
+      "location": "US Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "marketing"
+      ],
+      "category": "marketing",
+      "postedDate": "2026-11-26",
+      "url": "https://remoteOK.com/remote-jobs/remote-paid-media-manager-remote-silverback-strategies-1138165",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1138164",
+      "title": "Account Executive - Chicago",
+      "company": "Saviynt",
+      "location": "US Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "sales"
+      ],
+      "category": "sales",
+      "postedDate": "2026-11-26",
+      "url": "https://remoteOK.com/remote-jobs/remote-account-executive-chicago-saviynt-1138164",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1138163",
+      "title": "Brazilian Subject Matter Expert in Fandoms (Music, Pop, Disney & Political Memes)",
+      "company": "Welo Data",
+      "location": "US Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "marketing"
+      ],
+      "category": "marketing",
+      "postedDate": "2026-11-26",
+      "url": "https://remoteOK.com/remote-jobs/remote-brazilian-subject-matter-expert-in-fandoms-music-pop-disney-political-memes-welo-data-1138163",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1138162",
+      "title": "Brazilian Subject Matter Expert in Games, Puzzles & Play",
+      "company": "Welo Data",
+      "location": "US Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "marketing"
+      ],
+      "category": "marketing",
+      "postedDate": "2026-11-26",
+      "url": "https://remoteOK.com/remote-jobs/remote-brazilian-subject-matter-expert-in-games-puzzles-play-welo-data-1138162",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1138161",
+      "title": "Brazilian Subject Matter Expert in Home & Garden",
+      "company": "Welo Data",
+      "location": "US Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "marketing"
+      ],
+      "category": "marketing",
+      "postedDate": "2026-11-26",
+      "url": "https://remoteOK.com/remote-jobs/remote-brazilian-subject-matter-expert-in-home-garden-welo-data-1138161",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1138160",
+      "title": "Sales Engineer, US East",
+      "company": "Secure Code Warrior",
+      "location": "US Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "sales"
+      ],
+      "category": "sales",
+      "postedDate": "2026-11-26",
+      "url": "https://remoteOK.com/remote-jobs/remote-sales-engineer-us-east-secure-code-warrior-1138160",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1138159",
+      "title": "Manager, Technical Support",
+      "company": "Coupa",
+      "location": "US Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "customer support"
+      ],
+      "category": "customer support",
+      "postedDate": "2026-11-26",
+      "url": "https://remoteOK.com/remote-jobs/remote-manager-technical-support-coupa-1138159",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1138158",
+      "title": "Consultant - People Science",
+      "company": "Veeva Systems",
+      "location": "US Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "customer support"
+      ],
+      "category": "customer support",
+      "postedDate": "2026-11-26",
+      "url": "https://remoteOK.com/remote-jobs/remote-consultant-people-science-veeva-systems-1138158",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1138157",
+      "title": "Strategic Account Executive - NYC",
+      "company": "Saviynt",
+      "location": "US Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "sales"
+      ],
+      "category": "sales",
+      "postedDate": "2026-11-26",
+      "url": "https://remoteOK.com/remote-jobs/remote-strategic-account-executive-nyc-saviynt-1138157",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1138156",
+      "title": "Client Account Executive",
+      "company": "Jobgether",
+      "location": "US Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "sales"
+      ],
+      "category": "sales",
+      "postedDate": "2026-11-26",
+      "url": "https://remoteOK.com/remote-jobs/remote-client-account-executive-jobgether-1138156",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1138155",
+      "title": "Director of Strategic Accounts, South/Central (TOLA)",
+      "company": "Jobgether",
+      "location": "US Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "sales"
+      ],
+      "category": "sales",
+      "postedDate": "2026-11-26",
+      "url": "https://remoteOK.com/remote-jobs/remote-director-of-strategic-accounts-south-central-tola-jobgether-1138155",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1138154",
+      "title": "Traveling Account Executive - Neurology/Rare Disease",
+      "company": "Jobgether",
+      "location": "US Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "sales"
+      ],
+      "category": "sales",
+      "postedDate": "2026-11-26",
+      "url": "https://remoteOK.com/remote-jobs/remote-traveling-account-executive-neurology-rare-disease-jobgether-1138154",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1138153",
+      "title": "Product Marketing Manager - Ostro",
+      "company": "Veeva Systems",
+      "location": "US Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "marketing"
+      ],
+      "category": "marketing",
+      "postedDate": "2026-11-26",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-marketing-manager-ostro-veeva-systems-1138153",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1138149",
@@ -1779,348 +2145,6 @@
       "category": "sales",
       "postedDate": "2026-11-22",
       "url": "https://remoteOK.com/remote-jobs/remote-business-development-representative-sled-west-gitlab-1137965",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137964",
-      "title": "Regional Sales Director, Canada",
-      "company": "GitLab",
-      "location": "Canada Only",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "sales"
-      ],
-      "category": "sales",
-      "postedDate": "2026-11-22",
-      "url": "https://remoteOK.com/remote-jobs/remote-regional-sales-director-canada-gitlab-1137964",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137963",
-      "title": "Strategic Account Executive - Spain",
-      "company": "GitLab",
-      "location": "Europe",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "sales"
-      ],
-      "category": "sales",
-      "postedDate": "2026-11-22",
-      "url": "https://remoteOK.com/remote-jobs/remote-strategic-account-executive-spain-gitlab-1137963",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137961",
-      "title": "Deal Desk Analyst (Eastern Time Zone Preferred)",
-      "company": "Mixpanel",
-      "location": "US Only",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "other"
-      ],
-      "category": "other",
-      "postedDate": "2026-11-21",
-      "url": "https://remoteOK.com/remote-jobs/remote-deal-desk-analyst-eastern-time-zone-preferred-mixpanel-1137961",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137960",
-      "title": "Director, Revenue Accounting",
-      "company": "6sense",
-      "location": "US Only",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "finance"
-      ],
-      "category": "finance",
-      "postedDate": "2026-11-21",
-      "url": "https://remoteOK.com/remote-jobs/remote-director-revenue-accounting-6sense-1137960",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137959",
-      "title": "Corporate Counsel, Commercial",
-      "company": "Carrot",
-      "location": "Worldwide",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "other"
-      ],
-      "category": "other",
-      "postedDate": "2026-11-21",
-      "url": "https://remoteOK.com/remote-jobs/remote-corporate-counsel-commercial-carrot-1137959",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137958",
-      "title": "Release Strategist, Professional Services",
-      "company": "LaunchDarkly",
-      "location": "US Only",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "product"
-      ],
-      "category": "product",
-      "postedDate": "2026-11-21",
-      "url": "https://remoteOK.com/remote-jobs/remote-release-strategist-professional-services-launchdarkly-1137958",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137957",
-      "title": "Senior Database Engineer",
-      "company": "Bitwarden",
-      "location": "US Only",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "programming"
-      ],
-      "category": "programming",
-      "postedDate": "2026-11-21",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-database-engineer-bitwarden-1137957",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137956",
-      "title": "Staff Data Scientist - Martech Platform (ML/Algos)",
-      "company": "Airbnb",
-      "location": "US Only",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "programming"
-      ],
-      "category": "programming",
-      "postedDate": "2026-11-21",
-      "url": "https://remoteOK.com/remote-jobs/remote-staff-data-scientist-martech-platform-ml-algos-airbnb-1137956",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137955",
-      "title": "Staff Software Engineer, Agentic Tools",
-      "company": "Cribl",
-      "location": "US Only",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "programming"
-      ],
-      "category": "programming",
-      "postedDate": "2026-11-21",
-      "url": "https://remoteOK.com/remote-jobs/remote-staff-software-engineer-agentic-tools-cribl-1137955",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137954",
-      "title": "Senior Software Engineer, Partner Integrations",
-      "company": "Airbnb",
-      "location": "US Only",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "programming"
-      ],
-      "category": "programming",
-      "postedDate": "2026-11-21",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-partner-integrations-airbnb-1137954",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137953",
-      "title": "Vice President, Storytelling & Communications",
-      "company": "6sense",
-      "location": "US Only",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "marketing"
-      ],
-      "category": "marketing",
-      "postedDate": "2026-11-21",
-      "url": "https://remoteOK.com/remote-jobs/remote-vice-president-storytelling-communications-6sense-1137953",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137952",
-      "title": "Private Practice Enablement Specialist (PST)",
-      "company": "Healthie",
-      "location": "Worldwide",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "customer support"
-      ],
-      "category": "customer support",
-      "postedDate": "2026-11-21",
-      "url": "https://remoteOK.com/remote-jobs/remote-private-practice-enablement-specialist-pst-healthie-1137952",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137951",
-      "title": "Revenue Operations Leader, Strategy & Planning",
-      "company": "Contentstack",
-      "location": "US Only",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "exec"
-      ],
-      "category": "exec",
-      "postedDate": "2026-11-21",
-      "url": "https://remoteOK.com/remote-jobs/remote-revenue-operations-leader-strategy-planning-contentstack-1137951",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137948",
-      "title": "Senior Software Engineer - Behavioral Security Products",
-      "company": "Abnormal",
-      "location": "UK Only",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "devops"
-      ],
-      "category": "devops",
-      "postedDate": "2026-11-21",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-behavioral-security-products-abnormal-1137948",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137947",
-      "title": "Senior Manager, Financial Reporting",
-      "company": "ÅURA",
-      "location": "US Only",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "finance"
-      ],
-      "category": "finance",
-      "postedDate": "2026-11-21",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-manager-financial-reporting-oura-1137947",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137946",
-      "title": "Engineering Manager, Ranking Platform",
-      "company": "Reddit",
-      "location": "US Only",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "devops"
-      ],
-      "category": "devops",
-      "postedDate": "2026-11-21",
-      "url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-ranking-platform-reddit-1137946",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137945",
-      "title": "Principal Software Engineer, Infrastructure",
-      "company": "Reddit",
-      "location": "US Only",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "devops"
-      ],
-      "category": "devops",
-      "postedDate": "2026-11-21",
-      "url": "https://remoteOK.com/remote-jobs/remote-principal-software-engineer-infrastructure-reddit-1137945",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1137944",
-      "title": "Enterprise Performance Lead",
-      "company": "Clover Health",
-      "location": "US Only",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "finance"
-      ],
-      "category": "finance",
-      "postedDate": "2026-11-21",
-      "url": "https://remoteOK.com/remote-jobs/remote-enterprise-performance-lead-clover-health-1137944",
       "source": "RemoteOK",
       "region": "foreign"
     },
