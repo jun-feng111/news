@@ -45,7 +45,7 @@
       "category": "科技",
       "published": "2026-11-26T17:00:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/iphone-duo-GettyImages-2301595744.jpg?w=1024",
-      "score": 70,
+      "score": 65,
       "tags": []
     },
     {
@@ -57,7 +57,7 @@
       "category": "科技",
       "published": "2026-11-26T16:00:00.000Z",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jason_and_Lucia_17.117_b11r13mg5.jpg?resize=1200,675",
-      "score": 70,
+      "score": 65,
       "tags": []
     }
   ],
@@ -101,6 +101,18 @@
       "tags": []
     },
     {
+      "id": "19f013546b6e",
+      "title": "[北京五道口][500 元/天] VAST（Tripo）招 AI 全栈研发实习生，做运营工具和 Agent",
+      "url": "https://www.v2ex.com/t/1259822#reply1",
+      "summary": "[北京五道口][500 元/天] VAST（Tripo）招 AI 全栈研发实习生，做运营工具和 Agent",
+      "source": "V2EX·招聘",
+      "category": "就业",
+      "published": "2026-11-25T13:20:09.000Z",
+      "image": "https://cdn.v2ex.com/gravatar/4154832cf94726a5c496d4dd76394276?s=73&d=retro",
+      "score": 60,
+      "tags": []
+    },
+    {
       "id": "e173021fd5b4",
       "title": "[上海 11.21 岗位更新] SHEIN 内推：算法/ Java /AI Agent/安全/测试/iOS/数据/数据库， 20-90k",
       "url": "https://www.v2ex.com/t/1258789#reply2",
@@ -133,18 +145,6 @@
       "category": "就业",
       "published": "2026-11-20T01:43:00.000Z",
       "image": "",
-      "score": 60,
-      "tags": []
-    },
-    {
-      "id": "53f8c7c568b8",
-      "title": "一句自然语言，生成十几步设计流程！AMD Ross让嵌入式开发更省力",
-      "url": "https://news.qq.com/rain/a/20261019A099VZ00",
-      "summary": "这些年，AI芯片性能越发强大，而且越来越强的AI能力，也在反哺芯片设计，不少厂商都在芯片设计中融入AI能力，大大提升效率，尤其是随着AI智能体的兴起和普及，芯片设计更是走上了AI快车道。 近日，AMD",
-      "source": "嵌入式开发·就业分析",
-      "category": "就业",
-      "published": "2026-10-19T09:03:00.000Z",
-      "image": "https://inews.gtimg.com/om_ls/OYcWd2y5zyo41Xu1G-FJLVFGSv-PJX3u9q17E8f0euk8cAA_330330/0",
       "score": 60,
       "tags": []
     }
@@ -225,18 +225,6 @@
       "tags": []
     },
     {
-      "id": "acb8935b0861",
-      "title": "大学生一人创业多人帮 石家庄市举办OPC创业服务进校园活动",
-      "url": "https://news.qq.com/rain/a/20261125A04K8K00",
-      "summary": "大学生一人公司怎样借助AI工具迈出创业第一步。注册公司、申请扶持，又该找谁咨询",
-      "source": "Bing·大学生创业扶持政策",
-      "category": "政策",
-      "published": "2026-11-25T00:57:00.000Z",
-      "image": "",
-      "score": 55,
-      "tags": []
-    },
-    {
       "id": "e6c32086fd86",
       "title": "最高可贷50万元，湖南优化政策为大学生创业送上金融“活水”",
       "url": "https://edu.rednet.cn/content/646043/52/16288673.html",
@@ -244,8 +232,19 @@
       "source": "就业创业政策",
       "category": "政策",
       "published": "2026-09-18T01:57:00.000Z",
-      "image": "",
       "score": 55,
+      "tags": []
+    },
+    {
+      "id": "78012b377f71",
+      "title": "聚力企业服务年&#183;护航青春创业梦——湘潭市大学生就业创业主题 ...",
+      "url": "https://www.sohu.com/a/1106437928_121123789",
+      "summary": "“原来大学生创业可以享受这么多扶持政策，法律风险防范更是创业必修课。”11月24日下午，在团省委指导下，团市委联合市司法局、市教育局、湘潭电化产投等单位，在湖南科技大学举办大学生就业创业主题宣讲进校园",
+      "source": "Bing·大学生就业政策",
+      "category": "政策",
+      "published": "2026-11-25T12:06:00.000Z",
+      "image": "https://q1.itc.cn/q_70/images03/20261126/4842d7dccc35483d88fbf62ba35d52c2.jpeg",
+      "score": 50,
       "tags": []
     },
     {
@@ -261,110 +260,109 @@
       "tags": []
     },
     {
-      "id": "9cfa1bb6d8fd",
-      "title": "上海美术学院举办“源来好创业”大学生创新创业沙龙",
-      "url": "https://www.sohu.com/a/1104904186_121124742",
-      "summary": "11月20日，“源来好创业”大学生创新创业沙龙在延长校区上海美术学院A楼成功举办。本次沙龙活动立足美术学科专业特色，聚焦文创领域大学生创新创业实践，围绕科技园区孵化体系、创业实务流程、扶持政策解读、创",
-      "source": "Bing·大学生创业扶持政策",
+      "id": "a469a255924a",
+      "title": "点亮“逐梦灯塔”，助力高校毕业生“好就业”“就好业”",
+      "url": "https://www.yangtse.com/news/yw/202611/t20261124_415503.html",
+      "summary": "民生无小事，枝叶总关情。就业是经济发展的“晴雨表”、社会稳定的“压舱石”，一头连着百姓福祉、一头连着经济社会发展",
+      "source": "Bing·高校毕业生就业创业政策",
       "category": "政策",
-      "published": "2026-11-22T10:05:00.000Z",
-      "image": "https://q5.itc.cn/q_70/images03/20261122/658b036080f74ad99b88846b57b867e5.jpeg",
+      "published": "2026-11-24T08:56:00.000Z",
       "score": 50,
       "tags": []
     }
   ],
   "财经": [
     {
-      "id": "c728e56a2941",
-      "title": "“外企用脚投票中国”的市场逻辑（经济新方位·八大重点任务看落实）",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738711.shtml",
+      "id": "3b18ae9fe1a2",
+      "title": "聚焦“人工智能+能源” 2026兴隆湖能源电力创新发展大会在蓉举行",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-27/10739072.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-27T06:52:42.000Z",
+      "published": "2026-11-27T13:57:23.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "7464e26d8f24",
-      "title": "从手工取样到智能智造 仿真花“开”出亿级大市场",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738701.shtml",
+      "id": "b5b83ce31a4b",
+      "title": "新能源装机容量十年翻两番 “一带一路”绿色能源合作跑出加速度",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-27/10739074.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-27T06:49:08.000Z",
+      "published": "2026-11-27T13:55:43.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "889b8b5e37d0",
-      "title": "11月27日“农产品批发价格200指数”比昨天上升0.18个点",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738693.shtml",
+      "id": "f026e6932d05",
+      "title": "“广货行天下”冬季行动启动 兼容科技和年味",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-27/10739068.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-27T06:48:22.000Z",
+      "published": "2026-11-27T13:55:25.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "f08eb80ff6e3",
-      "title": "小仙炖以品类创新拉动产业链升级｜一碗鲜炖燕窝背后，中国消费创新的亚太溢出效应",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738690.shtml",
+      "id": "25970ed5f23d",
+      "title": "港股上行 恒生科技指数领跑大市",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-27/10739070.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-27T06:30:27.000Z",
+      "published": "2026-11-27T13:54:13.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     },
     {
-      "id": "a5f095362416",
-      "title": "生命因你更精彩 2026泰康溢彩公益节在京举行",
-      "url": "https://www.chinanews.com.cn/cj/2026/11-27/10738687.shtml",
+      "id": "0d1e96b437f6",
+      "title": "中国国家税务总局公布新修订的《税务行政复议规则》",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-27/10739071.shtml",
       "source": "中新网财经",
       "category": "财经",
-      "published": "2026-11-27T06:24:00.000Z",
+      "published": "2026-11-27T13:53:57.000Z",
       "image": "https://www.chinanews.com.cn/fileftp/2025/07/2025-07-17/U947P4T47D55580F24532DT20250717134135.png"
     }
   ],
   "开发": [
     {
-      "id": "7106a376307b",
-      "title": "Netflix Titus为容器增加单租户VM隔离",
-      "url": "https://www.infoq.cn/article/QqEgs5GtC5gbwqcV5OSR?utm_source=rss&amp;utm_medium=article",
+      "id": "56eb7962d5c4",
+      "title": "股价破发、用户抱怨、创始人套现，Anthropic CEO 深夜回应：我从没想过让 AI 统治人类",
+      "url": "https://www.infoq.cn/article/FDR8k5bNu9eWklHh9NmI?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-11-27T14:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/32/dd/32bf6514f49cb9c9ac9480de432917dd.jpg"
+      "published": "2026-11-27T19:56:26.000Z",
+      "image": "https://static001.infoq.cn/resource/image/a8/b5/a8de48345e88ae04a9db4705a7f70bb5.png"
     },
     {
-      "id": "3a05fa01bf12",
-      "title": "DoorDash利用AI智能体将生鲜杂货复购延迟从16秒降至2秒",
-      "url": "https://www.infoq.cn/article/2uDBVKjk3kJXRb6CqQfu?utm_source=rss&amp;utm_medium=article",
+      "id": "98b85f1ca7b1",
+      "title": "“观测未来大会”前瞻 | AI 时代，可观测性将迎来怎样的进化？",
+      "url": "https://www.infoq.cn/article/deKZOTSuqBy0T3VYMpTE?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-11-27T13:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/2f/91/2f9280765a1f1378ed3d35786bc88591.jpg"
+      "published": "2026-11-27T18:53:18.000Z",
+      "image": "https://static001.infoq.cn/resource/image/27/b7/277eaa98a4d79c8df33fe1d88597c7b7.jpg"
     },
     {
-      "id": "379dd04c28db",
-      "title": "PingCAP数据泄露事件暴露客户记录与源代码",
-      "url": "https://www.infoq.cn/article/6UjMUVRIFFCoUUZzZuqW?utm_source=rss&amp;utm_medium=article",
+      "id": "82597c5c90c4",
+      "title": "如何让Agent 记得住、查得准、改得对？",
+      "url": "https://www.infoq.cn/article/DUG6LEgK9Vi4sGy6QYTW?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-11-27T12:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/5b/16/5b0cc8dd861bb7f4150565b57f2a6516.png"
+      "published": "2026-11-27T17:25:02.000Z",
+      "image": "https://static001.infoq.cn/resource/image/f8/d0/f8e0e4459b714d10090e5280fcac71d0.png"
     },
     {
-      "id": "6bfe8a408297",
-      "title": "JEP 543在JDK 28中结束七轮预览，正式定稿结构化并发功能",
-      "url": "https://www.infoq.cn/article/dsu2PlHW6JXNquGpJZNe?utm_source=rss&amp;utm_medium=article",
+      "id": "270d826f7c76",
+      "title": "瞄准“走偏”与“健忘”两道难题：蚂蚁灵波发布两大模型，补齐机器人空间导航能力",
+      "url": "https://www.infoq.cn/article/zRubhYcrBMTrOvzjlPQN?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-11-27T11:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/9d/d0/9db12b1124d920767559ccbe5b1fced0.jpg"
+      "published": "2026-11-27T16:15:06.000Z",
+      "image": "https://static001.infoq.cn/resource/image/47/fa/47173446f9a0c0858d3e49b06ab030fa.png"
     },
     {
-      "id": "c05b22735e97",
-      "title": "如何在Postgres上实现无需外部编排器的持久化工作流",
-      "url": "https://www.infoq.cn/article/ASHxIY37Q9IFf52OWmo3?utm_source=rss&amp;utm_medium=article",
+      "id": "54a7e124587e",
+      "title": "给 AI 编码智能体装上知识库，反而更费 Token？JioHotstar 测完六种方案，文件搜索依然能打",
+      "url": "https://www.infoq.cn/article/Ql4GGMIEqA3bI2W2lh7h?utm_source=rss&amp;utm_medium=article",
       "source": "InfoQ中文",
       "category": "开发",
-      "published": "2026-11-27T10:00:00.000Z",
-      "image": "https://static001.infoq.cn/resource/image/1c/9d/1c6e0fd9abef2cd8ce7b5dec4cb9e49d.jpg"
+      "published": "2026-11-27T15:00:00.000Z",
+      "image": "https://static001.infoq.cn/resource/image/12/8b/124833c28e4500518c7ff9f5a4bf948b.png"
     }
   ]
 }
