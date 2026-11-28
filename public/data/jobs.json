@@ -1,14 +1,33 @@
 {
-  "updated": "2026-11-28T09:52:52.963Z",
-  "count": 124,
+  "updated": "2026-11-28T17:59:59.943Z",
+  "count": 123,
   "sources": {
     "V2EX": 7,
     "RemoteOK": 100,
-    "Remotive": 17,
+    "Remotive": 16,
     "Arbeitnow": 0,
     "Adzuna": 0
   },
   "jobs": [
+    {
+      "id": "v2ex-1260615",
+      "title": "阿里云智能-全球战略伙伴部-开发工程师招聘",
+      "company": "ebingtel",
+      "location": "国内",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "CNY",
+      "skills": [
+        "阿里云"
+      ],
+      "category": "人力/HR",
+      "postedDate": "2026-11-28",
+      "url": "https://www.v2ex.com/t/1260615",
+      "source": "V2EX",
+      "region": "domestic"
+    },
     {
       "id": "v2ex-1260368",
       "title": "NVIDIA 招聘｜AI Networking 软件工程师",
@@ -138,21 +157,52 @@
       "region": "domestic"
     },
     {
-      "id": "v2ex-1259710",
-      "title": "数据安全客户成功经理-CSM（To B 数据安全安全/零信任方向）",
-      "company": "michael2016",
-      "location": "上海/深圳",
+      "id": "remoteok-1138229",
+      "title": "Senior Data Engineer",
+      "company": "Lemon.io",
+      "location": "Remote",
+      "remote": true,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "engineer",
+        "dev",
+        "full time",
+        "python",
+        "git",
+        "architecture",
+        "sql",
+        "mongo",
+        "remote",
+        "remote work",
+        "apache"
+      ],
+      "category": "engineer",
+      "postedDate": "2026-11-27",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-data-engineer-lemon-io-1138229",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1138228",
+      "title": "Demo Specialist I",
+      "company": "HighLevel",
+      "location": "US Only",
       "remote": false,
       "salaryText": "",
       "salaryMin": null,
       "salaryMax": null,
-      "salaryCurrency": "CNY",
-      "skills": [],
-      "category": "数据",
-      "postedDate": "2026-11-25",
-      "url": "https://www.v2ex.com/t/1259710",
-      "source": "V2EX",
-      "region": "domestic"
+      "salaryCurrency": "",
+      "skills": [
+        "programming"
+      ],
+      "category": "programming",
+      "postedDate": "2026-11-27",
+      "url": "https://remoteOK.com/remote-jobs/remote-demo-specialist-i-highlevel-1138228",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1138227",
@@ -2028,44 +2078,6 @@
       "region": "foreign"
     },
     {
-      "id": "remoteok-1138120",
-      "title": "Senior Sales Engineer - Atlanta",
-      "company": "Saviynt",
-      "location": "US Only",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "sales"
-      ],
-      "category": "sales",
-      "postedDate": "2026-11-25",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-sales-engineer-atlanta-saviynt-1138120",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1138119",
-      "title": "Senior Sales Engineer - Chicago",
-      "company": "Saviynt",
-      "location": "US Only",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "sales"
-      ],
-      "category": "sales",
-      "postedDate": "2026-11-25",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-sales-engineer-chicago-saviynt-1138119",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
       "id": "remotive-2091212",
       "title": "Produktspezialist:in (German-speaking)",
       "company": "Creative Force",
@@ -2476,36 +2488,6 @@
       "category": "Software Development",
       "postedDate": "2026-10-29",
       "url": "https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165",
-      "source": "Remotive",
-      "region": "foreign"
-    },
-    {
-      "id": "remotive-2091135",
-      "title": "Senior Back-end Developerusa",
-      "company": "Lemon.io",
-      "location": "Europe, USA, Canada, Australia, Singapore, Mexico, Saudi Arabia",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        ".Net",
-        "android",
-        "C",
-        "C#",
-        "C++",
-        "cloud",
-        "data science",
-        "golang",
-        "ios",
-        "java",
-        "javascript",
-        "kubernetes"
-      ],
-      "category": "Software Development",
-      "postedDate": "2026-10-27",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-back-end-developerusa-2091135",
       "source": "Remotive",
       "region": "foreign"
     }
