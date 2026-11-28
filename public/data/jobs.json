@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T17:23:31.534Z",
+  "updated": "2026-11-28T01:11:58.570Z",
   "count": 124,
   "sources": {
     "V2EX": 7,
@@ -153,6 +153,93 @@
       "url": "https://www.v2ex.com/t/1259710",
       "source": "V2EX",
       "region": "domestic"
+    },
+    {
+      "id": "remoteok-1138206",
+      "title": "Social Media & Community Manager",
+      "company": "The Global Talent Co.",
+      "location": "Africa",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "marketing"
+      ],
+      "category": "marketing",
+      "postedDate": "2026-11-27",
+      "url": "https://remoteOK.com/remote-jobs/remote-social-media-community-manager-the-global-talent-co-1138206",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1138205",
+      "title": "VP of Brand and Communications",
+      "company": "Oscilar",
+      "location": "US Only",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "marketing"
+      ],
+      "category": "marketing",
+      "postedDate": "2026-11-27",
+      "url": "https://remoteOK.com/remote-jobs/remote-vp-of-brand-and-communications-oscilar-1138205",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1138204",
+      "title": "Account Manager - Poland",
+      "company": "ElevenLabs",
+      "location": "Europe",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "sales"
+      ],
+      "category": "sales",
+      "postedDate": "2026-11-27",
+      "url": "https://remoteOK.com/remote-jobs/remote-account-manager-poland-elevenlabs-1138204",
+      "source": "RemoteOK",
+      "region": "foreign"
+    },
+    {
+      "id": "remoteok-1138202",
+      "title": "Senior Software Developer",
+      "company": "Loopio Inc.",
+      "location": "Toronto",
+      "remote": false,
+      "salaryText": "",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": "",
+      "skills": [
+        "dev",
+        "design",
+        "amazon",
+        "react",
+        "hr",
+        "python",
+        "education",
+        "docker",
+        "technical",
+        "customer support",
+        "transcribing",
+        "testing"
+      ],
+      "category": "dev",
+      "postedDate": "2026-11-27",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-developer-loopio-inc-1138202",
+      "source": "RemoteOK",
+      "region": "foreign"
     },
     {
       "id": "remoteok-1138198",
@@ -2000,82 +2087,6 @@
       "category": "programming",
       "postedDate": "2026-11-24",
       "url": "https://remoteOK.com/remote-jobs/remote-senior-web-engineer-profile-community-airbnb-1138091",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1138090",
-      "title": "Associate, Payment Integrity",
-      "company": "Oscar Health",
-      "location": "Worldwide",
-      "remote": true,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "programming"
-      ],
-      "category": "programming",
-      "postedDate": "2026-11-24",
-      "url": "https://remoteOK.com/remote-jobs/remote-associate-payment-integrity-oscar-health-1138090",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1138089",
-      "title": "District Manager, Enterprise - Healthcare (Southeast)",
-      "company": "Everpure",
-      "location": "US Only",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "sales"
-      ],
-      "category": "sales",
-      "postedDate": "2026-11-24",
-      "url": "https://remoteOK.com/remote-jobs/remote-district-manager-enterprise-healthcare-southeast-everpure-1138089",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1138088",
-      "title": "Senior Account Executive - SaaS Industrials",
-      "company": "Salsify",
-      "location": "US Only",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "sales"
-      ],
-      "category": "sales",
-      "postedDate": "2026-11-24",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-account-executive-saas-industrials-salsify-1138088",
-      "source": "RemoteOK",
-      "region": "foreign"
-    },
-    {
-      "id": "remoteok-1138087",
-      "title": "Partner Sales Manager (Hindi Speaking) - Singapore",
-      "company": "Dropbox",
-      "location": "Asia",
-      "remote": false,
-      "salaryText": "",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": "",
-      "skills": [
-        "sales"
-      ],
-      "category": "sales",
-      "postedDate": "2026-11-24",
-      "url": "https://remoteOK.com/remote-jobs/remote-partner-sales-manager-hindi-speaking-singapore-dropbox-1138087",
       "source": "RemoteOK",
       "region": "foreign"
     },
